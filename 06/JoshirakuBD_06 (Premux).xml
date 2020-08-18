@@ -1,0 +1,70 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>15472437535941073907</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Intro</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapterCountry>jp</ChapterCountry>
+      </ChapterDisplay>
+      <ChapterUID>12737128253073804862</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>OP</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapterCountry>jp</ChapterCountry>
+      </ChapterDisplay>
+      <ChapterUID>5710610500400876711</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:01:30.010000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Part A</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapterCountry>jp</ChapterCountry>
+      </ChapterDisplay>
+      <ChapterUID>12674717756750837649</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:10:19.038000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Part B</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapterCountry>jp</ChapterCountry>
+      </ChapterDisplay>
+      <ChapterUID>3072152451111466930</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:11:44.040000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Part C</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapterCountry>jp</ChapterCountry>
+      </ChapterDisplay>
+      <ChapterUID>3721405537812082507</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:22:09.998000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>ED</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapterCountry>jp</ChapterCountry>
+      </ChapterDisplay>
+      <ChapterUID>4676697387946414420</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:40.005000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Preview</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+        <ChapterCountry>jp</ChapterCountry>
+      </ChapterDisplay>
+      <ChapterUID>10455543494640708539</ChapterUID>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
