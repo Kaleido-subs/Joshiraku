@@ -1,0 +1,10 @@
+*
+!*/
+!.gitignore
+!*.ass
+!*.md
+!*.txt
+!*.xml
+!*.mscx
+!*.midicsv
+!*.csv
