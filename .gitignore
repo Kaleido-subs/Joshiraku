@@ -9,3 +9,5 @@
 !*.midicsv
 !*.csv
 !*.mtxcfg
+!*.otf
+!*.ttf
