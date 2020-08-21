@@ -56,6 +56,7 @@ Dialogue: 10,0:00:54.78,0:00:55.82,Default,,0,0,0,,"You idiot."
 Dialogue: 10,0:00:55.82,0:00:59.91,Default,,0,0,0,,"That's not a delicacy, but a delivery!"
 Dialogue: 10,0:01:01.04,0:01:03.37,Default,,0,0,0,,Thank you for your continued appreciation.
 Dialogue: 10,0:01:19.14,0:01:21.51,Default,,0,0,0,,I learned a lot on stage today.
+Comment: 0,0:01:25.98,0:01:25.98,Default,chapter,0,0,0,,OP
 Comment: 0,0:02:56.03,0:02:56.03,Default,chapter,0,0,0,,Part A
 Dialogue: 10,0:03:31.52,0:03:33.98,Default,,0,0,0,,If you want to read manga, read manga.
 Dialogue: 10,0:03:33.98,0:03:35.61,Default,,0,0,0,,Adapting it into an anime makes no sense!
@@ -451,6 +452,7 @@ Dialogue: 10,0:21:54.45,0:21:56.75,Default,,0,0,0,,Give back our citizens!
 Dialogue: 10,0:21:58.71,0:22:01.54,Default,,0,0,0,,Give back our technology!
 Dialogue: 10,0:22:02.75,0:22:06.01,Default,,0,0,0,,Give back our submarine resources!
 Dialogue: 10,0:22:06.76,0:22:10.10,Default,,0,0,0,,Give back everyone's money!
+Comment: 0,0:22:10.10,0:22:10.10,Default,chapter,0,0,0,,ED
 Comment: 0,0:23:40.10,0:23:40.10,Default,chapter,0,0,0,,Preview
 Dialogue: 10,0:23:40.94,0:23:42.85,Default,,0,0,0,,Tetora Bouhatei here.
 Dialogue: 10,0:23:42.85,0:23:46.69,Default,,0,0,0,,Thank you so much for stopping by.
@@ -459,5 +461,3 @@ Dialogue: 10,0:23:49.78,0:23:56.41,Default,,0,0,0,,{\q2}Be careful. If you sleep
 Dialogue: 10,0:23:57.24,0:23:59.50,Default,,0,0,0,,{\q2}So anyway, here's what's in the \Nnext episode of Rakugo Girls:
 Dialogue: 10,0:24:00.16,0:24:06.54,Default,,0,0,0,,"Backstage Wealth", "Tower Trip", \Nand "Girl with a Cold".
 Dialogue: 10,0:24:06.54,0:24:09.05,Default,,0,0,0,,See you there!
-Comment: 0,0:01:25.98,0:01:25.98,Default,chapter,0,0,0,,OP
-Comment: 0,0:22:10.10,0:22:10.10,Default,chapter,0,0,0,,ED
