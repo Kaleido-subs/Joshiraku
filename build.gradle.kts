@@ -2,6 +2,7 @@
 import myaa.subkt.tasks.*
 import myaa.subkt.tasks.Mux.*
 import myaa.subkt.tasks.Nyaa.*
+import myaa.subkt.ass.EventLineAccessor
 import java.awt.Color
 import java.time.*
 
@@ -14,23 +15,22 @@ subs {
     episodes(getList("episodes"))
 
     merge {
-        from(get("dialogue")) {
-            incrementLayer(10)
+        from(get("dialogue"))
+
+        if (propertyExists("OP")) {
+            from(get("OP")) {
+                syncTargetTime(getAs<Duration>("opsync"))
+            }
         }
 
-        if (file(get("OP")).exists()) {
-            from(get("OP"))
+        if (propertyExists("ED")) {
+            from(get("ED")) {
+                syncTargetTime(getAs<Duration>("edsync"))
+            }
         }
 
-        if (file(get("ED")).exists()) {
-            from(get("ED"))
-        }
 
-        if (file(get("IS")).exists()) {
-            from(get("IS"))
-        }
-
-        if (file(get("TS")).exists()) {
+        if (propertyExists("TS")) {
             from(get("TS"))
         }
 
@@ -38,7 +38,7 @@ subs {
     }
 
     chapters {
-        from(get("chapters"))
+        from(merge.item())
         chapterMarker("chapter")
     }
 
@@ -51,7 +51,7 @@ subs {
 		from(merge.item()) {
 			tracks {
 				lang("eng")
-                name("Kaleido-subs")
+                name(get("group"))
 				default(true)
 				forced(false)
 				compression(CompressionType.ZLIB)
