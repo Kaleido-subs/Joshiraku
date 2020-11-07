@@ -289,9 +289,11 @@ Dialogue: 3,0:00:07.82,0:00:07.99,ED1 - ROM,,0,0,0,,{\pos(641.053,660)\bord0\3a&
 Dialogue: 0,0:00:07.86,0:00:07.95,ED1 - ROM,,0,0,0,,{\pos(641.06,660)\bord6.67\alpha&H80&\blur2.67}jugemu jugemu gokou no surikire
 Dialogue: 1,0:00:07.86,0:00:07.95,ED1 - ROM,,0,0,0,,{\pos(641.06,660)\bord6.67\3a&H80&\blur0.8}jugemu jugemu gokou no surikire
 Dialogue: 2,0:00:07.86,0:00:07.95,ED1 - ROM,,0,0,0,,{\pos(641.06,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}jugemu jugemu gokou no surikire
+Dialogue: 3,0:00:07.86,0:00:07.95,ED1 - ROM,,0,0,0,,{\pos(641.06,660)\bord0\3a&H80&\4a&HFF&\blur0.47}jugemu jugemu gokou no surikire
 Dialogue: 0,0:00:07.95,0:00:07.99,ED1 - ROM,,0,0,0,,{\pos(640.98,660)\bord6.67\alpha&H80&\blur2.67}jugemu jugemu gokou no surikire
 Dialogue: 1,0:00:07.95,0:00:07.99,ED1 - ROM,,0,0,0,,{\pos(640.98,660)\bord6.67\3a&H80&\blur0.8}jugemu jugemu gokou no surikire
 Dialogue: 2,0:00:07.95,0:00:07.99,ED1 - ROM,,0,0,0,,{\pos(640.98,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}jugemu jugemu gokou no surikire
+Dialogue: 3,0:00:07.95,0:00:07.99,ED1 - ROM,,0,0,0,,{\pos(640.98,660)\bord0\3a&H80&\4a&HFF&\blur0.47}jugemu jugemu gokou no surikire
 Dialogue: 0,0:00:07.99,0:00:08.03,ED1 - ROM,,0,0,0,,{\pos(652.587,660)\bord6.67\alpha&H80&\blur2.67}jugemu jugemu gokou no surikire
 Dialogue: 1,0:00:07.99,0:00:08.03,ED1 - ROM,,0,0,0,,{\pos(652.587,660)\bord6.67\3a&H80&\blur0.8}jugemu jugemu gokou no surikire
 Dialogue: 2,0:00:07.99,0:00:08.03,ED1 - ROM,,0,0,0,,{\pos(652.587,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}jugemu jugemu gokou no surikire
@@ -733,10 +735,11 @@ Dialogue: 3,0:00:10.62,0:00:10.66,ED1 - ROM,,0,0,0,,{\pos(632.093,660)\bord0\3a&
 Dialogue: 0,0:00:10.66,0:00:10.70,ED1 - ROM,,0,0,0,,{\pos(631.013,660)\bord6.67\alpha&H80&\blur2.67}unraimatsu fuuraimatsu
 Dialogue: 1,0:00:10.66,0:00:10.70,ED1 - ROM,,0,0,0,,{\pos(631.013,660)\bord6.67\3a&H80&\blur0.8}unraimatsu fuuraimatsu
 Dialogue: 2,0:00:10.66,0:00:10.70,ED1 - ROM,,0,0,0,,{\pos(631.013,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}unraimatsu fuuraimatsu
-Dialogue: 3,0:00:10.66,0:00:10.74,ED1 - ROM,,0,0,0,,{\pos(631.013,660)\bord0\3a&H80&\4a&HFF&\blur0.47}unraimatsu fuuraimatsu
+Dialogue: 3,0:00:10.66,0:00:10.70,ED1 - ROM,,0,0,0,,{\pos(631.013,660)\bord0\3a&H80&\4a&HFF&\blur0.47}unraimatsu fuuraimatsu
 Dialogue: 0,0:00:10.70,0:00:10.74,ED1 - ROM,,0,0,0,,{\pos(630.967,660)\bord6.67\alpha&H80&\blur2.67}unraimatsu fuuraimatsu
 Dialogue: 1,0:00:10.70,0:00:10.74,ED1 - ROM,,0,0,0,,{\pos(630.967,660)\bord6.67\3a&H80&\blur0.8}unraimatsu fuuraimatsu
 Dialogue: 2,0:00:10.70,0:00:10.74,ED1 - ROM,,0,0,0,,{\pos(630.967,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}unraimatsu fuuraimatsu
+Dialogue: 3,0:00:10.70,0:00:10.74,ED1 - ROM,,0,0,0,,{\pos(630.967,660)\bord0\3a&H80&\4a&HFF&\blur0.47}unraimatsu fuuraimatsu
 Dialogue: 0,0:00:10.74,0:00:10.78,ED1 - ROM,,0,0,0,,{\pos(629.933,660)\bord6.67\alpha&H80&\blur2.67}unraimatsu fuuraimatsu
 Dialogue: 1,0:00:10.74,0:00:10.78,ED1 - ROM,,0,0,0,,{\pos(629.933,660)\bord6.67\3a&H80&\blur0.8}unraimatsu fuuraimatsu
 Dialogue: 2,0:00:10.74,0:00:10.78,ED1 - ROM,,0,0,0,,{\pos(629.933,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}unraimatsu fuuraimatsu
@@ -983,9 +986,8 @@ Dialogue: 2,0:00:13.24,0:00:13.33,ED1 - ENG,,0,0,0,,{\pos(647.153,700)\c&H000000
 Dialogue: 3,0:00:13.24,0:00:13.33,ED1 - ENG,,0,0,0,,{\pos(647.153,700)\bord0\3a&H80&\4a&HFF&\blur0.47}May you always have your daily bread!
 Dialogue: 0,0:00:13.33,0:00:13.41,ED1 - ENG,,0,0,0,,{\pos(640.007,700)\bord6.13\alpha&H80&\blur2.67}May you always have your daily bread!
 Dialogue: 1,0:00:13.33,0:00:13.41,ED1 - ENG,,0,0,0,,{\pos(640.007,700)\bord6.13\3a&H80&\blur0.8}May you always have your daily bread!
-Dialogue: 2,0:00:13.33,0:00:13.37,ED1 - ENG,,0,0,0,,{\pos(640.007,700)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}May you always have your daily bread!
+Dialogue: 2,0:00:13.33,0:00:13.41,ED1 - ENG,,0,0,0,,{\pos(640.007,700)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}May you always have your daily bread!
 Dialogue: 3,0:00:13.33,0:00:13.41,ED1 - ENG,,0,0,0,,{\pos(640.007,700)\bord0\3a&H80&\4a&HFF&\blur0.47}May you always have your daily bread!
-Dialogue: 2,0:00:13.37,0:00:13.41,ED1 - ENG,,0,0,0,,{\c&H000000&\3a&H80&\4a&HFF&\blur0.47}May you always have your daily bread!
 Dialogue: 0,0:00:11.91,0:00:11.95,ED1 - ROM,,0,0,0,,{\pos(636.62,660)\bord6.67\alpha&H80&\blur2.67}kuuneru tokoro ni sumu tokoro
 Dialogue: 1,0:00:11.91,0:00:11.95,ED1 - ROM,,0,0,0,,{\pos(636.62,660)\bord6.67\3a&H80&\blur0.8}kuuneru tokoro ni sumu tokoro
 Dialogue: 2,0:00:11.91,0:00:11.95,ED1 - ROM,,0,0,0,,{\pos(636.62,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}kuuneru tokoro ni sumu tokoro
@@ -1120,9 +1122,8 @@ Dialogue: 2,0:00:13.24,0:00:13.33,ED1 - ROM,,0,0,0,,{\pos(647.153,660)\c&H000000
 Dialogue: 3,0:00:13.24,0:00:13.33,ED1 - ROM,,0,0,0,,{\pos(647.153,660)\bord0\3a&H80&\4a&HFF&\blur0.47}kuuneru tokoro ni sumu tokoro
 Dialogue: 0,0:00:13.33,0:00:13.41,ED1 - ROM,,0,0,0,,{\pos(640.007,660)\bord6.67\alpha&H80&\blur2.67}kuuneru tokoro ni sumu tokoro
 Dialogue: 1,0:00:13.33,0:00:13.41,ED1 - ROM,,0,0,0,,{\pos(640.007,660)\bord6.67\3a&H80&\blur0.8}kuuneru tokoro ni sumu tokoro
-Dialogue: 2,0:00:13.33,0:00:13.37,ED1 - ROM,,0,0,0,,{\pos(640.007,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}kuuneru tokoro ni sumu tokoro
+Dialogue: 2,0:00:13.33,0:00:13.41,ED1 - ROM,,0,0,0,,{\pos(640.007,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}kuuneru tokoro ni sumu tokoro
 Dialogue: 3,0:00:13.33,0:00:13.41,ED1 - ROM,,0,0,0,,{\pos(640.007,660)\bord0\3a&H80&\4a&HFF&\blur0.47}kuuneru tokoro ni sumu tokoro
-Dialogue: 2,0:00:13.37,0:00:13.41,ED1 - ROM,,0,0,0,,{\pos(640,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}kuuneru tokoro ni sumu tokoro
 Dialogue: 0,0:00:13.41,0:00:13.45,ED1 - ENG,,0,0,0,,{\pos(641.007,700)\bord6.13\alpha&H80&\blur2.67}And always be brimming full of life
 Dialogue: 1,0:00:13.41,0:00:13.45,ED1 - ENG,,0,0,0,,{\pos(641.007,700)\bord6.13\3a&H80&\blur0.8}And always be brimming full of life
 Dialogue: 2,0:00:13.41,0:00:13.45,ED1 - ENG,,0,0,0,,{\pos(641.007,700)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}And always be brimming full of life
@@ -1225,9 +1226,8 @@ Dialogue: 2,0:00:14.41,0:00:14.45,ED1 - ENG,,0,0,0,,{\pos(653.733,700)\c&H000000
 Dialogue: 3,0:00:14.41,0:00:14.45,ED1 - ENG,,0,0,0,,{\pos(653.733,700)\bord0\3a&H80&\4a&HFF&\blur0.47}And always be brimming full of life
 Dialogue: 0,0:00:14.45,0:00:14.54,ED1 - ENG,,0,0,0,,{\pos(652.093,700)\bord6.13\alpha&H80&\blur2.67}And always be brimming full of life
 Dialogue: 1,0:00:14.45,0:00:14.54,ED1 - ENG,,0,0,0,,{\pos(652.093,700)\bord6.13\3a&H80&\blur0.8}And always be brimming full of life
-Dialogue: 2,0:00:14.45,0:00:14.49,ED1 - ENG,,0,0,0,,{\pos(652.093,700)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}And always be brimming full of life
+Dialogue: 2,0:00:14.45,0:00:14.54,ED1 - ENG,,0,0,0,,{\pos(652.093,700)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}And always be brimming full of life
 Dialogue: 3,0:00:14.45,0:00:14.54,ED1 - ENG,,0,0,0,,{\pos(652.093,700)\bord0\3a&H80&\4a&HFF&\blur0.47}And always be brimming full of life
-Dialogue: 2,0:00:14.49,0:00:14.54,ED1 - ENG,,0,0,0,,{\pos(652.087,700)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}And always be brimming full of life
 Dialogue: 0,0:00:14.54,0:00:14.58,ED1 - ENG,,0,0,0,,{\pos(650.153,700)\bord6.13\alpha&H80&\blur2.67}And always be brimming full of life
 Dialogue: 1,0:00:14.54,0:00:14.58,ED1 - ENG,,0,0,0,,{\pos(650.153,700)\bord6.13\3a&H80&\blur0.8}And always be brimming full of life
 Dialogue: 2,0:00:14.54,0:00:14.58,ED1 - ENG,,0,0,0,,{\pos(650.153,700)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}And always be brimming full of life
@@ -1356,9 +1356,8 @@ Dialogue: 1,0:00:14.41,0:00:14.45,ED1 - ROM,,0,0,0,,{\pos(653.733,660)\bord6.67\
 Dialogue: 2,0:00:14.41,0:00:14.45,ED1 - ROM,,0,0,0,,{\pos(653.733,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}yaburakouji no burakouji
 Dialogue: 0,0:00:14.45,0:00:14.54,ED1 - ROM,,0,0,0,,{\pos(652.093,660)\bord6.67\alpha&H80&\blur2.67}yaburakouji no burakouji
 Dialogue: 1,0:00:14.45,0:00:14.54,ED1 - ROM,,0,0,0,,{\pos(652.093,660)\bord6.67\3a&H80&\blur0.8}yaburakouji no burakouji
-Dialogue: 2,0:00:14.45,0:00:14.49,ED1 - ROM,,0,0,0,,{\pos(652.093,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}yaburakouji no burakouji
+Dialogue: 2,0:00:14.45,0:00:14.54,ED1 - ROM,,0,0,0,,{\pos(652.093,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}yaburakouji no burakouji
 Dialogue: 3,0:00:14.45,0:00:14.54,ED1 - ROM,,0,0,0,,{\pos(652.093,660)\bord0\3a&H80&\4a&HFF&\blur0.47}yaburakouji no burakouji
-Dialogue: 2,0:00:14.49,0:00:14.54,ED1 - ROM,,0,0,0,,{\pos(652.087,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}yaburakouji no burakouji
 Dialogue: 0,0:00:14.54,0:00:14.58,ED1 - ROM,,0,0,0,,{\pos(650.153,660)\bord6.67\alpha&H80&\blur2.67}yaburakouji no burakouji
 Dialogue: 1,0:00:14.54,0:00:14.58,ED1 - ROM,,0,0,0,,{\pos(650.153,660)\bord6.67\3a&H80&\blur0.8}yaburakouji no burakouji
 Dialogue: 2,0:00:14.54,0:00:14.58,ED1 - ROM,,0,0,0,,{\pos(650.153,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}yaburakouji no burakouji
@@ -1367,12 +1366,10 @@ Dialogue: 0,0:00:14.58,0:00:14.62,ED1 - ROM,,0,0,0,,{\pos(651.687,660)\bord6.67\
 Dialogue: 1,0:00:14.58,0:00:14.62,ED1 - ROM,,0,0,0,,{\pos(651.687,660)\bord6.67\3a&H80&\blur0.8}yaburakouji no burakouji
 Dialogue: 2,0:00:14.58,0:00:14.62,ED1 - ROM,,0,0,0,,{\pos(651.687,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}yaburakouji no burakouji
 Dialogue: 3,0:00:14.58,0:00:14.62,ED1 - ROM,,0,0,0,,{\pos(651.687,660)\bord0\3a&H80&\4a&HFF&\blur0.47}yaburakouji no burakouji
-Dialogue: 0,0:00:14.62,0:00:14.66,ED1 - ROM,,0,0,0,,{\pos(653.407,660)\bord6.67\alpha&H80&\blur2.67}yaburakouji no burakouji
+Dialogue: 0,0:00:14.62,0:00:14.70,ED1 - ROM,,0,0,0,,{\pos(653.407,660)\bord6.67\alpha&H80&\blur2.67}yaburakouji no burakouji
 Dialogue: 1,0:00:14.62,0:00:14.70,ED1 - ROM,,0,0,0,,{\pos(653.407,660)\bord6.67\3a&H80&\blur0.8}yaburakouji no burakouji
-Dialogue: 2,0:00:14.62,0:00:14.66,ED1 - ROM,,0,0,0,,{\pos(653.407,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}yaburakouji no burakouji
+Dialogue: 2,0:00:14.62,0:00:14.70,ED1 - ROM,,0,0,0,,{\pos(653.407,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}yaburakouji no burakouji
 Dialogue: 3,0:00:14.62,0:00:14.70,ED1 - ROM,,0,0,0,,{\pos(653.407,660)\bord0\3a&H80&\4a&HFF&\blur0.47}yaburakouji no burakouji
-Dialogue: 0,0:00:14.66,0:00:14.70,ED1 - ROM,,0,0,0,,{\pos(653.427,660)\bord6.67\alpha&H80&\blur2.67}yaburakouji no burakouji
-Dialogue: 2,0:00:14.66,0:00:14.70,ED1 - ROM,,0,0,0,,{\pos(653.427,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}yaburakouji no burakouji
 Dialogue: 0,0:00:14.70,0:00:14.74,ED1 - ROM,,0,0,0,,{\pos(646.78,660)\bord6.67\alpha&H80&\blur2.67}yaburakouji no burakouji
 Dialogue: 1,0:00:14.70,0:00:14.74,ED1 - ROM,,0,0,0,,{\pos(646.78,660)\bord6.67\3a&H80&\blur0.8}yaburakouji no burakouji
 Dialogue: 2,0:00:14.70,0:00:14.74,ED1 - ROM,,0,0,0,,{\pos(646.78,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}yaburakouji no burakouji
@@ -1649,31 +1646,22 @@ Dialogue: 0,0:00:14.95,0:00:14.99,ED1 - ROM,,0,0,0,,{\pos(585.44,660)\bord6.67\a
 Dialogue: 1,0:00:14.95,0:00:14.99,ED1 - ROM,,0,0,0,,{\pos(585.44,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
 Dialogue: 2,0:00:14.95,0:00:14.99,ED1 - ROM,,0,0,0,,{\pos(585.44,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
 Dialogue: 3,0:00:14.95,0:00:14.99,ED1 - ROM,,0,0,0,,{\pos(585.44,660)\bord0\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
-Dialogue: 0,0:00:14.99,0:00:15.04,ED1 - ROM,,0,0,0,,{\pos(582.44,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
-Dialogue: 1,0:00:14.99,0:00:15.04,ED1 - ROM,,0,0,0,,{\pos(582.44,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
-Dialogue: 2,0:00:14.99,0:00:15.04,ED1 - ROM,,0,0,0,,{\pos(582.44,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
+Dialogue: 0,0:00:14.99,0:00:15.08,ED1 - ROM,,0,0,0,,{\pos(582.44,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
+Dialogue: 1,0:00:14.99,0:00:15.08,ED1 - ROM,,0,0,0,,{\pos(582.44,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
+Dialogue: 2,0:00:14.99,0:00:15.08,ED1 - ROM,,0,0,0,,{\pos(582.44,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
 Dialogue: 3,0:00:14.99,0:00:15.08,ED1 - ROM,,0,0,0,,{\pos(582.44,660)\bord0\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
-Dialogue: 0,0:00:15.04,0:00:15.08,ED1 - ROM,,0,0,0,,{\pos(582.507,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
-Dialogue: 1,0:00:15.04,0:00:15.08,ED1 - ROM,,0,0,0,,{\pos(582.507,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
-Dialogue: 2,0:00:15.04,0:00:15.08,ED1 - ROM,,0,0,0,,{\pos(582.507,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
 Dialogue: 0,0:00:15.08,0:00:15.12,ED1 - ROM,,0,0,0,,{\pos(584.487,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
 Dialogue: 1,0:00:15.08,0:00:15.12,ED1 - ROM,,0,0,0,,{\pos(584.487,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
 Dialogue: 2,0:00:15.08,0:00:15.12,ED1 - ROM,,0,0,0,,{\pos(584.487,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
 Dialogue: 3,0:00:15.08,0:00:15.12,ED1 - ROM,,0,0,0,,{\pos(584.487,660)\bord0\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
-Dialogue: 0,0:00:15.12,0:00:15.16,ED1 - ROM,,0,0,0,,{\pos(586.647,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
-Dialogue: 1,0:00:15.12,0:00:15.16,ED1 - ROM,,0,0,0,,{\pos(586.647,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
-Dialogue: 2,0:00:15.12,0:00:15.16,ED1 - ROM,,0,0,0,,{\pos(586.647,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
+Dialogue: 0,0:00:15.12,0:00:15.20,ED1 - ROM,,0,0,0,,{\pos(586.647,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
+Dialogue: 1,0:00:15.12,0:00:15.20,ED1 - ROM,,0,0,0,,{\pos(586.647,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
+Dialogue: 2,0:00:15.12,0:00:15.20,ED1 - ROM,,0,0,0,,{\pos(586.647,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
 Dialogue: 3,0:00:15.12,0:00:15.20,ED1 - ROM,,0,0,0,,{\pos(586.647,660)\bord0\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
-Dialogue: 0,0:00:15.16,0:00:15.20,ED1 - ROM,,0,0,0,,{\pos(586.613,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
-Dialogue: 1,0:00:15.16,0:00:15.20,ED1 - ROM,,0,0,0,,{\pos(586.613,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
-Dialogue: 2,0:00:15.16,0:00:15.20,ED1 - ROM,,0,0,0,,{\pos(586.613,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
-Dialogue: 0,0:00:15.20,0:00:15.25,ED1 - ROM,,0,0,0,,{\pos(587.28,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
-Dialogue: 1,0:00:15.20,0:00:15.25,ED1 - ROM,,0,0,0,,{\pos(587.28,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
-Dialogue: 2,0:00:15.20,0:00:15.25,ED1 - ROM,,0,0,0,,{\pos(587.28,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
+Dialogue: 0,0:00:15.20,0:00:15.29,ED1 - ROM,,0,0,0,,{\pos(587.28,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
+Dialogue: 1,0:00:15.20,0:00:15.29,ED1 - ROM,,0,0,0,,{\pos(587.28,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
+Dialogue: 2,0:00:15.20,0:00:15.29,ED1 - ROM,,0,0,0,,{\pos(587.28,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
 Dialogue: 3,0:00:15.20,0:00:15.29,ED1 - ROM,,0,0,0,,{\pos(587.28,660)\bord0\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
-Dialogue: 0,0:00:15.25,0:00:15.29,ED1 - ROM,,0,0,0,,{\pos(587.24,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
-Dialogue: 1,0:00:15.25,0:00:15.29,ED1 - ROM,,0,0,0,,{\pos(587.24,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
-Dialogue: 2,0:00:15.25,0:00:15.29,ED1 - ROM,,0,0,0,,{\pos(587.24,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
 Dialogue: 0,0:00:15.29,0:00:15.33,ED1 - ROM,,0,0,0,,{\pos(590.52,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
 Dialogue: 1,0:00:15.29,0:00:15.33,ED1 - ROM,,0,0,0,,{\pos(590.52,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
 Dialogue: 2,0:00:15.29,0:00:15.33,ED1 - ROM,,0,0,0,,{\pos(590.52,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
@@ -1730,13 +1718,10 @@ Dialogue: 0,0:00:15.83,0:00:15.87,ED1 - ROM,,0,0,0,,{\pos(609.4,660)\bord6.67\al
 Dialogue: 1,0:00:15.83,0:00:15.87,ED1 - ROM,,0,0,0,,{\pos(609.4,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
 Dialogue: 2,0:00:15.83,0:00:15.87,ED1 - ROM,,0,0,0,,{\pos(609.4,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
 Dialogue: 3,0:00:15.83,0:00:15.87,ED1 - ROM,,0,0,0,,{\pos(609.4,660)\bord0\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
-Dialogue: 0,0:00:15.87,0:00:15.91,ED1 - ROM,,0,0,0,,{\pos(607.933,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
-Dialogue: 1,0:00:15.87,0:00:15.91,ED1 - ROM,,0,0,0,,{\pos(607.933,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
-Dialogue: 2,0:00:15.87,0:00:15.91,ED1 - ROM,,0,0,0,,{\pos(607.933,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
+Dialogue: 0,0:00:15.87,0:00:15.95,ED1 - ROM,,0,0,0,,{\pos(607.933,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
+Dialogue: 1,0:00:15.87,0:00:15.95,ED1 - ROM,,0,0,0,,{\pos(607.933,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
+Dialogue: 2,0:00:15.87,0:00:15.95,ED1 - ROM,,0,0,0,,{\pos(607.933,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
 Dialogue: 3,0:00:15.87,0:00:15.95,ED1 - ROM,,0,0,0,,{\pos(607.933,660)\bord0\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
-Dialogue: 0,0:00:15.91,0:00:15.95,ED1 - ROM,,0,0,0,,{\pos(607.88,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
-Dialogue: 1,0:00:15.91,0:00:15.95,ED1 - ROM,,0,0,0,,{\pos(607.88,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
-Dialogue: 2,0:00:15.91,0:00:15.95,ED1 - ROM,,0,0,0,,{\pos(607.88,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
 Dialogue: 0,0:00:15.95,0:00:16.04,ED1 - ROM,,0,0,0,,{\pos(606.473,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
 Dialogue: 1,0:00:15.95,0:00:16.04,ED1 - ROM,,0,0,0,,{\pos(606.473,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
 Dialogue: 2,0:00:15.95,0:00:16.04,ED1 - ROM,,0,0,0,,{\pos(606.473,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
@@ -1785,16 +1770,10 @@ Dialogue: 0,0:00:16.50,0:00:16.54,ED1 - ROM,,0,0,0,,{\pos(589.513,660)\bord6.67\
 Dialogue: 1,0:00:16.50,0:00:16.54,ED1 - ROM,,0,0,0,,{\pos(589.513,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
 Dialogue: 2,0:00:16.50,0:00:16.54,ED1 - ROM,,0,0,0,,{\pos(589.513,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
 Dialogue: 3,0:00:16.50,0:00:16.58,ED1 - ROM,,0,0,0,,{\pos(589.513,660)\bord0\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
-Dialogue: 0,0:00:16.54,0:00:16.58,ED1 - ROM,,0,0,0,,{\pos(589.46,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
-Dialogue: 1,0:00:16.54,0:00:16.58,ED1 - ROM,,0,0,0,,{\pos(589.46,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
-Dialogue: 2,0:00:16.54,0:00:16.58,ED1 - ROM,,0,0,0,,{\pos(589.46,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
-Dialogue: 0,0:00:16.58,0:00:16.62,ED1 - ROM,,0,0,0,,{\pos(594.64,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
-Dialogue: 1,0:00:16.58,0:00:16.62,ED1 - ROM,,0,0,0,,{\pos(594.64,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
-Dialogue: 2,0:00:16.58,0:00:16.62,ED1 - ROM,,0,0,0,,{\pos(594.64,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
+Dialogue: 0,0:00:16.58,0:00:16.66,ED1 - ROM,,0,0,0,,{\pos(594.64,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
+Dialogue: 1,0:00:16.58,0:00:16.66,ED1 - ROM,,0,0,0,,{\pos(594.64,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
+Dialogue: 2,0:00:16.58,0:00:16.66,ED1 - ROM,,0,0,0,,{\pos(594.64,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
 Dialogue: 3,0:00:16.58,0:00:16.66,ED1 - ROM,,0,0,0,,{\pos(594.64,660)\bord0\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
-Dialogue: 0,0:00:16.62,0:00:16.66,ED1 - ROM,,0,0,0,,{\pos(594.66,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
-Dialogue: 1,0:00:16.62,0:00:16.66,ED1 - ROM,,0,0,0,,{\pos(594.66,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
-Dialogue: 2,0:00:16.62,0:00:16.66,ED1 - ROM,,0,0,0,,{\pos(594.66,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
 Dialogue: 0,0:00:16.66,0:00:16.70,ED1 - ROM,,0,0,0,,{\pos(599.173,660)\bord6.67\alpha&H80&\blur2.67}paipo paipo paipo no shuringan
 Dialogue: 1,0:00:16.66,0:00:16.70,ED1 - ROM,,0,0,0,,{\pos(599.173,660)\bord6.67\3a&H80&\blur0.8}paipo paipo paipo no shuringan
 Dialogue: 2,0:00:16.66,0:00:16.70,ED1 - ROM,,0,0,0,,{\pos(599.173,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}paipo paipo paipo no shuringan
@@ -2013,9 +1992,8 @@ Dialogue: 2,0:00:20.54,0:00:20.58,ED1 - ENG,,0,0,0,,{\pos(650.407,700)\c&H000000
 Dialogue: 3,0:00:20.54,0:00:20.58,ED1 - ENG,,0,0,0,,{\pos(650.407,700)\bord0\3a&H80&\4a&HFF&\blur0.47}And his dear wife, Gurindai
 Dialogue: 0,0:00:20.58,0:00:20.71,ED1 - ENG,,0,0,0,,{\pos(651.407,700)\bord6.13\alpha&H80&\blur2.67}And his dear wife, Gurindai
 Dialogue: 1,0:00:20.58,0:00:20.71,ED1 - ENG,,0,0,0,,{\pos(651.407,700)\bord6.13\3a&H80&\blur0.8}And his dear wife, Gurindai
-Dialogue: 2,0:00:20.58,0:00:20.63,ED1 - ENG,,0,0,0,,{\pos(651.407,700)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}And his dear wife, Gurindai
+Dialogue: 2,0:00:20.58,0:00:20.71,ED1 - ENG,,0,0,0,,{\pos(651.407,700)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}And his dear wife, Gurindai
 Dialogue: 3,0:00:20.58,0:00:20.71,ED1 - ENG,,0,0,0,,{\pos(651.407,700)\bord0\3a&H80&\4a&HFF&\blur0.47}And his dear wife, Gurindai
-Dialogue: 2,0:00:20.63,0:00:20.71,ED1 - ENG,,0,0,0,,{\pos(651.413,700)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}And his dear wife, Gurindai
 Dialogue: 0,0:00:20.71,0:00:20.75,ED1 - ENG,,0,0,0,,{\pos(651.42,700)\bord6.13\alpha&H80&\blur2.67}And his dear wife, Gurindai
 Dialogue: 1,0:00:20.71,0:00:20.75,ED1 - ENG,,0,0,0,,{\pos(651.42,700)\bord6.13\3a&H80&\blur0.8}And his dear wife, Gurindai
 Dialogue: 2,0:00:20.71,0:00:20.75,ED1 - ENG,,0,0,0,,{\pos(651.42,700)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}And his dear wife, Gurindai
@@ -2068,13 +2046,10 @@ Dialogue: 0,0:00:19.62,0:00:19.67,ED1 - ROM,,0,0,0,,{\pos(631.393,660)\bord6.67\
 Dialogue: 1,0:00:19.62,0:00:19.67,ED1 - ROM,,0,0,0,,{\pos(631.393,660)\bord6.67\3a&H80&\blur0.8}shuringan no gurindai
 Dialogue: 2,0:00:19.62,0:00:19.67,ED1 - ROM,,0,0,0,,{\pos(631.393,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
 Dialogue: 3,0:00:19.62,0:00:19.67,ED1 - ROM,,0,0,0,,{\pos(631.393,660)\bord0\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
-Dialogue: 0,0:00:19.67,0:00:19.71,ED1 - ROM,,0,0,0,,{\pos(632.12,660)\bord6.67\alpha&H80&\blur2.67}shuringan no gurindai
-Dialogue: 1,0:00:19.67,0:00:19.71,ED1 - ROM,,0,0,0,,{\pos(632.12,660)\bord6.67\3a&H80&\blur0.8}shuringan no gurindai
-Dialogue: 2,0:00:19.67,0:00:19.71,ED1 - ROM,,0,0,0,,{\pos(632.12,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
+Dialogue: 0,0:00:19.67,0:00:19.75,ED1 - ROM,,0,0,0,,{\pos(632.12,660)\bord6.67\alpha&H80&\blur2.67}shuringan no gurindai
+Dialogue: 1,0:00:19.67,0:00:19.75,ED1 - ROM,,0,0,0,,{\pos(632.12,660)\bord6.67\3a&H80&\blur0.8}shuringan no gurindai
+Dialogue: 2,0:00:19.67,0:00:19.75,ED1 - ROM,,0,0,0,,{\pos(632.12,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
 Dialogue: 3,0:00:19.67,0:00:19.75,ED1 - ROM,,0,0,0,,{\pos(632.12,660)\bord0\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
-Dialogue: 0,0:00:19.71,0:00:19.75,ED1 - ROM,,0,0,0,,{\pos(632.16,660)\bord6.67\alpha&H80&\blur2.67}shuringan no gurindai
-Dialogue: 1,0:00:19.71,0:00:19.75,ED1 - ROM,,0,0,0,,{\pos(632.16,660)\bord6.67\3a&H80&\blur0.8}shuringan no gurindai
-Dialogue: 2,0:00:19.71,0:00:19.75,ED1 - ROM,,0,0,0,,{\pos(632.16,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
 Dialogue: 0,0:00:19.75,0:00:19.79,ED1 - ROM,,0,0,0,,{\pos(635.66,660)\bord6.67\alpha&H80&\blur2.67}shuringan no gurindai
 Dialogue: 1,0:00:19.75,0:00:19.79,ED1 - ROM,,0,0,0,,{\pos(635.66,660)\bord6.67\3a&H80&\blur0.8}shuringan no gurindai
 Dialogue: 2,0:00:19.75,0:00:19.79,ED1 - ROM,,0,0,0,,{\pos(635.66,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
@@ -2103,13 +2078,10 @@ Dialogue: 0,0:00:20.00,0:00:20.04,ED1 - ROM,,0,0,0,,{\pos(637.727,660)\bord6.67\
 Dialogue: 1,0:00:20.00,0:00:20.04,ED1 - ROM,,0,0,0,,{\pos(637.727,660)\bord6.67\3a&H80&\blur0.8}shuringan no gurindai
 Dialogue: 2,0:00:20.00,0:00:20.04,ED1 - ROM,,0,0,0,,{\pos(637.727,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
 Dialogue: 3,0:00:20.00,0:00:20.04,ED1 - ROM,,0,0,0,,{\pos(637.727,660)\bord0\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
-Dialogue: 0,0:00:20.04,0:00:20.08,ED1 - ROM,,0,0,0,,{\pos(642.98,660)\bord6.67\alpha&H80&\blur2.67}shuringan no gurindai
-Dialogue: 1,0:00:20.04,0:00:20.08,ED1 - ROM,,0,0,0,,{\pos(642.98,660)\bord6.67\3a&H80&\blur0.8}shuringan no gurindai
-Dialogue: 2,0:00:20.04,0:00:20.08,ED1 - ROM,,0,0,0,,{\pos(642.98,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
+Dialogue: 0,0:00:20.04,0:00:20.12,ED1 - ROM,,0,0,0,,{\pos(642.98,660)\bord6.67\alpha&H80&\blur2.67}shuringan no gurindai
+Dialogue: 1,0:00:20.04,0:00:20.12,ED1 - ROM,,0,0,0,,{\pos(642.98,660)\bord6.67\3a&H80&\blur0.8}shuringan no gurindai
+Dialogue: 2,0:00:20.04,0:00:20.12,ED1 - ROM,,0,0,0,,{\pos(642.98,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
 Dialogue: 3,0:00:20.04,0:00:20.12,ED1 - ROM,,0,0,0,,{\pos(642.98,660)\bord0\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
-Dialogue: 0,0:00:20.08,0:00:20.12,ED1 - ROM,,0,0,0,,{\pos(642.94,660)\bord6.67\alpha&H80&\blur2.67}shuringan no gurindai
-Dialogue: 1,0:00:20.08,0:00:20.12,ED1 - ROM,,0,0,0,,{\pos(642.94,660)\bord6.67\3a&H80&\blur0.8}shuringan no gurindai
-Dialogue: 2,0:00:20.08,0:00:20.12,ED1 - ROM,,0,0,0,,{\pos(642.94,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
 Dialogue: 0,0:00:20.12,0:00:20.17,ED1 - ROM,,0,0,0,,{\pos(642.58,660)\bord6.67\alpha&H80&\blur2.67}shuringan no gurindai
 Dialogue: 1,0:00:20.12,0:00:20.17,ED1 - ROM,,0,0,0,,{\pos(642.58,660)\bord6.67\3a&H80&\blur0.8}shuringan no gurindai
 Dialogue: 2,0:00:20.12,0:00:20.17,ED1 - ROM,,0,0,0,,{\pos(642.58,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
@@ -2154,13 +2126,10 @@ Dialogue: 0,0:00:20.54,0:00:20.58,ED1 - ROM,,0,0,0,,{\pos(650.407,660)\bord6.67\
 Dialogue: 1,0:00:20.54,0:00:20.58,ED1 - ROM,,0,0,0,,{\pos(650.407,660)\bord6.67\3a&H80&\blur0.8}shuringan no gurindai
 Dialogue: 2,0:00:20.54,0:00:20.58,ED1 - ROM,,0,0,0,,{\pos(650.407,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
 Dialogue: 3,0:00:20.54,0:00:20.58,ED1 - ROM,,0,0,0,,{\pos(650.407,660)\bord0\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
-Dialogue: 0,0:00:20.58,0:00:20.71,ED1 - ROM,,0,0,0,,{\pos(651.407,660)\bord6.67\alpha&H80&\blur2.67}shuringan no gurindai
+Dialogue: 0,0:00:20.58,0:00:20.75,ED1 - ROM,,0,0,0,,{\pos(651.407,660)\bord6.67\alpha&H80&\blur2.67}shuringan no gurindai
 Dialogue: 1,0:00:20.58,0:00:20.75,ED1 - ROM,,0,0,0,,{\pos(651.407,660)\bord6.67\3a&H80&\blur0.8}shuringan no gurindai
-Dialogue: 2,0:00:20.58,0:00:20.63,ED1 - ROM,,0,0,0,,{\pos(651.407,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
+Dialogue: 2,0:00:20.58,0:00:20.75,ED1 - ROM,,0,0,0,,{\pos(651.407,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
 Dialogue: 3,0:00:20.58,0:00:20.75,ED1 - ROM,,0,0,0,,{\pos(651.407,660)\bord0\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
-Dialogue: 2,0:00:20.63,0:00:20.71,ED1 - ROM,,0,0,0,,{\pos(651.413,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
-Dialogue: 0,0:00:20.71,0:00:20.75,ED1 - ROM,,0,0,0,,{\pos(651.42,660)\bord6.67\alpha&H80&\blur2.67}shuringan no gurindai
-Dialogue: 2,0:00:20.71,0:00:20.75,ED1 - ROM,,0,0,0,,{\pos(651.42,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
 Dialogue: 0,0:00:20.75,0:00:20.79,ED1 - ROM,,0,0,0,,{\pos(643.933,660)\bord6.67\alpha&H80&\blur2.67}shuringan no gurindai
 Dialogue: 1,0:00:20.75,0:00:20.79,ED1 - ROM,,0,0,0,,{\pos(643.933,660)\bord6.67\3a&H80&\blur0.8}shuringan no gurindai
 Dialogue: 2,0:00:20.75,0:00:20.79,ED1 - ROM,,0,0,0,,{\pos(643.933,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}shuringan no gurindai
@@ -2397,27 +2366,18 @@ Dialogue: 0,0:00:20.96,0:00:21.00,ED1 - ROM,,0,0,0,,{\pos(629.96,660)\bord6.67\a
 Dialogue: 1,0:00:20.96,0:00:21.00,ED1 - ROM,,0,0,0,,{\pos(629.96,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
 Dialogue: 2,0:00:20.96,0:00:21.00,ED1 - ROM,,0,0,0,,{\pos(629.96,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 3,0:00:20.96,0:00:21.00,ED1 - ROM,,0,0,0,,{\pos(629.96,660)\bord0\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:21.00,0:00:21.04,ED1 - ROM,,0,0,0,,{\pos(631.667,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:21.00,0:00:21.04,ED1 - ROM,,0,0,0,,{\pos(631.667,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:21.00,0:00:21.04,ED1 - ROM,,0,0,0,,{\pos(631.667,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
+Dialogue: 0,0:00:21.00,0:00:21.08,ED1 - ROM,,0,0,0,,{\pos(631.667,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
+Dialogue: 1,0:00:21.00,0:00:21.08,ED1 - ROM,,0,0,0,,{\pos(631.667,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
+Dialogue: 2,0:00:21.00,0:00:21.08,ED1 - ROM,,0,0,0,,{\pos(631.667,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 3,0:00:21.00,0:00:21.08,ED1 - ROM,,0,0,0,,{\pos(631.667,660)\bord0\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:21.04,0:00:21.08,ED1 - ROM,,0,0,0,,{\pos(631.713,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:21.04,0:00:21.08,ED1 - ROM,,0,0,0,,{\pos(631.713,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:21.04,0:00:21.08,ED1 - ROM,,0,0,0,,{\pos(631.713,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:21.08,0:00:21.13,ED1 - ROM,,0,0,0,,{\pos(633.733,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:21.08,0:00:21.13,ED1 - ROM,,0,0,0,,{\pos(633.733,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:21.08,0:00:21.13,ED1 - ROM,,0,0,0,,{\pos(633.733,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
+Dialogue: 0,0:00:21.08,0:00:21.17,ED1 - ROM,,0,0,0,,{\pos(633.733,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
+Dialogue: 1,0:00:21.08,0:00:21.17,ED1 - ROM,,0,0,0,,{\pos(633.733,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
+Dialogue: 2,0:00:21.08,0:00:21.17,ED1 - ROM,,0,0,0,,{\pos(633.733,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 3,0:00:21.08,0:00:21.17,ED1 - ROM,,0,0,0,,{\pos(633.733,660)\bord0\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:21.13,0:00:21.17,ED1 - ROM,,0,0,0,,{\pos(633.68,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:21.13,0:00:21.17,ED1 - ROM,,0,0,0,,{\pos(633.68,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:21.13,0:00:21.17,ED1 - ROM,,0,0,0,,{\pos(633.68,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:21.17,0:00:21.21,ED1 - ROM,,0,0,0,,{\pos(636.073,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:21.17,0:00:21.21,ED1 - ROM,,0,0,0,,{\pos(636.073,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:21.17,0:00:21.21,ED1 - ROM,,0,0,0,,{\pos(636.073,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
+Dialogue: 0,0:00:21.17,0:00:21.25,ED1 - ROM,,0,0,0,,{\pos(636.073,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
+Dialogue: 1,0:00:21.17,0:00:21.25,ED1 - ROM,,0,0,0,,{\pos(636.073,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
+Dialogue: 2,0:00:21.17,0:00:21.25,ED1 - ROM,,0,0,0,,{\pos(636.073,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 3,0:00:21.17,0:00:21.25,ED1 - ROM,,0,0,0,,{\pos(636.073,660)\bord0\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:21.21,0:00:21.25,ED1 - ROM,,0,0,0,,{\pos(636.013,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:21.21,0:00:21.25,ED1 - ROM,,0,0,0,,{\pos(636.013,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:21.21,0:00:21.25,ED1 - ROM,,0,0,0,,{\pos(636.013,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 0,0:00:21.25,0:00:21.29,ED1 - ROM,,0,0,0,,{\pos(637.84,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
 Dialogue: 1,0:00:21.25,0:00:21.29,ED1 - ROM,,0,0,0,,{\pos(637.84,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
 Dialogue: 2,0:00:21.25,0:00:21.29,ED1 - ROM,,0,0,0,,{\pos(637.84,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
@@ -2426,13 +2386,10 @@ Dialogue: 0,0:00:21.29,0:00:21.33,ED1 - ROM,,0,0,0,,{\pos(633.773,660)\bord6.67\
 Dialogue: 1,0:00:21.29,0:00:21.33,ED1 - ROM,,0,0,0,,{\pos(633.773,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
 Dialogue: 2,0:00:21.29,0:00:21.33,ED1 - ROM,,0,0,0,,{\pos(633.773,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 3,0:00:21.29,0:00:21.33,ED1 - ROM,,0,0,0,,{\pos(633.773,660)\bord0\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:21.33,0:00:21.38,ED1 - ROM,,0,0,0,,{\pos(629.52,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:21.33,0:00:21.38,ED1 - ROM,,0,0,0,,{\pos(629.52,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:21.33,0:00:21.38,ED1 - ROM,,0,0,0,,{\pos(629.52,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
+Dialogue: 0,0:00:21.33,0:00:21.42,ED1 - ROM,,0,0,0,,{\pos(629.52,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
+Dialogue: 1,0:00:21.33,0:00:21.42,ED1 - ROM,,0,0,0,,{\pos(629.52,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
+Dialogue: 2,0:00:21.33,0:00:21.42,ED1 - ROM,,0,0,0,,{\pos(629.52,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 3,0:00:21.33,0:00:21.42,ED1 - ROM,,0,0,0,,{\pos(629.52,660)\bord0\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:21.38,0:00:21.42,ED1 - ROM,,0,0,0,,{\pos(629.587,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:21.38,0:00:21.42,ED1 - ROM,,0,0,0,,{\pos(629.587,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:21.38,0:00:21.42,ED1 - ROM,,0,0,0,,{\pos(629.587,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 0,0:00:21.42,0:00:21.46,ED1 - ROM,,0,0,0,,{\pos(636.007,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
 Dialogue: 1,0:00:21.42,0:00:21.46,ED1 - ROM,,0,0,0,,{\pos(636.007,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
 Dialogue: 2,0:00:21.42,0:00:21.46,ED1 - ROM,,0,0,0,,{\pos(636.007,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
@@ -2477,12 +2434,10 @@ Dialogue: 0,0:00:21.83,0:00:21.88,ED1 - ROM,,0,0,0,,{\pos(655.233,660)\bord6.67\
 Dialogue: 1,0:00:21.83,0:00:21.88,ED1 - ROM,,0,0,0,,{\pos(655.233,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
 Dialogue: 2,0:00:21.83,0:00:21.88,ED1 - ROM,,0,0,0,,{\pos(655.233,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 3,0:00:21.83,0:00:21.88,ED1 - ROM,,0,0,0,,{\pos(655.233,660)\bord0\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:21.88,0:00:21.92,ED1 - ROM,,0,0,0,,{\pos(653.32,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
+Dialogue: 0,0:00:21.88,0:00:21.96,ED1 - ROM,,0,0,0,,{\pos(653.32,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
 Dialogue: 1,0:00:21.88,0:00:21.96,ED1 - ROM,,0,0,0,,{\pos(653.32,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:21.88,0:00:21.92,ED1 - ROM,,0,0,0,,{\pos(653.32,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
+Dialogue: 2,0:00:21.88,0:00:21.96,ED1 - ROM,,0,0,0,,{\pos(653.32,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 3,0:00:21.88,0:00:21.96,ED1 - ROM,,0,0,0,,{\pos(653.32,660)\bord0\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:21.92,0:00:21.96,ED1 - ROM,,0,0,0,,{\pos(653.293,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:21.92,0:00:21.96,ED1 - ROM,,0,0,0,,{\pos(653.293,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 0,0:00:21.96,0:00:22.00,ED1 - ROM,,0,0,0,,{\pos(652.22,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
 Dialogue: 1,0:00:21.96,0:00:22.00,ED1 - ROM,,0,0,0,,{\pos(652.22,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
 Dialogue: 2,0:00:21.96,0:00:22.00,ED1 - ROM,,0,0,0,,{\pos(652.22,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
@@ -2547,13 +2502,10 @@ Dialogue: 0,0:00:22.59,0:00:22.63,ED1 - ROM,,0,0,0,,{\pos(622.353,660)\bord6.67\
 Dialogue: 1,0:00:22.59,0:00:22.63,ED1 - ROM,,0,0,0,,{\pos(622.353,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
 Dialogue: 2,0:00:22.59,0:00:22.63,ED1 - ROM,,0,0,0,,{\pos(622.353,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 3,0:00:22.59,0:00:22.63,ED1 - ROM,,0,0,0,,{\pos(622.353,660)\bord0\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:22.63,0:00:22.67,ED1 - ROM,,0,0,0,,{\pos(624.447,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:22.63,0:00:22.67,ED1 - ROM,,0,0,0,,{\pos(624.447,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:22.63,0:00:22.67,ED1 - ROM,,0,0,0,,{\pos(624.447,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
+Dialogue: 0,0:00:22.63,0:00:22.71,ED1 - ROM,,0,0,0,,{\pos(624.447,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
+Dialogue: 1,0:00:22.63,0:00:22.71,ED1 - ROM,,0,0,0,,{\pos(624.447,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
+Dialogue: 2,0:00:22.63,0:00:22.71,ED1 - ROM,,0,0,0,,{\pos(624.447,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 3,0:00:22.63,0:00:22.71,ED1 - ROM,,0,0,0,,{\pos(624.447,660)\bord0\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:22.67,0:00:22.71,ED1 - ROM,,0,0,0,,{\pos(624.413,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:22.67,0:00:22.71,ED1 - ROM,,0,0,0,,{\pos(624.413,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:22.67,0:00:22.71,ED1 - ROM,,0,0,0,,{\pos(624.413,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 0,0:00:22.71,0:00:22.75,ED1 - ROM,,0,0,0,,{\pos(624.873,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
 Dialogue: 1,0:00:22.71,0:00:22.75,ED1 - ROM,,0,0,0,,{\pos(624.873,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
 Dialogue: 2,0:00:22.71,0:00:22.75,ED1 - ROM,,0,0,0,,{\pos(624.873,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
@@ -2566,20 +2518,14 @@ Dialogue: 0,0:00:22.79,0:00:22.84,ED1 - ROM,,0,0,0,,{\pos(624.26,660)\bord6.67\a
 Dialogue: 1,0:00:22.79,0:00:22.84,ED1 - ROM,,0,0,0,,{\pos(624.26,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
 Dialogue: 2,0:00:22.79,0:00:22.84,ED1 - ROM,,0,0,0,,{\pos(624.26,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 3,0:00:22.79,0:00:22.84,ED1 - ROM,,0,0,0,,{\pos(624.26,660)\bord0\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:22.84,0:00:22.88,ED1 - ROM,,0,0,0,,{\pos(619.547,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:22.84,0:00:22.88,ED1 - ROM,,0,0,0,,{\pos(619.547,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:22.84,0:00:22.88,ED1 - ROM,,0,0,0,,{\pos(619.547,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
+Dialogue: 0,0:00:22.84,0:00:22.92,ED1 - ROM,,0,0,0,,{\pos(619.547,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
+Dialogue: 1,0:00:22.84,0:00:22.92,ED1 - ROM,,0,0,0,,{\pos(619.547,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
+Dialogue: 2,0:00:22.84,0:00:22.92,ED1 - ROM,,0,0,0,,{\pos(619.547,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 3,0:00:22.84,0:00:22.92,ED1 - ROM,,0,0,0,,{\pos(619.547,660)\bord0\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:22.88,0:00:22.92,ED1 - ROM,,0,0,0,,{\pos(619.533,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:22.88,0:00:22.92,ED1 - ROM,,0,0,0,,{\pos(619.533,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:22.88,0:00:22.92,ED1 - ROM,,0,0,0,,{\pos(619.533,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:22.92,0:00:22.96,ED1 - ROM,,0,0,0,,{\pos(625.607,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:22.92,0:00:22.96,ED1 - ROM,,0,0,0,,{\pos(625.607,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:22.92,0:00:22.96,ED1 - ROM,,0,0,0,,{\pos(625.607,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
+Dialogue: 0,0:00:22.92,0:00:23.00,ED1 - ROM,,0,0,0,,{\pos(625.607,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
+Dialogue: 1,0:00:22.92,0:00:23.00,ED1 - ROM,,0,0,0,,{\pos(625.607,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
+Dialogue: 2,0:00:22.92,0:00:23.00,ED1 - ROM,,0,0,0,,{\pos(625.607,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 3,0:00:22.92,0:00:23.00,ED1 - ROM,,0,0,0,,{\pos(625.607,660)\bord0\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:22.96,0:00:23.00,ED1 - ROM,,0,0,0,,{\pos(625.58,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
-Dialogue: 1,0:00:22.96,0:00:23.00,ED1 - ROM,,0,0,0,,{\pos(625.58,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
-Dialogue: 2,0:00:22.96,0:00:23.00,ED1 - ROM,,0,0,0,,{\pos(625.58,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
 Dialogue: 0,0:00:23.00,0:00:23.04,ED1 - ROM,,0,0,0,,{\pos(629.827,660)\bord6.67\alpha&H80&\blur2.67}guurindai no ponpokopi no ponpokona no
 Dialogue: 1,0:00:23.00,0:00:23.04,ED1 - ROM,,0,0,0,,{\pos(629.827,660)\bord6.67\3a&H80&\blur0.8}guurindai no ponpokopi no ponpokona no
 Dialogue: 2,0:00:23.00,0:00:23.04,ED1 - ROM,,0,0,0,,{\pos(629.827,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}guurindai no ponpokopi no ponpokona no
@@ -2669,9 +2615,13 @@ Dialogue: 1,0:00:23.92,0:00:23.96,ED1 - ENG,,0,0,0,,{\pos(642.88,700)\bord6.13\3
 Dialogue: 2,0:00:23.92,0:00:23.96,ED1 - ENG,,0,0,0,,{\pos(642.88,700)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}Who lived a long and blessed life
 Dialogue: 3,0:00:23.92,0:00:23.96,ED1 - ENG,,0,0,0,,{\pos(642.88,700)\bord0\3a&H80&\4a&HFF&\blur0.47}Who lived a long and blessed life
 Dialogue: 0,0:00:23.96,0:00:24.96,ED1 - ENG,,0,0,0,,{\bord6.13\alpha&H80&\blur2.67}Who lived a long and blessed life
-Dialogue: 1,0:00:23.96,0:00:24.05,ED1 - ENG,,0,0,0,,{\bord6.13\3a&H80&\blur0.8}Who lived a long and blessed life
-Dialogue: 2,0:00:23.96,0:00:24.05,ED1 - ENG,,0,0,0,,{\c&H000000&\3a&H80&\4a&HFF&\blur0.47}Who lived a long and blessed life
+Dialogue: 1,0:00:23.96,0:00:24.96,ED1 - ENG,,0,0,0,,{\bord6.13\3a&H80&\blur0.8}Who lived a long and blessed life
+Dialogue: 2,0:00:23.96,0:00:24.96,ED1 - ENG,,0,0,0,,{\c&H000000&\3a&H80&\4a&HFF&\blur0.47}Who lived a long and blessed life
 Dialogue: 3,0:00:23.96,0:00:24.96,ED1 - ENG,,0,0,0,,{\bord0\3a&H80&\4a&HFF&\blur0.47}Who lived a long and blessed life
+Dialogue: 0,0:00:24.96,0:00:25.38,ED1 - ENG,,0,0,0,,{\fad(0,200)\move(640,700,682.667,700,-100,0)\bord6.13\alpha&H80&\blur2.67\t(220,265,\1a&HFF&)}Who lived a long and blessed life
+Dialogue: 1,0:00:24.96,0:00:25.38,ED1 - ENG,,0,0,0,,{\fad(0,200)\move(640,700,682.667,700,-100,0)\bord6.13\3a&H80&\blur0.8\t(220,265,\1a&HFF&)}Who lived a long and blessed life
+Dialogue: 2,0:00:24.96,0:00:25.38,ED1 - ENG,,0,0,0,,{\fad(0,200)\move(640,700,682.667,700,-100,0)\c&H000000&\3a&H80&\4a&HFF&\blur0.47\t(220,265,\1a&HFF&)}Who lived a long and blessed life
+Dialogue: 3,0:00:24.96,0:00:25.38,ED1 - ENG,,0,0,0,,{\fad(0,200)\move(640,700,682.667,700,-100,0)\bord0\3a&H80&\4a&HFF&\blur0.47}Who lived a long and blessed life
 Dialogue: 0,0:00:23.17,0:00:23.21,ED1 - ROM,,0,0,0,,{\pos(660.5,660)\bord6.67\alpha&H80&\blur2.67}choukyuumei no chousuke
 Dialogue: 1,0:00:23.17,0:00:23.21,ED1 - ROM,,0,0,0,,{\pos(660.5,660)\bord6.67\3a&H80&\blur0.8}choukyuumei no chousuke
 Dialogue: 2,0:00:23.17,0:00:23.21,ED1 - ROM,,0,0,0,,{\pos(660.5,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}choukyuumei no chousuke
@@ -2752,12 +2702,6 @@ Dialogue: 0,0:00:23.96,0:00:24.96,ED1 - ROM,,0,0,0,,{\pos(640,660)\bord6.67\alph
 Dialogue: 1,0:00:23.96,0:00:24.96,ED1 - ROM,,0,0,0,,{\pos(640,660)\bord6.67\3a&H80&\blur0.8}choukyuumei no chousuke
 Dialogue: 2,0:00:23.96,0:00:24.96,ED1 - ROM,,0,0,0,,{\pos(640,660)\c&H000000&\3a&H80&\4a&HFF&\blur0.47}choukyuumei no chousuke
 Dialogue: 3,0:00:23.96,0:00:24.96,ED1 - ROM,,0,0,0,,{\pos(640,660)\bord0\3a&H80&\4a&HFF&\blur0.47}choukyuumei no chousuke
-Dialogue: 1,0:00:24.05,0:00:24.96,ED1 - ENG,,0,0,0,,{\bord6.13\3a&H80&\blur0.8}Who lived a long and blessed life
-Dialogue: 2,0:00:24.05,0:00:24.96,ED1 - ENG,,0,0,0,,{\c&H000000&\3a&H80&\4a&HFF&\blur0.47}Who lived a long and blessed life
-Dialogue: 0,0:00:24.96,0:00:25.38,ED1 - ENG,,0,0,0,,{\fad(0,200)\move(640,700,682.667,700,-100,0)\bord6.13\alpha&H80&\blur2.67\t(220,265,\1a&HFF&)}Who lived a long and blessed life
-Dialogue: 1,0:00:24.96,0:00:25.38,ED1 - ENG,,0,0,0,,{\fad(0,200)\move(640,700,682.667,700,-100,0)\bord6.13\3a&H80&\blur0.8\t(220,265,\1a&HFF&)}Who lived a long and blessed life
-Dialogue: 2,0:00:24.96,0:00:25.38,ED1 - ENG,,0,0,0,,{\fad(0,200)\move(640,700,682.667,700,-100,0)\c&H000000&\3a&H80&\4a&HFF&\blur0.47\t(220,265,\1a&HFF&)}Who lived a long and blessed life
-Dialogue: 3,0:00:24.96,0:00:25.38,ED1 - ENG,,0,0,0,,{\fad(0,200)\move(640,700,682.667,700,-100,0)\bord0\3a&H80&\4a&HFF&\blur0.47}Who lived a long and blessed life
 Dialogue: 0,0:00:24.96,0:00:25.38,ED1 - ROM,,0,0,0,,{\fad(0,200)\move(640,660,682.667,660,-100,0)\bord6.67\alpha&H80&\blur2.67\t(220,265,\1a&HFF&)}choukyuumei no chousuke
 Dialogue: 1,0:00:24.96,0:00:25.38,ED1 - ROM,,0,0,0,,{\fad(0,200)\move(640,660,682.667,660,-100,0)\bord6.67\3a&H80&\blur0.8\t(220,265,\1a&HFF&)}choukyuumei no chousuke
 Dialogue: 2,0:00:24.96,0:00:25.38,ED1 - ROM,,0,0,0,,{\fad(0,200)\move(640,660,682.667,660,-100,0)\c&H000000&\3a&H80&\4a&HFF&\blur0.47\t(220,265,\1a&HFF&)}choukyuumei no chousuke
@@ -2766,10 +2710,10 @@ Dialogue: 0,0:00:28.22,0:00:31.43,ED1 - ENG,,0,0,0,,{\fad(200,200)\bord6.13\alph
 Dialogue: 1,0:00:28.22,0:00:31.43,ED1 - ENG,,0,0,0,,{\fad(200,200)\bord6.13\1a&HFF&\3a&H80&\blur0.8\t(155,200,\1a&H00&)\t(3010,3055,\1a&HFF&)}Esteemed guests, give us but a moment of your time!
 Dialogue: 2,0:00:28.22,0:00:31.43,ED1 - ENG,,0,0,0,,{\fad(200,200)\c&H000000&\1a&HFF&\3a&H80&\4a&HFF&\blur0.47\t(155,200,\1a&H00&)\t(3010,3055,\1a&HFF&)}Esteemed guests, give us but a moment of your time!
 Dialogue: 3,0:00:28.22,0:00:31.43,ED1 - ENG,,0,0,0,,{\fad(200,200)\bord0\3a&H80&\4a&HFF&\blur0.47}Esteemed guests, give us but a moment of your time!
-Dialogue: 3,0:00:28.22,0:00:31.43,ED1 - ROM,,0,0,0,,{\fad(200,200)\bord0\3a&H80&\4a&HFF&\blur0.47}choi to ojikan itadakimasu
 Dialogue: 0,0:00:28.22,0:00:31.43,ED1 - ROM,,0,0,0,,{\fad(200,200)\bord6.67\alpha&H80&\1a&HFF&\blur2.67\t(155,200,\1a&H00&)\t(3010,3055,\1a&HFF&)}choi to ojikan itadakimasu
 Dialogue: 1,0:00:28.22,0:00:31.43,ED1 - ROM,,0,0,0,,{\fad(200,200)\bord6.67\1a&HFF&\3a&H80&\blur0.8\t(155,200,\1a&H00&)\t(3010,3055,\1a&HFF&)}choi to ojikan itadakimasu
 Dialogue: 2,0:00:28.22,0:00:31.43,ED1 - ROM,,0,0,0,,{\fad(200,200)\c&H000000&\1a&HFF&\3a&H80&\4a&HFF&\blur0.47\t(155,200,\1a&H00&)\t(3010,3055,\1a&HFF&)}choi to ojikan itadakimasu
+Dialogue: 3,0:00:28.22,0:00:31.43,ED1 - ROM,,0,0,0,,{\fad(200,200)\bord0\3a&H80&\4a&HFF&\blur0.47}choi to ojikan itadakimasu
 Dialogue: 0,0:00:34.18,0:00:35.85,ED1 - ENG,,0,0,0,,{\bord6.133\fad(200,200)\blur2.667\an3\pos(621.333,700)\3c&H000000&\1a&HFF&\t(155,200,\1a&H00&)\t(1460,1505,\1a&HFF&)\alpha&H80&\1a&HFF&\t(155,200,\1a&H00&)\t(1460,1505,\1a&HFF&)}All eyes on the stage!
 Dialogue: 1,0:00:34.18,0:00:35.85,ED1 - ENG,,0,0,0,,{\bord6.133\fad(200,200)\blur0.8\an3\pos(621.333,700)\3c&H000000&\1a&HFF&\t(155,200,\1a&H00&)\t(1460,1505,\1a&HFF&)\3a&H80&}All eyes on the stage!
 Dialogue: 2,0:00:34.18,0:00:35.85,ED1 - ENG,,0,0,0,,{\fad(200,200)\blur0.467\an3\pos(621.333,700)\c&H000000&\1a&HFF&\t(155,200,\1a&H00&)\t(1460,1505,\1a&HFF&)\4a&HFF&\3c&H000000&\3a&H80&}All eyes on the stage!
