@@ -5,6 +5,7 @@
 !.gitignore
 !*.ass
 !*.csv
+!*.log
 !*.md
 !*.midicsv
 !*.mscx
