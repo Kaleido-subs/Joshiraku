@@ -80,7 +80,7 @@ Dialogue: 10,0:03:42.32,0:03:46.53,Default,,0,0,0,,I'd build a house out of my f
 Dialogue: 10,0:03:48.70,0:03:49.70,Default,,0,0,0,,That's so you!
 Dialogue: 10,0:03:49.70,0:03:50.83,Default,,0,0,0,,You cutie.
 Dialogue: 10,0:03:53.12,0:03:54.88,Default,,0,0,0,,{\i1}As if.
-Dialogue: 10,0:03:54.88,0:03:57.38,Default,,0,0,0,,{\q2\i1}I'm getting sick of playing into \Neveryone's expectations of me.
+Dialogue: 10,0:03:54.88,0:03:57.38,Default,,0,0,0,,{\i1\q2}I'm getting sick of playing into \Neveryone's expectations of me.
 Dialogue: 10,0:03:57.38,0:04:00.47,Default,,0,0,0,,One thing is for sure, though.
 Dialogue: 10,0:04:01.22,0:04:05.18,Default,,0,0,0,,If I won the lottery, I wouldn't tell anyone about it.
 Dialogue: 10,0:04:06.43,0:04:08.39,Default,,0,0,0,,Yeah, me neither.
@@ -170,11 +170,11 @@ Dialogue: 10,0:07:47.73,0:07:51.82,Default,,0,0,0,,Who do I want to convert the 
 Dialogue: 10,0:07:52.24,0:07:55.37,Default,,0,0,0,,{\q2}The young lady most at risk \Nof falling into Satan's clutches is...
 Dialogue: 10,0:07:57.24,0:07:58.24,Default,,0,0,0,,Her!
 Dialogue: 10,0:07:58.54,0:08:00.04,Default,,0,0,0,,It ain't me!
-Dialogue: 10,0:08:00.04,0:08:00.12,Default,,0,0,0,,{\blur1.733\c&H000000&}It ain't me!
-Dialogue: 11,0:08:00.04,0:08:00.12,Default,,0,0,0,,{\bord0\blur1.733\shad1\4a&HFF&}It ain't me!
+Dialogue: 10,0:08:00.04,0:08:00.12,Default,,0,0,0,,{\c&H000000&\blur1.73}It ain't me!
+Dialogue: 11,0:08:00.04,0:08:00.12,Default,,0,0,0,,{\bord0\4a&HFF&\blur1.73}It ain't me!
 Dialogue: 10,0:08:00.12,0:08:00.20,Default,,0,0,0,,It ain't me!
-Dialogue: 10,0:08:00.20,0:08:00.29,Default,,0,0,0,,{\blur1.733\c&H000000&}It ain't me!
-Dialogue: 11,0:08:00.20,0:08:00.29,Default,,0,0,0,,{\bord0\blur1.733\shad1\4a&HFF&}It ain't me!
+Dialogue: 10,0:08:00.20,0:08:00.29,Default,,0,0,0,,{\c&H000000&\blur1.73}It ain't me!
+Dialogue: 11,0:08:00.20,0:08:00.29,Default,,0,0,0,,{\bord0\4a&HFF&\blur1.73}It ain't me!
 Dialogue: 10,0:08:00.29,0:08:00.50,Default,,0,0,0,,{\fad(0,200)}It ain't me!
 Dialogue: 10,0:08:01.71,0:08:03.87,Default,,0,0,0,,Shut your damn mouth!
 Dialogue: 10,0:08:03.87,0:08:05.29,Default,,0,0,0,,There's no need for violence!
@@ -379,7 +379,7 @@ Dialogue: 10,0:17:13.55,0:17:17.14,Default,,0,0,0,,N*ri-P definitely took the dr
 Dialogue: 10,0:17:17.14,0:17:19.89,Default,,0,0,0,,M*rcy definitely took the drugs!
 Dialogue: 10,0:17:19.89,0:17:22.72,Default,,0,0,0,,Osh*o M*n*bu probably injected them with the drugs!
 Dialogue: 10,0:17:22.72,0:17:24.14,Default,,0,0,0,,I think it was a pill.
-Dialogue: 10,0:17:24.14,0:17:29.15,Default,,0,0,0,,{\q2./}Celebrities probably have secret ways to get \Npriority vaccinations, but I suppose we're out of luck.
+Dialogue: 10,0:17:24.14,0:17:29.15,Default,,0,0,0,,{\q2}Celebrities probably have secret ways to get \Npriority vaccinations, but I suppose we're out of luck.
 Dialogue: 10,0:17:29.15,0:17:32.07,Default,,0,0,0,,We're neither rich nor famous.
 Dialogue: 10,0:17:32.07,0:17:33.86,Default,,0,0,0,,There's one way.
 Dialogue: 10,0:17:34.36,0:17:37.45,Default,,0,0,0,,Next on the list after doctors are...
@@ -391,7 +391,7 @@ Dialogue: 10,0:17:50.17,0:17:52.21,Default,,0,0,0,,{\i1}Th-The pressure...
 Dialogue: 10,0:17:53.88,0:17:58.84,Default,,0,0,0,,{\q2}If you smooch the boy you like, \NMr. Stork brings you a baby!
 Dialogue: 10,0:17:58.84,0:18:01.05,Default,,0,0,0,,That's right, you little cutie-pie.
 Dialogue: 10,0:18:01.05,0:18:03.31,Default,,0,0,0,,It's fine that you don't know.
-Dialogue: 10,0:18:03.93,0:18:07.39,Default,,0,0,0,,{\q2\i1}Tch. I'm getting sick of playing into \Neveryone's expectations of me.
+Dialogue: 10,0:18:03.93,0:18:07.39,Default,,0,0,0,,{\i1\q2}Tch. I'm getting sick of playing into \Neveryone's expectations of me.
 Dialogue: 10,0:18:07.39,0:18:09.02,Default,,0,0,0,,Hm, but getting pregnant...
 Dialogue: 10,0:18:09.02,0:18:11.36,Default,,0,0,0,,It's not as simple as that.
 Dialogue: 10,0:18:11.77,0:18:13.36,Default,,0,0,0,,There's one way.
