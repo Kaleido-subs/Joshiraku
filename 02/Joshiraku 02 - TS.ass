@@ -36,9 +36,9 @@ Dialogue: 1,0:13:42.92,0:13:44.92,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro S
 Dialogue: 0,0:23:39.93,0:23:42.69,Sign,,0,0,0,repeat TS,{\pos(588,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:39.93,0:23:42.69,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\2a&HFF&\blur0.8}Next Time
 Dialogue: 0,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\pos(588,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,240)}① {\an4\fnGaramond Premr Pro Smbd Capt}Backstage Wealth
-Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}Tower Trip
-Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Girl with a Cold
+Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,240)}① {\an4\fnGaramond Premr Pro Smbd Capt}Bath of Last Resort
+Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}Asakusa Visit
+Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}A Stroke of Raku
 Dialogue: 0,0:08:32.45,0:08:34.95,Sign,,0,0,0,midcard,{\pos(287,576)\frz25.12\fnBrushStroke 35\fs67\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:08:32.45,0:08:34.95,Sign,,0,0,0,midcard,{\pos(287,576)\frz25.12\fnBrushStroke 35\fs67\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:13:30.45,0:13:32.95,Sign,,0,0,0,midcard,{\pos(1060,420)\frz341\fnBrushStroke 35\fs67\c&HE5E5E4&\blur0.8}Rakugo Girls
