@@ -24,7 +24,6 @@ Video AR Value: 1.777778
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: Prev Title Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,150,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -42,8 +41,8 @@ Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0
 Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Girl with a Cold
 Dialogue: 0,0:08:32.45,0:08:34.95,Sign,,0,0,0,midcard,{\pos(287,576)\frz25.12\fnBrushStroke 35\fs67\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:08:32.45,0:08:34.95,Sign,,0,0,0,midcard,{\pos(287,576)\frz25.12\fnBrushStroke 35\fs67\c&H000000&\blur0.8}Rakugo Girls
-Dialogue: 0,0:13:30.45,0:13:32.95,Sign,,0,0,0,midcard,{\pos(1060,420)\frz345.6\fnBrushStroke 35\fs67\c&HE5E5E4&\blur0.8}Rakugo Girls
-Dialogue: 0,0:13:30.45,0:13:32.95,Sign,,0,0,0,midcard,{\pos(1060,420)\frz345.6\fnBrushStroke 35\fs67\c&HE5E5E4&\blur0.8}Rakugo Girls
+Dialogue: 0,0:13:30.45,0:13:32.95,Sign,,0,0,0,midcard,{\pos(1060,420)\frz341\fnBrushStroke 35\fs67\c&HE5E5E4&\blur0.8}Rakugo Girls
+Dialogue: 0,0:13:30.45,0:13:32.95,Sign,,0,0,0,midcard,{\pos(1060,420)\frz341\fnBrushStroke 35\fs67\c&HE5E5E4&\blur0.8}Rakugo Girls
 Dialogue: 0,0:02:05.48,0:02:07.89,Sign,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
 Dialogue: 1,0:02:05.52,0:02:07.89,Sign,,0,0,0,,{\kf25}{\pos(72,218)\an7\fs54\fnGaramond Premr Pro Smbd Capt\pos(72,60)\2c&H0000FF&\2a&HFF&\blur1}The conversations in this anime{\kf212}
 Dialogue: 1,0:02:05.77,0:02:07.89,Sign,,0,0,0,,{\kf49}{\pos(72,274)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur1}are written to be as inoffensive as possible{\kf163}
