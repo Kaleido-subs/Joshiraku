@@ -4195,12 +4195,12 @@ Dialogue: 2,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(116,475)\fnCC Astro City\fs
 Dialogue: 0,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(1152,489)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.8}A
 Dialogue: 1,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(1152,489)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.8}A
 Dialogue: 2,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(1155,475)\fnCC Astro City\fs21\b0\c&H000000&\blur0.7}Nice!
-Dialogue: 0,0:01:02.38,0:01:02.75,Sign,,0,0,0,,{\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.8\pos(1152,428)}A
-Dialogue: 1,0:01:02.38,0:01:02.75,Sign,,0,0,0,,{\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.8\pos(1152,428)}A
-Dialogue: 2,0:01:02.38,0:01:02.75,Sign,,0,0,0,,{\fnCC Astro City\fs21\b0\c&H000000&\blur0.7\pos(1155,413)}Yay!
-Dialogue: 0,0:01:02.38,0:01:02.75,Sign,,0,0,0,,{\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.8\pos(121,428)}A
-Dialogue: 1,0:01:02.38,0:01:02.75,Sign,,0,0,0,,{\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.8\pos(121,428)}A
-Dialogue: 2,0:01:02.38,0:01:02.75,Sign,,0,0,0,,{\fnCC Astro City\fs21\b0\c&H000000&\blur0.7\pos(119,413)}Yay!
+Dialogue: 0,0:01:02.38,0:01:02.75,Sign,,0,0,0,,{\pos(1152,428)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.8}A
+Dialogue: 1,0:01:02.38,0:01:02.75,Sign,,0,0,0,,{\pos(1152,428)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.8}A
+Dialogue: 2,0:01:02.38,0:01:02.75,Sign,,0,0,0,,{\pos(1155,413)\fnCC Astro City\fs21\b0\c&H000000&\blur0.7}Yay!
+Dialogue: 0,0:01:02.38,0:01:02.75,Sign,,0,0,0,,{\pos(121,428)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.8}A
+Dialogue: 1,0:01:02.38,0:01:02.75,Sign,,0,0,0,,{\pos(121,428)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.8}A
+Dialogue: 2,0:01:02.38,0:01:02.75,Sign,,0,0,0,,{\pos(119,413)\fnCC Astro City\fs21\b0\c&H000000&\blur0.7}Yay!
 Dialogue: 0,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(117,489)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.8}A
 Dialogue: 1,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(117,489)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.8}A
 Dialogue: 2,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(116,475)\fnCC Astro City\fs21\b0\c&H000000&\blur0.8}Awesome!
