@@ -4141,63 +4141,63 @@ Dialogue: 2,0:00:31.30,0:00:32.59,Sign,,0,0,0,,{\an7\blur0.8\fscx80\fscy115\c&H1
 Dialogue: 3,0:00:31.30,0:00:32.59,Sign,,0,0,0,,{\an7\blur0.8\fscx78\fscy107\c&HFAFFFD&\pos(438.2,59.4)\p1\frz342}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 4,0:00:31.30,0:00:32.59,Sign,,0,0,0,,{\pos(400.97,24.45)\frz343.2\fnHanglatter\fs56\c&H111414&\blur0.75}Kukuru
 Dialogue: 4,0:00:31.30,0:00:32.59,Sign,,0,0,0,,{\pos(475.27,90.75)\frz340.9\fnHanglatter\fs56\c&H111414&\blur0.75}Anrakutei
-Dialogue: 2,0:00:26.71,0:00:27.38,Sign,,0,0,0,,{\pos(1156,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Yeah, yeah!
-Dialogue: 2,0:00:26.71,0:00:27.38,Sign,,0,0,0,,{\pos(118.667,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Sure!
-Dialogue: 1,0:00:26.71,0:00:27.38,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
-Dialogue: 1,0:00:26.71,0:00:27.38,Sign,,0,0,0,,{\pos(117.333,489.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
-Dialogue: 0,0:00:26.71,0:00:27.38,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
 Dialogue: 0,0:00:26.71,0:00:27.38,Sign,,0,0,0,,{\pos(117.333,489.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 2,0:00:29.42,0:00:29.46,Sign,,0,0,0,,{\pos(1132,604)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}That so?
-Dialogue: 2,0:00:29.42,0:00:29.46,Sign,,0,0,0,,{\pos(664,605.333)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Really?
-Dialogue: 1,0:00:29.42,0:00:29.46,Sign,,0,0,0,,{\pos(1126.667,618.667)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
-Dialogue: 1,0:00:29.42,0:00:29.46,Sign,,0,0,0,,{\pos(668,617.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
-Dialogue: 0,0:00:29.42,0:00:29.46,Sign,,0,0,0,,{\pos(1126.667,618.667)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
+Dialogue: 1,0:00:26.71,0:00:27.38,Sign,,0,0,0,,{\pos(117.333,489.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:26.71,0:00:27.38,Sign,,0,0,0,,{\pos(118.667,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Sure!
+Dialogue: 0,0:00:26.71,0:00:27.38,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
+Dialogue: 1,0:00:26.71,0:00:27.38,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:26.71,0:00:27.38,Sign,,0,0,0,,{\pos(1156,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Yeah, yeah!
 Dialogue: 0,0:00:29.42,0:00:29.46,Sign,,0,0,0,,{\pos(668,617.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 2,0:00:29.46,0:00:29.50,Sign,,0,0,0,,{\pos(1132,498.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}That so?
-Dialogue: 2,0:00:29.46,0:00:29.50,Sign,,0,0,0,,{\pos(664,500)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Really?
-Dialogue: 1,0:00:29.46,0:00:29.50,Sign,,0,0,0,,{\pos(1126.667,514.667)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
-Dialogue: 1,0:00:29.46,0:00:29.50,Sign,,0,0,0,,{\pos(668,513.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
-Dialogue: 0,0:00:29.46,0:00:29.50,Sign,,0,0,0,,{\pos(1126.667,514.667)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 0,0:00:29.46,0:00:29.50,Sign,,0,0,0,,{\pos(668,513.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 2,0:00:29.50,0:00:29.96,Sign,,0,0,0,,{\pos(1132,440)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}That so?
-Dialogue: 2,0:00:29.50,0:00:29.96,Sign,,0,0,0,,{\pos(664,441.333)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Really?
-Dialogue: 1,0:00:29.50,0:00:29.96,Sign,,0,0,0,,{\pos(1126.667,454.667)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
-Dialogue: 1,0:00:29.50,0:00:29.96,Sign,,0,0,0,,{\pos(668,453.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
-Dialogue: 0,0:00:29.50,0:00:29.96,Sign,,0,0,0,,{\pos(1126.667,454.667)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
+Dialogue: 1,0:00:29.42,0:00:29.46,Sign,,0,0,0,,{\pos(668,617.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:29.42,0:00:29.46,Sign,,0,0,0,,{\pos(664,605.333)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Really?
+Dialogue: 0,0:00:29.46,0:00:29.50,Sign,,0,0,0,,{\pos(668,508.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
+Dialogue: 1,0:00:29.46,0:00:29.50,Sign,,0,0,0,,{\pos(668,508.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:29.46,0:00:29.50,Sign,,0,0,0,,{\pos(664,495)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Really?
 Dialogue: 0,0:00:29.50,0:00:29.96,Sign,,0,0,0,,{\pos(668,453.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 2,0:00:31.88,0:00:31.92,Sign,,0,0,0,,{\pos(1232,720)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}For sure!
-Dialogue: 1,0:00:31.88,0:00:31.92,Sign,,0,0,0,,{\pos(1228,740)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 1,0:00:29.50,0:00:29.96,Sign,,0,0,0,,{\pos(668,453.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:29.50,0:00:29.96,Sign,,0,0,0,,{\pos(664,441.333)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Really?
+Dialogue: 0,0:00:29.42,0:00:29.46,Sign,,0,0,0,,{\pos(1126.667,618.667)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
+Dialogue: 1,0:00:29.42,0:00:29.46,Sign,,0,0,0,,{\pos(1126.667,618.667)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:29.42,0:00:29.46,Sign,,0,0,0,,{\pos(1132,604)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}That so?
+Dialogue: 0,0:00:29.46,0:00:29.50,Sign,,0,0,0,,{\pos(1126.667,509.667)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
+Dialogue: 1,0:00:29.46,0:00:29.50,Sign,,0,0,0,,{\pos(1126.667,509.667)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:29.46,0:00:29.50,Sign,,0,0,0,,{\pos(1132,493.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}That so?
+Dialogue: 0,0:00:29.50,0:00:29.96,Sign,,0,0,0,,{\pos(1126.667,454.667)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
+Dialogue: 1,0:00:29.50,0:00:29.96,Sign,,0,0,0,,{\pos(1126.667,454.667)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:29.50,0:00:29.96,Sign,,0,0,0,,{\pos(1132,440)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}That so?
 Dialogue: 0,0:00:31.88,0:00:31.92,Sign,,0,0,0,,{\pos(1228,740)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 2,0:00:31.92,0:00:31.97,Sign,,0,0,0,,{\pos(1201.333,598.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}For sure!
-Dialogue: 1,0:00:31.92,0:00:31.97,Sign,,0,0,0,,{\pos(1194.667,612)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 1,0:00:31.88,0:00:31.92,Sign,,0,0,0,,{\pos(1228,740)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:31.88,0:00:31.92,Sign,,0,0,0,,{\pos(1232,720)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}For sure!
 Dialogue: 0,0:00:31.92,0:00:31.97,Sign,,0,0,0,,{\pos(1194.667,612)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 2,0:00:31.97,0:00:32.01,Sign,,0,0,0,,{\pos(1173.333,514.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}For sure!
-Dialogue: 1,0:00:31.97,0:00:32.01,Sign,,0,0,0,,{\pos(1170.667,529.333)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 1,0:00:31.92,0:00:31.97,Sign,,0,0,0,,{\pos(1194.667,612)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:31.92,0:00:31.97,Sign,,0,0,0,,{\pos(1201.333,598.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}For sure!
 Dialogue: 0,0:00:31.97,0:00:32.01,Sign,,0,0,0,,{\pos(1170.667,529.333)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 2,0:00:32.01,0:00:32.59,Sign,,0,0,0,,{\pos(1154.667,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}For sure!
-Dialogue: 1,0:00:32.01,0:00:32.59,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 1,0:00:31.97,0:00:32.01,Sign,,0,0,0,,{\pos(1170.667,529.333)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:31.97,0:00:32.01,Sign,,0,0,0,,{\pos(1173.333,514.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}For sure!
 Dialogue: 0,0:00:32.01,0:00:32.59,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 2,0:00:31.88,0:00:31.92,Sign,,0,0,0,,{\pos(44,718.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Right!
-Dialogue: 1,0:00:31.88,0:00:31.92,Sign,,0,0,0,,{\pos(44,733.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 1,0:00:32.01,0:00:32.59,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:32.01,0:00:32.59,Sign,,0,0,0,,{\pos(1154.667,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}For sure!
 Dialogue: 0,0:00:31.88,0:00:31.92,Sign,,0,0,0,,{\pos(44,733.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 2,0:00:31.92,0:00:31.97,Sign,,0,0,0,,{\pos(97.333,600)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Right!
-Dialogue: 1,0:00:31.92,0:00:31.97,Sign,,0,0,0,,{\pos(97.333,617.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 1,0:00:31.88,0:00:31.92,Sign,,0,0,0,,{\pos(44,733.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:31.88,0:00:31.92,Sign,,0,0,0,,{\pos(44,718.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Right!
 Dialogue: 0,0:00:31.92,0:00:31.97,Sign,,0,0,0,,{\pos(97.333,617.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 2,0:00:31.97,0:00:32.01,Sign,,0,0,0,,{\pos(112,519.555)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Right!
-Dialogue: 1,0:00:31.97,0:00:32.01,Sign,,0,0,0,,{\pos(112,536)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 1,0:00:31.92,0:00:31.97,Sign,,0,0,0,,{\pos(97.333,617.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:31.92,0:00:31.97,Sign,,0,0,0,,{\pos(97.333,600)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Right!
 Dialogue: 0,0:00:31.97,0:00:32.01,Sign,,0,0,0,,{\pos(112,536)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 2,0:00:32.01,0:00:32.59,Sign,,0,0,0,,{\pos(130.667,469.333)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Right!
-Dialogue: 1,0:00:32.01,0:00:32.59,Sign,,0,0,0,,{\pos(132,485.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 1,0:00:31.97,0:00:32.01,Sign,,0,0,0,,{\pos(112,536)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:31.97,0:00:32.01,Sign,,0,0,0,,{\pos(112,519.555)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Right!
 Dialogue: 0,0:00:32.01,0:00:32.59,Sign,,0,0,0,,{\pos(132,485.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 2,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(1154.667,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Nice!
-Dialogue: 2,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(116,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Yeah!
-Dialogue: 1,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
-Dialogue: 1,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(117.333,489.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
-Dialogue: 0,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
+Dialogue: 1,0:00:32.01,0:00:32.59,Sign,,0,0,0,,{\pos(132,485.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:32.01,0:00:32.59,Sign,,0,0,0,,{\pos(130.667,469.333)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Right!
 Dialogue: 0,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(117.333,489.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
-Dialogue: 2,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(1154.667,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Cool!
-Dialogue: 2,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(116,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.75}Awesome!
-Dialogue: 1,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
-Dialogue: 1,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(117.333,489.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
-Dialogue: 0,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
+Dialogue: 1,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(117.333,489.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(116,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Yeah!
+Dialogue: 0,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
+Dialogue: 1,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:00:59.45,0:01:00.16,Sign,,0,0,0,,{\pos(1154.667,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Nice!
 Dialogue: 0,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(117.333,489.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
+Dialogue: 1,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(117.333,489.333)\fry180\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(116,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.75}Awesome!
+Dialogue: 0,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\bord2\c&H000000&\1a&HC8&\blur0.75}A
+Dialogue: 1,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(1152,489.333)\fnsolid-speech-bubbles-paul-tos\fs200\4a&HFF&\blur0.75}A
+Dialogue: 2,0:01:09.50,0:01:10.21,Sign,,0,0,0,,{\pos(1154.667,474.667)\fnCC Astro City\fs21.33\b0\c&H000000&\blur0.73}Cool!
