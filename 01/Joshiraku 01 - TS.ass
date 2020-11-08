@@ -16,10 +16,12 @@ Original Timing: gsk_
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default (720p)
-Audio File: JoshirakuBD_01 (Premux).mkv
-Video File: JoshirakuBD_01 (Premux).mkv
+Audio File: JoshirakuBD_01v2 (Premux).mkv
+Video File: JoshirakuBD_01v2 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Video Position: 6787
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,17 +30,17 @@ Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:04:43.05,0:04:45.05,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:04:43.05,0:04:45.05,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Usual Conversation
+Dialogue: 1,0:04:43.05,0:04:45.05,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Usual Conversation
 Dialogue: 0,0:11:00.55,0:11:02.55,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:11:00.55,0:11:02.55,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Different Clothes
+Dialogue: 1,0:11:00.55,0:11:02.55,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Different Clothes
 Dialogue: 0,0:15:13.05,0:15:15.06,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:15:13.05,0:15:15.06,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Shouting Instructions
+Dialogue: 1,0:15:13.05,0:15:15.06,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Shouting Instructions
 Dialogue: 0,0:23:40.10,0:23:42.85,Sign,,0,0,0,repeat TS,{\pos(588,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:23:40.10,0:23:42.85,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\2a&HFF&\blur0.8}Next Time
+Dialogue: 1,0:23:40.10,0:23:42.85,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\2a&HFF&\blur0.6}Next Time
 Dialogue: 0,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\pos(588,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,240)}① {\an4\fnGaramond Premr Pro Smbd Capt}Backstage Wealth
-Dialogue: 1,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}Tower Trip
-Dialogue: 1,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Girl with a Cold
+Dialogue: 1,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,240)}① {\an4\fnGaramond Premr Pro Smbd Capt}Backstage Wealth
+Dialogue: 1,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}Tower Trip
+Dialogue: 1,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Girl with a Cold
 Dialogue: 0,0:10:40.61,0:10:43.12,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz21.86\fscx100\fscy100\c&H010000&\pos(460,503)\p1}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 1,0:10:40.61,0:10:43.12,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz21.86\fscx97.5\fscy90\c&HFFFFFF&\pos(460,503)\p1}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 2,0:10:40.61,0:10:43.12,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz21.86\fscx94.5\fscy80\pos(460,503)\p1\c&H000000&}m -168 -46 l 182 -46 182 43 -168 43
@@ -54,45 +56,45 @@ Dialogue: 3,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\fnBrushType-SemiBold\fs5
 Dialogue: 0,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\fnBrushStroke 35\fs67\c&H000000&\blur0.8\frz341.2\pos(1083,591)}Rakugo Girls
 Dialogue: 0,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\fnBrushStroke 35\fs67\c&H000000&\blur0.8\frz341.2\pos(1083,591)}Rakugo Girls
 Dialogue: 0,0:04:31.08,0:04:43.05,Sign,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:04:31.75,0:04:43.05,Sign,,0,0,0,,{\kf78}{\pos(72,218)\an7\fs54\fnGaramond Premr Pro Smbd Capt\pos(72,60)\2c&H0000FF&\2a&HFF&\blur1}The conversations in this anime{\kf1052}
-Dialogue: 1,0:04:33.29,0:04:43.05,Sign,,0,0,0,,{\kf276}{\pos(72,274)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur1}are written to be as inoffensive as possible{\kf700}
-Dialogue: 1,0:04:36.46,0:04:43.05,Sign,,0,0,0,,{\kf135}{\pos(72,330)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur1}so as not to interfere{\kf32} {\kf141}with your enjoyment{\kf351}
-Dialogue: 1,0:04:41.05,0:04:43.05,Sign,,0,0,0,,{\kf94}{\pos(72,386)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur1}of viewing cute girls.{\kf99}
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=2}{\blur0.72\an7\pos(886,497.333)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}F
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=2}{\blur0.72\an7\pos(886,497.333)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}F
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(899.935,497.605)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}r
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(899.935,497.605)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}r
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(913.172,497.863)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}e
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(913.172,497.863)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}e
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(925.024,498.095)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}e
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(925.024,498.095)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}e
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(947.061,498.525)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}M
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(947.061,498.525)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}M
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(967.672,498.927)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}e
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(967.672,498.927)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}e
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(979.524,499.158)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}a
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(979.524,499.158)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}a
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(994.635,499.453)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}l
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(994.635,499.453)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}l
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1000.635,499.57)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}s
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1000.635,499.57)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}s
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1021.818,499.983)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}f
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1021.818,499.983)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}f
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1031.761,499.699)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}o
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1031.761,499.699)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}o
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1045.482,499.245)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}r
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1045.482,499.245)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}r
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1068.897,498.469)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}L
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1068.897,498.469)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}L
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1082.66,498.013)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}i
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1082.66,498.013)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}i
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1089.75,497.779)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}f
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1089.75,497.779)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}f
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1099.692,497.449)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1155,1200,\1a&H00&)}e
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1099.692,497.449)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1200,0)\c&H192631&\bord0\4a&HFF&}e
+Dialogue: 1,0:04:31.75,0:04:43.05,Sign,,0,0,0,,{\kf78}{\pos(72,218)\an7\fs54\fnGaramond Premr Pro Smbd Capt\pos(72,60)\2c&H0000FF&\2a&HFF&\blur0.7}The conversations in this anime{\kf1052}
+Dialogue: 1,0:04:33.29,0:04:43.05,Sign,,0,0,0,,{\kf276}{\pos(72,274)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.7}are written to be as inoffensive as possible{\kf700}
+Dialogue: 1,0:04:36.46,0:04:43.05,Sign,,0,0,0,,{\kf135}{\pos(72,330)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.7}so as not to interfere{\kf32} {\kf141}with your enjoyment{\kf351}
+Dialogue: 1,0:04:41.05,0:04:43.05,Sign,,0,0,0,,{\kf94}{\pos(72,386)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.7}of viewing cute girls.{\kf99}
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=2}{\blur0.72\an7\pos(886,497.333)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}F
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=2}{\blur0.72\an7\pos(886,497.333)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}F
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(899.935,497.605)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}r
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(899.935,497.605)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}r
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(913.172,497.863)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}e
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(913.172,497.863)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}e
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(925.024,498.095)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}e
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(925.024,498.095)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}e
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(947.061,498.525)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}M
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(947.061,498.525)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}M
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(967.672,498.927)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}e
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(967.672,498.927)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}e
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(979.524,499.158)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}a
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(979.524,499.158)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}a
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(994.635,499.453)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}l
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(994.635,499.453)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}l
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1000.635,499.57)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}s
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1000.635,499.57)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}s
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1021.818,499.983)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}f
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1021.818,499.983)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}f
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1031.761,499.699)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}o
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1031.761,499.699)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}o
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1045.482,499.245)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}r
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1045.482,499.245)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}r
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1068.897,498.469)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}L
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1068.897,498.469)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}L
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1082.66,498.013)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}i
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1082.66,498.013)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}i
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1089.75,497.779)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}f
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1089.75,497.779)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}f
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1099.692,497.449)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}e
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{=3}{\blur0.72\an7\pos(1099.692,497.449)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}e
 Dialogue: 0,0:06:26.19,0:06:28.86,Sign,,0,0,0,,{\an7\blur1.333\bord0\shad0\fscx100\fscy100\pos(144,763.111)\p1\c&HE6EFF7&}m 94 -131.375 l 131.375 -141.375 195.375 -106 192 -47.375 80 -50.625
-Dialogue: 1,0:06:26.19,0:06:28.86,Sign,,0,0,0,,{\org(277,696)\fax0.39\fs32\fnLemon Jelly Personal Use\c&H000000&\pos(264.889,699.555)\1a&H50&\b0\frz341.2\frx352.9\fry1.99\blur0.533}Invitation
-Dialogue: 1,0:06:26.19,0:06:28.86,Sign,,0,0,0,,{\org(277,696)\fry1.99\frx-1.09\fax0.39\c&H000000&\fs32\fnLemon Jelly Personal Use\pos(256,664)\1a&H50&\b0\frz342.7\blur0.533}Party
+Dialogue: 1,0:06:26.19,0:06:28.86,Sign,,0,0,0,,{\c&H788D93&\fs32\fnLemon Jelly Personal Use\b0\blur0.6\frz338.5\fax0.62\pos(270,670)}Party
+Dialogue: 1,0:06:26.19,0:06:28.86,Sign,,0,0,0,,{\c&H788D93&\fs32\fnLemon Jelly Personal Use\b0\blur0.6\frz338.5\fax0.63\pos(270,703)}Invitation
 Dialogue: 1,0:09:10.73,0:09:10.78,Sign,,0,0,0,,{=6}{\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.913\pos(641.36,319.153)}Marii Buratei
 Dialogue: 1,0:09:10.73,0:09:10.78,Sign,,0,0,0,,{=6}{\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.913\pos(641.36,319.153)}Marii Buratei
 Dialogue: 1,0:09:10.78,0:09:10.82,Sign,,0,0,0,,{=6}{\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.913\pos(641.36,349.82)}Marii Buratei
@@ -218,14 +220,14 @@ Dialogue: 1,0:10:33.90,0:10:35.15,Sign,,0,0,0,,{\an7\blur0.467\bord0\shad0\fscx1
 Dialogue: 2,0:10:33.90,0:10:35.15,Sign,,0,0,0,,{\fnbrush-tipTerrence trial\fs40\c&H373F42&\blur0.667\frz0.4194\pos(1108.027,200.227)\b0}W{\fsp9.333}e{\fsp}dre{\fsp9.333}w{\fsp}this{\fnBrush-Hyouka\fs26.667}!
 Dialogue: 0,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\an7\blur0.667\bord0\shad0\fscx100\fscy100\pos(636.027,472.227)\p1\c&HD5E2EC&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
 Dialogue: 1,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\an7\blur0.467\bord0\shad0\fscx100\fscy100\pos(636.027,472.227)\p1\c&HD5E2EC&\bord2\3c&H647181&\1a&H80&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
-Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\fnFenix\fs22.667\c&H373F42&\blur0.667\frz0.4194\pos(1108.027,148.671)}Tokyo Metropolitan \NOrdinance
-Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\fnFenix\fs22.667\c&H373F42&\blur0.667\frz0.4194\pos(1108.027,148.671)}Tokyo Metropolitan \NOrdinance
-Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\fnFenix\fs18.667\c&H373F42&\blur0.667\frz0.4194\pos(1108.027,226.893)}Regarding The healthy \Ndevelopment of youths.
-Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\fnFenix\fs18.667\c&H373F42&\blur0.667\frz0.4194\pos(1108.027,226.893)}Regarding The healthy \Ndevelopment of youths.
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\fnFenix\fs22.667\c&H373F42&\blur0.667\frz0.4194\pos(1106,148.671)}Tokyo Metropolitan \NOrdinance
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\fnFenix\fs22.667\c&H373F42&\blur0.667\frz0.4194\pos(1106,148.671)}Tokyo Metropolitan \NOrdinance
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\fnFenix\fs18.667\c&H373F42&\blur0.667\frz0.4194\pos(1106,226.893)}Regarding The healthy \Ndevelopment of youths.
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\fnFenix\fs18.667\c&H373F42&\blur0.667\frz0.4194\pos(1106,226.893)}Regarding The healthy \Ndevelopment of youths.
 Dialogue: 0,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\an7\blur0.667\bord0\shad0\fscx100\fscy100\pos(636.027,472.227)\p1\c&HD5E2EC&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
 Dialogue: 1,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\an7\blur0.467\bord0\shad0\fscx100\fscy100\pos(636.027,472.227)\p1\c&HD5E2EC&\bord2\3c&H647181&\1a&H80&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
-Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\fnEstandar Rounded\fs26.667\c&H373F42&\blur0.667\frz0.4194\pos(1108.027,200.227)\fsp1.333}Endemic lack \Nof \Ntransparency
-Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\fnEstandar Rounded\fs26.667\c&H373F42&\blur0.667\frz0.4194\pos(1108.027,200.227)\fsp1.333}Endemic lack \Nof \Ntransparency
+Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\fnEstandar Rounded\fs26.667\c&H373F42&\blur0.667\frz0.4194\pos(1106,200.227)\fsp1.333}Endemic lack \Nof \Ntransparency
+Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\fnEstandar Rounded\fs26.667\c&H373F42&\blur0.667\frz0.4194\pos(1106,200.227)\fsp1.333}Endemic lack \Nof \Ntransparency
 Dialogue: 0,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\an7\blur0.667\bord0\shad0\fscx100\fscy100\pos(636.027,472.227)\p1\c&HD5E2EC&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
 Dialogue: 1,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\an7\blur0.467\bord0\shad0\fscx100\fscy100\pos(636.027,472.227)\p1\c&HD5E2EC&\bord2\3c&H647181&\1a&H80&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
 Dialogue: 1,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1105.543,179.608)\fnArial\fs533\c&H4A4F53&\clip(m 1014 90.625 l 1015.375 315.375 1196.625 318.625 1197.375 92.625)}●
@@ -275,13 +277,13 @@ Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1175.065,207.309)\frz-17\fn
 Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1175.065,207.309)\frz-17\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}s!
 Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1175.065,207.309)\frz-17\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}s!
 Dialogue: 0,0:15:24.31,0:15:32.32,Sign,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:15:24.31,0:15:32.32,Sign,,0,0,0,,{\kf78}{\pos(72,218)\an7\fs54\fnGaramond Premr Pro Smbd Capt\pos(72,60)\2c&H0000FF&\2a&HFF&\blur1}The conversations in this anime{\kf1052}
-Dialogue: 1,0:15:25.19,0:15:32.32,Sign,,0,0,0,,{\kf237}{\pos(72,274)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur1}are written to be as inoffensive as possible{\kf147}
-Dialogue: 1,0:15:27.73,0:15:32.32,Sign,,0,0,0,,{\kf104}{\pos(72,330)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur1}so as not to interfere{\kf16} {\kf113}with your enjoyment{\kf226}
-Dialogue: 1,0:15:30.36,0:15:32.32,Sign,,0,0,0,,{\kf129}{\pos(72,386)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur1}of viewing cute girls.{\kf67}{\kf0}
+Dialogue: 1,0:15:24.31,0:15:32.32,Sign,,0,0,0,,{\kf78}{\pos(72,218)\an7\fs54\fnGaramond Premr Pro Smbd Capt\pos(72,60)\2c&H0000FF&\2a&HFF&\blur0.7}The conversations in this anime{\kf1052}
+Dialogue: 1,0:15:25.19,0:15:32.32,Sign,,0,0,0,,{\kf237}{\pos(72,274)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.7}are written to be as inoffensive as possible{\kf147}
+Dialogue: 1,0:15:27.73,0:15:32.32,Sign,,0,0,0,,{\kf104}{\pos(72,330)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.7}so as not to interfere{\kf16} {\kf113}with your enjoyment{\kf226}
+Dialogue: 1,0:15:30.36,0:15:32.32,Sign,,0,0,0,,{\kf129}{\pos(72,386)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.7}of viewing cute girls.{\kf67}{\kf0}
 Dialogue: 0,0:16:19.41,0:16:25.17,Sign,,0,0,0,,{\an7\blur0.7\p1\c&H75C1E7&\pos(300,74)}m -23.375 -4 l -12.625 -22 12 -18.625 24 18.625 -16.625 22.625
-Dialogue: 1,0:16:19.41,0:16:25.17,Sign,,0,0,0,,{\fry2.69\frx-2.98\frz16.26\fs20\c&H3A5ACD&\fnGo Boom!\blur0.6\1a&H00&\pos(314,78)}Year of the \NDog
-Dialogue: 1,0:16:19.41,0:16:25.17,Sign,,0,0,0,,{\fry2.69\frx-2.98\frz16.26\fs20\c&H3A5ACD&\fnGo Boom!\blur0.6\1a&H00&\pos(314,78)}Year of the \NDog
+Dialogue: 1,0:16:19.41,0:16:25.17,Sign,,0,0,0,,{\fry2.69\frx-2.98\frz16.26\fs20\c&H3A5ACD&\fnGo Boom!\blur0.7\1a&H00&\pos(314,78)}Year of the \NDog
+Dialogue: 1,0:16:19.41,0:16:25.17,Sign,,0,0,0,,{\fry2.69\frx-2.98\frz16.26\fs20\c&H3A5ACD&\fnGo Boom!\blur0.7\1a&H00&\pos(314,78)}Year of the \NDog
 Dialogue: 0,0:16:25.54,0:16:29.00,Sign,,0,0,0,,{\pos(998,158)\fnGaramond Premr Pro Smbd Capt\fs40\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1}Dogs of war
 Dialogue: 0,0:16:25.54,0:16:29.00,Sign,,0,0,0,,{\pos(998,158)\fnGaramond Premr Pro Smbd Capt\fs40\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1}Dogs of war
 Dialogue: 1,0:16:25.54,0:16:29.00,Sign,,0,0,0,,{\pos(998,158)\fnGaramond Premr Pro Smbd Capt\fs40\shad0.01\1a&HFE&\3a&H00&\4a&H3C&\blur0.7}Dogs of war
