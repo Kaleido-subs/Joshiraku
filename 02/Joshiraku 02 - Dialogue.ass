@@ -28,7 +28,6 @@ Style: Alt,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Comment: 0,0:01:29.98,0:01:29.98,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:01:32.57,0:01:36.20,Default,,0,0,0,,"No, you idiot. Military {\i1}drills{\i0}!"
 Dialogue: 10,0:01:36.95,0:01:38.78,Default,,0,0,0,,Thanks for your continued appreciation!
