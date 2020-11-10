@@ -1010,131 +1010,225 @@ Dialogue: 0,0:21:30.97,0:21:31.01,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\f
 Dialogue: 0,0:21:31.01,0:21:31.06,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\p1\c&HEEEAE8&\pos(576,477.133)}m 6.625 48.625 l 78.625 38 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:31.06,0:21:31.10,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\p1\c&HEEEAE8&\pos(578.133,479.267)}m 6.625 48.625 l 78.625 38 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:31.10,0:21:31.14,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\p1\c&HEEEAE8&\pos(570.667,478.2)}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:31.14,0:21:31.18,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\p1\c&HEEEAE8&\pos(568.533,475)}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:31.18,0:21:31.22,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\p1\c&HEEEAE8&\pos(569.6,477.133)}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:31.22,0:21:31.26,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\p1\c&HEEEAE8&\pos(564.267,478.2)}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:31.26,0:21:31.31,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\p1\c&HEEEAE8&\pos(564.267,479.385)}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:31.31,0:21:31.35,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\p1\c&HEEEAE8&\pos(564.267,480.452)}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:31.35,0:21:31.39,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\p1\c&HEEEAE8&\pos(560,480.452)\frz359.8}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:31.39,0:21:31.43,Sign,,0,0,0,,{\pos(606.933,549.785)\frz359.8\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:31.14,0:21:31.18,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\c&HEEEAE8&\pos(570.533,476)\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:31.18,0:21:31.22,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\c&HEEEAE8&\pos(570.6,476.133)\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:31.22,0:21:31.26,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\c&HEEEAE8&\pos(566.267,478.2)\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:31.26,0:21:31.31,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\c&HEEEAE8&\pos(566.267,479.385)\p1}m 6.62 50 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:31.31,0:21:31.35,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\c&HEEEAE8&\pos(566.267,480.452)\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:31.35,0:21:31.39,Sign,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\c&HEEEAE8&\pos(562,480.452)\frz359.8\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:31.39,0:21:31.43,Sign,,0,0,0,,{\pos(607.933,547.785)\frz359.8\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:31.43,0:21:31.47,Sign,,0,0,0,,{\pos(607.822,546.585)\frz358.1\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:31.47,0:21:31.52,Sign,,0,0,0,,{\pos(603.733,546.585)\frz355\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:31.52,0:21:31.60,Sign,,0,0,0,,{\pos(602.667,546.585)\frz355\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:31.52,0:21:31.60,Sign,,0,0,0,,{\pos(603.667,546.585)\frz355\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:31.60,0:21:31.64,Sign,,0,0,0,,{\pos(599.467,546.585)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:31.64,0:21:31.68,Sign,,0,0,0,,{\pos(599.467,547.652)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:31.64,0:21:31.68,Sign,,0,0,0,,{\pos(599.467,546.652)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 50 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:31.68,0:21:31.72,Sign,,0,0,0,,{\pos(598.4,548.719)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:31.72,0:21:31.77,Sign,,0,0,0,,{\pos(590.933,551.919)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 40 170 26.625 160
-Dialogue: 0,0:21:31.77,0:21:31.81,Sign,,0,0,0,,{\pos(589.867,549.785)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:31.81,0:21:31.85,Sign,,0,0,0,,{\pos(590.933,548.452)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:31.85,0:21:31.89,Sign,,0,0,0,,{\pos(585.867,549.785)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:31.89,0:21:31.97,Sign,,0,0,0,,{\pos(585.867,548.452)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:31.72,0:21:31.77,Sign,,0,0,0,,{\pos(592.933,551.919)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 40 170 26.625 160
+Dialogue: 0,0:21:31.77,0:21:31.81,Sign,,0,0,0,,{\pos(592.867,548.785)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:31.81,0:21:31.85,Sign,,0,0,0,,{\pos(592.933,548.452)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:31.85,0:21:31.89,Sign,,0,0,0,,{\pos(586.867,548.785)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 50 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:31.89,0:21:31.97,Sign,,0,0,0,,{\pos(587.867,547.452)\c&HEEEAE8&\blur2\frz353.2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:31.97,0:21:32.02,Sign,,0,0,0,,{\pos(580.533,550.585)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:32.02,0:21:32.06,Sign,,0,0,0,,{\pos(580.533,548.452)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:32.06,0:21:32.10,Sign,,0,0,0,,{\pos(581.6,546.319)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:32.10,0:21:32.22,Sign,,0,0,0,,{\pos(586.933,547.385)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:32.22,0:21:32.27,Sign,,0,0,0,,{\pos(593.333,545.252)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:32.22,0:21:32.27,Sign,,0,0,0,,{\pos(593.333,546.252)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 50 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:32.27,0:21:32.35,Sign,,0,0,0,,{\pos(594.4,546.319)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:32.35,0:21:32.39,Sign,,0,0,0,,{\pos(600.8,546.319)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:32.39,0:21:32.47,Sign,,0,0,0,,{\pos(600.8,548.452)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:32.47,0:21:32.56,Sign,,0,0,0,,{\pos(604,544.185)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:32.47,0:21:32.56,Sign,,0,0,0,,{\pos(606,544.185)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 50 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:32.56,0:21:32.60,Sign,,0,0,0,,{\pos(605.067,547.385)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:32.60,0:21:32.64,Sign,,0,0,0,,{\pos(610.4,547.385)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:32.64,0:21:32.72,Sign,,0,0,0,,{\pos(610.4,548.452)\frz355.4\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:32.72,0:21:32.81,Sign,,0,0,0,,{\pos(616.8,545.252)\frz356.9\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
 Dialogue: 0,0:21:32.81,0:21:32.85,Sign,,0,0,0,,{\pos(615.733,547.385)\frz356.9\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:32.85,0:21:32.89,Sign,,0,0,0,,{\pos(621.067,545.252)\frz356.9\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 0,0:21:32.89,0:21:32.93,Sign,,0,0,0,,{\pos(621.067,542.052)\frz356.9\c&HEEEAE8&\blur2\p1}m 6.625 52 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
-Dialogue: 1,0:21:30.97,0:21:31.01,Sign,,0,0,0,,{\pos(629.333,579.533)\frz10.78\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:30.97,0:21:31.01,Sign,,0,0,0,,{\pos(629.333,579.533)\frz10.78\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.01,0:21:31.06,Sign,,0,0,0,,{\pos(629.333,581.353)\fscx99.98\fscy99.98\frz10.78\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.01,0:21:31.06,Sign,,0,0,0,,{\pos(629.333,581.353)\fscx99.98\fscy99.98\frz10.78\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.06,0:21:31.10,Sign,,0,0,0,,{\pos(629.327,583.18)\fscx99.98\fscy99.98\frz10.79\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.06,0:21:31.10,Sign,,0,0,0,,{\pos(629.327,583.18)\fscx99.98\fscy99.98\frz10.79\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.10,0:21:31.14,Sign,,0,0,0,,{\pos(623.587,582.18)\fscx100.39\fscy100.39\frz10.34\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.10,0:21:31.14,Sign,,0,0,0,,{\pos(623.587,582.18)\fscx100.39\fscy100.39\frz10.34\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.14,0:21:31.18,Sign,,0,0,0,,{\pos(623.607,579.547)\fscx100.4\fscy100.4\frz10.31\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.14,0:21:31.18,Sign,,0,0,0,,{\pos(623.607,579.547)\fscx100.4\fscy100.4\frz10.31\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.18,0:21:31.22,Sign,,0,0,0,,{\pos(623.613,580.353)\fscx100.42\fscy100.42\frz10.3\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.18,0:21:31.22,Sign,,0,0,0,,{\pos(623.613,580.353)\fscx100.42\fscy100.42\frz10.3\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.22,0:21:31.26,Sign,,0,0,0,,{\pos(618.507,582.22)\fscx100.4\fscy100.4\frz10.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.22,0:21:31.26,Sign,,0,0,0,,{\pos(618.507,582.22)\fscx100.4\fscy100.4\frz10.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.26,0:21:31.31,Sign,,0,0,0,,{\pos(618.5,582.893)\fscx100.39\fscy100.39\frz10.12\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.26,0:21:31.31,Sign,,0,0,0,,{\pos(618.5,582.893)\fscx100.39\fscy100.39\frz10.12\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.31,0:21:31.35,Sign,,0,0,0,,{\pos(618.507,584.247)\fscx100.38\fscy100.38\frz10.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.31,0:21:31.35,Sign,,0,0,0,,{\pos(618.507,584.247)\fscx100.38\fscy100.38\frz10.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.35,0:21:31.39,Sign,,0,0,0,,{\pos(613.82,584.62)\fscx100.39\fscy100.39\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.35,0:21:31.39,Sign,,0,0,0,,{\pos(613.82,584.62)\fscx100.39\fscy100.39\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.39,0:21:31.43,Sign,,0,0,0,,{\pos(613.82,585.127)\fscx100.39\fscy100.39\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.39,0:21:31.43,Sign,,0,0,0,,{\pos(613.82,585.127)\fscx100.39\fscy100.39\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.43,0:21:31.47,Sign,,0,0,0,,{\pos(613.82,583.953)\fscx100.37\fscy100.37\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.43,0:21:31.47,Sign,,0,0,0,,{\pos(613.82,583.953)\fscx100.37\fscy100.37\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.47,0:21:31.52,Sign,,0,0,0,,{\pos(606.527,583.907)\fscx99.5\fscy99.5\frz8.3\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.47,0:21:31.52,Sign,,0,0,0,,{\pos(606.527,583.907)\fscx99.5\fscy99.5\frz8.3\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.52,0:21:31.56,Sign,,0,0,0,,{\pos(606.533,583.887)\fscx99.51\fscy99.51\frz8.28\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.52,0:21:31.56,Sign,,0,0,0,,{\pos(606.533,583.887)\fscx99.51\fscy99.51\frz8.28\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.56,0:21:31.60,Sign,,0,0,0,,{\pos(606.513,583.153)\fscx99.51\fscy99.51\frz8.31\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.56,0:21:31.60,Sign,,0,0,0,,{\pos(606.513,583.153)\fscx99.51\fscy99.51\frz8.31\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.60,0:21:31.64,Sign,,0,0,0,,{\pos(601.653,584.227)\fscx99.9\fscy99.9\frz7.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.60,0:21:31.64,Sign,,0,0,0,,{\pos(601.653,584.227)\fscx99.9\fscy99.9\frz7.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.64,0:21:31.68,Sign,,0,0,0,,{\pos(601.66,584.407)\fscx99.94\fscy99.94\frz7.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.64,0:21:31.68,Sign,,0,0,0,,{\pos(601.66,584.407)\fscx99.94\fscy99.94\frz7.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.68,0:21:31.72,Sign,,0,0,0,,{\pos(601.673,585.78)\fscx99.96\fscy99.96\frz7.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.68,0:21:31.72,Sign,,0,0,0,,{\pos(601.673,585.78)\fscx99.96\fscy99.96\frz7.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.72,0:21:31.77,Sign,,0,0,0,,{\pos(595.847,587.933)\fscx100.19\fscy100.19\frz5.54\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.72,0:21:31.77,Sign,,0,0,0,,{\pos(595.847,587.933)\fscx100.19\fscy100.19\frz5.54\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.77,0:21:31.81,Sign,,0,0,0,,{\pos(595.807,586.247)\fscx100.17\fscy100.17\frz5.62\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.77,0:21:31.81,Sign,,0,0,0,,{\pos(595.807,586.247)\fscx100.17\fscy100.17\frz5.62\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.81,0:21:31.85,Sign,,0,0,0,,{\pos(595.807,585.413)\fscx100.17\fscy100.17\frz5.62\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.81,0:21:31.85,Sign,,0,0,0,,{\pos(595.807,585.413)\fscx100.17\fscy100.17\frz5.62\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.85,0:21:31.89,Sign,,0,0,0,,{\pos(589.86,586.42)\fscx100.2\fscy100.2\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.85,0:21:31.89,Sign,,0,0,0,,{\pos(589.86,586.42)\fscx100.2\fscy100.2\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.89,0:21:31.93,Sign,,0,0,0,,{\pos(589.86,585.433)\fscx100.18\fscy100.18\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.89,0:21:31.93,Sign,,0,0,0,,{\pos(589.86,585.433)\fscx100.18\fscy100.18\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.93,0:21:31.97,Sign,,0,0,0,,{\pos(589.867,586.433)\fscx100.19\fscy100.19\frz5.08\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.93,0:21:31.97,Sign,,0,0,0,,{\pos(589.867,586.433)\fscx100.19\fscy100.19\frz5.08\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.97,0:21:32.02,Sign,,0,0,0,,{\pos(584.767,587.533)\fscx100.14\fscy100.14\frz5.07\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:31.97,0:21:32.02,Sign,,0,0,0,,{\pos(584.767,587.533)\fscx100.14\fscy100.14\frz5.07\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.02,0:21:32.06,Sign,,0,0,0,,{\pos(584.753,586.7)\fscx100.12\fscy100.12\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.02,0:21:32.06,Sign,,0,0,0,,{\pos(584.753,586.7)\fscx100.12\fscy100.12\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.06,0:21:32.10,Sign,,0,0,0,,{\pos(584.753,583.54)\fscx100.12\fscy100.12\frz5.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.06,0:21:32.10,Sign,,0,0,0,,{\pos(584.753,583.54)\fscx100.12\fscy100.12\frz5.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.10,0:21:32.14,Sign,,0,0,0,,{\pos(590.687,584.267)\fscx100.11\fscy100.11\frz6.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.10,0:21:32.14,Sign,,0,0,0,,{\pos(590.687,584.267)\fscx100.11\fscy100.11\frz6.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.14,0:21:32.18,Sign,,0,0,0,,{\pos(590.7,584.953)\fscx100.21\fscy100.21\frz6.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.14,0:21:32.18,Sign,,0,0,0,,{\pos(590.7,584.953)\fscx100.21\fscy100.21\frz6.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.18,0:21:32.22,Sign,,0,0,0,,{\pos(590.7,584.347)\fscx100.17\fscy100.17\frz6.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.18,0:21:32.22,Sign,,0,0,0,,{\pos(590.7,584.347)\fscx100.17\fscy100.17\frz6.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.22,0:21:32.27,Sign,,0,0,0,,{\pos(597.52,583.453)\fscx100.26\fscy100.26\frz6.6\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.22,0:21:32.27,Sign,,0,0,0,,{\pos(597.52,583.453)\fscx100.26\fscy100.26\frz6.6\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.27,0:21:32.31,Sign,,0,0,0,,{\pos(597.507,583.853)\fscx100.19\fscy100.19\frz6.61\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.27,0:21:32.31,Sign,,0,0,0,,{\pos(597.507,583.853)\fscx100.19\fscy100.19\frz6.61\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.31,0:21:32.35,Sign,,0,0,0,,{\pos(597.513,583.42)\fscx100.25\fscy100.25\frz6.59\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.31,0:21:32.35,Sign,,0,0,0,,{\pos(597.513,583.42)\fscx100.25\fscy100.25\frz6.59\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.35,0:21:32.39,Sign,,0,0,0,,{\pos(603.893,583.853)\fscx100.15\fscy100.15\frz7.01\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.35,0:21:32.39,Sign,,0,0,0,,{\pos(603.893,583.853)\fscx100.15\fscy100.15\frz7.01\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.39,0:21:32.43,Sign,,0,0,0,,{\pos(603.893,586.58)\fscx100.2\fscy100.2\frz6.98\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.39,0:21:32.43,Sign,,0,0,0,,{\pos(603.893,586.58)\fscx100.2\fscy100.2\frz6.98\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.43,0:21:32.47,Sign,,0,0,0,,{\pos(603.887,586.087)\fscx100.18\fscy100.18\frz7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.43,0:21:32.47,Sign,,0,0,0,,{\pos(603.887,586.087)\fscx100.18\fscy100.18\frz7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.47,0:21:32.52,Sign,,0,0,0,,{\pos(609.193,581.373)\fscx100.53\fscy100.53\frz7.21\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.47,0:21:32.52,Sign,,0,0,0,,{\pos(609.193,581.373)\fscx100.53\fscy100.53\frz7.21\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.52,0:21:32.56,Sign,,0,0,0,,{\pos(609.207,581.607)\fscx100.54\fscy100.54\frz7.2\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.52,0:21:32.56,Sign,,0,0,0,,{\pos(609.207,581.607)\fscx100.54\fscy100.54\frz7.2\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.56,0:21:32.60,Sign,,0,0,0,,{\pos(609.22,584.427)\fscx100.51\fscy100.51\frz7.21\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.56,0:21:32.60,Sign,,0,0,0,,{\pos(609.22,584.427)\fscx100.51\fscy100.51\frz7.21\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.60,0:21:32.64,Sign,,0,0,0,,{\pos(614.313,584.52)\fscx100.52\fscy100.52\frz7.7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.60,0:21:32.64,Sign,,0,0,0,,{\pos(614.313,584.52)\fscx100.52\fscy100.52\frz7.7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.64,0:21:32.68,Sign,,0,0,0,,{\pos(614.32,585.633)\fscx100.53\fscy100.53\frz7.7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.64,0:21:32.68,Sign,,0,0,0,,{\pos(614.32,585.633)\fscx100.53\fscy100.53\frz7.7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.68,0:21:32.72,Sign,,0,0,0,,{\pos(614.313,584.853)\fscx100.53\fscy100.53\frz7.71\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.68,0:21:32.72,Sign,,0,0,0,,{\pos(614.313,584.853)\fscx100.53\fscy100.53\frz7.71\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.72,0:21:32.77,Sign,,0,0,0,,{\pos(620.713,582.94)\fscx100.59\fscy100.59\frz8.15\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.72,0:21:32.77,Sign,,0,0,0,,{\pos(620.713,582.94)\fscx100.59\fscy100.59\frz8.15\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.77,0:21:32.81,Sign,,0,0,0,,{\pos(620.707,583.44)\fscx100.6\fscy100.6\frz8.16\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.77,0:21:32.81,Sign,,0,0,0,,{\pos(620.707,583.44)\fscx100.6\fscy100.6\frz8.16\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.81,0:21:32.85,Sign,,0,0,0,,{\pos(620.72,584.02)\fscx100.57\fscy100.57\frz8.17\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.81,0:21:32.85,Sign,,0,0,0,,{\pos(620.72,584.02)\fscx100.57\fscy100.57\frz8.17\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.85,0:21:32.89,Sign,,0,0,0,,{\pos(625.807,582.653)\fscx100.62\fscy100.62\frz9.18\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.85,0:21:32.89,Sign,,0,0,0,,{\pos(625.807,582.653)\fscx100.62\fscy100.62\frz9.18\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.89,0:21:32.93,Sign,,0,0,0,,{\pos(625.807,580.66)\fscx100.62\fscy100.62\frz9.18\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
-Dialogue: 1,0:21:32.89,0:21:32.93,Sign,,0,0,0,,{\pos(625.807,580.66)\fscx100.62\fscy100.62\frz9.18\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky \Ncharm
+Dialogue: 0,0:21:32.85,0:21:32.89,Sign,,0,0,0,,{\pos(621.067,546.252)\frz356.9\c&HEEEAE8&\blur2\p1}m 6.625 50 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 0,0:21:32.89,0:21:32.93,Sign,,0,0,0,,{\pos(621.067,544.052)\frz356.9\c&HEEEAE8&\blur2\p1}m 6.625 50 l 78.625 33.375 99.375 160 38 167.375 23.375 154.625
+Dialogue: 1,0:21:30.97,0:21:31.01,Sign,,0,0,0,,{\pos(627.333,566.533)\frz10.78\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky
+Dialogue: 1,0:21:30.97,0:21:31.01,Sign,,0,0,0,,{\pos(631.333,592.533)\frz10.78\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:30.97,0:21:31.01,Sign,,0,0,0,,{\pos(627.333,566.533)\frz10.78\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky
+Dialogue: 1,0:21:30.97,0:21:31.01,Sign,,0,0,0,,{\pos(631.333,592.533)\frz10.78\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.01,0:21:31.06,Sign,,0,0,0,,{\pos(627.333,568.353)\fscx99.98\fscy99.98\frz10.78\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky
+Dialogue: 1,0:21:31.01,0:21:31.06,Sign,,0,0,0,,{\pos(631.333,594.353)\fscx99.98\fscy99.98\frz10.78\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.01,0:21:31.06,Sign,,0,0,0,,{\pos(627.333,568.353)\fscx99.98\fscy99.98\frz10.78\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky
+Dialogue: 1,0:21:31.01,0:21:31.06,Sign,,0,0,0,,{\pos(631.333,594.353)\fscx99.98\fscy99.98\frz10.78\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.06,0:21:31.10,Sign,,0,0,0,,{\pos(627.327,570.18)\fscx99.98\fscy99.98\frz10.79\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky
+Dialogue: 1,0:21:31.06,0:21:31.10,Sign,,0,0,0,,{\pos(631.327,596.18)\fscx99.98\fscy99.98\frz10.79\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.06,0:21:31.10,Sign,,0,0,0,,{\pos(627.327,570.18)\fscx99.98\fscy99.98\frz10.79\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky
+Dialogue: 1,0:21:31.06,0:21:31.10,Sign,,0,0,0,,{\pos(631.327,596.18)\fscx99.98\fscy99.98\frz10.79\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.10,0:21:31.14,Sign,,0,0,0,,{\pos(621.587,569.18)\fscx100.39\fscy100.39\frz10.34\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky
+Dialogue: 1,0:21:31.10,0:21:31.14,Sign,,0,0,0,,{\pos(626.587,595.18)\fscx100.39\fscy100.39\frz10.34\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.10,0:21:31.14,Sign,,0,0,0,,{\pos(621.587,569.18)\fscx100.39\fscy100.39\frz10.34\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky
+Dialogue: 1,0:21:31.10,0:21:31.14,Sign,,0,0,0,,{\pos(626.587,595.18)\fscx100.39\fscy100.39\frz10.34\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.14,0:21:31.18,Sign,,0,0,0,,{\pos(621.272,566.707)\fscx100.4\fscy100.4\frz10.31\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.14,0:21:31.18,Sign,,0,0,0,,{\pos(625.942,592.387)\fscx100.4\fscy100.4\frz10.31\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.14,0:21:31.18,Sign,,0,0,0,,{\pos(621.272,566.707)\fscx100.4\fscy100.4\frz10.31\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.14,0:21:31.18,Sign,,0,0,0,,{\pos(625.942,592.387)\fscx100.4\fscy100.4\frz10.31\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.18,0:21:31.22,Sign,,0,0,0,,{\pos(621.278,567.508)\fscx100.42\fscy100.42\frz10.3\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.18,0:21:31.22,Sign,,0,0,0,,{\pos(625.948,593.198)\fscx100.42\fscy100.42\frz10.3\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.18,0:21:31.22,Sign,,0,0,0,,{\pos(621.278,567.508)\fscx100.42\fscy100.42\frz10.3\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.18,0:21:31.22,Sign,,0,0,0,,{\pos(625.948,593.198)\fscx100.42\fscy100.42\frz10.3\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.22,0:21:31.26,Sign,,0,0,0,,{\pos(616.217,569.37)\fscx100.4\fscy100.4\frz10.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.22,0:21:31.26,Sign,,0,0,0,,{\pos(620.797,595.07)\fscx100.4\fscy100.4\frz10.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.22,0:21:31.26,Sign,,0,0,0,,{\pos(616.217,569.37)\fscx100.4\fscy100.4\frz10.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.22,0:21:31.26,Sign,,0,0,0,,{\pos(620.797,595.07)\fscx100.4\fscy100.4\frz10.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.26,0:21:31.31,Sign,,0,0,0,,{\pos(616.205,570.043)\fscx100.39\fscy100.39\frz10.12\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.26,0:21:31.31,Sign,,0,0,0,,{\pos(620.795,595.743)\fscx100.39\fscy100.39\frz10.12\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.26,0:21:31.31,Sign,,0,0,0,,{\pos(616.205,570.043)\fscx100.39\fscy100.39\frz10.12\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.26,0:21:31.31,Sign,,0,0,0,,{\pos(620.795,595.743)\fscx100.39\fscy100.39\frz10.12\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.31,0:21:31.35,Sign,,0,0,0,,{\pos(616.217,571.402)\fscx100.38\fscy100.38\frz10.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.31,0:21:31.35,Sign,,0,0,0,,{\pos(620.797,597.092)\fscx100.38\fscy100.38\frz10.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.31,0:21:31.35,Sign,,0,0,0,,{\pos(616.217,571.402)\fscx100.38\fscy100.38\frz10.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.31,0:21:31.35,Sign,,0,0,0,,{\pos(620.797,597.092)\fscx100.38\fscy100.38\frz10.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.35,0:21:31.39,Sign,,0,0,0,,{\pos(611.705,571.74)\fscx100.39\fscy100.39\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.35,0:21:31.39,Sign,,0,0,0,,{\pos(615.935,597.5)\fscx100.39\fscy100.39\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.35,0:21:31.39,Sign,,0,0,0,,{\pos(611.705,571.74)\fscx100.39\fscy100.39\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.35,0:21:31.39,Sign,,0,0,0,,{\pos(615.935,597.5)\fscx100.39\fscy100.39\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.39,0:21:31.43,Sign,,0,0,0,,{\pos(611.705,572.247)\fscx100.39\fscy100.39\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.39,0:21:31.43,Sign,,0,0,0,,{\pos(615.935,598.007)\fscx100.39\fscy100.39\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.39,0:21:31.43,Sign,,0,0,0,,{\pos(611.705,572.247)\fscx100.39\fscy100.39\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.39,0:21:31.43,Sign,,0,0,0,,{\pos(615.935,598.007)\fscx100.39\fscy100.39\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.43,0:21:31.47,Sign,,0,0,0,,{\pos(611.705,571.078)\fscx100.37\fscy100.37\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.43,0:21:31.47,Sign,,0,0,0,,{\pos(615.935,596.828)\fscx100.37\fscy100.37\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.43,0:21:31.47,Sign,,0,0,0,,{\pos(611.705,571.078)\fscx100.37\fscy100.37\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.43,0:21:31.47,Sign,,0,0,0,,{\pos(615.935,596.828)\fscx100.37\fscy100.37\frz9.33\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.47,0:21:31.52,Sign,,0,0,0,,{\pos(604.662,571.107)\fscx99.5\fscy99.5\frz8.3\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.47,0:21:31.52,Sign,,0,0,0,,{\pos(608.392,596.707)\fscx99.5\fscy99.5\frz8.3\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.47,0:21:31.52,Sign,,0,0,0,,{\pos(604.662,571.107)\fscx99.5\fscy99.5\frz8.3\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.47,0:21:31.52,Sign,,0,0,0,,{\pos(608.392,596.707)\fscx99.5\fscy99.5\frz8.3\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.52,0:21:31.56,Sign,,0,0,0,,{\pos(604.668,571.087)\fscx99.51\fscy99.51\frz8.28\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.52,0:21:31.56,Sign,,0,0,0,,{\pos(608.398,596.687)\fscx99.51\fscy99.51\frz8.28\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.52,0:21:31.56,Sign,,0,0,0,,{\pos(604.668,571.087)\fscx99.51\fscy99.51\frz8.28\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.52,0:21:31.56,Sign,,0,0,0,,{\pos(608.398,596.687)\fscx99.51\fscy99.51\frz8.28\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.56,0:21:31.60,Sign,,0,0,0,,{\pos(604.643,570.353)\fscx99.51\fscy99.51\frz8.31\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.56,0:21:31.60,Sign,,0,0,0,,{\pos(608.383,595.953)\fscx99.51\fscy99.51\frz8.31\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.56,0:21:31.60,Sign,,0,0,0,,{\pos(604.643,570.353)\fscx99.51\fscy99.51\frz8.31\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.56,0:21:31.60,Sign,,0,0,0,,{\pos(608.383,595.953)\fscx99.51\fscy99.51\frz8.31\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.60,0:21:31.64,Sign,,0,0,0,,{\pos(600.043,571.342)\fscx99.9\fscy99.9\frz7.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.60,0:21:31.64,Sign,,0,0,0,,{\pos(603.263,597.112)\fscx99.9\fscy99.9\frz7.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.60,0:21:31.64,Sign,,0,0,0,,{\pos(600.043,571.342)\fscx99.9\fscy99.9\frz7.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.60,0:21:31.64,Sign,,0,0,0,,{\pos(603.263,597.112)\fscx99.9\fscy99.9\frz7.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.64,0:21:31.68,Sign,,0,0,0,,{\pos(600.045,571.517)\fscx99.94\fscy99.94\frz7.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.64,0:21:31.68,Sign,,0,0,0,,{\pos(603.275,597.297)\fscx99.94\fscy99.94\frz7.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.64,0:21:31.68,Sign,,0,0,0,,{\pos(600.045,571.517)\fscx99.94\fscy99.94\frz7.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.64,0:21:31.68,Sign,,0,0,0,,{\pos(603.275,597.297)\fscx99.94\fscy99.94\frz7.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.68,0:21:31.72,Sign,,0,0,0,,{\pos(600.068,572.885)\fscx99.96\fscy99.96\frz7.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.68,0:21:31.72,Sign,,0,0,0,,{\pos(603.278,598.675)\fscx99.96\fscy99.96\frz7.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.68,0:21:31.72,Sign,,0,0,0,,{\pos(600.068,572.885)\fscx99.96\fscy99.96\frz7.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.68,0:21:31.72,Sign,,0,0,0,,{\pos(603.278,598.675)\fscx99.96\fscy99.96\frz7.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.72,0:21:31.77,Sign,,0,0,0,,{\pos(594.592,574.968)\fscx100.19\fscy100.19\frz5.54\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.72,0:21:31.77,Sign,,0,0,0,,{\pos(597.102,600.898)\fscx100.19\fscy100.19\frz5.54\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.72,0:21:31.77,Sign,,0,0,0,,{\pos(594.592,574.968)\fscx100.19\fscy100.19\frz5.54\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.72,0:21:31.77,Sign,,0,0,0,,{\pos(597.102,600.898)\fscx100.19\fscy100.19\frz5.54\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.77,0:21:31.81,Sign,,0,0,0,,{\pos(594.532,573.287)\fscx100.17\fscy100.17\frz5.62\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.77,0:21:31.81,Sign,,0,0,0,,{\pos(597.082,599.207)\fscx100.17\fscy100.17\frz5.62\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.77,0:21:31.81,Sign,,0,0,0,,{\pos(594.532,573.287)\fscx100.17\fscy100.17\frz5.62\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.77,0:21:31.81,Sign,,0,0,0,,{\pos(597.082,599.207)\fscx100.17\fscy100.17\frz5.62\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.81,0:21:31.85,Sign,,0,0,0,,{\pos(594.532,572.453)\fscx100.17\fscy100.17\frz5.62\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.81,0:21:31.85,Sign,,0,0,0,,{\pos(597.082,598.373)\fscx100.17\fscy100.17\frz5.62\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.81,0:21:31.85,Sign,,0,0,0,,{\pos(594.532,572.453)\fscx100.17\fscy100.17\frz5.62\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.81,0:21:31.85,Sign,,0,0,0,,{\pos(597.082,598.373)\fscx100.17\fscy100.17\frz5.62\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.85,0:21:31.89,Sign,,0,0,0,,{\pos(588.7,573.445)\fscx100.2\fscy100.2\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.85,0:21:31.89,Sign,,0,0,0,,{\pos(591.02,599.395)\fscx100.2\fscy100.2\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.85,0:21:31.89,Sign,,0,0,0,,{\pos(588.7,573.445)\fscx100.2\fscy100.2\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.85,0:21:31.89,Sign,,0,0,0,,{\pos(591.02,599.395)\fscx100.2\fscy100.2\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.89,0:21:31.93,Sign,,0,0,0,,{\pos(588.7,572.463)\fscx100.18\fscy100.18\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.89,0:21:31.93,Sign,,0,0,0,,{\pos(591.02,598.403)\fscx100.18\fscy100.18\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.89,0:21:31.93,Sign,,0,0,0,,{\pos(588.7,572.463)\fscx100.18\fscy100.18\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.89,0:21:31.93,Sign,,0,0,0,,{\pos(591.02,598.403)\fscx100.18\fscy100.18\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.93,0:21:31.97,Sign,,0,0,0,,{\pos(588.712,573.458)\fscx100.19\fscy100.19\frz5.08\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.93,0:21:31.97,Sign,,0,0,0,,{\pos(591.022,599.408)\fscx100.19\fscy100.19\frz5.08\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.93,0:21:31.97,Sign,,0,0,0,,{\pos(588.712,573.458)\fscx100.19\fscy100.19\frz5.08\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.93,0:21:31.97,Sign,,0,0,0,,{\pos(591.022,599.408)\fscx100.19\fscy100.19\frz5.08\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.97,0:21:32.02,Sign,,0,0,0,,{\pos(583.617,574.568)\fscx100.14\fscy100.14\frz5.07\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.97,0:21:32.02,Sign,,0,0,0,,{\pos(585.917,600.498)\fscx100.14\fscy100.14\frz5.07\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:31.97,0:21:32.02,Sign,,0,0,0,,{\pos(583.617,574.568)\fscx100.14\fscy100.14\frz5.07\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:31.97,0:21:32.02,Sign,,0,0,0,,{\pos(585.917,600.498)\fscx100.14\fscy100.14\frz5.07\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.02,0:21:32.06,Sign,,0,0,0,,{\pos(583.598,573.735)\fscx100.12\fscy100.12\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.02,0:21:32.06,Sign,,0,0,0,,{\pos(585.908,599.665)\fscx100.12\fscy100.12\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.02,0:21:32.06,Sign,,0,0,0,,{\pos(583.598,573.735)\fscx100.12\fscy100.12\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.02,0:21:32.06,Sign,,0,0,0,,{\pos(585.908,599.665)\fscx100.12\fscy100.12\frz5.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.06,0:21:32.10,Sign,,0,0,0,,{\pos(583.593,570.575)\fscx100.12\fscy100.12\frz5.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.06,0:21:32.10,Sign,,0,0,0,,{\pos(585.913,596.505)\fscx100.12\fscy100.12\frz5.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.06,0:21:32.10,Sign,,0,0,0,,{\pos(583.593,570.575)\fscx100.12\fscy100.12\frz5.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.06,0:21:32.10,Sign,,0,0,0,,{\pos(585.913,596.505)\fscx100.12\fscy100.12\frz5.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.10,0:21:32.14,Sign,,0,0,0,,{\pos(589.297,571.327)\fscx100.11\fscy100.11\frz6.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.10,0:21:32.14,Sign,,0,0,0,,{\pos(592.077,597.207)\fscx100.11\fscy100.11\frz6.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.10,0:21:32.14,Sign,,0,0,0,,{\pos(589.297,571.327)\fscx100.11\fscy100.11\frz6.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.10,0:21:32.14,Sign,,0,0,0,,{\pos(592.077,597.207)\fscx100.11\fscy100.11\frz6.13\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.14,0:21:32.18,Sign,,0,0,0,,{\pos(589.315,571.998)\fscx100.21\fscy100.21\frz6.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.14,0:21:32.18,Sign,,0,0,0,,{\pos(592.085,597.908)\fscx100.21\fscy100.21\frz6.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.14,0:21:32.18,Sign,,0,0,0,,{\pos(589.315,571.998)\fscx100.21\fscy100.21\frz6.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.14,0:21:32.18,Sign,,0,0,0,,{\pos(592.085,597.908)\fscx100.21\fscy100.21\frz6.1\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.18,0:21:32.22,Sign,,0,0,0,,{\pos(589.315,571.397)\fscx100.17\fscy100.17\frz6.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.18,0:21:32.22,Sign,,0,0,0,,{\pos(592.085,597.297)\fscx100.17\fscy100.17\frz6.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.18,0:21:32.22,Sign,,0,0,0,,{\pos(589.315,571.397)\fscx100.17\fscy100.17\frz6.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.18,0:21:32.22,Sign,,0,0,0,,{\pos(592.085,597.297)\fscx100.17\fscy100.17\frz6.11\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.22,0:21:32.27,Sign,,0,0,0,,{\pos(596.02,570.508)\fscx100.26\fscy100.26\frz6.6\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.22,0:21:32.27,Sign,,0,0,0,,{\pos(599.02,596.398)\fscx100.26\fscy100.26\frz6.6\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.22,0:21:32.27,Sign,,0,0,0,,{\pos(596.02,570.508)\fscx100.26\fscy100.26\frz6.6\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.22,0:21:32.27,Sign,,0,0,0,,{\pos(599.02,596.398)\fscx100.26\fscy100.26\frz6.6\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.27,0:21:32.31,Sign,,0,0,0,,{\pos(596.007,570.913)\fscx100.19\fscy100.19\frz6.61\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.27,0:21:32.31,Sign,,0,0,0,,{\pos(599.007,596.793)\fscx100.19\fscy100.19\frz6.61\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.27,0:21:32.31,Sign,,0,0,0,,{\pos(596.007,570.913)\fscx100.19\fscy100.19\frz6.61\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.27,0:21:32.31,Sign,,0,0,0,,{\pos(599.007,596.793)\fscx100.19\fscy100.19\frz6.61\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.31,0:21:32.35,Sign,,0,0,0,,{\pos(596.018,570.475)\fscx100.25\fscy100.25\frz6.59\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.31,0:21:32.35,Sign,,0,0,0,,{\pos(599.008,596.365)\fscx100.25\fscy100.25\frz6.59\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.31,0:21:32.35,Sign,,0,0,0,,{\pos(596.018,570.475)\fscx100.25\fscy100.25\frz6.59\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.31,0:21:32.35,Sign,,0,0,0,,{\pos(599.008,596.365)\fscx100.25\fscy100.25\frz6.59\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.35,0:21:32.39,Sign,,0,0,0,,{\pos(602.303,570.933)\fscx100.15\fscy100.15\frz7.01\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.35,0:21:32.39,Sign,,0,0,0,,{\pos(605.483,596.773)\fscx100.15\fscy100.15\frz7.01\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.35,0:21:32.39,Sign,,0,0,0,,{\pos(602.303,570.933)\fscx100.15\fscy100.15\frz7.01\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.35,0:21:32.39,Sign,,0,0,0,,{\pos(605.483,596.773)\fscx100.15\fscy100.15\frz7.01\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.39,0:21:32.43,Sign,,0,0,0,,{\pos(602.308,573.65)\fscx100.2\fscy100.2\frz6.98\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.39,0:21:32.43,Sign,,0,0,0,,{\pos(605.478,599.51)\fscx100.2\fscy100.2\frz6.98\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.39,0:21:32.43,Sign,,0,0,0,,{\pos(602.308,573.65)\fscx100.2\fscy100.2\frz6.98\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.39,0:21:32.43,Sign,,0,0,0,,{\pos(605.478,599.51)\fscx100.2\fscy100.2\frz6.98\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.43,0:21:32.47,Sign,,0,0,0,,{\pos(602.302,573.162)\fscx100.18\fscy100.18\frz7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.43,0:21:32.47,Sign,,0,0,0,,{\pos(605.472,599.012)\fscx100.18\fscy100.18\frz7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.43,0:21:32.47,Sign,,0,0,0,,{\pos(602.302,573.162)\fscx100.18\fscy100.18\frz7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.43,0:21:32.47,Sign,,0,0,0,,{\pos(605.472,599.012)\fscx100.18\fscy100.18\frz7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.47,0:21:32.52,Sign,,0,0,0,,{\pos(607.553,568.408)\fscx100.53\fscy100.53\frz7.21\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.47,0:21:32.52,Sign,,0,0,0,,{\pos(610.833,594.338)\fscx100.53\fscy100.53\frz7.21\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.47,0:21:32.52,Sign,,0,0,0,,{\pos(607.553,568.408)\fscx100.53\fscy100.53\frz7.21\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.47,0:21:32.52,Sign,,0,0,0,,{\pos(610.833,594.338)\fscx100.53\fscy100.53\frz7.21\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.52,0:21:32.56,Sign,,0,0,0,,{\pos(607.567,568.642)\fscx100.54\fscy100.54\frz7.2\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.52,0:21:32.56,Sign,,0,0,0,,{\pos(610.847,594.572)\fscx100.54\fscy100.54\frz7.2\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.52,0:21:32.56,Sign,,0,0,0,,{\pos(607.567,568.642)\fscx100.54\fscy100.54\frz7.2\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.52,0:21:32.56,Sign,,0,0,0,,{\pos(610.847,594.572)\fscx100.54\fscy100.54\frz7.2\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.56,0:21:32.60,Sign,,0,0,0,,{\pos(607.58,571.462)\fscx100.51\fscy100.51\frz7.21\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.56,0:21:32.60,Sign,,0,0,0,,{\pos(610.86,597.392)\fscx100.51\fscy100.51\frz7.21\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.56,0:21:32.60,Sign,,0,0,0,,{\pos(607.58,571.462)\fscx100.51\fscy100.51\frz7.21\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.56,0:21:32.60,Sign,,0,0,0,,{\pos(610.86,597.392)\fscx100.51\fscy100.51\frz7.21\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.60,0:21:32.64,Sign,,0,0,0,,{\pos(612.563,571.57)\fscx100.52\fscy100.52\frz7.7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.60,0:21:32.64,Sign,,0,0,0,,{\pos(616.063,597.47)\fscx100.52\fscy100.52\frz7.7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.60,0:21:32.64,Sign,,0,0,0,,{\pos(612.563,571.57)\fscx100.52\fscy100.52\frz7.7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.60,0:21:32.64,Sign,,0,0,0,,{\pos(616.063,597.47)\fscx100.52\fscy100.52\frz7.7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.64,0:21:32.68,Sign,,0,0,0,,{\pos(612.57,572.683)\fscx100.53\fscy100.53\frz7.7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.64,0:21:32.68,Sign,,0,0,0,,{\pos(616.07,598.583)\fscx100.53\fscy100.53\frz7.7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.64,0:21:32.68,Sign,,0,0,0,,{\pos(612.57,572.683)\fscx100.53\fscy100.53\frz7.7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.64,0:21:32.68,Sign,,0,0,0,,{\pos(616.07,598.583)\fscx100.53\fscy100.53\frz7.7\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.68,0:21:32.72,Sign,,0,0,0,,{\pos(612.558,571.903)\fscx100.53\fscy100.53\frz7.71\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.68,0:21:32.72,Sign,,0,0,0,,{\pos(616.068,597.803)\fscx100.53\fscy100.53\frz7.71\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.68,0:21:32.72,Sign,,0,0,0,,{\pos(612.558,571.903)\fscx100.53\fscy100.53\frz7.71\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.68,0:21:32.72,Sign,,0,0,0,,{\pos(616.068,597.803)\fscx100.53\fscy100.53\frz7.71\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.72,0:21:32.77,Sign,,0,0,0,,{\pos(618.858,569.995)\fscx100.59\fscy100.59\frz8.15\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.72,0:21:32.77,Sign,,0,0,0,,{\pos(622.568,595.885)\fscx100.59\fscy100.59\frz8.15\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.72,0:21:32.77,Sign,,0,0,0,,{\pos(618.858,569.995)\fscx100.59\fscy100.59\frz8.15\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.72,0:21:32.77,Sign,,0,0,0,,{\pos(622.568,595.885)\fscx100.59\fscy100.59\frz8.15\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.77,0:21:32.81,Sign,,0,0,0,,{\pos(618.852,570.495)\fscx100.6\fscy100.6\frz8.16\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.77,0:21:32.81,Sign,,0,0,0,,{\pos(622.562,596.385)\fscx100.6\fscy100.6\frz8.16\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.77,0:21:32.81,Sign,,0,0,0,,{\pos(618.852,570.495)\fscx100.6\fscy100.6\frz8.16\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.77,0:21:32.81,Sign,,0,0,0,,{\pos(622.562,596.385)\fscx100.6\fscy100.6\frz8.16\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.81,0:21:32.85,Sign,,0,0,0,,{\pos(618.86,571.08)\fscx100.57\fscy100.57\frz8.17\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.81,0:21:32.85,Sign,,0,0,0,,{\pos(622.58,596.96)\fscx100.57\fscy100.57\frz8.17\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.81,0:21:32.85,Sign,,0,0,0,,{\pos(618.86,571.08)\fscx100.57\fscy100.57\frz8.17\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.81,0:21:32.85,Sign,,0,0,0,,{\pos(622.58,596.96)\fscx100.57\fscy100.57\frz8.17\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.85,0:21:32.89,Sign,,0,0,0,,{\pos(623.722,569.738)\fscx100.62\fscy100.62\frz9.18\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.85,0:21:32.89,Sign,,0,0,0,,{\pos(627.892,595.568)\fscx100.62\fscy100.62\frz9.18\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.85,0:21:32.89,Sign,,0,0,0,,{\pos(623.722,569.738)\fscx100.62\fscy100.62\frz9.18\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.85,0:21:32.89,Sign,,0,0,0,,{\pos(627.892,595.568)\fscx100.62\fscy100.62\frz9.18\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.89,0:21:32.93,Sign,,0,0,0,,{\pos(623.722,567.745)\fscx100.62\fscy100.62\frz9.18\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.89,0:21:32.93,Sign,,0,0,0,,{\pos(627.892,593.575)\fscx100.62\fscy100.62\frz9.18\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
+Dialogue: 1,0:21:32.89,0:21:32.93,Sign,,0,0,0,,{\pos(623.722,567.745)\fscx100.62\fscy100.62\frz9.18\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Lucky 
+Dialogue: 1,0:21:32.89,0:21:32.93,Sign,,0,0,0,,{\pos(627.892,593.575)\fscx100.62\fscy100.62\frz9.18\fnGlenns Hand\fs26.67\b0\c&H432429&\1a&H28&\blur0.6}Charm
