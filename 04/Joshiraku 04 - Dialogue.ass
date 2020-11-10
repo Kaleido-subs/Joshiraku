@@ -55,12 +55,12 @@ Dialogue: 10,0:02:28.00,0:02:29.08,Default,,0,0,0,,Really?
 Dialogue: 10,0:02:30.14,0:02:32.63,Default,,0,0,0,,Whew, it's pissin' down out there.
 Dialogue: 10,0:02:33.13,0:02:34.88,Default,,0,0,0,,Must be tough when your glasses fog up!
 Dialogue: 10,0:02:34.88,0:02:35.63,Default,,0,0,0,,They don't!
-Dialogue: 10,0:02:35.63,0:02:35.67,Default,,0,0,0,,{\c&HFFFFFF&\1a&H80&\blur2\fscx105\fscy115\pos(672,705)}They don't!
-Dialogue: 11,0:02:35.63,0:02:35.67,Default,,0,0,0,,{\bord0\blur2\fscx105\fscy115\pos(672,705)}They don't!
-Dialogue: 10,0:02:35.67,0:02:35.71,Default,,0,0,0,,{\blur2\fscx125\fscy135\c&HFFFFFF&\1a&H80&\pos(710,734)}They don't!
-Dialogue: 11,0:02:35.67,0:02:35.71,Default,,0,0,0,,{\bord0\blur4\fscx125\fscy135\pos(710,734)}They don't!
-Dialogue: 10,0:02:35.71,0:02:35.76,Default,,0,0,0,,{\blur2\fscx135\fscy145\c&HFFFFFF&\1a&H80&\pos(713.2,755.6)}They don't!
-Dialogue: 11,0:02:35.71,0:02:35.76,Default,,0,0,0,,{\bord0\blur4\fscx135\fscy145\pos(713.2,755.6)}They don't!
+Dialogue: 10,0:02:35.63,0:02:35.67,Default,,0,0,0,,{\pos(672,705)\fscx105\fscy115\1a&H80&\blur2}They don't!
+Dialogue: 11,0:02:35.63,0:02:35.67,Default,,0,0,0,,{\pos(672,705)\fscx105\fscy115\bord0\blur2}They don't!
+Dialogue: 10,0:02:35.67,0:02:35.71,Default,,0,0,0,,{\pos(710,734)\fscx125\fscy135\1a&H80&\blur2}They don't!
+Dialogue: 11,0:02:35.67,0:02:35.71,Default,,0,0,0,,{\pos(710,734)\fscx125\fscy135\bord0\blur4}They don't!
+Dialogue: 10,0:02:35.71,0:02:35.76,Default,,0,0,0,,{\pos(713.2,755.6)\fscx135\fscy145\1a&H80&\blur2}They don't!
+Dialogue: 11,0:02:35.71,0:02:35.76,Default,,0,0,0,,{\pos(713.2,755.6)\fscx135\fscy145\bord0\blur4}They don't!
 Dialogue: 10,0:02:39.34,0:02:41.09,Default,,0,0,0,,What's gotten you so steamed all of a sudden?!
 Dialogue: 10,0:02:41.09,0:02:42.61,Default,,0,0,0,,Nothing sudden about it.
 Dialogue: 10,0:02:42.61,0:02:44.51,Default,,0,0,0,,I held back for as long as I could, sorry.
@@ -108,25 +108,23 @@ Dialogue: 10,0:03:44.46,0:03:46.87,Default,,0,0,0,,"It might cost a lot to repla
 Dialogue: 10,0:03:46.87,0:03:48.71,Default,,0,0,0,,"Is this morally right?"
 Dialogue: 10,0:03:48.71,0:03:53.83,Default,,0,0,0,,{\q2}All sorts of thoughts flash through their mind, \Ndelaying their punch for a mere moment.
 Dialogue: 10,0:03:53.83,0:03:59.34,Default,,0,0,0,,I see. So that's why my punch was .1 seconds too slow!
-Dialogue: 9,0:03:57.09,0:03:58.84,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&H64&\4c&H000000&\4a&HC8&\pos(324,447.667)\clip(m 175 459 l 338 463 343 454 346 426 169 414)}It's time for you to say your pr—
-Dialogue: 9,0:03:58.84,0:03:58.96,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&H64&\4c&H000000&\4a&HC8&\pos(324,447.667)\clip(m 175 459 l 351 455 351 442 354 426 169 414)}It's time for you to say your pr—
-Dialogue: 9,0:03:58.96,0:03:59.09,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&H64&\4c&H000000&\4a&HC8&\pos(324,447.667)\clip(m 175 459 l 354 455 354 442 357 425 169 414)}It's time for you to say your pr—
-Dialogue: 9,0:03:59.09,0:03:59.13,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&HAF&\4c&H000000&\4a&HE6&\pos(324,447.667)\clip(m 175 459 l 350 455 350 444 354 425 169 414)\c&HFFFFFF&\1a&H80&}It's time for you to say your pr—
-Dialogue: 9,0:03:59.09,0:03:59.13,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&HAF&\4c&H000000&\4a&HE6&\pos(324,447.667)\clip(m 351 458 l 356 456 359 432 355 424 353 442)\c&HFFFFFF&\1a&H80&}It's time for you to say your pr—
-Dialogue: 9,0:03:59.13,0:03:59.17,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&HAF&\4c&H000000&\4a&HE6&\pos(324,447.667)\clip(m 175 459 l 350 455 350 444 354 425 169 414)\c&HFFFFFF&\1a&H80&}It's time for you to say your pr—
-Dialogue: 9,0:03:59.13,0:03:59.17,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&HAF&\4c&H000000&\4a&HE6&\pos(324,447.667)\clip(m 351 458 l 356 456 359 432 355 424 353 442)\c&HFFFFFF&\1a&H80&}It's time for you to say your pr—
-Dialogue: 9,0:03:59.05,0:03:59.09,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&HAF&\4c&H000000&\4a&HE6&\pos(324,447.667)\clip(m 175 459 l 350 455 350 444 354 425 169 414)\c&HFFFFFF&\1a&H80&}It's time for you to say your pr—
-Dialogue: 9,0:03:59.05,0:03:59.09,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&HAF&\4c&H000000&\4a&HE6&\pos(324,447.667)\clip(m 351 458 l 356 456 359 432 355 424 353 442)\c&HFFFFFF&\1a&H80&}It's time for you to say your pr—
-Dialogue: 9,0:03:59.09,0:03:59.17,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&HAF&\4c&H000000&\4a&HE6&\clip(m 175 459 l 350 455 350 444 354 425 169 414)\pos(319.556,447.667)\c&HFFFFFF&\1a&H80&}It's time for you to say your pr—
-Dialogue: 9,0:03:59.09,0:03:59.17,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&HAF&\4c&H000000&\4a&HE6&\clip(m 351 458 l 356 456 359 432 355 424 353 442)\pos(319.556,447.667)\c&HFFFFFF&\1a&H80&}It's time for you to say your pr—
-Dialogue: 9,0:03:59.17,0:04:01.09,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&H64&\4c&H000000&\4a&HC8&\pos(324,447.667)\clip(m 175 459 l 350 455 350 444 354 425 169 414)}It's time for you to say your pr—
-Dialogue: 9,0:03:59.17,0:04:01.09,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&H64&\4c&H000000&\4a&HC8&\pos(324,447.667)\clip(m 351 458 l 356 456 359 432 355 424 353 442)}It's time for you to say your pr—
-Dialogue: 9,0:04:01.09,0:04:01.22,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&HAF&\4c&H000000&\4a&HE6&\pos(324,447.667)\clip(m 175 459 l 350 455 350 444 354 425 169 414)\c&HFFFFFF&\1a&H80&}It's time for you to say your pr—
-Dialogue: 9,0:04:01.09,0:04:01.22,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&HAF&\4c&H000000&\4a&HE6&\pos(324,447.667)\clip(m 351 458 l 356 456 359 432 355 424 353 442)\c&HFFFFFF&\1a&H80&}It's time for you to say your pr—
-Dialogue: 9,0:04:01.09,0:04:01.13,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&HAF&\4c&H000000&\4a&HE6&\clip(m 175 459 l 350 455 350 444 354 425 169 414)\pos(319.556,447.667)\c&HFFFFFF&\1a&H80&}It's time for you to say your pr—
-Dialogue: 9,0:04:01.09,0:04:01.13,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&HAF&\4c&H000000&\4a&HE6&\clip(m 351 458 l 356 456 359 432 355 424 353 442)\pos(319.556,447.667)\c&HFFFFFF&\1a&H80&}It's time for you to say your pr—
-Dialogue: 9,0:04:01.17,0:04:03.09,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&H64&\4c&H000000&\4a&HC8&\pos(324,447.667)\clip(m 175 459 l 350 455 350 444 354 425 169 414)}It's time for you to say your pr—
-Dialogue: 9,0:04:01.17,0:04:03.09,Default,,0,0,0,,{\org(300,457)\fry0\frx0.24\frz-0.09\fscx50\fscy50\3c&H000000&\3a&H64&\4c&H000000&\4a&HC8&\pos(324,447.667)\clip(m 351 458 l 356 456 359 432 355 424 353 442)}It's time for you to say your pr—
+Dialogue: 9,0:03:57.09,0:03:58.84,Default,,0,0,0,,{\pos(324,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 175 459 l 338 463 343 454 346 426 169 414)}It's time for you to say your pr—
+Dialogue: 9,0:03:58.84,0:03:58.96,Default,,0,0,0,,{\pos(324,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 175 459 l 351 455 351 442 354 426 169 414)}It's time for you to say your pr—
+Dialogue: 9,0:03:58.96,0:03:59.09,Default,,0,0,0,,{\pos(324,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 175 459 l 354 455 354 442 357 425 169 414)}It's time for you to say your pr—
+Dialogue: 9,0:03:59.09,0:03:59.13,Default,,0,0,0,,{\pos(324,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 175 459 l 350 455 350 444 354 425 169 414)}It's time for you to say your pr—
+Dialogue: 9,0:03:59.13,0:03:59.17,Default,,0,0,0,,{\pos(324,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 175 459 l 350 455 350 444 354 425 169 414)}It's time for you to say your pr—
+Dialogue: 9,0:03:59.05,0:03:59.09,Default,,0,0,0,,{\pos(324,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 175 459 l 350 455 350 444 354 425 169 414)}It's time for you to say your pr—
+Dialogue: 9,0:03:59.05,0:03:59.17,Default,,0,0,0,,{\pos(324,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 351 458 l 356 456 359 432 355 424 353 442)}It's time for you to say your pr—
+Dialogue: 9,0:03:59.09,0:03:59.17,Default,,0,0,0,,{\pos(319.556,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 175 459 l 350 455 350 444 354 425 169 414)}It's time for you to say your pr—
+Dialogue: 9,0:03:59.09,0:03:59.17,Default,,0,0,0,,{\pos(319.556,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 351 458 l 356 456 359 432 355 424 353 442)}It's time for you to say your pr—
+Dialogue: 9,0:03:59.17,0:04:01.09,Default,,0,0,0,,{\pos(324,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 175 459 l 350 455 350 444 354 425 169 414)}It's time for you to say your pr—
+Dialogue: 9,0:03:59.17,0:04:01.09,Default,,0,0,0,,{\pos(324,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 351 458 l 356 456 359 432 355 424 353 442)}It's time for you to say your pr—
+Dialogue: 9,0:04:01.09,0:04:01.22,Default,,0,0,0,,{\pos(324,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 175 459 l 350 455 350 444 354 425 169 414)}It's time for you to say your pr—
+Dialogue: 9,0:04:01.09,0:04:01.22,Default,,0,0,0,,{\pos(324,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 351 458 l 356 456 359 432 355 424 353 442)}It's time for you to say your pr—
+Dialogue: 9,0:04:01.09,0:04:01.13,Default,,0,0,0,,{\pos(319.556,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 175 459 l 350 455 350 444 354 425 169 414)}It's time for you to say your pr—
+Dialogue: 9,0:04:01.09,0:04:01.13,Default,,0,0,0,,{\pos(319.556,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 351 458 l 356 456 359 432 355 424 353 442)}It's time for you to say your pr—
+Dialogue: 9,0:04:01.17,0:04:03.09,Default,,0,0,0,,{\pos(324,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 175 459 l 350 455 350 444 354 425 169 414)}It's time for you to say your pr—
+Dialogue: 9,0:04:01.17,0:04:03.09,Default,,0,0,0,,{\pos(324,447.667)\org(300,457)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 351 458 l 356 456 359 432 355 424 353 442)}It's time for you to say your pr—
 Dialogue: 10,0:03:59.34,0:04:03.09,Default,,0,0,0,,Closer to about ten times that, I'd say.
 Dialogue: 10,0:04:03.55,0:04:05.80,Default,,0,0,0,,So that's why Ushijima is so strong?
 Dialogue: 10,0:04:05.80,0:04:10.02,Default,,0,0,0,,{\q2}Would you slather someone in honey \Nand leave them in the woods like he does?
@@ -186,14 +184,14 @@ Dialogue: 10,0:06:33.84,0:06:36.02,Default,,0,0,0,,You wouldn't be able to order
 Dialogue: 10,0:06:36.02,0:06:36.92,Default,,0,0,0,,Hotpot?
 Dialogue: 10,0:06:38.01,0:06:39.00,Default,,0,0,0,,{\i1}I win!
 Dialogue: 10,0:06:46.71,0:06:47.38,Default,,0,0,0,,Aight!
-Dialogue: 10,0:06:47.38,0:06:47.42,Default,,0,0,0,,{\blur1\frz8.519\pos(616,670.4)\c&H000000&\4a&HFF&}Aight!
-Dialogue: 11,0:06:47.38,0:06:47.42,Default,,0,0,0,,{\bord0\blur1.6\frz8.519\pos(616,670.4)\shad1\4a&HFF&}Aight!
-Dialogue: 10,0:06:47.42,0:06:47.47,Default,,0,0,0,,{\blur3\frz8.519\pos(548.8,657.6)\c&HFFFFFF&\1a&H80&}Aight!
-Dialogue: 11,0:06:47.42,0:06:47.47,Default,,0,0,0,,{\bord0\blur2\frz8.519\pos(548.8,657.6)}Aight!
-Dialogue: 10,0:06:47.47,0:06:47.51,Default,,0,0,0,,{\blur1\frz8.519\pos(462.4,686.4)\c&HFFFFFF&\1a&H80&}Aight!
-Dialogue: 11,0:06:47.47,0:06:47.51,Default,,0,0,0,,{\bord0\blur1.6\frz8.519\pos(462.4,686.4)}Aight!
-Dialogue: 10,0:06:47.51,0:06:47.55,Default,,0,0,0,,{\blur1\frz8.519\pos(417.6,742.4)\c&HFFFFFF&\1a&H80&}Aight!
-Dialogue: 11,0:06:47.51,0:06:47.55,Default,,0,0,0,,{\bord\blur0.8\frz8.519\pos(417.6,742.4)}Aight!
+Dialogue: 10,0:06:47.38,0:06:47.42,Default,,0,0,0,,{\pos(616,670.4)\frz8.519\c&H000000&\4a&HFF&\blur1}Aight!
+Dialogue: 11,0:06:47.38,0:06:47.42,Default,,0,0,0,,{\pos(616,670.4)\frz8.519\bord0\4a&HFF&\blur1.6}Aight!
+Dialogue: 10,0:06:47.42,0:06:47.47,Default,,0,0,0,,{\pos(548.8,657.6)\frz8.519\1a&H80&\blur3}Aight!
+Dialogue: 11,0:06:47.42,0:06:47.47,Default,,0,0,0,,{\pos(548.8,657.6)\frz8.519\bord0\blur2}Aight!
+Dialogue: 10,0:06:47.47,0:06:47.51,Default,,0,0,0,,{\pos(462.4,686.4)\frz8.519\1a&H80&\blur1}Aight!
+Dialogue: 11,0:06:47.47,0:06:47.51,Default,,0,0,0,,{\pos(462.4,686.4)\frz8.519\bord0\blur1.6}Aight!
+Dialogue: 10,0:06:47.51,0:06:47.55,Default,,0,0,0,,{\pos(417.6,742.4)\frz8.519\1a&H80&\blur1}Aight!
+Dialogue: 11,0:06:47.51,0:06:47.55,Default,,0,0,0,,{\pos(417.6,742.4)\frz8.519\blur0.8\bord}Aight!
 Dialogue: 10,0:06:49.13,0:06:50.59,Default,,0,0,0,,They won't steam up!
 Dialogue: 10,0:06:51.34,0:06:54.47,Default,,0,0,0,,Trying to steam them up on purpose is a bit mean.
 Dialogue: 10,0:06:54.47,0:06:55.68,Default,,0,0,0,,That's right!
@@ -230,9 +228,7 @@ Dialogue: 10,0:08:40.04,0:08:41.00,Default,,0,0,0,,I missed!
 Dialogue: 10,0:08:41.00,0:08:42.33,Default,,0,0,0,,I won!
 Dialogue: 10,0:08:42.90,0:08:45.37,Default,,0,0,0,,Looks like I escaped by the skin of my teeth.
 Dialogue: 10,0:08:45.37,0:08:48.63,Default,,0,0,0,,Argh! I can't believe my aim was off!
-Dialogue: 10,0:08:48.89,0:08:49.71,Default,,0,0,0,,Here?
-Dialogue: 10,0:08:49.71,0:08:50.63,Default,,0,0,0,,Here?
-Dialogue: 10,0:08:50.63,0:08:51.71,Default,,0,0,0,,Here?
+Dialogue: 10,0:08:48.89,0:08:51.71,Default,,0,0,0,,Here?
 Dialogue: 10,0:08:53.03,0:08:54.71,Default,,0,0,0,,Not even close.
 Dialogue: 10,0:08:57.01,0:08:58.05,Default,,0,0,0,,Marii...
 Dialogue: 10,0:08:58.05,0:09:00.82,Default,,0,0,0,,She doesn't realize {\i1}she's{\i0} the one being made fun of.
