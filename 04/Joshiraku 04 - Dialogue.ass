@@ -38,7 +38,6 @@ Style: OP1 - ALT,CC Astro City,23,&H00000000,&H000000FF,&H00000000,&HA0000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Comment: 0,0:01:29.98,0:01:29.98,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:01:30.57,0:01:35.61,Default,,0,0,0,,"Don't worry, sir. I'm very aware of that."
 Dialogue: 10,0:01:36.24,0:01:42.07,Default,,0,0,0,,"But if you know how much this plate is worth, \Nwhy are you using it to feed a cat?"
@@ -73,7 +72,7 @@ Dialogue: 10,0:02:57.90,0:02:59.86,Default,,0,0,0,,Face Sabae
 Dialogue: 10,0:03:00.38,0:03:01.29,Default,,0,0,0,,and bow!
 Dialogue: 10,0:03:01.29,0:03:03.62,Default,,0,0,0,,Thank you!
 Dialogue: 10,0:03:03.74,0:03:07.12,Default,,0,0,0,,Sabae is Japan's leading producer of glasses.
-Dialogue: 10,0:03:08.63,0:03:10.25,Default,,0,0,0,,All right! You bespectacled bully!
+Dialogue: 10,0:03:08.63,0:03:10.25,Default,,0,0,0,,Alright! You bespectacled bully!
 Dialogue: 10,0:03:10.25,0:03:12.79,Default,,0,0,0,,You've punched me twice now!
 Dialogue: 10,0:03:13.06,0:03:14.59,Default,,0,0,0,,It's time for you to say your pr—
 Dialogue: 11,0:03:14.59,0:03:14.63,Default,,0,0,0,,{\pos(652.15,679.85)\bord0\blur3}It's time for you to say your pr—
@@ -315,7 +314,7 @@ Dialogue: 10,0:12:37.85,0:12:41.19,Default,,0,0,0,,{\q2}Nobody would be able to 
 Dialogue: 10,0:12:41.19,0:12:43.32,Default,,0,0,0,,You've come so far, Teto!
 Dialogue: 10,0:12:43.32,0:12:47.41,Default,,0,0,0,,{\q2}You're amazing... doing a backwards roll \Non the train like it's nothing!
 Dialogue: 10,0:12:48.40,0:12:50.12,Default,,0,0,0,,I guess I {\i1}have{\i0} come a long way.
-Dialogue: 10,0:12:50.12,0:12:51.08,Default,,0,0,0,,All right, big head!
+Dialogue: 10,0:12:50.12,0:12:51.08,Default,,0,0,0,,Alright, big-head!
 Dialogue: 10,0:12:52.09,0:12:55.75,Default,,0,0,0,,Meanwhile, Kukuru's situation got worse!
 Dialogue: 10,0:12:55.75,0:13:00.22,Default,,0,0,0,,A great conflict is brewing inside her body.
 Dialogue: 10,0:13:00.22,0:13:01.46,Default,,0,0,0,,What kind of conflict?
@@ -348,7 +347,7 @@ Dialogue: 10,0:14:54.78,0:14:55.95,Default,,0,0,0,,Yup.
 Comment: 0,0:14:58.87,0:14:58.87,Default,chapter,0,0,0,,{Part C}
 Dialogue: 10,0:14:59.37,0:15:03.83,Default,,0,0,0,,{\q2}"That little scamp stole the boss's sweets? \NWhat a cheeky blighter!"
 Dialogue: 10,0:15:03.83,0:15:05.95,Default,,0,0,0,,"What happened next?"
-Dialogue: 10,0:15:05.95,0:15:09.58,Default,,0,0,0,,"They turned into pieces of the moon." {## I'm too dumb to get this lol}
+Dialogue: 10,0:15:05.95,0:15:09.58,Default,,0,0,0,,"They turned into pieces of the moon."
 Dialogue: 10,0:15:10.54,0:15:12.70,Default,,0,0,0,,Thank you for your continued appreciation.
 Dialogue: 10,0:15:21.62,0:15:22.63,Default,,0,0,0,,Beautiful.
 Dialogue: 10,0:15:29.33,0:15:31.66,Default,,0,0,0,,Why are we watching this in the dressing room?
@@ -383,7 +382,7 @@ Dialogue: 10,0:16:57.82,0:16:58.89,Default,,0,0,0,,In that case...
 Dialogue: 10,0:16:58.89,0:17:01.04,Default,,0,0,0,,Let's praise the moon?
 Dialogue: 10,0:17:01.04,0:17:05.04,Default,,0,0,0,,Don doko-doko-doko don doko-doko-doko...
 Dialogue: 10,0:17:05.04,0:17:09.34,Default,,0,0,0,,{\an8}Don doko-doko-doko don doko-doko-doko...
-Dialogue: 10,0:17:09.34,0:17:13.26,Default,,0,0,0,,{\an8\t(0,500,\3c&H40DEF6&\bord1.4)\t(500,1000,\3c&HC105F1&)\t(1000,1500,\3c&H125F08&)\t(1500,2000,\3c&HEE9215&)\t(2000,2500,\3c&H40DEF6&)\t(2500,3000,\3c&HC105F1&)\t(3000,3500,\3c&H125F08&)\t(3500,4000,\3c&HEE9215&)}Don doko-doko-doko don doko-doko-doko...
+Dialogue: 10,0:17:09.34,0:17:13.26,Default,,0,0,0,,{\an8\t(0,500,\3c&H40DEF6&\bord1.4\shad0)\t(500,1000,\3c&HC105F1&)\t(1000,1500,\3c&H125F08&)\t(1500,2000,\3c&HEE9215&)\t(2000,2500,\3c&H40DEF6&)\t(2500,3000,\3c&HC105F1&)\t(3000,3500,\3c&H125F08&)\t(3500,4000,\3c&HEE9215&)}Don doko-doko-doko don doko-doko-doko...
 Dialogue: 10,0:17:05.29,0:17:06.29,Default,,0,0,0,,Mighty moon!
 Dialogue: 10,0:17:06.29,0:17:07.21,Default,,0,0,0,,You're amazing!
 Dialogue: 10,0:17:07.21,0:17:09.42,Default,,0,0,0,,Glory to thee, mighty moon!
