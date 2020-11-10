@@ -16,8 +16,8 @@ Original Timing: gsk_
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default (720p)
-Audio File: JoshirakuBD_01v2 (Premux).mkv
-Video File: JoshirakuBD_01v2 (Premux).mkv
+Audio File: JoshirakuBD_01 (Premux).mkv
+Video File: JoshirakuBD_01 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -45,10 +45,10 @@ Dialogue: 3,0:10:40.61,0:10:43.12,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\
 Dialogue: 4,0:10:40.61,0:10:43.12,Sign,,0,0,0,midcard,{\pos(467,505)\frz21.86\fnBrushType-SemiBold\fs59\b0\c&H000000&\blur0.7}Tetora Bouhatei
 Dialogue: 0,0:10:40.61,0:10:43.12,Sign,,0,0,0,midcard,{\pos(1108,591)\frz341.2\fnBrushStroke 35\fs67\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:10:40.61,0:10:43.12,Sign,,0,0,0,midcard,{\pos(1108,591)\frz341.2\fnBrushStroke 35\fs67\c&H000000&\blur0.8}Rakugo Girls
-Dialogue: 0,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz351.2\fscx100\fscy100\c&H010000&\p1\pos(447.43,460.71)}m -168 -46 l 182 -46 182 43 -168 43
-Dialogue: 1,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz351.2\fscx97.5\fscy90\c&HFFFFFF&\p1\pos(447.43,460.71)}m -168 -46 l 182 -46 182 43 -168 43
-Dialogue: 2,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz351.2\fscx94.5\fscy80\p1\c&H000000&\pos(447.43,460.71)}m -168 -46 l 182 -46 182 43 -168 43
-Dialogue: 3,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz351.2\fscx93\fscy75\p1\c&HFFFFFF&\pos(447.43,460.71)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 0,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz351.2\fscx100\fscy100\c&H010000&\p1\pos(447.4,460.7)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 1,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz351.2\fscx97.5\fscy90\c&HFFFFFF&\p1\pos(447.4,460.7)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 2,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz351.2\fscx94.5\fscy80\p1\c&H000000&\pos(447.4,460.7)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 3,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz351.2\fscx93\fscy75\p1\c&HFFFFFF&\pos(447.4,460.7)}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 3,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\pos(453,465)\frz351.6\fnBrushType-SemiBold\fs59\b0\c&H000000&\blur0.7}Marii Buratei
 Dialogue: 0,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\pos(1083,591)\frz341.2\fnBrushStroke 35\fs67\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:14:43.61,0:14:46.11,Sign,,0,0,0,midcard,{\pos(1083,591)\frz341.2\fnBrushStroke 35\fs67\c&H000000&\blur0.8}Rakugo Girls
@@ -62,216 +62,226 @@ Dialogue: 1,0:15:24.31,0:15:32.32,Sign,,0,0,0,,{\kf78}{\pos(72,218)\an7\fs54\fnG
 Dialogue: 1,0:15:25.19,0:15:32.32,Sign,,0,0,0,,{\kf237}{\pos(72,274)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.7}are written to be as inoffensive as possible{\kf147}
 Dialogue: 1,0:15:27.73,0:15:32.32,Sign,,0,0,0,,{\kf104}{\pos(72,330)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.7}so as not to interfere{\kf16} {\kf113}with your enjoyment{\kf226}
 Dialogue: 1,0:15:30.36,0:15:32.32,Sign,,0,0,0,,{\kf129}{\pos(72,386)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.7}of viewing cute girls.{\kf67}
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(886,497.333)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}F
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(886,497.333)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}F
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(899.935,497.605)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}r
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(899.935,497.605)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}r
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(913.172,497.863)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}e
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(913.172,497.863)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}e
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(925.024,498.095)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}e
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(925.024,498.095)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}e
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(947.061,498.525)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}M
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(947.061,498.525)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}M
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(967.672,498.927)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}e
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(967.672,498.927)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}e
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(979.524,499.158)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}a
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(979.524,499.158)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}a
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(994.635,499.453)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}l
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(994.635,499.453)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}l
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1000.635,499.57)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}s
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1000.635,499.57)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}s
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1021.818,499.983)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}f
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1021.818,499.983)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}f
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1031.761,499.699)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}o
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1031.761,499.699)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}o
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1045.482,499.245)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}r
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1045.482,499.245)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}r
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1068.897,498.469)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}L
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1068.897,498.469)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}L
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1082.66,498.013)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}i
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1082.66,498.013)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}i
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1089.75,497.779)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}f
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1089.75,497.779)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}f
-Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1099.692,497.449)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}e
-Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.72\an7\pos(1099.692,497.449)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}e
-Dialogue: 0,0:06:26.19,0:06:28.86,Sign,,0,0,0,,{\an7\blur1.333\bord0\shad0\fscx100\fscy100\pos(144,763.111)\p1\c&HE6EFF7&}m 94 -131.375 l 131.375 -141.375 195.375 -106 192 -47.375 80 -50.625
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(886,497.3)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}F
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(886,497.3)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}F
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(899.9,497.6)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}r
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(899.9,497.6)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}r
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(913.2,497.9)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}e
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(913.2,497.9)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}e
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(925,498.1)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}e
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(925,498.1)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}e
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(947.1,498.5)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}M
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(947.1,498.5)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}M
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(967.7,498.9)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}e
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(967.7,498.9)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}e
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(979.5,499.2)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}a
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(979.5,499.2)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}a
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(994.6,499.5)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}l
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(994.6,499.5)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}l
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1000.6,499.6)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}s
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1000.6,499.6)\fscy60\fnKG Empire of Dirt\frz-1.118\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}s
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1021.8,500)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}f
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1021.8,500)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}f
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1031.8,499.7)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}o
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1031.8,499.7)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}o
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1045.5,499.2)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}r
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1045.5,499.2)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}r
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1068.9,498.5)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}L
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1068.9,498.5)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}L
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1082.7,498)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}i
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1082.7,498)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}i
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1089.8,497.8)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}f
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1089.8,497.8)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}f
+Dialogue: 0,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1099.7,497.4)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\3c&HB5D2F7&\c&HB5D2F7&\bord2.267\1a&HFF&\t(1455,1500,\1a&H00&)}e
+Dialogue: 1,0:05:55.12,0:05:57.58,Sign,,0,0,0,,{\blur0.7\an7\pos(1099.7,497.4)\fscy60\fnKG Empire of Dirt\frz1.897\fs42.667\fad(1500,0)\c&H192631&\bord0\4a&HFF&}e
+Dialogue: 0,0:06:26.19,0:06:28.86,Sign,,0,0,0,,{\an7\blur1.3\bord0\shad0\fscx100\fscy100\pos(144,763.1)\p1\c&HE6EFF7&}m 94 -131.375 l 131.375 -141.375 195.375 -106 192 -47.375 80 -50.625
 Dialogue: 1,0:06:26.19,0:06:28.86,Sign,,0,0,0,,{\pos(270,670)\frz338.5\fax0.62\fnLemon Jelly Personal Use\fs32\b0\c&H788D93&\alpha&HC0&\blur3}Party
 Dialogue: 2,0:06:26.19,0:06:28.86,Sign,,0,0,0,,{\pos(270,670)\frz338.5\fax0.62\fnLemon Jelly Personal Use\fs32\b0\c&H788D93&\blur0.6}Party
 Dialogue: 1,0:06:26.19,0:06:28.86,Sign,,0,0,0,,{\pos(270,703)\frz338.5\fax0.63\fnLemon Jelly Personal Use\fs32\b0\c&H788D93&\alpha&HC0&\blur3}Invitation
 Dialogue: 2,0:06:26.19,0:06:28.86,Sign,,0,0,0,,{\pos(270,703)\frz338.5\fax0.63\fnLemon Jelly Personal Use\fs32\b0\c&H788D93&\blur0.6}Invitation
-Dialogue: 1,0:09:10.73,0:09:10.78,Sign,,0,0,0,,{\pos(641.36,319.153)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:10.73,0:09:10.78,Sign,,0,0,0,,{\pos(641.36,319.153)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:10.78,0:09:10.82,Sign,,0,0,0,,{\pos(641.36,349.82)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:10.78,0:09:10.82,Sign,,0,0,0,,{\pos(641.36,349.82)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:10.82,0:09:10.86,Sign,,0,0,0,,{\pos(641.36,381.153)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:10.82,0:09:10.86,Sign,,0,0,0,,{\pos(641.36,381.153)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:10.86,0:09:10.90,Sign,,0,0,0,,{\pos(641.36,411.687)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:10.86,0:09:10.90,Sign,,0,0,0,,{\pos(641.36,411.687)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:10.90,0:09:10.94,Sign,,0,0,0,,{\pos(641.36,442.62)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:10.90,0:09:10.94,Sign,,0,0,0,,{\pos(641.36,442.62)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:10.94,0:09:10.98,Sign,,0,0,0,,{\pos(641.36,473.42)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:10.94,0:09:10.98,Sign,,0,0,0,,{\pos(641.36,473.42)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:10.98,0:09:11.03,Sign,,0,0,0,,{\pos(641.36,504.267)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:10.98,0:09:11.03,Sign,,0,0,0,,{\pos(641.36,504.267)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.03,0:09:11.07,Sign,,0,0,0,,{\pos(641.36,534.073)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.03,0:09:11.07,Sign,,0,0,0,,{\pos(641.36,534.073)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.07,0:09:11.11,Sign,,0,0,0,,{\pos(641.36,566.04)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.07,0:09:11.11,Sign,,0,0,0,,{\pos(641.36,566.04)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.11,0:09:11.15,Sign,,0,0,0,,{\pos(641.36,595.88)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.11,0:09:11.15,Sign,,0,0,0,,{\pos(641.36,595.88)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.15,0:09:11.19,Sign,,0,0,0,,{\pos(641.36,626.74)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.15,0:09:11.19,Sign,,0,0,0,,{\pos(641.36,626.74)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.19,0:09:11.23,Sign,,0,0,0,,{\pos(641.36,657.56)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.19,0:09:11.23,Sign,,0,0,0,,{\pos(641.36,657.56)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.23,0:09:11.28,Sign,,0,0,0,,{\pos(641.36,690.373)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.23,0:09:11.28,Sign,,0,0,0,,{\pos(641.36,690.373)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.28,0:09:11.32,Sign,,0,0,0,,{\pos(641.36,719.84)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 1,0:09:11.28,0:09:11.32,Sign,,0,0,0,,{\pos(641.36,719.84)\fnBrush-Hyouka\fs20\c&H2C3436&\blur0.91}Marii Buratei
-Dialogue: 0,0:09:18.49,0:09:20.24,Sign,,0,0,0,,{\pos(521.538,467.687)\org(521,451)\frz1.093\fry-1.88\fax0.02\fnBrush-Hyouka\fs16\c&H2C3436&\blur0.69}Marii Buratei
-Dialogue: 0,0:09:18.49,0:09:20.24,Sign,,0,0,0,,{\pos(521.538,467.687)\org(521,451)\frz1.093\fry-1.88\fax0.02\fnBrush-Hyouka\fs16\c&H2C3436&\blur0.69}Marii Buratei
-Dialogue: 0,0:09:20.24,0:09:20.33,Sign,,0,0,0,,{\pos(521.538,467.687)\org(521,451)\frz1.093\fry-1.88\fax0.02\fnBrush-Hyouka\fs16\c&H2C3436&\blur0.69\clip(m 468.625 457.375 l 544.625 456.625 544 460.625 535.375 464.625 533.375 469.375 536.625 478 467.375 476)}Marii Buratei
-Dialogue: 0,0:09:20.24,0:09:20.33,Sign,,0,0,0,,{\pos(521.538,467.687)\org(521,451)\frz1.093\fry-1.88\fax0.02\fnBrush-Hyouka\fs16\c&H2C3436&\blur0.69\clip(m 468.625 457.375 l 544.625 456.625 544 460.625 535.375 464.625 533.375 469.375 536.625 478 467.375 476)}Marii Buratei
-Dialogue: 0,0:09:21.87,0:09:22.12,Sign,,0,0,0,,{\pos(642.071,492.22)\fnBrush-Hyouka\fs8.67\c&H2F373B&\blur0.87\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
-Dialogue: 0,0:09:21.87,0:09:22.12,Sign,,0,0,0,,{\pos(642.071,492.22)\fnBrush-Hyouka\fs8.67\c&H2F373B&\blur0.87\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
-Dialogue: 0,0:09:23.75,0:09:24.62,Sign,,0,0,0,,{\pos(642.071,492.22)\fnBrush-Hyouka\fs8.67\c&H2F373B&\blur0.87\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
-Dialogue: 0,0:09:23.75,0:09:24.62,Sign,,0,0,0,,{\pos(642.071,492.22)\fnBrush-Hyouka\fs8.67\c&H2F373B&\blur0.87\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
-Dialogue: 0,0:09:25.79,0:09:26.37,Sign,,0,0,0,,{\pos(642.071,492.22)\fnBrush-Hyouka\fs8.67\c&H2F373B&\blur0.87\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
-Dialogue: 0,0:09:25.79,0:09:26.37,Sign,,0,0,0,,{\pos(642.071,492.22)\fnBrush-Hyouka\fs8.67\c&H2F373B&\blur0.87\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
-Dialogue: 0,0:09:27.42,0:09:27.96,Sign,,0,0,0,,{\pos(642.071,492.22)\fnBrush-Hyouka\fs8.67\c&H2F373B&\blur0.87\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
-Dialogue: 0,0:09:27.42,0:09:27.96,Sign,,0,0,0,,{\pos(642.071,492.22)\fnBrush-Hyouka\fs8.67\c&H2F373B&\blur0.87\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
-Dialogue: 0,0:09:28.92,0:09:29.00,Sign,,0,0,0,,{\pos(642.071,492.22)\fnBrush-Hyouka\fs8.67\c&H2F373B&\blur0.87\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
-Dialogue: 0,0:09:28.92,0:09:29.00,Sign,,0,0,0,,{\pos(642.071,492.22)\fnBrush-Hyouka\fs8.67\c&H2F373B&\blur0.87\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
-Dialogue: 0,0:09:29.84,0:09:31.84,Sign,,0,0,0,,{\pos(642.071,492.22)\fnBrush-Hyouka\fs8.67\c&H2F373B&\blur0.87\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
-Dialogue: 0,0:09:29.84,0:09:31.84,Sign,,0,0,0,,{\pos(642.071,492.22)\fnBrush-Hyouka\fs8.67\c&H2F373B&\blur0.87\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
-Dialogue: 0,0:09:39.30,0:09:39.43,Sign,,0,0,0,,{\pos(576.293,685.998)\frz0.328\fnBrush-Hyouka\fs13.33\c&H2F373B&\blur0.87\clip(m 526.625 678.625 l 555.375 678 565.375 686 574 691.375 566.625 677.375 576 676 586.625 682.625 602.625 683.375 612 694 525.375 694.625)}Marii Buratei
-Dialogue: 0,0:09:39.30,0:09:39.43,Sign,,0,0,0,,{\pos(576.293,685.998)\frz0.328\fnBrush-Hyouka\fs13.33\c&H2F373B&\blur0.87\clip(m 526.625 678.625 l 555.375 678 565.375 686 574 691.375 566.625 677.375 576 676 586.625 682.625 602.625 683.375 612 694 525.375 694.625)}Marii Buratei
-Dialogue: 0,0:09:43.93,0:09:45.94,Sign,,0,0,0,,{\pos(636.027,670.893)\fnBrush-Hyouka\fs12\c&H2C3436&\blur0.61}Tetora Bouhatei
-Dialogue: 1,0:09:43.93,0:09:45.94,Sign,,0,0,0,,{\pos(636.027,670.893)\fnBrush-Hyouka\fs12\c&H2C3436&\blur0.61}Tetora Bouhatei
-Dialogue: 0,0:09:48.85,0:09:49.56,Sign,,0,0,0,,{\pos(493.36,634.893)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs8.67\c&H2C3436&\blur0.61}Tetora Bouhatei
-Dialogue: 1,0:09:48.85,0:09:49.56,Sign,,0,0,0,,{\pos(493.36,634.893)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs8.67\c&H2C3436&\blur0.61}Tetora Bouhatei
-Dialogue: 0,0:09:49.56,0:09:49.69,Sign,,0,0,0,,{\pos(493.36,634.893)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs8.67\c&H2C3436&\blur0.61\clip(m 456 616 l 528 621.375 524 628 517.375 628 510.625 635.375 503.375 640 490.625 642.625 459.375 640.625)}Tetora Bouhatei
-Dialogue: 1,0:09:49.56,0:09:49.69,Sign,,0,0,0,,{\pos(493.36,634.893)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs8.67\c&H2C3436&\blur0.61\clip(m 456 616 l 528 621.375 524 628 517.375 628 510.625 635.375 503.375 640 490.625 642.625 459.375 640.625)}Tetora Bouhatei
-Dialogue: 0,0:09:50.69,0:09:52.69,Sign,,0,0,0,,{\pos(636.027,670.893)\frz0.857\fnBrush-Hyouka\fs12\c&H2C3436&\blur0.61}Kukuru Anrakutei
-Dialogue: 1,0:09:50.69,0:09:52.69,Sign,,0,0,0,,{\pos(636.027,670.893)\frz0.857\fnBrush-Hyouka\fs12\c&H2C3436&\blur0.61}Kukuru Anrakutei
-Dialogue: 0,0:09:55.82,0:09:56.99,Sign,,0,0,0,,{\pos(493.36,634.893)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs7.33\c&H2C3436&\blur0.61}Kukuru Anrakutei
-Dialogue: 1,0:09:55.82,0:09:56.99,Sign,,0,0,0,,{\pos(493.36,634.893)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs7.33\c&H2C3436&\blur0.61}Kukuru Anrakutei
-Dialogue: 0,0:09:56.99,0:09:57.11,Sign,,0,0,0,,{\pos(580.693,584.671)\org(563,457)\frz344.8\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs7.33\c&H2C3436&\blur0.61}Kukuru Anrakutei
-Dialogue: 1,0:09:56.99,0:09:57.11,Sign,,0,0,0,,{\pos(580.693,584.671)\org(563,457)\frz344.8\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs7.33\c&H2C3436&\blur0.61}Kukuru Anrakutei
-Dialogue: 0,0:09:58.16,0:10:00.16,Sign,,0,0,0,,{\pos(636.027,670.893)\frz0.419\fnBrush-Hyouka\fs10.67\c&H2C3436&\blur0.61}Kigurumi Haroukitei
-Dialogue: 0,0:09:58.16,0:10:00.16,Sign,,0,0,0,,{\pos(636.027,670.893)\frz0.419\fnBrush-Hyouka\fs10.67\c&H2C3436&\blur0.61}Kigurumi Haroukitei
-Dialogue: 0,0:10:04.20,0:10:05.45,Sign,,0,0,0,,{\pos(493.36,634.893)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs6.67\c&H2C3436&\blur0.61}Kigurumi Haroukitei
-Dialogue: 0,0:10:04.20,0:10:05.45,Sign,,0,0,0,,{\pos(493.36,634.893)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs6.67\c&H2C3436&\blur0.61}Kigurumi Haroukitei
-Dialogue: 0,0:10:06.66,0:10:08.67,Sign,,0,0,0,,{\pos(636.027,670.893)\frz0.419\fnBrush-Hyouka\fs10\c&H2C3436&\blur0.61}Gankyou Kuurubiyuutei
-Dialogue: 0,0:10:06.66,0:10:08.67,Sign,,0,0,0,,{\pos(636.027,670.893)\frz0.419\fnBrush-Hyouka\fs10\c&H2C3436&\blur0.61}Gankyou Kuurubiyuutei
-Dialogue: 0,0:09:46.39,0:09:48.85,Sign,,0,0,0,,{\pos(1080,127)\c&H12141F&\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
-Dialogue: 1,0:09:46.39,0:09:48.85,Sign,,0,0,0,,{\pos(1080,127)\fscx97\fscy90\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
-Dialogue: 2,0:09:46.39,0:09:48.85,Sign,,0,0,0,,{\pos(1080,127)\fscx95\fscy84\c&H12141F&\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
-Dialogue: 3,0:09:46.39,0:09:48.85,Sign,,0,0,0,,{\pos(1080,127)\fscx93\fscy77\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 1,0:09:10.73,0:09:10.78,Sign,,0,0,0,,{\pos(641.4,319.2)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:10.73,0:09:10.78,Sign,,0,0,0,,{\pos(641.4,319.2)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:10.78,0:09:10.82,Sign,,0,0,0,,{\pos(641.4,349.8)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:10.78,0:09:10.82,Sign,,0,0,0,,{\pos(641.4,349.8)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:10.82,0:09:10.86,Sign,,0,0,0,,{\pos(641.4,381.2)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:10.82,0:09:10.86,Sign,,0,0,0,,{\pos(641.4,381.2)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:10.86,0:09:10.90,Sign,,0,0,0,,{\pos(641.4,411.7)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:10.86,0:09:10.90,Sign,,0,0,0,,{\pos(641.4,411.7)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:10.90,0:09:10.94,Sign,,0,0,0,,{\pos(641.4,442.6)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:10.90,0:09:10.94,Sign,,0,0,0,,{\pos(641.4,442.6)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:10.94,0:09:10.98,Sign,,0,0,0,,{\pos(641.4,473.4)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:10.94,0:09:10.98,Sign,,0,0,0,,{\pos(641.4,473.4)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:10.98,0:09:11.03,Sign,,0,0,0,,{\pos(641.4,504.3)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:10.98,0:09:11.03,Sign,,0,0,0,,{\pos(641.4,504.3)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.03,0:09:11.07,Sign,,0,0,0,,{\pos(641.4,534.1)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.03,0:09:11.07,Sign,,0,0,0,,{\pos(641.4,534.1)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.07,0:09:11.11,Sign,,0,0,0,,{\pos(641.4,566)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.07,0:09:11.11,Sign,,0,0,0,,{\pos(641.4,566)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.11,0:09:11.15,Sign,,0,0,0,,{\pos(641.4,595.9)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.11,0:09:11.15,Sign,,0,0,0,,{\pos(641.4,595.9)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.15,0:09:11.19,Sign,,0,0,0,,{\pos(641.4,626.7)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.15,0:09:11.19,Sign,,0,0,0,,{\pos(641.4,626.7)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.19,0:09:11.23,Sign,,0,0,0,,{\pos(641.4,657.6)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.19,0:09:11.23,Sign,,0,0,0,,{\pos(641.4,657.6)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.23,0:09:11.28,Sign,,0,0,0,,{\pos(641.4,690.4)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.23,0:09:11.28,Sign,,0,0,0,,{\pos(641.4,690.4)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.28,0:09:11.32,Sign,,0,0,0,,{\pos(641.4,719.8)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 1,0:09:11.28,0:09:11.32,Sign,,0,0,0,,{\pos(641.4,719.8)\fnBrush-Hyouka\fs20\b0\c&H2C3436&\blur0.9}Marii Buratei
+Dialogue: 0,0:09:18.49,0:09:20.24,Sign,,0,0,0,,{\pos(521.5,467.7)\org(521,451)\frz1.093\fry-1.88\fax0.02\fnBrush-Hyouka\fs16\b0\c&H2C3436&\blur0.7}Marii Buratei
+Dialogue: 0,0:09:18.49,0:09:20.24,Sign,,0,0,0,,{\pos(521.5,467.7)\org(521,451)\frz1.093\fry-1.88\fax0.02\fnBrush-Hyouka\fs16\b0\c&H2C3436&\blur0.7}Marii Buratei
+Dialogue: 0,0:09:20.24,0:09:20.33,Sign,,0,0,0,,{\pos(521.5,467.7)\org(521,451)\frz1.093\fry-1.88\fax0.02\fnBrush-Hyouka\fs16\b0\c&H2C3436&\blur0.7\clip(m 468.625 457.375 l 544.625 456.625 544 460.625 535.375 464.625 533.375 469.375 536.625 478 467.375 476)}Marii Buratei
+Dialogue: 0,0:09:20.24,0:09:20.33,Sign,,0,0,0,,{\pos(521.5,467.7)\org(521,451)\frz1.093\fry-1.88\fax0.02\fnBrush-Hyouka\fs16\b0\c&H2C3436&\blur0.7\clip(m 468.625 457.375 l 544.625 456.625 544 460.625 535.375 464.625 533.375 469.375 536.625 478 467.375 476)}Marii Buratei
+Dialogue: 0,0:09:21.87,0:09:22.12,Sign,,0,0,0,,{\pos(642.1,492.2)\fnBrush-Hyouka\fs8.67\b0\c&H2F373B&\blur0.9\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
+Dialogue: 0,0:09:21.87,0:09:22.12,Sign,,0,0,0,,{\pos(642.1,492.2)\fnBrush-Hyouka\fs8.67\b0\c&H2F373B&\blur0.9\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
+Dialogue: 0,0:09:23.75,0:09:24.62,Sign,,0,0,0,,{\pos(642.1,492.2)\fnBrush-Hyouka\fs8.67\b0\c&H2F373B&\blur0.9\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
+Dialogue: 0,0:09:23.75,0:09:24.62,Sign,,0,0,0,,{\pos(642.1,492.2)\fnBrush-Hyouka\fs8.67\b0\c&H2F373B&\blur0.9\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
+Dialogue: 0,0:09:25.79,0:09:26.37,Sign,,0,0,0,,{\pos(642.1,492.2)\fnBrush-Hyouka\fs8.67\b0\c&H2F373B&\blur0.9\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
+Dialogue: 0,0:09:25.79,0:09:26.37,Sign,,0,0,0,,{\pos(642.1,492.2)\fnBrush-Hyouka\fs8.67\b0\c&H2F373B&\blur0.9\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
+Dialogue: 0,0:09:27.42,0:09:27.96,Sign,,0,0,0,,{\pos(642.1,492.2)\fnBrush-Hyouka\fs8.67\b0\c&H2F373B&\blur0.9\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
+Dialogue: 0,0:09:27.42,0:09:27.96,Sign,,0,0,0,,{\pos(642.1,492.2)\fnBrush-Hyouka\fs8.67\b0\c&H2F373B&\blur0.9\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
+Dialogue: 0,0:09:28.92,0:09:29.00,Sign,,0,0,0,,{\pos(642.1,492.2)\fnBrush-Hyouka\fs8.67\b0\c&H2F373B&\blur0.9\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
+Dialogue: 0,0:09:28.92,0:09:29.00,Sign,,0,0,0,,{\pos(642.1,492.2)\fnBrush-Hyouka\fs8.67\b0\c&H2F373B&\blur0.9\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
+Dialogue: 0,0:09:29.84,0:09:31.84,Sign,,0,0,0,,{\pos(642.1,492.2)\fnBrush-Hyouka\fs8.67\b0\c&H2F373B&\blur0.9\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
+Dialogue: 0,0:09:29.84,0:09:31.84,Sign,,0,0,0,,{\pos(642.1,492.2)\fnBrush-Hyouka\fs8.67\b0\c&H2F373B&\blur0.9\clip(m 608 485.375 l 638 485.375 632.625 488 630.625 492.625 633.375 497.375 610.625 496.625)}Marii Buratei
+Dialogue: 0,0:09:39.30,0:09:39.43,Sign,,0,0,0,,{\pos(576.3,686)\frz0.328\fnBrush-Hyouka\fs13.33\b0\c&H2F373B&\blur0.9\clip(m 526.625 678.625 l 555.375 678 565.375 686 574 691.375 566.625 677.375 576 676 586.625 682.625 602.625 683.375 612 694 525.375 694.625)}Marii Buratei
+Dialogue: 0,0:09:39.30,0:09:39.43,Sign,,0,0,0,,{\pos(576.3,686)\frz0.328\fnBrush-Hyouka\fs13.33\b0\c&H2F373B&\blur0.9\clip(m 526.625 678.625 l 555.375 678 565.375 686 574 691.375 566.625 677.375 576 676 586.625 682.625 602.625 683.375 612 694 525.375 694.625)}Marii Buratei
+Dialogue: 0,0:09:43.93,0:09:45.94,Sign,,0,0,0,,{\pos(636,670.9)\fnBrush-Hyouka\fs12\b0\c&H2C3436&\blur0.6}Tetora Bouhatei
+Dialogue: 1,0:09:43.93,0:09:45.94,Sign,,0,0,0,,{\pos(636,670.9)\fnBrush-Hyouka\fs12\b0\c&H2C3436&\blur0.6}Tetora Bouhatei
+Dialogue: 0,0:09:48.85,0:09:49.56,Sign,,0,0,0,,{\pos(493.4,634.9)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs8.67\b0\c&H2C3436&\blur0.6}Tetora Bouhatei
+Dialogue: 1,0:09:48.85,0:09:49.56,Sign,,0,0,0,,{\pos(493.4,634.9)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs8.67\b0\c&H2C3436&\blur0.6}Tetora Bouhatei
+Dialogue: 0,0:09:49.56,0:09:49.69,Sign,,0,0,0,,{\pos(493.4,634.9)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs8.67\b0\c&H2C3436&\blur0.6\clip(m 456 616 l 528 621.375 524 628 517.375 628 510.625 635.375 503.375 640 490.625 642.625 459.375 640.625)}Tetora Bouhatei
+Dialogue: 1,0:09:49.56,0:09:49.69,Sign,,0,0,0,,{\pos(493.4,634.9)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs8.67\b0\c&H2C3436&\blur0.6\clip(m 456 616 l 528 621.375 524 628 517.375 628 510.625 635.375 503.375 640 490.625 642.625 459.375 640.625)}Tetora Bouhatei
+Dialogue: 0,0:09:50.69,0:09:52.69,Sign,,0,0,0,,{\pos(636,670.9)\frz0.857\fnBrush-Hyouka\fs12\b0\c&H2C3436&\blur0.6}Kukuru Anrakutei
+Dialogue: 1,0:09:50.69,0:09:52.69,Sign,,0,0,0,,{\pos(636,670.9)\frz0.857\fnBrush-Hyouka\fs12\b0\c&H2C3436&\blur0.6}Kukuru Anrakutei
+Dialogue: 0,0:09:55.82,0:09:56.99,Sign,,0,0,0,,{\pos(493.4,634.9)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs7.33\b0\c&H2C3436&\blur0.6}Kukuru Anrakutei
+Dialogue: 1,0:09:55.82,0:09:56.99,Sign,,0,0,0,,{\pos(493.4,634.9)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs7.33\b0\c&H2C3436&\blur0.6}Kukuru Anrakutei
+Dialogue: 0,0:09:56.99,0:09:57.11,Sign,,0,0,0,,{\pos(580.7,584.7)\org(563,457)\frz344.8\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs7.33\b0\c&H2C3436&\blur0.6}Kukuru Anrakutei
+Dialogue: 1,0:09:56.99,0:09:57.11,Sign,,0,0,0,,{\pos(580.7,584.7)\org(563,457)\frz344.8\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs7.33\b0\c&H2C3436&\blur0.6}Kukuru Anrakutei
+Dialogue: 0,0:09:58.16,0:10:00.16,Sign,,0,0,0,,{\pos(636,670.9)\frz0.419\fnBrush-Hyouka\fs10.67\b0\c&H2C3436&\blur0.6}Kigurumi Haroukitei
+Dialogue: 0,0:09:58.16,0:10:00.16,Sign,,0,0,0,,{\pos(636,670.9)\frz0.419\fnBrush-Hyouka\fs10.67\b0\c&H2C3436&\blur0.6}Kigurumi Haroukitei
+Dialogue: 0,0:10:04.20,0:10:05.45,Sign,,0,0,0,,{\pos(493.4,634.9)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs6.67\b0\c&H2C3436&\blur0.6}Kigurumi Haroukitei
+Dialogue: 0,0:10:04.20,0:10:05.45,Sign,,0,0,0,,{\pos(493.4,634.9)\org(493,635)\frz-4.35\fry-1.39\frx-9.19\fax0.04\fnBrush-Hyouka\fs6.67\b0\c&H2C3436&\blur0.6}Kigurumi Haroukitei
+Dialogue: 0,0:10:06.66,0:10:08.67,Sign,,0,0,0,,{\pos(636,670.9)\frz0.419\fnBrush-Hyouka\fs10\b0\c&H2C3436&\blur0.6}Gankyou Kuurubiyuutei
+Dialogue: 0,0:10:06.66,0:10:08.67,Sign,,0,0,0,,{\pos(636,670.9)\frz0.419\fnBrush-Hyouka\fs10\b0\c&H2C3436&\blur0.6}Gankyou Kuurubiyuutei
+Dialogue: 0,0:09:46.39,0:09:48.85,Sign,,0,0,0,,{\pos(1080,127)\c&H12141F&\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 1,0:09:46.39,0:09:48.85,Sign,,0,0,0,,{\pos(1080,127)\fscx97\fscy90\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 2,0:09:46.39,0:09:48.85,Sign,,0,0,0,,{\pos(1080,127)\fscx95\fscy84\c&H12141F&\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 3,0:09:46.39,0:09:48.85,Sign,,0,0,0,,{\pos(1080,127)\fscx93\fscy77\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
 Dialogue: 4,0:09:46.39,0:09:48.85,Sign,,0,0,0,,{\pos(1080,132)\fnBrushType\fs58\c&H000000&\blur0.8}Tetora Bouhatei
-Comment: 0,0:09:46.39,0:09:48.85,Sign,,0,0,0,,{\fscx90\fnCF Rise of Nations\fs26\fsp3\bord1.7\1a&HC8&\3a&H28&\blur0.65\pos(1080,192)\fscy100}Breakwater Tetrapod
+Comment: 0,0:09:46.39,0:09:48.85,Sign,,0,0,0,,{\fscx90\fnCF Rise of Nations\fs26\fsp3\bord1.7\1a&HC8&\3a&H28&\blur0.7\pos(1080,192)\fscy100}Breakwater Tetrapod
 Comment: 1,0:09:46.39,0:09:48.85,Sign,,0,0,0,,{\fscx90\fnCF Rise of Nations\fs26\fsp3\blur0.8\pos(1080,192)\fscy100}Breakwater Tetrapod
-Dialogue: 0,0:09:52.69,0:09:55.82,Sign,,0,0,0,,{\pos(1080,127)\c&H12141F&\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
-Dialogue: 1,0:09:52.69,0:09:55.82,Sign,,0,0,0,,{\pos(1080,127)\fscx97\fscy90\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
-Dialogue: 2,0:09:52.69,0:09:55.82,Sign,,0,0,0,,{\pos(1080,127)\fscx95\fscy84\c&H12141F&\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
-Dialogue: 3,0:09:52.69,0:09:55.82,Sign,,0,0,0,,{\pos(1080,127)\fscx93\fscy76.5\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 0,0:09:52.69,0:09:55.82,Sign,,0,0,0,,{\pos(1080,127)\c&H12141F&\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 1,0:09:52.69,0:09:55.82,Sign,,0,0,0,,{\pos(1080,127)\fscx97\fscy90\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 2,0:09:52.69,0:09:55.82,Sign,,0,0,0,,{\pos(1080,127)\fscx95\fscy84\c&H12141F&\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 3,0:09:52.69,0:09:55.82,Sign,,0,0,0,,{\pos(1080,127)\fscx93\fscy76.5\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
 Dialogue: 4,0:09:52.69,0:09:55.82,Sign,,0,0,0,,{\pos(1080,132)\fnBrushType\fs58\c&H000000&\blur0.8}Kukuru Anrakutei
-Comment: 0,0:09:52.69,0:09:55.82,Sign,,0,0,0,,{\fscx90\fnCF Rise of Nations\fs26\fsp3\bord1.7\1a&HC8&\3a&H28&\blur0.65\pos(1080,192)}Dark and Gloomy
+Comment: 0,0:09:52.69,0:09:55.82,Sign,,0,0,0,,{\fscx90\fnCF Rise of Nations\fs26\fsp3\bord1.7\1a&HC8&\3a&H28&\blur0.7\pos(1080,192)}Dark and Gloomy
 Comment: 1,0:09:52.69,0:09:55.82,Sign,,0,0,0,,{\fscx90\fnCF Rise of Nations\fs26\fsp3\blur0.8\pos(1080,192)}Dark and Gloomy
-Dialogue: 0,0:10:00.16,0:10:04.20,Sign,,0,0,0,,{\pos(1080,127)\c&H12141F&\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
-Dialogue: 1,0:10:00.16,0:10:04.20,Sign,,0,0,0,,{\pos(1080,127)\fscx97\fscy90\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
-Dialogue: 2,0:10:00.16,0:10:04.20,Sign,,0,0,0,,{\pos(1080,127)\fscx95\fscy84\c&H12141F&\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
-Dialogue: 3,0:10:00.16,0:10:04.20,Sign,,0,0,0,,{\pos(1080,127)\fscx93\fscy76.5\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 0,0:10:00.16,0:10:04.20,Sign,,0,0,0,,{\pos(1080,127)\c&H12141F&\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 1,0:10:00.16,0:10:04.20,Sign,,0,0,0,,{\pos(1080,127)\fscx97\fscy90\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 2,0:10:00.16,0:10:04.20,Sign,,0,0,0,,{\pos(1080,127)\fscx95\fscy84\c&H12141F&\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 3,0:10:00.16,0:10:04.20,Sign,,0,0,0,,{\pos(1080,127)\fscx93\fscy76.5\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
 Dialogue: 4,0:10:00.16,0:10:04.20,Sign,,0,0,0,,{\pos(1080,132)\fnBrushType\fs54\c&H000000&\blur0.8}Kigurumi Haroukitei
-Comment: 0,0:10:00.16,0:10:04.20,Sign,,0,0,0,,{\fscx90\fnCF Rise of Nations\fs26\fsp3\bord1.7\1a&HC8&\3a&H28&\blur0.65\pos(1080,192)}Hello Kitty Plushie
+Comment: 0,0:10:00.16,0:10:04.20,Sign,,0,0,0,,{\fscx90\fnCF Rise of Nations\fs26\fsp3\bord1.7\1a&HC8&\3a&H28&\blur0.7\pos(1080,192)}Hello Kitty Plushie
 Comment: 1,0:10:00.16,0:10:04.20,Sign,,0,0,0,,{\fscx90\fnCF Rise of Nations\fs26\fsp3\blur0.8\pos(1080,192)}Hello Kitty Plushie
-Dialogue: 0,0:10:08.67,0:10:13.17,Sign,,0,0,0,,{\pos(1080,127)\c&H12141F&\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
-Dialogue: 1,0:10:08.67,0:10:13.17,Sign,,0,0,0,,{\pos(1080,127)\fscx97\fscy90\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
-Dialogue: 2,0:10:08.67,0:10:13.17,Sign,,0,0,0,,{\pos(1080,127)\fscx95\fscy84\c&H12141F&\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
-Dialogue: 3,0:10:08.67,0:10:13.17,Sign,,0,0,0,,{\pos(1080,127)\fscx93\fscy76.5\blur0.75\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 0,0:10:08.67,0:10:13.17,Sign,,0,0,0,,{\pos(1080,127)\c&H12141F&\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 1,0:10:08.67,0:10:13.17,Sign,,0,0,0,,{\pos(1080,127)\fscx97\fscy90\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 2,0:10:08.67,0:10:13.17,Sign,,0,0,0,,{\pos(1080,127)\fscx95\fscy84\c&H12141F&\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
+Dialogue: 3,0:10:08.67,0:10:13.17,Sign,,0,0,0,,{\pos(1080,127)\fscx93\fscy76.5\blur0.8\p1}m 0 0 l 350 0 350 96 0 96
 Dialogue: 4,0:10:08.67,0:10:13.17,Sign,,0,0,0,,{\pos(1080,132)\fnBrushType\fs47\c&H000000&\blur0.8}Gankyou Kuurubiyuutei
-Comment: 0,0:10:08.67,0:10:13.17,Sign,,0,0,0,,{\fscx90\fnCF Rise of Nations\fs26\fsp3\bord1.7\1a&HC8&\3a&H28&\blur0.65\pos(1080,192)}Cool Bespectacled Beauty
+Comment: 0,0:10:08.67,0:10:13.17,Sign,,0,0,0,,{\fscx90\fnCF Rise of Nations\fs26\fsp3\bord1.7\1a&HC8&\3a&H28&\blur0.7\pos(1080,192)}Cool Bespectacled Beauty
 Comment: 1,0:10:08.67,0:10:13.17,Sign,,0,0,0,,{\fscx90\fnCF Rise of Nations\fs26\fsp3\blur0.8\pos(1080,192)}Cool Bespectacled Beauty
 Dialogue: 0,0:10:20.80,0:10:22.72,Sign,,0,0,0,,{\an7\c&HD8E8F0&\blur6\pos(1003,120)\p1}m -79 -70 l -14 -92 113 -98 122 19 114 136 -3 182 -86 187 -94 25
-Dialogue: 1,0:10:20.80,0:10:22.72,Sign,,0,0,0,,{\pos(1015,145.34)\frz3.069\fnBrush-Hyouka\fs52\c&H2C3436&\blur0.7}Marii
-Dialogue: 1,0:10:20.80,0:10:22.72,Sign,,0,0,0,,{\pos(1020,212.67)\frz3.069\fnBrush-Hyouka\fs52\c&H2C3436&\blur0.7}Buratei
-Comment: 1,0:10:20.80,0:10:22.72,Sign,,0,0,0,,{\fnBrush-Hyouka\fs16\c&H212628&\blur0.7\frz3.069\pos(1020.33,230)}(Bloody Mary)
-Dialogue: 0,0:10:23.81,0:10:25.81,Sign,,0,0,0,,{\an7\blur0.667\bord0\shad0\fscx100\fscy100\pos(636.027,472.227)\p1\c&HD5E2EC&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
-Dialogue: 1,0:10:23.81,0:10:25.81,Sign,,0,0,0,,{\an7\blur0.467\bord0\shad0\fscx100\fscy100\pos(636.027,472.227)\p1\c&HD5E2EC&\bord2\3c&H647181&\1a&H80&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
-Dialogue: 2,0:10:23.81,0:10:25.81,Sign,,0,0,0,,{\pos(1105.36,156.227)\frz0.419\fnBrush-Hyouka\fs53.33\c&H373F42&\blur0.67}Heipo
-Dialogue: 2,0:10:23.81,0:10:25.81,Sign,,0,0,0,,{\pos(1105.36,280.227)\frz0.419\fnBrush-Hyouka\fs16\c&H373F42&\blur0.67}The nickname of \NSaito Toshihide, \Na famous \NTV personality.
-Dialogue: 0,0:10:27.77,0:10:29.27,Sign,,0,0,0,,{\an7\blur0.667\bord0\shad0\fscx100\fscy100\pos(636.027,472.227)\p1\c&HD5E2EC&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
-Dialogue: 1,0:10:27.77,0:10:29.27,Sign,,0,0,0,,{\an7\blur0.467\bord0\shad0\fscx100\fscy100\pos(636.027,472.227)\p1\c&HD5E2EC&\bord2\3c&H647181&\1a&H80&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
-Dialogue: 2,0:10:27.77,0:10:29.27,Sign,,0,0,0,,{\pos(1108.03,162.23)\fnFenix\fs42\c&H373F42&\blur0.7}Stand Up,
-Dialogue: 2,0:10:27.77,0:10:29.27,Sign,,0,0,0,,{\pos(1108.03,216.23)\fnFenix\fs70\c&H373F42&\blur0.7}Japan!
-Dialogue: 0,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\an7\blur0.7\pos(636.027,472.227)\p1\c&HD5E2EC&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
-Dialogue: 1,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\an7\blur0.7\pos(636.027,472.227)\p1\c&HD5E2EC&\bord2\3c&H647181&\1a&H80&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
-Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1105,111)\frz0.419\fnCallani\fs26.67\c&H373F42&\blur0.67}Lovely weather
-Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1105,134)\frz0.419\fnCallani\fs26.67\c&H373F42&\blur0.67}we{\fnFenix}'{\fnCallani}re having
-Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1105,159.67)\frz0.419\fnCallani\fs26.67\c&H373F42&\blur0.67}don{\fnFenix}'{\fnCallani}t you think?
-Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1105,212.33)\frz0.419\fnCallani\fs26.67\c&H373F42&\blur0.67}This morning{\fnFenix},{\fnCallani}
-Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1105,234.67)\fnCallani\fs26.67\c&H373F42&\blur0.67}dandelions bloomed
-Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\fnCallani\fs26.67\an6\c&H373F42&\blur0.67\frz0.419\pos(1178.627,255.693)}by the
-Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\fnCallani\fs26.67\an6\c&H373F42&\blur0.67\frz0.419\pos(1174.96,279.027)}side of
-Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\fnCallani\fs26.67\an6\c&H373F42&\blur0.67\frz0.419\pos(1188.29,298.69)}the road{\fnFenix}.{\fnCallani}
-Dialogue: 4,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1061,295)\frz33.58\fn2Peas GGs Love Me\fs80\c&H444745&\blur0.67}P
-Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1085.16,292.77)\frz7.47\c&H6CAD7D&\p1}m -10 15.375 l -8.625 6 -4 5.375 -2 10.625 -6 24
-Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1100.49,300.43)\frz7.47\c&H7DCEEC&\p1}m -29.375 -13.375 l -32 -24 -28.625 -29.375 -26 -26 -24.625 -16.625 -20 -19.375 -14 -21.375 -15.375 -16 -20 -11.375 -12.625 -9.375 -7.375 -4.625 -9.375 -1.375 -16.625 -2 -22.625 -4.625 -20 6 -22.625 11.375 -27.375 12 -29.375 8 -29.375 -4 -36 -0.625 -42.625 -2 -44.625 -6 -42.625 -10.625 -32.625 -11.375 -30 -10.625 -25.375 -12.625 -21.375 -8 -25.375 -2.625 -31.375 -7.375
-Dialogue: 3,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1085.16,292.77)\p1\c&HBAE3F4&}m -35 -17 l -30 -17 -30 -12 -35 -10 -37 -14
-Dialogue: 0,0:10:33.90,0:10:39.28,Sign,,0,0,0,,{\an7\blur0.667\bord0\shad0\fscx100\fscy100\pos(636.027,472.227)\p1\c&HD5E2EC&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
-Dialogue: 1,0:10:33.90,0:10:39.28,Sign,,0,0,0,,{\an7\blur0.467\bord0\shad0\fscx100\fscy100\pos(636.027,472.227)\p1\c&HD5E2EC&\bord2\3c&H647181&\1a&H80&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
-Dialogue: 2,0:10:33.90,0:10:35.15,Sign,,0,0,0,,{\fnbrush-tipTerrence trial\fs40\c&H373F42&\blur0.667\frz0.4194\pos(1108.027,200.227)\b0}W{\fsp9.333}e{\fsp}dre{\fsp9.333}w{\fsp}this{\fnBrush-Hyouka\fs26.667}!
-Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1106,148.671)\frz0.419\fnFenix\fs22.67\c&H373F42&\blur0.67}Tokyo Metropolitan \NOrdinance
-Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1106,148.671)\frz0.419\fnFenix\fs22.67\c&H373F42&\blur0.67}Tokyo Metropolitan \NOrdinance
-Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1106,226.893)\frz0.419\fnFenix\fs18.67\c&H373F42&\blur0.67}Regarding The healthy \Ndevelopment of youths.
-Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1106,226.893)\frz0.419\fnFenix\fs18.67\c&H373F42&\blur0.67}Regarding The healthy \Ndevelopment of youths.
-Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\pos(1106,200.227)\frz0.419\fnEstandar Rounded\fs26.67\fsp1.33\c&H373F42&\blur0.67}Endemic lack \Nof \Ntransparency
-Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\pos(1106,200.227)\frz0.419\fnEstandar Rounded\fs26.67\fsp1.33\c&H373F42&\blur0.67}Endemic lack \Nof \Ntransparency
-Dialogue: 1,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1105.543,179.608)\fnArial\fs533\c&H4A4F53&\clip(m 1014 90.625 l 1015.375 315.375 1196.625 318.625 1197.375 92.625)}●
-Dialogue: 2,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1105.543,188.141)\fnArial\fs400\c&H6E7479&}●
-Dialogue: 3,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1105.543,195.608)\fnArial\fs267\c&H929BA2&}●
-Dialogue: 4,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1105.543,202.275)\fnArial\fs133\c&H414145&}●
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1041.543,210.275)\frz20\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}T
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1041.543,210.275)\frz20\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}T
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1041.543,210.275)\frz20\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}T
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1055.194,205.189)\frz20\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}h
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1055.194,205.189)\frz20\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}h
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1055.194,205.189)\frz20\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}h
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1066.097,201.127)\frz20\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}a
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1066.097,201.127)\frz20\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}a
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1066.097,201.127)\frz20\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}a
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1075.45,199.602)\frz7\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}t
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1075.45,199.602)\frz7\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}t
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1075.45,199.602)\frz7\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}t
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1081.874,198.76)\frz7\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}'
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1081.874,198.76)\frz7\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}'
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1081.874,198.76)\frz7\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}'
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1089.295,197.787)\frz7\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}s
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1089.295,197.787)\frz7\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}s
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1089.295,197.787)\frz7\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}s
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1104.746,195.76)\frz7\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}a
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1104.746,195.76)\frz7\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}a
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1104.746,195.76)\frz7\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}a
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1114.419,195.735)\frz-4\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}l
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1114.419,195.735)\frz-4\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}l
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1114.419,195.735)\frz-4\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}l
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1122.175,196.219)\frz-4\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}l
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1122.175,196.219)\frz-4\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}l
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1122.175,196.219)\frz-4\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}l
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1139.152,197.28)\frz-4\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}F
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1139.152,197.28)\frz-4\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}F
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1139.152,197.28)\frz-4\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}F
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1147.061,198.245)\frz-7\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}o
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1147.061,198.245)\frz-7\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}o
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1147.061,198.245)\frz-7\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}o
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1155.863,199.38)\frz-7\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}l
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1155.863,199.38)\frz-7\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}l
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1155.863,199.38)\frz-7\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}l
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1164.757,201.453)\frz-17\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}k
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1164.757,201.453)\frz-17\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}k
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1164.757,201.453)\frz-17\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}k
-Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1175.065,207.309)\frz-17\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}s!
-Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1175.065,207.309)\frz-17\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}s!
-Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1175.065,207.309)\frz-17\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}s!
+Dialogue: 1,0:10:20.80,0:10:22.72,Sign,,0,0,0,,{\pos(1015,145.3)\frz3.069\fnBrush-Hyouka\fs52\b0\c&H2C3436&\blur0.7}Marii
+Dialogue: 1,0:10:20.80,0:10:22.72,Sign,,0,0,0,,{\pos(1020,212.7)\frz3.069\fnBrush-Hyouka\fs52\b0\c&H2C3436&\blur0.7}Buratei
+Comment: 1,0:10:20.80,0:10:22.72,Sign,,0,0,0,,{\fnBrush-Hyouka\fs16\c&H212628&\blur0.7\frz3.069\pos(1020.3,230)\b0}(Bloody Mary)
+Dialogue: 0,0:10:23.81,0:10:25.81,Sign,,0,0,0,,{\an7\blur0.7\bord0\shad0\fscx100\fscy100\pos(636,472.2)\p1\c&HD5E2EC&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
+Dialogue: 1,0:10:23.81,0:10:25.81,Sign,,0,0,0,,{\an7\blur0.5\bord0\shad0\fscx100\fscy100\pos(636,472.2)\p1\c&HD5E2EC&\bord2\3c&H647181&\1a&H80&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
+Dialogue: 2,0:10:23.81,0:10:25.81,Sign,,0,0,0,,{\pos(1105.4,156.2)\frz0.419\fnBrush-Hyouka\fs53.33\b0\c&H373F42&\blur0.7}Heipo
+Dialogue: 2,0:10:23.81,0:10:25.81,Sign,,0,0,0,,{\pos(1105.2,256.2)\frz0.419\fnBrush-Hyouka\fs16\b0\c&H373F42&\blur0.7}The nickname of 
+Dialogue: 2,0:10:23.81,0:10:25.81,Sign,,0,0,0,,{\pos(1105.3,272.2)\frz0.419\fnBrush-Hyouka\fs16\b0\c&H373F42&\blur0.7}Saito Toshihide, 
+Dialogue: 2,0:10:23.81,0:10:25.81,Sign,,0,0,0,,{\pos(1105.4,288.2)\frz0.419\fnBrush-Hyouka\fs16\b0\c&H373F42&\blur0.7}a famous 
+Dialogue: 2,0:10:23.81,0:10:25.81,Sign,,0,0,0,,{\pos(1105.5,304.2)\frz0.419\fnBrush-Hyouka\fs16\b0\c&H373F42&\blur0.7}TV personality.
+Dialogue: 0,0:10:27.77,0:10:29.27,Sign,,0,0,0,,{\an7\blur0.7\bord0\shad0\fscx100\fscy100\pos(636,472.2)\p1\c&HD5E2EC&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
+Dialogue: 1,0:10:27.77,0:10:29.27,Sign,,0,0,0,,{\an7\blur0.5\bord0\shad0\fscx100\fscy100\pos(636,472.2)\p1\c&HD5E2EC&\bord2\3c&H647181&\1a&H80&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
+Dialogue: 2,0:10:27.77,0:10:29.27,Sign,,0,0,0,,{\pos(1108,162.2)\fnFenix\fs42\c&H373F42&\blur0.7}Stand Up,
+Dialogue: 2,0:10:27.77,0:10:29.27,Sign,,0,0,0,,{\pos(1108,216.2)\fnFenix\fs70\c&H373F42&\blur0.7}Japan!
+Dialogue: 0,0:10:32.40,0:10:39.28,Sign,,0,0,0,,{\an7\blur0.7\pos(636,472.2)\p1\c&HD5E2EC&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
+Dialogue: 1,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\an7\blur0.7\pos(636,472.2)\p1\c&HD5E2EC&\bord2\3c&H647181&\1a&H80&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
+Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1105,111)\frz0.419\fnCallani\fs26.67\c&H373F42&\blur0.7}Lovely weather
+Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1105,134)\frz0.419\fnCallani\fs26.67\c&H373F42&\blur0.7}we{\fnFenix}'{\fnCallani}re having
+Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1105,159.7)\frz0.419\fnCallani\fs26.67\c&H373F42&\blur0.7}don{\fnFenix}'{\fnCallani}t you think?
+Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1105,212.3)\frz0.419\fnCallani\fs26.67\c&H373F42&\blur0.7}This morning{\fnFenix},{\fnCallani}
+Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1105,234.7)\fnCallani\fs26.67\c&H373F42&\blur0.7}dandelions bloomed
+Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\fnCallani\fs26.67\an6\c&H373F42&\blur0.7\frz0.419\pos(1178.6,255.7)}by the
+Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\fnCallani\fs26.67\an6\c&H373F42&\blur0.7\frz0.419\pos(1175,279)}side of
+Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\fnCallani\fs26.67\an6\c&H373F42&\blur0.7\frz0.419\pos(1188.3,298.7)}the road{\fnFenix}.{\fnCallani}
+Dialogue: 4,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1061,295)\frz33.58\fn2Peas GGs Love Me\fs80\b0\c&H444745&\blur0.7}P
+Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1084.2,291.8)\frz7.47\c&H6CAD7D&\p1}m -10 15.375 l -8.625 6 -4 5.375 -2 10.625 -6 24
+Dialogue: 2,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\pos(1100.5,302.4)\frz7.47\c&H7DCEEC&\p1}m -29.375 -13.375 l -32 -24 -28.625 -29.375 -26 -26 -24.625 -16.625 -20 -19.375 -14 -21.375 -15.375 -16 -20 -11.375 -12.625 -9.375 -7.375 -4.625 -9.375 -1.375 -16.625 -2 -22.625 -4.625 -20 6 -22.625 11.375 -27.375 12 -29.375 8 -29.375 -4 -36 -0.625 -42.625 -2 -44.625 -6 -42.625 -10.625 -32.625 -11.375 -30 -10.625 -25.375 -12.625 -21.375 -8 -25.375 -2.625 -31.375 -7.375
+Dialogue: 3,0:10:32.40,0:10:33.90,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1086.2,293.8)\c&HBAE3F4&\p1}m -35 -17 l -30 -17 -30 -12 -35 -10 -37 -14
+Dialogue: 1,0:10:33.90,0:10:39.28,Sign,,0,0,0,,{\an7\blur0.5\bord0\shad0\fscx100\fscy100\pos(636,472.2)\p1\c&HD5E2EC&\bord2\3c&H647181&\1a&H80&}m 378.625 -414 l 391.375 -416.625 408.625 -416.625 558 -416.625 561.375 -417.375 561.375 -417.375 561.375 -130.625 542 -129.375 530 -129.375 514 -130.625 495.375 -130.625 390.625 -128 388 -128.625 384 -130 378.625 -130.625
+Dialogue: 2,0:10:33.90,0:10:35.15,Sign,,0,0,0,,{\fnbrush-tipTerrence trial\fs40\c&H373F42&\blur0.7\frz0.4194\pos(1108,200.2)\b0}W{\fsp9.333}e{\fsp}dre{\fsp9.333}w{\fsp}this{\fnBrushType-SemiBold\i1\fs32}!
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1105.9,137.7)\frz0.419\fnFenix\fs23\c&H373F42&\blur0.7}Tokyo Metropolitan 
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1106.1,159.7)\frz0.419\fnFenix\fs23\c&H373F42&\blur0.7}Ordinance
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1105.9,137.7)\frz0.419\fnFenix\fs23\c&H373F42&\blur0.7}Tokyo Metropolitan 
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1106.1,159.7)\frz0.419\fnFenix\fs23\c&H373F42&\blur0.7}Ordinance
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1105.9,217.9)\frz0.419\fnFenix\fs19\c&H373F42&\blur0.7}Regarding The healthy 
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1106.1,235.9)\frz0.419\fnFenix\fs19\c&H373F42&\blur0.7}development of youths.
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1105.9,217.9)\frz0.419\fnFenix\fs19\c&H373F42&\blur0.7}Regarding The healthy 
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1106.1,235.9)\frz0.419\fnFenix\fs19\c&H373F42&\blur0.7}development of youths.
+Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\pos(1105.8,174.2)\frz0.419\fnEstandar Rounded\fs27\fsp1.33\c&H373F42&\blur0.7}Endemic lack 
+Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\pos(1106,200.2)\frz0.419\fnEstandar Rounded\fs27\fsp1.33\c&H373F42&\blur0.7}of 
+Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\pos(1106.2,226.2)\frz0.419\fnEstandar Rounded\fs27\fsp1.33\c&H373F42&\blur0.7}transparency
+Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\pos(1105.8,174.2)\frz0.419\fnEstandar Rounded\fs27\fsp1.33\c&H373F42&\blur0.7}Endemic lack 
+Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\pos(1106,200.2)\frz0.419\fnEstandar Rounded\fs27\fsp1.33\c&H373F42&\blur0.7}of 
+Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\pos(1106.2,226.2)\frz0.419\fnEstandar Rounded\fs27\fsp1.33\c&H373F42&\blur0.7}transparency
+Dialogue: 1,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1105.5,179.6)\fnArial\fs533\c&H4A4F53&\clip(m 1014 90.625 l 1015.375 315.375 1196.625 318.625 1197.375 92.625)}●
+Dialogue: 2,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1105.5,188.1)\fnArial\fs400\c&H6E7479&}●
+Dialogue: 3,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1105.5,195.6)\fnArial\fs267\c&H929BA2&}●
+Dialogue: 4,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1105.5,202.3)\fnArial\fs133\c&H414145&}●
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1041.5,210.3)\frz20\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}T
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1041.5,210.3)\frz20\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}T
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1041.5,210.3)\frz20\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}T
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1055.2,205.2)\frz20\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}h
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1055.2,205.2)\frz20\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}h
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1055.2,205.2)\frz20\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}h
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1066.1,201.1)\frz20\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}a
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1066.1,201.1)\frz20\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}a
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1066.1,201.1)\frz20\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}a
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1075.5,199.6)\frz7\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}t
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1075.5,199.6)\frz7\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}t
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1075.5,199.6)\frz7\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}t
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1081.9,198.8)\frz7\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}'
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1081.9,198.8)\frz7\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}'
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1081.9,198.8)\frz7\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}'
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1089.3,197.8)\frz7\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}s
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1089.3,197.8)\frz7\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}s
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1089.3,197.8)\frz7\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}s
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1104.7,195.8)\frz7\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}a
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1104.7,195.8)\frz7\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}a
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1104.7,195.8)\frz7\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}a
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1114.4,195.7)\frz-4\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}l
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1114.4,195.7)\frz-4\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}l
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1114.4,195.7)\frz-4\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}l
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1122.2,196.2)\frz-4\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}l
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1122.2,196.2)\frz-4\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}l
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1122.2,196.2)\frz-4\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}l
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1139.2,197.3)\frz-4\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}F
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1139.2,197.3)\frz-4\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}F
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1139.2,197.3)\frz-4\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}F
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1147.1,198.2)\frz-7\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}o
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1147.1,198.2)\frz-7\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}o
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1147.1,198.2)\frz-7\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}o
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1155.9,199.4)\frz-7\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}l
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1155.9,199.4)\frz-7\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}l
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1155.9,199.4)\frz-7\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}l
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1164.8,201.5)\frz-17\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}k
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1164.8,201.5)\frz-17\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}k
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1164.8,201.5)\frz-17\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}k
+Dialogue: 5,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1175.1,207.3)\frz-17\fnThat's Font Folks!\i1\bord1.3\c&H373F42&\3c&HFFFFFF&\alpha&H80&\blur2}s!
+Dialogue: 6,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1175.1,207.3)\frz-17\fnThat's Font Folks!\i1\bord1.3\3c&HFFFFFF&\blur0.7}s!
+Dialogue: 7,0:10:38.03,0:10:39.28,Sign,,0,0,0,,{\pos(1175.1,207.3)\frz-17\fnThat's Font Folks!\i1\c&H373F42&\4a&HFF&\blur0.7}s!
 Dialogue: 0,0:16:19.41,0:16:25.17,Sign,,0,0,0,,{\an7\blur0.7\p1\c&H75C1E7&\pos(300,74)}m -23.375 -4 l -12.625 -22 12 -18.625 24 18.625 -16.625 22.625
 Dialogue: 1,0:16:19.41,0:16:25.17,Sign,,0,0,0,,{\pos(314,78)\frz16.26\fry2.69\frx-2.98\fnGo Boom!\fs20\c&H3153C1&\alpha&HB0&\blur4}Year of the \NDog
 Dialogue: 2,0:16:19.41,0:16:25.17,Sign,,0,0,0,,{\pos(314,78)\frz16.26\fry2.69\frx-2.98\fnGo Boom!\fs20\c&H3153C1&\blur0.6}Year of the \NDog
@@ -287,23 +297,23 @@ Dialogue: 0,0:16:27.92,0:16:29.00,Sign,,0,0,0,,{\pos(787,551)\fnGaramond Premr P
 Dialogue: 0,0:16:27.92,0:16:29.00,Sign,,0,0,0,,{\pos(787,551)\fnGaramond Premr Pro Smbd Capt\fs40\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Die like a dog
 Dialogue: 1,0:16:27.92,0:16:29.00,Sign,,0,0,0,,{\pos(787,551)\fnGaramond Premr Pro Smbd Capt\fs40\shad0.01\1a&HFE&\3a&H00&\4a&H3C&\blur0.7}Die like a dog
 Dialogue: 1,0:16:27.92,0:16:29.00,Sign,,0,0,0,,{\pos(787,551)\fnGaramond Premr Pro Smbd Capt\fs40\shad0.01\1a&HFE&\3a&H00&\4a&H3C&\blur0.7}Die like a dog
-Dialogue: 0,0:16:29.25,0:16:33.88,Sign,,0,0,0,,{\pos(229,182.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HECF1FF&\alpha&H80&\4a&H50&\blur1\c&HFFFFFF&\1a&H00&}What the cat \Ndragged in
-Dialogue: 0,0:16:29.25,0:16:33.88,Sign,,0,0,0,,{\pos(229,182.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HECF1FF&\alpha&H80&\4a&H50&\blur1\c&HFFFFFF&\1a&H00&}What the cat \Ndragged in
-Dialogue: 1,0:16:29.25,0:16:33.88,Sign,,0,0,0,,{\pos(229,182.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}What the cat \Ndragged in
-Dialogue: 1,0:16:29.25,0:16:33.88,Sign,,0,0,0,,{\pos(229,182.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}What the cat \Ndragged in
-Dialogue: 0,0:16:30.26,0:16:33.88,Sign,,0,0,0,,{\pos(354.333,98.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Cat burglar
-Dialogue: 0,0:16:30.26,0:16:33.88,Sign,,0,0,0,,{\pos(354.333,98.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Cat burglar
-Dialogue: 1,0:16:30.26,0:16:33.88,Sign,,0,0,0,,{\pos(354.333,98.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Cat burglar
-Dialogue: 1,0:16:30.26,0:16:33.88,Sign,,0,0,0,,{\pos(354.333,98.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Cat burglar
-Dialogue: 0,0:16:31.26,0:16:33.88,Sign,,0,0,0,,{\pos(151.667,357)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Cat that ate the canary
-Dialogue: 0,0:16:31.26,0:16:33.88,Sign,,0,0,0,,{\pos(151.667,357)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Cat that ate the canary
-Dialogue: 1,0:16:31.26,0:16:33.88,Sign,,0,0,0,,{\pos(151.667,357)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Cat that ate the canary
-Dialogue: 1,0:16:31.26,0:16:33.88,Sign,,0,0,0,,{\pos(151.667,357)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Cat that ate the canary
-Dialogue: 0,0:16:32.26,0:16:33.88,Sign,,0,0,0,,{\pos(633,134.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Weak as a kitten
-Dialogue: 0,0:16:32.26,0:16:33.88,Sign,,0,0,0,,{\pos(633,134.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Weak as a kitten
-Dialogue: 1,0:16:32.26,0:16:33.88,Sign,,0,0,0,,{\pos(633,134.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Weak as a kitten
-Dialogue: 1,0:16:32.26,0:16:33.88,Sign,,0,0,0,,{\pos(633,134.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Weak as a kitten
-Dialogue: 0,0:16:33.01,0:16:33.88,Sign,,0,0,0,,{\pos(469,358.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Scaredy-cat
-Dialogue: 0,0:16:33.01,0:16:33.88,Sign,,0,0,0,,{\pos(469,358.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Scaredy-cat
-Dialogue: 1,0:16:33.01,0:16:33.88,Sign,,0,0,0,,{\pos(469,358.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Scaredy-cat
-Dialogue: 1,0:16:33.01,0:16:33.88,Sign,,0,0,0,,{\pos(469,358.333)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Scaredy-cat
+Dialogue: 0,0:16:29.25,0:16:33.88,Sign,,0,0,0,,{\pos(229,182.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HECF1FF&\alpha&H80&\4a&H50&\blur1\c&HFFFFFF&\1a&H00&}What the cat \Ndragged in
+Dialogue: 0,0:16:29.25,0:16:33.88,Sign,,0,0,0,,{\pos(229,182.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HECF1FF&\alpha&H80&\4a&H50&\blur1\c&HFFFFFF&\1a&H00&}What the cat \Ndragged in
+Dialogue: 1,0:16:29.25,0:16:33.88,Sign,,0,0,0,,{\pos(229,182.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}What the cat \Ndragged in
+Dialogue: 1,0:16:29.25,0:16:33.88,Sign,,0,0,0,,{\pos(229,182.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}What the cat \Ndragged in
+Dialogue: 0,0:16:30.26,0:16:33.88,Sign,,0,0,0,,{\pos(354.3,98.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Cat burglar
+Dialogue: 0,0:16:30.26,0:16:33.88,Sign,,0,0,0,,{\pos(354.3,98.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Cat burglar
+Dialogue: 1,0:16:30.26,0:16:33.88,Sign,,0,0,0,,{\pos(354.3,98.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Cat burglar
+Dialogue: 1,0:16:30.26,0:16:33.88,Sign,,0,0,0,,{\pos(354.3,98.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Cat burglar
+Dialogue: 0,0:16:31.26,0:16:33.88,Sign,,0,0,0,,{\pos(151.7,357)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Cat that ate the canary
+Dialogue: 0,0:16:31.26,0:16:33.88,Sign,,0,0,0,,{\pos(151.7,357)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Cat that ate the canary
+Dialogue: 1,0:16:31.26,0:16:33.88,Sign,,0,0,0,,{\pos(151.7,357)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Cat that ate the canary
+Dialogue: 1,0:16:31.26,0:16:33.88,Sign,,0,0,0,,{\pos(151.7,357)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Cat that ate the canary
+Dialogue: 0,0:16:32.26,0:16:33.88,Sign,,0,0,0,,{\pos(633,134.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Weak as a kitten
+Dialogue: 0,0:16:32.26,0:16:33.88,Sign,,0,0,0,,{\pos(633,134.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Weak as a kitten
+Dialogue: 1,0:16:32.26,0:16:33.88,Sign,,0,0,0,,{\pos(633,134.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Weak as a kitten
+Dialogue: 1,0:16:32.26,0:16:33.88,Sign,,0,0,0,,{\pos(633,134.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Weak as a kitten
+Dialogue: 0,0:16:33.01,0:16:33.88,Sign,,0,0,0,,{\pos(469,358.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Scaredy-cat
+Dialogue: 0,0:16:33.01,0:16:33.88,Sign,,0,0,0,,{\pos(469,358.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\xshad1.4\yshad2\4c&HFFFFFF&\alpha&H80&\4a&H28&\blur1\c&HFFFFFF&\1a&H00&}Scaredy-cat
+Dialogue: 1,0:16:33.01,0:16:33.88,Sign,,0,0,0,,{\pos(469,358.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Scaredy-cat
+Dialogue: 1,0:16:33.01,0:16:33.88,Sign,,0,0,0,,{\pos(469,358.3)\fnGaramond Premr Pro Smbd Capt\fs32\shad0.01\4c&H0C1521&\1a&HFE&\3a&H00&\4a&H28&\blur0.6}Scaredy-cat
