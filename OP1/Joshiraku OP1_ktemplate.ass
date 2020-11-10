@@ -23,7 +23,7 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: OP1,Merienda One,48,&H00FFFFFF,&H000000FF,&H00007FFF,&HA0000000,-1,0,0,0,100,100,2,0,1,2.4,0,1,45,45,30,1
+Style: OP1,Merienda One,48,&H00FFFFFF,&H000000FF,&H00007FFF,&HA0000000,-1,0,0,0,100,100,1.5,0,1,2.4,0,1,45,45,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -35,43 +35,44 @@ Comment: 0,0:00:00.00,0:00:00.02,OP1,,0,0,0,mixin line actor eng,{!ln.tag.pos(5,
 Comment: 0,0:00:00.00,0:00:00.02,OP1,,0,0,0,mixin line,!retime('line',-0,0)!{\fry-80\t(0,200,\fry0)\t(!orgline.duration-400!,!orgline.duration!,\fry270)}
 Comment: 0,0:00:00.00,0:00:00.02,OP1,,0,0,0,,
 Comment: 0,0:00:00.52,0:00:02.73,OP1,eng,0,0,0,kara,Thanks for your continued appreciation!
-Comment: 0,0:00:03.06,0:00:05.52,OP1,eng,0,0,0,kara,For everything so far and all that is to come!
+Comment: 0,0:00:02.98,0:00:05.52,OP1,eng,0,0,0,kara,For everything so far and all that is to come!
 Comment: 0,0:00:05.69,0:00:08.06,OP1,eng,0,0,0,kara,Twing-twang, twing-twang-twang
 Comment: 0,0:00:08.32,0:00:10.82,OP1,eng,0,0,0,kara,Twing-twang, twing-twang-twang
 Comment: 0,0:00:10.90,0:00:13.28,OP1,eng,0,0,0,kara,Everybody in the house, come on!
-Comment: 0,0:00:17.24,0:00:19.58,OP1,eng,0,0,0,kara,Solving riddles always gives me a thrill
-Comment: 0,0:00:19.74,0:00:22.12,OP1,eng,0,0,0,kara,There's always a trick to it
+Comment: 0,0:00:17.24,0:00:19.58,OP1,eng,0,0,0,kara,Solving riddles gives me a thrill
+Comment: 0,0:00:19.74,0:00:22.12,OP1,eng,0,0,0,kara,They've always got a gimmick to them
 Comment: 0,0:00:22.25,0:00:24.50,OP1,eng,0,0,0,kara,Girls' problems are just Snakes & Ladders?
-Comment: 0,0:00:24.50,0:00:27.13,OP1,eng,0,0,0,kara,Well then, go ahead and roll the die!
-Comment: 0,0:00:27.38,0:00:29.67,OP1,eng,0,0,0,kara,Roll a one and at least you won't be at sixes and sevens
+Comment: 0,0:00:24.50,0:00:26.96,OP1,eng,0,0,0,kara,Then go ahead and roll the dice!
+Comment: 0,0:00:27.38,0:00:29.97,OP1,eng,0,0,0,kara,Roll a one and at least you won't be at sixes or sevens
 Comment: 0,0:00:29.96,0:00:32.30,OP1,eng,0,0,0,kara,Two's company, three's a cloud nine
-Comment: 0,0:00:32.51,0:00:36.39,OP1,eng,0,0,0,kara,I can't make sense of anything you just said!
-Comment: 0,0:00:36.64,0:00:41.64,OP1,eng,0,0,0,kara,Hey, I think this looks like it might be fun
-Comment: 0,0:00:41.68,0:00:45.85,OP1,eng,0,0,0,kara,Or am I just imagining it?
+Comment: 0,0:00:32.51,0:00:36.39,OP1,eng,0,0,0,kara,I can't make sense of any of that!
+Comment: 0,0:00:36.64,0:00:41.64,OP1,eng,0,0,0,kara,Hey, I think this looks like it could be fun
+Comment: 0,0:00:41.68,0:00:45.85,OP1,eng,0,0,0,kara,Or am I just imagining things?
 Comment: 0,0:00:45.85,0:00:48.69,OP1,eng,0,0,0,kara,Oh whatever, who cares anyway?
-Comment: 0,0:00:48.69,0:00:51.57,OP1,eng,0,0,0,kara,Okay, everyone
+Comment: 0,0:00:48.69,0:00:51.57,OP1,eng,0,0,0,kara,Okay, everybody
 Comment: 0,0:00:51.73,0:00:53.82,OP1,eng,0,0,0,kara,Let's get on with it!
-Comment: 0,0:00:55.11,0:00:57.57,OP1,eng,0,0,0,kara,Turn the front on its head, spin it 'round 'n' around
-Comment: 0,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,kara,Twists and turns in a tale's alright if you ask me
+Comment: 0,0:00:55.11,0:00:57.57,OP1,eng,0,0,0,kara,Turn the front on its head, spin it around
+Comment: 0,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,kara,Having twists and turns in a tale's alright
 Comment: 0,0:01:00.16,0:01:01.20,OP1,eng,0,0,0,kara,"Let's go on ahead!"
 Comment: 0,0:01:01.20,0:01:02.58,OP1,eng,0,0,0,kara,"Ladies first!"
-Comment: 0,0:01:02.62,0:01:05.25,OP1,eng,0,0,0,kara,Thanks for everything so far and all that is to come!
+Comment: 0,0:01:02.62,0:01:05.34,OP1,eng,0,0,0,kara,Thanks for everything so far and all that is to come!
 Comment: 0,0:01:05.33,0:01:07.71,OP1,eng,0,0,0,kara,The backstage takes on centre stage
-Comment: 0,0:01:07.71,0:01:10.22,OP1,eng,0,0,0,kara,Pointless chatter's sits just fine by me!
+Comment: 0,0:01:07.71,0:01:10.22,OP1,eng,0,0,0,kara,Showing all our pointless chatter
 Comment: 0,0:01:10.21,0:01:12.80,OP1,eng,0,0,0,kara,Thanks for your continued appreciation!
 Comment: 0,0:01:12.80,0:01:15.26,OP1,eng,0,0,0,kara,The pure white future is paradise
 Comment: 0,0:01:15.26,0:01:16.56,OP1,eng,0,0,0,kara,Paradise!
 Comment: 0,0:01:16.56,0:01:17.72,OP1,eng,0,0,0,kara,Paradise!
 Comment: 0,0:01:17.72,0:01:19.05,OP1,eng,0,0,0,kara,Here we go!
-Comment: 0,0:01:19.05,0:01:23.10,OP1,eng,0,0,0,kara,Ready for some divine comedy?
-Comment: 0,0:00:00.52,0:00:02.73,OP1,rom,0,0,0,kara,{\an7}oato ga mata yoroshikute
+Comment: 0,0:01:19.05,0:01:20.77,OP1,eng,0,0,0,kara,Ready for some divine comedy?
+Comment: 0,0:01:20.77,0:01:23.06,OP1,eng,0,0,0,kara,Twing-twang, twing-twang-twang
+Comment: 0,0:00:00.52,0:00:02.73,OP1,rom,0,0,0,kara,oato ga mata yoroshikute
 Comment: 0,0:00:03.06,0:00:05.52,OP1,rom,0,0,0,kara,osaki mo mae mo yoroshiku ne
 Comment: 0,0:00:10.90,0:00:13.28,OP1,rom,0,0,0,kara,jounai manjou
 Comment: 0,0:00:17.24,0:00:19.58,OP1,rom,0,0,0,kara,nazotoki dokidoki shinan
 Comment: 0,0:00:19.74,0:00:22.12,OP1,rom,0,0,0,kara,shikake ga ariari desu
 Comment: 0,0:00:22.25,0:00:24.50,OP1,rom,0,0,0,kara,joshi teki onayami wa
-Comment: 0,0:00:24.50,0:00:27.13,OP1,rom,0,0,0,kara,sugoroku sai wo futte
-Comment: 0,0:00:27.38,0:00:29.67,OP1,rom,0,0,0,kara,ichi demo roku demo nine
+Comment: 0,0:00:24.50,0:00:26.96,OP1,rom,0,0,0,kara,sugoroku sai wo futte
+Comment: 0,0:00:27.38,0:00:29.97,OP1,rom,0,0,0,kara,ichi demo roku demo nine
 Comment: 0,0:00:29.96,0:00:32.30,OP1,rom,0,0,0,kara,ichi kake bachi ka de sign
 Comment: 0,0:00:32.51,0:00:36.39,OP1,rom,0,0,0,kara,hanashi no tsunagari ga miemasen ne
 Comment: 0,0:00:36.64,0:00:41.64,OP1,rom,0,0,0,kara,oya omoshiroku narisou na yokan wa
@@ -83,7 +84,7 @@ Comment: 0,0:00:55.11,0:00:57.57,OP1,rom,0,0,0,kara,omote no ura uragaeshite
 Comment: 0,0:00:57.57,0:01:00.16,OP1,rom,0,0,0,kara,donden kaeshi mo yoshi yoshi
 Comment: 0,0:01:00.16,0:01:01.20,OP1,rom,0,0,0,kara,osaki ni ikou
 Comment: 0,0:01:01.20,0:01:02.58,OP1,rom,0,0,0,kara,saa douzo
-Comment: 0,0:01:02.62,0:01:05.25,OP1,rom,0,0,0,kara,osaki no mae mo yoroshiku ne
+Comment: 0,0:01:02.62,0:01:05.34,OP1,rom,0,0,0,kara,osaki no mae mo yoroshiku ne
 Comment: 0,0:01:05.33,0:01:07.71,OP1,rom,0,0,0,kara,urabutai ga harebutai de
 Comment: 0,0:01:07.71,0:01:10.22,OP1,rom,0,0,0,kara,muda uchibanashi mo yoka yoka
 Comment: 0,0:01:10.21,0:01:12.80,OP1,rom,0,0,0,kara,oata ga mata yoroshikute
@@ -91,4 +92,4 @@ Comment: 0,0:01:12.80,0:01:15.26,OP1,rom,0,0,0,kara,osaki mashiroki gokuraku da
 Comment: 0,0:01:15.26,0:01:16.56,OP1,rom,0,0,0,kara,gokuraku da
 Comment: 0,0:01:16.56,0:01:17.72,OP1,rom,0,0,0,kara,gokuraku da
 Comment: 0,0:01:17.72,0:01:19.05,OP1,rom,0,0,0,kara,arayotto
-Comment: 0,0:01:19.05,0:01:23.10,OP1,rom,0,0,0,kara,gokuraku joudo ring
+Comment: 0,0:01:19.05,0:01:20.77,OP1,rom,0,0,0,kara,gokuraku joudo ring
