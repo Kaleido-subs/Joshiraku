@@ -23,14 +23,7 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,133,133,37,1
-Style: Alt,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,120,120,40,1
 Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: Prev Title Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,150,0,0,1
-Style: ED1 - ENG,Bubblegum Sans,41,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3,0,2,20,20,20,1
-Style: ED1 - ROM,Bubblegum Sans,32,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.2,0,2,20,20,60,1
-Style: OP1 - ENG,Merienda One,45,&H00FFFFFF,&H000000FF,&H000059BC,&HA0000000,-1,0,0,0,100,100,2.7,0,1,2.7,0,1,47,120,30,1
-Style: OP1 - ROM,Merienda One,45,&H00FFFFFF,&H000000FF,&H000059BC,&HA0000000,-1,0,0,0,100,100,2.7,0,1,2.7,0,7,47,120,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -1249,12 +1242,11 @@ Dialogue: 0,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(634.667,175.333)\fscx600\fn
 Dialogue: 1,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(634.667,171.333)\fscx600\fnFansub Block\fs40\c&HF5EBDD&\blur1}A
 Dialogue: 2,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(673.523,174.762)\fscy700\frz272.5\fnSplit splat splodge\fs12\c&H909090&\1a&H78&\blur2}x
 Dialogue: 2,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(592.38,190.762)\fscy700\frz272.5\fnSplit splat splodge\fs12\c&H909090&\1a&H78&\blur2\clip(442.18,152,843.64,191.27)}g
-Dialogue: 2,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\fscy300\frz197.3\fnSplit splat splodge\fs12\c&H909090&\1a&HB4&\blur2\clip(479.38,150.77,497.85,192)\pos(528.7,193.16)}y
-Dialogue: 2,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\fscy700\fnSplit splat splodge\fs12\c&H7D6751&\1a&H78&\blur2\clip(746,196,774.67,222.67)\pos(748.71,221.62)}x
-Dialogue: 2,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\fscy500\fnSplit splat splodge\fs32\c&H7D6751&\1a&HA0&\blur2\clip(m 534 196 l 562 196 566 326 543 307 543 226 541 223 532 223)\pos(545.67,242.38)}u
-Dialogue: 3,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\fscy300\fnSplit splat splodge\fs12\c&H9C7B5A&\1a&H78&\blur2\clip(m 534 196 l 562 196 566 326 543 307 543 226 541 223 532 223)\pos(545,213.71)}u
-Dialogue: 2,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\fscy700\frz266.7\fnSplit splat splodge\fs4\c&H6F6F6F&\1a&H28&\blur2\clip(442.18,151.33,801.46,191.27)\pos(747.52,154.57)}r
-Dialogue: 2,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\fscy700\frz272.5\fnSplit splat splodge\fs12\c&H909090&\1a&H78&\blur2\clip(480,149.82,801.46,192)\pos(716.86,157.24)}r
+Dialogue: 2,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(748.71,221.62)\fscy700\fnSplit splat splodge\fs12\c&H7D6751&\1a&H78&\blur2\clip(746,196,774.67,222.67)}x
+Dialogue: 2,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(545.67,242.38)\fscy500\fnSplit splat splodge\fs32\c&H7D6751&\1a&HA0&\blur2\clip(m 534 196 l 562 196 566 326 543 307 543 226 541 223 532 223)}u
+Dialogue: 3,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(545,213.71)\fscy300\fnSplit splat splodge\fs12\c&H9C7B5A&\1a&H78&\blur2\clip(m 534 196 l 562 196 566 326 543 307 543 226 541 223 532 223)}u
+Dialogue: 2,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(747.52,154.57)\fscy700\frz266.7\fnSplit splat splodge\fs4\c&H6F6F6F&\1a&H28&\blur2\clip(442.18,151.33,801.46,191.27)}r
+Dialogue: 2,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(716.86,157.24)\fscy700\frz272.5\fnSplit splat splodge\fs12\c&H909090&\1a&H78&\blur2\clip(480,149.82,801.46,192)}r
 Dialogue: 3,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(639.667,171.333)\fnMontara  Gothic\fs36\c&H584A3E&\blur1}Musashi-Kosugi
 Dialogue: 3,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(639.667,171.333)\fnMontara  Gothic\fs36\c&H584A3E&\blur1}Musashi-Kosugi
 Dialogue: 4,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(634.667,171.333)\fnGrain\fs36\c&HF2E6DB&\1a&H8C&\blur1\clip(442.18,152,843.64,191.27)}CXXCZQKKBLTGBKBRWTYP
@@ -1312,15 +1304,15 @@ Dialogue: 0,0:11:16.03,0:11:16.07,Sign,,0,0,0,,{\pos(215.72,151)\frz343.5\fry4.1
 Dialogue: 0,0:11:24.75,0:11:29.75,Sign,,0,0,0,,{\pos(636.572,180.572)\fnKG Primary Penmanship\fs14\fsp1\i1\c&H1F2B2D&\1a&H50&\blur1}Authentic Indian Curry
 Dialogue: 0,0:11:24.75,0:11:29.75,Sign,,0,0,0,,{\pos(636.572,180.572)\fnKG Primary Penmanship\fs14\fsp1\i1\c&H1F2B2D&\1a&H50&\blur1}Authentic Indian Curry
 Dialogue: 0,0:11:24.75,0:11:29.75,Sign,,0,0,0,,{\pos(605.715,161.144)\fnBrush Strokes\fs32\fsp1\c&H1C2020&\blur1}Curry Birthstone
-Dialogue: 0,0:10:42.91,0:10:44.12,Sign,,0,0,0,,{\pos(641,291)\org(617,320)\frz0.05\frx10.32\fax-0.02\fnCatalogue\fs24\c&HD3DFE4&\blur0.95\1a&H14&}Musashi-Itsukaichi
-Dialogue: 0,0:10:42.91,0:10:44.12,Sign,,0,0,0,,{\pos(640,288)\org(617,320)\frz0.05\frx10.32\fax-0.02\fnCatalogue\fs24\c&H121317&\blur0.95\1a&H14&}Musashi-Itsukaichi
+Dialogue: 0,0:10:42.91,0:10:44.12,Sign,,0,0,0,,{\pos(641,291)\org(617,320)\frz0.05\frx10.32\fax-0.02\fnCatalogue\fs24\c&HD3DFE4&\1a&H14&\blur0.95}Musashi-Itsukaichi
+Dialogue: 0,0:10:42.91,0:10:44.12,Sign,,0,0,0,,{\pos(640,288)\org(617,320)\frz0.05\frx10.32\fax-0.02\fnCatalogue\fs24\c&H121317&\1a&H14&\blur0.95}Musashi-Itsukaichi
 Dialogue: 0,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(394.591,410.496)\c&HE4E9EF&\blur1\p1}m 120 167 l 177 169 175 400 115 400
 Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(494.727,576.356)\frz88.52\frx2.07\fax0.02\fnBrushType\fs32\c&H0B1115&\blur1}Gankyou Kuurubiyuutei
 Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(518.585,577.356)\frz88.52\frx2.07\fax0.02\fnBrushType\fs18\b0\c&H0B1115&\1a&H28&\blur0.85}Policies as clear as my glasses!
 Dialogue: 0,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(503.4,502.2)\c&HE1EBF1&\blur2\p1}m -146 -180 l -92 -178 -84 128 b -103 105 -127 75 -144 56
 Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(358.591,295.296)\frz271\fnBrush Hand New\fs52\fsp1\c&H0B1115&\blur1}SNORE PARTY
-Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\fnBuxton Sketch\fs18\fsp1\c&HCBF3F9&\blur1\pos(685.26,659.3)}Mandarin
-Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\fnBuxton Sketch\fs18\fsp1\c&HCBF3F9&\blur1\pos(685.26,659.3)}Mandarin
+Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(685.26,659.3)\fnBuxton Sketch\fs18\fsp1\c&HCBF3F9&\blur1}Mandarin
+Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(685.26,659.3)\fnBuxton Sketch\fs18\fsp1\c&HCBF3F9&\blur1}Mandarin
 Comment: 0,0:16:00.98,0:16:07.24,Sign,,0,0,0,,{\an7\fs40\fsp1\c&H241608&\fnBrushType\blur0.85\move(16.287,103.4,16.287,-204.2,0,-1)\clip(0,0,752,86.4)}{\fnBrushy Cre}• {\fnBrushType} Reduce taxes on glasses \N{\fnBrushy Cre}• {\fnBrushType} Glasses holders at all ramen restaurants \N{\fnBrushy Cre}• {\fnBrushType} Glasses-only train cars \N{\fnBrushy Cre}• {\fnBrushType} Move the capital to Sabae \N{\fnBrushy Cre}• {\fnBrushType} Ban contact lenses \N{\fnBrushy Cre}• {\fnBrushType} LASIK punishable by imprisonment
 Dialogue: 0,0:16:00.98,0:16:07.24,Sign,,0,0,0,,{\an7\fs40\fsp1\c&H241608&\fnBrushType\blur0.85\move(16.287,103.4,16.287,-204.2,0,-1)\clip(1,m 10 10 l 742 10 742 76 10 76 )\fnBrushy Cre}• {\fnBrushType}Reduce taxes on glasses \N{\fnBrushy Cre}• {\fnBrushType}Glasses holders at all ramen restaurants \N{\fnBrushy Cre}• {\fnBrushType}Glasses-only train cars \N{\fnBrushy Cre}• {\fnBrushType}Move the capital to Sabae \N{\fnBrushy Cre}• {\fnBrushType}Ban contact lenses \N{\fnBrushy Cre}• {\fnBrushType}LASIK punishable by imprisonment
 Dialogue: 0,0:16:00.98,0:16:07.24,Sign,,0,0,0,,{\4a&HA9&\3a&H25&\2a&H17&\1a&H17&\an7\fs40\fsp1\c&H241608&\fnBrushType\blur0.85\move(16.287,103.4,16.287,-204.2,0,-1)\clip(1,m 9 9 l 743 9 743 77 9 77 m 10 76 l 742 76 742 10 10 10 )\fnBrushy Cre}• {\fnBrushType}Reduce taxes on glasses \N{\fnBrushy Cre}• {\fnBrushType}Glasses holders at all ramen restaurants \N{\fnBrushy Cre}• {\fnBrushType}Glasses-only train cars \N{\fnBrushy Cre}• {\fnBrushType}Move the capital to Sabae \N{\fnBrushy Cre}• {\fnBrushType}Ban contact lenses \N{\fnBrushy Cre}• {\fnBrushType}LASIK punishable by imprisonment
@@ -1387,8 +1379,8 @@ Dialogue: 0,0:20:32.29,0:20:32.42,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\f
 Dialogue: 0,0:20:32.42,0:20:32.54,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,-1)\c&H42302F&\p1}m 465 276 b 547 283 764 280 824 277 l 849 421 840 616 427 621 435 459
 Dialogue: 0,0:20:32.54,0:20:32.67,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H44302F&}m 438 254 b 534 256 723 261 821 260 l 836 616 445 617
 Dialogue: 0,0:20:32.67,0:20:33.42,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H42302F&}m 451 230 b 546 232 727 234 820 233 l 836 605 635 616 441 608
-Dialogue: 1,0:20:32.42,0:20:33.42,Sign,,0,0,0,,{\fnBadaBoom BB\fs200\fsp25\bord2\c&H2029C0&\3c&H090965&\1a&HC8&\blur1.4\pos(654.86,420.81)}PLAN
-Dialogue: 2,0:20:32.42,0:20:33.42,Sign,,0,0,0,,{\fnBadaBoom BB\fs200\fsp25\c&H2029C0&\blur1\pos(654.86,420.81)}PLAN
+Dialogue: 1,0:20:32.42,0:20:33.42,Sign,,0,0,0,,{\pos(654.86,420.81)\fnBadaBoom BB\fs200\fsp25\bord2\c&H2029C0&\3c&H090965&\1a&HC8&\blur1.4}PLAN
+Dialogue: 2,0:20:32.42,0:20:33.42,Sign,,0,0,0,,{\pos(654.86,420.81)\fnBadaBoom BB\fs200\fsp25\c&H2029C0&\blur1}PLAN
 Dialogue: 0,0:21:06.53,0:21:07.99,Sign,,0,0,0,,{\pos(351.333,232)\fscx350\fscy180\fnFansub Block\fs46\blur8}A
 Dialogue: 1,0:21:06.53,0:21:07.99,Sign,,0,0,0,,{\pos(351.333,232)\fscx350\fscy180\fnFansub Block\fs46\blur1}A
 Dialogue: 2,0:21:06.53,0:21:07.99,Sign,,0,0,0,,{\pos(351.333,232)\fscx340\fscy170\fnFansub Block\fs46\c&H303037&\blur1}A
