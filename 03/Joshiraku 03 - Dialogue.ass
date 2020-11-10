@@ -28,7 +28,6 @@ Style: Alt,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Comment: 0,0:01:29.98,0:01:29.98,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:01:30.34,0:01:33.36,Default,,0,0,0,,"Oh look, dear. It's snowing."
 Dialogue: 10,0:01:33.36,0:01:38.16,Default,,0,0,0,,{\q2}"That's okay. I've drunk so much sake, \NI'm wearing a sa-cape."
@@ -195,7 +194,7 @@ Dialogue: 10,0:07:09.15,0:07:10.70,Default,,0,0,0,,Always the same story.
 Dialogue: 10,0:07:10.70,0:07:12.70,Default,,0,0,0,,Always a victim of bad luck.
 Dialogue: 10,0:07:12.70,0:07:15.33,Default,,0,0,0,,I wanted to be a fairy, dammit!
 Dialogue: 10,0:07:15.33,0:07:18.58,Default,,0,0,0,,{\q2}This is less like feminine complaining \Nand more like drunken muttering.
-Dialogue: 10,0:07:18.58,0:07:23.29,Default,,0,0,0,,{\q2}He's harping on about past incidents all right, \Nbut he seems more like an old guy in a pub.
+Dialogue: 10,0:07:18.58,0:07:23.29,Default,,0,0,0,,{\q2}He's harping on about past incidents alright, \Nbut he seems more like an old guy in a pub.
 Dialogue: 10,0:07:24.29,0:07:26.25,Default,,0,0,0,,Everyone is so rude.
 Dialogue: 10,0:07:26.25,0:07:28.76,Default,,0,0,0,,Nobody understands me.
 Dialogue: 10,0:07:29.76,0:07:32.27,Default,,0,0,0,,I judge the defendant just about ladylike.
