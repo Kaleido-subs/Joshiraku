@@ -25,12 +25,6 @@ Video AR Value: 1.777778
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,133,133,37,1
 Style: Alt,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,120,120,40,1
-Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: Prev Title Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,150,0,0,1
-Style: ED1 - ENG,Bubblegum Sans,41,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3,0,2,20,20,20,1
-Style: ED1 - ROM,Bubblegum Sans,32,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.2,0,2,20,20,60,1
-Style: OP1 - ENG,Merienda One,45,&H00FFFFFF,&H000000FF,&H000059BC,&HA0000000,-1,0,0,0,100,100,2.7,0,1,2.7,0,1,47,120,30,1
-Style: OP1 - ROM,Merienda One,45,&H00FFFFFF,&H000000FF,&H000059BC,&HA0000000,-1,0,0,0,100,100,2.7,0,1,2.7,0,7,47,120,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

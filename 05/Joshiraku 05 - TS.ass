@@ -23,14 +23,7 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,133,133,37,1
-Style: Alt,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,120,120,40,1
 Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: Prev Title Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,150,0,0,1
-Style: ED1 - ENG,Bubblegum Sans,41,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3,0,2,20,20,20,1
-Style: ED1 - ROM,Bubblegum Sans,32,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.2,0,2,20,20,60,1
-Style: OP1 - ENG,Merienda One,45,&H00FFFFFF,&H000000FF,&H000059BC,&HA0000000,-1,0,0,0,100,100,2.7,0,1,2.7,0,1,47,120,30,1
-Style: OP1 - ROM,Merienda One,45,&H00FFFFFF,&H000000FF,&H000059BC,&HA0000000,-1,0,0,0,100,100,2.7,0,1,2.7,0,7,47,120,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -51,17 +44,17 @@ Dialogue: 1,0:08:36.45,0:08:38.95,Sign,,0,0,0,midcard,{\pos(954.67,508)\frz345.6
 Dialogue: 1,0:15:09.42,0:15:11.93,Sign,,0,0,0,midcard,{\pos(230.67,561.33)\frz23.19\fnBrushStroke 35\fs66.67\b0\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 1,0:15:09.42,0:15:11.93,Sign,,0,0,0,midcard,{\pos(230.67,561.33)\frz23.19\fnBrushStroke 35\fs66.67\b0\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\an7\blur0.6\bord0\shad0\fscx100\fscy100\pos(529.7,642.222)\c&HE0E6E8&\p1\clip(m 513 533 l 526 527 531 588 534 625 534 641 510 641)}m -16 -1 l 6 -2 5 -17 6 -32 5 -42 5 -50 4 -59 4 -66 3 -74 2 -81 2 -87 2 -93 1 -102 0 -109 -10 -111
-Dialogue: 1,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\fs16\blur0.6\c&H000000&\1a&HA0&\fnHanoded\org(527.4,633.4)\fax0.09\pos(527.114,587.365)\fscx145\frx4.21\fry319.9}N \No \N\NR \Nu \Nb \Ns \N!
-Dialogue: 1,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\fs16\blur0.6\c&H000000&\1a&HA0&\fnHanoded\org(527.4,633.4)\fax0.09\pos(527.114,587.365)\fscx145\frx4.21\fry319.9}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 1,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\pos(527.114,587.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 1,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\pos(527.114,587.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
 Dialogue: 0,0:02:53.40,0:02:53.48,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(-1,1)\c&HE4EBF0&\p1\clip(m 535 605 l 534 627 534 645 551 643 552 611)}m 533 637 l 533 624 532 610 543 610 544 639
-Dialogue: 1,0:02:53.40,0:02:53.48,Sign,,0,0,0,,{\fs16\blur0.6\c&H000000&\1a&HA0&\fnHanoded\org(527.4,633.4)\fax0.09\pos(527.114,587.365)\fscx145\frx4.21\fry319.9}N \No \N\NR \Nu \Nb \Ns \N!
-Dialogue: 1,0:02:53.40,0:02:53.48,Sign,,0,0,0,,{\fs16\blur0.6\c&H000000&\1a&HA0&\fnHanoded\org(527.4,633.4)\fax0.09\pos(527.114,587.365)\fscx145\frx4.21\fry319.9}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 1,0:02:53.40,0:02:53.48,Sign,,0,0,0,,{\pos(527.114,587.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 1,0:02:53.40,0:02:53.48,Sign,,0,0,0,,{\pos(527.114,587.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
 Dialogue: 0,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HE3EBF0&\clip(m 524 642 l 524 591 525 548 528 519 549 521 550 637)}m 528 523 l 538 526 549 634 523 637 523 605 525 560 525 536
-Dialogue: 1,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\fs16\blur0.6\c&H000000&\1a&HA0&\fnHanoded\org(527.4,633.4)\fax0.09\pos(530.114,583.365)\fscx145\frx4.21\fry319.9}N \No \N\NR \Nu \Nb \Ns \N!
-Dialogue: 1,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\fs16\blur0.6\c&H000000&\1a&HA0&\fnHanoded\org(527.4,633.4)\fax0.09\pos(530.114,583.365)\fscx145\frx4.21\fry319.9}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 1,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\pos(530.114,583.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 1,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\pos(530.114,583.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
 Dialogue: 0,0:02:53.56,0:02:53.65,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HE4EBF0&\clip(m 520 639 l 518 621 520 582 520 547 522 525 545 527 546 642)}m 522 521 l 539 525 541 637 519 633 518 603 520 573 520 552 520 536
-Dialogue: 1,0:02:53.56,0:02:57.40,Sign,,0,0,0,,{\fs16\blur0.6\c&H000000&\1a&HA0&\fnHanoded\org(527.4,633.4)\fax0.09\pos(528.828,583.032)\fscx145\frx4.21\fry319.9}N \No \N\NR \Nu \Nb \Ns \N!
-Dialogue: 1,0:02:53.56,0:02:57.40,Sign,,0,0,0,,{\fs16\blur0.6\c&H000000&\1a&HA0&\fnHanoded\org(527.4,633.4)\fax0.09\pos(528.828,583.032)\fscx145\frx4.21\fry319.9}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 1,0:02:53.56,0:02:57.40,Sign,,0,0,0,,{\pos(528.828,583.032)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 1,0:02:53.56,0:02:57.40,Sign,,0,0,0,,{\pos(528.828,583.032)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
 Dialogue: 0,0:02:53.65,0:02:57.40,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HE2E9EE&}m 518 520 l 539 520 547 636 515 632
 Dialogue: 0,0:04:36.54,0:04:37.17,Sign,,0,0,0,,{\pos(307,425)\fnHeiseiMinchoW9-AnoHana\fs67.2\bord3\1c&HF3F7F9&\3c&HF3F7F9&\3a&H40&\blur2}Boozing
 Dialogue: 1,0:04:36.54,0:04:37.17,Sign,,0,0,0,,{\pos(307,425)\fnHeiseiMinchoW9-AnoHana\fs67.2\bord3\1c&HF3F7F9&\3c&HF3F7F9&\blur0.8}Boozing
@@ -93,7 +86,7 @@ Dialogue: 3,0:04:40.92,0:04:42.88,Sign,,0,0,0,,{\pos(526.428,485.571)\fnHeiseiMi
 Dialogue: 4,0:04:40.92,0:04:42.88,Sign,,0,0,0,,{\pos(526.428,485.571)\fnHeiseiMinchoW9-AnoHana\fs57.1\c&H0E1215&\3c&HECF3FA&\blur1.5}Parting From Those You Love
 Dialogue: 3,0:11:29.66,0:11:31.62,Sign,,0,0,0,,{\q2\an4\fs54\fscx140\fscy280\fnFOT-MatisseMinori Pro-En B\c&HEBF0F3&\org(672,395)\fax0.05\blur1.6\frz357.5\pos(378.666,351.002)\frx360\fry17.3}T{*\fscy277.143\fscx139.286\c&HE9EEF1&\blur1.579}o{*\fscy274.286\fscx138.571\c&HE7ECEF&\blur1.557}k{*\fscy271.429\fscx137.857\c&HE5EAED&\blur1.536}y{*\fscy268.571\fscx137.143\c&HE3E8EB&\blur1.514}o {*\fscy262.857\fscx135.714\c&HDFE4E6&\blur1.471}t{*\fscy260\fscx135\c&HDDE2E4&\blur1.45}o {*\fscy254.286\fscx133.571\c&HD9DEE0&\blur1.407}K{*\fscy251.429\fscx132.857\c&HD7DCDE&\blur1.386}y{*\fscy248.571\fscx132.143\c&HD5DADC&\blur1.364}o{*\fscy245.714\fscx131.429\c&HD3D8DA&\blur1.343}t{*\fscy242.857\fscx130.714\c&HD1D6D8&\blur1.321}o {*\fscy237.143\fscx129.286\c&HCED1D3&\blur1.279}q{*\fscy234.286\fscx128.571\c&HCCCFD1&\blur1.257}u{*\fscy231.429\fscx127.857\c&HCACDCF&\blur1.236}e{*\fscy228.571\fscx127.143\c&HC8CBCD&\blur1.214}u{*\fscy225.714\fscx126.429\c&HC6C9CB&\blur1.193}e {*\fscy220\fscx125\c&HC2C5C7&\blur1.15}c{*\fscy217.143\fscx124.286\c&HC0C3C5&\blur1.129}o{*\fscy214.286\fscx123.571\c&HBEC1C3&\blur1.107}u{*\fscy211.429\fscx122.857\c&HBCBFC0&\blur1.086}n{*\fscy208.571\fscx122.143\c&HBABDBE&\blur1.064}t{*\fscy205.714\fscx121.429\c&HB8BBBC&\blur1.043}e{*\fscy202.857\fscx120.714\c&HB6B9BA&\blur1.021}r{\fscx120\fscy200\c&HB4B7B8&\blur1}
 Dialogue: 3,0:11:29.66,0:11:31.62,Sign,,0,0,0,,{\q2\an4\fs54\bord0\fscx140\fscy280\fnFOT-MatisseMinori Pro-En B\c&HEBF0F3&\org(672,395)\fax0.05\blur4\1a&H80&\frz357.5\pos(378.666,351.002)\frx360\fry17.3}T{*\fscy277.143\fscx139.286\c&HE9EEF1&}o{*\fscy274.286\fscx138.571\c&HE7ECEF&}k{*\fscy271.429\fscx137.857\c&HE5EAED&}y{*\fscy268.571\fscx137.143\c&HE3E8EB&}o {*\fscy262.857\fscx135.714\c&HDFE4E6&}t{*\fscy260\fscx135\c&HDDE2E4&}o {*\fscy254.286\fscx133.571\c&HD9DEE0&}K{*\fscy251.429\fscx132.857\c&HD7DCDE&}y{*\fscy248.571\fscx132.143\c&HD5DADC&}o{*\fscy245.714\fscx131.429\c&HD3D8DA&}t{*\fscy242.857\fscx130.714\c&HD1D6D8&}o {*\fscy237.143\fscx129.286\c&HCED1D3&}q{*\fscy234.286\fscx128.571\c&HCCCFD1&}u{*\fscy231.429\fscx127.857\c&HCACDCF&}e{*\fscy228.571\fscx127.143\c&HC8CBCD&}u{*\fscy225.714\fscx126.429\c&HC6C9CB&}e {*\fscy220\fscx125\c&HC2C5C7&}c{*\fscy217.143\fscx124.286\c&HC0C3C5&}o{*\fscy214.286\fscx123.571\c&HBEC1C3&}u{*\fscy211.429\fscx122.857\c&HBCBFC0&}n{*\fscy208.571\fscx122.143\c&HBABDBE&}t{*\fscy205.714\fscx121.429\c&HB8BBBC&}e{*\fscy202.857\fscx120.714\c&HB6B9BA&}r{\fscx120\fscy200\c&HB4B7B8&}
-Dialogue: 2,0:11:29.66,0:11:31.62,Sign,,0,0,0,,{\fs32\blur0.6\bord0\shad0\c&H111314&\fnGrain\clip(m 230 578 l 1054 500 1054 285 234 71)\pos(770.665,343.004)}XZXUIDCTJMYAVDQIVICXNHZTJDPRKSOXVFGVIHGK\NSHCYDYTCTBCLKKXEHVQLSYVTPACGTQPSBQLAKZIS\NLYVDCOPDTEVECGLYFWBSDUGMEFPHDJKQBSMKYMF\NPKEMQNVHYZSXIXPWKZYLIEGAHPMYDRUNGKHSESVJ\NGDPXBXAKKGRGTHRFYUDMWDTUOFATDXKSVMTBMVPTPIGKTCCRTULNROWTXYHP\NUBTKWQEEHOHVPBCVGPOXWIZTVPZGMTQGFCYFCUFW\NGFRTNOYDJXRIMITSQDCJHSZGHMHDSCWYTMXGWLJB\NVSSYWFBRPSIRECXYXJTYDYYDSODSHGWSQUQOXVIP\NCFMOXHVOEVCEGPDPUFODBSYCDHBMUUWMMDXWHELI\NMQLKDBPMTZWIWEUMTCYTPIGKTCCRTULNROWTXYHPUBTKWQEEHOHVPBCVGPOX\NWIZTVPZGMTQGFCYFCUFWGFRTNOYDJXRIMITSQDCJHSZGHMHDSCWYTMXGWLJB\NVSSYWFBRPSIRECXYXJTYDYYDSODSHGWSQUQOXVIPCFMOXHVOEVCEGPDPUFODBSYCDHBMUUWMMDXWHELIHVWLZLLUTRCXDKARVBVH\NZWPDMFBPVQWFXAEFKFWXKYFRNEGMYOTPIMPBOIQZPAEGLYBUPOJPFMMLKDKW\NEPEXEQQBBQOTANCHINGUAHXTUCGUZNSHWNEMJJPG\NMJWIJUNWWQRJXANNUBHYGWNTGMZZERAWUYXDMVJS\NGHMGDEHZEBMTDKRPAKWADATQIPMBNXLHSZJBTQRJ
+Dialogue: 2,0:11:29.66,0:11:31.62,Sign,,0,0,0,,{\pos(770.665,343.004)\fnGrain\fs32\c&H111314&\blur0.6\clip(m 230 578 l 1054 500 1054 285 234 71)}XZXUIDCTJMYAVDQIVICXNHZTJDPRKSOXVFGVIHGK\NSHCYDYTCTBCLKKXEHVQLSYVTPACGTQPSBQLAKZIS\NLYVDCOPDTEVECGLYFWBSDUGMEFPHDJKQBSMKYMF\NPKEMQNVHYZSXIXPWKZYLIEGAHPMYDRUNGKHSESVJ\NGDPXBXAKKGRGTHRFYUDMWDTUOFATDXKSVMTBMVPTPIGKTCCRTULNROWTXYHP\NUBTKWQEEHOHVPBCVGPOXWIZTVPZGMTQGFCYFCUFW\NGFRTNOYDJXRIMITSQDCJHSZGHMHDSCWYTMXGWLJB\NVSSYWFBRPSIRECXYXJTYDYYDSODSHGWSQUQOXVIP\NCFMOXHVOEVCEGPDPUFODBSYCDHBMUUWMMDXWHELI\NMQLKDBPMTZWIWEUMTCYTPIGKTCCRTULNROWTXYHPUBTKWQEEHOHVPBCVGPOX\NWIZTVPZGMTQGFCYFCUFWGFRTNOYDJXRIMITSQDCJHSZGHMHDSCWYTMXGWLJB\NVSSYWFBRPSIRECXYXJTYDYYDSODSHGWSQUQOXVIPCFMOXHVOEVCEGPDPUFODBSYCDHBMUUWMMDXWHELIHVWLZLLUTRCXDKARVBVH\NZWPDMFBPVQWFXAEFKFWXKYFRNEGMYOTPIMPBOIQZPAEGLYBUPOJPFMMLKDKW\NEPEXEQQBBQOTANCHINGUAHXTUCGUZNSHWNEMJJPG\NMJWIJUNWWQRJXANNUBHYGWNTGMZZERAWUYXDMVJS\NGHMGDEHZEBMTDKRPAKWADATQIPMBNXLHSZJBTQRJ
 Dialogue: 1,0:11:29.66,0:11:31.62,Sign,,0,0,0,,{\an7\blur4\bord0\shad0\fscx100\fscy100\pos(378.666,351.002)\p1\c&H121616&}m -125 -246 l 662 -56 680 132 -121 179
 Dialogue: 2,0:11:39.80,0:11:42.89,Sign,,0,0,0,,{\fnMaximum Impact\fs80\c&H000000&\blur0.7\t(2200,2500,\blur10)}she sells seashells
 Dialogue: 2,0:11:42.09,0:11:42.89,Sign,,0,0,0,,{\fad(100,0)\fscx200\fscy200\fnMaximum Impact\fs80\c&H0000FF&\1a&H80&\blur3\t(0,200,\fscx100\fscy100\blur0.7)}chevrolet sushi hell
@@ -103,139 +96,139 @@ Dialogue: 1,0:11:41.93,0:11:42.01,Sign,,0,0,0,,{\fscx120\fs800\c&H0000FF&\1a&HDC
 Dialogue: 1,0:11:42.09,0:11:42.18,Sign,,0,0,0,,{\fscx120\fs800\c&H0000FF&\1a&HDC&\blur4}X
 Dialogue: 1,0:11:42.26,0:11:42.34,Sign,,0,0,0,,{\fscx120\fs800\c&H0000FF&\1a&HDC&\blur4}X
 Dialogue: 1,0:11:42.43,0:11:42.89,Sign,,0,0,0,,{\fscx120\fs800\c&H0000FF&\1a&HDC&\blur4}X
-Dialogue: 0,0:11:39.80,0:11:42.89,Sign,,0,0,0,,{\an7\pos(0,0)\p1}m 0 0 l 1280 0 1280 720 0 720
+Dialogue: 0,0:11:39.80,0:11:42.89,Sign,,0,0,0,,{\p1}m 0 0 l 1280 0 1280 720 0 720
 Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\fnLucida Handwriting\fs56\i1\blur6\t(100,400,\c&H0F1BBD&\blur5)}{\fscx500}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
 Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\fnLucida Handwriting\fs56\i1\blur20\t(100,400,\c&H0F1BBD&\blur4)}{\fscx500}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
 Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\fnLucida Handwriting\fs56\i1\blur20\t(100,400,\c&H0F1BBD&\blur4)}{\fscx500}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
 Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\fnLucida Handwriting\fs56\i1\3c&H060A10&\t(100,400,\c&H0F1BBD&\1a&HC8&\blur3\bord2)}{\fscx500}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
-Dialogue: 1,0:12:18.34,0:12:20.80,Sign,,0,0,0,,{\fs16\org(688,560)\fax0.09\c&H333945&\fnGill Sans MT\frx1.03\fry5.84\blur1.5\fscy130\1a&H50&\pos(737.332,578.667)\frz3.469}Custard Chocolate Special
-Dialogue: 1,0:12:18.34,0:12:20.80,Sign,,0,0,0,,{\fs16\org(688,560)\fax0.09\c&H333945&\fnGill Sans MT\frx1.03\fry5.84\blur0.6\fscy130\1a&H28&\b1\pos(737.332,578.667)\frz3.469}Custard Chocolate Special
+Dialogue: 1,0:12:18.34,0:12:20.80,Sign,,0,0,0,,{\pos(737.332,578.667)\org(688,560)\fscy130\frz3.469\fry5.84\frx1.03\fax0.09\fnGill Sans MT\fs16\c&H333945&\1a&H50&\blur1.5}Custard Chocolate Special
+Dialogue: 1,0:12:18.34,0:12:20.80,Sign,,0,0,0,,{\pos(737.332,578.667)\org(688,560)\fscy130\frz3.469\fry5.84\frx1.03\fax0.09\fnGill Sans MT\fs16\c&H333945&\1a&H28&\blur0.6}Custard Chocolate Special
 Dialogue: 0,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\blur0.4\bord1.6\shad0\fscx100\fscy100\pos(951.999,195.43)\p1\c&H5B4AE7&\3c&H1700C6&}m 64 103 b 62 97 64 85 65 79 82 73 105 59 114 52 121 44 134 36 142 23 144 19 150 9 149 3 148 -5 147 -18 142 -29 132 -44 121 -54 106 -63 88 -73 70 -78 53 -81 32 -85 7 -87 -16 -86 -39 -83 -53 -81 -75 -74 -91 -70 -110 -61 -126 -51 -134 -43 -150 -32 -158 -17 -162 -11 -166 2 -166 10 -164 40 -151 66 -96 80 -65 88 -1 96 37 88
 Dialogue: 1,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(951.999,195.43)\p1\c&H5B4AE7&}m 64 103 b 62 97 64 85 65 79 82 73 105 59 114 52 121 44 134 36 142 23 144 19 150 9 149 3 148 -5 147 -18 142 -29 132 -44 121 -54 106 -63 88 -73 70 -78 53 -81 32 -85 7 -87 -16 -86 -39 -83 -53 -81 -75 -74 -91 -70 -110 -61 -126 -51 -134 -43 -150 -32 -158 -17 -162 -11 -166 2 -166 10 -164 40 -151 66 -96 80 -65 88 -1 96 37 88
 Dialogue: 2,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\blur1\bord2\shad0\fscx100\fscy100\pos(946.999,197.43)\3c&H1700C6&\p1}m 57 81 b 58 77 60 68 62 65 70 64 92 55 99 49 111 41 123 26 130 17 133 9 137 -6 136 -15 134 -25 125 -34 121 -41 107 -51 91 -59 81 -65 66 -71 46 -73 34 -76 16 -79 -4 -79 -22 -76 -53 -71 -83 -61 -110 -42 -135 -23 -140 -4 -142 9 -142 24 -138 33 -132 41 -126 46 -117 53 -108 56 -60 72 -8 77 42 74
 Dialogue: 3,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\blur0.6\bord0\shad0\fscx100\fscy100\pos(946.999,197.43)\c&HEEE0FA&\p1}m 57 81 b 58 77 60 68 62 65 70 64 92 55 99 49 111 41 123 26 130 17 133 9 137 -6 136 -15 134 -25 125 -34 121 -41 107 -51 91 -59 81 -65 66 -71 46 -73 34 -76 16 -79 -4 -79 -22 -76 -53 -71 -83 -61 -110 -42 -135 -23 -140 -4 -142 9 -142 24 -138 33 -132 41 -126 46 -117 53 -108 56 -60 72 -8 77 42 74
-Dialogue: 4,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\pos(943.96,199.239)\frz2.821\fnFrom Where You Are\fs40\fsp4\bord2\c&H5B4AEB&\3c&HFFFFFF&\alpha&H80&\blur4\b0}kurīmī {\1a&HFF&\3a&HFF&\t(770,770,\1a&H00&\3a&H80&)}\N-> \N{\1a&HFF&\3a&HFF&\t(1480,1480,\1a&H00&\3a&H80&)}creamy
-Dialogue: 6,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\pos(943.96,199.239)\frz2.821\fnFrom Where You Are\fs40\fsp4\bord1\c&H1700C6&\3c&H1700C6&\4a&HFF&\blur0.6\b0}kurīmī {\1a&HFF&\3a&HFF&\t(770,770,\1a&H00&\3a&H00&)}\N-> \N{\1a&HFF&\3a&HFF&\t(1480,1480,\1a&H00&\3a&H00&)}creamy
-Dialogue: 7,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\pos(943.96,199.239)\frz2.821\fnFrom Where You Are\fs40\fsp4\c&H5B4AEB&\4a&HFF&\blur0.6\b0}kurīmī {\1a&HFF&\3a&HFF&\t(770,770,\1a&H00&\3a&H00&)}\N-> \N{\1a&HFF&\3a&HFF&\t(1480,1480,\1a&H00&\3a&H00&)}creamy
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(165.214,671.265)\frz3.184\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}A
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(190.402,669.864)\frz3.184\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}d
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(226.286,668.433)\frz1.994\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}C
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(250.209,667.6)\frz1.994\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}a
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(279.534,667.23)\frz0.631\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}m
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(309.946,666.895)\frz0.631\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}p
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(333.374,666.637)\frz0.631\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}a
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(350.858,666.444)\frz0.631\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}i
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(368.973,666.586)\frz-1.025\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}g
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(393.251,666.693)\frz-1.025\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}n
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(429.933,667.349)\frz-1.025\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}P
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(452.218,667.748)\frz-1.025\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}r
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(473.277,668.124)\frz-1.025\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}o
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(497.35,668.873)\frz-2.514\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}p
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(521.413,669.918)\frz-2.514\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}o
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(542.521,671.067)\frz-3.88\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}s
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(562.967,672.302)\frz-3.88\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}a
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(580.411,673.485)\frz-3.88\fnKozuka Gothic Pro B\c&H1F2428&\blur1\fs54\b1}l
-Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(371.333,713.333)\fnLato\fs18\c&H242A2B&\blur0.9\frz359.4}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 4,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\pos(943.96,199.239)\frz2.821\fnFrom Where You Are\fs40\fsp4\b0\bord2\c&H5B4AEB&\3c&HFFFFFF&\alpha&H80&\blur4}kurīmī {\1a&HFF&\3a&HFF&\t(770,770,\1a&H00&\3a&H80&)}\N-> \N{\1a&HFF&\3a&HFF&\t(1480,1480,\1a&H00&\3a&H80&)}creamy
+Dialogue: 6,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\pos(943.96,199.239)\frz2.821\fnFrom Where You Are\fs40\fsp4\b0\bord1\c&H1700C6&\3c&H1700C6&\4a&HFF&\blur0.6}kurīmī {\1a&HFF&\3a&HFF&\t(770,770,\1a&H00&\3a&H00&)}\N-> \N{\1a&HFF&\3a&HFF&\t(1480,1480,\1a&H00&\3a&H00&)}creamy
+Dialogue: 7,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\pos(943.96,199.239)\frz2.821\fnFrom Where You Are\fs40\fsp4\b0\c&H5B4AEB&\4a&HFF&\blur0.6}kurīmī {\1a&HFF&\3a&HFF&\t(770,770,\1a&H00&\3a&H00&)}\N-> \N{\1a&HFF&\3a&HFF&\t(1480,1480,\1a&H00&\3a&H00&)}creamy
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(165.214,671.265)\frz3.184\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}A
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(190.402,669.864)\frz3.184\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}d
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(226.286,668.433)\frz1.994\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}C
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(250.209,667.6)\frz1.994\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}a
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(279.534,667.23)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}m
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(309.946,666.895)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}p
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(333.374,666.637)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}a
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(350.858,666.444)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}i
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(368.973,666.586)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}g
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(393.251,666.693)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}n
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(429.933,667.349)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}P
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(452.218,667.748)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}r
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(473.277,668.124)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}o
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(497.35,668.873)\frz-2.514\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}p
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(521.413,669.918)\frz-2.514\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}o
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(542.521,671.067)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}s
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(562.967,672.302)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}a
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(580.411,673.485)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H1F2428&\blur1}l
+Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(371.333,713.333)\frz359.4\fnLato\fs18\c&H242A2B&\blur0.9}Dry-T-Zone Morphin' Skin Arrangers
 Dialogue: 0,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HDDE3E7&\fnIwata New Gothic Pro U-Kami\fs18}m 147 605 l 583 605 583 720 147 720
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(165.214,584.932)\frz3.184\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}A
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(190.402,583.531)\frz3.184\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}d
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(226.286,582.1)\frz1.994\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}C
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(250.209,581.267)\frz1.994\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(279.534,580.897)\frz0.631\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}m
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(309.946,580.562)\frz0.631\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}p
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(333.374,580.304)\frz0.631\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(350.858,580.111)\frz0.631\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}i
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(368.973,580.253)\frz-1.025\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}g
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(393.251,580.36)\frz-1.025\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}n
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(429.933,581.016)\frz-1.025\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}P
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(452.218,581.415)\frz-1.025\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}r
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(473.277,581.791)\frz-1.025\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}o
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(497.35,582.54)\frz-2.514\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}p
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(521.413,583.585)\frz-2.514\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}o
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(542.521,584.734)\frz-3.88\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}s
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(562.967,585.969)\frz-3.88\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(580.411,587.152)\frz-3.88\fnKozuka Gothic Pro B\c&H202625&\blur1\fs54\b1}l
-Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(371.333,627)\fnLato\fs18\c&H242A2B&\blur0.9\frz359.4}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(165.214,584.932)\frz3.184\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}A
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(190.402,583.531)\frz3.184\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}d
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(226.286,582.1)\frz1.994\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}C
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(250.209,581.267)\frz1.994\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}a
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(279.534,580.897)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}m
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(309.946,580.562)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}p
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(333.374,580.304)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}a
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(350.858,580.111)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}i
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(368.973,580.253)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}g
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(393.251,580.36)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}n
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(429.933,581.016)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}P
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(452.218,581.415)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}r
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(473.277,581.791)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}o
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(497.35,582.54)\frz-2.514\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}p
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(521.413,583.585)\frz-2.514\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}o
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(542.521,584.734)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}s
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(562.967,585.969)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}a
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(580.411,587.152)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H202625&\blur1}l
+Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(371.333,627)\frz359.4\fnLato\fs18\c&H242A2B&\blur0.9}Dry-T-Zone Morphin' Skin Arrangers
 Dialogue: 0,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-86.333)\fnIwata New Gothic Pro U-Kami\fs18}m 147 605 l 583 605 583 750 147 750
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(165.214,481.265)\frz3.184\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}A
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(190.402,479.864)\frz3.184\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}d
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(226.286,478.433)\frz1.994\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}C
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(250.209,477.6)\frz1.994\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(279.534,477.23)\frz0.631\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}m
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(309.946,476.895)\frz0.631\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}p
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(333.374,476.637)\frz0.631\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(350.858,476.444)\frz0.631\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}i
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(368.973,476.586)\frz-1.025\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}g
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(393.251,476.693)\frz-1.025\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}n
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(429.933,477.349)\frz-1.025\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}P
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(452.218,477.748)\frz-1.025\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}r
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(473.277,478.124)\frz-1.025\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}o
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(497.35,478.873)\frz-2.514\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}p
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(521.413,479.918)\frz-2.514\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}o
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(542.521,481.067)\frz-3.88\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}s
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(562.967,482.302)\frz-3.88\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(580.411,483.485)\frz-3.88\fnKozuka Gothic Pro B\c&H1E2425&\blur1\fs54\b1}l
-Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(371.333,523.333)\fnLato\fs18\c&H242A2B&\blur0.9\frz359.4}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(165.214,481.265)\frz3.184\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}A
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(190.402,479.864)\frz3.184\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}d
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(226.286,478.433)\frz1.994\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}C
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(250.209,477.6)\frz1.994\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}a
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(279.534,477.23)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}m
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(309.946,476.895)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}p
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(333.374,476.637)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}a
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(350.858,476.444)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}i
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(368.973,476.586)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}g
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(393.251,476.693)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}n
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(429.933,477.349)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}P
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(452.218,477.748)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}r
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(473.277,478.124)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}o
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(497.35,478.873)\frz-2.514\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}p
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(521.413,479.918)\frz-2.514\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}o
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(542.521,481.067)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}s
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(562.967,482.302)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}a
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(580.411,483.485)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H1E2425&\blur1}l
+Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(371.333,523.333)\frz359.4\fnLato\fs18\c&H242A2B&\blur0.9}Dry-T-Zone Morphin' Skin Arrangers
 Dialogue: 0,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-190)\fnIwata New Gothic Pro U-Kami\fs18}m 147 605 l 583 605 583 750 147 750
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(165.214,371.931)\frz3.184\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}A
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(190.402,370.53)\frz3.184\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}d
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(226.286,369.099)\frz1.994\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}C
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(250.209,368.266)\frz1.994\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(279.534,367.896)\frz0.631\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}m
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(309.946,367.561)\frz0.631\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}p
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(333.374,367.303)\frz0.631\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(350.858,367.11)\frz0.631\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}i
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(368.973,367.252)\frz-1.025\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}g
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(393.251,367.359)\frz-1.025\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}n
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(429.933,368.015)\frz-1.025\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}P
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(452.218,368.414)\frz-1.025\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}r
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(473.277,368.79)\frz-1.025\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}o
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(497.35,369.539)\frz-2.514\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}p
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(521.413,370.584)\frz-2.514\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}o
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(542.521,371.733)\frz-3.88\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}s
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(562.967,372.968)\frz-3.88\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(580.411,374.151)\frz-3.88\fnKozuka Gothic Pro B\c&H202626&\blur1\fs54\b1}l
-Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(371.333,413.999)\fnLato\fs18\c&H242A2B&\blur0.9\frz359.4}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(165.214,371.931)\frz3.184\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}A
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(190.402,370.53)\frz3.184\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}d
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(226.286,369.099)\frz1.994\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}C
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(250.209,368.266)\frz1.994\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}a
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(279.534,367.896)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}m
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(309.946,367.561)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}p
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(333.374,367.303)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}a
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(350.858,367.11)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}i
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(368.973,367.252)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}g
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(393.251,367.359)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}n
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(429.933,368.015)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}P
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(452.218,368.414)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}r
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(473.277,368.79)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}o
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(497.35,369.539)\frz-2.514\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}p
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(521.413,370.584)\frz-2.514\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}o
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(542.521,371.733)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}s
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(562.967,372.968)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}a
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(580.411,374.151)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H202626&\blur1}l
+Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(371.333,413.999)\frz359.4\fnLato\fs18\c&H242A2B&\blur0.9}Dry-T-Zone Morphin' Skin Arrangers
 Dialogue: 0,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-299.334)\fnIwata New Gothic Pro U-Kami\fs18}m 147 605 l 583 605 583 750 147 750
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(165.214,267.931)\frz3.184\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}A
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(190.402,266.53)\frz3.184\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}d
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(226.286,265.099)\frz1.994\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}C
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(250.209,264.266)\frz1.994\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(279.534,263.896)\frz0.631\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}m
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(309.946,263.561)\frz0.631\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}p
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(333.374,263.303)\frz0.631\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(350.858,263.11)\frz0.631\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}i
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(368.973,263.252)\frz-1.025\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}g
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(393.251,263.359)\frz-1.025\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}n
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(429.933,264.015)\frz-1.025\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}P
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(452.218,264.414)\frz-1.025\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}r
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(473.277,264.79)\frz-1.025\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}o
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(497.35,265.539)\frz-2.514\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}p
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(521.413,266.584)\frz-2.514\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}o
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(542.521,267.733)\frz-3.88\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}s
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(562.967,268.968)\frz-3.88\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(580.411,270.151)\frz-3.88\fnKozuka Gothic Pro B\c&H212728&\blur1\fs54\b1}l
-Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\fnLato\fs18\c&H242A2B&\blur0.9\pos(371.333,309.332)\frz359.4}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(165.214,267.931)\frz3.184\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}A
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(190.402,266.53)\frz3.184\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}d
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(226.286,265.099)\frz1.994\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}C
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(250.209,264.266)\frz1.994\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}a
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(279.534,263.896)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}m
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(309.946,263.561)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}p
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(333.374,263.303)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}a
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(350.858,263.11)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}i
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(368.973,263.252)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}g
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(393.251,263.359)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}n
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(429.933,264.015)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}P
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(452.218,264.414)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}r
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(473.277,264.79)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}o
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(497.35,265.539)\frz-2.514\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}p
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(521.413,266.584)\frz-2.514\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}o
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(542.521,267.733)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}s
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(562.967,268.968)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}a
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(580.411,270.151)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H212728&\blur1}l
+Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(371.333,309.332)\frz359.4\fnLato\fs18\c&H242A2B&\blur0.9}Dry-T-Zone Morphin' Skin Arrangers
 Dialogue: 0,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-392.001)\fnIwata New Gothic Pro U-Kami\fs18}m 147 605 l 583 605 583 780 147 780
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(165.214,161.264)\frz3.184\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}A
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(190.402,159.863)\frz3.184\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}d
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(226.286,158.432)\frz1.994\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}C
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(250.209,157.599)\frz1.994\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(279.534,157.229)\frz0.631\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}m
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(309.946,156.894)\frz0.631\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}p
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(333.374,156.636)\frz0.631\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(350.858,156.443)\frz0.631\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}i
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(368.973,156.585)\frz-1.025\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}g
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(393.251,156.692)\frz-1.025\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}n
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(429.933,157.348)\frz-1.025\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}P
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(452.218,157.747)\frz-1.025\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}r
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(473.277,158.123)\frz-1.025\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}o
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(497.35,158.872)\frz-2.514\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}p
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(521.413,159.917)\frz-2.514\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}o
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(542.521,161.066)\frz-3.88\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}s
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(562.967,162.301)\frz-3.88\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}a
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(580.411,163.484)\frz-3.88\fnKozuka Gothic Pro B\c&H242A2B&\blur1\fs54\b1}l
-Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(371.333,199.332)\fnLato\fs18\c&H242A2B&\blur0.9\frz359.4}Dry-T-Zone Morphin' Skin Arrangers
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(165.214,161.264)\frz3.184\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}A
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(190.402,159.863)\frz3.184\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}d
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(226.286,158.432)\frz1.994\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}C
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(250.209,157.599)\frz1.994\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}a
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(279.534,157.229)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}m
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(309.946,156.894)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}p
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(333.374,156.636)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}a
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(350.858,156.443)\frz0.631\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}i
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(368.973,156.585)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}g
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(393.251,156.692)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}n
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(429.933,157.348)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}P
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(452.218,157.747)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}r
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(473.277,158.123)\frz-1.025\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}o
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(497.35,158.872)\frz-2.514\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}p
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(521.413,159.917)\frz-2.514\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}o
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(542.521,161.066)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}s
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(562.967,162.301)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}a
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(580.411,163.484)\frz-3.88\fnKozuka Gothic Pro B\fs54\c&H242A2B&\blur1}l
+Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(371.333,199.332)\frz359.4\fnLato\fs18\c&H242A2B&\blur0.9}Dry-T-Zone Morphin' Skin Arrangers
 Dialogue: 0,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\an7\bord0\shad0\fscx100\fscy100\c&HDDE3E7&\p1\pos(0,-510.001)}m 147 605 l 583 605 583 780 147 780
 Dialogue: 1,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(646.857,589.715)\fnGrain\c&H0A0A0A&\1a&H80&\blur1\fs}AHDHODHODBNHD\NSGONSDOGSDNG
 Comment: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(640,580)\fnMachine Gunk\frx12\fry0\c&H0311C2&\blur1}Skin Arrangers \NDry-T-Zone Morphin'
