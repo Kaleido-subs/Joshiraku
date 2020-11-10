@@ -25,12 +25,6 @@ Video AR Value: 1.777778
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,133,133,37,1
 Style: Alt,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,120,120,40,1
-Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: Prev Title Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,150,0,0,1
-Style: ED1 - ENG,Bubblegum Sans,41,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3,0,2,20,20,20,1
-Style: ED1 - ROM,Bubblegum Sans,32,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.2,0,2,20,20,60,1
-Style: OP1 - ENG,Merienda One,45,&H00FFFFFF,&H000000FF,&H000059BC,&HA0000000,-1,0,0,0,100,100,2.7,0,1,2.7,0,1,47,120,30,1
-Style: OP1 - ROM,Merienda One,45,&H00FFFFFF,&H000000FF,&H000059BC,&HA0000000,-1,0,0,0,100,100,2.7,0,1,2.7,0,7,47,120,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -350,7 +344,7 @@ Dialogue: 10,0:09:41.51,0:09:42.47,Default,,0,0,0,,She's annoying.
 Dialogue: 10,0:09:42.47,0:09:50.65,Default,,0,0,0,,{\q2}As annoying as those foreign tourists who barge into \Nthe fish auctions, mess with the wares, and take pictures.
 Dialogue: 10,0:09:50.65,0:09:53.11,Default,,0,0,0,,Yeah, that really gets my goat. {## too obscure an expression perhaps?}
 Dialogue: 10,0:09:53.11,0:09:55.28,Default,,0,0,0,,I wanna go at them with a t*na cleaver.
-Dialogue: 10,0:09:55.28,0:09:57.78,Default,,0,0,0,,{\q2}If there were any justice, \Nthey'd get the Tsesarevich-Otsu treatment. {If there were any justice in the world, \Nthey'd be treated like the Tsesarevich was at Otsu.}
+Dialogue: 10,0:09:55.28,0:09:57.78,Default,,0,0,0,,{\q2}If there were any justice, \Nthey'd get the Tsesarevich-Otsu treatment. {\Nthey'd be treated like the Tsesarevich was at Otsu.}
 Dialogue: 10,0:09:57.78,0:09:59.45,Default,,0,0,0,,That'd cause an international incident!
 Dialogue: 10,0:09:59.45,0:10:03.08,Default,,0,0,0,,Woohoo! Come to mama, tuna!
 Dialogue: 10,0:10:03.08,0:10:06.00,Default,,0,0,0,,Has Marii even slept since yesterday?
@@ -532,7 +526,7 @@ Dialogue: 10,0:17:41.45,0:17:43.58,Default,,0,0,0,,Something that uses electrici
 Dialogue: 10,0:17:43.58,0:17:47.04,Default,,0,0,0,,No, nothing that uses electricity, but...
 Dialogue: 10,0:17:47.04,0:17:48.58,Default,,0,0,0,,Right, then there was nothing unusual.
 Dialogue: 10,0:17:48.58,0:17:50.71,Default,,0,0,0,,Uh, um, I mean—
-Dialogue: 10,0:17:51.17,0:17:55.22,Default,,0,0,0,,{\q2\i1}Can't these guys see anything \Nbut what they're focused on?
+Dialogue: 10,0:17:51.17,0:17:55.22,Default,,0,0,0,,{\i1\q2}Can't these guys see anything \Nbut what they're focused on?
 Dialogue: 10,0:17:55.80,0:17:56.72,Default,,0,0,0,,That reminds me.
 Dialogue: 10,0:17:56.72,0:18:00.10,Default,,0,0,0,,The ceiling's been shaking recently.
 Dialogue: 10,0:18:00.10,0:18:01.26,Default,,0,0,0,,Shaking?
