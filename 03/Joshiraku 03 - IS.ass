@@ -23,9 +23,9 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Ep3 - INS ROM,Neon 80s,50,&H001F1F1F,&H000000FF,&H00EFCFFF,&HA0000000,-1,0,0,0,100,100,0,0,1,1.66667,0,7,33,33,23,1
-Style: Ep3 - INS ENG,Neon 80s,50,&H00FFFFFF,&H000000FF,&H00E988FF,&HA0000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,33,33,33,1
-Style: Ep3 - INS ALT,Neon 80s,50,&H001F1F1F,&H000000FF,&H00EFCFFF,&HA0000000,-1,0,0,0,100,100,0,0,1,1.66667,0,9,33,33,23,1
+Style: Ep3 - INS ROM,Neon 80s,50,&H001F1F1F,&H000000FF,&H00EFCFFF,&HA0000000,0,0,0,0,100,100,0,0,1,1.66667,0,7,33,33,23,1
+Style: Ep3 - INS ENG,Neon 80s,50,&H00FFFFFF,&H000000FF,&H00E988FF,&HA0000000,0,0,0,0,100,100,0,0,1,4.5,0,3,33,33,33,1
+Style: Ep3 - INS ALT,Neon 80s,50,&H001F1F1F,&H000000FF,&H00EFCFFF,&HA0000000,0,0,0,0,100,100,0,0,1,1.66667,0,9,33,33,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
