@@ -39,6 +39,30 @@ Dialogue: 0,0:15:20.94,0:15:22.90,Sign,,0,0,0,midcard,{\pos(975.93,581.33)\frz32
 Dialogue: 0,0:15:20.94,0:15:22.90,Sign,,0,0,0,midcard,{\pos(975.93,581.33)\frz328\fnBrushStroke 35\fs66.67\bord1.6\3c&HF9F9F9&\1a&HC8&\blur2}Rakugo Girls
 Dialogue: 1,0:15:20.94,0:15:22.90,Sign,,0,0,0,midcard,{\pos(975.93,581.33)\frz328\fnBrushStroke 35\fs66.67\c&HAD701E&\3c&HE80779&\blur0.8\clip(m 818 492 l 1181.33 723.67 1232 646 828 476)}Rakugo Girls
 Dialogue: 1,0:15:20.94,0:15:22.90,Sign,,0,0,0,midcard,{\pos(975.93,581.33)\frz328\fnBrushStroke 35\fs66.67\c&H12BCF3&\3c&HE80779&\blur0.8\iclip(m 818 492 l 1181.33 723.67 1232 646 828 476)}Rakugo Girls
+Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,-6.67)}Live long, live long and
+Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,65.33)}prosper. May great wealth
+Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,137.33)}await you wherever you
+Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,209.33)}go, be it on unknown soil
+Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,281.33)}or under foreign skies.
+Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,353.33)}May you always have
+Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,425.33)}your daily bread. Like the
+Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,497.33)}long-lived king of Shuringan
+Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,569.33)}and his dear wife, Gurindai,
+Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,641.33)}and their children, Ponpokoki {and Ponpokona who lived a long and blessed life}{## Ideally cut before "ar wife", cutting off the "de"}
+Dialogue: 0,0:04:08.31,0:04:10.15,Sign,,0,0,0,,{\fs32\c&H22282B&\pos(645,498)}New Years' Money
+Dialogue: 0,0:04:12.36,0:04:13.86,Sign,,0,0,0,,{\fs16\c&H22282B&\pos(640,376)}New Years' Money
+Dialogue: 0,0:04:13.86,0:04:17.57,Sign,,0,0,0,,{\fs3\c&H22282B&\frz180\pos(649,702)}New Year's Money
+Dialogue: 0,0:04:35.42,0:04:36.51,Sign,,0,0,0,,{\pos(640,429.33)\fs32\c&H22282B&}New Years' Money
+Dialogue: 0,0:04:45.52,0:04:47.98,Sign,,0,0,0,,{\fs14\c&H22282B&\pos(644,446)\frz179}New Years' Money
+Dialogue: 0,0:04:52.81,0:04:53.48,Sign,,0,0,0,,{\pos(113.33,50.67)\c&H030B11&}Tetora
+Dialogue: 0,0:04:52.81,0:04:53.48,Sign,,0,0,0,,{\pos(636,50.67)\c&H030B11&}Marii
+Dialogue: 0,0:04:52.81,0:04:53.48,Sign,,0,0,0,,{\pos(1125.33,50.67)\c&H030B11&}Kigurumi
+Dialogue: 0,0:04:52.81,0:04:53.48,Sign,,0,0,0,,{\pos(869.33,50.67)\c&H030B11&}Gankyou
+Dialogue: 0,0:04:52.81,0:04:53.48,Sign,,0,0,0,,{\pos(380,50.67)\c&H030B11&}Kukuru
+Dialogue: 0,0:04:53.86,0:04:54.82,Sign,,0,0,0,,{\c&H030B11&\pos(649,530)}Loser {actual TL: "Bird", but I feel the lines spoken after in English don't really connect to it well enough to TL it as such}
+Dialogue: 0,0:05:14.00,0:05:16.67,Sign,,0,0,0,,{\pos(834,550)\frz19.24}Skip?
+Dialogue: 0,0:05:25.30,0:05:29.73,Sign,,0,0,0,,{\fs20\c&H22282B&\pos(640,376)}New Years' Money
+Dialogue: 0,0:06:02.05,0:06:03.80,Sign,,0,0,0,,{\fs20\c&H22282B&\pos(782.67,465.33)}New Years' Money
 Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,,{\pos(1036,57)\an7\fs48}Y*Su
 Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,,{\pos(102,266)\an7\fs48}Koji K*m*ta
 Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\pos(563,259)\an7\fs32}1 Share Certificate
