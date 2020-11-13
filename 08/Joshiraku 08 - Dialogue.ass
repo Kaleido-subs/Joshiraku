@@ -22,24 +22,25 @@ Style: Alt,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:01:33.41,0:01:36.33,Default,,0,0,0,,Happy new year!
 Dialogue: 10,0:01:36.87,0:01:37.87,Default,,0,0,0,,Have...
 Dialogue: 10,0:01:38.41,0:01:39.41,Default,,0,0,0,,a good...
 Dialogue: 10,0:01:39.70,0:01:41.04,Default,,0,0,0,,year...
 Dialogue: 10,0:01:41.29,0:01:42.17,Default,,0,0,0,,everybo...
-Dialogue: 10,0:01:42.33,0:01:43.25,Default,,0,0,0,,...dy.
+Dialogue: 10,0:01:42.46,0:01:43.46,Default,,0,0,0,,...dy.
 Dialogue: 10,0:01:49.84,0:01:52.30,Default,,0,0,0,,The new year really refreshes your spirit.
 Dialogue: 10,0:01:52.30,0:01:54.14,Default,,0,0,0,,A new start.
 Dialogue: 10,0:01:54.14,0:01:57.39,Default,,0,0,0,,I love things that have "new" in them.
 Dialogue: 10,0:01:57.39,0:01:59.56,Default,,0,0,0,,Like a new release, or a new product.
-Dialogue: 10,0:01:59.56,0:02:03.39,Default,,0,0,0,,Or new bride, or new recruit! \NThey're bursting with possibility.
-Dialogue: 10,0:02:03.39,0:02:07.90,Default,,0,0,0,,New jackpots and new machines make me \Nwant to go try my luck at pachinko.
-Dialogue: 10,0:02:07.90,0:02:11.69,Default,,0,0,0,,Some things have "new" attached \Nto them pointlessly, though.
-Dialogue: 10,0:02:12.03,0:02:14.32,Default,,0,0,0,,Like New Okubo station or New Kawasaki station.
-Dialogue: 10,0:02:14.32,0:02:17.95,Default,,0,0,0,,What's new about a newspaper, anyway?
-Dialogue: 10,0:02:18.24,0:02:21.93,Default,,0,0,0,,The internet's quicker. \NThey should be called oldspapers.
+Dialogue: 10,0:01:59.56,0:02:03.39,Default,,0,0,0,,{\q2}Or newlywed, or new recruit! \NThey're bursting with possibility.
+Dialogue: 10,0:02:03.39,0:02:07.90,Default,,0,0,0,,{\q2}New jackpots and new machines make me \Nwant to go try my luck at pachinko.
+Dialogue: 10,0:02:07.90,0:02:11.69,Default,,0,0,0,,{\q2}Sometimes it's hard to see \Nwhat's so "new" about them, though. {## OG: "Some things have "new" attached to them pointlessly, though."}
+Dialogue: 10,0:02:12.03,0:02:14.32,Default,,0,0,0,,Like New York or New Orleans for example. {## OG: "Like New Okubo station or New Kawasaki station."}
+Dialogue: 10,0:02:14.32,0:02:17.95,Default,,0,0,0,,Even newspapers aren't really "new" anymore. {## OG: What's new about a newspaper, anyway?}
+Dialogue: 10,0:02:18.24,0:02:21.75,Default,,0,0,0,,{\q2}The internet's {\i1}way{\i0} faster and there's less bias. \NThey should be called "oldspapers".
 Dialogue: 10,0:02:21.93,0:02:24.33,Default,,0,0,0,,New potatoes! New York pizza!
-Dialogue: 10,0:02:24.33,0:02:26.42,Default,,0,0,0,,Is that what newtritious means?
+Dialogue: 10,0:02:24.33,0:02:26.42,Default,,0,0,0,,Is that what "newtritious" means?
 Dialogue: 10,0:02:26.42,0:02:29.50,Default,,0,0,0,,The "nu" in "nutritious" has nothing to do with "new".
 Dialogue: 10,0:02:29.50,0:02:30.30,Default,,0,0,0,,Oh, okay!
 Dialogue: 10,0:02:34.18,0:02:37.01,Default,,0,0,0,,Huh? What's up, Marii?
@@ -49,53 +50,52 @@ Dialogue: 10,0:02:40.26,0:02:41.06,Default,,0,0,0,,D?
 Dialogue: 10,0:02:41.06,0:02:42.81,Default,,0,0,0,,Did you see a deer?
 Dialogue: 10,0:02:42.81,0:02:43.56,Default,,0,0,0,,No!
 Dialogue: 10,0:02:43.56,0:02:46.56,Default,,0,0,0,,Don't worry about being a delinquent.
-Dialogue: 10,0:02:46.56,0:02:47.27,Default,,0,0,0,,That again!
+Dialogue: 10,0:02:46.56,0:02:47.27,Default,,0,0,0,,That junk again?!
 Dialogue: 10,0:02:47.52,0:02:49.89,Default,,0,0,0,,I'm gonna defeat you!
 Dialogue: 10,0:02:49.89,0:02:51.61,Default,,0,0,0,,I can't deny it!
 Dialogue: 10,0:02:51.61,0:02:52.32,Default,,0,0,0,,What about this?
 Dialogue: 10,0:02:52.32,0:02:53.24,Default,,0,0,0,,Devotion.
 Dialogue: 10,0:02:53.24,0:02:54.24,Default,,0,0,0,,What about this?
 Dialogue: 10,0:02:54.24,0:02:55.11,Default,,0,0,0,,Depravity.
-Dialogue: 10,0:02:55.11,0:02:57.37,Default,,0,0,0,,No, no, no, no, NO!
+Dialogue: 10,0:02:55.11,0:02:57.37,Default,,0,0,0,,No, no, no, no, {\i1}no{\i0}!
 Dialogue: 10,0:02:57.37,0:02:59.49,Default,,0,0,0,,What, then? What's "D"?
 Dialogue: 10,0:02:59.49,0:03:03.29,Default,,0,0,0,,Why was my part in our announcement just "dy"?!
 Dialogue: 10,0:03:03.54,0:03:05.54,Default,,0,0,0,,Oh right, the announcement.
 Dialogue: 10,0:03:05.54,0:03:06.87,Default,,0,0,0,,Oh, is that all?
 Dialogue: 10,0:03:06.87,0:03:08.38,Default,,0,0,0,,Whaddya mean, "is that all"?
 Dialogue: 10,0:03:08.38,0:03:11.34,Default,,0,0,0,,But you've got to be the end, Marii.
-Dialogue: 10,0:03:12.34,0:03:13.26,Default,,0,0,0,,She's right.
-Dialogue: 10,0:03:13.26,0:03:15.26,Default,,0,0,0,,The thought of going last makes me tremble...
-Dialogue: 10,0:03:15.26,0:03:21.22,Default,,0,0,0,,I'd be so nervous, I could see myself saying, \N"Have a good year everybo... doo."
+Dialogue: 10,0:03:12.34,0:03:15.26,Default,,0,0,0,,She's right. The thought of going last makes me tremble...
+Dialogue: 10,0:03:15.26,0:03:21.22,Default,,0,0,0,,{\q2}I'd be so nervous, I could see myself saying \N"Have a good year everybo... doo."
 Dialogue: 10,0:03:22.27,0:03:23.35,Default,,0,0,0,,How awful...
-Dialogue: 10,0:03:24.52,0:03:25.89,Default,,0,0,0,,Yes indeed.
-Dialogue: 10,0:03:26.19,0:03:29.69,Default,,0,0,0,,I'd say something like \N"have a good year everybo... dow."
+Dialogue: 10,0:03:24.52,0:03:25.89,Default,,0,0,0,,Yes, indeed.
+Dialogue: 10,0:03:26.19,0:03:29.69,Default,,0,0,0,,{\q2}I'd be mortified if I said something like \N"have a good year everybo... dow."
 Dialogue: 10,0:03:30.77,0:03:31.90,Default,,0,0,0,,How awful...
-Dialogue: 10,0:03:32.78,0:03:38.61,Default,,0,0,0,,The only one who could give that "dy" \Nthe proper treatment is you, Marii.
+Dialogue: 10,0:03:32.78,0:03:38.61,Default,,0,0,0,,{\q2}The only one who could give that "dy" \Nthe treatment it deserves is you, Marii.
 Dialogue: 10,0:03:38.61,0:03:40.58,Default,,0,0,0,,Yes. It's true.
 Dialogue: 10,0:03:43.33,0:03:44.41,Default,,0,0,0,,Really?!
-Dialogue: 10,0:03:44.79,0:03:48.33,Default,,0,0,0,,Don't you think "dy" is a bit too short, though?
+Dialogue: 10,0:03:44.79,0:03:48.33,Default,,0,0,0,,But isn't a single syllable cutting it a bit short?
 Dialogue: 10,0:03:48.33,0:03:52.00,Default,,0,0,0,,What do you mean? Longer doesn't always mean better.
-Dialogue: 10,0:03:52.42,0:03:56.34,Default,,0,0,0,,I know a certain guy with a short name who works a lot \Nharder than a certain guy with a longer name.
+Dialogue: 10,0:03:52.42,0:03:56.34,Default,,0,0,0,,{\q2}I know a certain guy with a short name who works \Na lot harder than a certain guy with a longer name.
 Dialogue: 10,0:03:56.34,0:03:58.59,Default,,0,0,0,,Ah, that's very convincing.
-Dialogue: 10,0:03:58.59,0:04:00.80,Default,,0,0,0,,What about Jugem, with the really long name?
+Dialogue: 10,0:03:58.59,0:04:00.80,Default,,0,0,0,,What about Jugemu, with the really long name?
 Dialogue: 10,0:04:00.80,0:04:03.93,Default,,0,0,0,,He never did much besides beat other people's children.
-Dialogue: 10,0:04:03.93,0:04:08.19,Default,,0,0,0,,Ah! That reminds me, I got something \Nfrom Master to give to you.
+Dialogue: 10,0:04:03.93,0:04:08.19,Default,,0,0,0,,{\q2}Ah! That reminds me, I got something \Nfrom Master to give to you.
 Dialogue: 10,0:04:08.19,0:04:09.77,Default,,0,0,0,,New year's gifts!
 Dialogue: 10,0:04:15.36,0:04:17.57,Default,,0,0,0,,Everyone should pick the one they want.
-Dialogue: 10,0:04:17.74,0:04:20.99,Default,,0,0,0,,The "dip" in "lucky dip" is short for \N"dip-ressingly small amount of money."
+Dialogue: 10,0:04:17.74,0:04:20.99,Default,,0,0,0,,{\q2}The "dip" in "lucky dip" is short for \N"dip-ressingly small amount of money".
 Dialogue: 10,0:04:20.99,0:04:21.82,Default,,0,0,0,,Is that true?
 Dialogue: 10,0:04:21.82,0:04:25.58,Default,,0,0,0,,It might as well be. Japanese people love being humble.
-Dialogue: 10,0:04:25.58,0:04:30.48,Default,,0,0,0,,Well, it's from Master, \Nso we shouldn't expect too much, eh?
+Dialogue: 10,0:04:25.58,0:04:30.48,Default,,0,0,0,,{\q2}Well, it's from Master, so we shouldn't \Nget our hopes up too much, eh?
 Dialogue: 10,0:04:30.48,0:04:32.34,Default,,0,0,0,,He said he really splashed out this year, though.
-Dialogue: 10,0:04:32.34,0:04:33.46,Default,,0,0,0,,Really?
-Dialogue: 10,0:04:33.92,0:04:36.05,Default,,0,0,0,,In that case, I want this one-
-Dialogue: 10,0:04:36.51,0:04:37.47,Default,,0,0,0,,Hey, what was that?
-Dialogue: 10,0:04:37.47,0:04:38.59,Default,,0,0,0,,You can go last now, as well.
+Dialogue: 10,0:04:32.34,0:04:33.46,Default,,0,0,0,,For real?!
+Dialogue: 10,0:04:33.92,0:04:36.05,Default,,0,0,0,,In that case, I want this one—
+Dialogue: 10,0:04:36.51,0:04:37.67,Default,,0,0,0,,Hey, what was that for?
+Dialogue: 10,0:04:37.05,0:04:38.59,Alt,,0,0,0,,You can go last this time, as well.
 Dialogue: 10,0:04:38.59,0:04:41.28,Default,,0,0,0,,Everyone knows going first is best!
 Dialogue: 10,0:04:41.28,0:04:43.22,Default,,0,0,0,,Wanna play rock-paper-scissors to decide?
 Dialogue: 10,0:04:43.22,0:04:45.52,Default,,0,0,0,,Winner gets to pick first!
-Dialogue: 10,0:04:46.18,0:04:47.73,Default,,0,0,0,,One, two, three!
-Dialogue: 10,0:04:48.31,0:04:49.77,Default,,0,0,0,,So Marii picks last.
+Dialogue: 10,0:04:46.18,0:04:47.73,Default,,0,0,0,,Rock-paper-scissors!
+Dialogue: 10,0:04:48.31,0:04:49.77,Default,,0,0,0,,Marii gets to pick last.
 Dialogue: 10,0:04:49.77,0:04:51.48,Default,,0,0,0,,Gimme another chance!
 Dialogue: 10,0:04:51.48,0:04:52.81,Default,,0,0,0,,Let's play a different game, then.
 Dialogue: 10,0:04:54.82,0:04:56.69,Default,,0,0,0,,Marii goes 5th.
@@ -106,25 +106,25 @@ Dialogue: 10,0:05:03.28,0:05:05.62,Default,,0,0,0,,Now that's settled, shall we 
 Dialogue: 10,0:05:05.62,0:05:06.74,Default,,0,0,0,,Hang on a sec!
 Dialogue: 10,0:05:06.74,0:05:09.58,Default,,0,0,0,,Choosing last means I'm at a disadvantage, right?
 Dialogue: 10,0:05:09.58,0:05:10.79,Default,,0,0,0,,That's not true.
-Dialogue: 10,0:05:11.17,0:05:14.14,Default,,0,0,0,,A fat envelope might be stuffed with 1,000-yen bills,
-Dialogue: 10,0:05:14.14,0:05:16.67,Default,,0,0,0,,but a slim one could have one 10,000-yen bill.
+Dialogue: 10,0:05:11.17,0:05:14.14,Default,,0,0,0,,A fat envelope might be stuffed with thousand-yen bills,
+Dialogue: 10,0:05:14.14,0:05:16.67,Default,,0,0,0,,but a slim one could have one ten thousand-yen bill.
 Dialogue: 10,0:05:16.67,0:05:18.05,Default,,0,0,0,,Good point.
 Dialogue: 10,0:05:18.05,0:05:20.93,Default,,0,0,0,,What is it they say? "There's luck in leftovers"?
 Dialogue: 10,0:05:21.30,0:05:22.34,Default,,0,0,0,,I'll go last.
 Dialogue: 10,0:05:22.34,0:05:24.93,Default,,0,0,0,,Right. I'll start, then.
-Dialogue: 10,0:05:30.18,0:05:32.48,Default,,0,0,0,,This thin one... It's gotta be 10,000 yen!
+Dialogue: 10,0:05:30.18,0:05:32.48,Default,,0,0,0,,This thin one... It's gotta be ten thousand yen!
 Dialogue: 10,0:05:51.12,0:05:51.83,Default,,0,0,0,,There!
 Dialogue: 10,0:05:53.83,0:05:58.46,Default,,0,0,0,,Bzzzt! That's what you get for being greedy and rushing.
-Dialogue: 10,0:05:58.46,0:06:00.17,Default,,0,0,0,,Our stingy Master's never going \Nto give us 10 grand, is he?
+Dialogue: 10,0:05:58.46,0:06:00.17,Default,,0,0,0,,Our stingy Master's never going \Nto give us ten grand, is he?
 Dialogue: 10,0:06:00.17,0:06:02.05,Default,,0,0,0,,Me next!
 Dialogue: 10,0:06:05.51,0:06:09.56,Default,,0,0,0,,I don't care about the values, I just want a lot of notes!
 Dialogue: 10,0:06:09.56,0:06:11.31,Default,,0,0,0,,What a cutie-pie!
 Dialogue: 10,0:06:11.31,0:06:13.10,Default,,0,0,0,,She's still just a kid.
-Dialogue: 10,0:06:14.81,0:06:16.48,Default,,0,0,0,,There WERE 10-grand bills!
-Dialogue: 10,0:06:16.48,0:06:18.23,Default,,0,0,0,,G-good for you, Kigu.
+Dialogue: 10,0:06:14.81,0:06:16.48,Default,,0,0,0,,There {\i1}were{\i0} ten-grand bills!
+Dialogue: 10,0:06:16.48,0:06:18.23,Default,,0,0,0,,G-Good for you, Kigu.
 Dialogue: 10,0:06:18.23,0:06:19.11,Default,,0,0,0,,Heh.
 Dialogue: 10,0:06:20.23,0:06:23.07,Default,,0,0,0,,Um... Sure, this one.
-Dialogue: 10,0:06:24.78,0:06:28.33,Default,,0,0,0,,I-is this a 2,000-yen bill?!
+Dialogue: 10,0:06:24.78,0:06:28.33,Default,,0,0,0,,I-Is this a two thousand-yen bill?!
 Dialogue: 10,0:06:28.33,0:06:30.62,Default,,0,0,0,,You can't use these in vending machines...
 Dialogue: 10,0:06:30.62,0:06:32.50,Alt,,0,0,0,,They don't even have someone's face on them.
 Dialogue: 10,0:06:30.62,0:06:32.50,Default,,0,0,0,,This throws a spanner in the works.
@@ -136,43 +136,43 @@ Dialogue: 10,0:06:42.47,0:06:48.01,Default,,0,0,0,,Eenie, meanie, miney, mo...
 Dialogue: 10,0:06:50.01,0:06:52.06,Default,,0,0,0,,Oh, it's not money.
 Dialogue: 10,0:06:52.06,0:06:53.68,Default,,0,0,0,,It's a stock certificate.
 Dialogue: 10,0:06:53.68,0:06:55.77,Default,,0,0,0,,And it's for the Central Japan Railway Company!
-Dialogue: 10,0:06:55.77,0:06:57.52,Default,,0,0,0,,One share is 600,000 yen!
+Dialogue: 10,0:06:55.77,0:06:57.52,Default,,0,0,0,,One share is six hundred thousand yen!
 Dialogue: 10,0:06:57.52,0:06:59.48,Default,,0,0,0,,How can one person be so lucky?!
 Dialogue: 10,0:07:01.11,0:07:02.69,Default,,0,0,0,,The last envelope!
 Dialogue: 10,0:07:02.69,0:07:03.94,Default,,0,0,0,,Over to you, Marii!
-Dialogue: 10,0:07:13.58,0:07:14.87,Default,,0,0,0,,It's COINS?
+Dialogue: 10,0:07:13.58,0:07:14.87,Default,,0,0,0,,It's {\i1}coins{\i0}?
 Dialogue: 10,0:07:15.29,0:07:17.04,Default,,0,0,0,,You left that one on purpose!
 Dialogue: 10,0:07:17.04,0:07:20.84,Default,,0,0,0,,Yeah, but coins doesn't mean low value.
 Dialogue: 10,0:07:20.84,0:07:24.70,Default,,0,0,0,,There've been commemorative coins \Nworth hundreds of thousands of yen.
 Dialogue: 10,0:07:24.70,0:07:27.26,Default,,0,0,0,,That doesn't sound very likely.
 Dialogue: 10,0:07:27.26,0:07:29.39,Default,,0,0,0,,It's probably foreign coins.
 Dialogue: 10,0:07:29.39,0:07:31.10,Default,,0,0,0,,Foreign coins?
-Dialogue: 10,0:07:33.10,0:07:34.93,Default,,0,0,0,,It's probably 500 won.
+Dialogue: 10,0:07:33.10,0:07:34.93,Default,,0,0,0,,It's probably five hundred won.
 Dialogue: 10,0:07:34.93,0:07:36.73,Default,,0,0,0,,How much is that worth?
 Dialogue: 10,0:07:36.73,0:07:40.31,Default,,0,0,0,,At the current exchange rate, 1 won is 0.08 yen.
-Dialogue: 10,0:07:40.52,0:07:42.61,Default,,0,0,0,,Wow, so it's 4,000 yen?
-Dialogue: 10,0:07:43.19,0:07:45.07,Default,,0,0,0,,No, 40 yen.
+Dialogue: 10,0:07:40.52,0:07:42.61,Default,,0,0,0,,Wow, so it's four thousand yen?
+Dialogue: 10,0:07:43.19,0:07:45.07,Default,,0,0,0,,No, forty yen.
 Dialogue: 10,0:07:46.57,0:07:48.20,Default,,0,0,0,,It's that little?!
-Dialogue: 10,0:07:48.20,0:07:52.79,Default,,0,0,0,,Yeah, but you can use 500 won as \Na fake 500-yen coin if you want to.
+Dialogue: 10,0:07:48.20,0:07:52.79,Default,,0,0,0,,Yeah, but you can use five hundred won as \Na fake five hundred-yen coin if you want to.
 Dialogue: 10,0:07:52.79,0:07:55.54,Default,,0,0,0,,No you can't! That's a crime!
 Dialogue: 10,0:07:55.54,0:07:57.62,Default,,0,0,0,,It used to happen a lot.
 Dialogue: 10,0:07:58.08,0:08:00.25,Default,,0,0,0,,Hey, it's not limited to won.
 Dialogue: 10,0:08:00.25,0:08:02.63,Default,,0,0,0,,There could be any coin in that envelope.
 Dialogue: 10,0:08:02.63,0:08:04.05,Default,,0,0,0,,Or alternatively...
 Dialogue: 10,0:08:05.38,0:08:07.09,Default,,0,0,0,,it could be a key!
-Dialogue: 10,0:08:08.18,0:08:09.34,Default,,0,0,0,,I WIN!
+Dialogue: 10,0:08:08.18,0:08:09.34,Default,,0,0,0,,I win!
 Dialogue: 10,0:08:09.68,0:08:11.51,Default,,0,0,0,,It's gotta be an apartment key!
 Dialogue: 10,0:08:11.93,0:08:14.60,Default,,0,0,0,,That's an impressively greedy leap.
 Dialogue: 10,0:08:14.60,0:08:16.98,Default,,0,0,0,,As greedy as a Ginza bar owner \Nduring the economic bubble.
 Dialogue: 10,0:08:16.98,0:08:18.31,Default,,0,0,0,,How big d'you reckon it is?
-Dialogue: 10,0:08:18.31,0:08:20.69,Default,,0,0,0,,6 tatami? 8? Maybe even 10?
+Dialogue: 10,0:08:18.31,0:08:20.69,Default,,0,0,0,,Six tatami? Eight? Maybe even ten?
 Dialogue: 10,0:08:20.98,0:08:23.86,Default,,0,0,0,,I don't think she can measure in anything but tatami.
 Dialogue: 10,0:08:23.86,0:08:26.74,Default,,0,0,0,,I think the key is for a dungeon.
 Dialogue: 10,0:08:27.40,0:08:29.78,Default,,0,0,0,,Full of hordes of terrifying monsters!
 Dialogue: 10,0:08:30.41,0:08:31.20,Default,,0,0,0,,Scary!
 Dialogue: 10,0:08:31.20,0:08:34.72,Default,,0,0,0,,Awesome! There's bound to be a bunch \Nof treasure at the end!
 Dialogue: 10,0:08:34.72,0:08:35.75,Default,,0,0,0,,Of course.
-Dialogue: 10,0:08:41.50,0:08:43.34,Default,,0,0,0,,A bunch of 500 won coins!
+Dialogue: 10,0:08:41.50,0:08:43.34,Default,,0,0,0,,A bunch of five hundred won coins!
 Dialogue: 10,0:08:43.34,0:08:44.71,Default,,0,0,0,,No way it's won!
 Dialogue: 10,0:08:44.71,0:08:48.38,Default,,0,0,0,,Well, whatever it is, it's probably not a key. Huh?
 Dialogue: 10,0:08:49.51,0:08:50.38,Default,,0,0,0,,A camera?
@@ -180,7 +180,7 @@ Dialogue: 10,0:08:50.38,0:08:53.76,Default,,0,0,0,,Oh, should we say something t
 Dialogue: 10,0:08:53.76,0:08:56.18,Default,,0,0,0,,Marii should go last.
 Dialogue: 10,0:08:56.18,0:08:57.68,Default,,0,0,0,,Last again?
 Dialogue: 10,0:08:57.68,0:09:00.44,Default,,0,0,0,,The last words are the ones people remember.
-Dialogue: 10,0:09:00.44,0:09:02.23,Default,,0,0,0,,R-really?!
+Dialogue: 10,0:09:00.44,0:09:02.23,Default,,0,0,0,,R-Really?!
 Dialogue: 10,0:09:04.52,0:09:07.78,Default,,0,0,0,,Happy new year!
 Dialogue: 10,0:09:07.78,0:09:09.03,Default,,0,0,0,,Have...
 Dialogue: 10,0:09:09.03,0:09:10.24,Default,,0,0,0,,a good...
@@ -201,7 +201,7 @@ Dialogue: 10,0:10:23.81,0:10:25.90,Default,,0,0,0,,I chased an adorable cat,
 Dialogue: 10,0:10:26.44,0:10:28.98,Default,,0,0,0,,and ended up lost somehow.
 Dialogue: 10,0:10:30.15,0:10:32.24,Default,,0,0,0,,I remember something I heard a long time ago.
 Dialogue: 10,0:10:33.40,0:10:38.24,Default,,0,0,0,,A place built from the dreams and \Nwishes of children who never grew up.
-Dialogue: 10,0:10:39.79,0:10:42.04,Default,,0,0,0,,Could this be... Akiha-
+Dialogue: 10,0:10:39.79,0:10:42.04,Default,,0,0,0,,Could this be... Akiha—
 Dialogue: 10,0:10:42.04,0:10:44.16,Default,,0,0,0,,It's Jizodori shopping street.
 Dialogue: 10,0:10:44.46,0:10:45.83,Default,,0,0,0,,In Sugamo.
 Dialogue: 10,0:10:49.75,0:10:53.17,Default,,0,0,0,,Not Akiba? You mean I dressed as a maid for nothing?
@@ -299,8 +299,8 @@ Dialogue: 10,0:15:33.16,0:15:36.50,Default,,0,0,0,,This is a pretty mature conve
 Dialogue: 10,0:15:36.50,0:15:40.38,Default,,0,0,0,,I think having conversations like this is \Nhow you end up being mature.
 Dialogue: 10,0:15:44.80,0:15:47.72,Default,,0,0,0,,My eyes are already cloudy...
 Dialogue: 10,0:15:48.18,0:15:50.14,Default,,0,0,0,,Your glasses steamed up.
-Dialogue: 10,0:15:54.56,0:15:57.98,Default,,0,0,0,,"I bought this cat 'coz you told me \Nit'd live a thousand years,
-Dialogue: 10,0:15:57.98,0:15:59.94,Default,,0,0,0,,but it died yesterday!"
+Dialogue: 10,0:15:54.56,0:15:57.98,Default,,0,0,0,,"I bought this cat 'coz you told me \Nit'd live a thousand years,"
+Dialogue: 10,0:15:57.98,0:15:59.94,Default,,0,0,0,,"but it died yesterday!"
 Dialogue: 10,0:15:59.94,0:16:04.82,Default,,0,0,0,,"Oh dear. Yesterday must have been \Nits thousandth birthday, huh."
 Dialogue: 10,0:16:05.32,0:16:07.07,Default,,0,0,0,,Thanks for your continued appreciation.
 Dialogue: 10,0:16:18.33,0:16:19.83,Default,,0,0,0,,It's April.
@@ -321,7 +321,7 @@ Dialogue: 10,0:17:01.88,0:17:04.38,Default,,0,0,0,,Is there anything we can do t
 Dialogue: 10,0:17:05.59,0:17:08.30,Default,,0,0,0,,Hey! Let's have a staring contest!
 Dialogue: 10,0:17:08.30,0:17:14.47,Default,,0,0,0,,Daruma, daruma, stare me down \NLaughing and smiling isn't allowed.
 Dialogue: 10,0:17:14.47,0:17:16.18,Default,,0,0,0,,A-puh-puh!
-Dialogue: 10,0:17:24.77,0:17:26.28,Default,,0,0,0,,Wh-what about this?!
+Dialogue: 10,0:17:24.77,0:17:26.28,Default,,0,0,0,,Wh-What about this?!
 Dialogue: 10,0:17:26.28,0:17:27.69,Default,,0,0,0,,That... hurts...
 Dialogue: 10,0:17:30.24,0:17:31.78,Default,,0,0,0,,You need to try harder than that!
 Dialogue: 10,0:17:35.91,0:17:37.08,Default,,0,0,0,,How's this?!
@@ -405,7 +405,7 @@ Dialogue: 10,0:21:09.08,0:21:11.29,Default,,0,0,0,,Yeah, you should watch out, M
 Dialogue: 10,0:21:11.29,0:21:14.00,Default,,0,0,0,,Don't be silly! I'm fine!
 Dialogue: 10,0:21:20.47,0:21:21.13,Default,,0,0,0,,Ya...
 Dialogue: 10,0:21:23.68,0:21:24.85,Default,,0,0,0,,Yamashita!
-Dialogue: 10,0:21:26.18,0:21:28.60,Default,,0,0,0,,J-just asking...
+Dialogue: 10,0:21:26.18,0:21:28.60,Default,,0,0,0,,J-Just asking...
 Dialogue: 10,0:21:28.93,0:21:31.14,Default,,0,0,0,,Yamashita isn't standing over there, is he?
 Dialogue: 10,0:21:31.14,0:21:31.81,Default,,0,0,0,,Yeah...
 Dialogue: 10,0:21:31.81,0:21:33.02,Default,,0,0,0,,Yamashita...
@@ -428,5 +428,5 @@ Dialogue: 10,0:23:50.68,0:23:54.16,Default,,0,0,0,,What about earwax picks? Bowl
 Dialogue: 10,0:23:54.16,0:23:56.21,Default,,0,0,0,,Where's the line? What's in and what's out?
 Dialogue: 10,0:23:56.21,0:24:00.34,Default,,0,0,0,,Once I start thinking about it, I can't stop!
 Dialogue: 10,0:24:00.84,0:24:03.25,Default,,0,0,0,,Anyway, here's the next episode of Joshiraku.
-Dialogue: 10,0:24:03.25,0:24:06.74,Default,,0,0,0,,"Life's Butt a Comedy", "The Bear of Ueno" \Nand "Sleep-Talking".
+Dialogue: 10,0:24:03.25,0:24:06.74,Default,,0,0,0,,"Life's Butt a Comedy", "The Bear of Ueno", \Nand "Sleep-Talking".
 Dialogue: 10,0:24:06.74,0:24:09.05,Default,,0,0,0,,Long live His Excellency Rozen!
