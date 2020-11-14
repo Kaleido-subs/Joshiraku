@@ -16,10 +16,12 @@ Original Timing: gsk_
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: JoshirakuBD_03 (Premux).mkv
-Video File: JoshirakuBD_03 (Premux).mkv
+Audio File: JoshirakuBD_03v2 (Premux).mkv
+Video File: JoshirakuBD_03v2 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Video Position: 2403
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,38 +30,38 @@ Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:40.20,0:01:42.20,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:01:40.20,0:01:42.20,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Bath of Last Resort
+Dialogue: 1,0:01:40.20,0:01:42.20,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Bath of Last Resort
 Dialogue: 0,0:09:23.20,0:09:25.21,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:09:23.20,0:09:25.21,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Asakusa Visit
+Dialogue: 1,0:09:23.20,0:09:25.21,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Asakusa Visit
 Dialogue: 0,0:15:29.99,0:15:31.99,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:15:29.99,0:15:31.99,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}A Stroke of Raku
+Dialogue: 1,0:15:29.99,0:15:31.99,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}A Stroke of Raku
 Dialogue: 0,0:23:39.93,0:23:43.69,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:23:39.93,0:23:43.69,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs144\2a&HFF&\blur0.8}Next Time
-Dialogue: 0,0:24:02.83,0:24:09.96,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:02.83,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,240)}① {\an4\fnGaramond Premr Pro Smbd Capt}Glasses Girl
-Dialogue: 1,0:24:02.83,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}A Good Day to Daiba
-Dialogue: 1,0:24:02.83,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Eye of the Bunny
-Dialogue: 0,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(261.6,478.4)\fscx400\frz16.69\fnFansub Block\fs87\c&H1B282E&\blur1.1}A
-Dialogue: 1,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(262.7,478)\fscx460\frz16.69\fnFansub Block\fs72\bord1.3\c&H1D476A&\3c&H1E4F75&\blur0.7}A
-Dialogue: 1,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(262.7,478)\fscx466\frz16.69\fnPeoni Patterns\fs72\c&H1F4D71&\3c&H1E4F75&\blur1.3\clip(m 100 488.625 l 120 558.625 440 464 417.375 391.375)}o
-Dialogue: 2,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(262.7,478)\fscx497\fscy91\frz16.69\fnFansub Block\fs65\c&H0A1E29&\1a&H50&\blur0.4}A
-Dialogue: 3,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(260.4,479)\fscx549\frz15.92\fnPeoni Patterns\fs59\c&H21537A&\blur2.7\clip(m 109 495 l 124 547 428 456 413 403)}o
-Dialogue: 3,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(269.3,479.3)\frz16.69\fnBrushType-SemiBold\fs53\b0\c&H08151B&\blur0.7}Kigurumi Haroukitei
+Dialogue: 1,0:23:39.93,0:23:43.69,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs144\2a&HFF&\blur0.6}Next Time
+Dialogue: 0,0:24:02.83,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
+Dialogue: 1,0:24:02.83,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,240)}① {\an4\fnGaramond Premr Pro Smbd Capt}Glasses Girl
+Dialogue: 1,0:24:02.83,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}A Good Day to Daiba
+Dialogue: 1,0:24:02.83,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Eye of the Bunny
+Dialogue: 0,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\blur1.1\an7\p1\c&H1B282E&\frz16.69\fscx349\fscy89\pos(87.8,483.2)}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\blur0.9\an7\p1\c&H1D476A&\frz16.69\fscx335\fscy76\pos(97,487)}m 0 0 l 100 0 100 100 0 100
+Dialogue: 2,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(262.7,478)\fscx466\frz16.69\fnPeoni Patterns\fs72\c&H1F4D71&\3c&H1E4F75&\blur1.3\clip(m 100 488.625 l 120 558.625 440 464 417.375 391.375)}o
+Dialogue: 3,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\blur0.9\an7\p1\c&H0A1E29&\frz16.69\1a&H20&\fscx323\fscy59\pos(105,493.5)}m 0 0 l 100 0 100 100 0 100
+Dialogue: 4,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(260.4,479)\fscx549\frz15.92\fnPeoni Patterns\fs59\c&H21537A&\blur2.7\clip(m 109 495 l 124 547 428 456 413 403)}o
+Dialogue: 5,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(269.3,479.3)\frz16.69\fnBrushType-SemiBold\fs53\b0\c&H08151B&\blur0.7}Kigurumi Haroukitei
 Dialogue: 1,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(972.9,556.9)\frz338.3\fnBrushStroke 35\fs67\b0\c&H000000&\blur1}Rakugo Girls
 Dialogue: 1,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(972.9,556.9)\frz338.3\fnBrushStroke 35\fs67\b0\c&H000000&\blur1}Rakugo Girls
-Dialogue: 0,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(1011.8,531.7)\fscx400\frz347.6\fnFansub Block\fs87\c&H1B282E&\blur1.1}A
-Dialogue: 1,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(1012.9,531.3)\fscx460\frz347.6\fnFansub Block\fs72\bord1.3\c&H1D476A&\3c&H1E4F75&\blur0.7}A
-Dialogue: 1,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(1012.9,531.3)\fscx466\frz347.6\fnPeoni Patterns\fs72\c&H21537A&\3c&H1E4F75&\blur1.3\clip(m 865.375 458.625 l 845.375 534 1175.375 607.375 1192 529.375)}o
-Dialogue: 2,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(1012.9,531.3)\fscx492\fscy89\frz347.6\fnFansub Block\fs65\c&H0C1F2D&\blur0.8}A
-Dialogue: 3,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(1013.7,531.3)\fscx543\frz347.6\fnPeoni Patterns\fs59\c&H21537A&\blur2.7\clip(m 872 472 l 860 524 1167 592 1177 540)}o
-Dialogue: 3,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(1015.1,534.2)\frz347.6\fnBrushType-SemiBold\fs53\b0\c&H08151B&\blur0.7}Tetora Bouhatei
+Dialogue: 0,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\blur1.1\an7\p1\c&H121E2E&\frz347.6\fscx349\fscy89\pos(858,451.5)}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\blur0.9\an7\p1\c&H1D476A&\frz347.6\fscx335\fscy76\pos(863.5,459)}m 0 0 l 100 0 100 100 0 100
+Dialogue: 2,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(1012.9,531.3)\fscx466\frz347.6\fnPeoni Patterns\fs72\c&H21537A&\3c&H1E4F75&\blur1.3\clip(m 863.38 458.62 l 847.38 533 1175.38 607.38 1192 529.38)}o
+Dialogue: 3,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\blur0.9\an7\p1\c&H0C1F2D&\frz347.6\fscx323\fscy59\1a&H20&\pos(868,469)}m 0 0 l 100 0 100 100 0 100
+Dialogue: 4,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(1013.7,531.3)\fscx543\frz347.6\fnPeoni Patterns\fs59\c&H21537A&\blur2.7\clip(m 871 473 l 859.6 524.34 1168 592.33 1179.73 540.27)}o
+Dialogue: 5,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(1015.1,535)\frz347.6\fnBrushType-SemiBold\fs53\b0\c&H08151B&\blur0.7}Tetora Bouhatei
 Dialogue: 1,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(195.1,535.7)\frz18.7\fnBrushStroke 35\fs67\b0\c&H000000&\blur1}Rakugo Girls
 Dialogue: 1,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(195.1,535.7)\frz18.7\fnBrushStroke 35\fs67\b0\c&H000000&\blur1}Rakugo Girls
 Dialogue: 0,0:08:50.55,0:08:52.67,Sign,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:08:50.55,0:08:52.67,Sign,,0,0,0,,{\pos(72,218)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur1}The conversations in this anime
-Dialogue: 1,0:08:50.55,0:08:52.67,Sign,,0,0,0,,{\pos(72,274)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur1}are written to be as inoffensive as possible
-Dialogue: 1,0:08:50.55,0:08:52.67,Sign,,0,0,0,,{\pos(72,330)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur1}so as not to interfere with your enjoyment
-Dialogue: 1,0:08:50.55,0:08:52.67,Sign,,0,0,0,,{\pos(72,386)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur1}of viewing cute girls.
+Dialogue: 1,0:08:50.55,0:08:52.67,Sign,,0,0,0,,{\pos(72,218)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.7}The conversations in this anime
+Dialogue: 1,0:08:50.55,0:08:52.67,Sign,,0,0,0,,{\pos(72,274)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.7}are written to be as inoffensive as possible
+Dialogue: 1,0:08:50.55,0:08:52.67,Sign,,0,0,0,,{\pos(72,330)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.7}so as not to interfere with your enjoyment
+Dialogue: 1,0:08:50.55,0:08:52.67,Sign,,0,0,0,,{\pos(72,386)\an7\fs54\fnGaramond Premr Pro Smbd Capt\2c&H0000FF&\2a&HFF&\blur0.7}of viewing cute girls.
 Dialogue: 0,0:03:19.76,0:03:19.80,Sign,,0,0,0,,{\pos(802.2,87.7)\frz339.6\fnFxイーマ513\fs29\fsp-2.7\c&H201B06&\1a&HFA&\blur1.3}Sudachi
 Dialogue: 1,0:03:19.76,0:03:19.80,Sign,,0,0,0,,{\pos(802.2,87.7)\frz339.6\fnFxイーマ513\fs29\fsp-2.7\c&H201B06&\1a&HFA&\blur0.7}Sudachi
 Dialogue: 0,0:03:19.76,0:03:19.80,Sign,,0,0,0,,{\pos(1166.2,216.3)\frz337.5\fnFxイーマ513\fs29\fsp-2.7\c&H201B06&\1a&HFA&\blur1.3}Whirlpools
@@ -142,17 +144,29 @@ Dialogue: 1,0:03:25.51,0:03:25.64,Sign,,0,0,0,,{\pos(808,592)\fnFxイーマ513\f
 Dialogue: 0,0:03:25.64,0:03:25.76,Sign,,0,0,0,,{\pos(808,592)\fnFxイーマ513\fs29\fsp-2.7\c&H201B06&\1a&H50&\blur1.3\clip(m 753.375 577.375 l 784.625 571.375 772 600 768 608 830.625 610 832.625 597.375 842 570.625 848.625 594 848.625 609.375 741.375 610)}Awa Dance
 Dialogue: 1,0:03:25.64,0:03:26.18,Sign,,0,0,0,,{\pos(808,592)\fnFxイーマ513\fs29\fsp-2.7\c&H201B06&\1a&H3C&\blur0.7\clip(m 753.375 577.375 l 784.625 571.375 772 600 768 608 830.625 610 832.625 597.375 842 570.625 848.625 594 848.625 609.375 741.375 610)}Awa Dance
 Dialogue: 0,0:03:25.76,0:03:26.18,Sign,,0,0,0,,{\pos(808,592)\fnFxイーマ513\fs29\fsp-2.7\c&H201B06&\1a&H50&\blur1.3\clip(m 753.375 577.375 l 784.625 571.375 772 600 768 608 830.625 610 832.625 597.375 842 570.625 848.625 594 848.625 609.375 741.375 610)}Awa Dance
-Dialogue: 0,0:07:23.38,0:07:23.46,Sign,,0,0,0,,{\pos(905.4,598.5)\org(901,591)\fscx110\fscy75\frz353.4\fry1.8\frx-9.18\fax-0.43\fnBrianne's hand\b0\c&H0F1212&\1a&H14&\blur0.8}Deliberation
+Dialogue: 0,0:07:23.38,0:07:23.46,Sign,,0,0,0,,{\pos(905.4,598.5)\org(901,591)\fscx110\fscy75\frz354.4\fry1.8\frx-9.18\fax-0.43\fnBrianne's hand\b0\c&H0F1212&\blur5\alpha&HCA&}Deliberation
+Dialogue: 1,0:07:23.38,0:07:23.46,Sign,,0,0,0,,{\pos(905.4,598.5)\org(901,591)\fscx110\fscy75\frz354.4\fry1.8\frx-9.18\fax-0.43\fnBrianne's hand\b0\c&H0F1212&\1a&H14&\blur0.8}Deliberation
+Dialogue: 0,0:07:23.46,0:07:23.54,Sign,,0,0,0,,{\pos(777,442.2)\org(777,442)\frz-5.36\fry1.76\frx-3.56\fax-0.16\fnBrianne's hand\fs43\b0\c&H0F1212&\blur5\alpha&HCA&}Deliberation
 Dialogue: 1,0:07:23.46,0:07:23.54,Sign,,0,0,0,,{\pos(777,442.2)\org(777,442)\frz-5.36\fry1.76\frx-3.56\fax-0.16\fnBrianne's hand\fs43\b0\c&H0F1212&\1a&H14&\blur0.8}Deliberation
-Dialogue: 0,0:07:23.54,0:07:23.63,Sign,,0,0,0,,{\pos(701.1,386.7)\org(701,387)\frz357.7\fry0.61\frx-0.78\fax-0.06\fnBrianne's hand\fs43\b0\c&H0F1212&\1a&H14&\blur0.8}Deliberation
+Dialogue: 0,0:07:23.54,0:07:23.63,Sign,,0,0,0,,{\pos(701.1,386.7)\org(701,387)\frz357.7\fry0.61\frx-0.78\fax-0.06\fnBrianne's hand\fs43\b0\c&H0F1212&\blur5\alpha&HCA&}Deliberation
+Dialogue: 1,0:07:23.54,0:07:23.63,Sign,,0,0,0,,{\pos(701.1,386.7)\org(701,387)\frz357.7\fry0.61\frx-0.78\fax-0.06\fnBrianne's hand\fs43\b0\c&H0F1212&\1a&H14&\blur0.8}Deliberation
+Dialogue: 0,0:07:23.63,0:07:24.29,Sign,,0,0,0,,{\pos(640.1,335.6)\fnBrianne's hand\fs45\b0\c&H0F1212&\blur5\alpha&HCA&}Deliberation
 Dialogue: 1,0:07:23.63,0:07:24.29,Sign,,0,0,0,,{\pos(640.1,335.6)\fnBrianne's hand\fs45\b0\c&H0F1212&\1a&H14&\blur0.8}Deliberation
-Dialogue: 0,0:07:28.84,0:07:28.92,Sign,,0,0,0,,{\an6\fs30\fscy50\fnBrianne's hand\c&H0F1212&\blur0.8\pos(960.9,690)\1a&H14&\org(971,684)\fry3.47\frx-15.27\frz-3.22\fax-0.52\clip(m 823 441 l 1116 473 962 713 708 701)\b0}Deliberation
+Dialogue: 0,0:07:28.84,0:07:28.92,Sign,,0,0,0,,{\an6\fs30\fscy50\fnBrianne's hand\c&H0F1212&\blur5\pos(960.9,690)\1a&HC0&\org(971,684)\fry3.47\frx-15.27\frz-3.22\fax-0.52\clip(m 823 441 l 1116 473 962 713 708 701)\b0\alpha&HC0&}Deliberation
+Dialogue: 1,0:07:28.84,0:07:28.92,Sign,,0,0,0,,{\an6\fs30\fscy50\fnBrianne's hand\c&H0F1212&\blur0.8\pos(960.9,690)\1a&H14&\org(971,684)\fry3.47\frx-15.27\frz-3.22\fax-0.52\clip(m 823 441 l 1116 473 962 713 708 701)\b0}Deliberation
+Dialogue: 0,0:07:28.84,0:07:28.92,Sign,,0,0,0,,{\an6\fs30\fscy50\fnBrianne's hand\c&H0F1212&\blur5\pos(960,705)\1a&HC0&\org(971,684)\fry3.47\frx-15.27\frz-3.22\fax-0.52\clip(m 823 441 l 1116 473 962 713 708 701)\b0\alpha&HC0&}Concluded
+Dialogue: 1,0:07:28.84,0:07:28.92,Sign,,0,0,0,,{\an6\fs30\fscy50\fnBrianne's hand\c&H0F1212&\blur0.8\pos(960,705)\1a&H14&\org(971,684)\fry3.47\frx-15.27\frz-3.22\fax-0.52\clip(m 823 441 l 1116 473 962 713 708 701)\b0}Concluded
+Dialogue: 0,0:07:28.92,0:07:29.01,Sign,,0,0,0,,{\an6\fs29\fnBrianne's hand\c&H0F1212&\blur5\pos(827.8,594.9)\1a&HC0&\org(828,604)\fry1.58\frx-6.46\frz-3.92\fax-0.21\clip(m 707 236 l 938 261 825 648 619 635)\b0\alpha&HC0&}Deliberation
 Dialogue: 1,0:07:28.92,0:07:29.01,Sign,,0,0,0,,{\an6\fs29\fnBrianne's hand\c&H0F1212&\blur0.8\pos(827.8,594.9)\1a&H14&\org(828,604)\fry1.58\frx-6.46\frz-3.92\fax-0.21\clip(m 707 236 l 938 261 825 648 619 635)\b0}Deliberation
-Dialogue: 0,0:07:28.84,0:07:28.92,Sign,,0,0,0,,{\an6\fs30\fscy50\fnBrianne's hand\c&H0F1212&\blur0.8\pos(960,705)\1a&H14&\org(971,684)\fry3.47\frx-15.27\frz-3.22\fax-0.52\clip(m 823 441 l 1116 473 962 713 708 701)\b0}Concluded
+Dialogue: 0,0:07:28.92,0:07:29.01,Sign,,0,0,0,,{\an6\fs29\fnBrianne's hand\c&H0F1212&\blur5\pos(825.8,623.8)\1a&HC0&\org(828,604)\fry1.58\frx-6.46\frz-3.92\fax-0.21\clip(m 707 236 l 938 261 825 648 619 635)\b0\alpha&HC0&}Concluded
 Dialogue: 1,0:07:28.92,0:07:29.01,Sign,,0,0,0,,{\an6\fs29\fnBrianne's hand\c&H0F1212&\blur0.8\pos(825.8,623.8)\1a&H14&\org(828,604)\fry1.58\frx-6.46\frz-3.92\fax-0.21\clip(m 707 236 l 938 261 825 648 619 635)\b0}Concluded
-Dialogue: 0,0:07:29.01,0:07:29.09,Sign,,0,0,0,,{\an6\fs32\fnBrianne's hand\c&H0F1212&\blur0.8\pos(782.9,541.3)\1a&H14&\org(777,555)\fry-0.04\frx-0.74\frz-1.73\fax-0.08\clip(m 606 179 l 841 186 793 602 562 595)\b0}Deliberation
+Dialogue: 0,0:07:29.01,0:07:29.09,Sign,,0,0,0,,{\an6\fs32\fnBrianne's hand\c&H0F1212&\blur5\pos(782.9,541.3)\1a&HC0&\org(777,555)\fry-0.04\frx-0.74\frz-1.73\fax-0.08\clip(m 606 179 l 841 186 793 602 562 595)\b0\alpha&HC0&}Deliberation
+Dialogue: 1,0:07:29.01,0:07:29.09,Sign,,0,0,0,,{\an6\fs32\fnBrianne's hand\c&H0F1212&\blur0.8\pos(782.9,541.3)\1a&H14&\org(777,555)\fry-0.04\frx-0.74\frz-1.73\fax-0.08\clip(m 606 179 l 841 186 793 602 562 595)\b0}Deliberation
+Dialogue: 0,0:07:29.01,0:07:29.09,Sign,,0,0,0,,{\an6\fs32\fnBrianne's hand\c&H0F1212&\blur5\pos(782,573.3)\1a&HC0&\org(777,555)\fry-0.04\frx-0.74\frz-1.73\fax-0.08\clip(m 606 179 l 841 186 793 602 562 595)\b0\alpha&HC0&}Concluded
+Dialogue: 1,0:07:29.01,0:07:29.09,Sign,,0,0,0,,{\an6\fs32\fnBrianne's hand\c&H0F1212&\blur0.8\pos(782,573.3)\1a&H14&\org(777,555)\fry-0.04\frx-0.74\frz-1.73\fax-0.08\clip(m 606 179 l 841 186 793 602 562 595)\b0}Concluded
+Dialogue: 0,0:07:29.09,0:07:29.76,Sign,,0,0,0,,{\an6\fs36\fnBrianne's hand\c&H0F1212&\blur5\pos(741.4,493.6)\1a&HC0&\b0\alpha&HC0&}Deliberation
 Dialogue: 1,0:07:29.09,0:07:29.76,Sign,,0,0,0,,{\an6\fs36\fnBrianne's hand\c&H0F1212&\blur0.8\pos(741.4,493.6)\1a&H14&\b0}Deliberation
-Dialogue: 0,0:07:29.01,0:07:29.09,Sign,,0,0,0,,{\an6\fs32\fnBrianne's hand\c&H0F1212&\blur0.8\pos(782,573.3)\1a&H14&\org(777,555)\fry-0.04\frx-0.74\frz-1.73\fax-0.08\clip(m 606 179 l 841 186 793 602 562 595)\b0}Concluded
+Dialogue: 0,0:07:29.09,0:07:29.76,Sign,,0,0,0,,{\an6\fs36\fnBrianne's hand\c&H0F1212&\blur5\pos(741.4,529.6)\1a&HC0&\b0\alpha&HC0&}Concluded
 Dialogue: 1,0:07:29.09,0:07:29.76,Sign,,0,0,0,,{\an6\fs36\fnBrianne's hand\c&H0F1212&\blur0.8\pos(741.4,529.6)\1a&H14&\b0}Concluded
 Comment: 0,0:10:55.17,0:11:05.14,Sign,,0,0,0,,{\an7\blur0.7\bord0\shad0\fscx100\fscy100\pos(256.7,39.7)\p1\c&HFBF6E2&\fs48}m -232 -16.625 l 274.625 -16.625 274.625 72 -232 72
 Comment: 0,0:10:55.17,0:11:05.14,Sign,,0,0,0,,{\an7\blur0.7\bord0\shad0\fscx100\fscy100\pos(256.7,39.7)\p1\c&HECE8D2&\fs48}m -232 -16.625 l 274.625 -16.625 274.625 72 -232 72
@@ -729,13 +743,13 @@ Dialogue: 1,0:13:03.13,0:13:04.13,Sign,,0,0,0,,{\pos(646,198.7)\fnBrushstroke 35
 Dialogue: 2,0:13:03.13,0:13:04.13,Sign,,0,0,0,,{\pos(646,198.7)\fnBrushstroke 35\fs80\c&H2E2C15&\1a&H28&\blur1.3\q2\b0}Number 64: Unlucky
 Dialogue: 0,0:13:15.02,0:13:15.10,Sign,,0,0,0,,{\an7\blur0.7\pos(0,1)\c&HE4E4E3&\fs48\p1}m 425.375 660 l 850.625 660 850.625 720 425.375 720
 Dialogue: 1,0:13:15.02,0:13:15.10,Sign,,0,0,0,,{\pos(641.3,693.3)\frz0.313\fnBrushstroke 35\fs45\c&H302F17&\1a&H28&\blur1.3\q2\b0}Number 49: Very Bad Luck
-Dialogue: 1,0:13:15.02,0:13:15.10,Sign,,0,0,0,,{\pos(641.3,693.3)\frz0.313\fnBrushstroke 35\fs45\c&H302F17&\1a&H28&\blur0.5\q2\b0}Number 49: Very Bad Luck
+Dialogue: 2,0:13:15.02,0:13:15.10,Sign,,0,0,0,,{\pos(641.3,693.3)\frz0.313\fnBrushstroke 35\fs45\c&H302F17&\1a&H28&\blur0.5\q2\b0}Number 49: Very Bad Luck
 Dialogue: 0,0:13:15.10,0:13:15.19,Sign,,0,0,0,,{\an7\blur0.7\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HE4E4E3&\fs48}m 424 529.375 l 862.625 529.375 862.625 593.375 424 593.375
 Dialogue: 1,0:13:15.10,0:13:15.19,Sign,,0,0,0,,{\pos(641.3,558.7)\frz0.313\fnBrushstroke 35\fs45\c&H302F17&\1a&H28&\blur1.3\q2\b0}Number 49: Very Bad Luck
-Dialogue: 1,0:13:15.10,0:13:15.19,Sign,,0,0,0,,{\pos(641.3,558.7)\frz0.313\fnBrushstroke 35\fs45\c&H302F17&\1a&H28&\blur0.5\q2\b0}Number 49: Very Bad Luck
+Dialogue: 2,0:13:15.10,0:13:15.19,Sign,,0,0,0,,{\pos(641.3,558.7)\frz0.313\fnBrushstroke 35\fs45\c&H302F17&\1a&H28&\blur0.5\q2\b0}Number 49: Very Bad Luck
 Dialogue: 0,0:13:15.19,0:13:15.89,Sign,,0,0,0,,{\an7\blur0.7\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HE3E3E2&\fs48}m 424 464 l 860 464 860 528 424 528
 Dialogue: 1,0:13:15.19,0:13:15.89,Sign,,0,0,0,,{\pos(641.3,492)\frz0.313\fnBrushstroke 35\fs45\c&H302F17&\1a&H28&\blur1.3\q2\b0}Number 49: Very Bad Luck
-Dialogue: 1,0:13:15.19,0:13:15.89,Sign,,0,0,0,,{\pos(641.3,492)\frz0.313\fnBrushstroke 35\fs45\c&H302F17&\1a&H28&\blur0.5\q2\b0}Number 49: Very Bad Luck
+Dialogue: 2,0:13:15.19,0:13:15.89,Sign,,0,0,0,,{\pos(641.3,492)\frz0.313\fnBrushstroke 35\fs45\c&H302F17&\1a&H28&\blur0.5\q2\b0}Number 49: Very Bad Luck
 Dialogue: 0,0:13:52.43,0:13:53.39,Sign,,0,0,0,,{\c&HFEFEFE&\p1}m 0 0 l 1280 0 1280 720 0 720
 Dialogue: 1,0:13:52.43,0:13:52.51,Sign,,0,0,0,,{\pos(634,347.3)\fnBrush455 BT\fs467\b0\c&H000000&\blur1.3\q2}Very
 Dialogue: 2,0:13:52.43,0:13:52.51,Sign,,0,0,0,,{\pos(634,347.3)\fnBrush455 BT\fs467\b0\c&H212009&\4a&HFF&\blur1.3\q2}Very
@@ -929,7 +943,7 @@ Dialogue: 0,0:20:51.02,0:20:52.98,Sign,,0,0,0,,{\clip(141,358,1099,359)\pos(624,
 Dialogue: 0,0:20:51.02,0:20:52.98,Sign,,0,0,0,,{\clip(141,359,1099,360)\pos(624,280.5)\an7\blur0.7\bord0\shad0\fscx100\fscy100\p1\c&HBDC1BE&\fs48}m -478.625 -87.375 l 471.375 -87.375 471.375 78.625 -478.625 78.625
 Dialogue: 0,0:20:51.02,0:20:52.98,Sign,,0,0,0,,{\clip(141,360,1099,361)\pos(624,280.5)\an7\blur0.7\bord0\shad0\fscx100\fscy100\p1\c&HBDC1BE&\fs48}m -478.625 -87.375 l 471.375 -87.375 471.375 78.625 -478.625 78.625
 Dialogue: 1,0:20:51.02,0:20:52.98,Sign,,0,0,0,,{\pos(624,281.9)\fscx90\fnBrush-Hyouka\fs53\c&H1C1E1E&\blur1.3\b0}World{\fsp-16.7}'s  {\fsp0} {\c&H202222&}F{\c&H242627&}i{\c&H232526&}r{\c&H222424&}s{\c&H202223&}t {\c&H1E2021&}R{\c&H1C1E20&}a{\c&H1B1D1E&}k{\c&H1A1C1D&}u{\c&H1B1E1F&}g{\c&H1D1F20&}o {\c&H202224&}D{\c&H212426&}a{\c&H222527&}n{\c&H242629&}c{\c&H25282B&}e {\c&H282B2E&}T{\c&H282A2D&}h{\c&H272A2D&}e{\c&H26292C&}a{\c&H26282B&}tr{\c&H25272A&}e!
-Dialogue: 1,0:20:51.02,0:20:52.98,Sign,,0,0,0,,{\pos(624,281.9)\fscx90\fnBrush-Hyouka\fs53\c&H1C1E1E&\blur0.7\b0}World{\fsp-16.7}'s  {\fsp0} {\c&H202222&}F{\c&H242627&}i{\c&H232526&}r{\c&H222424&}s{\c&H202223&}t {\c&H1E2021&}R{\c&H1C1E20&}a{\c&H1B1D1E&}k{\c&H1A1C1D&}u{\c&H1B1E1F&}g{\c&H1D1F20&}o {\c&H202224&}D{\c&H212426&}a{\c&H222527&}n{\c&H242629&}c{\c&H25282B&}e {\c&H282B2E&}T{\c&H282A2D&}h{\c&H272A2D&}e{\c&H26292C&}a{\c&H26282B&}tr{\c&H25272A&}e!
+Dialogue: 2,0:20:51.02,0:20:52.98,Sign,,0,0,0,,{\pos(624,281.9)\fscx90\fnBrush-Hyouka\fs53\c&H1C1E1E&\blur0.7\b0}World{\fsp-16.7}'s  {\fsp0} {\c&H202222&}F{\c&H242627&}i{\c&H232526&}r{\c&H222424&}s{\c&H202223&}t {\c&H1E2021&}R{\c&H1C1E20&}a{\c&H1B1D1E&}k{\c&H1A1C1D&}u{\c&H1B1E1F&}g{\c&H1D1F20&}o {\c&H202224&}D{\c&H212426&}a{\c&H222527&}n{\c&H242629&}c{\c&H25282B&}e {\c&H282B2E&}T{\c&H282A2D&}h{\c&H272A2D&}e{\c&H26292C&}a{\c&H26282B&}tr{\c&H25272A&}e!
 Dialogue: 0,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1041,103)\p1\c&H3C598E&\bord2\3c&H042142&\fs48}m -126 -101 l -118 -101 -118 -49 -126 -49
 Dialogue: 1,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1041,94)\c&H042142&\p1\clip(914.667,2.667,923.556,47.111)\fs48}m -128 -93 l -117 -84 -117 -81 -128 -89
 Dialogue: 1,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1041,103)\p1\c&H042142&\clip(914.667,2.667,923.556,47.111)\fs48}m -128 -93 l -117 -84 -117 -81 -128 -89
@@ -942,11 +956,10 @@ Dialogue: 1,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\f
 Dialogue: 1,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1305,112)\c&H042142&\p1\fs48}m -128 -93 l -117 -84 -117 -81 -128 -89
 Dialogue: 1,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1305,121)\c&H042142&\p1\fs48}m -128 -93 l -117 -84 -117 -81 -128 -89
 Dialogue: 1,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1305,129)\c&H042142&\p1\fs48}m -128 -93 l -117 -84 -117 -81 -128 -89
-Dialogue: 2,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\pos(1041,103)\fscx740\fscy220\fnFansub Block\bord6\1a&HFE&\blur1\b1}A
+Dialogue: 2,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\blur1\an7\p1\pos(870,48)\c&H000000&\3c&H000000&\bord6\fscx355\fscy109}m 0 0 l 100 0 100 100 0 100
 Dialogue: 3,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\pos(1045,103)\fscx175\fscy58\fnPeoni Patterns\fs200\c&H2A5789&\3c&H12243E&\blur1\b1}o
-Dialogue: 4,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\pos(1041,103)\fscx700\fscy200\fnFansub Block\bord4\3c&H202831&\blur0.7\b1}A
-Dialogue: 4,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\pos(1041,103)\fscx700\fscy200\fnFansub Block\bord4\3c&H202831&\blur0.7\b1}A
-Dialogue: 5,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\pos(1041,103)\fscx700\fscy200\fnFansub Block\bord2\3c&H202831&\blur0.7\b1}A
+Dialogue: 4,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\blur1\an7\p1\pos(879,53)\c&H202831&\3c&H202831&\bord4\fscx337\fscy98}m 0 0 l 100 0 100 100 0 100
+Dialogue: 5,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\blur0.8\an7\p1\pos(879,53)\fscx337\fscy98}m 0 0 l 100 0 100 100 0 100
 Dialogue: 6,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\pos(1007,95)\frz3.896\fnBrush-Hyouka\fs40\b0\c&H000000&\blur1.4}Raku-street
 Dialogue: 7,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\pos(1007,95)\frz3.896\fnBrush-Hyouka\fs40\b0\c&H000000&\4a&HFF&\blur0.9}Raku-street
 Dialogue: 6,0:20:52.98,0:20:53.98,Sign,,0,0,0,,{\pos(1139,123)\frz3.896\fnBrush-Hyouka\fs40\b0\c&H000000&\blur1.4}Girls
