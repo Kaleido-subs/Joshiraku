@@ -65,7 +65,8 @@ Dialogue: 0,0:05:25.30,0:05:29.73,Sign,,0,0,0,,{\fs20\c&H22282B&\pos(640,376)}Ne
 Dialogue: 0,0:06:02.05,0:06:03.80,Sign,,0,0,0,,{\fs20\c&H22282B&\pos(782.67,465.33)}New Years' Money
 Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,,{\pos(1036,57)\an7\fs48}Y*Su
 Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,,{\pos(102,266)\an7\fs48}Koji K*m*ta
-Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\pos(563,259)\an7\fs32}1 Share Certificate
+Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\pos(640,298)\fs24}Central Japan Railway Company
+Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\pos(640,334)\fs32}1 Share Certificate
 Dialogue: 0,0:11:16.20,0:11:17.16,Sign,,0,0,0,,{\pos(179,280)\an7\fs48}Mongolian
 Dialogue: 0,0:11:16.20,0:11:17.16,Sign,,0,0,0,,{\pos(179,331)\an7\fs48}Blue Spot
 Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,,{\pos(537,57)\an7\fs63}LAMPREY
