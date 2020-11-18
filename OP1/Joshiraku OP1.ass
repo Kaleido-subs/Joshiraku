@@ -47,7 +47,7 @@ Comment: 0,0:00:45.85,0:00:48.69,OP1,eng,0,0,0,kara,Oh whatever, who cares anywa
 Comment: 0,0:00:48.69,0:00:51.57,OP1,eng,0,0,0,kara,Okay, everybody
 Comment: 0,0:00:51.73,0:00:53.82,OP1,eng,0,0,0,kara,Let's get on with it!
 Comment: 0,0:00:55.11,0:00:57.57,OP1,eng,0,0,0,kara,Turn the front on its head, spin it around
-Comment: 0,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,kara,Having twists and turns in a tale's alright
+Comment: 0,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,kara,Having twists and turns in a tale is okay
 Comment: 0,0:01:00.16,0:01:01.20,OP1,eng,0,0,0,kara,"Let's go on ahead!"
 Comment: 0,0:01:01.20,0:01:02.58,OP1,eng,0,0,0,kara,"Ladies first!"
 Comment: 0,0:01:02.62,0:01:05.34,OP1,eng,0,0,0,kara,Thanks for everything so far and all that is to come!
@@ -61,7 +61,7 @@ Comment: 0,0:01:17.72,0:01:19.05,OP1,eng,0,0,0,kara,Here we go!
 Comment: 0,0:01:19.05,0:01:20.77,OP1,eng,0,0,0,kara,Ready for some divine comedy?
 Comment: 0,0:01:20.77,0:01:23.06,OP1,eng,0,0,0,kara,Twing-twang, twing-twang-twang
 Comment: 0,0:00:00.52,0:00:02.73,OP1,rom,0,0,0,kara,oato ga mata yoroshikute
-Comment: 0,0:00:03.06,0:00:05.52,OP1,rom,0,0,0,kara,osaki mo mae mo yoroshiku ne
+Comment: 0,0:00:02.98,0:00:05.52,OP1,rom,0,0,0,kara,osaki mo mae mo yoroshiku ne
 Comment: 0,0:00:10.90,0:00:13.28,OP1,rom,0,0,0,kara,jounai manjou
 Comment: 0,0:00:17.24,0:00:19.58,OP1,rom,0,0,0,kara,nazotoki dokidoki shinan
 Comment: 0,0:00:19.74,0:00:22.12,OP1,rom,0,0,0,kara,shikake ga ariari desu
@@ -1753,33 +1753,24 @@ Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&
 Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(625.48,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}e
 Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(625.48,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}e
 Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(625.48,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}e
-Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(639.98,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}'
-Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(639.98,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}'
-Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(639.98,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}'
-Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(653.53,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}s
-Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(653.53,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}s
-Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(653.53,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}s
-Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(686.40,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}a
-Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(686.40,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}a
-Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(686.40,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}a
-Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(703.42,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}l
-Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(703.42,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}l
-Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(703.42,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}l
-Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(717.59,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}r
-Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(717.59,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}r
-Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(717.59,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}r
-Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(732.12,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}i
-Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(732.12,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}i
-Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(732.12,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}i
-Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(749.24,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}g
-Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(749.24,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}g
-Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(749.24,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}g
-Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(771.35,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}h
-Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(771.35,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}h
-Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(771.35,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}h
-Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(789.59,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}t
-Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(789.59,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}t
-Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(789.59,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}t
+Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(654.09,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}i
+Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(654.09,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}i
+Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(654.09,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}i
+Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(669.27,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}s
+Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(669.27,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}s
+Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(669.27,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}s
+Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(701.84,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}o
+Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(701.84,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}o
+Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(701.84,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}o
+Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(723.13,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}k
+Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(723.13,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}k
+Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(723.13,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}k
+Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(744.73,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}a
+Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(744.73,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}a
+Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(744.73,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}a
+Dialogue: 7,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(765.36,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}y
+Dialogue: 6,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(765.36,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}y
+Dialogue: 5,0:00:57.57,0:01:00.16,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(765.36,666.00)\fry-80\t(0,200,\fry0)\t(2190,2590,\fry270)}y
 Dialogue: 7,0:01:00.16,0:01:01.20,OP1,eng,0,0,0,fx,{\bord0\blur0.65\an5\pos(52.45,666.00)\fry-80\t(0,200,\fry0)\t(640,1040,\fry270)}"
 Dialogue: 6,0:01:00.16,0:01:01.20,OP1,eng,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(52.45,666.00)\fry-80\t(0,200,\fry0)\t(640,1040,\fry270)}"
 Dialogue: 5,0:01:00.16,0:01:01.20,OP1,eng,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(52.45,666.00)\fry-80\t(0,200,\fry0)\t(640,1040,\fry270)}"
