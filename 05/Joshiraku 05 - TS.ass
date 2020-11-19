@@ -16,10 +16,11 @@ Original Timing: gsk_
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: JoshirakuBD_05 (Premux).mkv
-Video File: JoshirakuBD_05 (Premux).mkv
+Audio File: JoshirakuBD_05v2 (Premux).mkv
+Video File: JoshirakuBD_05v2 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,33 +29,31 @@ Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:43.45,0:01:45.46,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:01:43.45,0:01:45.46,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Praise the Girl
+Dialogue: 1,0:01:43.45,0:01:45.46,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Praise the Girl
 Dialogue: 0,0:08:47.38,0:08:49.38,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:08:47.38,0:08:49.38,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Trendy Town
+Dialogue: 1,0:08:47.38,0:08:49.38,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Trendy Town
 Dialogue: 0,0:15:21.23,0:15:23.23,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:15:21.23,0:15:23.23,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}A Farewell to Glasses
+Dialogue: 1,0:15:21.23,0:15:23.23,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}A Farewell to Glasses
 Dialogue: 0,0:23:39.98,0:23:43.23,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:23:39.98,0:23:43.23,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs144\2a&HFF&\blur0.8}Next Time
+Dialogue: 1,0:23:39.98,0:23:43.23,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs144\2a&HFF&\blur0.6}Next Time
 Dialogue: 0,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,240)}① {\an4\fnGaramond Premr Pro Smbd Capt}All Four One
-Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}Seven Wonders of Musashi
-Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Servant's Revenge
+Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,240)}① {\an4\fnGaramond Premr Pro Smbd Capt}All Four One
+Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}Seven Wonders of Musashi
+Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Servant's Revenge
 Dialogue: 1,0:08:36.45,0:08:38.95,Sign,,0,0,0,midcard,{\pos(954.67,508)\frz345.6\fnBrushStroke 35\fs66.67\b0\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 1,0:08:36.45,0:08:38.95,Sign,,0,0,0,midcard,{\pos(954.67,508)\frz345.6\fnBrushStroke 35\fs66.67\b0\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 1,0:15:09.42,0:15:11.93,Sign,,0,0,0,midcard,{\pos(230.67,561.33)\frz23.19\fnBrushStroke 35\fs66.67\b0\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 1,0:15:09.42,0:15:11.93,Sign,,0,0,0,midcard,{\pos(230.67,561.33)\frz23.19\fnBrushStroke 35\fs66.67\b0\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\an7\blur0.6\bord0\shad0\fscx100\fscy100\pos(529.7,642.222)\c&HE0E6E8&\p1\clip(m 513 533 l 526 527 531 588 534 625 534 641 510 641)}m -16 -1 l 6 -2 5 -17 6 -32 5 -42 5 -50 4 -59 4 -66 3 -74 2 -81 2 -87 2 -93 1 -102 0 -109 -10 -111
-Dialogue: 1,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\pos(527.114,587.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
-Dialogue: 1,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\pos(527.114,587.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 1,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\pos(527.114,587.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H424C52&\blur5\clip(m 513 533 l 526 527 531 588 534 625 534 641 510 641)\alpha&H80&}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 2,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\pos(527.114,587.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H424C52&\blur0.8\clip(m 513 533 l 526 527 531 588 534 625 534 641 510 641)}N \No \N\NR \Nu \Nb \Ns \N!
 Dialogue: 0,0:02:53.40,0:02:53.48,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(-1,1)\c&HE4EBF0&\p1\clip(m 535 605 l 534 627 534 645 551 643 552 611)}m 533 637 l 533 624 532 610 543 610 544 639
-Dialogue: 1,0:02:53.40,0:02:53.48,Sign,,0,0,0,,{\pos(527.114,587.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
-Dialogue: 1,0:02:53.40,0:02:53.48,Sign,,0,0,0,,{\pos(527.114,587.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
-Dialogue: 0,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HE3EBF0&\clip(m 524 642 l 524 591 525 548 528 519 549 521 550 637)}m 528 523 l 538 526 549 634 523 637 523 605 525 560 525 536
-Dialogue: 1,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\pos(530.114,583.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
-Dialogue: 1,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\pos(530.114,583.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 0,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HE3EBF0&\clip(m 525.46 642.73 l 524.65 620 524.73 591 526.33 548 527.4 531.9 528.67 519 549 521 550 637)}m 528 523 l 538 526 549 634 523 637 523 605 525 560 525 536
+Dialogue: 1,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\pos(530.114,583.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H424C52&\blur5\alpha&H80&}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 2,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\pos(530.114,583.365)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H424C52&\blur0.8}N \No \N\NR \Nu \Nb \Ns \N!
 Dialogue: 0,0:02:53.56,0:02:53.65,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HE4EBF0&\clip(m 520 639 l 518 621 520 582 520 547 522 525 545 527 546 642)}m 522 521 l 539 525 541 637 519 633 518 603 520 573 520 552 520 536
-Dialogue: 1,0:02:53.56,0:02:57.40,Sign,,0,0,0,,{\pos(528.828,583.032)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
-Dialogue: 1,0:02:53.56,0:02:57.40,Sign,,0,0,0,,{\pos(528.828,583.032)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H000000&\1a&HA0&\blur0.6}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 1,0:02:53.56,0:02:57.40,Sign,,0,0,0,,{\pos(528.828,583.032)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H424C52&\blur5\alpha&H80&}N \No \N\NR \Nu \Nb \Ns \N!
+Dialogue: 2,0:02:53.56,0:02:57.40,Sign,,0,0,0,,{\pos(528.828,583.032)\org(527.4,633.4)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs16\c&H424C52&\blur0.8}N \No \N\NR \Nu \Nb \Ns \N!
 Dialogue: 0,0:02:53.65,0:02:57.40,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HE2E9EE&}m 518 520 l 539 520 547 636 515 632
 Dialogue: 0,0:04:36.54,0:04:37.17,Sign,,0,0,0,,{\pos(307,425)\fnHeiseiMinchoW9-AnoHana\fs67.2\bord3\1c&HF3F7F9&\3c&HF3F7F9&\3a&H40&\blur2}Boozing
 Dialogue: 1,0:04:36.54,0:04:37.17,Sign,,0,0,0,,{\pos(307,425)\fnHeiseiMinchoW9-AnoHana\fs67.2\bord3\1c&HF3F7F9&\3c&HF3F7F9&\blur0.8}Boozing
@@ -89,8 +88,8 @@ Dialogue: 3,0:11:29.66,0:11:31.62,Sign,,0,0,0,,{\q2\an4\fs54\bord0\fscx140\fscy2
 Dialogue: 2,0:11:29.66,0:11:31.62,Sign,,0,0,0,,{\pos(770.665,343.004)\fnGrain\fs32\c&H111314&\blur0.6\clip(m 230 578 l 1054 500 1054 285 234 71)}XZXUIDCTJMYAVDQIVICXNHZTJDPRKSOXVFGVIHGK\NSHCYDYTCTBCLKKXEHVQLSYVTPACGTQPSBQLAKZIS\NLYVDCOPDTEVECGLYFWBSDUGMEFPHDJKQBSMKYMF\NPKEMQNVHYZSXIXPWKZYLIEGAHPMYDRUNGKHSESVJ\NGDPXBXAKKGRGTHRFYUDMWDTUOFATDXKSVMTBMVPTPIGKTCCRTULNROWTXYHP\NUBTKWQEEHOHVPBCVGPOXWIZTVPZGMTQGFCYFCUFW\NGFRTNOYDJXRIMITSQDCJHSZGHMHDSCWYTMXGWLJB\NVSSYWFBRPSIRECXYXJTYDYYDSODSHGWSQUQOXVIP\NCFMOXHVOEVCEGPDPUFODBSYCDHBMUUWMMDXWHELI\NMQLKDBPMTZWIWEUMTCYTPIGKTCCRTULNROWTXYHPUBTKWQEEHOHVPBCVGPOX\NWIZTVPZGMTQGFCYFCUFWGFRTNOYDJXRIMITSQDCJHSZGHMHDSCWYTMXGWLJB\NVSSYWFBRPSIRECXYXJTYDYYDSODSHGWSQUQOXVIPCFMOXHVOEVCEGPDPUFODBSYCDHBMUUWMMDXWHELIHVWLZLLUTRCXDKARVBVH\NZWPDMFBPVQWFXAEFKFWXKYFRNEGMYOTPIMPBOIQZPAEGLYBUPOJPFMMLKDKW\NEPEXEQQBBQOTANCHINGUAHXTUCGUZNSHWNEMJJPG\NMJWIJUNWWQRJXANNUBHYGWNTGMZZERAWUYXDMVJS\NGHMGDEHZEBMTDKRPAKWADATQIPMBNXLHSZJBTQRJ
 Dialogue: 1,0:11:29.66,0:11:31.62,Sign,,0,0,0,,{\an7\blur4\bord0\shad0\fscx100\fscy100\pos(378.666,351.002)\p1\c&H121616&}m -125 -246 l 662 -56 680 132 -121 179
 Dialogue: 2,0:11:39.80,0:11:42.89,Sign,,0,0,0,,{\fnMaximum Impact\fs80\c&H000000&\blur0.7\t(2200,2500,\blur10)}she sells seashells
-Dialogue: 2,0:11:42.09,0:11:42.89,Sign,,0,0,0,,{\fad(100,0)\fscx200\fscy200\fnMaximum Impact\fs80\c&H0000FF&\1a&H80&\blur3\t(0,200,\fscx100\fscy100\blur0.7)}chevrolet sushi hell
-Dialogue: 2,0:11:42.09,0:11:42.89,Sign,,0,0,0,,{\fad(100,0)\fscx200\fscy200\fnMaximum Impact\fs80\c&H0000FF&\blur3\t(0,200,\fscx100\fscy100\blur0.7)}chevrolet sushi hell
+Dialogue: 2,0:11:42.09,0:11:42.89,Sign,,0,0,0,,{\fad(100,0)\fscx200\fscy200\fnMaximum Impact\fs80\c&H0000FF&\1a&H80&\blur3\t(0,200,\fscx100\fscy100\blur0.8)}chevrolet sushi hell
+Dialogue: 2,0:11:42.09,0:11:42.89,Sign,,0,0,0,,{\fad(100,0)\fscx200\fscy200\fnMaximum Impact\fs80\c&H0000FF&\blur3\t(0,200,\fscx100\fscy100\blur0.8)}chevrolet sushi hell
 Dialogue: 1,0:11:41.76,0:11:41.84,Sign,,0,0,0,,{\fscx120\fs800\c&H0000FF&\1a&HDC&\blur4}X
 Dialogue: 1,0:11:41.93,0:11:42.01,Sign,,0,0,0,,{\fscx120\fs800\c&H0000FF&\1a&HDC&\blur4}X
 Dialogue: 1,0:11:42.09,0:11:42.18,Sign,,0,0,0,,{\fscx120\fs800\c&H0000FF&\1a&HDC&\blur4}X
@@ -101,8 +100,8 @@ Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\f
 Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\fnLucida Handwriting\fs56\i1\blur20\t(100,400,\c&H0F1BBD&\blur4)}{\fscx500}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
 Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\fnLucida Handwriting\fs56\i1\blur20\t(100,400,\c&H0F1BBD&\blur4)}{\fscx500}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
 Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\fnLucida Handwriting\fs56\i1\3c&H060A10&\t(100,400,\c&H0F1BBD&\1a&HC8&\blur3\bord2)}{\fscx500}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
-Dialogue: 1,0:12:18.34,0:12:20.80,Sign,,0,0,0,,{\pos(737.332,578.667)\org(688,560)\fscy130\frz3.469\fry5.84\frx1.03\fax0.09\fnGill Sans MT\fs16\c&H333945&\1a&H50&\blur1.5}Custard Chocolate Special
-Dialogue: 1,0:12:18.34,0:12:20.80,Sign,,0,0,0,,{\pos(737.332,578.667)\org(688,560)\fscy130\frz3.469\fry5.84\frx1.03\fax0.09\fnGill Sans MT\fs16\c&H333945&\1a&H28&\blur0.6}Custard Chocolate Special
+Dialogue: 1,0:12:18.34,0:12:20.80,Sign,,0,0,0,,{\fscx95\fscy130\fnGill Sans MT\fs16\fax0.12\c&H333945&\blur4\frz4.6\pos(728,574.67)\alpha&HC0&}C{\fs15.96}u{\fs15.92}s{\fs15.88}t{\fs15.83}a{\fs15.79}r{\fs15.75}d{\fs15.71} {\fs15.67}C{\fs15.63}h{\fs15.58}o{\fs15.54}c{\fs15.5}o{\fs15.46}l{\fs15.42}a{\fs15.38}t{\fs15.33}e{\fs15.29} {\fs15.25}S{\fs15.21}p{\fs15.17}e{\fs15.13}c{\fs15.08}i{\fs15.04}a{\fs15}l
+Dialogue: 2,0:12:18.34,0:12:20.80,Sign,,0,0,0,,{\fscx95\fscy130\fnGill Sans MT\fs16\fax0.12\c&H333945&\blur0.9\frz4.6\pos(728,574.67)}C{\fs15.96}u{\fs15.92}s{\fs15.88}t{\fs15.83}a{\fs15.79}r{\fs15.75}d{\fs15.71} {\fs15.67}C{\fs15.63}h{\fs15.58}o{\fs15.54}c{\fs15.5}o{\fs15.46}l{\fs15.42}a{\fs15.38}t{\fs15.33}e{\fs15.29} {\fs15.25}S{\fs15.21}p{\fs15.17}e{\fs15.13}c{\fs15.08}i{\fs15.04}a{\fs15}l
 Dialogue: 0,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\blur0.4\bord1.6\shad0\fscx100\fscy100\pos(951.999,195.43)\p1\c&H5B4AE7&\3c&H1700C6&}m 64 103 b 62 97 64 85 65 79 82 73 105 59 114 52 121 44 134 36 142 23 144 19 150 9 149 3 148 -5 147 -18 142 -29 132 -44 121 -54 106 -63 88 -73 70 -78 53 -81 32 -85 7 -87 -16 -86 -39 -83 -53 -81 -75 -74 -91 -70 -110 -61 -126 -51 -134 -43 -150 -32 -158 -17 -162 -11 -166 2 -166 10 -164 40 -151 66 -96 80 -65 88 -1 96 37 88
 Dialogue: 1,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(951.999,195.43)\p1\c&H5B4AE7&}m 64 103 b 62 97 64 85 65 79 82 73 105 59 114 52 121 44 134 36 142 23 144 19 150 9 149 3 148 -5 147 -18 142 -29 132 -44 121 -54 106 -63 88 -73 70 -78 53 -81 32 -85 7 -87 -16 -86 -39 -83 -53 -81 -75 -74 -91 -70 -110 -61 -126 -51 -134 -43 -150 -32 -158 -17 -162 -11 -166 2 -166 10 -164 40 -151 66 -96 80 -65 88 -1 96 37 88
 Dialogue: 2,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\blur1\bord2\shad0\fscx100\fscy100\pos(946.999,197.43)\3c&H1700C6&\p1}m 57 81 b 58 77 60 68 62 65 70 64 92 55 99 49 111 41 123 26 130 17 133 9 137 -6 136 -15 134 -25 125 -34 121 -41 107 -51 91 -59 81 -65 66 -71 46 -73 34 -76 16 -79 -4 -79 -22 -76 -53 -71 -83 -61 -110 -42 -135 -23 -140 -4 -142 9 -142 24 -138 33 -132 41 -126 46 -117 53 -108 56 -60 72 -8 77 42 74
@@ -399,134 +398,45 @@ Dialogue: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(640,580)\frx12\fnMachine Gu
 Dialogue: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(640,580)\frx12\fnMachine Gunk\bord3\3c&H0667FF&\1a&HFF&\blur0.6\clip(436,622,840,623)}Skin Arrangers \NDry-T-Zone Morphin'
 Dialogue: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(640,580)\frx12\fnMachine Gunk\bord3\3c&H0665FF&\1a&HFF&\blur0.6\clip(436,623,840,624)}Skin Arrangers \NDry-T-Zone Morphin'
 Dialogue: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(640,580)\frx12\fnMachine Gunk\bord3\3c&H0664FF&\1a&HFF&\blur0.6\clip(436,624,840,625)}Skin Arrangers \NDry-T-Zone Morphin'
-Dialogue: 0,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(176,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\c&H111010&\blur0.8}DRY SKIN
-Dialogue: 0,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(176,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\c&H111010&\3c&HD6D6D6&\1a&H80&\blur0.8}DRY SKIN
-Dialogue: 0,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(269.333,609)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur0.8}Tetora Bouhatei
-Dialogue: 0,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(269.333,609)\fnHeisei Maru Gothic Std-CP W8\bord6\c&H111010&\3c&HD6D6D6&\1a&H80&\blur0.4}Tetora Bouhatei
-Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1060,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\c&H111010&\blur0.8}SHARKSKIN
-Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1060,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\c&H111010&\3c&HD6D6D6&\1a&H80&\blur0.8}SHARKSKIN
-Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1002.666,609)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur0.8}Kukuru Anrakutei
-Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1002.666,609)\fnHeisei Maru Gothic Std-CP W8\bord6\c&H111010&\3c&HD6D6D6&\1a&H80&\blur0.4}Kukuru Anrakutei
-Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\pos(293.666,161)\fnHeisei Maru Gothic Std-CP W8\fs64\c&H111010&\blur0.8}SILK SKIN
-Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\pos(293.666,161)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\c&H111010&\3c&HD8D6D5&\1a&H80&\blur0.8}SILK SKIN
-Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\an6\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur0.8\pos(1084.4,634.067)}Kigurumi \NHaroukitei
-Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\an6\fnHeisei Maru Gothic Std-CP W8\bord6\c&H111010&\3c&HDBD6D6&\1a&H80&\blur0.4\pos(1084.4,634.067)}Kigurumi \NHaroukitei
-Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(470.666,113)\fnHeisei Maru Gothic Std-CP W8\fs64\c&H111010&\blur0.8}THIN SKIN
-Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(470.666,113)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\c&H111010&\3c&HD6D6D6&\1a&H80&\blur0.8}THIN SKIN
-Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(1021.333,533)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur0.8}Marii Buratei
-Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(1021.333,533)\fnHeisei Maru Gothic Std-CP W8\bord6\c&H111010&\3c&HD6D6D6&\1a&H80&\blur0.4}Marii Buratei
-Comment: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\pos(574.667,90.333)\c&H00E2FB&\fnLivingstone\\blur1.3}Skin Cream
-Comment: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\pos(574.667,90.333)\c&H03EAFC&\fnLivingstone\\blur1.3}Skin Cream
-Comment: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\pos(574.667,90.333)\c&H03EAFC&\fnLivingstone\1a&HFF&\bord2.6\3c&H084EAE&}Skin Cream
-Comment: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\pos(574.667,90.333)\c&H03EAFC&\fnLivingstone\1a&HFF&\bord2.6\3c&H07347E&}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00E2FB&\blur1.7\clip(420,60,733,61)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00E2FB&\blur1.7\clip(420,61,733,62)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00E2FB&\blur1.7\clip(420,62,733,63)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00E1FB&\blur1.7\clip(420,63,733,64)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00E1FB&\blur1.7\clip(420,64,733,65)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00E1FB&\blur1.7\clip(420,65,733,66)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00E1FB&\blur1.7\clip(420,66,733,67)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00E1FB&\blur1.7\clip(420,67,733,68)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00E0FB&\blur1.7\clip(420,68,733,69)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00E0FB&\blur1.7\clip(420,69,733,70)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00E0FB&\blur1.7\clip(420,70,733,71)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00E0FB&\blur1.7\clip(420,71,733,72)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00E0FB&\blur1.7\clip(420,72,733,73)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00DFFB&\blur1.7\clip(420,73,733,74)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00DFFB&\blur1.7\clip(420,74,733,75)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00DFFB&\blur1.7\clip(420,75,733,76)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00DFFB&\blur1.7\clip(420,76,733,77)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00DFFB&\blur1.7\clip(420,77,733,78)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00DEFB&\blur1.7\clip(420,78,733,79)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00DEFB&\blur1.7\clip(420,79,733,80)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00DEFB&\blur1.7\clip(420,80,733,81)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00DEFB&\blur1.7\clip(420,81,733,82)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00DEFB&\blur1.7\clip(420,82,733,83)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00DDFB&\blur1.7\clip(420,83,733,84)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00DDFB&\blur1.7\clip(420,84,733,85)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H00DDFB&\blur1.7\clip(420,85,733,86)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DDFB&\blur1.7\clip(420,86,733,87)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DDFB&\blur1.7\clip(420,87,733,88)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DDFB&\blur1.7\clip(420,88,733,89)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DCFB&\blur1.7\clip(420,89,733,90)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DCFB&\blur1.7\clip(420,90,733,91)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DCFB&\blur1.7\clip(420,91,733,92)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DCFB&\blur1.7\clip(420,92,733,93)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DCFB&\blur1.7\clip(420,93,733,94)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DBFB&\blur1.7\clip(420,94,733,95)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DBFB&\blur1.7\clip(420,95,733,96)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DBFB&\blur1.7\clip(420,96,733,97)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DBFB&\blur1.7\clip(420,97,733,98)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DBFB&\blur1.7\clip(420,98,733,99)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DAFB&\blur1.7\clip(420,99,733,100)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DAFB&\blur1.7\clip(420,100,733,101)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DAFB&\blur1.7\clip(420,101,733,102)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DAFB&\blur1.7\clip(420,102,733,103)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01DAFB&\blur1.7\clip(420,103,733,104)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01D9FB&\blur1.7\clip(420,104,733,105)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01D9FB&\blur1.7\clip(420,105,733,106)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01D9FB&\blur1.7\clip(420,106,733,107)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01D9FB&\blur1.7\clip(420,107,733,108)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01D9FB&\blur1.7\clip(420,108,733,109)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01D8FB&\blur1.7\clip(420,109,733,110)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01D8FB&\blur1.7\clip(420,110,733,111)}Skin Cream
-Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\c&H01D8FB&\blur1.7\clip(420,111,733,112)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084EAE&\1a&HFF&\blur1.3\clip(420,57,734,58)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084EAD&\1a&HFF&\blur1.3\clip(420,58,734,59)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084DAC&\1a&HFF&\blur1.3\clip(420,59,734,60)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084DAB&\1a&HFF&\blur1.3\clip(420,60,734,61)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084CAB&\1a&HFF&\blur1.3\clip(420,61,734,62)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084CAA&\1a&HFF&\blur1.3\clip(420,62,734,63)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084BA9&\1a&HFF&\blur1.3\clip(420,63,734,64)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084BA8&\1a&HFF&\blur1.3\clip(420,64,734,65)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084AA7&\1a&HFF&\blur1.3\clip(420,65,734,66)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084AA6&\1a&HFF&\blur1.3\clip(420,66,734,67)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H0849A6&\1a&HFF&\blur1.3\clip(420,67,734,68)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H0849A5&\1a&HFF&\blur1.3\clip(420,68,734,69)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H0849A4&\1a&HFF&\blur1.3\clip(420,69,734,70)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H0848A3&\1a&HFF&\blur1.3\clip(420,70,734,71)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H0848A2&\1a&HFF&\blur1.3\clip(420,71,734,72)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H0847A1&\1a&HFF&\blur1.3\clip(420,72,734,73)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H0847A1&\1a&HFF&\blur1.3\clip(420,73,734,74)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H0846A0&\1a&HFF&\blur1.3\clip(420,74,734,75)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H08469F&\1a&HFF&\blur1.3\clip(420,75,734,76)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H08459E&\1a&HFF&\blur1.3\clip(420,76,734,77)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H08459D&\1a&HFF&\blur1.3\clip(420,77,734,78)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H08449C&\1a&HFF&\blur1.3\clip(420,78,734,79)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H08449B&\1a&HFF&\blur1.3\clip(420,79,734,80)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H08449B&\1a&HFF&\blur1.3\clip(420,80,734,81)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H08439A&\1a&HFF&\blur1.3\clip(420,81,734,82)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084399&\1a&HFF&\blur1.3\clip(420,82,734,83)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084298&\1a&HFF&\blur1.3\clip(420,83,734,84)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084297&\1a&HFF&\blur1.3\clip(420,84,734,85)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H084196&\1a&HFF&\blur1.3\clip(420,85,734,86)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H074196&\1a&HFF&\blur1.3\clip(420,86,734,87)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H074095&\1a&HFF&\blur1.3\clip(420,87,734,88)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H074094&\1a&HFF&\blur1.3\clip(420,88,734,89)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073F93&\1a&HFF&\blur1.3\clip(420,89,734,90)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073F92&\1a&HFF&\blur1.3\clip(420,90,734,91)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073E91&\1a&HFF&\blur1.3\clip(420,91,734,92)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073E91&\1a&HFF&\blur1.3\clip(420,92,734,93)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073E90&\1a&HFF&\blur1.3\clip(420,93,734,94)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073D8F&\1a&HFF&\blur1.3\clip(420,94,734,95)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073D8E&\1a&HFF&\blur1.3\clip(420,95,734,96)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073C8D&\1a&HFF&\blur1.3\clip(420,96,734,97)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073C8C&\1a&HFF&\blur1.3\clip(420,97,734,98)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073B8B&\1a&HFF&\blur1.3\clip(420,98,734,99)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073B8B&\1a&HFF&\blur1.3\clip(420,99,734,100)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073A8A&\1a&HFF&\blur1.3\clip(420,100,734,101)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073A89&\1a&HFF&\blur1.3\clip(420,101,734,102)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073988&\1a&HFF&\blur1.3\clip(420,102,734,103)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073987&\1a&HFF&\blur1.3\clip(420,103,734,104)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073986&\1a&HFF&\blur1.3\clip(420,104,734,105)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073886&\1a&HFF&\blur1.3\clip(420,105,734,106)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073885&\1a&HFF&\blur1.3\clip(420,106,734,107)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073784&\1a&HFF&\blur1.3\clip(420,107,734,108)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073783&\1a&HFF&\blur1.3\clip(420,108,734,109)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073682&\1a&HFF&\blur1.3\clip(420,109,734,110)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073681&\1a&HFF&\blur1.3\clip(420,110,734,111)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073581&\1a&HFF&\blur1.3\clip(420,111,734,112)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H073580&\1a&HFF&\blur1.3\clip(420,112,734,113)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H07347F&\1a&HFF&\blur1.3\clip(420,113,734,114)}Skin Cream
-Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\bord3.4\c&H03EAFC&\3c&H07347E&\1a&HFF&\blur1.3\clip(420,114,734,115)}Skin Cream
-Dialogue: 0,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(574.667,90.333)\fnLivingstone\fs63\xshad5\c&H03EAFC&\3c&H07347E&\4c&H144774&\1a&HFE&\4a&H00&}Skin Cream
+Dialogue: 1,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(176,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\c&H111010&\blur0.8}DRY SKIN
+Dialogue: 0,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(176,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\c&HD6D6D6&\3c&HD6D6D6&\blur0.8}DRY SKIN
+Dialogue: 1,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(269.333,609)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur0.8}Tetora Bouhatei
+Dialogue: 0,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(269.333,609)\fnHeisei Maru Gothic Std-CP W8\bord6\c&HD6D6D6&\3c&HD6D6D6&\blur0.8}Tetora Bouhatei
+Dialogue: 1,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1060,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\c&H111010&\blur0.8}SHARKSKIN
+Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1060,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\c&HD6D6D6&\3c&HD6D6D6&\blur0.8}SHARKSKIN
+Dialogue: 1,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1002.666,609)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur0.8}Kukuru Anrakutei
+Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1002.666,609)\fnHeisei Maru Gothic Std-CP W8\bord6\c&HD6D6D6&\3c&HD6D6D6&\blur0.8}Kukuru Anrakutei
+Dialogue: 1,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\pos(293.666,161)\fnHeisei Maru Gothic Std-CP W8\fs64\c&H111010&\blur0.8}SILK SKIN
+Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\pos(293.666,161)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\c&HD8D6D5&\3c&HD8D6D5&\blur0.8}SILK SKIN
+Dialogue: 1,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\an6\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur0.8\pos(1084.4,634.067)}Kigurumi \NHaroukitei
+Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\an6\fnHeisei Maru Gothic Std-CP W8\bord6\c&HDBD6D6&\3c&HDBD6D6&\blur0.8\pos(1084.4,634.067)}Kigurumi \NHaroukitei
+Dialogue: 1,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(470.666,113)\fnHeisei Maru Gothic Std-CP W8\fs64\c&H111010&\blur0.8}THIN SKIN
+Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(470.666,113)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\c&HD6D6D6&\3c&HD6D6D6&\blur0.8}THIN SKIN
+Dialogue: 1,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(1021.333,533)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur0.8}Marii Buratei
+Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(1021.333,533)\fnHeisei Maru Gothic Std-CP W8\bord6\c&HD6D6D6&\3c&HD6D6D6&\blur0.8}Marii Buratei
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03EAFC&\clip(414,62,738,64)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03EAFC&\clip(414,64,738,66)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E9FC&\clip(414,66,738,68)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E9FC&\clip(414,68,738,70)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E8FC&\clip(414,70,738,72)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E8FC&\clip(414,72,738,74)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E7FC&\clip(414,74,738,76)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E7FC&\clip(414,76,738,78)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E7FC&\clip(414,78,738,80)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E6FC&\clip(414,80,738,82)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E6FC&\clip(414,82,738,84)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E5FC&\clip(414,84,738,86)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E5FB&\clip(414,86,738,88)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E4FB&\clip(414,88,738,90)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E4FB&\clip(414,90,738,92)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E3FB&\clip(414,92,738,94)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E3FB&\clip(414,94,738,96)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E3FB&\clip(414,96,738,98)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E2FB&\clip(414,98,738,100)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E2FB&\clip(414,100,738,102)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E1FB&\clip(414,102,738,104)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E1FB&\clip(414,104,738,106)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E0FB&\clip(414,106,738,108)}Skin Cream
+Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E0FB&\clip(414,108,738,110)}Skin Cream
+Dialogue: 1,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1\bord2.6\c&H023691&\3c&H023691&}Skin Cream
+Dialogue: 0,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(576.667,91.833)\fnLivingstone\blur1\bord2.6\c&H0A3565&\3c&H0A3565&}Skin Cream
