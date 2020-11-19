@@ -180,7 +180,7 @@ Dialogue: 9,0:08:43.50,0:08:43.54,Default,,0,0,0,,{\pos(712,627)}A chest filled 
 Dialogue: 9,0:08:43.54,0:08:43.59,Default,,0,0,0,,{\pos(734,630)}A chest filled with five hundred won coins!
 Dialogue: 9,0:08:43.59,0:08:43.63,Default,,0,0,0,,{\pos(770,656)}A chest filled with five hundred won coins!
 Dialogue: 9,0:08:43.63,0:08:43.67,Default,,0,0,0,,{\pos(790,699)}A chest filled with five hundred won coins!
-Dialogue: 9,0:08:43.67,0:08:43.71,Default,,0,0,0,,{\pos(835,740)}A chest filled with five hundred won coins!
+Dialogue: 9,0:08:43.67,0:08:43.71,Default,,0,0,0,,{\pos(815,740)}A chest filled with five hundred won coins!
 Dialogue: 10,0:08:43.34,0:08:43.42,Default,,0,0,0,,{\move(584,758,640,680,-1,0)}It's not gonna be in won!
 Dialogue: 10,0:08:43.42,0:08:44.71,Default,,0,0,0,,It's not gonna be in won!
 Dialogue: 10,0:08:44.71,0:08:48.38,Default,,0,0,0,,Well, whatever it is, it's probably not a key. Huh?
@@ -188,7 +188,7 @@ Dialogue: 10,0:08:49.51,0:08:50.38,Default,,0,0,0,,A camera?
 Dialogue: 10,0:08:50.38,0:08:53.76,Default,,0,0,0,,{\q2}Oh, should we say something to \Nthe folks viewing via satellite feed?
 Dialogue: 10,0:08:53.76,0:08:56.18,Default,,0,0,0,,Marii should go last.
 Dialogue: 10,0:08:56.18,0:08:57.68,Default,,0,0,0,,Again?
-Dialogue: 10,0:08:57.68,0:09:00.44,Default,,0,0,0,,The last words are the ones people remember.
+Dialogue: 10,0:08:57.68,0:09:00.44,Default,,0,0,0,,The last words are the ones people remember most.
 Dialogue: 10,0:09:00.44,0:09:02.23,Default,,0,0,0,,R-Really?!
 Dialogue: 10,0:09:04.52,0:09:07.78,Default,,0,0,0,,We wish you all a happy new year!
 Dialogue: 10,0:09:07.78,0:09:09.03,Default,,0,0,0,,Have...
@@ -228,7 +228,7 @@ Dialogue: 10,0:11:12.23,0:11:16.20,Default,,0,0,0,,Nooo! P-Please, no-no-no...
 Dialogue: 10,0:11:18.12,0:11:19.24,Default,,0,0,0,,Stop it!
 Dialogue: 10,0:11:19.24,0:11:21.20,Default,,0,0,0,,Praise be! Thank you!
 Dialogue: 10,0:11:23.16,0:11:27.04,Default,,0,0,0,,Why are there so many animal-themed clothes?
-Dialogue: 10,0:11:27.46,0:11:31.44,Default,,0,0,0,,{\q2}This one with Mount Fuji looks like \Nit'd bring very good luck indeed!
+Dialogue: 10,0:11:27.46,0:11:31.44,Default,,0,0,0,,{\q2}This one with Mt. Fuji looks like \Nit'd bring very good luck indeed!
 Dialogue: 10,0:11:31.44,0:11:34.88,Default,,0,0,0,,{\q2}I bet this T-shirt with Kannon \Non it would bring you fortune!
 Dialogue: 10,0:11:34.88,0:11:37.72,Default,,0,0,0,,{\q2}Gonna buy it? Y'can't take it with you \Ninto the next world, you know!
 Dialogue: 10,0:11:37.72,0:11:38.84,Default,,0,0,0,,Right?
