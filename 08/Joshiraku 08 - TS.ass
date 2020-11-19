@@ -33,12 +33,15 @@ Dialogue: 0,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\
 Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,240)}① {\an4\fnGaramond Premr Pro Smbd Capt}Life's Butt a Comedy
 Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}The Bear of Ueno
 Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Sleep-Talking
-Dialogue: 0,0:08:55.43,0:08:57.93,Sign,,0,0,0,midcard,{\pos(1043.733,250.933)\frz352.8\fnBrushStroke 35\fs66.67\bord1.4\c&H000000&\3c&HE80779&\1a&HFF&\blur4}Rakugo Girls
-Dialogue: 1,0:08:55.43,0:08:57.93,Sign,,0,0,0,midcard,{\pos(1043.733,250.933)\frz352.8\fnBrushStroke 35\fs66.67\c&H000000&\blur0.8}Rakugo Girls
-Dialogue: 0,0:15:20.94,0:15:22.90,Sign,,0,0,0,midcard,{\pos(975.93,581.33)\frz328\fnBrushStroke 35\fs66.67\bord1.6\3c&HF9F9F9&\1a&HC8&\blur2}Rakugo Girls
-Dialogue: 0,0:15:20.94,0:15:22.90,Sign,,0,0,0,midcard,{\pos(975.93,581.33)\frz328\fnBrushStroke 35\fs66.67\bord1.6\3c&HF9F9F9&\1a&HC8&\blur2}Rakugo Girls
-Dialogue: 1,0:15:20.94,0:15:22.90,Sign,,0,0,0,midcard,{\pos(975.93,581.33)\frz328\fnBrushStroke 35\fs66.67\c&HAD701E&\3c&HE80779&\blur0.8\clip(m 818 492 l 1181.33 723.67 1232 646 828 476)}Rakugo Girls
-Dialogue: 1,0:15:20.94,0:15:22.90,Sign,,0,0,0,midcard,{\pos(975.93,581.33)\frz328\fnBrushStroke 35\fs66.67\c&H12BCF3&\3c&HE80779&\blur0.8\iclip(m 818 492 l 1181.33 723.67 1232 646 828 476)}Rakugo Girls
+Dialogue: 0,0:10:10.51,0:10:13.01,Sign,,0,0,0,midcard,{\pos(844.38,486.83)\frz355.1\fnBrushStroke 35\fs62\fsp-2\b0\c&H000000&\blur0.8}Rakugo Girls
+Dialogue: 0,0:10:10.51,0:10:13.01,Sign,,0,0,0,midcard,{\pos(844.38,486.83)\frz355.1\fnBrushStroke 35\fs62\fsp-2\b0\c&H000000&\blur0.8}Rakugo Girls
+Dialogue: 0,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\fscx80\fscy80\c&H010000&\p1\frz348.8\pos(1109.27,250.2)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 1,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\fscx77\fscy70\c&HFFFFFF&\p1\frz348.8\pos(1109.27,250.2)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 2,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\fscx74.6\fscy60\p1\c&H000000&\frz348.8\pos(1109.27,250.2)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 3,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\fscx73.4\fscy54\p1\c&HFFFFFF&\frz348.8\pos(1109.27,250.2)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 4,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\pos(1115.13,253.34)\fscx80\fscy80\frz348.7\fnBrushType-SemiBold\fs59\b0\c&H000000&\blur0.7}Tetora Bouhatei
+Dialogue: 0,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\pos(433.71,585.51)\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8}Rakugo Girls
+Dialogue: 0,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\pos(433.71,585.51)\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,-6.67)}Live long, live long and
 Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,65.33)}prosper. May great wealth
 Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,137.33)}await you wherever you
@@ -49,65 +52,77 @@ Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F
 Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,497.33)}long-lived king of Shuringan
 Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,569.33)}and his dear wife, Gurindai,
 Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs72\fnMaiandra GD\c&HF4F9FF&\an7\pos(12,641.33)}and their children, Ponpokoki {and Ponpokona who lived a long and blessed life}{## Ideally cut before "ar wife", cutting off the "de"}
-Dialogue: 0,0:04:08.31,0:04:10.15,Sign,,0,0,0,,{\fs32\c&H22282B&\pos(645,498)}New Years' Money
-Dialogue: 0,0:04:12.36,0:04:13.86,Sign,,0,0,0,,{\fs16\c&H22282B&\pos(640,376)}New Years' Money
-Dialogue: 0,0:04:13.86,0:04:17.57,Sign,,0,0,0,,{\fs3\c&H22282B&\frz180\pos(649,702)}New Year's Money
+Dialogue: 0,0:04:08.31,0:04:10.15,Sign,,0,0,0,,{\pos(645,498)\fs32\c&H22282B&}New Years' Money
+Dialogue: 0,0:04:12.36,0:04:13.86,Sign,,0,0,0,,{\pos(640,376)\fs16\c&H22282B&}New Years' Money
+Dialogue: 0,0:04:13.86,0:04:17.57,Sign,,0,0,0,,{\pos(649,702)\frz180\fs3\c&H22282B&}New Year's Money
 Dialogue: 0,0:04:35.42,0:04:36.51,Sign,,0,0,0,,{\pos(640,429.33)\fs32\c&H22282B&}New Years' Money
-Dialogue: 0,0:04:45.52,0:04:47.98,Sign,,0,0,0,,{\fs14\c&H22282B&\pos(644,446)\frz179}New Years' Money
+Dialogue: 0,0:04:45.52,0:04:47.98,Sign,,0,0,0,,{\pos(644,446)\frz179\fs14\c&H22282B&}New Years' Money
 Dialogue: 0,0:04:52.81,0:04:53.48,Sign,,0,0,0,,{\pos(113.33,50.67)\c&H030B11&}Tetora
 Dialogue: 0,0:04:52.81,0:04:53.48,Sign,,0,0,0,,{\pos(636,50.67)\c&H030B11&}Marii
 Dialogue: 0,0:04:52.81,0:04:53.48,Sign,,0,0,0,,{\pos(1125.33,50.67)\c&H030B11&}Kigurumi
 Dialogue: 0,0:04:52.81,0:04:53.48,Sign,,0,0,0,,{\pos(869.33,50.67)\c&H030B11&}Gankyou
 Dialogue: 0,0:04:52.81,0:04:53.48,Sign,,0,0,0,,{\pos(380,50.67)\c&H030B11&}Kukuru
-Dialogue: 0,0:04:53.86,0:04:54.82,Sign,,0,0,0,,{\c&H030B11&\pos(649,530)}Loser {actual TL: "Bird", but I feel the lines spoken after in English don't really connect to it well enough to TL it as such}
+Dialogue: 0,0:04:53.86,0:04:54.82,Sign,,0,0,0,,{\pos(649,530)\c&H030B11&}Loser {actual TL: "Bird", but I feel the lines spoken after in English don't really connect to it well enough to TL it as such}
 Dialogue: 0,0:05:14.00,0:05:16.67,Sign,,0,0,0,,{\pos(834,550)\frz19.24}Skip?
-Dialogue: 0,0:05:25.30,0:05:29.73,Sign,,0,0,0,,{\fs20\c&H22282B&\pos(640,376)}New Years' Money
-Dialogue: 0,0:06:02.05,0:06:03.80,Sign,,0,0,0,,{\fs20\c&H22282B&\pos(782.67,465.33)}New Years' Money
+Dialogue: 0,0:05:25.30,0:05:29.73,Sign,,0,0,0,,{\pos(640,376)\fs20\c&H22282B&}New Years' Money
+Dialogue: 0,0:06:02.05,0:06:03.80,Sign,,0,0,0,,{\pos(782.67,465.33)\fs20\c&H22282B&}New Years' Money
 Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,,{\pos(1036,57)\an7\fs48}Y*Su
 Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,,{\pos(102,266)\an7\fs48}Koji K*m*ta
 Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\pos(640,298)\fs24}Central Japan Railway Company
 Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\pos(640,334)\fs32}1 Share Certificate
 Dialogue: 0,0:11:16.20,0:11:17.16,Sign,,0,0,0,,{\pos(179,280)\an7\fs48}Mongolian
 Dialogue: 0,0:11:16.20,0:11:17.16,Sign,,0,0,0,,{\pos(179,331)\an7\fs48}Blue Spot
+Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\pos(640,126.4)}Sugamon's Buttocks
+Dialogue: 0,0:11:27.04,0:11:31.25,Sign,,0,0,0,,Mt. Fuji
+Dialogue: 0,0:11:31.25,0:11:38.84,Sign,,0,0,0,,{\pos(712,272)}Mt. Fuji
 Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,,{\pos(537,57)\an7\fs63}LAMPREY
 Dialogue: 0,0:12:10.75,0:12:11.79,Sign,,0,0,0,,{\pos(780,504)\an7\fs48}Nine-eyed Eel
 Dialogue: 0,0:12:21.43,0:12:24.06,Sign,,0,0,0,,{\pos(486,511)\an7\fs48}Carp
 Dialogue: 0,0:12:29.27,0:12:30.48,Sign,,0,0,0,,{\pos(550,432)\an7\fs48}Locust
 Dialogue: 0,0:12:33.07,0:12:33.98,Sign,,0,0,0,,{\pos(524,468)\an7\fs48}Bee larva
 Dialogue: 0,0:12:39.99,0:12:41.82,Sign,,0,0,0,,{\pos(486,432)\an7\fs48}Caddisfly Larva
-Dialogue: 0,0:13:10.98,0:13:13.69,Sign,,0,0,0,,{\pos(576,194)\an7\fs32}Kogan Temple
-Dialogue: 0,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\pos(908,57)\an7\fs48}Thornpuller Jizo
-Dialogue: 0,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\pos(128,280)\an7\fs32}The shrine is built around an image of Jizo
-Dialogue: 0,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\pos(128,331)\an7\fs32}Bosatsu (also known as Longevity Jizo).
-Dialogue: 0,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\pos(128,381)\an7\fs32}In accordance with Buddhist tradition,
-Dialogue: 0,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\pos(102,432)\an7\fs32}the image is kept hidden from public view.
-Dialogue: 0,0:14:52.25,0:14:54.16,Sign,,0,0,0,,{\pos(576,136)\an7\fs48}Turtle and Ginseng
-Dialogue: 0,0:14:52.25,0:14:54.16,Sign,,0,0,0,,{\pos(704,489)\an7\fs48}Mukian
-Dialogue: 0,0:16:28.88,0:16:31.80,Sign,,0,0,0,,{\pos(601,122)\an7\fs48}April
-Dialogue: 0,0:16:28.88,0:16:31.80,Sign,,0,0,0,,{\pos(614,446)\an7\fs32}Mon
-Dialogue: 0,0:16:28.88,0:16:31.80,Sign,,0,0,0,,{\pos(550,511)\an7\fs32}Very Lucky Day
-Dialogue: 0,0:18:16.53,0:18:19.95,Sign,,0,0,0,,{\pos(396,57)\an7\fs48}Kukuru's Ups and Downs by Month
-Dialogue: 0,0:18:16.53,0:18:19.95,Sign,,0,0,0,,{\pos(102,151)\an7\fs32}High
-Dialogue: 0,0:18:16.53,0:18:19.95,Sign,,0,0,0,,{\pos(102,547)\an7\fs32}Low
-Dialogue: 0,0:20:10.27,0:20:10.94,Sign,,0,0,0,,{\pos(652,129)\an7\fs48}DECIDED
-Dialogue: 0,0:20:10.94,0:20:12.77,Sign,,0,0,0,,{\pos(230,230)\an7\fs48}June Blues
-Dialogue: 0,0:20:40.55,0:20:41.22,Sign,,0,0,0,,{\pos(691,129)\an7\fs48}DECIDED
-Dialogue: 0,0:20:41.26,0:20:43.18,Sign,,0,0,0,,{\pos(473,252)\an7\fs48}September Blues
-Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(652,187)\an7\fs48}JAN
-Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(102,482)\an7\fs48}FEB
-Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(396,532)\an7\fs48}Chocolate                      Snowball fights
-Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(614,122)\an7\fs48}Cherry blossoms
-Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(102,172)\an7\fs48}APR
-Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(1075,482)\an7\fs48}MAR
-Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(102,532)\an7\fs48}School trips
-Dialogue: 0,0:20:52.31,0:20:53.77,Sign,,0,0,0,,{\pos(320,115)\an7\fs48}Mountains
-Dialogue: 0,0:20:52.31,0:20:53.77,Sign,,0,0,0,,{\pos(1100,187)\an7\fs48}JUL
-Dialogue: 0,0:20:52.36,0:20:53.77,Sign,,0,0,0,,{\pos(102,489)\an7\fs48}AUG
-Dialogue: 0,0:20:52.36,0:20:53.77,Sign,,0,0,0,,{\pos(780,540)\an7\fs48}Ocean
-Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,,{\pos(102,216)\an7\fs48}NOV                                      OCT
-Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,,{\pos(115,547)\an7\fs48}Baked potatoes                                            Halloween
-Dialogue: 0,0:20:55.78,0:20:57.36,Sign,,0,0,0,,{\pos(1049,288)\an7\fs48}DEC
-Dialogue: 0,0:20:55.78,0:20:57.36,Sign,,0,0,0,,{\pos(204,547)\an7\fs48}Christmas
+Comment: 0,0:12:51.33,0:12:53.67,Sign,Skip?,0,0,0,,{\pos(792,563.2)}Kintarou Candy
+Comment: 0,0:12:51.33,0:12:53.67,Sign,Skip?,0,0,0,,{\pos(792,651.2)}Missing TL
+Comment: 0,0:12:51.33,0:12:53.67,Sign,Skip?,0,0,0,,{\pos(1088,505.6)}Missing TL
+Dialogue: 0,0:13:10.98,0:13:13.69,Sign,,0,0,0,,{\pos(664,226)\fs32}Kougan Temple
+Dialogue: 0,0:13:21.57,0:13:22.95,Sign,TLC,0,0,0,,{\pos(920,273.6)}Charm
+Dialogue: 0,0:13:21.57,0:13:22.95,Sign,TLC,0,0,0,,{\pos(817.6,436.8)}Tokyo \NSugamo
+Dialogue: 0,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\pos(936.03,79.4)}Thornpuller Jizo
+Dialogue: 0,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\pos(670,454.4)\fs32}The shrine is built around an image of Jizo
+Dialogue: 0,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\pos(655.61,505.4)\fs32}Bosatsu (also known as Longevity Jizo).
+Dialogue: 0,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\pos(650.31,555.4)\fs32}In accordance with Buddhist tradition,
+Dialogue: 0,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\pos(673.99,606.4)\fs32}the image is kept hidden from public view.
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\pos(928,468.8)\fs20}The Statute Books {## I've gotta think of a not-shit edit for this}
+Comment: 0,0:14:52.25,0:14:54.21,Sign,TL,0,0,0,,{\pos(714.29,169.6)}Missing TL
+Dialogue: 0,0:14:52.25,0:14:54.21,Sign,,0,0,0,,{\pos(749.49,408)}Turtle and Ginseng
+Dialogue: 0,0:14:52.25,0:14:54.21,Sign,,0,0,0,,{\pos(745.13,591.4)}Mukian
+Dialogue: 0,0:15:47.72,0:15:51.43,Sign,TLC,0,0,0,,{\pos(444.8,440)}Jizodori Shopping Street
+Dialogue: 0,0:15:47.72,0:15:51.43,Sign,,0,0,0,,{\pos(444.8,600)}Thornpuller hall entrance
+Dialogue: 0,0:16:28.88,0:16:31.80,Sign,,0,0,0,,{\pos(642.414,146)}April
+Dialogue: 0,0:16:28.88,0:16:31.80,Sign,,0,0,0,,{\pos(640.664,462)\fs32}Mon
+Dialogue: 0,0:16:28.88,0:16:31.80,Sign,,0,0,0,,{\pos(638.703,527)\fs32}Very Lucky Day
+Dialogue: 0,0:18:16.53,0:18:19.95,Sign,,0,0,0,,{\pos(700.586,81)}Kukuru's Ups and Downs by Month
+Dialogue: 0,0:18:16.53,0:18:19.95,Sign,,0,0,0,,{\pos(128.906,167)\fs32}High
+Dialogue: 0,0:18:16.53,0:18:19.95,Sign,,0,0,0,,{\pos(125.523,563)\fs32}Low
+Dialogue: 0,0:20:10.27,0:20:10.94,Sign,,0,0,0,,{\pos(734.844,153)}DECIDED
+Dialogue: 0,0:20:10.94,0:20:12.77,Sign,,0,0,0,,{\pos(319.648,254)}June Blues
+Dialogue: 0,0:20:40.55,0:20:41.22,Sign,,0,0,0,,{\pos(773.844,153)}DECIDED
+Dialogue: 0,0:20:41.26,0:20:43.18,Sign,,0,0,0,,{\pos(618.117,276)}September Blues
+Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(685.398,211)}JAN
+Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(135.969,506)}FEB
+Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(729.961,556)}Chocolate                      Snowball fights
+Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(755.227,146)}Cherry blossoms
+Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(139.68,196)}APR
+Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(1119.125,506)}MAR
+Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(202.25,556)}School trips
+Dialogue: 0,0:20:52.31,0:20:53.77,Sign,,0,0,0,,{\pos(411.883,139)}Mountains
+Dialogue: 0,0:20:52.31,0:20:53.77,Sign,,0,0,0,,{\pos(1128.734,211)}JUL
+Dialogue: 0,0:20:52.36,0:20:53.77,Sign,,0,0,0,,{\pos(141.781,513)}AUG
+Dialogue: 0,0:20:52.36,0:20:53.77,Sign,,0,0,0,,{\pos(834.406,564)}Ocean
+Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,,{\pos(388.289,240)}NOV                                      OCT
+Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,,{\pos(576.648,571)}Baked potatoes                                            Halloween
+Dialogue: 0,0:20:55.78,0:20:57.36,Sign,,0,0,0,,{\pos(1086.461,312)}DEC
+Dialogue: 0,0:20:55.78,0:20:57.36,Sign,,0,0,0,,{\pos(289.344,571)}Christmas
 Dialogue: 0,0:21:59.88,0:22:01.84,Sign,,0,0,0,,{\pos(601,122)\an7\fs48}May
 Dialogue: 0,0:21:59.88,0:22:01.84,Sign,,0,0,0,,{\pos(614,439)\an7\fs32}Mon
 Dialogue: 0,0:21:59.88,0:22:01.84,Sign,,0,0,0,,{\pos(537,504)\an7\fs32}Very Unlucky Day

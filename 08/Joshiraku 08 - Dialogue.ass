@@ -200,45 +200,47 @@ Dialogue: 10,0:09:19.46,0:09:21.92,Default,,0,0,0,,You asshole!
 Dialogue: 10,0:09:27.67,0:09:29.59,Default,,0,0,0,,Marii's new year gift is missing!
 Dialogue: 10,0:09:32.26,0:09:33.34,Default,,0,0,0,,Marii...
 Dialogue: 10,0:09:33.34,0:09:36.35,Default,,0,0,0,,This isn't good. She's closed off her heart.
-Dialogue: 10,0:09:36.76,0:09:41.02,Default,,0,0,0,,I do wonder what was in the envelope, though.
-Dialogue: 10,0:09:41.56,0:09:45.31,Default,,0,0,0,,I think it really was a key.
+Dialogue: 10,0:09:36.76,0:09:41.02,Default,,0,0,0,,I can't help but wonder what was in the envelope, though.
+Dialogue: 10,0:09:41.56,0:09:45.31,Default,,0,0,0,,I think it really was a key after all.
 Dialogue: 10,0:09:46.57,0:09:49.40,Default,,0,0,0,,The key to Marii's heart.
 Dialogue: 10,0:10:05.04,0:10:08.00,Default,,0,0,0,,That didn't wrap anything up!
 Dialogue: 10,0:10:10.84,0:10:11.80,Default,,0,0,0,,Won.
 Comment: 0,0:10:13.01,0:10:13.01,Default,chapter,0,0,0,,{Part B}
-Dialogue: 10,0:10:18.81,0:10:20.39,Default,,0,0,0,,My name is
-Dialogue: 10,0:10:21.81,0:10:22.77,Default,,0,0,0,,Marii.
-Dialogue: 10,0:10:23.81,0:10:25.90,Default,,0,0,0,,I chased an adorable cat,
-Dialogue: 10,0:10:26.44,0:10:28.98,Default,,0,0,0,,and ended up lost somehow.
-Dialogue: 10,0:10:30.15,0:10:32.24,Default,,0,0,0,,I remember something I heard a long time ago.
-Dialogue: 10,0:10:33.40,0:10:38.24,Default,,0,0,0,,A place built from the dreams and \Nwishes of children who never grew up.
-Dialogue: 10,0:10:39.79,0:10:42.04,Default,,0,0,0,,Could this be... Akiha—
+Dialogue: 10,0:10:18.81,0:10:20.39,Default,,0,0,0,,{\i1}My name is
+Dialogue: 10,0:10:21.81,0:10:22.77,Default,,0,0,0,,{\i1}Marii.
+Dialogue: 10,0:10:23.81,0:10:25.90,Default,,0,0,0,,{\i1}I chased an adorable cat,
+Dialogue: 10,0:10:26.44,0:10:28.98,Default,,0,0,0,,{\i1}and ended up lost somehow.
+Dialogue: 10,0:10:30.15,0:10:32.24,Default,,0,0,0,,{\i1}I remember something I heard a long time ago.
+Dialogue: 10,0:10:33.40,0:10:38.24,Default,,0,0,0,,{\q2\i1}A story about a place built from the dreams \Nand wishes of children who never grew up.
+Dialogue: 10,0:10:39.79,0:10:42.04,Default,,0,0,0,,Could this be Akiha—
 Dialogue: 10,0:10:42.04,0:10:44.16,Default,,0,0,0,,It's Jizodori shopping street.
 Dialogue: 10,0:10:44.46,0:10:45.83,Default,,0,0,0,,In Sugamo.
 Dialogue: 10,0:10:49.75,0:10:53.17,Default,,0,0,0,,Not Akiba? You mean I dressed as a maid for nothing?
 Dialogue: 10,0:10:53.17,0:10:55.51,Default,,0,0,0,,Maid outfits aren't the Akiba uniform.
 Dialogue: 10,0:10:55.51,0:10:57.89,Default,,0,0,0,,Look, a maid!
-Dialogue: 10,0:10:57.89,0:11:01.72,Default,,0,0,0,,A maid? Touching them'll take you to paradise!
+Dialogue: 10,0:10:57.89,0:10:59.18,Default,,0,0,0,,A maid?
+Dialogue: 10,0:10:59.18,0:11:01.72,Default,,0,0,0,,Touching them'll take you straight to paradise!
 Dialogue: 10,0:11:01.72,0:11:03.48,Default,,0,0,0,,They're maid in heaven!
 Dialogue: 10,0:11:03.48,0:11:05.23,Default,,0,0,0,,Where's best to touch?
 Dialogue: 10,0:11:05.23,0:11:08.02,Default,,0,0,0,,The chest area, for sure.
-Dialogue: 10,0:11:08.02,0:11:10.77,Default,,0,0,0,,Right where the heart is!
+Dialogue: 10,0:11:08.02,0:11:10.77,Default,,0,0,0,,That's where the heart is!
+Dialogue: 10,0:11:12.23,0:11:16.20,Default,,0,0,0,,Nooo! P-Please, no-no-no...
 Dialogue: 10,0:11:18.12,0:11:19.24,Default,,0,0,0,,Stop it!
 Dialogue: 10,0:11:19.24,0:11:21.20,Default,,0,0,0,,Praise be! Thank you!
 Dialogue: 10,0:11:23.16,0:11:27.04,Default,,0,0,0,,Why are there so many animal-themed clothes?
-Dialogue: 10,0:11:27.46,0:11:31.44,Default,,0,0,0,,This one with Mount Fuji looks like \Nit'd be very good luck indeed!
-Dialogue: 10,0:11:31.44,0:11:34.88,Default,,0,0,0,,I bet this T-shirt with Kannon \Non it would bring you fortune!
-Dialogue: 10,0:11:34.88,0:11:37.72,Default,,0,0,0,,Gonna buy it? Y'can't take it with you \Ninto the next world, you know!
+Dialogue: 10,0:11:27.46,0:11:31.44,Default,,0,0,0,,{\q2}This one with Mount Fuji looks like \Nit'd bring very good luck indeed!
+Dialogue: 10,0:11:31.44,0:11:34.88,Default,,0,0,0,,{\q2}I bet this T-shirt with Kannon \Non it would bring you fortune!
+Dialogue: 10,0:11:34.88,0:11:37.72,Default,,0,0,0,,{\q2}Gonna buy it? Y'can't take it with you \Ninto the next world, you know!
 Dialogue: 10,0:11:37.72,0:11:38.84,Default,,0,0,0,,Right?
 Dialogue: 10,0:11:38.84,0:11:43.60,Default,,0,0,0,,The keywords here are "good luck", \N"fortune", and "the next world".
-Dialogue: 10,0:11:43.60,0:11:47.06,Default,,0,0,0,,If we don't blend in, it could turn nasty again.
+Dialogue: 10,0:11:43.60,0:11:47.06,Default,,0,0,0,,If we don't blend in, things could turn nasty again.
 Dialogue: 10,0:11:47.52,0:11:49.29,Default,,0,0,0,,What should we talk about, then?
 Dialogue: 10,0:11:49.29,0:11:51.30,Default,,0,0,0,,What about our health?
 Dialogue: 10,0:11:51.30,0:11:53.65,Default,,0,0,0,,My shoulders have been so stiff lately.
 Dialogue: 10,0:11:53.65,0:11:55.78,Default,,0,0,0,,My lower back's killing me.
 Dialogue: 10,0:11:55.78,0:11:59.11,Default,,0,0,0,,Sometimes I see pink elephants.
 Dialogue: 10,0:11:59.99,0:12:01.24,Default,,0,0,0,,Those are hallucinations.
-Dialogue: 10,0:12:01.24,0:12:03.83,Default,,0,0,0,,Bland conversations like this make me tired.
+Dialogue: 10,0:12:01.24,0:12:03.83,Default,,0,0,0,,Bland conversations like this tire me out.
 Dialogue: 10,0:12:03.83,0:12:05.91,Default,,0,0,0,,Okay, let's take things up a notch.
 Dialogue: 10,0:12:06.71,0:12:08.73,Default,,0,0,0,,Shall we eat some grilled lamprey?
 Dialogue: 10,0:12:08.73,0:12:10.75,Default,,0,0,0,,Lampreys are kind of scary.
@@ -246,7 +248,7 @@ Dialogue: 10,0:12:12.00,0:12:13.38,Default,,0,0,0,,They call them "nine-eyed eel
 Dialogue: 10,0:12:13.38,0:12:15.01,Default,,0,0,0,,They do have a lot of eyes!
 Dialogue: 10,0:12:15.01,0:12:17.88,Default,,0,0,0,,Those aren't eyes, they're gills.
 Dialogue: 10,0:12:20.89,0:12:23.89,Default,,0,0,0,,Ah! The soy-boiled carp's looking at me!
-Dialogue: 10,0:12:24.06,0:12:30.48,Default,,0,0,0,,That reminds me of when my grandma made me \Neat soy-boiled locusts to make my teeth strong.
+Dialogue: 10,0:12:24.06,0:12:30.48,Default,,0,0,0,,{\q2}That reminds me of when my grandma made me \Neat soy-boiled locusts to make my teeth strong.
 Dialogue: 10,0:12:30.48,0:12:33.07,Default,,0,0,0,,I was made to eat bee larvae.
 Dialogue: 10,0:12:34.32,0:12:35.82,Default,,0,0,0,,You guys are minor-league.
 Dialogue: 10,0:12:35.82,0:12:40.86,Default,,0,0,0,,I was made to eat rice made from caddisfly larvae.
@@ -254,38 +256,38 @@ Dialogue: 10,0:12:41.87,0:12:44.33,Default,,0,0,0,,When you lift the lid of the 
 Dialogue: 10,0:12:44.87,0:12:47.16,Default,,0,0,0,,black lumps wiggle and jiggle!
 Dialogue: 10,0:12:47.16,0:12:48.50,Default,,0,0,0,,Stop it!
 Dialogue: 10,0:12:48.50,0:12:49.96,Default,,0,0,0,,No more!
-Dialogue: 10,0:12:51.96,0:12:53.67,Default,,0,0,0,,Oh look, Kintaro candy.
-Dialogue: 10,0:12:53.67,0:12:55.17,Default,,0,0,0,,Takes me back to being a kid.
-Dialogue: 10,0:12:55.80,0:12:58.30,Default,,0,0,0,,It's got the same face running \Nthrough it wherever you cut.
+Dialogue: 10,0:12:51.96,0:12:53.67,Default,,0,0,0,,Oh look, Kintarou candy.
+Dialogue: 10,0:12:53.67,0:12:55.17,Default,,0,0,0,,That brings back memories.
+Dialogue: 10,0:12:55.80,0:12:58.30,Default,,0,0,0,,{\q2}It's got the same face running \Nthrough it wherever you cut.
 Dialogue: 10,0:12:58.30,0:13:00.84,Default,,0,0,0,,What if it had Gankyou's face wherever you cut?
 Dialogue: 10,0:13:02.30,0:13:04.76,Default,,0,0,0,,What if it had Kukuru's face wherever you cut?
 Dialogue: 10,0:13:06.97,0:13:08.98,Default,,0,0,0,,That doesn't sound like it'd be sweet.
-Dialogue: 10,0:13:12.19,0:13:13.48,Default,,0,0,0,,Today's main event,
-Dialogue: 10,0:13:13.90,0:13:15.11,Default,,0,0,0,,the shrine of Thornpuller Jizo.
-Dialogue: 10,0:13:16.11,0:13:20.70,Default,,0,0,0,,A long time ago, a maidservant swallowed \Na needle by mistake,
+Dialogue: 10,0:13:12.19,0:13:13.48,Default,,0,0,0,,Today's main event:
+Dialogue: 10,0:13:13.90,0:13:15.11,Default,,0,0,0,,The shrine of Thornpuller Jizo.
+Dialogue: 10,0:13:16.11,0:13:20.70,Default,,0,0,0,,{\q2}A long time ago, a maidservant \Nswallowed a thorn by mistake, {## Original had "needle" instead of "thorn", but it kinda goes against "thornpuller"}
 Dialogue: 10,0:13:20.70,0:13:24.32,Default,,0,0,0,,but she was saved by swallowing an image of Jizo.
-Dialogue: 10,0:13:24.32,0:13:28.91,Default,,0,0,0,,They say you can use the water from \Nhere to cure your body's problems.
+Dialogue: 10,0:13:24.32,0:13:28.91,Default,,0,0,0,,{\q2}They say you can use the water from here \Nto cure your body's ailments.
 Dialogue: 10,0:13:28.91,0:13:31.17,Default,,0,0,0,,That's not Thornpuller Jizo.
 Dialogue: 10,0:13:31.17,0:13:32.79,Default,,0,0,0,,You're thinking of Washing Kannon.
 Dialogue: 10,0:13:32.79,0:13:33.71,Default,,0,0,0,,Oh, really?
 Dialogue: 10,0:13:33.71,0:13:36.13,Default,,0,0,0,,A lot of people make that mistake, apparently.
 Dialogue: 10,0:13:36.50,0:13:38.80,Default,,0,0,0,,I feel like I got tricked somehow.
-Dialogue: 10,0:13:38.80,0:13:42.01,Default,,0,0,0,,We came all the way here, if you wanna wash, wash!
-Dialogue: 10,0:13:42.01,0:13:43.47,Default,,0,0,0,,Going to cure your eyes, Gan-chan?
-Dialogue: 10,0:13:43.47,0:13:45.10,Default,,0,0,0,,More like her attitude.
-Dialogue: 10,0:13:45.51,0:13:47.68,Default,,0,0,0,,Where would you put the water for that?
+Dialogue: 10,0:13:38.80,0:13:42.01,Default,,0,0,0,,We came all the way here, so if you wanna wash, wash!
+Dialogue: 10,0:13:42.01,0:13:43.47,Default,,0,0,0,,Going to cure your eyes, Gan?
+Dialogue: 10,0:13:43.47,0:13:45.10,Default,,0,0,0,,More like her attitude, got 'em. {## I've grown to it. I wanna keep it, like a pet. What do?}
+Dialogue: 10,0:13:45.51,0:13:47.68,Default,,0,0,0,,Where would you pour the water for that?
 Dialogue: 10,0:13:47.68,0:13:49.06,Default,,0,0,0,,On the heart, I guess.
-Dialogue: 10,0:13:49.06,0:13:53.19,Default,,0,0,0,,Hey! You wash the statue of Kannon, \Nnot the person themselves!
+Dialogue: 10,0:13:49.06,0:13:53.19,Default,,0,0,0,,{\q2}Hey! You wash the statue of Kannon, \Nnot the person themselves!
 Dialogue: 10,0:13:53.19,0:13:54.19,Default,,0,0,0,,Oh, really?
 Dialogue: 10,0:13:56.32,0:13:58.73,Default,,0,0,0,,I daresay it's rounded Gankyou out a bit.
-Dialogue: 10,0:14:01.78,0:14:04.24,Default,,0,0,0,,What do you think, Marii-chan?
-Dialogue: 10,0:14:04.45,0:14:06.74,Default,,0,0,0,,Marii... chan?!
-Dialogue: 10,0:14:06.74,0:14:08.29,Default,,0,0,0,,What's wrong, Gan-chan?
+Dialogue: 10,0:14:01.78,0:14:04.24,Default,,0,0,0,,What do you think, Marii, dear?
+Dialogue: 10,0:14:04.45,0:14:06.74,Default,,0,0,0,,Marii... dear?!
+Dialogue: 10,0:14:06.74,0:14:08.29,Default,,0,0,0,,What's wrong, Gan?
 Dialogue: 10,0:14:08.29,0:14:09.83,Default,,0,0,0,,Bespectacled asshat!
-Dialogue: 10,0:14:09.83,0:14:14.50,Default,,0,0,0,,Now now, mind your language, Marii-chan!
-Dialogue: 10,0:14:15.21,0:14:17.67,Default,,0,0,0,,That's rather dangerous, Marii-chan!
+Dialogue: 10,0:14:09.83,0:14:14.50,Default,,0,0,0,,{\q2}Now, now, mind your language, Marii! \NThere's no need to say such things!
+Dialogue: 10,0:14:15.21,0:14:17.67,Default,,0,0,0,,That's rather dangerous, Marii!
 Dialogue: 10,0:14:18.05,0:14:21.47,Default,,0,0,0,,It's a beautiful day today. I'm so happy!
-Dialogue: 10,0:14:21.47,0:14:24.64,Default,,0,0,0,,I guess Thornpuller Jizo's blessing really works.
+Dialogue: 10,0:14:21.47,0:14:24.64,Default,,0,0,0,,I guess Thornpuller Jizo's blessing's the real deal!
 Dialogue: 10,0:14:27.43,0:14:29.52,Default,,0,0,0,,Chest! I'm gonna splash it on my chest!
 Dialogue: 10,0:14:29.52,0:14:30.81,Default,,0,0,0,,Butt for me!
 Dialogue: 10,0:14:30.81,0:14:32.35,Default,,0,0,0,,She's self-conscious about it after all.
@@ -293,26 +295,27 @@ Dialogue: 10,0:14:32.35,0:14:33.56,Default,,0,0,0,,My head!
 Dialogue: 10,0:14:33.56,0:14:34.48,Default,,0,0,0,,Heart...
 Dialogue: 10,0:14:38.23,0:14:40.28,Default,,0,0,0,,Nothing really changed.
 Dialogue: 10,0:14:40.28,0:14:41.49,Default,,0,0,0,,Nope.
-Dialogue: 10,0:14:41.78,0:14:44.61,Default,,0,0,0,,Why did it only benefit Gankyou?
-Dialogue: 10,0:14:47.16,0:14:48.78,Default,,0,0,0,,Why do you think it did?
+Dialogue: 10,0:14:41.78,0:14:44.61,Default,,0,0,0,,Why did only Gankyou benefit?
+Dialogue: 10,0:14:47.16,0:14:48.78,Default,,0,0,0,,You didn't {\i1}actually{\i0} think it did, right?
 Dialogue: 10,0:14:50.04,0:14:52.25,Default,,0,0,0,,You're all so naïve!
-Dialogue: 10,0:14:56.08,0:15:00.59,Default,,0,0,0,,That was fun, but I feel like it aged me.
-Dialogue: 10,0:15:00.59,0:15:03.72,Default,,0,0,0,,Forget Girl Power, \Nour Granny Power certainly increased.
-Dialogue: 10,0:15:03.72,0:15:08.03,Default,,0,0,0,,Don't worry. Eating turtle makes your skin youthful.
+Dialogue: 10,0:14:56.08,0:15:00.59,Default,,0,0,0,,{\q2}That was fun and all, but I feel like I rapidly aged now.
+Dialogue: 10,0:15:00.59,0:15:03.72,Default,,0,0,0,,{\q2}Forget Girl Power, we've been raising \Nour Granny Power instead.
+Dialogue: 10,0:15:03.72,0:15:08.03,Default,,0,0,0,,{\q2}No worries, eating turtle supposedly \Nmakes your skin all young again.
 Dialogue: 10,0:15:08.03,0:15:11.89,Default,,0,0,0,,Everyone gets old and wrinkly sooner or later.
-Dialogue: 10,0:15:11.89,0:15:14.60,Default,,0,0,0,,You get pains in your shoulders, lower back and knees...
+Dialogue: 10,0:15:11.89,0:15:14.60,Default,,0,0,0,,You get pains in your shoulders, lower back, and knees...
 Dialogue: 10,0:15:14.60,0:15:16.81,Default,,0,0,0,,Your eyes get cloudy...
 Dialogue: 10,0:15:16.81,0:15:19.36,Default,,0,0,0,,It happens to everyone.
 Dialogue: 10,0:15:23.15,0:15:27.66,Default,,0,0,0,,I suddenly got the feeling that whatever will be, will be.
-Dialogue: 10,0:15:28.49,0:15:30.20,Default,,0,0,0,,I think that's the feeling of enlightenment.
+Dialogue: 10,0:15:28.32,0:15:30.41,Default,,0,0,0,,I think that's the feeling of enlightenment.
 Dialogue: 10,0:15:30.62,0:15:32.58,Default,,0,0,0,,Or of losing the strength in your shoulders.
 Dialogue: 10,0:15:33.16,0:15:36.50,Default,,0,0,0,,This is a pretty mature conversation.
-Dialogue: 10,0:15:36.50,0:15:40.38,Default,,0,0,0,,I think having conversations like this is \Nhow you end up being mature.
+Dialogue: 10,0:15:36.50,0:15:40.38,Default,,0,0,0,,{\q2}I think having conversations like this \Nis how you end up becoming mature.
 Dialogue: 10,0:15:44.80,0:15:47.72,Default,,0,0,0,,My eyes are already cloudy...
 Dialogue: 10,0:15:48.18,0:15:50.14,Default,,0,0,0,,Your glasses steamed up.
-Dialogue: 10,0:15:54.56,0:15:57.98,Default,,0,0,0,,"I bought this cat 'coz you told me \Nit'd live a thousand years,"
+Comment: 0,0:15:53.93,0:15:53.93,Default,chapter,0,0,0,,{Part C}
+Dialogue: 10,0:15:54.56,0:15:57.98,Default,,0,0,0,,{\q2}"I bought this cat 'coz you told me \Nit'd live a thousand years,"
 Dialogue: 10,0:15:57.98,0:15:59.94,Default,,0,0,0,,"but it died yesterday!"
-Dialogue: 10,0:15:59.94,0:16:04.82,Default,,0,0,0,,"Oh dear. Yesterday must have been \Nits thousandth birthday, huh."
+Dialogue: 10,0:15:59.94,0:16:04.82,Default,,0,0,0,,"Oh, dear. Yesterday must have been \Nits thousandth birthday, huh."
 Dialogue: 10,0:16:05.32,0:16:07.07,Default,,0,0,0,,Thanks for your continued appreciation.
 Dialogue: 10,0:16:18.33,0:16:19.83,Default,,0,0,0,,It's April.
 Dialogue: 10,0:16:20.38,0:16:21.79,Default,,0,0,0,,It's April.
