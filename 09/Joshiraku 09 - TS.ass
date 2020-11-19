@@ -21,18 +21,36 @@ Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:40.96,0:01:42.92,Sign,,0,0,0,,{\pos(460,57)\an7\fs55}Life's Butt a Comedy
+Dialogue: 0,0:01:40.96,0:01:42.96,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
+Dialogue: 1,0:01:40.96,0:01:42.96,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Life's Butt a Comedy
+Dialogue: 0,0:08:51.89,0:08:53.89,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
+Dialogue: 1,0:08:51.89,0:08:53.89,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}The Bear of Ueno
+Dialogue: 0,0:15:11.10,0:15:13.10,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
+Dialogue: 1,0:15:11.10,0:15:13.10,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Sleep-Talking
+Dialogue: 0,0:23:39.98,0:23:42.78,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
+Dialogue: 1,0:23:39.98,0:23:42.78,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs144\2a&HFF&\blur0.8}Next Time
+Dialogue: 0,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
+Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,240)}① {\an4\fnGaramond Premr Pro Smbd Capt}Pumpkin Band
+Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}The Battle of Shinjuku
+Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Cavity Beach
+Dialogue: 0,0:07:51.45,0:07:53.91,Sign,,0,0,0,midcard,{\fad(900,0)\pos(1058.18,557.03)\frz340.5\fnBrushStroke 35\fs56\fsp-1\b0\c&H000000&\1a&H3C&\blur0.8}Rakugo Girls
+Dialogue: 0,0:07:51.45,0:07:53.91,Sign,,0,0,0,midcard,{\fad(900,0)\pos(1058.18,557.03)\frz340.5\fnBrushStroke 35\fs56\fsp-1\b0\c&H000000&\1a&H3C&\blur0.8}Rakugo Girls
+Dialogue: 1,0:07:51.45,0:07:53.91,Sign,,0,0,0,midcard,{\fad(900,0)\pos(1057.18,554.03)\frz340.5\fnBrushStroke 35\fs56\fsp-1\b0\c&HFDFEFF&\1a&H3C&\blur0.8}Rakugo Girls
+Dialogue: 1,0:07:51.45,0:07:53.91,Sign,,0,0,0,midcard,{\fad(900,0)\pos(1057.18,554.03)\frz340.5\fnBrushStroke 35\fs56\fsp-1\b0\c&HFDFEFF&\1a&H3C&\blur0.8}Rakugo Girls
+Dialogue: 0,0:14:51.41,0:14:53.91,Sign,,0,0,0,midcard,{\frz20.92\fnBrushStroke 35\fs56\fsp-1\b0\bord3\c&HFDFEFE&\3c&H2792EA&\1a&HC8&\blur4\pos(268.11,505.11)}Rakugo Girls
+Dialogue: 0,0:14:51.41,0:14:53.91,Sign,,0,0,0,midcard,{\frz20.92\fnBrushStroke 35\fs56\fsp-1\b0\bord3\c&HFDFEFE&\3c&H2792EA&\1a&HC8&\blur4\pos(268.11,505.11)}Rakugo Girls
+Dialogue: 1,0:14:51.41,0:14:53.91,Sign,,0,0,0,midcard,{\frz20.92\fnBrushStroke 35\fs56\fsp-1\b0\c&HFDFEFE&\blur0.8\pos(268.11,505.11)}Rakugo Girls
+Dialogue: 1,0:14:51.41,0:14:53.91,Sign,,0,0,0,midcard,{\frz20.92\fnBrushStroke 35\fs56\fsp-1\b0\c&HFDFEFE&\blur0.8\pos(268.11,505.11)}Rakugo Girls
 Dialogue: 0,0:02:17.62,0:02:18.16,Sign,,0,0,0,,{\pos(524,475)\an7\fs48}Red Feather Donations
 Dialogue: 0,0:02:44.81,0:02:48.69,Sign,,0,0,0,,{\pos(844,72)\an7\fs48}Entrance Ticket
-Dialogue: 0,0:04:48.31,0:04:50.98,Sign,,0,0,0,,{\pos(102,57)\an7\fs40}Note: Mongolian spots tend to fade after childhood.
+Comment: 0,0:04:48.31,0:04:50.98,Sign,,0,0,0,,{\pos(102,57)\an7\fs40}Note: Mongolian spots tend to fade after childhood.
 Dialogue: 0,0:05:08.25,0:05:11.17,Sign,,0,0,0,,{\pos(729,324)\an7\fs32}Marii
 Dialogue: 0,0:05:08.25,0:05:11.17,Sign,,0,0,0,,{\pos(716,374)\an7\fs32}Buratei
 Dialogue: 0,0:08:07.84,0:08:09.05,Sign,,0,0,0,,{\pos(281,172)\an7\fs32}Year Pass
 Dialogue: 0,0:08:07.84,0:08:09.05,Sign,,0,0,0,,{\pos(268,518)\an7\fs48}Kukuru Anrakutei
 Dialogue: 0,0:08:21.98,0:08:22.94,Sign,,0,0,0,,{\pos(640,496)\an5\fs48}Birds?
-Dialogue: 0,0:08:51.93,0:08:53.89,Sign,,0,0,0,,{\pos(473,57)\an7\fs55}The Bear of Ueno
 Dialogue: 0,0:10:44.25,0:10:45.12,Sign,,0,0,0,,{\pos(102,151)\an7\fs48}Standing Bar
-Dialogue: 0,0:10:44.25,0:10:45.12,Sign,,0,0,0,,{\pos(448,208)\an7\fs48}Futa-kun
+Dialogue: 0,0:10:44.25,0:10:45.12,Sign,,0,0,0,,{\pos(448,208)\an7\fs48}Futa
 Dialogue: 0,0:10:44.25,0:10:45.12,Sign,,0,0,0,,{\pos(102,547)\an7\fs48}Stand to attention and drink!
 Dialogue: 0,0:11:20.83,0:11:22.54,Sign,,0,0,0,,{\pos(652,122)\an7\fs48}Watch out for dung
 Dialogue: 0,0:11:20.83,0:11:22.54,Sign,,0,0,0,,{\pos(691,187)\an7\fs63}DANGER!
@@ -42,7 +60,6 @@ Dialogue: 0,0:11:26.58,0:11:28.25,Sign,,0,0,0,,{\pos(409,439)\an7\fs32}Hippos fl
 Dialogue: 0,0:11:32.67,0:11:34.38,Sign,,0,0,0,,{\pos(473,43)\an7\fs32}Be careful of spitting camels
 Dialogue: 0,0:11:32.67,0:11:34.38,Sign,,0,0,0,,{\pos(537,93)\an7\fs55}WARNING!
 Dialogue: 0,0:12:00.20,0:12:02.91,Sign,,0,0,0,,{\pos(371,201)\an7\fs48}Bears have 5 fingers!!!
-Dialogue: 0,0:15:11.10,0:15:13.06,Sign,,0,0,0,,{\pos(524,93)\an7\fs55}Sleep-Talking
 Dialogue: 0,0:15:28.07,0:15:32.58,Sign,,0,0,0,,{\pos(844,108)\an7\fs32}I went to Shirakawa
 Dialogue: 0,0:15:28.07,0:15:32.58,Sign,,0,0,0,,{\pos(921,158)\an7\fs32}in Kyoto.
 Dialogue: 0,0:15:28.07,0:15:32.58,Sign,,0,0,0,,{\pos(832,309)\an7\fs32}Nice.
@@ -71,8 +88,4 @@ Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(524,547)\an7\fs32}Healthy D
 Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(614,597)\an7\fs32}of Youths
 Dialogue: 0,0:19:48.67,0:19:49.58,Sign,,0,0,0,,{\pos(640,439)\an7\fs32}Miss No
 Dialogue: 0,0:19:48.67,0:19:49.58,Sign,,0,0,0,,{\pos(627,489)\an7\fs32}Make-Up
-Dialogue: 0,0:19:59.43,0:20:03.18,Sign,,0,0,0,,{\pos(102,57)\an7\fs40}Note: Leo Morimoto is the Japanese narrator for "Thomas & Friends".
-Dialogue: 0,0:23:40.02,0:23:42.73,Sign,,0,0,0,,{\pos(563,151)\an7\fs48}Next time
-Dialogue: 0,0:24:02.71,0:24:10.01,Sign,,0,0,0,,{\pos(512,57)\an7\fs55}Pumpkin Band
-Dialogue: 0,0:24:02.71,0:24:10.01,Sign,,0,0,0,,{\pos(435,115)\an7\fs55}The Battle of Shinjuku
-Dialogue: 0,0:24:02.71,0:24:10.01,Sign,,0,0,0,,{\pos(524,172)\an7\fs55}Cavity Beach
+Comment: 0,0:19:59.43,0:20:03.18,Sign,,0,0,0,,{\pos(102,57)\an7\fs40}Note: Leo Morimoto is the Japanese narrator for "Thomas & Friends".
