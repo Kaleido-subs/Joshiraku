@@ -98,11 +98,11 @@ Dialogue: 10,0:04:46.18,0:04:47.73,Default,,0,0,0,,Rock-paper-scissors!
 Dialogue: 10,0:04:48.31,0:04:49.77,Default,,0,0,0,,Marii gets to pick last.
 Dialogue: 10,0:04:49.77,0:04:51.48,Default,,0,0,0,,Gimme another chance!
 Dialogue: 10,0:04:51.48,0:04:52.81,Default,,0,0,0,,Let's play a different game, then.
-Dialogue: 10,0:04:54.82,0:04:56.69,Default,,0,0,0,,Marii goes 5th.
+Dialogue: 10,0:04:54.82,0:04:56.69,Default,,0,0,0,,Marii goes fifth.
 Dialogue: 10,0:04:56.69,0:04:57.94,Default,,0,0,0,,Marii's last.
 Dialogue: 10,0:04:57.94,0:05:00.11,Default,,0,0,0,,Going last is Marii's destiny.
 Dialogue: 10,0:05:00.11,0:05:01.99,Default,,0,0,0,,The late bird misses the worm.
-Dialogue: 10,0:05:03.28,0:05:05.62,Default,,0,0,0,,With that settled, shall we choose our gifts?
+Dialogue: 10,0:05:03.28,0:05:05.62,Default,,0,0,0,,With that out of the way, shall we choose our gifts?
 Dialogue: 10,0:05:05.62,0:05:06.74,Default,,0,0,0,,Hang on a sec!
 Dialogue: 10,0:05:06.74,0:05:09.58,Default,,0,0,0,,Choosing last means I'm at a disadvantage, right?
 Dialogue: 10,0:05:09.58,0:05:10.79,Default,,0,0,0,,That's not true.
@@ -239,9 +239,9 @@ Dialogue: 10,0:11:49.29,0:11:51.30,Default,,0,0,0,,What about our health?
 Dialogue: 10,0:11:51.30,0:11:53.65,Default,,0,0,0,,My shoulders have been so stiff lately.
 Dialogue: 10,0:11:53.65,0:11:55.78,Default,,0,0,0,,My lower back's killing me.
 Dialogue: 10,0:11:55.78,0:11:59.11,Default,,0,0,0,,Sometimes I see pink elephants.
-Dialogue: 10,0:11:59.99,0:12:01.24,Default,,0,0,0,,Those are hallucinations.
-Dialogue: 10,0:12:01.24,0:12:03.83,Default,,0,0,0,,Bland conversations like this tire me out.
-Dialogue: 10,0:12:03.83,0:12:05.91,Default,,0,0,0,,Okay, let's take things up a notch.
+Dialogue: 10,0:11:59.74,0:12:01.45,Default,,0,0,0,,That's alcoholic hallucinosis. {## https://en.wikipedia.org/wiki/Seeing_pink_elephants}
+Dialogue: 10,0:12:01.45,0:12:03.83,Default,,0,0,0,,Bland conversations like these tire me out.
+Dialogue: 10,0:12:03.83,0:12:05.91,Default,,0,0,0,,Okay, let's kick things up a notch.
 Dialogue: 10,0:12:06.71,0:12:08.73,Default,,0,0,0,,Shall we eat some grilled lamprey?
 Dialogue: 10,0:12:08.73,0:12:10.75,Default,,0,0,0,,Lampreys are kind of scary.
 Dialogue: 10,0:12:12.00,0:12:13.38,Default,,0,0,0,,They call them "nine-eyed eels".
@@ -320,20 +320,20 @@ Dialogue: 10,0:16:05.32,0:16:07.07,Default,,0,0,0,,Thanks for your continued app
 Dialogue: 10,0:16:18.33,0:16:19.83,Default,,0,0,0,,It's April.
 Dialogue: 10,0:16:20.38,0:16:21.79,Default,,0,0,0,,It's April.
 Dialogue: 10,0:16:22.34,0:16:24.17,Default,,0,0,0,,April's here.
-Dialogue: 10,0:16:24.17,0:16:26.30,Default,,0,0,0,,What are you talking about? It's already Ma-
+Dialogue: 10,0:16:24.17,0:16:26.30,Default,,0,0,0,,What are you talking about? It's already Ma—
 Dialogue: 10,0:16:27.55,0:16:28.84,Default,,0,0,0,,Read the room!
-Dialogue: 10,0:16:32.01,0:16:34.26,Default,,0,0,0,,Today's April 40th.
-Dialogue: 10,0:16:35.35,0:16:36.10,Default,,0,0,0,,What?
+Dialogue: 10,0:16:32.01,0:16:34.26,Default,,0,0,0,,Today is the 40th of April.
+Dialogue: 10,0:16:35.35,0:16:36.10,Default,,0,0,0,,Why?
 Dialogue: 10,0:16:37.06,0:16:40.27,Default,,0,0,0,,Kukuru gets the May Blues in May.
 Dialogue: 10,0:16:40.27,0:16:42.44,Default,,0,0,0,,Of course, I can't believe I forgot!
-Dialogue: 10,0:16:43.65,0:16:45.07,Default,,0,0,0,,It's April!
-Dialogue: 10,0:16:46.90,0:16:50.41,Default,,0,0,0,,They're expecting me to get the May Blues again.
+Dialogue: 10,0:16:43.65,0:16:45.07,Default,,0,0,0,,Sure feels April!
+Dialogue: 10,0:16:46.90,0:16:50.41,Default,,0,0,0,,{\i1}They're expecting me to get the May Blues again.
 Dialogue: 10,0:16:51.20,0:16:55.45,Default,,0,0,0,,A-pril! A-pril! A-pril!
-Dialogue: 10,0:16:56.75,0:16:59.92,Default,,0,0,0,,Kukuru-chan's expression got darker!
+Dialogue: 10,0:16:56.75,0:16:59.92,Default,,0,0,0,,Kukuru's expression got darker!
 Dialogue: 10,0:16:59.92,0:17:01.88,Default,,0,0,0,,It's no longer a case of if, but when!
 Dialogue: 10,0:17:01.88,0:17:04.38,Default,,0,0,0,,Is there anything we can do to make her smile?
 Dialogue: 10,0:17:05.59,0:17:08.30,Default,,0,0,0,,Hey! Let's have a staring contest!
-Dialogue: 10,0:17:08.30,0:17:14.47,Default,,0,0,0,,Daruma, daruma, stare me down \NLaughing and smiling isn't allowed.
+Dialogue: 10,0:17:08.30,0:17:14.47,Default,TLC/Edit,0,0,0,,{\q2}Daruma, daruma, stare me down. \NLaughing and smiling isn't allowed. {## I want to replace this with a kids' game, but I can't think of any that fit this well :(}
 Dialogue: 10,0:17:14.47,0:17:16.18,Default,,0,0,0,,A-puh-puh!
 Dialogue: 10,0:17:24.77,0:17:26.28,Default,,0,0,0,,Wh-What about this?!
 Dialogue: 10,0:17:26.28,0:17:27.69,Default,,0,0,0,,That... hurts...
@@ -347,45 +347,44 @@ Dialogue: 10,0:17:53.84,0:17:55.68,Default,,0,0,0,,That's right! Let's try some 
 Dialogue: 10,0:17:55.68,0:17:56.47,Default,,0,0,0,,Who?
 Dialogue: 10,0:17:56.47,0:17:57.76,Default,,0,0,0,,Marii, you go!
 Dialogue: 10,0:17:58.35,0:18:02.52,Default,,0,0,0,,The weather's certainly perked up lately, hasn't it?
-Dialogue: 10,0:18:02.98,0:18:05.06,Default,,0,0,0,,May is when you can really start to feel summ-
+Dialogue: 10,0:18:02.98,0:18:05.06,Default,,0,0,0,,May is when you can really start to feel summ—
 Dialogue: 10,0:18:09.44,0:18:12.20,Default,,0,0,0,,A-pril! A-pril!
-Dialogue: 10,0:18:12.20,0:18:16.12,Default,,0,0,0,,I suppose I do have resting depression face.
-Dialogue: 10,0:18:16.53,0:18:19.66,Default,,0,0,0,,But it's not like I'm only sad during May.
-Dialogue: 10,0:18:20.29,0:18:21.25,Default,,0,0,0,,This sucks.
-Dialogue: 10,0:18:21.25,0:18:23.46,Default,,0,0,0,,They really expect me to get the May Blues.
-Dialogue: 10,0:18:25.54,0:18:26.63,Default,,0,0,0,,She sighed!
-Dialogue: 10,0:18:26.63,0:18:27.92,Default,,0,0,0,,It's started!
-Dialogue: 10,0:18:27.92,0:18:29.80,Default,,0,0,0,,Who cares about May Blues?
+Dialogue: 10,0:18:12.20,0:18:16.12,Default,,0,0,0,,{\i0}I suppose I do have resting depression face.
+Dialogue: 10,0:18:16.53,0:18:19.66,Default,,0,0,0,,{\i0}But it's not like I'm only sad during May.
+Dialogue: 10,0:18:20.29,0:18:21.25,Default,,0,0,0,,{\i0}This sucks.
+Dialogue: 10,0:18:21.25,0:18:23.46,Default,,0,0,0,,{\i1}They really expect me to get the May Blues.
+Dialogue: 10,0:18:25.54,0:18:26.63,Default,,0,0,0,,{\i1}She sighed!
+Dialogue: 10,0:18:26.63,0:18:27.92,Default,,0,0,0,,{\i1}It's started!
+Dialogue: 10,0:18:27.92,0:18:29.80,Default,,0,0,0,,Wh-Who gives a damn about May Blues?
 Dialogue: 10,0:18:29.80,0:18:31.21,Default,,0,0,0,,Ah, she said it.
-Dialogue: 10,0:18:31.21,0:18:32.55,Default,,0,0,0,,Mei and Satsuki are both May children!
-Dialogue: 10,0:18:32.55,0:18:33.80,Default,,0,0,0,,Satsuki is an old name for May.
-Dialogue: 10,0:18:33.80,0:18:37.60,Default,,0,0,0,,That's right! The May Blues must \Nmake you able to see Totoro!
+Dialogue: 10,0:18:31.21,0:18:33.80,Default,,0,0,0,,Mei and Satsuki are both May children!
+Dialogue: 10,0:18:33.80,0:18:37.60,Default,,0,0,0,,That's right! The May Blues makes you able to see Totoro!
 Dialogue: 10,0:18:37.60,0:18:39.18,Default,,0,0,0,,How wonderful!
-Dialogue: 10,0:18:40.35,0:18:44.69,Default,,0,0,0,,They say manga artists approaching a deadline \Nhallucinate mythical beasts too.
+Dialogue: 10,0:18:40.35,0:18:44.69,Default,,0,0,0,,{\q2}They say manga artists hallucinate mythical beasts \Nwhile they're approaching a deadline, too.
 Dialogue: 10,0:18:44.94,0:18:45.90,Default,,0,0,0,,White crocodiles.
 Dialogue: 10,0:18:45.90,0:18:46.77,Default,,0,0,0,,Green cats.
 Dialogue: 10,0:18:46.77,0:18:48.40,Default,,0,0,0,,And the assistant who shouldn't exist.
 Dialogue: 10,0:18:48.40,0:18:49.32,Default,,0,0,0,,Yamashita.
 Dialogue: 10,0:18:49.61,0:18:51.82,Default,,0,0,0,,Yamashita the mythical beast is so scary!
 Dialogue: 10,0:18:51.82,0:18:54.55,Default,,0,0,0,,Nope, I've never seen Totoro or Yamashita.
-Dialogue: 10,0:18:54.55,0:18:58.91,Default,,0,0,0,,Anyway, I'm not particularly more depressed \Nin May than any other time of year.
+Dialogue: 10,0:18:54.55,0:18:58.91,Default,,0,0,0,,{\q2}Also, I'm not particularly more depressed \Nin May than any other time of year.
 Dialogue: 10,0:18:58.91,0:19:00.66,Default,,0,0,0,,Not more depressed in May...
-Dialogue: 10,0:19:00.66,0:19:05.00,Default,,0,0,0,,You mean you get the June Blues, \NJuly Blues and August Blues too?!
+Dialogue: 10,0:19:00.66,0:19:05.00,Default,,0,0,0,,You mean you get the June Woes, \NJuly Slumps, and August Malaise, too?!
 Dialogue: 10,0:19:05.00,0:19:06.21,Default,,0,0,0,,Those are believable.
 Dialogue: 10,0:19:06.21,0:19:07.67,Default,,0,0,0,,Y'know, these days.
 Dialogue: 10,0:19:07.67,0:19:10.17,Default,,0,0,0,,Even if they're not real, they should be.
 Dialogue: 10,0:19:10.17,0:19:13.67,Default,,0,0,0,,At any rate, we can't let you suffer alone!
 Dialogue: 10,0:19:14.05,0:19:15.93,Default,,0,0,0,,We should help shoulder the pain!
-Dialogue: 10,0:19:16.39,0:19:17.80,Default,,0,0,0,,I've got the June Blues!
+Dialogue: 10,0:19:16.39,0:19:18.30,Default,,0,0,0,,I've got the June Blues!
+Dialogue: 10,0:19:18.30,0:19:18.93,Default,,0,0,0,,What?
 Dialogue: 10,0:19:18.93,0:19:21.35,Default,,0,0,0,,We'll all take on a different month.
-Dialogue: 10,0:19:21.35,0:19:24.06,Default,,0,0,0,,Oh, I see! I'll go for the November Blues.
+Dialogue: 10,0:19:21.35,0:19:24.06,Default,,0,0,0,,Oh, I see! I'll go for the November Blues!
 Dialogue: 10,0:19:24.06,0:19:24.89,Default,,0,0,0,,February Blues.
 Dialogue: 10,0:19:24.89,0:19:25.81,Default,,0,0,0,,December Blues!
-Dialogue: 10,0:19:25.81,0:19:29.73,Default,,0,0,0,,Well... we managed to use the power of \Nfemale friendship to spread the suffering.
-Dialogue: 10,0:19:29.73,0:19:32.65,Default,,0,0,0,,But what do my June Blues involve?
-Dialogue: 10,0:19:34.03,0:19:35.49,Default,,0,0,0,,Well, it's rainy season, so...
-Dialogue: 10,0:19:35.78,0:19:36.86,Default,,0,0,0,,maybe some kind of groin fungus?
-Dialogue: 10,0:19:37.66,0:19:40.53,Default,,0,0,0,,Just what I'd expect from a cross-dressing boy.
+Dialogue: 10,0:19:25.81,0:19:29.73,Default,,0,0,0,,{\q2}Well... we managed to use our \Ngirl power to divide the suffering.
+Dialogue: 10,0:19:29.73,0:19:32.65,Default,,0,0,0,,But what do my June Woes involve?
+Dialogue: 10,0:19:34.03,0:19:36.86,Default,,0,0,0,,{\q2}Well, it's rainy season, so... \Nmaybe some kind of groin fungus?
+Dialogue: 10,0:19:37.66,0:19:40.53,Default,,0,0,0,,Just what one would expect from a cross-dressing boy.
 Dialogue: 10,0:19:40.53,0:19:41.33,Default,,0,0,0,,Shut up!
 Dialogue: 10,0:19:41.33,0:19:43.70,Default,,0,0,0,,You'll have to show your gross lumps to a doctor.
 Dialogue: 10,0:19:43.70,0:19:45.16,Default,,0,0,0,,I don't have any kind of lumps!
@@ -395,52 +394,53 @@ Dialogue: 10,0:19:50.96,0:19:54.55,Default,,0,0,0,,Holding onto grudges about th
 Dialogue: 10,0:19:55.55,0:19:58.34,Default,,0,0,0,,Like when they hid your school slippers,
 Dialogue: 10,0:19:58.68,0:20:01.07,Default,,0,0,0,,or rubbed down the corners of your eraser,
 Dialogue: 10,0:20:01.07,0:20:03.14,Default,,0,0,0,,or laughed at your house's screen door,
-Dialogue: 10,0:20:03.14,0:20:05.98,Default,,0,0,0,,or wrote the lyrics to that "Alice" song \Non the bottom of your chair!
+Dialogue: 10,0:20:03.14,0:20:05.98,Default,,0,0,0,,{\q2}or wrote the lyrics to that one Alice song \Non the bottom of your desk! {## Refers to "Champion" by Alice}
 Dialogue: 10,0:20:05.98,0:20:07.89,Default,,0,0,0,,I'll never forgive them!
 Dialogue: 10,0:20:07.89,0:20:09.98,Default,,0,0,0,,You can take the June Blues.
-Dialogue: 10,0:20:12.98,0:20:16.49,Default,,0,0,0,,So then, since you gave up June, \Nwhich month will you take?
+Dialogue: 10,0:20:12.98,0:20:16.49,Default,,0,0,0,,{\q2}So, since you gave up June, \Nwhich month will you take?
 Dialogue: 10,0:20:16.49,0:20:18.43,Default,,0,0,0,,Hmm, right. Since I'm a woman of extreme kindness,
 Dialogue: 10,0:20:18.43,0:20:24.37,Default,,0,0,0,,I'll take on the heaviest month of the year.
 Dialogue: 10,0:20:24.37,0:20:27.12,Default,,0,0,0,,Which one is that?
 Dialogue: 10,0:20:27.12,0:20:29.29,Default,,0,0,0,,The September Blues sound pretty rough.
-Dialogue: 10,0:20:29.29,0:20:34.50,Default,,0,0,0,,Ah yeah. Summers over, back to school. It's a drag.
-Dialogue: 10,0:20:34.50,0:20:38.34,Default,,0,0,0,,There are kids who get it so bad \Nthey can't go to school.
+Dialogue: 10,0:20:29.29,0:20:34.50,Default,,0,0,0,,{\q2}Ah, yeah. Summer's over and you \Ngotta go back to school. It's a drag.
+Dialogue: 10,0:20:34.50,0:20:38.34,Default,,0,0,0,,{\q2}There are kids who get it so bad \Nthey can't even go to school.
 Dialogue: 10,0:20:43.47,0:20:44.26,Default,,0,0,0,,How come?
 Dialogue: 10,0:20:44.26,0:20:45.39,Default,,0,0,0,,Shh! Don't ask!
 Dialogue: 10,0:20:45.39,0:20:49.02,Default,,0,0,0,,Huh? Then what month am I?
 Dialogue: 10,0:20:49.02,0:20:51.23,Default,,0,0,0,,I dunno which month to pick.
-Dialogue: 10,0:20:51.56,0:20:54.25,Default,,0,0,0,,None of them really seem that heavy.
+Dialogue: 10,0:20:51.56,0:20:54.25,Default,,0,0,0,,None of them seem all that heavy.
 Dialogue: 10,0:20:54.25,0:20:57.40,Default,,0,0,0,,Only you enjoy the whole year that much, Marii.
-Dialogue: 10,0:20:57.40,0:21:01.20,Default,,0,0,0,,Nothing springs to mind except May, huh.
+Dialogue: 10,0:20:57.40,0:21:01.20,Default,,0,0,0,,Nothing springs to mind except for May, huh?
 Dialogue: 10,0:21:01.53,0:21:04.78,Default,,0,0,0,,But it's not like I have the May Blues.
 Dialogue: 10,0:21:04.78,0:21:05.74,Default,,0,0,0,,Hm, I wonder?
-Dialogue: 10,0:21:05.74,0:21:09.08,Default,,0,0,0,,Energetic people are more susceptible \Nto the May Blues, you know.
+Dialogue: 10,0:21:05.74,0:21:09.08,Default,,0,0,0,,{\q2}Energetic people are more susceptible \Nto the May Blues, you know.
 Dialogue: 10,0:21:09.08,0:21:11.29,Default,,0,0,0,,Yeah, you should watch out, Marii.
 Dialogue: 10,0:21:11.29,0:21:14.00,Default,,0,0,0,,Don't be silly! I'm fine!
-Dialogue: 10,0:21:20.47,0:21:21.13,Default,,0,0,0,,Ya...
+Dialogue: 10,0:21:20.47,0:21:21.13,Default,,0,0,0,,Ya—
 Dialogue: 10,0:21:23.68,0:21:24.85,Default,,0,0,0,,Yamashita!
-Dialogue: 10,0:21:26.18,0:21:28.60,Default,,0,0,0,,J-Just asking...
+Dialogue: 10,0:21:26.18,0:21:28.60,Default,,0,0,0,,J-Just making sure, but...
 Dialogue: 10,0:21:28.93,0:21:31.14,Default,,0,0,0,,Yamashita isn't standing over there, is he?
 Dialogue: 10,0:21:31.14,0:21:31.81,Default,,0,0,0,,Yeah...
-Dialogue: 10,0:21:31.81,0:21:33.02,Default,,0,0,0,,Yamashita...
-Dialogue: 10,0:21:33.02,0:21:34.11,Default,,0,0,0,,Isn't there.
+Dialogue: 10,0:21:31.81,0:21:33.02,Default,,0,0,0,,What do you mean, Yamashita?
+Dialogue: 10,0:21:33.02,0:21:34.11,Default,,0,0,0,,He isn't.
 Dialogue: 10,0:21:34.11,0:21:37.11,Default,,0,0,0,,I had May Blues all along!
-Dialogue: 10,0:21:38.11,0:21:42.99,Default,,0,0,0,,I often saw Yamashita after that.
-Dialogue: 10,0:21:43.70,0:21:45.33,Default,,0,0,0,,Tormenting me.
+Dialogue: 10,0:21:38.11,0:21:42.99,Default,,0,0,0,,{\i1}I would often see Yamashita after that.
+Dialogue: 10,0:21:43.70,0:21:45.33,Default,,0,0,0,,{\i1}Tormenting me.
 Dialogue: 10,0:21:50.16,0:21:51.83,Default,,0,0,0,,Why don't you just forgive her?
 Dialogue: 10,0:21:57.84,0:21:59.46,Default,,0,0,0,,Just a little longer.
 Dialogue: 10,0:22:02.09,0:22:03.80,Default,,0,0,0,,She's pretty tenacious.
 Dialogue: 10,0:22:03.80,0:22:07.14,Default,,0,0,0,,She's come out of her depression a little at least.
 Dialogue: 10,0:22:06.22,0:22:07.14,Alt,,0,0,0,,When...
 Dialogue: 10,0:22:07.47,0:22:09.98,Default,,0,0,0,,When is May gonna end?!
+Comment: 0,0:23:39.98,0:23:39.98,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:23:40.69,0:23:42.44,Default,,0,0,0,,Marii Buratei here.
 Dialogue: 10,0:23:42.44,0:23:44.28,Default,,0,0,0,,We've all got nail clippers, right?
 Dialogue: 10,0:23:44.28,0:23:45.78,Default,,0,0,0,,Or nail scissors.
 Dialogue: 10,0:23:45.78,0:23:48.28,Default,,0,0,0,,Do you share them with your housemates?
 Dialogue: 10,0:23:48.62,0:23:50.68,Default,,0,0,0,,You wouldn't do that with a toothbrush.
 Dialogue: 10,0:23:50.68,0:23:54.16,Default,,0,0,0,,What about earwax picks? Bowls? Cups?
-Dialogue: 10,0:23:54.16,0:23:56.21,Default,,0,0,0,,Where's the line? What's in and what's out?
-Dialogue: 10,0:23:56.21,0:24:00.34,Default,,0,0,0,,Once I start thinking about it, I can't stop!
+Dialogue: 10,0:23:54.16,0:23:58.00,Default,,0,0,0,,{\q2}Where would you draw the line? \NWhat's in and what's out?
+Dialogue: 10,0:23:58.00,0:24:00.34,Default,,0,0,0,,Once I start thinking about it, I can't stop!
 Dialogue: 10,0:24:00.84,0:24:03.25,Default,,0,0,0,,Anyway, here's the next episode of Joshiraku.
 Dialogue: 10,0:24:03.25,0:24:06.74,Default,,0,0,0,,"Life's Butt a Comedy", "The Bear of Ueno", \Nand "Sleep-Talking".
-Dialogue: 10,0:24:06.74,0:24:09.05,Default,,0,0,0,,Long live His Excellency Rozen!
+Dialogue: 10,0:24:06.74,0:24:09.05,Default,,0,0,0,,Long live His Excellency, Rozen!

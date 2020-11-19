@@ -98,31 +98,35 @@ Dialogue: 0,0:14:52.25,0:14:54.21,Sign,,0,0,0,,{\pos(749.49,408)}Turtle and Gins
 Dialogue: 0,0:14:52.25,0:14:54.21,Sign,,0,0,0,,{\pos(745.13,591.4)}Mukian
 Dialogue: 0,0:15:47.72,0:15:51.43,Sign,TLC,0,0,0,,{\pos(444.8,440)}Jizodori Shopping Street
 Dialogue: 0,0:15:47.72,0:15:51.43,Sign,,0,0,0,,{\pos(444.8,600)}Thornpuller hall entrance
-Dialogue: 0,0:16:28.88,0:16:31.80,Sign,,0,0,0,,{\pos(642.414,146)}April
-Dialogue: 0,0:16:28.88,0:16:31.80,Sign,,0,0,0,,{\pos(640.664,462)\fs32}Mon
-Dialogue: 0,0:16:28.88,0:16:31.80,Sign,,0,0,0,,{\pos(638.703,527)\fs32}Very Lucky Day
+Dialogue: 0,0:16:28.84,0:16:31.80,Sign,,0,0,0,,{\pos(642.41,200.67)\c&H181E22&}April
+Dialogue: 0,0:16:28.84,0:16:31.80,Sign,,0,0,0,,{\fs32\pos(640.66,486)\c&H181E22&}Monday
+Dialogue: 0,0:16:28.84,0:16:31.80,Sign,,0,0,0,,{\fs32\pos(638.7,549.67)\c&H181E22&}Very Lucky Day
 Dialogue: 0,0:18:16.53,0:18:19.95,Sign,,0,0,0,,{\pos(700.586,81)}Kukuru's Ups and Downs by Month
-Dialogue: 0,0:18:16.53,0:18:19.95,Sign,,0,0,0,,{\pos(128.906,167)\fs32}High
-Dialogue: 0,0:18:16.53,0:18:19.95,Sign,,0,0,0,,{\pos(125.523,563)\fs32}Low
+Dialogue: 0,0:18:16.53,0:18:19.95,Sign,,0,0,0,,{\fs32\pos(82.24,131)}Highs
+Dialogue: 0,0:18:16.53,0:18:19.95,Sign,,0,0,0,,{\fs32\pos(82.86,591)}Lows
+Dialogue: 0,0:20:03.14,0:20:05.98,Sign,TLC/Edit,0,0,0,,I grasped your hot arm \NYou came out, shaking \NTrembling slightly in your white gown \NAnd I saw your prolonged sadness \NIn the long corridor \NWhere you're walking towards the ring \NYou suddenly stopped for no reason \NYou turned around to face me awkwardly \NShowing your fists and smiling a bit lonely \NEventually the ring and the maelstrom of applause swallowed a single man \N(You're the king of Kings) \NStand! \NRise back to your feet again! \NLight up the flames of life! {## Song is "Champion" by Alice. Lyrics are taken from Judas' Sora no Otoshimono release and very, very mildly edited. Further editing would probably be a good idea.}
 Dialogue: 0,0:20:10.27,0:20:10.94,Sign,,0,0,0,,{\pos(734.844,153)}DECIDED
 Dialogue: 0,0:20:10.94,0:20:12.77,Sign,,0,0,0,,{\pos(319.648,254)}June Blues
 Dialogue: 0,0:20:40.55,0:20:41.22,Sign,,0,0,0,,{\pos(773.844,153)}DECIDED
 Dialogue: 0,0:20:41.26,0:20:43.18,Sign,,0,0,0,,{\pos(618.117,276)}September Blues
-Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(685.398,211)}JAN
-Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(135.969,506)}FEB
-Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(729.961,556)}Chocolate                      Snowball fights
-Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(755.227,146)}Cherry blossoms
-Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(139.68,196)}APR
-Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(1119.125,506)}MAR
-Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(202.25,556)}School trips
-Dialogue: 0,0:20:52.31,0:20:53.77,Sign,,0,0,0,,{\pos(411.883,139)}Mountains
-Dialogue: 0,0:20:52.31,0:20:53.77,Sign,,0,0,0,,{\pos(1128.734,211)}JUL
-Dialogue: 0,0:20:52.36,0:20:53.77,Sign,,0,0,0,,{\pos(141.781,513)}AUG
-Dialogue: 0,0:20:52.36,0:20:53.77,Sign,,0,0,0,,{\pos(834.406,564)}Ocean
-Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,,{\pos(388.289,240)}NOV                                      OCT
-Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,,{\pos(576.648,571)}Baked potatoes                                            Halloween
-Dialogue: 0,0:20:55.78,0:20:57.36,Sign,,0,0,0,,{\pos(1086.461,312)}DEC
-Dialogue: 0,0:20:55.78,0:20:57.36,Sign,,0,0,0,,{\pos(289.344,571)}Christmas
-Dialogue: 0,0:21:59.88,0:22:01.84,Sign,,0,0,0,,{\pos(601,122)\an7\fs48}May
-Dialogue: 0,0:21:59.88,0:22:01.84,Sign,,0,0,0,,{\pos(614,439)\an7\fs32}Mon
-Dialogue: 0,0:21:59.88,0:22:01.84,Sign,,0,0,0,,{\pos(537,504)\an7\fs32}Very Unlucky Day
+Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(693.4,208.33)}JAN
+Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(142.64,502)}FEB
+Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(495.29,554.67)}Chocolate
+Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(1028.63,550.67)}Snowball fights
+Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(795.23,147.33)}Cherry Blossoms
+Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(143.68,208)}APR
+Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(1168.46,499.33)}MAR
+Dialogue: 0,0:20:50.52,0:20:52.02,Sign,,0,0,0,,{\pos(196.92,558.67)}School Trips
+Dialogue: 0,0:20:52.31,0:20:53.77,Sign,,0,0,0,,{\pos(426.55,141.67)}Mountains
+Dialogue: 0,0:20:52.31,0:20:53.77,Sign,,0,0,0,,{\pos(1138.07,201.67)}JUL
+Dialogue: 0,0:20:52.36,0:20:53.77,Sign,,0,0,0,,{\pos(139.11,703.67)}AUG
+Dialogue: 0,0:20:52.36,0:20:53.77,Sign,,0,0,0,,{\pos(847.74,562.67)}Ocean
+Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,,{\pos(108.29,233.33)}NOV
+Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,,{\pos(702.95,233.34)}OCT
+Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,,{\pos(213.98,571)}Baked potatoes
+Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,,{\pos(1035.31,569.67)}Halloween
+Dialogue: 0,0:20:55.78,0:20:57.40,Sign,,0,0,0,,{\pos(1086.461,312)}DEC
+Dialogue: 0,0:20:55.78,0:20:57.40,Sign,,0,0,0,,{\pos(317.34,568.33)}Christmas
+Dialogue: 0,0:21:59.84,0:22:01.84,Sign,,0,0,0,,{\an7\fs48\pos(601,175.33)}May
+Dialogue: 0,0:21:59.84,0:22:01.84,Sign,,0,0,0,,{\an7\fs32\pos(614,465.67)}Mon
+Dialogue: 0,0:21:59.84,0:22:01.84,Sign,,0,0,0,,{\an7\fs32\pos(537,529.33)}Very Unlucky Day
