@@ -54,24 +54,24 @@ Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor rom layer 0,{\bord0
 Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line layer 1,{\blur0.85}
 Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line layer 0,{\blur6}
 Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,,
-Comment: 0,0:00:07.28,0:00:08.91,ED1,eng,0,0,0,to_track,Live long, live long and prosper
-Comment: 0,0:00:08.91,0:00:10.41,ED1,eng,0,0,0,to_track,May great wealth await you wherever you go
-Comment: 0,0:00:10.41,0:00:11.91,ED1,eng,0,0,0,to_track,Be it on unknown soil or under foreign skies
-Comment: 0,0:00:11.91,0:00:13.41,ED1,eng,0,0,0,to_track,May you always have your daily bread!
-Comment: 0,0:00:13.41,0:00:14.91,ED1,eng,0,0,0,to_track,And always be brimming full of life
-Comment: 0,0:00:14.91,0:00:17.96,ED1,eng,0,0,0,to_track,Like the long-lived king of Shuringan
-Comment: 0,0:00:19.00,0:00:20.88,ED1,eng,0,0,0,to_track,And his dear wife, Gurindai
-Comment: 0,0:00:20.88,0:00:23.17,ED1,eng,0,0,0,to_track,And their children, Ponpokoki and Ponpokona
-Comment: 0,0:00:23.17,0:00:25.38,ED1,eng,0,0,0,to_track,Who lived a long and blessed life
-Comment: 0,0:00:07.28,0:00:08.91,ED1,rom,0,0,0,to_track,jugemu jugemu gokou no surikire
-Comment: 0,0:00:08.91,0:00:10.41,ED1,rom,0,0,0,to_track,kaijarisuigyo no suigyoumatsu
-Comment: 0,0:00:10.41,0:00:11.91,ED1,rom,0,0,0,to_track,unraimatsu fuuraimatsu
-Comment: 0,0:00:11.91,0:00:13.41,ED1,rom,0,0,0,to_track,kuuneru tokoro ni sumu tokoro
-Comment: 0,0:00:13.41,0:00:14.91,ED1,rom,0,0,0,to_track,yaburakouji no burakouji
-Comment: 0,0:00:14.91,0:00:17.96,ED1,rom,0,0,0,to_track,paipo paipo paipo no shuringan
-Comment: 0,0:00:19.00,0:00:20.88,ED1,rom,0,0,0,to_track,shuringan no gurindai
-Comment: 0,0:00:20.88,0:00:23.17,ED1,rom,0,0,0,to_track,guurindai no ponpokopi no ponpokona no
-Comment: 0,0:00:23.17,0:00:25.38,ED1,rom,0,0,0,to_track,choukyuumei no chousuke
+Dialogue: 0,0:00:07.28,0:00:08.86,ED1,eng,0,0,0,to_track,{\fade(200,250)}Live long, live long and prosper
+Dialogue: 0,0:00:08.86,0:00:10.32,ED1,eng,0,0,0,to_track,{\fade(200,250)}May great wealth await you wherever you go
+Dialogue: 0,0:00:10.32,0:00:11.87,ED1,eng,0,0,0,to_track,{\fade(200,250)}Be it on unknown soil or under foreign skies
+Dialogue: 0,0:00:11.87,0:00:13.33,ED1,eng,0,0,0,to_track,{\fade(200,250)}May you always have your daily bread!
+Dialogue: 0,0:00:13.33,0:00:14.87,ED1,eng,0,0,0,to_track,{\fade(200,250)}And always be brimming full of life
+Dialogue: 0,0:00:14.87,0:00:17.87,ED1,eng,0,0,0,to_track,{\move(640,700,1540,700,2600,3000)\fad(200,0)}Like the long-lived king of Shuringan
+Dialogue: 0,0:00:19.00,0:00:20.83,ED1,eng,0,0,0,to_track,{\move(-300,700,640,700,0,300)\fad(0,250)}And his dear wife, Gurindai
+Dialogue: 0,0:00:20.83,0:00:23.00,ED1,eng,0,0,0,to_track,{\fade(200,250)}And their children, Ponpokoki and Ponpokona
+Dialogue: 0,0:00:23.00,0:00:25.38,ED1,eng,0,0,0,to_track,{\move(640,700,680,700,1980,2380)\fade(200,250)}Who lived a long and blessed life
+Dialogue: 0,0:00:07.28,0:00:08.86,ED1,rom,0,0,0,to_track,{\pos(640,658)\fs34\fad(200,250)}jugemu jugemu gokou no surikire
+Dialogue: 0,0:00:08.86,0:00:10.32,ED1,rom,0,0,0,to_track,{\pos(640,658)\fs34\fad(200,250)}kaijarisuigyo no suigyoumatsu
+Dialogue: 0,0:00:10.32,0:00:11.87,ED1,rom,0,0,0,to_track,{\pos(640,658)\fs34\fad(200,250)}unraimatsu fuuraimatsu
+Dialogue: 0,0:00:11.87,0:00:13.33,ED1,rom,0,0,0,to_track,{\pos(640,658)\fs34\fad(200,250)}kuuneru tokoro ni sumu tokoro
+Dialogue: 0,0:00:13.33,0:00:14.87,ED1,rom,0,0,0,to_track,{\pos(640,658)\fs34\fad(200,250)}yaburakouji no burakouji
+Dialogue: 0,0:00:14.87,0:00:17.87,ED1,rom,0,0,0,to_track,{\fs34\move(640,658,1540,658,2600,3000)\fad(200,0)}paipo paipo paipo no shuringan
+Dialogue: 0,0:00:19.00,0:00:20.83,ED1,rom,0,0,0,to_track,{\move(-300,658,640,658,0,300)\fs34\fad(0,250)}shuringan no gurindai
+Dialogue: 0,0:00:20.83,0:00:23.00,ED1,rom,0,0,0,to_track,{\pos(640,658)\fs34\fad(200,250)}guurindai no ponpokopi no ponpokona no
+Dialogue: 0,0:00:23.00,0:00:25.38,ED1,rom,0,0,0,to_track,{\move(640,658,680,660,1980,2380)\fs34\fad(200,250)}choukyuumei no chousuke
 Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,sync,{ED}
 Comment: 0,0:00:28.22,0:00:31.43,ED1,eng eng_centre nofadeout,0,0,0,kara,Esteemed guests, give us but a moment of your time!
