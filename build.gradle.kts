@@ -28,11 +28,11 @@ subs {
             }
         }
 
-        if (propertyExists("IS")) {
+        if (file(get("IS")).exists()) {
             from(get("IS"))
         }
 
-        if (propertyExists("TS")) {
+        if (file(get("TS")).exists()) {
             from(get("TS"))
         }
 
