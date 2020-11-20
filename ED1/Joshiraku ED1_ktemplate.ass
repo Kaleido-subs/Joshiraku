@@ -6,12 +6,12 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
+Title: [Kaleido-subs] Joshiraku
 PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Export Encoding: Unicode (UTF-8)
-Last Style Storage: Default (720p)
+Last Style Storage: Default
 Audio File: JoshirakuBD_NCED1 (Premux).mkv
 Video File: JoshirakuBD_NCED1 (Premux).mkv
 Video AR Mode: 4
@@ -21,77 +21,108 @@ Video AR Value: 1.777778
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: ED1 - ENG,Bubblegum Sans,42,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,3,0,2,20,20,20,1
 Style: ED1 - ROM,Bubblegum Sans,34,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,3.2,0,2,20,20,62,1
+Style: ED1,Bubblegum Sans,40,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0.2,0,1,0,0,2,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 2,0:00:00.00,0:00:00.02,ED1,,0,0,0,template line noblank,{\blur0.65}
+Comment: 1,0:00:00.00,0:00:00.02,ED1,,0,0,0,template line noblank,{\4c&H000000&}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,template line noblank,{\4a&HA0&}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor rom_centre,{\pos(640,658)\fs34}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor rom_left,{\an3\pos(620,658)\fs34}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor eng_left,{\an3\pos(620,700)}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor rom_leftleft,{\an1\pos(20,658)\fs34}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor eng_leftleft,{\an1\pos(20,700)}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor rom_right,{\an1\pos(660,658)\fs34}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor eng_right,{\an1\pos(660,700)}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor rom_outroright,{\pos(736,658)\fs34}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor eng_outroright,{\pos(736,700)}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor rom_outroleft,{\pos(554,658)\fs34}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor eng_outroleft,{\pos(554,700)}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line,!retime('line',0,0)!{\1a&HFE&\3a&HFE&}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line,{\xshad0.01}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor fade,{\fad(200,250)}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor nofadeout,{\fad(200,0)}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor nofadein,{\fad(0,250)}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor eng layer 1,{\bord2}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor eng layer 0,{\bord1}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor rom layer 1,{\bord1.8}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line actor rom layer 0,{\bord0.8}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line layer 1,{\blur0.85}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,mixin line layer 0,{\blur6}
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,,
+Comment: 0,0:00:07.28,0:00:08.91,ED1,eng,0,0,0,to_track,Live long, live long and prosper
+Comment: 0,0:00:08.91,0:00:10.41,ED1,eng,0,0,0,to_track,May great wealth await you wherever you go
+Comment: 0,0:00:10.41,0:00:11.91,ED1,eng,0,0,0,to_track,Be it on unknown soil or under foreign skies
+Comment: 0,0:00:11.91,0:00:13.41,ED1,eng,0,0,0,to_track,May you always have your daily bread!
+Comment: 0,0:00:13.41,0:00:14.91,ED1,eng,0,0,0,to_track,And always be brimming full of life
+Comment: 0,0:00:14.91,0:00:17.96,ED1,eng,0,0,0,to_track,Like the long-lived king of Shuringan
+Comment: 0,0:00:19.00,0:00:20.88,ED1,eng,0,0,0,to_track,And his dear wife, Gurindai
+Comment: 0,0:00:20.88,0:00:23.17,ED1,eng,0,0,0,to_track,And their children, Ponpokoki and Ponpokona
+Comment: 0,0:00:23.17,0:00:25.38,ED1,eng,0,0,0,to_track,Who lived a long and blessed life
+Comment: 0,0:00:07.28,0:00:08.91,ED1,rom,0,0,0,to_track,jugemu jugemu gokou no surikire
+Comment: 0,0:00:08.91,0:00:10.41,ED1,rom,0,0,0,to_track,kaijarisuigyo no suigyoumatsu
+Comment: 0,0:00:10.41,0:00:11.91,ED1,rom,0,0,0,to_track,unraimatsu fuuraimatsu
+Comment: 0,0:00:11.91,0:00:13.41,ED1,rom,0,0,0,to_track,kuuneru tokoro ni sumu tokoro
+Comment: 0,0:00:13.41,0:00:14.91,ED1,rom,0,0,0,to_track,yaburakouji no burakouji
+Comment: 0,0:00:14.91,0:00:17.96,ED1,rom,0,0,0,to_track,paipo paipo paipo no shuringan
+Comment: 0,0:00:19.00,0:00:20.88,ED1,rom,0,0,0,to_track,shuringan no gurindai
+Comment: 0,0:00:20.88,0:00:23.17,ED1,rom,0,0,0,to_track,guurindai no ponpokopi no ponpokona no
+Comment: 0,0:00:23.17,0:00:25.38,ED1,rom,0,0,0,to_track,choukyuumei no chousuke
+Comment: 0,0:00:00.00,0:00:00.02,ED1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,sync,{ED}
-Dialogue: 0,0:00:07.28,0:00:08.91,ED1 - ENG,eng intro move1,0,0,0,kara,Live long, live long and prosper
-Dialogue: 0,0:00:08.91,0:00:10.41,ED1 - ENG,eng intro,0,0,0,kara,May great wealth await you wherever you go
-Dialogue: 0,0:00:10.41,0:00:11.91,ED1 - ENG,eng intro,0,0,0,kara,Be it on unknown soil or under foreign skies
-Dialogue: 0,0:00:11.91,0:00:13.41,ED1 - ENG,eng intro,0,0,0,kara,May you always have your daily bread!
-Dialogue: 0,0:00:13.41,0:00:14.91,ED1 - ENG,eng intro,0,0,0,kara,And always be brimming full of life
-Dialogue: 0,0:00:14.91,0:00:17.96,ED1 - ENG,eng intro move2,0,0,0,kara,Like the long-lived king of Shuringan
-Dialogue: 0,0:00:19.00,0:00:20.88,ED1 - ENG,eng intro move3,0,0,0,kara,And his dear wife, Gurindai
-Dialogue: 0,0:00:20.88,0:00:23.17,ED1 - ENG,eng intro,0,0,0,kara,And their children, Ponpokoki and Ponpokona
-Dialogue: 0,0:00:23.17,0:00:25.38,ED1 - ENG,eng intro move4,0,0,0,kara,Who lived a long and blessed life
-Dialogue: 0,0:00:28.22,0:00:31.43,ED1 - ENG,eng centre,0,0,0,kara,Esteemed guests, give us but a moment of your time!
-Dialogue: 0,0:00:34.18,0:00:35.85,ED1 - ENG,eng left,0,0,0,kara,All eyes on the stage!
-Dialogue: 0,0:00:35.85,0:00:37.52,ED1 - ENG,eng centre,0,0,0,kara,All ready to go!
-Dialogue: 0,0:00:37.52,0:00:40.10,ED1 - ENG,eng centre,0,0,0,kara,Someone who smiles a lot
-Dialogue: 0,0:00:40.35,0:00:43.19,ED1 - ENG,eng centre,0,0,0,kara,And a traditional Japanese coat
-Dialogue: 0,0:00:43.48,0:00:46.40,ED1 - ENG,eng centre,0,0,0,kara,What do they share in common?
-Dialogue: 0,0:00:46.40,0:00:49.45,ED1 - ENG,eng centre,0,0,0,kara,Both are happi! Get it?
-Dialogue: 0,0:00:49.45,0:00:50.61,ED1 - ENG,eng centre,0,0,0,kara,Thank you kindly for your appreciation!
-Dialogue: 0,0:00:50.61,0:00:51.99,ED1 - ENG,eng left,0,0,0,kara,Let's laugh, crack open a smile!
-Dialogue: 0,0:00:51.99,0:00:53.49,ED1 - ENG,eng left,0,0,0,kara,C'mon, it'll be worthwhile!
-Dialogue: 0,0:00:53.49,0:00:56.54,ED1 - ENG,eng left,0,0,0,kara,We could all use a bit of laughter these days
-Dialogue: 0,0:00:56.54,0:00:57.45,ED1 - ENG,eng left,0,0,0,kara,C'mon, grin!
-Dialogue: 0,0:00:57.04,0:00:57.95,ED1 - ENG,eng leftleft,0,0,0,kara,Yeah, yeah!
-Dialogue: 0,0:00:57.95,0:00:59.54,ED1 - ENG,eng right,0,0,0,kara,You cry, you lose
-Dialogue: 0,0:00:59.54,0:01:02.38,ED1 - ENG,eng right,0,0,0,kara,Even if it's just out of desperation, smile!
-Dialogue: 0,0:01:02.71,0:01:04.00,ED1 - ENG,eng left,0,0,0,kara,Ups and downs, highs and lows
-Dialogue: 0,0:01:04.00,0:01:05.46,ED1 - ENG,eng left,0,0,0,kara,And everything in-between
-Dialogue: 0,0:01:05.46,0:01:08.38,ED1 - ENG,eng left,0,0,0,kara,You've overcome so much, Japan! Bravo!
-Dialogue: 0,0:01:08.38,0:01:09.80,ED1 - ENG,eng centre,0,0,0,kara,Laugh no matter what may come
-Dialogue: 0,0:01:09.92,0:01:14.80,ED1 - ENG,eng left,0,0,0,kara,Cheer up and let's drown in laughter together!
-Dialogue: 0,0:01:17.77,0:01:20.77,ED1 - ENG,eng centre,0,0,0,kara,Laugh like it's the last day of your life!
-Dialogue: 0,0:01:20.77,0:01:21.73,ED1 - ENG,eng centreleft,0,0,0,kara,Smile!
-Dialogue: 0,0:01:21.52,0:01:22.48,ED1 - ENG,eng centreright,0,0,0,kara,Smile!
-Dialogue: 0,0:01:22.35,0:01:23.27,ED1 - ENG,eng centreleft,0,0,0,kara,Like the sun!
-Dialogue: 0,0:01:23.10,0:01:23.90,ED1 - ENG,eng centreright,0,0,0,kara,Like the sun!
-Dialogue: 0,0:01:23.81,0:01:26.77,ED1 - ENG,eng centre,0,0,0,kara,Good fortune comes to those who can give a hearty laugh!
-Dialogue: 0,0:00:07.28,0:00:08.91,ED1 - ROM,rom intro move1,0,0,0,kara,jugemu jugemu gokou no surikire
-Dialogue: 0,0:00:08.91,0:00:10.41,ED1 - ROM,rom intro,0,0,0,kara,kaijarisuigyo no suigyoumatsu
-Dialogue: 0,0:00:10.41,0:00:11.91,ED1 - ROM,rom intro,0,0,0,kara,unraimatsu fuuraimatsu
-Dialogue: 0,0:00:11.91,0:00:13.41,ED1 - ROM,rom intro,0,0,0,kara,kuuneru tokoro ni sumu tokoro
-Dialogue: 0,0:00:13.41,0:00:14.91,ED1 - ROM,rom intro,0,0,0,kara,yaburakouji no burakouji
-Dialogue: 0,0:00:14.91,0:00:17.96,ED1 - ROM,rom intro move2,0,0,0,kara,paipo paipo paipo no shuringan
-Dialogue: 0,0:00:19.00,0:00:20.88,ED1 - ROM,rom intro move3,0,0,0,kara,shuringan no gurindai
-Dialogue: 0,0:00:20.88,0:00:23.17,ED1 - ROM,rom intro,0,0,0,kara,guurindai no ponpokopi no ponpokona no
-Dialogue: 0,0:00:23.17,0:00:25.38,ED1 - ROM,rom intro move4,0,0,0,kara,choukyuumei no chousuke
-Dialogue: 0,0:00:28.22,0:00:31.43,ED1 - ROM,rom centre,0,0,0,kara,choi to ojikan itadakimasu
-Dialogue: 0,0:00:34.18,0:00:35.85,ED1 - ROM,rom left,0,0,0,kara,goseichou kudasai
-Dialogue: 0,0:00:35.85,0:00:37.52,ED1 - ROM,rom centre,0,0,0,kara,totonoimashita
-Dialogue: 0,0:00:37.52,0:00:40.10,ED1 - ROM,rom centre,0,0,0,kara,warau koto to kakemashita
-Dialogue: 0,0:00:40.35,0:00:43.19,ED1 - ROM,rom centre,0,0,0,kara,omatsuri yarou to tokimasu
-Dialogue: 0,0:00:43.48,0:00:46.40,ED1 - ROM,rom centre,0,0,0,kara,sono kokoro wa
-Dialogue: 0,0:00:46.40,0:00:49.45,ED1 - ROM,rom centre,0,0,0,kara,dochira mo happi ni naru deshou
-Dialogue: 0,0:00:49.45,0:00:50.61,ED1 - ROM,rom centre,0,0,0,kara,oato ga yoroshii yo de
-Dialogue: 0,0:00:50.61,0:00:51.99,ED1 - ROM,rom left,0,0,0,kara,waraou waraou
-Dialogue: 0,0:00:51.99,0:00:53.49,ED1 - ROM,rom left,0,0,0,kara,saa waraimasho
-Dialogue: 0,0:00:53.49,0:00:56.54,ED1 - ROM,rom left,0,0,0,kara,konna jidai koso waraimasho
-Dialogue: 0,0:00:56.54,0:00:57.45,ED1 - ROM,rom left,0,0,0,kara,waraou
-Dialogue: 0,0:00:57.04,0:00:57.95,ED1 - ROM,rom leftleft,0,0,0,kara,soiya soiya
-Dialogue: 0,0:00:57.95,0:00:59.54,ED1 - ROM,rom right,0,0,0,kara,naitara made da
-Dialogue: 0,0:00:59.54,0:01:02.38,ED1 - ROM,rom right,0,0,0,kara,yake kuso waraimasho
-Dialogue: 0,0:01:02.71,0:01:04.00,ED1 - ROM,rom left,0,0,0,kara,haranbanjou
-Dialogue: 0,0:01:04.00,0:01:05.46,ED1 - ROM,rom left,0,0,0,kara,sui mo amai mo
-Dialogue: 0,0:01:05.46,0:01:08.38,ED1 - ROM,rom left,0,0,0,kara,nori koeta appare nipponjin
-Dialogue: 0,0:01:08.38,0:01:09.80,ED1 - ROM,rom centre,0,0,0,kara,waraou
-Dialogue: 0,0:01:09.92,0:01:14.80,ED1 - ROM,rom left,0,0,0,kara,donna toki demo nanikuso waraimasho
-Dialogue: 0,0:01:17.77,0:01:20.77,ED1 - ROM,rom centre,0,0,0,kara,kuuki nante yomazu ni warattoke
-Dialogue: 0,0:01:20.77,0:01:21.73,ED1 - ROM,rom centreleft,0,0,0,kara,egao
-Dialogue: 0,0:01:21.52,0:01:22.48,ED1 - ROM,rom centreright,0,0,0,kara,egao
-Dialogue: 0,0:01:22.35,0:01:23.27,ED1 - ROM,rom centreleft,0,0,0,kara,egao
-Dialogue: 0,0:01:23.10,0:01:23.90,ED1 - ROM,rom centreright,0,0,0,kara,egao
-Dialogue: 0,0:01:23.81,0:01:26.77,ED1 - ROM,rom centre,0,0,0,kara,warau kado ni wa fuku kitaru
+Comment: 0,0:00:28.22,0:00:31.43,ED1,eng eng_centre nofadeout,0,0,0,kara,Esteemed guests, give us but a moment of your time!
+Comment: 0,0:00:34.18,0:00:35.85,ED1,eng eng_left nofadeout,0,0,0,kara,All eyes on the stage!
+Comment: 0,0:00:35.85,0:00:37.52,ED1,eng eng_centre nofadein,0,0,0,kara,All ready to go!
+Comment: 0,0:00:37.52,0:00:40.10,ED1,eng eng_centre fade,0,0,0,kara,Someone who smiles a lot
+Comment: 0,0:00:40.35,0:00:43.19,ED1,eng eng_centre fade,0,0,0,kara,And a traditional Japanese coat
+Comment: 0,0:00:43.48,0:00:46.40,ED1,eng eng_centre fade,0,0,0,kara,What do they share in common?
+Comment: 0,0:00:46.40,0:00:49.45,ED1,eng eng_centre fade,0,0,0,kara,They're both happi! Haha, get it?
+Comment: 0,0:00:49.45,0:00:50.61,ED1,eng eng_centre fade,0,0,0,kara,Thank you kindly for your appreciation!
+Comment: 0,0:00:50.61,0:00:51.99,ED1,eng eng_left fade,0,0,0,kara,Let's laugh, crack open a smile!
+Comment: 0,0:00:51.99,0:00:53.49,ED1,eng eng_left fade,0,0,0,kara,C'mon, it'll be worthwhile!
+Comment: 0,0:00:53.49,0:00:56.54,ED1,eng eng_left fade,0,0,0,kara,We could all use a bit of laughter these days
+Comment: 0,0:00:56.54,0:00:57.45,ED1,eng eng_left fade,0,0,0,kara,C'mon, grin!
+Comment: 0,0:00:57.04,0:00:57.95,ED1,eng eng_leftleft nofadeout,0,0,0,kara,Yeah, yeah!
+Comment: 0,0:00:57.95,0:00:59.54,ED1,eng eng_right fade,0,0,0,kara,You cry, you lose
+Comment: 0,0:00:59.54,0:01:02.38,ED1,eng eng_right fade,0,0,0,kara,Even if it's just out of desperation, smile!
+Comment: 0,0:01:02.71,0:01:04.09,ED1,eng eng_left fade,0,0,0,kara,Ups and downs, highs and lows
+Comment: 0,0:01:04.00,0:01:05.46,ED1,eng eng_left fade,0,0,0,kara,And everything in-between
+Comment: 0,0:01:05.46,0:01:08.38,ED1,eng eng_left fade,0,0,0,kara,You've overcome so much, Japan! Bravo!
+Comment: 0,0:01:08.38,0:01:09.63,ED1,eng eng_centre fade,0,0,0,kara,Laugh no matter what may come
+Comment: 0,0:01:09.92,0:01:14.80,ED1,eng eng_left fade,0,0,0,kara,Cheer up and let's drown in laughter together!
+Comment: 0,0:01:17.77,0:01:20.77,ED1,eng eng_centre fade,0,0,0,kara,Laugh like it's the last day of your life!
+Comment: 0,0:01:20.77,0:01:21.73,ED1,eng eng_outroleft fade,0,0,0,kara,Smile!
+Comment: 0,0:01:21.52,0:01:22.48,ED1,eng eng_outroright fade,0,0,0,kara,Smile!
+Comment: 0,0:01:22.35,0:01:23.27,ED1,eng eng_outroleft fade,0,0,0,kara,Like the sun!
+Comment: 0,0:01:23.10,0:01:23.90,ED1,eng eng_outroright fade,0,0,0,kara,Like the sun!
+Comment: 0,0:01:23.81,0:01:26.77,ED1,eng eng_centre fade,0,0,0,kara,Good fortune comes to those who can give a hearty laugh!
+Comment: 0,0:00:28.22,0:00:31.43,ED1,rom rom_centre nofadeout,0,0,0,kara,choi to ojikan itadakimasu
+Comment: 0,0:00:34.18,0:00:35.85,ED1,rom rom_left nofadeout,0,0,0,kara,goseichou kudasai
+Comment: 0,0:00:35.85,0:00:37.52,ED1,rom rom_centre nofadein,0,0,0,kara,totonoimashita
+Comment: 0,0:00:37.52,0:00:40.10,ED1,rom rom_centre fade,0,0,0,kara,warau koto to kakemashita
+Comment: 0,0:00:40.35,0:00:43.19,ED1,rom rom_centre fade,0,0,0,kara,omatsuri yarou to tokimasu
+Comment: 0,0:00:43.48,0:00:46.40,ED1,rom rom_centre fade,0,0,0,kara,sono kokoro wa
+Comment: 0,0:00:46.40,0:00:49.45,ED1,rom rom_centre fade,0,0,0,kara,dochira mo happi ni naru deshou
+Comment: 0,0:00:49.45,0:00:50.61,ED1,rom rom_centre fade,0,0,0,kara,oato ga yoroshii yo de
+Comment: 0,0:00:50.61,0:00:51.99,ED1,rom rom_left fade,0,0,0,kara,waraou waraou
+Comment: 0,0:00:51.99,0:00:53.49,ED1,rom rom_left fade,0,0,0,kara,saa waraimasho
+Comment: 0,0:00:53.49,0:00:56.54,ED1,rom rom_left fade,0,0,0,kara,konna jidai koso waraimasho
+Comment: 0,0:00:56.54,0:00:57.45,ED1,rom rom_left fade,0,0,0,kara,waraou
+Comment: 0,0:00:57.04,0:00:57.95,ED1,rom rom_leftleft nofadeout,0,0,0,kara,soiya soiya
+Comment: 0,0:00:57.95,0:00:59.54,ED1,rom rom_right fade,0,0,0,kara,naitara made da
+Comment: 0,0:00:59.54,0:01:02.38,ED1,rom rom_right fade,0,0,0,kara,yake kuso waraimasho
+Comment: 0,0:01:02.71,0:01:04.09,ED1,rom rom_left fade,0,0,0,kara,haranbanjou
+Comment: 0,0:01:04.00,0:01:05.46,ED1,rom rom_left fade,0,0,0,kara,sui mo amai mo
+Comment: 0,0:01:05.46,0:01:08.38,ED1,rom rom_left fade,0,0,0,kara,nori koeta appare nipponjin
+Comment: 0,0:01:08.38,0:01:09.63,ED1,rom rom_centre fade,0,0,0,kara,waraou
+Comment: 0,0:01:09.92,0:01:14.80,ED1,rom rom_left fade,0,0,0,kara,donna toki demo nanikuso waraimasho
+Comment: 0,0:01:17.77,0:01:20.77,ED1,rom rom_centre fade,0,0,0,kara,kuuki nante yomazu ni warattoke
+Comment: 0,0:01:20.77,0:01:21.73,ED1,rom rom_outroleft fade,0,0,0,kara,egao
+Comment: 0,0:01:21.52,0:01:22.48,ED1,rom rom_outroright fade,0,0,0,kara,egao
+Comment: 0,0:01:22.35,0:01:23.27,ED1,rom rom_outroleft fade,0,0,0,kara,egao
+Comment: 0,0:01:23.10,0:01:23.90,ED1,rom rom_outroright fade,0,0,0,kara,egao
+Comment: 0,0:01:23.81,0:01:26.77,ED1,rom rom_centre fade,0,0,0,kara,warau kado ni wa fuku kitaru
