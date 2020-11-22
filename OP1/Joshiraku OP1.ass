@@ -18,6 +18,7 @@ Audio File: JoshirakuBD_NCOP1 (Premux).mkv
 Video File: JoshirakuBD_NCOP1 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -4142,12 +4143,12 @@ Dialogue: 5,0:01:19.05,0:01:20.77,OP1,rom,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&
 Dialogue: 7,0:01:19.05,0:01:20.77,OP1,rom,0,0,0,fx,{\bord0\blur0.65\an5\pos(400.52,46.00)\fry-80\t(0,200,\fry0)\t(1320,1720,\fry270)}g
 Dialogue: 6,0:01:19.05,0:01:20.77,OP1,rom,0,0,0,fx,{\bord1.2\3c&H000000&\1a&HFE&\blur1\an5\pos(400.52,46.00)\fry-80\t(0,200,\fry0)\t(1320,1720,\fry270)}g
 Dialogue: 5,0:01:19.05,0:01:20.77,OP1,rom,0,0,0,fx,{\3c&H007FFF&\1a&HFE&\3a&H00&\blur4\an5\pos(400.52,46.00)\fry-80\t(0,200,\fry0)\t(1320,1720,\fry270)}g
-Dialogue: 1,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.9\clip(m 1083 263 l 778 294 b 819 206 789 159 777 132 l 1083 163)}Rakugo Girls
-Dialogue: 1,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.9\clip(m 1083 263 l 778 294 b 819 206 789 159 777 132 l 1083 163)}Rakugo Girls
-Dialogue: 0,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\b0\blur9\clip(m 1083 263 l 765 316 b 819 244 809 178 767 116 l 1083 163)}Rakugo Girls
-Dialogue: 0,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\b0\blur13\clip(m 1083 263 l 765 316 b 819 244 809 178 767 116 l 1083 163)}Rakugo Girls
-Dialogue: 0,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\b0\blur13\clip(m 1083 263 l 765 316 b 819 244 809 178 767 116 l 1083 163)}Rakugo Girls
-Dialogue: 0,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\b0\blur13\clip(m 1083 263 l 765 316 b 819 244 809 178 767 116 l 1083 163)}Rakugo Girls
+Dialogue: 1,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.9\clip(m 1115 260 l 778 294 b 819 206 789 159 777 132 l 1115 163)}Rakugo Girls
+Dialogue: 1,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.9\clip(m 1115 260 l 778 294 b 819 206 789 159 777 132 l 1115 163)}Rakugo Girls
+Dialogue: 0,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\b0\blur9\clip(m 1115 267 l 765 316 b 819 244 809 178 767 116 l 1115 159)}Rakugo Girls
+Dialogue: 0,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\b0\blur13\clip(m 1115 267 l 765 316 b 819 244 809 178 767 116 l 1115 159)}Rakugo Girls
+Dialogue: 0,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\b0\blur13\clip(m 1115 267 l 765 316 b 819 244 809 178 767 116 l 1115 159)}Rakugo Girls
+Dialogue: 0,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\b0\blur13\clip(m 1115 267 l 765 316 b 819 244 809 178 767 116 l 1115 159)}Rakugo Girls
 Dialogue: 1,0:00:10.94,0:00:14.45,Sign,,0,0,0,,{\pos(849,208)\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.9}Rakugo Girls
 Dialogue: 1,0:00:10.94,0:00:14.45,Sign,,0,0,0,,{\pos(849,208)\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.9}Rakugo Girls
 Dialogue: 0,0:00:10.94,0:00:14.45,Sign,,0,0,0,,{\pos(849,208)\fnBrushStroke 35\fs67\b0\blur9}Rakugo Girls
