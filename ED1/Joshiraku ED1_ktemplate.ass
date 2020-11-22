@@ -616,7 +616,8 @@ Comment: 0,0:00:34.18,0:00:35.85,ED1,eng  eng_left nofadeout,0,0,0,kara,All eyes
 Comment: 0,0:00:35.85,0:00:37.52,ED1,eng  eng_centre nofadein,0,0,0,kara,All ready to go!
 Comment: 0,0:00:37.52,0:00:40.10,ED1,eng  eng_centre fade,0,0,0,kara,Someone who smiles a lot
 Comment: 0,0:00:40.35,0:00:43.19,ED1,eng  eng_centre fade,0,0,0,kara,And a traditional Japanese coat
-Comment: 0,0:00:43.48,0:00:46.40,ED1,eng  eng_centre fade,0,0,0,kara,What do they share in common?
+Comment: 0,0:00:43.48,0:00:44.98,ED1,eng  eng_centre fade,0,0,0,kara,What do they share in common?
+Comment: 0,0:00:45.02,0:00:46.40,ED1,eng  eng_centre fade,0,0,0,kara,What do they share in common?
 Comment: 0,0:00:46.40,0:00:49.45,ED1,eng  eng_centre fade,0,0,0,kara,They're both happi! Haha, get it?
 Comment: 0,0:00:49.45,0:00:50.61,ED1,eng  eng_centre fade,0,0,0,kara,Thank you kindly for your appreciation!
 Comment: 0,0:00:50.61,0:00:51.99,ED1,eng  eng_left fade,0,0,0,kara,Let's laugh, crack open a smile!
@@ -651,7 +652,8 @@ Comment: 0,0:00:34.18,0:00:35.85,ED1,rom  rom_left nofadeout,0,0,0,kara,goseicho
 Comment: 0,0:00:35.85,0:00:37.52,ED1,rom  rom_centre nofadein,0,0,0,kara,totonoimashita
 Comment: 0,0:00:37.52,0:00:40.10,ED1,rom  rom_centre fade,0,0,0,kara,warau koto to kakemashita
 Comment: 0,0:00:40.35,0:00:43.19,ED1,rom  rom_centre fade,0,0,0,kara,omatsuri yarou to tokimasu
-Comment: 0,0:00:43.48,0:00:46.40,ED1,rom  rom_centre fade,0,0,0,kara,sono kokoro wa
+Comment: 0,0:00:43.48,0:00:44.98,ED1,rom  rom_centre fade,0,0,0,kara,sono kokoro wa
+Comment: 0,0:00:45.02,0:00:46.40,ED1,rom  rom_centre fade,0,0,0,kara,sono kokoro wa
 Comment: 0,0:00:46.40,0:00:49.45,ED1,rom  rom_centre fade,0,0,0,kara,dochira mo happi ni naru deshou
 Comment: 0,0:00:49.45,0:00:50.61,ED1,rom  rom_centre fade,0,0,0,kara,oato ga yoroshii yo de
 Comment: 0,0:00:50.61,0:00:51.99,ED1,rom  rom_left fade,0,0,0,kara,waraou waraou

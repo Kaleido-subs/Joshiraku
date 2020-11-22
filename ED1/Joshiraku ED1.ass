@@ -40,7 +40,8 @@ Comment: 0,0:00:34.18,0:00:35.85,ED1,eng  eng_left nofadeout,0,0,0,kara,All eyes
 Comment: 0,0:00:35.85,0:00:37.52,ED1,eng  eng_centre nofadein,0,0,0,kara,All ready to go!
 Comment: 0,0:00:37.52,0:00:40.10,ED1,eng  eng_centre fade,0,0,0,kara,Someone who smiles a lot
 Comment: 0,0:00:40.35,0:00:43.19,ED1,eng  eng_centre fade,0,0,0,kara,And a traditional Japanese coat
-Comment: 0,0:00:43.48,0:00:46.40,ED1,eng  eng_centre fade,0,0,0,kara,What do they share in common?
+Comment: 0,0:00:43.48,0:00:44.98,ED1,eng  eng_centre fade,0,0,0,kara,What do they share in common?
+Comment: 0,0:00:45.02,0:00:46.40,ED1,eng  eng_centre fade,0,0,0,kara,What do they share in common?
 Comment: 0,0:00:46.40,0:00:49.45,ED1,eng  eng_centre fade,0,0,0,kara,They're both happi! Haha, get it?
 Comment: 0,0:00:49.45,0:00:50.61,ED1,eng  eng_centre fade,0,0,0,kara,Thank you kindly for your appreciation!
 Comment: 0,0:00:50.61,0:00:51.99,ED1,eng  eng_left fade,0,0,0,kara,Let's laugh, crack open a smile!
@@ -75,7 +76,8 @@ Comment: 0,0:00:34.18,0:00:35.85,ED1,rom  rom_left nofadeout,0,0,0,kara,goseicho
 Comment: 0,0:00:35.85,0:00:37.52,ED1,rom  rom_centre nofadein,0,0,0,kara,totonoimashita
 Comment: 0,0:00:37.52,0:00:40.10,ED1,rom  rom_centre fade,0,0,0,kara,warau koto to kakemashita
 Comment: 0,0:00:40.35,0:00:43.19,ED1,rom  rom_centre fade,0,0,0,kara,omatsuri yarou to tokimasu
-Comment: 0,0:00:43.48,0:00:46.40,ED1,rom  rom_centre fade,0,0,0,kara,sono kokoro wa
+Comment: 0,0:00:43.48,0:00:44.98,ED1,rom  rom_centre fade,0,0,0,kara,sono kokoro wa
+Comment: 0,0:00:45.02,0:00:46.40,ED1,rom  rom_centre fade,0,0,0,kara,sono kokoro wa
 Comment: 0,0:00:46.40,0:00:49.45,ED1,rom  rom_centre fade,0,0,0,kara,dochira mo happi ni naru deshou
 Comment: 0,0:00:49.45,0:00:50.61,ED1,rom  rom_centre fade,0,0,0,kara,oato ga yoroshii yo de
 Comment: 0,0:00:50.61,0:00:51.99,ED1,rom  rom_left fade,0,0,0,kara,waraou waraou
@@ -1758,9 +1760,12 @@ Dialogue: 0,0:00:37.52,0:00:40.10,ED1,eng  eng_centre fade,0,0,0,fx,{\4a&HA0&\1a
 Dialogue: 2,0:00:40.35,0:00:43.19,ED1,eng  eng_centre fade,0,0,0,fx,{\blur0.65\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}And a traditional Japanese coat
 Dialogue: 1,0:00:40.35,0:00:43.19,ED1,eng  eng_centre fade,0,0,0,fx,{\4c&H000000&\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord2\blur0.85}And a traditional Japanese coat
 Dialogue: 0,0:00:40.35,0:00:43.19,ED1,eng  eng_centre fade,0,0,0,fx,{\4a&HA0&\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1\blur6}And a traditional Japanese coat
-Dialogue: 2,0:00:43.48,0:00:46.40,ED1,eng  eng_centre fade,0,0,0,fx,{\blur0.65\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}What do they share in common?
-Dialogue: 1,0:00:43.48,0:00:46.40,ED1,eng  eng_centre fade,0,0,0,fx,{\4c&H000000&\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord2\blur0.85}What do they share in common?
-Dialogue: 0,0:00:43.48,0:00:46.40,ED1,eng  eng_centre fade,0,0,0,fx,{\4a&HA0&\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1\blur6}What do they share in common?
+Dialogue: 2,0:00:43.48,0:00:44.98,ED1,eng  eng_centre fade,0,0,0,fx,{\blur0.65\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}What do they share in common?
+Dialogue: 1,0:00:43.48,0:00:44.98,ED1,eng  eng_centre fade,0,0,0,fx,{\4c&H000000&\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord2\blur0.85}What do they share in common?
+Dialogue: 0,0:00:43.48,0:00:44.98,ED1,eng  eng_centre fade,0,0,0,fx,{\4a&HA0&\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1\blur6}What do they share in common?
+Dialogue: 2,0:00:45.02,0:00:46.40,ED1,eng  eng_centre fade,0,0,0,fx,{\blur0.65\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}What do they share in common?
+Dialogue: 1,0:00:45.02,0:00:46.40,ED1,eng  eng_centre fade,0,0,0,fx,{\4c&H000000&\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord2\blur0.85}What do they share in common?
+Dialogue: 0,0:00:45.02,0:00:46.40,ED1,eng  eng_centre fade,0,0,0,fx,{\4a&HA0&\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1\blur6}What do they share in common?
 Dialogue: 2,0:00:46.40,0:00:49.45,ED1,eng  eng_centre fade,0,0,0,fx,{\blur0.65\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}They're both happi! Haha, get it?
 Dialogue: 1,0:00:46.40,0:00:49.45,ED1,eng  eng_centre fade,0,0,0,fx,{\4c&H000000&\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord2\blur0.85}They're both happi! Haha, get it?
 Dialogue: 0,0:00:46.40,0:00:49.45,ED1,eng  eng_centre fade,0,0,0,fx,{\4a&HA0&\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1\blur6}They're both happi! Haha, get it?
@@ -1836,9 +1841,12 @@ Dialogue: 0,0:00:37.52,0:00:40.10,ED1,rom  rom_centre fade,0,0,0,fx,{\4a&HA0&\po
 Dialogue: 2,0:00:40.35,0:00:43.19,ED1,rom  rom_centre fade,0,0,0,fx,{\blur0.65\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}omatsuri yarou to tokimasu
 Dialogue: 1,0:00:40.35,0:00:43.19,ED1,rom  rom_centre fade,0,0,0,fx,{\4c&H000000&\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1.8\blur0.85}omatsuri yarou to tokimasu
 Dialogue: 0,0:00:40.35,0:00:43.19,ED1,rom  rom_centre fade,0,0,0,fx,{\4a&HA0&\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord0.8\blur6}omatsuri yarou to tokimasu
-Dialogue: 2,0:00:43.48,0:00:46.40,ED1,rom  rom_centre fade,0,0,0,fx,{\blur0.65\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}sono kokoro wa
-Dialogue: 1,0:00:43.48,0:00:46.40,ED1,rom  rom_centre fade,0,0,0,fx,{\4c&H000000&\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1.8\blur0.85}sono kokoro wa
-Dialogue: 0,0:00:43.48,0:00:46.40,ED1,rom  rom_centre fade,0,0,0,fx,{\4a&HA0&\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord0.8\blur6}sono kokoro wa
+Dialogue: 2,0:00:43.48,0:00:44.98,ED1,rom  rom_centre fade,0,0,0,fx,{\blur0.65\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}sono kokoro wa
+Dialogue: 1,0:00:43.48,0:00:44.98,ED1,rom  rom_centre fade,0,0,0,fx,{\4c&H000000&\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1.8\blur0.85}sono kokoro wa
+Dialogue: 0,0:00:43.48,0:00:44.98,ED1,rom  rom_centre fade,0,0,0,fx,{\4a&HA0&\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord0.8\blur6}sono kokoro wa
+Dialogue: 2,0:00:45.02,0:00:46.40,ED1,rom  rom_centre fade,0,0,0,fx,{\blur0.65\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}sono kokoro wa
+Dialogue: 1,0:00:45.02,0:00:46.40,ED1,rom  rom_centre fade,0,0,0,fx,{\4c&H000000&\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1.8\blur0.85}sono kokoro wa
+Dialogue: 0,0:00:45.02,0:00:46.40,ED1,rom  rom_centre fade,0,0,0,fx,{\4a&HA0&\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord0.8\blur6}sono kokoro wa
 Dialogue: 2,0:00:46.40,0:00:49.45,ED1,rom  rom_centre fade,0,0,0,fx,{\blur0.65\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}dochira mo happi ni naru deshou
 Dialogue: 1,0:00:46.40,0:00:49.45,ED1,rom  rom_centre fade,0,0,0,fx,{\4c&H000000&\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1.8\blur0.85}dochira mo happi ni naru deshou
 Dialogue: 0,0:00:46.40,0:00:49.45,ED1,rom  rom_centre fade,0,0,0,fx,{\4a&HA0&\pos(640,658)\fs34\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord0.8\blur6}dochira mo happi ni naru deshou
