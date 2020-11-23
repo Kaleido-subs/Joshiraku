@@ -94,7 +94,8 @@ Dialogue: 10,0:05:04.08,0:05:05.37,Default,,0,0,0,,Enough of that.
 Dialogue: 10,0:05:05.37,0:05:08.24,Default,,0,0,0,,This'll definitely make you popular with kids, Marii!
 Dialogue: 10,0:05:08.24,0:05:11.21,Default,,0,0,0,,The question is, how best to display your butt on stage.
 Dialogue: 10,0:05:11.21,0:05:14.50,Default,,0,0,0,,{\q2}Showing your ass isn't something \Nthat should be taken lightly!
-Dialogue: 10,0:05:14.50,0:05:20.32,Default,,0,0,0,,{\q2}Do it wrong and you'll be labelled an ass-flasher \Nand mocked for decades to come!
+Dialogue: 10,0:05:14.50,0:05:20.05,Default,,0,0,0,,{\q2}Do it wrong and you'll be labelled an ass-flasher \Nand mocked for decades to come!
+Dialogue: 9,0:05:18.97,0:05:20.05,Default,,0,0,0,,{\bord5\xshad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\4a&H00&\blur4\q2}Do it wrong and you'll be labelled an ass-flasher \Nand mocked for decades to come!
 Dialogue: 10,0:05:20.32,0:05:24.20,Default,,0,0,0,,We'll always be remembered as that ass-flashing anime!
 Dialogue: 10,0:05:24.20,0:05:25.76,Default,,0,0,0,,Ass-flashing anime?
 Dialogue: 10,0:05:25.76,0:05:28.39,Default,,0,0,0,,Are you prepared to deal with that?
@@ -153,73 +154,74 @@ Dialogue: 10,0:07:48.11,0:07:49.20,Default,,0,0,0,,Oh, maybe.
 Dialogue: 10,0:07:49.20,0:07:50.12,Default,,0,0,0,,Makes sense.
 Dialogue: 10,0:07:50.12,0:07:51.12,Default,,0,0,0,,Scary...
 Comment: 0,0:07:53.91,0:07:53.91,Default,chapter,0,0,0,,{Part B}
-Dialogue: 10,0:07:57.67,0:07:59.38,Default,,0,0,0,,I'm so glad it's sunny!
-Dialogue: 10,0:07:59.75,0:08:01.38,Default,,0,0,0,,A sunny day at the zoo!
-Dialogue: 10,0:08:01.75,0:08:03.80,Default,,0,0,0,,I haven't been to the zoo in ages.
-Dialogue: 10,0:08:03.80,0:08:05.21,Default,,0,0,0,,It's gotta be 2 or 3 years.
-Dialogue: 10,0:08:05.21,0:08:07.68,Default,,0,0,0,,Wow. I've got a year pass.
+Dialogue: 10,0:07:57.67,0:07:59.38,Default,,0,0,0,,I'm so glad it's sunny out!
+Dialogue: 10,0:07:59.75,0:08:01.38,Default,,0,0,0,,It's a perfect day for the zoo!
+Dialogue: 10,0:08:01.75,0:08:05.21,Default,,0,0,0,,{\q2}I haven't been to the zoo in ages. \NLast time's gotta be two or three years ago.
+Dialogue: 10,0:08:05.21,0:08:07.68,Default,,0,0,0,,Wow. I've got an annual pass.
 Dialogue: 10,0:08:09.05,0:08:10.26,Default,,0,0,0,,I wouldn't have expected that.
-Dialogue: 10,0:08:10.26,0:08:15.93,Default,,0,0,0,,When I'm sick of humanity, I recharge \Nby spending time with the silent animals.
+Dialogue: 10,0:08:10.26,0:08:15.93,Default,,0,0,0,,{\q2}When I've lost too much hope in humanity, \NI recharge by spending time with quiet animals.
 Dialogue: 10,0:08:16.27,0:08:18.94,Default,,0,0,0,,Should we start with the pandas or the polar bears?
 Dialogue: 10,0:08:18.94,0:08:24.36,Default,,0,0,0,,If you see everything in order, you're bound to get tired \Nbefore you reach the birds and the petting zoo.
-Dialogue: 10,0:08:24.36,0:08:26.36,Default,,0,0,0,,Where are the flamingos?
-Dialogue: 10,0:08:26.78,0:08:29.53,Default,,0,0,0,,Everyone knows flamingos are \Nthe first thing you see at the zoo.
-Dialogue: 10,0:08:29.86,0:08:34.58,Default,,0,0,0,,So you end up wasting your time taking photos and \Nwhatever, and then you're in a hurry later on!
+Dialogue: 10,0:08:21.69,0:08:22.86,Alt,,0,0,0,,Birds?
+Dialogue: 10,0:08:24.36,0:08:26.36,Default,,0,0,0,,Where the flamingos at?
+Dialogue: 10,0:08:26.78,0:08:29.53,Default,,0,0,0,,Everyone knows flamingos are the stars of the zoo!
+Dialogue: 10,0:08:29.86,0:08:34.58,Default,,0,0,0,,{\q2}So you end up wasting your time taking pics or \Nwhatever, and then you're in a hurry later on!
 Dialogue: 10,0:08:34.58,0:08:37.66,Default,,0,0,0,,Just after you enter is when your energy's at its peak.
 Dialogue: 10,0:08:37.66,0:08:39.75,Default,,0,0,0,,Everything seems cool and rare.
 Dialogue: 10,0:08:40.04,0:08:42.69,Default,,0,0,0,,I wonder why they put flamingos at the entrance.
-Dialogue: 10,0:08:42.69,0:08:47.30,Default,,0,0,0,,I heard that the reason flamingos stand on one leg \Nis because the water they stand in is cold.
-Dialogue: 10,0:08:47.63,0:08:50.05,Default,,0,0,0,,Maybe they're by the entrance because it's sunnier there?
+Dialogue: 10,0:08:42.69,0:08:47.30,Default,,0,0,0,,{\q2}I heard the reason flamingos stand on one leg \Nis because the water they stand in is cool.
+Dialogue: 10,0:08:47.63,0:08:50.05,Default,,0,0,0,,{\q2}Maybe they're by the entrance \Nbecause it's sunnier there?
 Dialogue: 10,0:08:50.05,0:08:51.89,Default,,0,0,0,,They're like old people lying in the sun!
 Dialogue: 10,0:08:56.06,0:08:56.89,Default,,0,0,0,,Panda, panda!
 Dialogue: 10,0:08:57.27,0:08:58.77,Default,,0,0,0,,Going straight to the pandas?
-Dialogue: 10,0:08:58.77,0:09:01.06,Default,,0,0,0,,That's like sitting down to a full course meal \Nand going right for the steak,
-Dialogue: 10,0:09:01.06,0:09:04.69,Default,,0,0,0,,or announcing contest results starting \Nwith the winner. Don't you think?
-Dialogue: 10,0:09:04.98,0:09:09.11,Default,,0,0,0,,That's Ueno Zoo for you. \NCasually bringing out the big guns right away.
-Dialogue: 10,0:09:09.11,0:09:12.64,Default,,0,0,0,,It shows their confidence that the zoo \Nhas more than just the panda.
+Dialogue: 10,0:08:58.77,0:09:01.06,Default,,0,0,0,,{\q2}That's like sitting down and \Ngoing straight for the main dish,
+Dialogue: 10,0:09:01.06,0:09:04.69,Default,,0,0,0,,{\q2}or announcing contest results starting \Nwith the winner, don't you think?
+Dialogue: 10,0:09:04.98,0:09:07.11,Default,,0,0,0,,That's the Ueno Zoo for you.
+Dialogue: 10,0:09:07.11,0:09:09.11,Default,,0,0,0,,Casually bringing out the big guns right away.
+Dialogue: 10,0:09:09.11,0:09:12.64,Default,,0,0,0,,{\q2}It shows their confidence in their zoo \Nbeing more than just the panda.
 Dialogue: 10,0:09:12.64,0:09:14.07,Default,,0,0,0,,Either that or it's just like
-Dialogue: 10,0:09:14.07,0:09:18.91,Default,,0,0,0,,"Hey, you came all this way to see the panda, \Nwhy not see the other animals while you're here?"
+Dialogue: 10,0:09:14.07,0:09:18.91,Default,,0,0,0,,{\q2}"Hey, you came all this way to see the panda, \Nwhy not see the other animals while you're here?"
 Dialogue: 10,0:09:18.91,0:09:21.00,Default,,0,0,0,,I think you might be reading too much into it.
-Dialogue: 10,0:09:21.00,0:09:23.08,Default,,0,0,0,,Whatever. It's still a panda!
-Dialogue: 10,0:09:23.08,0:09:24.50,Default,,0,0,0,,Let's see it!
+Dialogue: 10,0:09:21.00,0:09:23.08,Default,,0,0,0,,Whatever. A panda's a panda!
+Dialogue: 10,0:09:23.08,0:09:24.50,Default,,0,0,0,,Let's go check it out!
 Dialogue: 10,0:09:27.21,0:09:28.71,Default,,0,0,0,,It's not moving!
 Dialogue: 10,0:09:29.47,0:09:33.12,Default,,0,0,0,,Well, that's just how it goes sometimes.
-Dialogue: 10,0:09:33.12,0:09:36.58,Default,,0,0,0,,Eating and sleeping in the same spot... pretty cushy.
+Dialogue: 10,0:09:33.12,0:09:36.58,Default,,0,0,0,,Eating and sleeping in the same spot... pretty cushy. {## vale's notes note that this is a quote from Jugemu. What do?}
 Dialogue: 10,0:09:36.58,0:09:38.10,Default,,0,0,0,,What a life.
 Dialogue: 10,0:09:38.10,0:09:41.44,Default,,0,0,0,,The panda couple's life gets streamed online, though.
 Dialogue: 10,0:09:41.44,0:09:42.19,Default,,0,0,0,,Seriously?!
-Dialogue: 10,0:09:42.19,0:09:45.52,Default,,0,0,0,,Their private lives broadcast to \Nhundreds of thousands of people...
-Dialogue: 10,0:09:45.52,0:09:49.36,Default,,0,0,0,,They know you but you don't know them.
-Dialogue: 10,0:09:49.36,0:09:51.45,Default,,0,0,0,,How terrifying is that!
-Dialogue: 10,0:09:51.45,0:09:53.32,Default,,0,0,0,,Once something's online, \Nit's pretty much impossible to get rid of.
-Dialogue: 10,0:09:53.32,0:09:55.66,Default,,0,0,0,,If you make a mistake, you'll get flamed alive,
-Dialogue: 10,0:09:55.66,0:09:57.79,Default,,0,0,0,,while the data of your error sticks around forever.
+Dialogue: 10,0:09:42.19,0:09:45.52,Default,,0,0,0,,{\q2}Their private lives broadcast to \Nhundreds of thousands of people...
+Dialogue: 10,0:09:45.52,0:09:47.86,Default,,0,0,0,,They know you but you don't know them.
+Dialogue: 10,0:09:47.86,0:09:49.36,Default,,0,0,0,,How terrifying is that?!
+Dialogue: 10,0:09:49.36,0:09:53.32,Default,,0,0,0,,And once something's on the internet, it's there forever.
+Dialogue: 10,0:09:53.32,0:09:57.79,Default,,0,0,0,,{\q2}Make one mistake and they'll flame you forever, \Nand that data of your error will never go away.
+Dialogue: 9,0:09:53.32,0:09:57.79,Default,,0,0,0,,{\bord5\xshad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\4a&H00&\blur4\q2}Make one mistake and they'll flame you forever, \Nand that data of your error will never go away.
 Dialogue: 10,0:09:57.79,0:10:00.12,Default,,0,0,0,,The internet is so scary! You've got to be careful!
-Dialogue: 10,0:10:01.08,0:10:03.79,Default,,0,0,0,,Hey, aren't pandas cute?!
-Dialogue: 10,0:10:03.79,0:10:06.84,Default,,0,0,0,,Your love for pandas suits you to a T, Kigu-chan!
+Dialogue: 10,0:10:01.08,0:10:03.79,Default,,0,0,0,,Anyway, aren't pandas cute?!
+Dialogue: 10,0:10:03.79,0:10:06.84,Default,,0,0,0,,Your love for pandas suits you to a T, Kigu!
 Dialogue: 10,0:10:06.84,0:10:08.34,Default,,0,0,0,,Pandas are the best!
 Dialogue: 10,0:10:08.34,0:10:10.80,Default,,0,0,0,,I couldn't care less about pandas.
 Dialogue: 10,0:10:10.80,0:10:12.86,Default,,0,0,0,,Their eyes are terrifying.
 Dialogue: 10,0:10:12.86,0:10:15.55,Default,,0,0,0,,So, everyone likes the giant panda?
 Dialogue: 10,0:10:15.55,0:10:18.31,Default,,0,0,0,,There's nobody who dislikes pandas!
-Dialogue: 10,0:10:18.76,0:10:22.06,Default,,0,0,0,,Please take some time to think \Nof the lesser panda occasionally.
-Dialogue: 10,0:10:22.06,0:10:26.67,Default,,0,0,0,,Originally, the word "panda" referred \Nto the smaller, brownish version.
-Dialogue: 10,0:10:26.67,0:10:31.65,Default,,0,0,0,,But after the discovery of the giant panda, \Nthe brown one got saddled with "lesser".
+Dialogue: 10,0:10:18.76,0:10:22.06,Default,,0,0,0,,{\q2}Please take some time to think \Nof the lesser panda occasionally.
+Dialogue: 10,0:10:22.06,0:10:26.67,Default,,0,0,0,,{\q2}Originally, the word "panda" referred \Nto the smaller, brownish type.
+Dialogue: 10,0:10:26.67,0:10:31.65,Default,,0,0,0,,{\q2}But after the discovery of the giant panda, \Nthe brown one got saddled with "lesser".
 Dialogue: 10,0:10:31.65,0:10:33.49,Default,,0,0,0,,"Lesser"? That's kind of mean.
 Dialogue: 10,0:10:33.49,0:10:35.41,Default,,0,0,0,,Don't worry, it's not a judgment.
 Dialogue: 10,0:10:35.41,0:10:38.22,Default,,0,0,0,,It just means that it's smaller than the other kind.
 Dialogue: 10,0:10:38.22,0:10:40.29,Default,,0,0,0,,It still sucks to be compared to someone else.
-Dialogue: 10,0:10:40.29,0:10:44.25,Default,,0,0,0,,They should call it the brown panda \Nor the standing panda.
+Dialogue: 10,0:10:40.29,0:10:44.25,Default,,0,0,0,,{\q2}They should call it the red panda \Nor the standing panda, at least.
 Dialogue: 10,0:10:45.17,0:10:47.54,Default,,0,0,0,,Not all of them stand up!
 Dialogue: 10,0:10:47.54,0:10:49.13,Default,,0,0,0,,Giant pandas stand up sometimes, too.
 Dialogue: 10,0:10:49.13,0:10:50.96,Default,,0,0,0,,Then the name is even lesser-suited!
-Dialogue: 10,0:10:51.30,0:10:55.05,Default,,0,0,0,,Nobody's got anything to say about \Nthe Chinese name, "great bear-cat?"
-Dialogue: 10,0:10:55.93,0:10:58.14,Default,,0,0,0,,It's very clearly not a cat.
-Dialogue: 10,0:10:58.14,0:11:02.22,Default,,0,0,0,,What about that one dude who claims to be a cat \Ndespite being blue and round?
+Dialogue: 10,0:10:51.30,0:10:55.05,Default,,0,0,0,,{\q2}Nobody's got anything to say about \Nthe Chinese name, "great bear-cat?"
+Dialogue: 10,0:10:55.93,0:10:58.14,Default,,0,0,0,,It's very clearly {\i1}not{\i0} a cat.
+Dialogue: 10,0:10:58.14,0:11:02.22,Default,,0,0,0,,{\q2}What about that one dude who claims to be \Na cat despite being blue and round?
 Dialogue: 10,0:11:02.22,0:11:04.73,Default,,0,0,0,,He's not a cat, he's a cat-shaped robot!
-Dialogue: 10,0:11:05.02,0:11:10.19,Default,,0,0,0,,Popular things are popular \Nwhether they're a bear, a cat or a robot.
+Dialogue: 10,0:11:05.02,0:11:10.19,Default,,0,0,0,,{\q2}Popular things are popular whether \Nthey're a bear, a cat, or a robot.
 Dialogue: 10,0:11:10.19,0:11:11.65,Default,,0,0,0,,Bears are scary.
-Dialogue: 10,0:11:11.65,0:11:16.45,Default,,0,0,0,,Brown bears are so smart and vengeful, \Nthey've been known to wipe out whole villages!
+Dialogue: 10,0:11:11.65,0:11:16.45,Default,,0,0,0,,{\q2}Brown bears are so smart and vengeful, \Nthey've been known to wipe out whole villages!
 Dialogue: 10,0:11:16.45,0:11:20.53,Default,,0,0,0,,If we're talking scary, gorillas throw their poop at people.
 Dialogue: 10,0:11:22.75,0:11:26.54,Default,,0,0,0,,Hm? I'm sure I've seen a poop warning somewhere else.
 Dialogue: 10,0:11:26.87,0:11:30.54,Default,,0,0,0,,Hippos! They use their tails to flick poop everywhere.
@@ -227,22 +229,22 @@ Dialogue: 10,0:11:31.05,0:11:32.63,Default,,0,0,0,,Camels spit.
 Dialogue: 10,0:11:32.63,0:11:34.38,Default,,0,0,0,,What kind of fetish is that?!
 Dialogue: 10,0:11:34.76,0:11:37.30,Default,,0,0,0,,What's your favorite animal, Kukuru?
 Dialogue: 10,0:11:37.30,0:11:38.89,Default,,0,0,0,,Wait, don't tell us!
-Dialogue: 10,0:11:38.89,0:11:40.39,Default,,0,0,0,,Giraffes, right? I get that feeling.
+Dialogue: 10,0:11:38.89,0:11:40.39,Default,,0,0,0,,Let me guess. Giraffes, right?
 Dialogue: 10,0:11:40.93,0:11:42.39,Default,,0,0,0,,I love giraffes.
-Dialogue: 10,0:11:42.39,0:11:44.68,Default,,0,0,0,,Their long tongues are somehow both gross and cute.
-Dialogue: 10,0:11:44.68,0:11:47.19,Default,,0,0,0,,Huh? Would have thought it'd be \Nthe spectacled leaf monkey.
-Dialogue: 10,0:11:47.19,0:11:48.52,Default,,0,0,0,,'Coz of your similarities.
+Dialogue: 10,0:11:42.39,0:11:44.68,Default,,0,0,0,,Their long tongues are disguscute.
+Dialogue: 10,0:11:44.68,0:11:47.19,Default,,0,0,0,,Huh? Thought it'd be the specs leaf monkey.
+Dialogue: 10,0:11:47.19,0:11:48.52,Default,,0,0,0,,It'd fit you well.
 Dialogue: 10,0:11:48.52,0:11:50.19,Default,,0,0,0,,My elementary school nickname!
-Dialogue: 10,0:11:50.19,0:11:53.15,Default,,0,0,0,,Just because I wear glasses, \NI had to endure years of being called
-Dialogue: 10,0:11:53.15,0:11:56.24,Default,,0,0,0,,spectacled monkey, spectacled bear, spectacled \Ncaiman, spectacled owl and spectacled duck!
-Dialogue: 10,0:11:56.24,0:11:57.78,Default,,0,0,0,,I'm sick of it!
+Dialogue: 10,0:11:50.19,0:11:53.15,Default,,0,0,0,,{\q2}Just because I wear glasses, \NI had to endure years of being called
+Dialogue: 10,0:11:53.15,0:11:56.24,Default,,0,0,0,,{\q2}spectacle monkey, spectacled bear, spectacled \Ncaiman, spectacled owl, and spectacled duck!
+Dialogue: 10,0:11:56.24,0:11:57.78,Default,,0,0,0,,I'm fed up with it!
 Dialogue: 10,0:11:57.78,0:11:58.57,Default,,0,0,0,,Soz.
 Dialogue: 10,0:11:58.57,0:12:00.20,Default,,0,0,0,,I think my fave is the polar bear.
 Dialogue: 10,0:12:00.57,0:12:02.95,Default,,0,0,0,,They're certainly good at running cafés.
-Dialogue: 10,0:12:02.95,0:12:05.54,Default,,0,0,0,,And they're really cute as babies.
+Dialogue: 10,0:12:02.95,0:12:05.54,Default,,0,0,0,,And they're really cute as cubs.
 Dialogue: 10,0:12:05.54,0:12:06.98,Default,,0,0,0,,They look like cuddly toys!
 Dialogue: 10,0:12:06.98,0:12:08.33,Default,,0,0,0,,What about you, Marii?
-Dialogue: 10,0:12:08.33,0:12:11.17,Default,,0,0,0,,Huh? Maybe just koalas, you know.
+Dialogue: 10,0:12:08.33,0:12:11.17,Default,,0,0,0,,Huh? Koalas or something, probably.
 Dialogue: 10,0:12:12.09,0:12:13.50,Default,,0,0,0,,That's surprisingly normal.
 Dialogue: 10,0:12:13.50,0:12:14.96,Default,,0,0,0,,I thought you'd say kangaroos.
 Dialogue: 10,0:12:14.96,0:12:15.67,Default,,0,0,0,,How come?
@@ -250,55 +252,55 @@ Dialogue: 10,0:12:15.67,0:12:17.84,Default,,0,0,0,,I thought you'd relate to the
 Dialogue: 10,0:12:17.84,0:12:20.22,Default,,0,0,0,,When they lie down they look just like you.
 Dialogue: 10,0:12:20.22,0:12:21.26,Default,,0,0,0,,Am I an old man?!
 Dialogue: 10,0:12:21.26,0:12:23.99,Default,,0,0,0,,Marii's not an old man!
-Dialogue: 10,0:12:23.99,0:12:25.18,Default,,0,0,0,,Really more of a kid.
-Dialogue: 10,0:12:26.39,0:12:28.35,Default,,0,0,0,,So which animal IS your favorite, Kukuru?
-Dialogue: 10,0:12:28.77,0:12:30.10,Default,,0,0,0,,Naked mole-rat.
+Dialogue: 10,0:12:23.99,0:12:25.18,Default,,0,0,0,,She's more of a kid.
+Dialogue: 10,0:12:26.39,0:12:28.35,Default,,0,0,0,,So which animal is {\i1}your{\i0} favourite, Kukuru?
+Dialogue: 10,0:12:28.77,0:12:30.10,Default,,0,0,0,,The naked mole-rat.
 Dialogue: 10,0:12:33.32,0:12:34.94,Default,,0,0,0,,Ah! Gross! They're so ugly!
 Dialogue: 10,0:12:34.94,0:12:36.32,Default,,0,0,0,,The naked mole-rat.
 Dialogue: 10,0:12:36.78,0:12:39.36,Default,,0,0,0,,A rare rodent with a queen-based society.
-Dialogue: 10,0:12:39.70,0:12:41.70,Default,,0,0,0,,They form groups around one individual,
-Dialogue: 10,0:12:41.70,0:12:46.37,Default,,0,0,0,,with multiple males and worker bees, I mean worker rats.
-Dialogue: 10,0:12:46.37,0:12:47.83,Default,,0,0,0,,They're your favorite?
+Dialogue: 10,0:12:39.70,0:12:41.70,Default,,0,0,0,,They form colonies around one individual,
+Dialogue: 10,0:12:41.70,0:12:46.37,Default,,0,0,0,,{\q2}with multiple males and \Nworker bees—I mean worker rats.
+Dialogue: 10,0:12:46.37,0:12:47.83,Default,,0,0,0,,They're your favourite?
 Dialogue: 10,0:12:48.12,0:12:51.04,Default,,0,0,0,,Yeah. Also, they live for a really long time.
 Dialogue: 10,0:12:51.04,0:12:52.33,Default,,0,0,0,,And they don't get cancer.
-Dialogue: 10,0:12:53.96,0:13:00.63,Default,,0,0,0,,By the way, they say that the queen stops any usurpers \Nousting her by covering them with her urine.
+Dialogue: 10,0:12:53.96,0:13:00.63,Default,,0,0,0,,{\q2}By the way, they say that the queen stops any usurpers \Nousting her by covering them with her urine.
 Dialogue: 10,0:13:00.63,0:13:01.80,Default,,0,0,0,,Urine?!
 Dialogue: 10,0:13:01.80,0:13:04.05,Default,,0,0,0,,That's gotta put a dampener on their ambitious.
 Dialogue: 10,0:13:04.05,0:13:05.81,Default,,0,0,0,,It'd work on people too, I guess.
 Dialogue: 10,0:13:05.81,0:13:07.81,Default,,0,0,0,,Or they'd be really happy.
-Dialogue: 10,0:13:07.81,0:13:10.77,Default,,0,0,0,,Do you ever learn something \Nyou wish you could unlearn?
-Dialogue: 10,0:13:10.77,0:13:14.50,Default,,0,0,0,,Oh! I've got some animal trivia.
+Dialogue: 10,0:13:07.81,0:13:10.77,Default,,0,0,0,,{\q2}Do you ever learn something \Nyou wish you could unlearn?
+Dialogue: 10,0:13:10.77,0:13:14.50,Default,,0,0,0,,Oh! I've got some animal trivia, too!
 Dialogue: 10,0:13:14.50,0:13:16.61,Default,,0,0,0,,A polar bear's skin is black underneath!
-Dialogue: 10,0:13:16.90,0:13:19.03,Default,,0,0,0,,Isn't their defining feature that they're white?
-Dialogue: 10,0:13:19.03,0:13:22.78,Default,,0,0,0,,And their fur isn't actually white, it's transparent!
-Dialogue: 10,0:13:22.78,0:13:25.49,Default,,0,0,0,,Wouldn't that make them invisible? Not cute at all.
+Dialogue: 10,0:13:16.90,0:13:19.03,Default,,0,0,0,,Isn't their defining feature being white?
+Dialogue: 10,0:13:19.03,0:13:22.78,Default,,0,0,0,,And their fur isn't actually white either, but transparent!
+Dialogue: 10,0:13:22.78,0:13:25.49,Default,,0,0,0,,{\q2}Wouldn't that make them invisible? Not cute at all.
 Dialogue: 10,0:13:25.49,0:13:28.20,Default,,0,0,0,,When giraffes go to sleep, \Nthey use their back as a pillow.
-Dialogue: 10,0:13:32.21,0:13:34.96,Default,,0,0,0,,An elephant's top speed is 40 kilometers an hour.
-Dialogue: 10,0:13:34.96,0:13:35.92,Default,,0,0,0,,Surprisingly fast.
+Dialogue: 10,0:13:28.20,0:13:29.12,Default,,0,0,0,,Huh?
+Dialogue: 10,0:13:32.21,0:13:35.88,Default,,0,0,0,,{\q2}An elephant's top speed is forty \Nkilometres per hour. They're surprisingly fast.
 Dialogue: 10,0:13:37.96,0:13:38.63,Default,,0,0,0,,Elephants.
 Dialogue: 10,0:13:39.84,0:13:40.59,Default,,0,0,0,,What's up?
 Dialogue: 10,0:13:41.76,0:13:43.26,Default,,0,0,0,,Faithful Elephants...
-Dialogue: 10,0:13:44.14,0:13:46.72,Default,,0,0,0,,Stop! Don't even mention that title!
-Dialogue: 10,0:13:46.72,0:13:48.77,Default,,0,0,0,,Just the title is enough to make me start crying!
+Dialogue: 10,0:13:44.14,0:13:46.72,Default,,0,0,0,,Stop! Don't even mention that!
+Dialogue: 10,0:13:46.72,0:13:48.77,Default,,0,0,0,,Just the title is enough to tear me up!
 Dialogue: 10,0:13:48.77,0:13:49.73,Default,,0,0,0,,Stop war!
 Dialogue: 10,0:13:50.60,0:13:51.94,Default,,0,0,0,,Gon, the Little Fox.
 Dialogue: 10,0:13:53.90,0:13:56.61,Default,,0,0,0,,Please stop! I don't wanna think about it!
 Dialogue: 10,0:13:57.40,0:13:59.07,Default,,0,0,0,,The Happy Prince.
 Dialogue: 10,0:13:59.07,0:14:02.36,Default,,0,0,0,,Poor swallow! Why didn't you fly south for the winter?
-Dialogue: 10,0:14:02.70,0:14:03.53,Default,,0,0,0,,Taro and Jiro.
+Dialogue: 10,0:14:02.70,0:14:03.53,Default,,0,0,0,,Tarou and Jirou.
 Dialogue: 10,0:14:03.53,0:14:05.32,Default,,0,0,0,,They survived in Antarctica!
 Dialogue: 10,0:14:05.32,0:14:06.33,Default,,0,0,0,,They were so brave!
 Dialogue: 10,0:14:06.33,0:14:07.79,Default,,0,0,0,,Milo and Otis.
 Dialogue: 10,0:14:11.29,0:14:12.21,Default,,0,0,0,,Hachiko.
 Dialogue: 10,0:14:13.17,0:14:14.92,Default,,0,0,0,,Hachi!
-Dialogue: 10,0:14:18.88,0:14:20.26,Default,,0,0,0,,We walked a lot today.
+Dialogue: 10,0:14:18.88,0:14:20.26,Default,,0,0,0,,We walked around a lot today.
 Dialogue: 10,0:14:20.26,0:14:22.08,Default,,0,0,0,,But we didn't get to see everything.
-Dialogue: 10,0:14:22.08,0:14:25.97,Default,,0,0,0,,There were lots of animals \NI'd never heard of or seen before.
+Dialogue: 10,0:14:22.08,0:14:25.97,Default,,0,0,0,,{\q2}There were lots of animals \NI'd never heard of or seen before.
 Dialogue: 10,0:14:27.05,0:14:27.97,Default,,0,0,0,,Let's come back sometime.
 Dialogue: 10,0:14:30.35,0:14:31.10,Default,,0,0,0,,Pimo.
 Dialogue: 10,0:14:32.10,0:14:33.48,Default,,0,0,0,,What's "Pimo"?
 Dialogue: 10,0:14:33.81,0:14:36.56,Default,,0,0,0,,A mysterious animal that many have seen,
-Dialogue: 10,0:14:36.90,0:14:39.69,Default,,0,0,0,,but few know where it comes from \Nor the origin of its name.
+Dialogue: 10,0:14:36.90,0:14:39.69,Default,,0,0,0,,{\q2}but few know where it comes from \Nor where its name originates from.
 Dialogue: 10,0:14:39.69,0:14:41.28,Default,,0,0,0,,Does an animal like that exist?
 Dialogue: 10,0:14:42.99,0:14:44.07,Default,,0,0,0,,Huh? Where?
 Comment: 0,0:14:53.91,0:14:53.91,Default,chapter,0,0,0,,{Part C}
