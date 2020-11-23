@@ -598,6 +598,7 @@ Dialogue: 0,0:11:32.67,0:11:34.38,Sign,,0,0,0,,{\clip(393,268,895,269)\pos(645,2
 Dialogue: 0,0:11:32.67,0:11:34.38,Sign,,0,0,0,,{\clip(393,269,895,270)\pos(645,200)\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&H24B0E3&}m -211 61 l 245 68 232 -41 148 -129 -165 -113 -247 -12
 Dialogue: 0,0:12:00.20,0:12:02.91,Sign,,0,0,0,,{\pos(560.625,225)}Bears have 5 fingers!!!
 Dialogue: 0,0:15:28.07,0:15:32.58,Sign,,0,0,0,,{\pos(956.922,124)\fs32}I went to Shirakawa
+Dialogue: 0,0:15:22.23,0:15:24.24,Sign,TLC,0,0,0,,Riding the Shirakawa night boat
 Dialogue: 0,0:15:28.07,0:15:32.58,Sign,,0,0,0,,{\pos(972.336,174)\fs32}in Kyoto.
 Dialogue: 0,0:15:28.07,0:15:32.58,Sign,,0,0,0,,{\pos(861.563,325)\fs32}Nice.
 Dialogue: 0,0:15:32.62,0:15:38.21,Sign,,0,0,0,,{\pos(895.742,404)\fs32}I slept.
@@ -611,18 +612,11 @@ Dialogue: 0,0:15:45.92,0:15:46.97,Sign,,0,0,0,,{\pos(227.438,319)}Sleeping on
 Dialogue: 0,0:15:45.92,0:15:46.97,Sign,,0,0,0,,{\pos(238.594,391)}the job
 Dialogue: 0,0:17:19.48,0:17:19.77,Sign,,0,0,0,,{\pos(640,604)}Me!
 Dialogue: 0,0:17:20.27,0:17:20.60,Sign,,0,0,0,,{\pos(640,604)}Me!
-Dialogue: 0,0:19:44.54,0:19:45.71,Sign,,0,0,0,,{\pos(674.148,440)\fs32}Miss Glasses
-Dialogue: 0,0:19:44.54,0:19:45.71,Sign,,0,0,0,,{\pos(681.672,491)\fs32}Frames
-Dialogue: 0,0:19:45.75,0:19:46.71,Sign,,0,0,0,,{\pos(667.891,484)\fs32}Miss Young
-Dialogue: 0,0:19:45.75,0:19:46.71,Sign,,0,0,0,,{\pos(668.453,534)\fs32}Sunday
-Dialogue: 0,0:19:46.75,0:19:47.67,Sign,,0,0,0,,{\pos(667.141,440)\fs32}Miss
-Dialogue: 0,0:19:46.75,0:19:47.67,Sign,,0,0,0,,{\pos(658.172,491)\fs32}Chuo Line
-Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(666.391,361)\fs32}Miss Tokyo
-Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(662.922,412)\fs32}Metropolitan
-Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(660.094,462)\fs32}Ordinance
-Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(655.781,512)\fs32}Regarding the
-Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(648.43,563)\fs32}Healthy Development
-Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(668.5,613)\fs32}of Youths
-Dialogue: 0,0:19:48.67,0:19:49.58,Sign,,0,0,0,,{\pos(687.563,455)\fs32}Miss No
-Dialogue: 0,0:19:48.67,0:19:49.58,Sign,,0,0,0,,{\pos(679.875,505)\fs32}Make-Up
+Dialogue: 0,0:19:44.54,0:19:49.58,Sign,,0,0,0,,{\an7\blur1\pos(1124.81,50.67)\p1\c&H2026E9&}m -269 -23 l 125 -23 125 75 -269 75
+Dialogue: 1,0:19:44.54,0:19:49.58,Sign,,0,0,0,,{\an7\blur1\pos(1124.81,50.67)\p1\c&HECEAE8&}m -262 -18 l 118 -18 118 70 -262 70
+Dialogue: 2,0:19:44.54,0:19:45.75,Sign,,0,0,0,,{\fs44\pos(1054.14,77.34)\c&H23201E&\blur0.85\fnMaximum Impact}Miss Glasses Frame
+Dialogue: 2,0:19:45.75,0:19:46.71,Sign,,0,0,0,,{\fs44\pos(1054.14,77.34)\c&H23201E&\blur0.85\fnMaximum Impact}Miss Young Sunday
+Dialogue: 2,0:19:46.71,0:19:47.67,Sign,,0,0,0,,{\fs44\pos(1054.14,77.34)\c&H23201E&\blur0.85\fnMaximum Impact}Miss Chuo Line
+Dialogue: 2,0:19:47.67,0:19:48.63,Sign,,0,0,0,,{\fs24\pos(1054.14,77.34)\c&H23201E&\blur0.85\fnMaximum Impact}Miss Tokyo Metropolitan Ordinance \NRegarding the \NHealthy Development of Youths
+Dialogue: 2,0:19:48.63,0:19:49.58,Sign,,0,0,0,,{\fs44\pos(1054.14,77.34)\c&H23201E&\blur0.85\fnMaximum Impact}Miss No Make-up
 Comment: 0,0:19:59.43,0:20:03.18,Sign,,0,0,0,,{\pos(597.015625,77)\an5\fs40}Note: Leo Morimoto is the Japanese narrator for "Thomas & Friends".
