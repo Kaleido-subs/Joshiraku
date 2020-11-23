@@ -25,7 +25,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:01:30.24,0:01:32.11,Default,,0,0,0,,"Hello, hello, hello, hello!"
 Dialogue: 10,0:01:32.11,0:01:33.53,Default,,0,0,0,,"What's with the racket, Yassan?"
-Dialogue: 10,0:01:33.53,0:01:39.20,Default,,0,0,0,,"It's not a racket! \NI'm just preparing for Hello-ween."
+Dialogue: 10,0:01:33.53,0:01:39.20,Default,,0,0,0,,"It ain't no racket, no sir! \NI'm just preparing for Hello-ween."
 Dialogue: 10,0:01:39.20,0:01:40.46,Default,,0,0,0,,"That's not what it's called!"
 Dialogue: 10,0:01:40.46,0:01:42.21,Default,,0,0,0,,Thanks for your continued appreciation.
 Dialogue: 10,0:01:48.80,0:01:50.26,Default,,0,0,0,,Trick or treat!
@@ -36,7 +36,7 @@ Dialogue: 10,0:01:59.31,0:02:00.68,Default,,0,0,0,,What is this crap?!
 Dialogue: 10,0:02:00.68,0:02:01.68,Default,,0,0,0,,Dried squid.
 Dialogue: 10,0:02:01.68,0:02:02.56,Default,,0,0,0,,Crispy peanuts.
 Dialogue: 10,0:02:02.56,0:02:03.44,Default,,0,0,0,,Cheese fishsticks.
-Dialogue: 10,0:02:03.44,0:02:04.23,Default,,0,0,0,,Very grownup.
+Dialogue: 10,0:02:03.44,0:02:04.23,Default,,0,0,0,,Very grown-up.
 Dialogue: 10,0:02:04.23,0:02:05.23,Default,,0,0,0,,These are bar snacks!
 Dialogue: 10,0:02:05.48,0:02:08.15,Default,,0,0,0,,This room is gonna stink! Am I an old geezer now?
 Dialogue: 10,0:02:08.32,0:02:10.36,Default,,0,0,0,,Does salami count as sweets?
@@ -65,7 +65,7 @@ Dialogue: 10,0:02:51.69,0:02:53.90,Default,,0,0,0,,We don't say that name here.
 Dialogue: 10,0:02:53.90,0:02:54.78,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:02:54.78,0:02:56.28,Default,,0,0,0,,Because we're adults.
 Dialogue: 10,0:02:56.28,0:02:57.91,Default,,0,0,0,,Is that right?
-Dialogue: 10,0:02:58.70,0:03:01.91,Default,,0,0,0,,Someone mentions something and \Neveryone starts saying "yikes, don't say that!"
+Dialogue: 10,0:02:58.70,0:03:01.91,Default,,0,0,0,,Someone mentions something and everyone \Nstarts saying "Yikes, don't say that!"
 Dialogue: 10,0:03:02.16,0:03:07.17,Default,,0,0,0,,But if you start imposing restrictions on yourself \Nbecause you're scared of rumors and urban legends,
 Dialogue: 10,0:03:07.17,0:03:08.79,Default,,0,0,0,,our industry suffers.
 Dialogue: 10,0:03:10.17,0:03:11.42,Default,,0,0,0,,So what should we do?
@@ -137,19 +137,19 @@ Dialogue: 10,0:05:46.83,0:05:49.16,Default,,0,0,0,,There's a manga called Peach 
 Dialogue: 10,0:05:49.16,0:05:50.20,Default,,0,0,0,,What about Princess Peach?
 Dialogue: 10,0:05:50.20,0:05:52.92,Default,,0,0,0,,Or Wedding Peach.
 Dialogue: 10,0:05:52.92,0:05:55.96,Default,,0,0,0,,I think we got a little off-topic.
-Dialogue: 10,0:05:55.96,0:06:00.09,Default,,0,0,0,,If I'm not allowed to say "if you give me candy, \NI'll follow you always!", what should I say instead?
+Dialogue: 10,0:05:55.96,0:06:00.09,Default,,0,0,0,,If I'm not allowed to say "If you give me candy, \NI'll follow you always!", what should I say instead?
 Dialogue: 10,0:06:00.21,0:06:02.47,Default,,0,0,0,,"If you give me candy, I'll say thank you."
 Dialogue: 10,0:06:02.47,0:06:03.47,Default,,0,0,0,,That much should be obvious.
 Dialogue: 10,0:06:03.47,0:06:05.55,Default,,0,0,0,,Not saying thank you would be weird.
 Dialogue: 10,0:06:05.55,0:06:07.56,Default,,0,0,0,,You should always say thanks \Nwhen you get something from someone.
 Dialogue: 10,0:06:07.56,0:06:13.23,Default,,0,0,0,,A version of Halloween where you offer to say thanks \Nin return for candy is lacking a little oomph for a festival.
 Dialogue: 10,0:06:13.23,0:06:16.40,Default,,0,0,0,,But on the other hand, we can't go too extravagant.
-Dialogue: 10,0:06:16.81,0:06:18.19,Default,,0,0,0,,"If you give me candy...
-Dialogue: 10,0:06:18.19,0:06:19.44,Default,,0,0,0,,I'll keep my silence."
+Dialogue: 10,0:06:16.81,0:06:18.19,Default,,0,0,0,,"If you give me candy..."
+Dialogue: 10,0:06:18.19,0:06:19.44,Default,,0,0,0,,"I'll keep my silence."
 Dialogue: 10,0:06:19.44,0:06:22.40,Default,,0,0,0,,If you're going to say that, \Nyou should ask for money instead of can-
 Dialogue: 10,0:06:22.40,0:06:23.70,Default,,0,0,0,,That's blackmail!
-Dialogue: 10,0:06:24.03,0:06:26.49,Default,,0,0,0,,Okay then, "if you give me candy...
-Dialogue: 10,0:06:27.07,0:06:29.62,Default,,0,0,0,,I'll pray for your health!"
+Dialogue: 10,0:06:24.03,0:06:26.49,Default,,0,0,0,,Okay then, "if you give me candy..."
+Dialogue: 10,0:06:27.07,0:06:29.62,Default,,0,0,0,,"I'll pray for your health!"
 Dialogue: 10,0:06:29.62,0:06:32.08,Default,,0,0,0,,You can get that without handing out candy!
 Dialogue: 10,0:06:32.08,0:06:34.75,Default,,0,0,0,,That's just like the palm-readers \Nyou see in front of the station!
 Dialogue: 10,0:06:34.92,0:06:38.29,Default,,0,0,0,,Why doesn't everyone just offer whatever they can?
@@ -228,6 +228,7 @@ Dialogue: 10,0:09:41.52,0:09:43.23,Default,,0,0,0,,It's a bomb warning!
 Dialogue: 10,0:09:44.23,0:09:46.69,Default,,0,0,0,,There must be a bomb planted somewhere!
 Dialogue: 10,0:09:50.61,0:09:53.16,Default,,0,0,0,,Any of these could be a bomb! Evacuate!
 Dialogue: 10,0:09:58.70,0:10:00.66,Default,,0,0,0,,Well, then. Don't mind if I do.
+Comment: 0,0:10:05.00,0:10:05.00,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:10:05.88,0:10:07.00,Default,,0,0,0,,Kabukicho!
 Dialogue: 10,0:10:07.00,0:10:08.96,Default,,0,0,0,,The greatest pleasure district in the East.
 Dialogue: 10,0:10:08.96,0:10:11.26,Default,,0,0,0,,It's not that far from Suehirotei.
@@ -323,6 +324,7 @@ Dialogue: 10,0:15:03.05,0:15:04.42,Default,,0,0,0,,It sounds more like the video
 Dialogue: 10,0:15:04.42,0:15:06.51,Default,,0,0,0,,I don't think even that happens in Yakuza.
 Dialogue: 10,0:15:06.51,0:15:07.34,Default,,0,0,0,,Nope.
 Dialogue: 10,0:15:07.34,0:15:08.30,Default,,0,0,0,,Not at all.
+Comment: 0,0:15:10.97,0:15:10.97,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:15:11.47,0:15:13.68,Default,,0,0,0,,"That's an unthinkable disaster!"
 Dialogue: 10,0:15:13.81,0:15:16.48,Default,,0,0,0,,"Well, my groin sure hurts!"
 Dialogue: 10,0:15:16.94,0:15:18.77,Default,,0,0,0,,Thanks for your continued appreciation.
@@ -366,7 +368,7 @@ Dialogue: 10,0:17:23.27,0:17:24.56,Default,,0,0,0,,Like Cohen C. Dental?
 Dialogue: 10,0:17:24.56,0:17:25.69,Default,,0,0,0,,Axie Dental as well?
 Dialogue: 10,0:17:25.90,0:17:29.11,Default,,0,0,0,,Not that I care, but does anyone think the way \Nwe treated that first sign is a bit shoddy
 Dialogue: 10,0:17:29.11,0:17:31.61,Default,,0,0,0,,compared to how we treat that bloody American mouse?
-Dialogue: 10,0:17:31.61,0:17:35.45,Default,,0,0,0,,We pussy-foot around that one while \Nthis one is like "eh, um, well, whatever."
+Dialogue: 10,0:17:31.61,0:17:35.45,Default,,0,0,0,,We pussy-foot around that one while \Nthis one is like "Eh, um, well, whatever."
 Dialogue: 10,0:17:35.45,0:17:38.91,Default,,0,0,0,,It can't possibly be because one is from the \NEnglish-speaking world and the other isn't, can it?
 Dialogue: 10,0:17:38.91,0:17:42.29,Default,,0,0,0,,No, no! It's just... an old woman with hair like that.
 Dialogue: 10,0:17:42.58,0:17:47.09,Default,,0,0,0,,There are definitely a lot fewer doctor's clinics \Nwith that kind of name.
@@ -442,6 +444,7 @@ Dialogue: 10,0:21:37.40,0:21:39.15,Default,,0,0,0,,Is this Pythagoras Switch or 
 Dialogue: 10,0:21:41.78,0:21:44.78,Default,,0,0,0,,D-does this string lead outside?
 Dialogue: 10,0:21:44.78,0:21:46.58,Default,,0,0,0,,The mechanism's gone outside!
 Dialogue: 10,0:21:59.84,0:22:00.88,Default,,0,0,0,,At this time, the effect-
+Comment: 0,0:23:40.02,0:23:40.02,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:23:40.98,0:23:42.78,Default,,0,0,0,,Kigurumi Haroukitei here.
 Dialogue: 10,0:23:42.78,0:23:44.07,Default,,0,0,0,,Hello everyone!
 Dialogue: 10,0:23:44.40,0:23:48.07,Default,,0,0,0,,Last Sunday, I went to visit my granny's grave.
