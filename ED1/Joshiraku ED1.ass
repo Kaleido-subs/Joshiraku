@@ -1772,9 +1772,9 @@ Dialogue: 0,0:00:46.40,0:00:49.45,ED1,eng  eng_centre fade,0,0,0,fx,{\4a&HA0&\1a
 Dialogue: 2,0:00:49.45,0:00:50.61,ED1,eng  eng_centre fade,0,0,0,fx,{\blur0.65\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}Thank you kindly for your appreciation!
 Dialogue: 1,0:00:49.45,0:00:50.61,ED1,eng  eng_centre fade,0,0,0,fx,{\4c&H000000&\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord2\blur0.85}Thank you kindly for your appreciation!
 Dialogue: 0,0:00:49.45,0:00:50.61,ED1,eng  eng_centre fade,0,0,0,fx,{\4a&HA0&\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1\blur6}Thank you kindly for your appreciation!
-Dialogue: 2,0:00:50.61,0:00:51.99,ED1,eng  eng_left fade,0,0,0,fx,{\blur0.65\an3\pos(620,700)\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}Let's laugh, crack open a smile!
-Dialogue: 1,0:00:50.61,0:00:51.99,ED1,eng  eng_left fade,0,0,0,fx,{\4c&H000000&\an3\pos(620,700)\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord2\blur0.85}Let's laugh, crack open a smile!
-Dialogue: 0,0:00:50.61,0:00:51.99,ED1,eng  eng_left fade,0,0,0,fx,{\4a&HA0&\an3\pos(620,700)\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1\blur6}Let's laugh, crack open a smile!
+Dialogue: 2,0:00:50.61,0:00:51.99,ED1,eng  eng_left fade,0,0,0,fx,{\blur0.65\an3\pos(620,700)\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}Laugh out loud, crack a smile!
+Dialogue: 1,0:00:50.61,0:00:51.99,ED1,eng  eng_left fade,0,0,0,fx,{\4c&H000000&\an3\pos(620,700)\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord2\blur0.85}Laugh out loud, crack a smile!
+Dialogue: 0,0:00:50.61,0:00:51.99,ED1,eng  eng_left fade,0,0,0,fx,{\4a&HA0&\an3\pos(620,700)\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1\blur6}Laugh out loud, crack a smile!
 Dialogue: 2,0:00:51.99,0:00:53.49,ED1,eng  eng_left fade,0,0,0,fx,{\blur0.65\an3\pos(620,700)\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)}C'mon, it'll be worthwhile!
 Dialogue: 1,0:00:51.99,0:00:53.49,ED1,eng  eng_left fade,0,0,0,fx,{\4c&H000000&\an3\pos(620,700)\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord2\blur0.85}C'mon, it'll be worthwhile!
 Dialogue: 0,0:00:51.99,0:00:53.49,ED1,eng  eng_left fade,0,0,0,fx,{\4a&HA0&\an3\pos(620,700)\1a&HFE&\3a&HFE&\xshad0.01\fad(200,250)\bord1\blur6}C'mon, it'll be worthwhile!
