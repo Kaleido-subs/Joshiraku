@@ -28,13 +28,13 @@ Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:01:30.40,0:01:33.28,Default,,0,0,0,,"I'm going on a trip to Antarctica."
 Dialogue: 10,0:01:33.70,0:01:37.12,Default,,0,0,0,,"Nice, and maybe one day you'll be \Nable to go to Human-Arctica."
 Dialogue: 10,0:01:37.87,0:01:39.95,Default,,0,0,0,,Thanks for your continued appreciation.
-Dialogue: 10,0:01:44.21,0:01:46.34,Default,,0,0,0,,I sense danger.
+Dialogue: 10,0:01:44.21,0:01:46.34,Default,,0,0,0,,I sense danger afoot.
 Dialogue: 10,0:01:47.17,0:01:48.13,Default,,0,0,0,,Why?
-Dialogue: 10,0:01:48.13,0:01:51.59,Default,,0,0,0,,{\q2}Even though it's a holiday, \Nthere were hardly any children in today.
+Dialogue: 10,0:01:48.13,0:01:51.59,Default,,0,0,0,,It's a holiday, but there were hardly any children in today!
 Dialogue: 10,0:01:51.59,0:01:53.01,Default,,0,0,0,,Oh, you're right.
 Dialogue: 10,0:01:53.01,0:01:56.72,Default,,0,0,0,,{\q2}Well, rakugo's never really been \Nsomething that attracts kids, y'know?
 Dialogue: 10,0:01:56.72,0:01:58.47,Default,,0,0,0,,But today's a holiday!
-Dialogue: 10,0:01:58.47,0:02:02.52,Default,,0,0,0,,{\q2}Other amusements and tourist spots \Nare overflowing with children!
+Dialogue: 10,0:01:58.47,0:02:02.52,Default,,0,0,0,,{\q2}Other amusement– and tourist spots \Nare overflowing with children!
 Dialogue: 10,0:02:02.52,0:02:04.73,Default,,0,0,0,,They're pulling in children from far and wide!
 Dialogue: 10,0:02:04.73,0:02:08.86,Default,,0,0,0,,We need to offer more services to attract children!
 Dialogue: 10,0:02:08.86,0:02:10.49,Default,,0,0,0,,Kigu's wigging out!
@@ -45,33 +45,34 @@ Dialogue: 10,0:02:19.49,0:02:21.12,Default,,0,0,0,,Thank you very much!
 Dialogue: 10,0:02:21.12,0:02:22.79,Default,,0,0,0,,Kigu's giving big!
 Dialogue: 10,0:02:22.79,0:02:24.71,Default,,0,0,0,,It's true. Kigu's giving big!
 Dialogue: 10,0:02:29.84,0:02:31.34,Default,,0,0,0,,Kigu's giving in.
+Dialogue: 10,0:02:29.25,0:02:30.51,Default,,0,0,0,,{\an8}I give up! I give up!
 Dialogue: 10,0:02:31.34,0:02:33.09,Default,,0,0,0,,It's true. Kigu's giving in.
 Dialogue: 10,0:02:35.22,0:02:38.30,Default,,0,0,0,,{\q2}Anyway, this doesn't help us \Nget kids to come to our shows!
-Dialogue: 10,0:02:38.30,0:02:40.72,Default,,0,0,0,,Then why don't we introduce a Happy Meal type thing?
+Dialogue: 10,0:02:38.30,0:02:40.72,Default,,0,0,0,,Then why don't we introduce a Happy Meal-type thing?
 Dialogue: 10,0:02:42.68,0:02:44.81,Default,,0,0,0,,Kids really like Happy Meals.
-Dialogue: 10,0:02:44.81,0:02:48.69,Default,,0,0,0,,{\q2}So maybe we need to add something \Nas a free gift with entry.
+Dialogue: 10,0:02:44.81,0:02:48.69,Default,,0,0,0,,{\q2}How about we add something extra with the entry ticket?
 Dialogue: 10,0:02:48.69,0:02:51.94,Default,,0,0,0,,{\q2}It can't be anything too fancy, \Nbut what about trading cards?
 Dialogue: 10,0:02:51.94,0:02:55.49,Default,,0,0,0,,Nice. It's pretty fun to collect all the types.
-Dialogue: 10,0:02:55.49,0:02:59.83,Default,,0,0,0,,And if you collect all the cards in a set, \Nyou get a special limited-edition card!
+Dialogue: 10,0:02:55.49,0:02:59.83,Default,,0,0,0,,{\q2}And if you collect all the cards in a set, \Nyou get a special limited-edition card!
 Dialogue: 10,0:02:59.83,0:03:01.37,Default,,0,0,0,,That's just a gacha system.
 Dialogue: 10,0:03:01.37,0:03:03.66,Default,,0,0,0,,Okay then, collect all the cards to get a special gift.
 Dialogue: 10,0:03:03.66,0:03:04.66,Default,,0,0,0,,Like an anime collector's edition?
 Dialogue: 10,0:03:04.66,0:03:05.50,Default,,0,0,0,,Meet and greets!
-Dialogue: 10,0:03:05.79,0:03:08.21,Default,,0,0,0,,Hopefully we'll attract some adult nerd whales.
-Dialogue: 10,0:03:08.21,0:03:11.80,Default,,0,0,0,,Yeah, but the point is we need kids to buy tickets.
+Dialogue: 10,0:03:05.79,0:03:08.21,Default,,0,0,0,,Hopefully we can lure in some whales this way.
+Dialogue: 10,0:03:08.21,0:03:11.80,Default,,0,0,0,,{\q2}Yeah, but we're trying to target {\i1}kids{\i0}, not just anyone.
 Dialogue: 10,0:03:11.80,0:03:14.01,Default,,0,0,0,,What do they like?
 Dialogue: 10,0:03:14.01,0:03:15.09,Default,,0,0,0,,Round stuff!
 Dialogue: 10,0:03:15.76,0:03:18.34,Default,,0,0,0,,Kids like round things.
 Dialogue: 10,0:03:29.98,0:03:31.36,Default,,0,0,0,,There aren't any kids like that!
-Dialogue: 10,0:03:31.82,0:03:34.57,Default,,0,0,0,,I'm contributing to the plan in my own way.
+Dialogue: 10,0:03:31.82,0:03:34.57,Default,,0,0,0,,Well, I'm already contributing in my own way.
 Dialogue: 10,0:03:34.57,0:03:35.78,Default,,0,0,0,,With your glasses?
 Dialogue: 10,0:03:35.78,0:03:38.20,Default,,0,0,0,,Children do like round characters.
 Dialogue: 10,0:03:38.20,0:03:41.87,Default,,0,0,0,,Maybe we should all try and have something round.
 Dialogue: 10,0:03:44.33,0:03:46.54,Default,,0,0,0,,I feel like I've seen that character a lot.
 Dialogue: 10,0:03:46.54,0:03:49.71,Default,,0,0,0,,I've gone with a circle-patterned kimono.
-Dialogue: 10,0:03:50.50,0:03:57.43,Default,,0,0,0,,The circles are made up of smaller circles, \Nwhich are made up of even smaller circles,
+Dialogue: 10,0:03:50.50,0:03:57.43,Default,,0,0,0,,{\q2}The circles are made up of smaller circles, \Nwhich are made up of even smaller circles,
 Dialogue: 10,0:03:57.43,0:03:59.84,Default,,0,0,0,,creating an infinite mandala effect.
-Dialogue: 10,0:04:00.51,0:04:02.18,Default,,0,0,0,,You wanna scare the kids?!
+Dialogue: 10,0:04:00.51,0:04:02.18,Default,,0,0,0,,Are you tryna scare 'em away?!
 Dialogue: 10,0:04:02.18,0:04:04.27,Default,,0,0,0,,If they're going to be scared, let them!
 Dialogue: 10,0:04:04.27,0:04:05.39,Default,,0,0,0,,They'll never come again!
 Dialogue: 10,0:04:06.18,0:04:09.25,Default,,0,0,0,,In that case, maybe I'll become physically rounder.
@@ -79,12 +80,12 @@ Dialogue: 10,0:04:09.25,0:04:11.48,Default,,0,0,0,,I'll get round by eating a lo
 Dialogue: 10,0:04:13.15,0:04:13.90,Default,,0,0,0,,Uh...
 Dialogue: 10,0:04:13.90,0:04:16.03,Default,,0,0,0,,I don't think your body'll expand that much.
 Dialogue: 10,0:04:18.28,0:04:19.49,Default,,0,0,0,,Can I have some?
-Dialogue: 10,0:04:19.49,0:04:22.74,Default,,0,0,0,,Help yourself! Everybody, help yourselves! I've got a lot!
-Dialogue: 10,0:04:27.12,0:04:28.37,Default,,0,0,0,,Don't be fooled, guys!
-Dialogue: 10,0:04:28.37,0:04:31.29,Default,,0,0,0,,She's the only one of us who can eat as much \Nas she likes without gaining weight!
-Dialogue: 10,0:04:32.25,0:04:35.59,Default,,0,0,0,,She's planning to stay slim without \Nsuccumbing to the onslaught of calories!
+Dialogue: 10,0:04:19.49,0:04:22.74,Default,,0,0,0,,Help yourself! There's plenty to go around!
+Dialogue: 10,0:04:27.12,0:04:28.37,Default,,0,0,0,,Don't ler her fool you, guys!
+Dialogue: 10,0:04:28.37,0:04:31.29,Default,,0,0,0,,{\q2}She's the only one who can eat as much \Nas she likes without gaining weight!
+Dialogue: 10,0:04:32.25,0:04:35.59,Default,,0,0,0,,{\q2}She's planning to stay slim without \Nsuccumbing to the onslaught of calories!
 Dialogue: 10,0:04:36.17,0:04:37.26,Default,,0,0,0,,How terrible!
-Dialogue: 10,0:04:37.26,0:04:39.13,Default,,0,0,0,,{\q2}You can't let your guard slip \Nfor a moment against her!
+Dialogue: 10,0:04:37.26,0:04:39.13,Default,,0,0,0,,Can't let your guard down for even a sec!
 Dialogue: 10,0:04:39.13,0:04:41.34,Default,,0,0,0,,Don't you have any ideas, Marii?
 Dialogue: 10,0:04:41.68,0:04:44.45,Default,,0,0,0,,I don't need brats to like me.
 Dialogue: 10,0:04:44.45,0:04:46.64,Default,,0,0,0,,Ah, but you're...
@@ -92,8 +93,8 @@ Dialogue: 10,0:04:48.27,0:04:50.98,Default,,0,0,0,,Get off me! I don't have a Mo
 Dialogue: 10,0:05:04.08,0:05:05.37,Default,,0,0,0,,Enough of that.
 Dialogue: 10,0:05:05.37,0:05:08.24,Default,,0,0,0,,This'll definitely make you popular with kids, Marii!
 Dialogue: 10,0:05:08.24,0:05:11.21,Default,,0,0,0,,The question is, how best to display your butt on stage.
-Dialogue: 10,0:05:11.21,0:05:14.50,Default,,0,0,0,,Showing your ass isn't something \Nthat should be taken lightly!
-Dialogue: 10,0:05:14.50,0:05:20.32,Default,,0,0,0,,Do it wrong and you'll be labeled a \Nbutt-exposer and mocked for 20 or 30 years!
+Dialogue: 10,0:05:11.21,0:05:14.50,Default,,0,0,0,,{\q2}Showing your ass isn't something \Nthat should be taken lightly!
+Dialogue: 10,0:05:14.50,0:05:20.32,Default,,0,0,0,,{\q2}Do it wrong and you'll be labelled an ass-flasher \Nand mocked for decades to come!
 Dialogue: 10,0:05:20.32,0:05:24.20,Default,,0,0,0,,We'll always be remembered as that ass-flashing anime!
 Dialogue: 10,0:05:24.20,0:05:25.76,Default,,0,0,0,,Ass-flashing anime?
 Dialogue: 10,0:05:25.76,0:05:28.39,Default,,0,0,0,,Are you prepared to deal with that?
@@ -102,10 +103,10 @@ Dialogue: 10,0:05:31.56,0:05:33.69,Default,,0,0,0,,Have it your way. I won't sto
 Dialogue: 10,0:05:33.69,0:05:34.23,Default,,0,0,0,,Do as you please.
 Dialogue: 10,0:05:34.23,0:05:36.44,Default,,0,0,0,,I never wanted to flash my butt!
 Dialogue: 10,0:05:36.77,0:05:37.57,Default,,0,0,0,,But...
-Dialogue: 10,0:05:38.40,0:05:42.86,Default,,0,0,0,,If you don't show your butt, \Nwe'll never get the kids to come to our show.
+Dialogue: 10,0:05:38.40,0:05:42.86,Default,,0,0,0,,{\q2}If you don't show your butt, we'll never \Nget the kids to come to our show!
 Dialogue: 10,0:05:42.86,0:05:43.95,Default,,0,0,0,,What?!
 Dialogue: 10,0:05:44.32,0:05:47.49,Default,,0,0,0,,Marii exposing herself is the only choice we have.
-Dialogue: 10,0:05:47.79,0:05:49.75,Default,,0,0,0,,I know Marii will do the right thing.
+Dialogue: 10,0:05:47.79,0:05:49.75,Default,,0,0,0,,I know you'll do the right thing!
 Dialogue: 10,0:05:49.75,0:05:51.12,Default,,0,0,0,,What are you on about?
 Dialogue: 10,0:05:51.12,0:05:53.08,Default,,0,0,0,,There are lots of ways to attract kids!
 Dialogue: 10,0:05:53.08,0:05:54.36,Default,,0,0,0,,We have a lot of choices left!
@@ -113,13 +114,13 @@ Dialogue: 10,0:05:54.36,0:05:54.92,Default,,0,0,0,,Nope.
 Dialogue: 10,0:05:54.92,0:05:55.50,Default,,0,0,0,,Not at all.
 Dialogue: 10,0:05:55.50,0:05:57.21,Default,,0,0,0,,There's nothing we can do...
 Dialogue: 10,0:05:57.21,0:05:58.46,Default,,0,0,0,,...but have you flash your ass.
-Dialogue: 10,0:05:58.46,0:06:00.09,Default,,0,0,0,,Nothing at all!
+Dialogue: 10,0:05:58.46,0:06:00.09,Default,,0,0,0,,We have no other choice!
 Dialogue: 10,0:06:00.09,0:06:02.38,Default,,0,0,0,,Your viewpoint is too narrow!
-Dialogue: 10,0:06:02.38,0:06:07.14,Default,,0,0,0,,Saying "there's nothing we can do" is how you end up \Nkilling your family and turning the gun on yourself!
-Dialogue: 10,0:06:07.14,0:06:09.31,Default,,0,0,0,,It's already decided. Give it up.
-Dialogue: 10,0:06:09.31,0:06:10.77,Default,,0,0,0,,WHEN was it decided?!
-Dialogue: 10,0:06:10.77,0:06:13.60,Default,,0,0,0,,Let's take one last trip together to *Land and *Sea.
-Dialogue: 10,0:06:13.94,0:06:17.06,Default,,0,0,0,,We can stay at the M*racosta and \Neat French food at Club **.
+Dialogue: 10,0:06:02.38,0:06:07.14,Default,,0,0,0,,{\q2}Saying "There's nothing we can do" is how you end up \Nkilling your family and turning the gun on yourself! {## DAMN that turned dark really quickly}
+Dialogue: 10,0:06:07.14,0:06:09.31,Default,,0,0,0,,The decision has already been set in stone. Give it up.
+Dialogue: 10,0:06:09.31,0:06:10.77,Default,,0,0,0,,When was it set in stone?!
+Dialogue: 10,0:06:10.77,0:06:13.60,Default,,0,0,0,,Let's take one last trip to D*sney Land and Sea together.
+Dialogue: 10,0:06:13.94,0:06:17.06,Default,,0,0,0,,{\q2}We can stay at the M*racosta \Nand eat French food at Club **.
 Dialogue: 10,0:06:17.06,0:06:18.02,Default,,0,0,0,,Then...
 Dialogue: 10,0:06:18.02,0:06:19.42,Default,,0,0,0,,It's ass time.
 Dialogue: 10,0:06:19.42,0:06:20.74,Default,,0,0,0,,This is stupid!
@@ -127,27 +128,27 @@ Dialogue: 10,0:06:20.74,0:06:22.82,Default,,0,0,0,,Marii, please listen to me.
 Dialogue: 10,0:06:22.82,0:06:24.28,Default,,0,0,0,,You're not a child anymore.
 Dialogue: 10,0:06:24.28,0:06:26.95,Default,,0,0,0,,You can talk until you're blue in the face.
 Dialogue: 10,0:06:27.74,0:06:29.54,Default,,0,0,0,,You're blue in the butt!
-Dialogue: 10,0:06:29.54,0:06:30.89,Default,,0,0,0,,Y-you've got me there...
+Dialogue: 10,0:06:29.54,0:06:30.89,Default,,0,0,0,,Y-You've got me there...
 Dialogue: 10,0:06:30.89,0:06:32.83,Default,,0,0,0,,Agh, what am I saying?!
 Dialogue: 10,0:06:31.54,0:06:33.33,Alt,,0,0,0,,I'm sick of this.
 Dialogue: 10,0:06:33.62,0:06:35.46,Default,,0,0,0,,Stop moaning and just get your ass out!
 Dialogue: 10,0:06:35.46,0:06:37.11,Default,,0,0,0,,Everyone! Get 'em off!
-Dialogue: 10,0:06:37.11,0:06:38.54,Default,,0,0,0,,Stop it!
+Dialogue: 10,0:06:37.11,0:06:38.54,Default,,0,0,0,,Lemme go!
 Dialogue: 10,0:06:40.50,0:06:43.97,Default,,0,0,0,,No! That bruise is evidence of child abuse!
 Dialogue: 10,0:06:44.47,0:06:46.14,Default,,0,0,0,,Huh? Anybody know this foreigner?
 Dialogue: 10,0:06:46.14,0:06:47.22,Default,,0,0,0,,Child abuse?
 Dialogue: 10,0:06:47.22,0:06:49.47,Default,,0,0,0,,What are you talking about? That's a Mongolian spot.
 Dialogue: 10,0:06:49.81,0:06:51.10,Default,,0,0,0,,I've heard of this.
-Dialogue: 10,0:06:51.10,0:06:54.27,Default,,0,0,0,,Only Asian people get Mongolian spots, \Nso there have been cases
-Dialogue: 10,0:06:54.27,0:06:58.75,Default,,0,0,0,,where foreign doctors who weren't used to seeing \Nthem mistook them for evidence of child abuse.
+Dialogue: 10,0:06:51.10,0:06:54.27,Default,,0,0,0,,{\q2}Only Asian people get Mongolian spots, \Nso there have been cases
+Dialogue: 10,0:06:54.27,0:06:58.75,Default,,0,0,0,,{\q2}where foreign doctors who weren't used to seeing \Nthem mistook them for evidence of child abuse.
 Dialogue: 10,0:06:58.75,0:07:00.44,Default,,0,0,0,,You Japanese are uncivilized brutes!
 Dialogue: 10,0:07:00.44,0:07:02.53,Default,,0,0,0,,I'm taking this child into protective custody!
 Dialogue: 10,0:07:03.44,0:07:05.11,Default,,0,0,0,,Let go of me!
 Dialogue: 10,0:07:05.11,0:07:06.32,Default,,0,0,0,,He took her.
 Dialogue: 10,0:07:08.87,0:07:11.20,Default,,0,0,0,,Hey, let's sing a song in memory of Marii.
 Dialogue: 10,0:07:11.20,0:07:19.21,Default,,0,0,0,,Poor little girl, ashamed of her butt, her big blue butt.
-Dialogue: 10,0:07:19.79,0:07:28.14,Default,,0,0,0,,Stolen away, far far away, by a foreigner
-Dialogue: 10,0:07:43.90,0:07:48.11,Default,,0,0,0,,You don't think that the reason we didn't have any kids \Nat the show is because they were all kidnapped, do you?
+Dialogue: 10,0:07:19.79,0:07:28.14,Default,,0,0,0,,Stolen away, far, far away, by a foreigner.
+Dialogue: 10,0:07:43.90,0:07:48.11,Default,,0,0,0,,{\q2}You don't think there are no kids here because \Nthe foreigners kidnapped them all, do you?
 Dialogue: 10,0:07:48.11,0:07:49.20,Default,,0,0,0,,Oh, maybe.
 Dialogue: 10,0:07:49.20,0:07:50.12,Default,,0,0,0,,Makes sense.
 Dialogue: 10,0:07:50.12,0:07:51.12,Default,,0,0,0,,Scary...

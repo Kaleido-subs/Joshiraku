@@ -43,51 +43,67 @@ Dialogue: 0,0:14:51.41,0:14:53.91,Sign,,0,0,0,midcard,{\frz20.92\fnBrushStroke 3
 Dialogue: 0,0:14:51.41,0:14:53.91,Sign,,0,0,0,midcard,{\frz20.92\fnBrushStroke 35\fs56\fsp-1\b0\bord3\c&HFDFEFE&\3c&H2792EA&\1a&HC8&\blur4\pos(268.11,505.11)}Rakugo Girls
 Dialogue: 1,0:14:51.41,0:14:53.91,Sign,,0,0,0,midcard,{\frz20.92\fnBrushStroke 35\fs56\fsp-1\b0\c&HFDFEFE&\blur0.8\pos(268.11,505.11)}Rakugo Girls
 Dialogue: 1,0:14:51.41,0:14:53.91,Sign,,0,0,0,midcard,{\frz20.92\fnBrushStroke 35\fs56\fsp-1\b0\c&HFDFEFE&\blur0.8\pos(268.11,505.11)}Rakugo Girls
-Dialogue: 0,0:02:17.62,0:02:18.16,Sign,,0,0,0,,{\pos(524,475)\an7\fs48}Red Feather Donations
-Dialogue: 0,0:02:44.81,0:02:48.69,Sign,,0,0,0,,{\pos(844,72)\an7\fs48}Entrance Ticket
-Comment: 0,0:04:48.31,0:04:50.98,Sign,,0,0,0,,{\pos(102,57)\an7\fs40}Note: Mongolian spots tend to fade after childhood.
-Dialogue: 0,0:05:08.25,0:05:11.17,Sign,,0,0,0,,{\pos(729,324)\an7\fs32}Marii
-Dialogue: 0,0:05:08.25,0:05:11.17,Sign,,0,0,0,,{\pos(716,374)\an7\fs32}Buratei
-Dialogue: 0,0:08:07.84,0:08:09.05,Sign,,0,0,0,,{\pos(281,172)\an7\fs32}Year Pass
-Dialogue: 0,0:08:07.84,0:08:09.05,Sign,,0,0,0,,{\pos(268,518)\an7\fs48}Kukuru Anrakutei
-Dialogue: 0,0:08:21.98,0:08:22.94,Sign,,0,0,0,,{\pos(640,496)\an5\fs48}Birds?
-Dialogue: 0,0:10:44.25,0:10:45.12,Sign,,0,0,0,,{\pos(102,151)\an7\fs48}Standing Bar
-Dialogue: 0,0:10:44.25,0:10:45.12,Sign,,0,0,0,,{\pos(448,208)\an7\fs48}Futa
-Dialogue: 0,0:10:44.25,0:10:45.12,Sign,,0,0,0,,{\pos(102,547)\an7\fs48}Stand to attention and drink!
-Dialogue: 0,0:11:20.83,0:11:22.54,Sign,,0,0,0,,{\pos(652,122)\an7\fs48}Watch out for dung
-Dialogue: 0,0:11:20.83,0:11:22.54,Sign,,0,0,0,,{\pos(691,187)\an7\fs63}DANGER!
-Dialogue: 0,0:11:20.83,0:11:22.54,Sign,,0,0,0,,{\pos(652,504)\an7\fs32}Gorillas hurl their dung
-Dialogue: 0,0:11:26.58,0:11:28.25,Sign,,0,0,0,,{\pos(524,187)\an7\fs63}WARNING!
-Dialogue: 0,0:11:26.58,0:11:28.25,Sign,,0,0,0,,{\pos(409,439)\an7\fs32}Hippos fling their dung with their tails.
-Dialogue: 0,0:11:32.67,0:11:34.38,Sign,,0,0,0,,{\pos(473,43)\an7\fs32}Be careful of spitting camels
-Dialogue: 0,0:11:32.67,0:11:34.38,Sign,,0,0,0,,{\pos(537,93)\an7\fs55}WARNING!
-Dialogue: 0,0:12:00.20,0:12:02.91,Sign,,0,0,0,,{\pos(371,201)\an7\fs48}Bears have 5 fingers!!!
-Dialogue: 0,0:15:28.07,0:15:32.58,Sign,,0,0,0,,{\pos(844,108)\an7\fs32}I went to Shirakawa
-Dialogue: 0,0:15:28.07,0:15:32.58,Sign,,0,0,0,,{\pos(921,158)\an7\fs32}in Kyoto.
-Dialogue: 0,0:15:28.07,0:15:32.58,Sign,,0,0,0,,{\pos(832,309)\an7\fs32}Nice.
-Dialogue: 0,0:15:32.62,0:15:38.21,Sign,,0,0,0,,{\pos(857,388)\an7\fs32}I slept.
-Dialogue: 0,0:15:32.62,0:15:38.21,Sign,,0,0,0,,{\pos(460,468)\an7\fs32}Liar.
-Dialogue: 0,0:15:41.59,0:15:44.01,Sign,,0,0,0,,{\pos(153,57)\an7\fs40}Web
-Dialogue: 0,0:15:41.59,0:15:44.01,Sign,,0,0,0,,{\pos(627,252)\an7\fs40}Wikipedia
-Dialogue: 0,0:15:41.59,0:15:44.01,Sign,,0,0,0,,{\pos(102,396)\an7\fs40}Google
-Dialogue: 0,0:15:44.30,0:15:46.97,Sign,,0,0,0,,{\pos(422,57)\an7\fs48}Asleep at
-Dialogue: 0,0:15:44.30,0:15:46.97,Sign,,0,0,0,,{\pos(409,136)\an7\fs48}the wheel
-Dialogue: 0,0:15:45.92,0:15:46.97,Sign,,0,0,0,,{\pos(128,295)\an7\fs48}Sleeping on
-Dialogue: 0,0:15:45.92,0:15:46.97,Sign,,0,0,0,,{\pos(179,367)\an7\fs48}the job
-Dialogue: 0,0:17:19.48,0:17:19.77,Sign,,0,0,0,,{\pos(640,604)\an5\fs48}Me!
-Dialogue: 0,0:17:20.27,0:17:20.60,Sign,,0,0,0,,{\pos(640,604)\an5\fs48}Me!
-Dialogue: 0,0:19:44.54,0:19:45.71,Sign,,0,0,0,,{\pos(601,424)\an7\fs32}Miss Glasses
-Dialogue: 0,0:19:44.54,0:19:45.71,Sign,,0,0,0,,{\pos(640,475)\an7\fs32}Frames
-Dialogue: 0,0:19:45.75,0:19:46.71,Sign,,0,0,0,,{\pos(601,468)\an7\fs32}Miss Young
-Dialogue: 0,0:19:45.75,0:19:46.71,Sign,,0,0,0,,{\pos(627,518)\an7\fs32}Sunday
-Dialogue: 0,0:19:46.75,0:19:47.67,Sign,,0,0,0,,{\pos(640,424)\an7\fs32}Miss
-Dialogue: 0,0:19:46.75,0:19:47.67,Sign,,0,0,0,,{\pos(601,475)\an7\fs32}Chuo Line
-Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(601,345)\an7\fs32}Miss Tokyo
-Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(588,396)\an7\fs32}Metropolitan
-Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(601,446)\an7\fs32}Ordinance
-Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(576,496)\an7\fs32}Regarding the
-Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(524,547)\an7\fs32}Healthy Development
-Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(614,597)\an7\fs32}of Youths
-Dialogue: 0,0:19:48.67,0:19:49.58,Sign,,0,0,0,,{\pos(640,439)\an7\fs32}Miss No
-Dialogue: 0,0:19:48.67,0:19:49.58,Sign,,0,0,0,,{\pos(627,489)\an7\fs32}Make-Up
-Comment: 0,0:19:59.43,0:20:03.18,Sign,,0,0,0,,{\pos(102,57)\an7\fs40}Note: Leo Morimoto is the Japanese narrator for "Thomas & Friends".
+Dialogue: 0,0:02:17.62,0:02:18.16,Sign,,0,0,0,,{\pos(720.969,499)}Red Feather Donations
+Dialogue: 0,0:02:19.33,0:02:24.67,Sign,,0,0,0,,{\pos(561.33,90.67)\fs34}Read Feather Donations
+Dialogue: 0,0:02:19.33,0:02:24.67,Sign,,0,0,0,,{\fs34\pos(206.66,116)}Read Feather Donations
+Dialogue: 0,0:02:19.33,0:02:24.67,Sign,,0,0,0,,{\fs34\pos(950.66,38.67)}Read Feather Donations
+Dialogue: 0,0:02:44.81,0:02:48.69,Sign,,0,0,0,,{\pos(976.93,96)}Entrance Ticket
+Dialogue: 0,0:02:44.81,0:02:48.69,Sign,,0,0,0,,{\pos(726.67,92)}Price
+Comment: 0,0:02:44.81,0:02:48.69,Sign,TL,0,0,0,,{\pos(734.67,250.67)}Missing TL
+Comment: 0,0:04:48.31,0:04:50.98,Sign,,0,0,0,,{\pos(472.7578125,77)\an5\fs40}Note: Mongolian spots tend to fade after childhood.
+Dialogue: 0,0:05:08.25,0:05:11.17,Sign,,0,0,0,,{\pos(759.492,340)\fs32}Marii
+Dialogue: 0,0:05:08.25,0:05:11.17,Sign,,0,0,0,,{\pos(757.445,390)\fs32}Buratei
+Dialogue: 0,0:05:16.96,0:05:17.96,Sign,,0,0,0,,{\pos(456,85.34)}ass pics
+Dialogue: 0,0:05:16.96,0:05:17.96,Sign,,0,0,0,,{\pos(465.33,230.67)}Ass-flash Marii
+Dialogue: 0,0:05:16.96,0:05:17.96,Sign,,0,0,0,,{\pos(410.67,413.34)}Marii's ass
+Dialogue: 0,0:05:16.96,0:05:17.96,Sign,,0,0,0,,{\pos(418.67,592)}Blight of the female rakugo community
+Dialogue: 0,0:05:17.96,0:05:18.97,Sign,,0,0,0,,{\pos(492,245.34)}#Ass
+Dialogue: 0,0:05:17.96,0:05:18.97,Sign,,0,0,0,,{\pos(537.33,294.67)}Promoted
+Dialogue: 0,0:05:17.96,0:05:18.97,Sign,,0,0,0,,{\pos(497.33,345.34)}Marii
+Dialogue: 0,0:05:17.96,0:05:18.97,Sign,,0,0,0,,{\pos(501.33,509.34)}Booty
+Dialogue: 0,0:05:17.96,0:05:18.97,Sign,,0,0,0,,{\pos(564,566.67)}Ass-flash bot
+Dialogue: 0,0:05:17.96,0:05:18.97,Sign,,0,0,0,,{\pos(585.33,680)}Mongolian Spot
+Dialogue: 0,0:05:18.97,0:05:20.05,Sign,,0,0,0,,Missing TL
+Dialogue: 0,0:08:07.84,0:08:09.05,Sign,,0,0,0,,{\pos(336.141,188)\fs32}Year Pass
+Dialogue: 0,0:08:07.84,0:08:09.05,Sign,,0,0,0,,{\pos(418.961,542)}Kukuru Anrakutei
+Dialogue: 0,0:08:21.98,0:08:22.94,Sign,,0,0,0,,{\pos(640,496)}Birds?
+Dialogue: 0,0:10:44.25,0:10:45.12,Sign,,0,0,0,,{\pos(211.359,175)}Standing Bar
+Dialogue: 0,0:10:44.25,0:10:45.12,Sign,,0,0,0,,{\pos(485.922,232)}Futa
+Dialogue: 0,0:10:44.25,0:10:45.12,Sign,,0,0,0,,{\pos(348.773,571)}Stand to attention and drink!
+Dialogue: 0,0:11:20.83,0:11:22.54,Sign,,0,0,0,,{\pos(818.883,146)}Watch out for dung
+Dialogue: 0,0:11:20.83,0:11:22.54,Sign,,0,0,0,,{\pos(801.969,218.5)\fs63}DANGER!
+Dialogue: 0,0:11:20.83,0:11:22.54,Sign,,0,0,0,,{\pos(783.273,520)\fs32}Gorillas hurl their dung
+Dialogue: 0,0:11:26.58,0:11:28.25,Sign,,0,0,0,,{\pos(654.016,218.5)\fs63}WARNING!
+Dialogue: 0,0:11:26.58,0:11:28.25,Sign,,0,0,0,,{\pos(630.344,455)\fs32}Hippos fling their dung with their tails.
+Dialogue: 0,0:11:32.67,0:11:34.38,Sign,,0,0,0,,{\pos(634.789,59)\fs32}Be careful of spitting camels
+Dialogue: 0,0:11:32.67,0:11:34.38,Sign,,0,0,0,,{\pos(650.508,120.5)\fs55}WARNING!
+Dialogue: 0,0:12:00.20,0:12:02.91,Sign,,0,0,0,,{\pos(560.625,225)}Bears have 5 fingers!!!
+Dialogue: 0,0:15:28.07,0:15:32.58,Sign,,0,0,0,,{\pos(956.922,124)\fs32}I went to Shirakawa
+Dialogue: 0,0:15:28.07,0:15:32.58,Sign,,0,0,0,,{\pos(972.336,174)\fs32}in Kyoto.
+Dialogue: 0,0:15:28.07,0:15:32.58,Sign,,0,0,0,,{\pos(861.563,325)\fs32}Nice.
+Dialogue: 0,0:15:32.62,0:15:38.21,Sign,,0,0,0,,{\pos(895.742,404)\fs32}I slept.
+Dialogue: 0,0:15:32.62,0:15:38.21,Sign,,0,0,0,,{\pos(484.781,484)\fs32}Liar.
+Dialogue: 0,0:15:41.59,0:15:44.01,Sign,,0,0,0,,{\pos(186.563,77)\fs40}Web
+Dialogue: 0,0:15:41.59,0:15:44.01,Sign,,0,0,0,,{\pos(699.461,272)\fs40}Wikipedia
+Dialogue: 0,0:15:41.59,0:15:44.01,Sign,,0,0,0,,{\pos(151.797,416)\fs40}Google
+Dialogue: 0,0:15:44.30,0:15:46.97,Sign,,0,0,0,,{\pos(501.57,81)}Asleep at
+Dialogue: 0,0:15:44.30,0:15:46.97,Sign,,0,0,0,,{\pos(492.648,160)}the wheel
+Dialogue: 0,0:15:45.92,0:15:46.97,Sign,,0,0,0,,{\pos(227.438,319)}Sleeping on
+Dialogue: 0,0:15:45.92,0:15:46.97,Sign,,0,0,0,,{\pos(238.594,391)}the job
+Dialogue: 0,0:17:19.48,0:17:19.77,Sign,,0,0,0,,{\pos(640,604)}Me!
+Dialogue: 0,0:17:20.27,0:17:20.60,Sign,,0,0,0,,{\pos(640,604)}Me!
+Dialogue: 0,0:19:44.54,0:19:45.71,Sign,,0,0,0,,{\pos(674.148,440)\fs32}Miss Glasses
+Dialogue: 0,0:19:44.54,0:19:45.71,Sign,,0,0,0,,{\pos(681.672,491)\fs32}Frames
+Dialogue: 0,0:19:45.75,0:19:46.71,Sign,,0,0,0,,{\pos(667.891,484)\fs32}Miss Young
+Dialogue: 0,0:19:45.75,0:19:46.71,Sign,,0,0,0,,{\pos(668.453,534)\fs32}Sunday
+Dialogue: 0,0:19:46.75,0:19:47.67,Sign,,0,0,0,,{\pos(667.141,440)\fs32}Miss
+Dialogue: 0,0:19:46.75,0:19:47.67,Sign,,0,0,0,,{\pos(658.172,491)\fs32}Chuo Line
+Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(666.391,361)\fs32}Miss Tokyo
+Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(662.922,412)\fs32}Metropolitan
+Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(660.094,462)\fs32}Ordinance
+Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(655.781,512)\fs32}Regarding the
+Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(648.43,563)\fs32}Healthy Development
+Dialogue: 0,0:19:47.71,0:19:48.63,Sign,,0,0,0,,{\pos(668.5,613)\fs32}of Youths
+Dialogue: 0,0:19:48.67,0:19:49.58,Sign,,0,0,0,,{\pos(687.563,455)\fs32}Miss No
+Dialogue: 0,0:19:48.67,0:19:49.58,Sign,,0,0,0,,{\pos(679.875,505)\fs32}Make-Up
+Comment: 0,0:19:59.43,0:20:03.18,Sign,,0,0,0,,{\pos(597.015625,77)\an5\fs40}Note: Leo Morimoto is the Japanese narrator for "Thomas & Friends".
