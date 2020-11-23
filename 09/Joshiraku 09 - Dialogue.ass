@@ -194,8 +194,8 @@ Dialogue: 10,0:09:42.19,0:09:45.52,Default,,0,0,0,,{\q2}Their private lives broa
 Dialogue: 10,0:09:45.52,0:09:47.86,Default,,0,0,0,,They know you but you don't know them.
 Dialogue: 10,0:09:47.86,0:09:49.36,Default,,0,0,0,,How terrifying is that?!
 Dialogue: 10,0:09:49.36,0:09:53.32,Default,,0,0,0,,And once something's on the internet, it's there forever.
-Dialogue: 10,0:09:53.32,0:09:57.79,Default,,0,0,0,,{\q2}Make one mistake and they'll flame you forever, \Nand that data of your error will never go away.
-Dialogue: 9,0:09:53.32,0:09:57.79,Default,,0,0,0,,{\bord5\xshad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\4a&H00&\blur4\q2}Make one mistake and they'll flame you forever, \Nand that data of your error will never go away.
+Dialogue: 10,0:09:53.32,0:09:57.79,Default,,0,0,0,,{\q2}Make one mistake and they'll never stop flaming you, \Nand that data of your error will never go away.
+Dialogue: 9,0:09:53.32,0:09:57.79,Default,,0,0,0,,{\bord5\xshad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\4a&H00&\blur4\q2}Make one mistake and they'll never stop flaming you, \Nand that data of your error will never go away.
 Dialogue: 10,0:09:57.79,0:10:00.12,Default,,0,0,0,,The internet is so scary! You've got to be careful!
 Dialogue: 10,0:10:01.08,0:10:03.79,Default,,0,0,0,,Anyway, aren't pandas cute?!
 Dialogue: 10,0:10:03.79,0:10:06.84,Default,,0,0,0,,Your love for pandas suits you to a T, Kigu!
@@ -232,11 +232,11 @@ Dialogue: 10,0:11:37.30,0:11:38.89,Default,,0,0,0,,Wait, don't tell us!
 Dialogue: 10,0:11:38.89,0:11:40.39,Default,,0,0,0,,Let me guess. Giraffes, right?
 Dialogue: 10,0:11:40.93,0:11:42.39,Default,,0,0,0,,I love giraffes.
 Dialogue: 10,0:11:42.39,0:11:44.68,Default,,0,0,0,,Their long tongues are disguscute.
-Dialogue: 10,0:11:44.68,0:11:47.19,Default,,0,0,0,,Huh? Thought it'd be the specs leaf monkey.
+Dialogue: 10,0:11:44.68,0:11:47.19,Default,,0,0,0,,Huh? Thought it'd be the spectacles leaf monkey.
 Dialogue: 10,0:11:47.19,0:11:48.52,Default,,0,0,0,,It'd fit you well.
 Dialogue: 10,0:11:48.52,0:11:50.19,Default,,0,0,0,,My elementary school nickname!
 Dialogue: 10,0:11:50.19,0:11:53.15,Default,,0,0,0,,{\q2}Just because I wear glasses, \NI had to endure years of being called
-Dialogue: 10,0:11:53.15,0:11:56.24,Default,,0,0,0,,{\q2}spectacle monkey, spectacled bear, spectacled \Ncaiman, spectacled owl, and spectacled duck!
+Dialogue: 10,0:11:53.15,0:11:56.24,Default,,0,0,0,,{\q2}spectacled monkey, spectacled bear, spectacled \Ncaiman, spectacled owl, and spectacled duck!
 Dialogue: 10,0:11:56.24,0:11:57.78,Default,,0,0,0,,I'm fed up with it!
 Dialogue: 10,0:11:57.78,0:11:58.57,Default,,0,0,0,,Soz.
 Dialogue: 10,0:11:58.57,0:12:00.20,Default,,0,0,0,,I think my fave is the polar bear.
