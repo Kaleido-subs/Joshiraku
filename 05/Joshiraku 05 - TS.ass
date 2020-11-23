@@ -16,11 +16,10 @@ Audio File: JoshirakuBD_05 (Premux).mkv
 Video File: JoshirakuBD_05 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,133,133,37,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -94,8 +93,8 @@ Dialogue: 1,0:11:42.43,0:11:42.89,Sign,,0,0,0,,{\fscx120\fs800\c&H0000FF&\1a&HDC
 Dialogue: 0,0:11:39.80,0:11:42.89,Sign,,0,0,0,,{\p1}m 0 0 l 1280 0 1280 720 0 720
 Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\fnLucida Handwriting\fs56\i1\blur6\t(100,400,\c&H0F1BBD&\blur5)}{\fscx500}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
 Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\fnLucida Handwriting\fs56\i1\blur20\t(100,400,\c&H0F1BBD&\blur4)}{\fscx500}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
-Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\fnLucida Handwriting\fs56\i1\blur20\t(100,400,\c&H0F1BBD&\blur4)}{\fscx500}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
-Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\fnLucida Handwriting\fs56\i1\3c&H060A10&\t(100,400,\c&H0F1BBD&\1a&HC8&\blur3\bord2)}{\fscx500}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
+Dialogue: 1,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\fnLucida Handwriting\fs56\i1\3c&H060A10&\t(100,400,\c&H0F1BBD&\1a&HC8&\blur3\bord2)}{\fscx500}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
+Dialogue: 2,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\fad(150,0)\pos(622.4,130.134)\fnLucida Handwriting\fs56\i1\blur20\t(100,400,\c&H0F1BBD&\blur4)}{\fscx500}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
 Dialogue: 1,0:12:18.34,0:12:20.80,Sign,,0,0,0,,{\fscx95\fscy130\fnGill Sans MT\fs16\fax0.12\c&H333945&\blur4\frz4.6\pos(728,574.67)\alpha&HC0&}C{\fs15.96}u{\fs15.92}s{\fs15.88}t{\fs15.83}a{\fs15.79}r{\fs15.75}d{\fs15.71} {\fs15.67}C{\fs15.63}h{\fs15.58}o{\fs15.54}c{\fs15.5}o{\fs15.46}l{\fs15.42}a{\fs15.38}t{\fs15.33}e{\fs15.29} {\fs15.25}S{\fs15.21}p{\fs15.17}e{\fs15.13}c{\fs15.08}i{\fs15.04}a{\fs15}l
 Dialogue: 2,0:12:18.34,0:12:20.80,Sign,,0,0,0,,{\fscx95\fscy130\fnGill Sans MT\fs16\fax0.12\c&H333945&\blur0.9\frz4.6\pos(728,574.67)}C{\fs15.96}u{\fs15.92}s{\fs15.88}t{\fs15.83}a{\fs15.79}r{\fs15.75}d{\fs15.71} {\fs15.67}C{\fs15.63}h{\fs15.58}o{\fs15.54}c{\fs15.5}o{\fs15.46}l{\fs15.42}a{\fs15.38}t{\fs15.33}e{\fs15.29} {\fs15.25}S{\fs15.21}p{\fs15.17}e{\fs15.13}c{\fs15.08}i{\fs15.04}a{\fs15}l
 Dialogue: 0,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\blur0.4\bord1.6\shad0\fscx100\fscy100\pos(951.999,195.43)\p1\c&H5B4AE7&\3c&H1700C6&}m 64 103 b 62 97 64 85 65 79 82 73 105 59 114 52 121 44 134 36 142 23 144 19 150 9 149 3 148 -5 147 -18 142 -29 132 -44 121 -54 106 -63 88 -73 70 -78 53 -81 32 -85 7 -87 -16 -86 -39 -83 -53 -81 -75 -74 -91 -70 -110 -61 -126 -51 -134 -43 -150 -32 -158 -17 -162 -11 -166 2 -166 10 -164 40 -151 66 -96 80 -65 88 -1 96 37 88
@@ -395,21 +394,21 @@ Dialogue: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(640,580)\frx12\fnMachine Gu
 Dialogue: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(640,580)\frx12\fnMachine Gunk\bord3\3c&H0665FF&\1a&HFF&\blur0.6\clip(436,623,840,624)}Skin Arrangers \NDry-T-Zone Morphin'
 Dialogue: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(640,580)\frx12\fnMachine Gunk\bord3\3c&H0664FF&\1a&HFF&\blur0.6\clip(436,624,840,625)}Skin Arrangers \NDry-T-Zone Morphin'
 Dialogue: 1,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(176,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\c&H111010&\blur0.8}DRY SKIN
-Dialogue: 0,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(176,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\c&HD6D6D6&\3c&HD6D6D6&\blur0.8}DRY SKIN
+Dialogue: 0,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(176,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\shad0.01\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur0.8}DRY SKIN
 Dialogue: 1,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(269.333,609)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur0.8}Tetora Bouhatei
-Dialogue: 0,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(269.333,609)\fnHeisei Maru Gothic Std-CP W8\bord6\c&HD6D6D6&\3c&HD6D6D6&\blur0.8}Tetora Bouhatei
+Dialogue: 0,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(269.333,609)\fnHeisei Maru Gothic Std-CP W8\bord6\shad0.01\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur0.8}Tetora Bouhatei
 Dialogue: 1,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1060,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\c&H111010&\blur0.8}SHARKSKIN
-Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1060,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\c&HD6D6D6&\3c&HD6D6D6&\blur0.8}SHARKSKIN
+Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1060,550.333)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\shad0.01\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur0.8}SHARKSKIN
 Dialogue: 1,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1002.666,609)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur0.8}Kukuru Anrakutei
-Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1002.666,609)\fnHeisei Maru Gothic Std-CP W8\bord6\c&HD6D6D6&\3c&HD6D6D6&\blur0.8}Kukuru Anrakutei
+Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1002.666,609)\fnHeisei Maru Gothic Std-CP W8\bord6\shad0.01\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur0.8}Kukuru Anrakutei
 Dialogue: 1,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\pos(293.666,161)\fnHeisei Maru Gothic Std-CP W8\fs64\c&H111010&\blur0.8}SILK SKIN
-Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\pos(293.666,161)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\c&HD8D6D5&\3c&HD8D6D5&\blur0.8}SILK SKIN
+Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\pos(293.666,161)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\shad0.01\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur0.8}SILK SKIN
 Dialogue: 1,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\an6\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur0.8\pos(1084.4,634.067)}Kigurumi \NHaroukitei
-Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\an6\fnHeisei Maru Gothic Std-CP W8\bord6\c&HDBD6D6&\3c&HDBD6D6&\blur0.8\pos(1084.4,634.067)}Kigurumi \NHaroukitei
+Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\an6\fnHeisei Maru Gothic Std-CP W8\bord6\shad0.01\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur0.8\pos(1084.4,634.067)}Kigurumi \NHaroukitei
 Dialogue: 1,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(470.666,113)\fnHeisei Maru Gothic Std-CP W8\fs64\c&H111010&\blur0.8}THIN SKIN
-Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(470.666,113)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\c&HD6D6D6&\3c&HD6D6D6&\blur0.8}THIN SKIN
+Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(470.666,113)\fnHeisei Maru Gothic Std-CP W8\fs64\bord6\shad0.01\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur0.8}THIN SKIN
 Dialogue: 1,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(1021.333,533)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur0.8}Marii Buratei
-Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(1021.333,533)\fnHeisei Maru Gothic Std-CP W8\bord6\c&HD6D6D6&\3c&HD6D6D6&\blur0.8}Marii Buratei
+Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(1021.333,533)\fnHeisei Maru Gothic Std-CP W8\bord6\shad0.01\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur0.8}Marii Buratei
 Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03EAFC&\clip(414,62,738,64)}Skin Cream
 Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03EAFC&\clip(414,64,738,66)}Skin Cream
 Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\fs63\fsp1.5\pos(574.667,90.333)\fnLivingstone\blur1.2\c&H03E9FC&\clip(414,66,738,68)}Skin Cream

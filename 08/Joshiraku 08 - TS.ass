@@ -12,14 +12,14 @@ PlayResY: 720
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default (720p)
-Audio File: ../08/JoshirakuBD_08 (Premux).mkv
-Video File: ../08/JoshirakuBD_08 (Premux).mkv
+Audio File: JoshirakuBD_08 (Premux).mkv
+Video File: JoshirakuBD_08 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,133,133,37,1
+Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,133,133,37,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -65,7 +65,7 @@ Dialogue: 0,0:04:52.81,0:04:53.48,Sign,,0,0,0,,{\pos(1125.33,50.67)\c&H030B11&}K
 Dialogue: 0,0:04:52.81,0:04:53.48,Sign,,0,0,0,,{\pos(869.33,50.67)\c&H030B11&}Gankyou
 Dialogue: 0,0:04:52.81,0:04:53.48,Sign,,0,0,0,,{\pos(380,50.67)\c&H030B11&}Kukuru
 Dialogue: 0,0:04:53.86,0:04:54.82,Sign,,0,0,0,,{\pos(649,530)\c&H030B11&}Loser {actual TL: "Bird", but I feel the lines spoken after in English don't really connect to it well enough to TL it as such}
-Dialogue: 0,0:05:14.00,0:05:16.67,Sign,,0,0,0,,{\pos(834,550)\frz19.24}Skip?
+Comment: 0,0:05:14.00,0:05:16.67,Sign,,0,0,0,,{\pos(834,550)\frz19.24}Missing TL
 Dialogue: 0,0:05:25.30,0:05:29.73,Sign,,0,0,0,,{\pos(640,376)\fs20\c&H22282B&}New Years' Money
 Dialogue: 0,0:06:02.05,0:06:03.80,Sign,,0,0,0,,{\pos(782.67,465.33)\fs20\c&H22282B&}New Years' Money
 Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,,{\pos(1036,57)\an7\fs48}Y*Su

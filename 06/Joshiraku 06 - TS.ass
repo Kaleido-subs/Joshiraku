@@ -19,7 +19,7 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H0F000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,133,133,37,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -427,174 +427,174 @@ Dialogue: 1,0:05:31.02,0:05:31.06,Sign,,0,0,0,,{\pos(377.6,205.33)\fnBabe Bamboo
 Dialogue: 1,0:05:31.06,0:05:31.10,Sign,,0,0,0,,{\pos(380.22,205.33)\fnBabe Bamboo\fs40\c&H2F2623&\blur0.9}Punchline
 Dialogue: 1,0:05:31.10,0:05:32.35,Sign,,0,0,0,,{\pos(381.11,205.33)\fnBabe Bamboo\fs40\c&H2F2623&\blur0.9}Punchline
 Dialogue: 0,0:05:34.73,0:05:34.77,Sign,,0,0,0,,{\pos(1036,-22.35)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:34.73,0:05:34.77,Sign,,0,0,0,,{\pos(1036,-22.35)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:34.77,0:05:34.81,Sign,,0,0,0,,{\pos(1036,10.2)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:34.77,0:05:34.81,Sign,,0,0,0,,{\pos(1036,10.2)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:34.81,0:05:34.85,Sign,,0,0,0,,{\pos(1036,43.4)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:34.81,0:05:34.85,Sign,,0,0,0,,{\pos(1036,43.4)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:34.85,0:05:34.90,Sign,,0,0,0,,{\pos(1036,76.52)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:34.85,0:05:34.90,Sign,,0,0,0,,{\pos(1036,76.52)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:34.90,0:05:34.94,Sign,,0,0,0,,{\pos(1036,109.51)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:34.90,0:05:34.94,Sign,,0,0,0,,{\pos(1036,109.51)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:34.94,0:05:34.98,Sign,,0,0,0,,{\pos(1036,142.15)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:34.94,0:05:34.98,Sign,,0,0,0,,{\pos(1036,142.15)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:34.98,0:05:35.02,Sign,,0,0,0,,{\pos(1036,174.42)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:34.98,0:05:35.02,Sign,,0,0,0,,{\pos(1036,174.42)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.02,0:05:35.06,Sign,,0,0,0,,{\pos(1036,206.66)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.02,0:05:35.06,Sign,,0,0,0,,{\pos(1036,206.66)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.06,0:05:35.10,Sign,,0,0,0,,{\pos(1036,238.33)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.06,0:05:35.10,Sign,,0,0,0,,{\pos(1036,238.33)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.10,0:05:35.15,Sign,,0,0,0,,{\pos(1036,269.32)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.10,0:05:35.15,Sign,,0,0,0,,{\pos(1036,269.32)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.15,0:05:35.19,Sign,,0,0,0,,{\pos(1036,299.7)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.15,0:05:35.19,Sign,,0,0,0,,{\pos(1036,299.7)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.19,0:05:35.23,Sign,,0,0,0,,{\pos(1036,329.25)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.19,0:05:35.23,Sign,,0,0,0,,{\pos(1036,329.25)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.23,0:05:35.27,Sign,,0,0,0,,{\pos(1036,358.67)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.23,0:05:35.27,Sign,,0,0,0,,{\pos(1036,358.67)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.27,0:05:35.31,Sign,,0,0,0,,{\pos(1036,387.26)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.27,0:05:35.31,Sign,,0,0,0,,{\pos(1036,387.26)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.31,0:05:35.35,Sign,,0,0,0,,{\pos(1036,414.75)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.31,0:05:35.35,Sign,,0,0,0,,{\pos(1036,414.75)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.35,0:05:35.40,Sign,,0,0,0,,{\pos(1036,441.08)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.35,0:05:35.40,Sign,,0,0,0,,{\pos(1036,441.08)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.40,0:05:35.44,Sign,,0,0,0,,{\pos(1036,466.31)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.40,0:05:35.44,Sign,,0,0,0,,{\pos(1036,466.31)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.44,0:05:35.48,Sign,,0,0,0,,{\pos(1036,491.55)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.44,0:05:35.48,Sign,,0,0,0,,{\pos(1036,491.55)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.48,0:05:35.52,Sign,,0,0,0,,{\pos(1036,515.04)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.48,0:05:35.52,Sign,,0,0,0,,{\pos(1036,515.04)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.52,0:05:35.56,Sign,,0,0,0,,{\pos(1036,537.3)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.52,0:05:35.56,Sign,,0,0,0,,{\pos(1036,537.3)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.56,0:05:35.60,Sign,,0,0,0,,{\pos(1036,558.15)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.56,0:05:35.60,Sign,,0,0,0,,{\pos(1036,558.15)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.60,0:05:35.65,Sign,,0,0,0,,{\pos(1036,577.56)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.60,0:05:35.65,Sign,,0,0,0,,{\pos(1036,577.56)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.65,0:05:35.69,Sign,,0,0,0,,{\pos(1036,595.49)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.65,0:05:35.69,Sign,,0,0,0,,{\pos(1036,595.49)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.69,0:05:35.73,Sign,,0,0,0,,{\pos(1036,611.58)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.69,0:05:35.73,Sign,,0,0,0,,{\pos(1036,611.58)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.73,0:05:35.77,Sign,,0,0,0,,{\pos(1036,625.94)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.73,0:05:35.77,Sign,,0,0,0,,{\pos(1036,625.94)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.77,0:05:35.81,Sign,,0,0,0,,{\pos(1036,638.17)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.77,0:05:35.81,Sign,,0,0,0,,{\pos(1036,638.17)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.81,0:05:35.86,Sign,,0,0,0,,{\pos(1036,648.13)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.81,0:05:35.86,Sign,,0,0,0,,{\pos(1036,648.13)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.86,0:05:35.90,Sign,,0,0,0,,{\pos(1036,655.52)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.86,0:05:35.90,Sign,,0,0,0,,{\pos(1036,655.52)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.90,0:05:35.94,Sign,,0,0,0,,{\pos(1036,660.09)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.90,0:05:35.94,Sign,,0,0,0,,{\pos(1036,660.09)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.94,0:05:35.98,Sign,,0,0,0,,{\pos(1036,663.04)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.94,0:05:35.98,Sign,,0,0,0,,{\pos(1036,663.04)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:35.98,0:05:36.02,Sign,,0,0,0,,{\pos(1036,666)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:35.98,0:05:36.02,Sign,,0,0,0,,{\pos(1036,666)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:36.02,0:05:36.06,Sign,,0,0,0,,{\pos(1036,668.94)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:36.02,0:05:36.06,Sign,,0,0,0,,{\pos(1036,668.94)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:36.06,0:05:36.11,Sign,,0,0,0,,{\pos(1036,671.89)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:36.06,0:05:36.11,Sign,,0,0,0,,{\pos(1036,671.89)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:36.11,0:05:36.15,Sign,,0,0,0,,{\pos(1036,674.87)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:36.11,0:05:36.15,Sign,,0,0,0,,{\pos(1036,674.87)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:36.15,0:05:36.19,Sign,,0,0,0,,{\pos(1036,677.8)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:36.15,0:05:36.19,Sign,,0,0,0,,{\pos(1036,677.8)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:36.19,0:05:36.23,Sign,,0,0,0,,{\pos(1036,680.75)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:36.19,0:05:36.23,Sign,,0,0,0,,{\pos(1036,680.75)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:36.23,0:05:36.27,Sign,,0,0,0,,{\pos(1036,683.67)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:36.23,0:05:36.27,Sign,,0,0,0,,{\pos(1036,683.67)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:36.27,0:05:36.31,Sign,,0,0,0,,{\pos(1036,686.65)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:36.27,0:05:36.31,Sign,,0,0,0,,{\pos(1036,686.65)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:36.31,0:05:36.36,Sign,,0,0,0,,{\pos(1036,689.57)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:36.31,0:05:36.36,Sign,,0,0,0,,{\pos(1036,689.57)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:36.36,0:05:36.40,Sign,,0,0,0,,{\pos(1036,692.53)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:36.36,0:05:36.40,Sign,,0,0,0,,{\pos(1036,692.53)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:36.40,0:05:36.44,Sign,,0,0,0,,{\pos(1036,695.49)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:36.40,0:05:36.44,Sign,,0,0,0,,{\pos(1036,695.49)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:36.44,0:05:36.48,Sign,,0,0,0,,{\pos(1036,698.41)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:36.44,0:05:36.48,Sign,,0,0,0,,{\pos(1036,698.41)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:36.48,0:05:36.52,Sign,,0,0,0,,{\pos(1036,701.34)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:36.48,0:05:36.52,Sign,,0,0,0,,{\pos(1036,701.34)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
-Dialogue: 0,0:05:36.52,0:05:36.56,Sign,,0,0,0,,{\pos(1036,704.38)\fnBrushStroke 35\fs80\bord6\c&H05E3FD&\3c&H8B76F5&\1a&H80&\blur1.4}Rakugo Girls
-Dialogue: 1,0:05:36.52,0:05:36.56,Sign,,0,0,0,,{\pos(1036,704.38)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1.4}Rakugo Girls
+Dialogue: 1,0:05:34.73,0:05:34.77,Sign,,0,0,0,,{\pos(1036,-22.35)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:34.77,0:05:34.81,Sign,,0,0,0,,{\pos(1036,10.2)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:34.77,0:05:34.81,Sign,,0,0,0,,{\pos(1036,10.2)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:34.81,0:05:34.85,Sign,,0,0,0,,{\pos(1036,43.4)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:34.81,0:05:34.85,Sign,,0,0,0,,{\pos(1036,43.4)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:34.85,0:05:34.90,Sign,,0,0,0,,{\pos(1036,76.52)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:34.85,0:05:34.90,Sign,,0,0,0,,{\pos(1036,76.52)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:34.90,0:05:34.94,Sign,,0,0,0,,{\pos(1036,109.51)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:34.90,0:05:34.94,Sign,,0,0,0,,{\pos(1036,109.51)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:34.94,0:05:34.98,Sign,,0,0,0,,{\pos(1036,142.15)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:34.94,0:05:34.98,Sign,,0,0,0,,{\pos(1036,142.15)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:34.98,0:05:35.02,Sign,,0,0,0,,{\pos(1036,174.42)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:34.98,0:05:35.02,Sign,,0,0,0,,{\pos(1036,174.42)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.02,0:05:35.06,Sign,,0,0,0,,{\pos(1036,206.66)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.02,0:05:35.06,Sign,,0,0,0,,{\pos(1036,206.66)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.06,0:05:35.10,Sign,,0,0,0,,{\pos(1036,238.33)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.06,0:05:35.10,Sign,,0,0,0,,{\pos(1036,238.33)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.10,0:05:35.15,Sign,,0,0,0,,{\pos(1036,269.32)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.10,0:05:35.15,Sign,,0,0,0,,{\pos(1036,269.32)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.15,0:05:35.19,Sign,,0,0,0,,{\pos(1036,299.7)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.15,0:05:35.19,Sign,,0,0,0,,{\pos(1036,299.7)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.19,0:05:35.23,Sign,,0,0,0,,{\pos(1036,329.25)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.19,0:05:35.23,Sign,,0,0,0,,{\pos(1036,329.25)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.23,0:05:35.27,Sign,,0,0,0,,{\pos(1036,358.67)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.23,0:05:35.27,Sign,,0,0,0,,{\pos(1036,358.67)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.27,0:05:35.31,Sign,,0,0,0,,{\pos(1036,387.26)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.27,0:05:35.31,Sign,,0,0,0,,{\pos(1036,387.26)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.31,0:05:35.35,Sign,,0,0,0,,{\pos(1036,414.75)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.31,0:05:35.35,Sign,,0,0,0,,{\pos(1036,414.75)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.35,0:05:35.40,Sign,,0,0,0,,{\pos(1036,441.08)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.35,0:05:35.40,Sign,,0,0,0,,{\pos(1036,441.08)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.40,0:05:35.44,Sign,,0,0,0,,{\pos(1036,466.31)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.40,0:05:35.44,Sign,,0,0,0,,{\pos(1036,466.31)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.44,0:05:35.48,Sign,,0,0,0,,{\pos(1036,491.55)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.44,0:05:35.48,Sign,,0,0,0,,{\pos(1036,491.55)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.48,0:05:35.52,Sign,,0,0,0,,{\pos(1036,515.04)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.48,0:05:35.52,Sign,,0,0,0,,{\pos(1036,515.04)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.52,0:05:35.56,Sign,,0,0,0,,{\pos(1036,537.3)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.52,0:05:35.56,Sign,,0,0,0,,{\pos(1036,537.3)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.56,0:05:35.60,Sign,,0,0,0,,{\pos(1036,558.15)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.56,0:05:35.60,Sign,,0,0,0,,{\pos(1036,558.15)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.60,0:05:35.65,Sign,,0,0,0,,{\pos(1036,577.56)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.60,0:05:35.65,Sign,,0,0,0,,{\pos(1036,577.56)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.65,0:05:35.69,Sign,,0,0,0,,{\pos(1036,595.49)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.65,0:05:35.69,Sign,,0,0,0,,{\pos(1036,595.49)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.69,0:05:35.73,Sign,,0,0,0,,{\pos(1036,611.58)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.69,0:05:35.73,Sign,,0,0,0,,{\pos(1036,611.58)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.73,0:05:35.77,Sign,,0,0,0,,{\pos(1036,625.94)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.73,0:05:35.77,Sign,,0,0,0,,{\pos(1036,625.94)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.77,0:05:35.81,Sign,,0,0,0,,{\pos(1036,638.17)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.77,0:05:35.81,Sign,,0,0,0,,{\pos(1036,638.17)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.81,0:05:35.86,Sign,,0,0,0,,{\pos(1036,648.13)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.81,0:05:35.86,Sign,,0,0,0,,{\pos(1036,648.13)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.86,0:05:35.90,Sign,,0,0,0,,{\pos(1036,655.52)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.86,0:05:35.90,Sign,,0,0,0,,{\pos(1036,655.52)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.90,0:05:35.94,Sign,,0,0,0,,{\pos(1036,660.09)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.90,0:05:35.94,Sign,,0,0,0,,{\pos(1036,660.09)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.94,0:05:35.98,Sign,,0,0,0,,{\pos(1036,663.04)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.94,0:05:35.98,Sign,,0,0,0,,{\pos(1036,663.04)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:35.98,0:05:36.02,Sign,,0,0,0,,{\pos(1036,666)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:35.98,0:05:36.02,Sign,,0,0,0,,{\pos(1036,666)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:36.02,0:05:36.06,Sign,,0,0,0,,{\pos(1036,668.94)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:36.02,0:05:36.06,Sign,,0,0,0,,{\pos(1036,668.94)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:36.06,0:05:36.11,Sign,,0,0,0,,{\pos(1036,671.89)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:36.06,0:05:36.11,Sign,,0,0,0,,{\pos(1036,671.89)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:36.11,0:05:36.15,Sign,,0,0,0,,{\pos(1036,674.87)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:36.11,0:05:36.15,Sign,,0,0,0,,{\pos(1036,674.87)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:36.15,0:05:36.19,Sign,,0,0,0,,{\pos(1036,677.8)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:36.15,0:05:36.19,Sign,,0,0,0,,{\pos(1036,677.8)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:36.19,0:05:36.23,Sign,,0,0,0,,{\pos(1036,680.75)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:36.19,0:05:36.23,Sign,,0,0,0,,{\pos(1036,680.75)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:36.23,0:05:36.27,Sign,,0,0,0,,{\pos(1036,683.67)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:36.23,0:05:36.27,Sign,,0,0,0,,{\pos(1036,683.67)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:36.27,0:05:36.31,Sign,,0,0,0,,{\pos(1036,686.65)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:36.27,0:05:36.31,Sign,,0,0,0,,{\pos(1036,686.65)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:36.31,0:05:36.36,Sign,,0,0,0,,{\pos(1036,689.57)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:36.31,0:05:36.36,Sign,,0,0,0,,{\pos(1036,689.57)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:36.36,0:05:36.40,Sign,,0,0,0,,{\pos(1036,692.53)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:36.36,0:05:36.40,Sign,,0,0,0,,{\pos(1036,692.53)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:36.40,0:05:36.44,Sign,,0,0,0,,{\pos(1036,695.49)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:36.40,0:05:36.44,Sign,,0,0,0,,{\pos(1036,695.49)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:36.44,0:05:36.48,Sign,,0,0,0,,{\pos(1036,698.41)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:36.44,0:05:36.48,Sign,,0,0,0,,{\pos(1036,698.41)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:36.48,0:05:36.52,Sign,,0,0,0,,{\pos(1036,701.34)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:36.48,0:05:36.52,Sign,,0,0,0,,{\pos(1036,701.34)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
+Dialogue: 0,0:05:36.52,0:05:36.56,Sign,,0,0,0,,{\pos(1036,704.38)\fnBrushStroke 35\fs80\bord6\shad0.01\4c&H8B76F5&\1a&HFF&\3a&HFE&\blur1}Rakugo Girls
+Dialogue: 1,0:05:36.52,0:05:36.56,Sign,,0,0,0,,{\pos(1036,704.38)\fnBrushStroke 35\fs80\c&H05E3FD&\blur1}Rakugo Girls
 Dialogue: 1,0:05:34.56,0:05:34.60,Sign,,0,0,0,,{\pos(921.33,173.33)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:34.56,0:05:34.60,Sign,,0,0,0,,{\pos(921.33,173.33)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:34.56,0:05:34.60,Sign,,0,0,0,,{\pos(921.33,173.33)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:34.60,0:05:34.65,Sign,,0,0,0,,{\pos(921.33,200.7)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:34.60,0:05:34.65,Sign,,0,0,0,,{\pos(921.33,200.7)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:34.60,0:05:34.65,Sign,,0,0,0,,{\pos(921.33,200.7)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:34.65,0:05:34.69,Sign,,0,0,0,,{\pos(921.33,230.58)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:34.65,0:05:34.69,Sign,,0,0,0,,{\pos(921.33,230.58)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:34.65,0:05:34.69,Sign,,0,0,0,,{\pos(921.33,230.58)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:34.69,0:05:34.73,Sign,,0,0,0,,{\pos(921.33,262.62)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:34.69,0:05:34.73,Sign,,0,0,0,,{\pos(921.33,262.62)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:34.69,0:05:34.73,Sign,,0,0,0,,{\pos(921.33,262.62)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:34.73,0:05:34.77,Sign,,0,0,0,,{\pos(921.33,294.85)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:34.73,0:05:34.77,Sign,,0,0,0,,{\pos(921.33,294.85)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:34.73,0:05:34.77,Sign,,0,0,0,,{\pos(921.33,294.85)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:34.77,0:05:34.81,Sign,,0,0,0,,{\pos(921.33,327.7)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:34.77,0:05:34.81,Sign,,0,0,0,,{\pos(921.33,327.7)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:34.77,0:05:34.81,Sign,,0,0,0,,{\pos(921.33,327.7)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:34.81,0:05:34.85,Sign,,0,0,0,,{\pos(921.33,360.7)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:34.81,0:05:34.85,Sign,,0,0,0,,{\pos(921.33,360.7)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:34.81,0:05:34.85,Sign,,0,0,0,,{\pos(921.33,360.7)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:34.85,0:05:34.90,Sign,,0,0,0,,{\pos(921.33,393.77)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:34.85,0:05:34.90,Sign,,0,0,0,,{\pos(921.33,393.77)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:34.85,0:05:34.90,Sign,,0,0,0,,{\pos(921.33,393.77)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:34.90,0:05:34.94,Sign,,0,0,0,,{\pos(921.33,426.72)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:34.90,0:05:34.94,Sign,,0,0,0,,{\pos(921.33,426.72)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:34.90,0:05:34.94,Sign,,0,0,0,,{\pos(921.33,426.72)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:34.94,0:05:34.98,Sign,,0,0,0,,{\pos(921.33,459.32)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:34.94,0:05:34.98,Sign,,0,0,0,,{\pos(921.33,459.32)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:34.94,0:05:34.98,Sign,,0,0,0,,{\pos(921.33,459.32)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:34.98,0:05:35.02,Sign,,0,0,0,,{\pos(921.33,492.05)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:34.98,0:05:35.02,Sign,,0,0,0,,{\pos(921.33,492.05)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:34.98,0:05:35.02,Sign,,0,0,0,,{\pos(921.33,492.05)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:35.02,0:05:35.06,Sign,,0,0,0,,{\pos(921.33,524.1)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:35.02,0:05:35.06,Sign,,0,0,0,,{\pos(921.33,524.1)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:35.02,0:05:35.06,Sign,,0,0,0,,{\pos(921.33,524.1)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:35.06,0:05:35.10,Sign,,0,0,0,,{\pos(921.33,555.7)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:35.06,0:05:35.10,Sign,,0,0,0,,{\pos(921.33,555.7)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:35.06,0:05:35.10,Sign,,0,0,0,,{\pos(921.33,555.7)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:35.10,0:05:35.15,Sign,,0,0,0,,{\pos(921.33,586.7)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:35.10,0:05:35.15,Sign,,0,0,0,,{\pos(921.33,586.7)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:35.10,0:05:35.15,Sign,,0,0,0,,{\pos(921.33,586.7)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:35.15,0:05:35.19,Sign,,0,0,0,,{\pos(921.33,617.06)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:35.15,0:05:35.19,Sign,,0,0,0,,{\pos(921.33,617.06)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:35.15,0:05:35.19,Sign,,0,0,0,,{\pos(921.33,617.06)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:35.19,0:05:35.23,Sign,,0,0,0,,{\pos(921.33,647.08)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:35.19,0:05:35.23,Sign,,0,0,0,,{\pos(921.33,647.08)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:35.19,0:05:35.23,Sign,,0,0,0,,{\pos(921.33,647.08)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:35.23,0:05:35.27,Sign,,0,0,0,,{\pos(921.33,676.51)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:35.23,0:05:35.27,Sign,,0,0,0,,{\pos(921.33,676.51)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:35.23,0:05:35.27,Sign,,0,0,0,,{\pos(921.33,676.51)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:35.27,0:05:35.31,Sign,,0,0,0,,{\pos(921.33,704.61)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:35.27,0:05:35.31,Sign,,0,0,0,,{\pos(921.33,704.61)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:35.27,0:05:35.31,Sign,,0,0,0,,{\pos(921.33,704.61)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:35.31,0:05:35.35,Sign,,0,0,0,,{\pos(921.33,732.15)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:35.31,0:05:35.35,Sign,,0,0,0,,{\pos(921.33,732.15)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:35.31,0:05:35.35,Sign,,0,0,0,,{\pos(921.33,732.15)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:35.35,0:05:35.40,Sign,,0,0,0,,{\pos(921.33,758.41)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:35.35,0:05:35.40,Sign,,0,0,0,,{\pos(921.33,758.41)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:35.35,0:05:35.40,Sign,,0,0,0,,{\pos(921.33,758.41)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:35.40,0:05:35.44,Sign,,0,0,0,,{\pos(921.33,784.2)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:35.40,0:05:35.44,Sign,,0,0,0,,{\pos(921.33,784.2)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:35.40,0:05:35.44,Sign,,0,0,0,,{\pos(921.33,784.2)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
 Dialogue: 1,0:05:35.44,0:05:35.48,Sign,,0,0,0,,{\pos(921.33,808.55)\frz337.5\fnDeFonarts\fs36\c&H818EFF&\3c&HE3ECFB&\1a&H0A&\3a&H0A&\blur0.95}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:35.44,0:05:35.48,Sign,,0,0,0,,{\pos(921.33,808.55)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:35.48,0:05:35.52,Sign,,0,0,0,,{\pos(921.33,832.46)\frz337.5\fnDeFonarts\fs36\bord3\c&H818EFF&\3c&HE3ECFB&\1a&H80&\3a&H0A&\blur0.7}Uncovering the true RakuFour?!
-Dialogue: 0,0:05:34.56,0:05:34.60,Sign,,0,0,0,,{\pos(149.33,249.7)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.56,0:05:34.60,Sign,,0,0,0,,{\pos(149.33,249.7)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.60,0:05:34.65,Sign,,0,0,0,,{\pos(149.53,277.36)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.60,0:05:34.65,Sign,,0,0,0,,{\pos(149.53,277.36)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.65,0:05:34.69,Sign,,0,0,0,,{\pos(149.71,307.6)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.65,0:05:34.69,Sign,,0,0,0,,{\pos(149.71,307.6)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.69,0:05:34.73,Sign,,0,0,0,,{\pos(149.71,339.25)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.69,0:05:34.73,Sign,,0,0,0,,{\pos(149.71,339.25)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.73,0:05:34.77,Sign,,0,0,0,,{\pos(149.61,371.44)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.73,0:05:34.77,Sign,,0,0,0,,{\pos(149.61,371.44)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.77,0:05:34.81,Sign,,0,0,0,,{\pos(149.33,403.94)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.77,0:05:34.81,Sign,,0,0,0,,{\pos(149.33,403.94)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.81,0:05:34.85,Sign,,0,0,0,,{\pos(149.34,437.12)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.81,0:05:34.85,Sign,,0,0,0,,{\pos(149.34,437.12)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.85,0:05:34.90,Sign,,0,0,0,,{\pos(149.29,470.22)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.85,0:05:34.90,Sign,,0,0,0,,{\pos(149.29,470.22)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.90,0:05:34.94,Sign,,0,0,0,,{\pos(149.32,503.22)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.90,0:05:34.94,Sign,,0,0,0,,{\pos(149.32,503.22)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.94,0:05:34.98,Sign,,0,0,0,,{\pos(149.33,535.87)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.94,0:05:34.98,Sign,,0,0,0,,{\pos(149.33,535.87)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.98,0:05:35.02,Sign,,0,0,0,,{\pos(149.35,568.15)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:34.98,0:05:35.02,Sign,,0,0,0,,{\pos(149.35,568.15)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:35.02,0:05:35.06,Sign,,0,0,0,,{\pos(149.42,600.39)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:35.02,0:05:35.06,Sign,,0,0,0,,{\pos(149.42,600.39)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:35.06,0:05:35.10,Sign,,0,0,0,,{\pos(149.44,632.08)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:35.06,0:05:35.10,Sign,,0,0,0,,{\pos(149.44,632.08)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:35.10,0:05:35.15,Sign,,0,0,0,,{\pos(149.44,663.07)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:35.10,0:05:35.15,Sign,,0,0,0,,{\pos(149.44,663.07)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:35.15,0:05:35.19,Sign,,0,0,0,,{\pos(149.39,701.773)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:35.15,0:05:35.19,Sign,,0,0,0,,{\pos(149.39,701.773)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:35.19,0:05:35.23,Sign,,0,0,0,,{\pos(149.35,726.97)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
-Dialogue: 0,0:05:35.19,0:05:35.23,Sign,,0,0,0,,{\pos(149.35,726.97)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur0.95}8th Graduation Ceremony
+Dialogue: 0,0:05:35.44,0:05:35.48,Sign,,0,0,0,,{\pos(921.33,808.55)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:35.48,0:05:35.52,Sign,,0,0,0,,{\pos(921.33,832.46)\frz337.5\fnDeFonarts\fs36\bord3\shad0.01\c&H818EFF&\4c&HE3ECFB&\1a&HFE&\3a&HFE&\blur0.7}Uncovering the true RakuFour?!
+Dialogue: 0,0:05:34.56,0:05:34.60,Sign,,0,0,0,,{\pos(149.33,249.7)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.56,0:05:34.60,Sign,,0,0,0,,{\pos(149.33,249.7)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.60,0:05:34.65,Sign,,0,0,0,,{\pos(149.53,277.36)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.60,0:05:34.65,Sign,,0,0,0,,{\pos(149.53,277.36)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.65,0:05:34.69,Sign,,0,0,0,,{\pos(149.71,307.6)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.65,0:05:34.69,Sign,,0,0,0,,{\pos(149.71,307.6)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.69,0:05:34.73,Sign,,0,0,0,,{\pos(149.71,339.25)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.69,0:05:34.73,Sign,,0,0,0,,{\pos(149.71,339.25)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.73,0:05:34.77,Sign,,0,0,0,,{\pos(149.61,371.44)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.73,0:05:34.77,Sign,,0,0,0,,{\pos(149.61,371.44)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.77,0:05:34.81,Sign,,0,0,0,,{\pos(149.33,403.94)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.77,0:05:34.81,Sign,,0,0,0,,{\pos(149.33,403.94)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.81,0:05:34.85,Sign,,0,0,0,,{\pos(149.34,437.12)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.81,0:05:34.85,Sign,,0,0,0,,{\pos(149.34,437.12)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.85,0:05:34.90,Sign,,0,0,0,,{\pos(149.29,470.22)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.85,0:05:34.90,Sign,,0,0,0,,{\pos(149.29,470.22)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.90,0:05:34.94,Sign,,0,0,0,,{\pos(149.32,503.22)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.90,0:05:34.94,Sign,,0,0,0,,{\pos(149.32,503.22)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.94,0:05:34.98,Sign,,0,0,0,,{\pos(149.33,535.87)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.94,0:05:34.98,Sign,,0,0,0,,{\pos(149.33,535.87)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.98,0:05:35.02,Sign,,0,0,0,,{\pos(149.35,568.15)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:34.98,0:05:35.02,Sign,,0,0,0,,{\pos(149.35,568.15)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:35.02,0:05:35.06,Sign,,0,0,0,,{\pos(149.42,600.39)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:35.02,0:05:35.06,Sign,,0,0,0,,{\pos(149.42,600.39)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:35.06,0:05:35.10,Sign,,0,0,0,,{\pos(149.44,632.08)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:35.06,0:05:35.10,Sign,,0,0,0,,{\pos(149.44,632.08)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:35.10,0:05:35.15,Sign,,0,0,0,,{\pos(149.44,663.07)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:35.10,0:05:35.15,Sign,,0,0,0,,{\pos(149.44,663.07)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:35.15,0:05:35.19,Sign,,0,0,0,,{\pos(149.39,701.773)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:35.15,0:05:35.19,Sign,,0,0,0,,{\pos(149.39,701.773)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:35.19,0:05:35.23,Sign,,0,0,0,,{\pos(149.35,726.97)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
+Dialogue: 0,0:05:35.19,0:05:35.23,Sign,,0,0,0,,{\pos(149.35,726.97)\frz359\fry359.3\frx8\fax0.04\fnBrushstroke 35\fs36\c&H212434&\1a&H1E&\blur1}8th Graduation Ceremony
 Dialogue: 0,0:05:36.56,0:05:38.32,Sign,,0,0,0,,{\c&HEBF2F6&\blur1\p1}m 0 0 l 1280 0 1280 720 0 720
 Dialogue: 1,0:05:36.56,0:05:38.32,Sign,,0,0,0,,{\fnGentium Basic\fs144\c&H060C10&\blur1}“Red & White”
 Dialogue: 0,0:05:38.32,0:05:39.23,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HEFEFEF&}m 1088 90 l 1261 204 1204 490 1074 505 998 373 1009 226
-Dialogue: 1,0:05:38.40,0:05:39.23,Sign,,0,0,0,,{\kf1}{\kf21}{\pos(1128,294.667)\fnFOT-RodinNTLGProEB-Kami\fs40\c&H151515&\2c&H151515&\2a&HFF&\blur0.85}OH. MY. {\kf23}\N\N{\fs64}GOSH!!
+Dialogue: 1,0:05:38.40,0:05:39.23,Sign,,0,0,0,,{\kf1}{\pos(1128,294.667)\fnFOT-RodinNTLGProEB-Kami\fs40\c&H151515&\2c&H151515&\2a&HFF&\blur0.85\kf21}OH. MY. {\kf23}\N\N{\fs64}GOSH!!
 Dialogue: 0,0:05:39.23,0:05:41.94,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HEFEFEF&}m 213 201 b 240 246 307 278 352 296 309 377 321 528 361 604 332 635 300 684 296 718 l 1 714 1 322 b 23 269 144 276 209 204
 Dialogue: 0,0:05:39.23,0:05:41.94,Sign,,0,0,0,,{\pos(155.2,475.467)\fnFOT-RodinNTLGProEB-Kami\c&H151515&\2c&H151515&\2a&HFF&\blur0.85\kf128}Someone \Nhas stolen \Nthe bunting \Nfor the \Ngraduation \Nceremony!
 Dialogue: 0,0:05:41.94,0:05:43.57,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HEFEFEF&}m 972 4 l 1273 4 1270 314 b 1244 360 1215 401 1128 432 1078 434 1065 442 977 381 955 326 937 270 933 193 933 143 943 56 966 9
@@ -695,31 +695,31 @@ Dialogue: 1,0:06:42.25,0:06:42.30,Sign,,0,0,0,,{\pos(640,674.55)\fnBabe Bamboo\c
 Dialogue: 0,0:06:42.30,0:06:42.34,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,619.89)\p1\c&HE7EDF3&}m 568 57 l 707 57 707 195 568 195
 Dialogue: 0,0:06:42.34,0:06:42.38,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(696,-108.98)\p1\c&H6EB1FE&}m -397 87 l -247 132 -206 113 -158 117 229 128 344 -55 -420 -83
 Dialogue: 0,0:06:42.38,0:06:42.42,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(696,-53.67)\p1\c&H6EB1FE&}m -397 87 l -247 132 -206 113 -158 117 229 128 344 -55 -420 -83
-Dialogue: 1,0:06:42.38,0:06:42.42,Sign,,0,0,0,,{\pos(662.4,-31.27)\fnMontara  Gothic\fs216\fsp2\bord8\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}X-Tort!
+Dialogue: 1,0:06:42.38,0:06:42.42,Sign,,0,0,0,,{\pos(662.4,-31.27)\fnMontara  Gothic\fs216\fsp2\bord8\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}X-Tort!
 Dialogue: 2,0:06:42.38,0:06:42.42,Sign,,0,0,0,,{\pos(662.4,-31.27)\fnMontara  Gothic\fs216\fsp2\c&H1B20EF&\blur1}X-Tort!
 Dialogue: 0,0:06:42.42,0:06:42.46,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(696,-5.92)\p1\c&H6EB1FE&}m -397 87 l -247 132 -206 113 -158 117 229 128 344 -55 -420 -83
-Dialogue: 1,0:06:42.42,0:06:42.46,Sign,,0,0,0,,{\pos(662.4,16.48)\fnMontara  Gothic\fs216\fsp2\bord8\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}X-Tort!
+Dialogue: 1,0:06:42.42,0:06:42.46,Sign,,0,0,0,,{\pos(662.4,16.48)\fnMontara  Gothic\fs216\fsp2\bord8\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}X-Tort!
 Dialogue: 2,0:06:42.42,0:06:42.46,Sign,,0,0,0,,{\pos(662.4,16.48)\fnMontara  Gothic\fs216\fsp2\c&H1B20EF&\blur1}X-Tort!
 Dialogue: 0,0:06:42.46,0:06:42.50,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(696,34.32)\p1\c&H6EB1FE&}m -397 87 l -247 132 -206 113 -158 117 229 128 344 -55 -420 -83
-Dialogue: 1,0:06:42.46,0:06:42.50,Sign,,0,0,0,,{\pos(662.4,56.72)\fnMontara  Gothic\fs216\fsp2\bord8\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}X-Tort!
+Dialogue: 1,0:06:42.46,0:06:42.50,Sign,,0,0,0,,{\pos(662.4,56.72)\fnMontara  Gothic\fs216\fsp2\bord8\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}X-Tort!
 Dialogue: 2,0:06:42.46,0:06:42.50,Sign,,0,0,0,,{\pos(662.4,56.72)\fnMontara  Gothic\fs216\fsp2\c&H1B20EF&\blur1}X-Tort!
 Dialogue: 0,0:06:42.50,0:06:42.55,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(696,67.55)\p1\c&H6EB1FE&}m -397 87 l -247 132 -206 113 -158 117 229 128 344 -55 -420 -83
-Dialogue: 1,0:06:42.50,0:06:42.55,Sign,,0,0,0,,{\pos(662.4,89.95)\fnMontara  Gothic\fs216\fsp2\bord8\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}X-Tort!
+Dialogue: 1,0:06:42.50,0:06:42.55,Sign,,0,0,0,,{\pos(662.4,89.95)\fnMontara  Gothic\fs216\fsp2\bord8\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}X-Tort!
 Dialogue: 2,0:06:42.50,0:06:42.55,Sign,,0,0,0,,{\pos(662.4,89.95)\fnMontara  Gothic\fs216\fsp2\c&H1B20EF&\blur1}X-Tort!
 Dialogue: 0,0:06:42.55,0:06:42.59,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(696,94)\p1\c&H6EB1FE&}m -397 87 l -247 132 -206 113 -158 117 229 128 344 -55 -420 -83
-Dialogue: 1,0:06:42.55,0:06:42.59,Sign,,0,0,0,,{\pos(662.4,116.4)\fnMontara  Gothic\fs216\fsp2\bord8\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}X-Tort!
+Dialogue: 1,0:06:42.55,0:06:42.59,Sign,,0,0,0,,{\pos(662.4,116.4)\fnMontara  Gothic\fs216\fsp2\bord8\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}X-Tort!
 Dialogue: 2,0:06:42.55,0:06:42.59,Sign,,0,0,0,,{\pos(662.4,116.4)\fnMontara  Gothic\fs216\fsp2\c&H1B20EF&\blur1}X-Tort!
 Dialogue: 0,0:06:42.59,0:06:42.63,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(696,114)\p1\c&H6EB1FE&}m -397 87 l -247 132 -206 113 -158 117 229 128 344 -55 -420 -83
-Dialogue: 1,0:06:42.59,0:06:42.63,Sign,,0,0,0,,{\pos(662.4,136.4)\fnMontara  Gothic\fs216\fsp2\bord8\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}X-Tort!
+Dialogue: 1,0:06:42.59,0:06:42.63,Sign,,0,0,0,,{\pos(662.4,136.4)\fnMontara  Gothic\fs216\fsp2\bord8\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}X-Tort!
 Dialogue: 2,0:06:42.59,0:06:42.63,Sign,,0,0,0,,{\pos(662.4,136.4)\fnMontara  Gothic\fs216\fsp2\c&H1B20EF&\blur1}X-Tort!
 Dialogue: 0,0:06:42.63,0:06:42.67,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(696,127.91)\p1\c&H6EB1FE&}m -397 87 l -247 132 -206 113 -158 117 229 128 344 -55 -420 -83
-Dialogue: 1,0:06:42.63,0:06:42.67,Sign,,0,0,0,,{\pos(662.4,150.31)\fnMontara  Gothic\fs216\fsp2\bord8\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}X-Tort!
+Dialogue: 1,0:06:42.63,0:06:42.67,Sign,,0,0,0,,{\pos(662.4,150.31)\fnMontara  Gothic\fs216\fsp2\bord8\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}X-Tort!
 Dialogue: 2,0:06:42.63,0:06:42.67,Sign,,0,0,0,,{\pos(662.4,150.31)\fnMontara  Gothic\fs216\fsp2\c&H1B20EF&\blur1}X-Tort!
 Dialogue: 0,0:06:42.67,0:06:42.71,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(696,136)\p1\c&H6EB1FE&}m -397 87 l -247 132 -206 113 -158 117 229 128 344 -55 -420 -83
-Dialogue: 1,0:06:42.67,0:06:42.71,Sign,,0,0,0,,{\pos(662.4,158.4)\fnMontara  Gothic\fs216\fsp2\bord8\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}X-Tort!
+Dialogue: 1,0:06:42.67,0:06:42.71,Sign,,0,0,0,,{\pos(662.4,158.4)\fnMontara  Gothic\fs216\fsp2\bord8\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}X-Tort!
 Dialogue: 2,0:06:42.67,0:06:42.71,Sign,,0,0,0,,{\pos(662.4,158.4)\fnMontara  Gothic\fs216\fsp2\c&H1B20EF&\blur1}X-Tort!
 Dialogue: 0,0:06:42.71,0:06:42.76,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(696,138.63)\p1\c&H6EB1FE&}m -397 87 l -247 132 -206 113 -158 117 229 128 344 -55 -420 -83
-Dialogue: 1,0:06:42.71,0:06:44.05,Sign,,0,0,0,,{\pos(662.4,161.03)\fnMontara  Gothic\fs216\fsp2\bord8\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}X-Tort!
+Dialogue: 1,0:06:42.71,0:06:44.05,Sign,,0,0,0,,{\pos(662.4,161.03)\fnMontara  Gothic\fs216\fsp2\bord8\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}X-Tort!
 Dialogue: 2,0:06:42.71,0:06:44.05,Sign,,0,0,0,,{\pos(662.4,161.03)\fnMontara  Gothic\fs216\fsp2\c&H1B20EF&\blur1}X-Tort!
 Dialogue: 0,0:06:42.76,0:06:44.05,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(696,138.62)\p1\c&H6EB1FE&}m -397 87 l -247 132 -206 113 -158 117 229 128 344 -55 -420 -83
 Dialogue: 0,0:06:44.05,0:06:45.17,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HE7EDF3&}m 568 57 l 707 57 707 195 568 195
@@ -744,66 +744,66 @@ Dialogue: 1,0:06:45.47,0:06:45.51,Sign,,0,0,0,,{\pos(640,674.52)\fnBabe Bamboo\c
 Dialogue: 0,0:06:45.59,0:06:45.63,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,-51.72)\p1\c&H01CD16&}m -303 111 l -122 115 -74 71 -70 59 -34 83 -2 100 153 101 178 94 196 85 268 107 297 87 352 -81 -373 -116
 Dialogue: 1,0:06:45.59,0:06:45.63,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,-51.72)\c&H060D15&\p1}m 192 90 b 188 90 188 67 191 51 l 178 29 b 173 46 174 78 179 92 l 185 96
 Dialogue: 2,0:06:45.59,0:06:45.63,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,-51.72)\c&H01CD16&\p1}m 190 82 l 191 93 204 83
-Dialogue: 3,0:06:45.59,0:06:45.63,Sign,,0,0,0,,{\pos(646.2,-32.52)\frz-5\fnAcme\fs120\bord8\shad3\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 3,0:06:45.59,0:06:45.63,Sign,,0,0,0,,{\pos(646.2,-32.52)\frz-5\fnAcme\fs120\bord8\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 4,0:06:45.59,0:06:45.63,Sign,,0,0,0,,{\pos(646.2,-32.52)\frz-5\fnAcme\fs120\bord5\3c&H009CFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 5,0:06:45.59,0:06:45.63,Sign,,0,0,0,,{\pos(646.2,-32.52)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333}{\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H009CFF&}!{\frz-15}
+Dialogue: 3,0:06:45.59,0:06:45.63,Sign,,0,0,0,,{\pos(646.2,-32.52)\frz-5\fnAcme\fs120\bord8\shad3\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 3,0:06:45.59,0:06:45.63,Sign,,0,0,0,,{\pos(646.2,-32.52)\frz-5\fnAcme\fs120\bord8\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 4,0:06:45.59,0:06:45.63,Sign,,0,0,0,,{\pos(646.2,-32.52)\frz-5\fnAcme\fs120\bord5\shad0.01\4c&H009CFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 5,0:06:45.59,0:06:45.63,Sign,,0,0,0,,{\pos(646.2,-32.52)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H009CFF&}!{\frz-15}
 Dialogue: 0,0:06:45.63,0:06:45.67,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,-3.89)\p1\c&H01CD16&}m -303 111 l -122 115 -74 71 -70 59 -34 83 -2 100 153 101 178 94 196 85 268 107 297 87 352 -81 -373 -116
 Dialogue: 1,0:06:45.63,0:06:45.67,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,-3.89)\c&H060D15&\p1}m 192 90 b 188 90 188 67 191 51 l 178 29 b 173 46 174 78 179 92 l 185 96
 Dialogue: 2,0:06:45.63,0:06:45.67,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,-3.89)\c&H01CD16&\p1}m 190 82 l 191 93 204 83
-Dialogue: 3,0:06:45.63,0:06:45.67,Sign,,0,0,0,,{\pos(646.2,15.31)\frz-5\fnAcme\fs120\bord8\shad3\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 3,0:06:45.63,0:06:45.67,Sign,,0,0,0,,{\pos(646.2,15.31)\frz-5\fnAcme\fs120\bord8\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 4,0:06:45.63,0:06:45.67,Sign,,0,0,0,,{\pos(646.2,15.31)\frz-5\fnAcme\fs120\bord5\3c&H009CFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 5,0:06:45.63,0:06:45.67,Sign,,0,0,0,,{\pos(646.2,15.31)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333}{\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H009CFF&}!{\frz-15}
+Dialogue: 3,0:06:45.63,0:06:45.67,Sign,,0,0,0,,{\pos(646.2,15.31)\frz-5\fnAcme\fs120\bord8\shad3\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 3,0:06:45.63,0:06:45.67,Sign,,0,0,0,,{\pos(646.2,15.31)\frz-5\fnAcme\fs120\bord8\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 4,0:06:45.63,0:06:45.67,Sign,,0,0,0,,{\pos(646.2,15.31)\frz-5\fnAcme\fs120\bord5\shad0.01\4c&H009CFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 5,0:06:45.63,0:06:45.67,Sign,,0,0,0,,{\pos(646.2,15.31)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H009CFF&}!{\frz-15}
 Dialogue: 0,0:06:45.67,0:06:45.72,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,36.42)\p1\c&H01CD16&}m -303 111 l -122 115 -74 71 -70 59 -34 83 -2 100 153 101 178 94 196 85 268 107 297 87 352 -81 -373 -116
 Dialogue: 1,0:06:45.67,0:06:45.72,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,36.42)\c&H060D15&\p1}m 192 90 b 188 90 188 67 191 51 l 178 29 b 173 46 174 78 179 92 l 185 96
 Dialogue: 2,0:06:45.67,0:06:45.72,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,36.42)\c&H01CD16&\p1}m 190 82 l 191 93 204 83
-Dialogue: 3,0:06:45.67,0:06:45.72,Sign,,0,0,0,,{\pos(646.2,55.62)\frz-5\fnAcme\fs120\bord8\shad3\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 3,0:06:45.67,0:06:45.72,Sign,,0,0,0,,{\pos(646.2,55.62)\frz-5\fnAcme\fs120\bord8\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 4,0:06:45.67,0:06:45.72,Sign,,0,0,0,,{\pos(646.2,55.62)\frz-5\fnAcme\fs120\bord5\3c&H009CFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 5,0:06:45.67,0:06:45.72,Sign,,0,0,0,,{\pos(646.2,55.62)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333}{\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H009CFF&}!{\frz-15}
+Dialogue: 3,0:06:45.67,0:06:45.72,Sign,,0,0,0,,{\pos(646.2,55.62)\frz-5\fnAcme\fs120\bord8\shad3\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 3,0:06:45.67,0:06:45.72,Sign,,0,0,0,,{\pos(646.2,55.62)\frz-5\fnAcme\fs120\bord8\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 4,0:06:45.67,0:06:45.72,Sign,,0,0,0,,{\pos(646.2,55.62)\frz-5\fnAcme\fs120\bord5\shad0.01\4c&H009CFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 5,0:06:45.67,0:06:45.72,Sign,,0,0,0,,{\pos(646.2,55.62)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H009CFF&}!{\frz-15}
 Dialogue: 0,0:06:45.72,0:06:45.76,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,69.65)\p1\c&H01CD16&}m -303 111 l -122 115 -74 71 -70 59 -34 83 -2 100 153 101 178 94 196 85 268 107 297 87 352 -81 -373 -116
 Dialogue: 1,0:06:45.72,0:06:45.76,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,69.65)\c&H060D15&\p1}m 192 90 b 188 90 188 67 191 51 l 178 29 b 173 46 174 78 179 92 l 185 96
 Dialogue: 2,0:06:45.72,0:06:45.76,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,69.65)\c&H01CD16&\p1}m 190 82 l 191 93 204 83
-Dialogue: 3,0:06:45.72,0:06:45.76,Sign,,0,0,0,,{\pos(646.2,88.85)\frz-5\fnAcme\fs120\bord8\shad3\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 3,0:06:45.72,0:06:45.76,Sign,,0,0,0,,{\pos(646.2,88.85)\frz-5\fnAcme\fs120\bord8\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 4,0:06:45.72,0:06:45.76,Sign,,0,0,0,,{\pos(646.2,88.85)\frz-5\fnAcme\fs120\bord5\3c&H009CFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 5,0:06:45.72,0:06:45.76,Sign,,0,0,0,,{\pos(646.2,88.85)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333}{\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H009CFF&}!{\frz-15}
+Dialogue: 3,0:06:45.72,0:06:45.76,Sign,,0,0,0,,{\pos(646.2,88.85)\frz-5\fnAcme\fs120\bord8\shad3\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 3,0:06:45.72,0:06:45.76,Sign,,0,0,0,,{\pos(646.2,88.85)\frz-5\fnAcme\fs120\bord8\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 4,0:06:45.72,0:06:45.76,Sign,,0,0,0,,{\pos(646.2,88.85)\frz-5\fnAcme\fs120\bord5\shad0.01\4c&H009CFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 5,0:06:45.72,0:06:45.76,Sign,,0,0,0,,{\pos(646.2,88.85)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H009CFF&}!{\frz-15}
 Dialogue: 0,0:06:45.76,0:06:45.80,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,96.07)\p1\c&H01CD16&}m -303 111 l -122 115 -74 71 -70 59 -34 83 -2 100 153 101 178 94 196 85 268 107 297 87 352 -81 -373 -116
 Dialogue: 1,0:06:45.76,0:06:45.80,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,96.07)\c&H060D15&\p1}m 192 90 b 188 90 188 67 191 51 l 178 29 b 173 46 174 78 179 92 l 185 96
 Dialogue: 2,0:06:45.76,0:06:45.80,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,96.07)\c&H01CD16&\p1}m 190 82 l 191 93 204 83
-Dialogue: 3,0:06:45.76,0:06:45.80,Sign,,0,0,0,,{\pos(646.2,115.27)\frz-5\fnAcme\fs120\bord8\shad3\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 3,0:06:45.76,0:06:45.80,Sign,,0,0,0,,{\pos(646.2,115.27)\frz-5\fnAcme\fs120\bord8\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 4,0:06:45.76,0:06:45.80,Sign,,0,0,0,,{\pos(646.2,115.27)\frz-5\fnAcme\fs120\bord5\3c&H009CFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 5,0:06:45.76,0:06:45.80,Sign,,0,0,0,,{\pos(646.2,115.27)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333}{\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H009CFF&}!{\frz-15}
+Dialogue: 3,0:06:45.76,0:06:45.80,Sign,,0,0,0,,{\pos(646.2,115.27)\frz-5\fnAcme\fs120\bord8\shad3\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 3,0:06:45.76,0:06:45.80,Sign,,0,0,0,,{\pos(646.2,115.27)\frz-5\fnAcme\fs120\bord8\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 4,0:06:45.76,0:06:45.80,Sign,,0,0,0,,{\pos(646.2,115.27)\frz-5\fnAcme\fs120\bord5\shad0.01\4c&H009CFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 5,0:06:45.76,0:06:45.80,Sign,,0,0,0,,{\pos(646.2,115.27)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H009CFF&}!{\frz-15}
 Dialogue: 0,0:06:45.80,0:06:45.84,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,116.01)\p1\c&H01CD16&}m -303 111 l -122 115 -74 71 -70 59 -34 83 -2 100 153 101 178 94 196 85 268 107 297 87 352 -81 -373 -116
 Dialogue: 1,0:06:45.80,0:06:45.84,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,116.01)\c&H060D15&\p1}m 192 90 b 188 90 188 67 191 51 l 178 29 b 173 46 174 78 179 92 l 185 96
 Dialogue: 2,0:06:45.80,0:06:45.84,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,116.01)\c&H01CD16&\p1}m 190 82 l 191 93 204 83
-Dialogue: 3,0:06:45.80,0:06:45.84,Sign,,0,0,0,,{\pos(646.2,135.21)\frz-5\fnAcme\fs120\bord8\shad3\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 3,0:06:45.80,0:06:45.84,Sign,,0,0,0,,{\pos(646.2,135.21)\frz-5\fnAcme\fs120\bord8\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 4,0:06:45.80,0:06:45.84,Sign,,0,0,0,,{\pos(646.2,135.21)\frz-5\fnAcme\fs120\bord5\3c&H009CFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 5,0:06:45.80,0:06:45.84,Sign,,0,0,0,,{\pos(646.2,135.21)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333}{\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H009CFF&}!{\frz-15}
+Dialogue: 3,0:06:45.80,0:06:45.84,Sign,,0,0,0,,{\pos(646.2,135.21)\frz-5\fnAcme\fs120\bord8\shad3\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 3,0:06:45.80,0:06:45.84,Sign,,0,0,0,,{\pos(646.2,135.21)\frz-5\fnAcme\fs120\bord8\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 4,0:06:45.80,0:06:45.84,Sign,,0,0,0,,{\pos(646.2,135.21)\frz-5\fnAcme\fs120\bord5\shad0.01\4c&H009CFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 5,0:06:45.80,0:06:45.84,Sign,,0,0,0,,{\pos(646.2,135.21)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H009CFF&}!{\frz-15}
 Dialogue: 0,0:06:45.84,0:06:45.88,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,129.89)\p1\c&H01CD16&}m -303 111 l -122 115 -74 71 -70 59 -34 83 -2 100 153 101 178 94 196 85 268 107 297 87 352 -81 -373 -116
 Dialogue: 1,0:06:45.84,0:06:45.88,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,129.89)\c&H060D15&\p1}m 192 90 b 188 90 188 67 191 51 l 178 29 b 173 46 174 78 179 92 l 185 96
 Dialogue: 2,0:06:45.84,0:06:45.88,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,129.89)\c&H01CD16&\p1}m 190 82 l 191 93 204 83
-Dialogue: 3,0:06:45.84,0:06:45.88,Sign,,0,0,0,,{\pos(646.2,149.09)\frz-5\fnAcme\fs120\bord8\shad3\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 3,0:06:45.84,0:06:45.88,Sign,,0,0,0,,{\pos(646.2,149.09)\frz-5\fnAcme\fs120\bord8\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 4,0:06:45.84,0:06:45.88,Sign,,0,0,0,,{\pos(646.2,149.09)\frz-5\fnAcme\fs120\bord5\3c&H009CFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 5,0:06:45.84,0:06:45.88,Sign,,0,0,0,,{\pos(646.2,149.09)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333}{\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H009CFF&}!{\frz-15}
+Dialogue: 3,0:06:45.84,0:06:45.88,Sign,,0,0,0,,{\pos(646.2,149.09)\frz-5\fnAcme\fs120\bord8\shad3\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 3,0:06:45.84,0:06:45.88,Sign,,0,0,0,,{\pos(646.2,149.09)\frz-5\fnAcme\fs120\bord8\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 4,0:06:45.84,0:06:45.88,Sign,,0,0,0,,{\pos(646.2,149.09)\frz-5\fnAcme\fs120\bord5\shad0.01\4c&H009CFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 5,0:06:45.84,0:06:45.88,Sign,,0,0,0,,{\pos(646.2,149.09)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H009CFF&}!{\frz-15}
 Dialogue: 0,0:06:45.88,0:06:45.93,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,138.03)\p1\c&H01CD16&}m -303 111 l -122 115 -74 71 -70 59 -34 83 -2 100 153 101 178 94 196 85 268 107 297 87 352 -81 -373 -116
 Dialogue: 1,0:06:45.88,0:06:45.93,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,138.03)\c&H060D15&\p1}m 192 90 b 188 90 188 67 191 51 l 178 29 b 173 46 174 78 179 92 l 185 96
 Dialogue: 2,0:06:45.88,0:06:45.93,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,138.03)\c&H01CD16&\p1}m 190 82 l 191 93 204 83
-Dialogue: 3,0:06:45.88,0:06:45.93,Sign,,0,0,0,,{\pos(646.2,157.23)\frz-5\fnAcme\fs120\bord8\shad3\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 3,0:06:45.88,0:06:45.93,Sign,,0,0,0,,{\pos(646.2,157.23)\frz-5\fnAcme\fs120\bord8\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 4,0:06:45.88,0:06:45.93,Sign,,0,0,0,,{\pos(646.2,157.23)\frz-5\fnAcme\fs120\bord5\3c&H009CFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 5,0:06:45.88,0:06:45.93,Sign,,0,0,0,,{\pos(646.2,157.23)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333}{\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H009CFF&}!{\frz-15}
+Dialogue: 3,0:06:45.88,0:06:45.93,Sign,,0,0,0,,{\pos(646.2,157.23)\frz-5\fnAcme\fs120\bord8\shad3\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 3,0:06:45.88,0:06:45.93,Sign,,0,0,0,,{\pos(646.2,157.23)\frz-5\fnAcme\fs120\bord8\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 4,0:06:45.88,0:06:45.93,Sign,,0,0,0,,{\pos(646.2,157.23)\frz-5\fnAcme\fs120\bord5\shad0.01\4c&H009CFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 5,0:06:45.88,0:06:45.93,Sign,,0,0,0,,{\pos(646.2,157.23)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H009CFF&}!{\frz-15}
 Dialogue: 0,0:06:45.93,0:06:47.09,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,140.6)\p1\c&H01CD16&}m -303 111 l -122 115 -74 71 -70 59 -34 83 -2 100 153 101 178 94 196 85 268 107 297 87 352 -81 -373 -116
 Dialogue: 1,0:06:45.93,0:06:47.09,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,140.6)\c&H060D15&\p1}m 192 90 b 188 90 188 67 191 51 l 178 29 b 173 46 174 78 179 92 l 185 96
 Dialogue: 2,0:06:45.93,0:06:47.09,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(646.2,140.6)\c&H01CD16&\p1}m 190 82 l 191 93 204 83
-Dialogue: 3,0:06:45.93,0:06:47.09,Sign,,0,0,0,,{\pos(646.2,159.8)\frz-5\fnAcme\fs120\bord8\shad3\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 3,0:06:45.93,0:06:47.09,Sign,,0,0,0,,{\pos(646.2,159.8)\frz-5\fnAcme\fs120\bord8\3c&HFFFFFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 4,0:06:45.93,0:06:47.09,Sign,,0,0,0,,{\pos(646.2,159.8)\frz-5\fnAcme\fs120\bord5\3c&H009CFF&\blur0.85}E{\frz359.167}m{\frz3.333}{\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H00D2FF&}!{\frz-15}
-Dialogue: 5,0:06:45.93,0:06:47.09,Sign,,0,0,0,,{\pos(646.2,159.8)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333}{\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667}{\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370}{\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350}{\c&H009CFF&}!{\frz-15}
+Dialogue: 3,0:06:45.93,0:06:47.09,Sign,,0,0,0,,{\pos(646.2,159.8)\frz-5\fnAcme\fs120\bord8\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 3,0:06:45.93,0:06:47.09,Sign,,0,0,0,,{\pos(646.2,159.8)\frz-5\fnAcme\fs120\bord8\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 4,0:06:45.93,0:06:47.09,Sign,,0,0,0,,{\pos(646.2,159.8)\frz-5\fnAcme\fs120\bord5\shad0.01\4c&H009CFF&\1a&HFE&\3a&HFE&\blur0.85}E{\frz359.167}m{\frz3.333\c&H00D2FF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H00D2FF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H00D2FF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H00D2FF&}!{\frz-15}
+Dialogue: 5,0:06:45.93,0:06:47.09,Sign,,0,0,0,,{\pos(646.2,159.8)\frz-5\fnAcme\fs120\blur1}E{\frz359.167}m{\frz3.333\c&H009CFF&}b{\frz7.5\c&HFFFFFF&}e{\frz11.667\c&H009CFF&}z{\frz15.833\c&HFFFFFF&}z{\frz20}l{\frz375}e{\frz370\c&H009CFF&}m{\frz365\c&HFFFFFF&}e{\frz360}n{\frz355}t{\frz350\c&H009CFF&}!{\frz-15}
 Dialogue: 0,0:06:47.09,0:06:48.22,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HE7EDF3&}m 568 57 l 707 57 707 195 568 195
 Dialogue: 0,0:06:48.22,0:06:48.26,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,17.75)\p1\c&HE7EDF3&}m 568 57 l 707 57 707 195 568 195
 Dialogue: 0,0:06:48.26,0:06:48.30,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,65.5)\p1\c&HE7EDF3&}m 568 57 l 707 57 707 195 568 195
@@ -823,16 +823,16 @@ Dialogue: 1,0:06:48.39,0:06:48.43,Sign,,0,0,0,,{\pos(640,427.59)\fnBabe Bamboo\c
 Dialogue: 1,0:06:48.43,0:06:48.47,Sign,,0,0,0,,{\pos(640,514.13)\fnBabe Bamboo\c&H2F2623&\blur0.9}Punchline
 Dialogue: 1,0:06:48.47,0:06:48.51,Sign,,0,0,0,,{\pos(640,597.18)\fnBabe Bamboo\c&H2F2623&\blur0.9}Punchline
 Dialogue: 1,0:06:48.51,0:06:48.55,Sign,,0,0,0,,{\pos(640,674.52)\fnBabe Bamboo\c&H2F2623&\blur0.9}Punchline
-Dialogue: 1,0:06:48.59,0:06:48.64,Sign,,0,0,0,,{\pos(451.2,10.7)\fnMontara  Gothic\fs44\fsp2\bord5\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}Cover-Up!
-Dialogue: 1,0:06:48.64,0:06:48.68,Sign,,0,0,0,,{\pos(451.2,66.02)\fnMontara  Gothic\fs44\fsp2\bord5\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}Cover-Up!
-Dialogue: 1,0:06:48.68,0:06:48.72,Sign,,0,0,0,,{\pos(451.2,113.76)\fnMontara  Gothic\fs44\fsp2\bord5\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}Cover-Up!
-Dialogue: 1,0:06:48.72,0:06:48.76,Sign,,0,0,0,,{\pos(451.2,154.07)\fnMontara  Gothic\fs44\fsp2\bord5\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}Cover-Up!
-Dialogue: 1,0:06:48.76,0:06:48.80,Sign,,0,0,0,,{\pos(451.2,187.29)\fnMontara  Gothic\fs44\fsp2\bord5\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}Cover-Up!
-Dialogue: 1,0:06:48.80,0:06:48.84,Sign,,0,0,0,,{\pos(451.2,213.71)\fnMontara  Gothic\fs44\fsp2\bord5\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}Cover-Up!
-Dialogue: 1,0:06:48.84,0:06:48.89,Sign,,0,0,0,,{\pos(451.2,233.7)\fnMontara  Gothic\fs44\fsp2\bord5\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}Cover-Up!
-Dialogue: 1,0:06:48.89,0:06:48.93,Sign,,0,0,0,,{\pos(451.2,247.56)\fnMontara  Gothic\fs44\fsp2\bord5\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}Cover-Up!
-Dialogue: 1,0:06:48.93,0:06:48.97,Sign,,0,0,0,,{\pos(451.2,255.68)\fnMontara  Gothic\fs44\fsp2\bord5\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}Cover-Up!
-Dialogue: 1,0:06:48.97,0:06:50.43,Sign,,0,0,0,,{\pos(451.2,258.32)\fnMontara  Gothic\fs44\fsp2\bord5\c&H1B20EF&\3c&HD3FDFD&\1a&H80&\blur0.85}Cover-Up!
+Dialogue: 1,0:06:48.59,0:06:48.64,Sign,,0,0,0,,{\pos(451.2,10.7)\fnMontara  Gothic\fs44\fsp2\bord5\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}Cover-Up!
+Dialogue: 1,0:06:48.64,0:06:48.68,Sign,,0,0,0,,{\pos(451.2,66.02)\fnMontara  Gothic\fs44\fsp2\bord5\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}Cover-Up!
+Dialogue: 1,0:06:48.68,0:06:48.72,Sign,,0,0,0,,{\pos(451.2,113.76)\fnMontara  Gothic\fs44\fsp2\bord5\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}Cover-Up!
+Dialogue: 1,0:06:48.72,0:06:48.76,Sign,,0,0,0,,{\pos(451.2,154.07)\fnMontara  Gothic\fs44\fsp2\bord5\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}Cover-Up!
+Dialogue: 1,0:06:48.76,0:06:48.80,Sign,,0,0,0,,{\pos(451.2,187.29)\fnMontara  Gothic\fs44\fsp2\bord5\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}Cover-Up!
+Dialogue: 1,0:06:48.80,0:06:48.84,Sign,,0,0,0,,{\pos(451.2,213.71)\fnMontara  Gothic\fs44\fsp2\bord5\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}Cover-Up!
+Dialogue: 1,0:06:48.84,0:06:48.89,Sign,,0,0,0,,{\pos(451.2,233.7)\fnMontara  Gothic\fs44\fsp2\bord5\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}Cover-Up!
+Dialogue: 1,0:06:48.89,0:06:48.93,Sign,,0,0,0,,{\pos(451.2,247.56)\fnMontara  Gothic\fs44\fsp2\bord5\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}Cover-Up!
+Dialogue: 1,0:06:48.93,0:06:48.97,Sign,,0,0,0,,{\pos(451.2,255.68)\fnMontara  Gothic\fs44\fsp2\bord5\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}Cover-Up!
+Dialogue: 1,0:06:48.97,0:06:50.43,Sign,,0,0,0,,{\pos(451.2,258.32)\fnMontara  Gothic\fs44\fsp2\bord5\shad0.01\c&H1B20EF&\4c&HD3FDFD&\1a&HFE&\3a&HFE&\blur0.85}Cover-Up!
 Dialogue: 2,0:06:48.59,0:06:48.64,Sign,,0,0,0,,{\pos(451.2,10.7)\fnMontara  Gothic\fs44\fsp2\c&H1B20EF&\blur1}Cover-Up!
 Dialogue: 2,0:06:48.64,0:06:48.68,Sign,,0,0,0,,{\pos(451.2,66.02)\fnMontara  Gothic\fs44\fsp2\c&H1B20EF&\blur1}Cover-Up!
 Dialogue: 2,0:06:48.68,0:06:48.72,Sign,,0,0,0,,{\pos(451.2,113.76)\fnMontara  Gothic\fs44\fsp2\c&H1B20EF&\blur1}Cover-Up!
@@ -1229,10 +1229,10 @@ Dialogue: 3,0:08:19.31,0:08:20.89,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\f
 Dialogue: 3,0:08:19.31,0:08:20.89,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1095.238,236.533)\p1\c&HE7EDF2&}m -77 33 l -59 62 -40 54 b -34 46 -27 41 -21 37
 Dialogue: 3,0:08:19.31,0:08:20.89,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1091.238,237.533)\p1\c&HE7EDF2&}m -133 -80 b -113 -32 -86 22 -63 56 l -24 40 b 24 5 82 12 132 32 l 142 -70
 Dialogue: 3,0:08:19.31,0:08:20.89,Sign,,0,0,0,,{\pos(1086.438,231.733)\frz1.524\fry2\frx20\fnBabe Bamboo\fs140\c&H1C1D1E&\blur1.1\clip(m 958 158 b 978 206 1005 260 1028 294 l 1067 278 b 1115 243 1173 250 1223 270 l 1233 168)}Twist
-Dialogue: 0,0:17:46.50,0:17:48.25,Sign,,0,0,0,,{\pos(1010.572,188.811)\fscx800\fnFansub Block\fs34.6\bord5\c&H2E36C6&\3c&H2E36C6&\blur1.2}A
-Dialogue: 1,0:17:46.50,0:17:48.25,Sign,,0,0,0,,{\pos(1010.572,188.811)\fscx800\fnFansub Block\fs34.6\c&HE7EFF5&\4a&HFF&\blur0.8}A
-Dialogue: 2,0:17:46.50,0:17:48.25,Sign,,0,0,0,,{\pos(1014.572,188.811)\fnFOT-RodinNTLGProEB-Kami\fs23\fsp1\bord3\c&H2E36C6&\3c&H2E36C6&\blur1}BKA General Election
-Dialogue: 3,0:17:46.50,0:17:48.25,Sign,,0,0,0,,{\pos(1014.572,188.811)\fnFOT-RodinNTLGProEB-Kami\fs23\fsp1\c&HE7EFF5&\4a&HFF&\blur0.8}BKA General Election
+Dialogue: 0,0:17:46.50,0:17:48.25,Sign,,0,0,0,,{\an7\blur0.85\c&H2E36C6&\pos(1010.572,188.811)\p1}m -138 -22 l 149 -22 149 22 -138 22
+Dialogue: 1,0:17:46.50,0:17:48.25,Sign,,0,0,0,,{\an7\blur0.85\c&HE7EFF5&\pos(1010.572,188.811)\p1}m -134 -18 l 145 -18 145 18 -134 18
+Dialogue: 2,0:17:46.50,0:17:48.25,Sign,,0,0,0,,{\pos(1014.572,188.811)\fscy110\fnFOT-RodinNTLGProEB-Kami\fs24\fsp1\bord2.4\shad0.01\c&H2E36C6&\4c&H2E36C6&\1a&HFE&\3a&HFE&\blur1}BKA General Election
+Dialogue: 3,0:17:46.50,0:17:48.25,Sign,,0,0,0,,{\pos(1014.572,188.811)\fscy110\fnFOT-RodinNTLGProEB-Kami\fs24\fsp1\c&HE7EFF5&\4a&HFF&\blur0.8}BKA General Election
 Dialogue: 0,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(634.667,175.333)\fscx600\fnFansub Block\fs40\c&H493728&\1a&H0F&\blur1.6}A
 Dialogue: 0,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(634.667,175.333)\fscx600\fnFansub Block\fs40\c&H493728&\1a&H0F&\blur1.6}A
 Dialogue: 1,0:10:39.74,0:10:40.95,Sign,,0,0,0,,{\pos(634.667,171.333)\fscx600\fnFansub Block\fs40\c&HF5EBDD&\blur1}A
@@ -1306,7 +1306,7 @@ Dialogue: 0,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(394.591,410.496)\c&HE4E9EF&
 Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(494.727,576.356)\frz88.52\frx2.07\fax0.02\fnBrushType\fs32\c&H0B1115&\blur1}Gankyou Kuurubiyuutei
 Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(518.585,577.356)\frz88.52\frx2.07\fax0.02\fnBrushType\fs18\b0\c&H0B1115&\1a&H28&\blur0.85}Policies as clear as my glasses!
 Dialogue: 0,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(503.4,502.2)\c&HE1EBF1&\blur2\p1}m -146 -180 l -92 -178 -84 128 b -103 105 -127 75 -144 56
-Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(358.591,295.296)\frz271\fnBrush Hand New\fs52\fsp1\c&H0B1115&\blur1}SNORE PARTY
+Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(358.591,295.296)\frz89.46\fnBrush Hand New\fs52\fsp1\c&H0B1115&\blur1.4}SNORE PARTY
 Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(685.26,659.3)\fnBuxton Sketch\fs18\fsp1\c&HCBF3F9&\blur1}Mandarin
 Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(685.26,659.3)\fnBuxton Sketch\fs18\fsp1\c&HCBF3F9&\blur1}Mandarin
 Comment: 0,0:16:00.98,0:16:07.24,Sign,,0,0,0,,{\an7\fs40\fsp1\c&H241608&\fnBrushType\blur0.85\move(16.287,103.4,16.287,-204.2,0,-1)\clip(0,0,752,86.4)}{\fnBrushy Cre}• {\fnBrushType} Reduce taxes on glasses \N{\fnBrushy Cre}• {\fnBrushType} Glasses holders at all ramen restaurants \N{\fnBrushy Cre}• {\fnBrushType} Glasses-only train cars \N{\fnBrushy Cre}• {\fnBrushType} Move the capital to Sabae \N{\fnBrushy Cre}• {\fnBrushType} Ban contact lenses \N{\fnBrushy Cre}• {\fnBrushType} LASIK punishable by imprisonment
@@ -1375,7 +1375,7 @@ Dialogue: 0,0:20:32.29,0:20:32.42,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\f
 Dialogue: 0,0:20:32.42,0:20:32.54,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,-1)\c&H42302F&\p1}m 465 276 b 547 283 764 280 824 277 l 849 421 840 616 427 621 435 459
 Dialogue: 0,0:20:32.54,0:20:32.67,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H44302F&}m 438 254 b 534 256 723 261 821 260 l 836 616 445 617
 Dialogue: 0,0:20:32.67,0:20:33.42,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H42302F&}m 451 230 b 546 232 727 234 820 233 l 836 605 635 616 441 608
-Dialogue: 1,0:20:32.42,0:20:33.42,Sign,,0,0,0,,{\pos(654.86,420.81)\fnBadaBoom BB\fs200\fsp25\bord2\c&H2029C0&\3c&H090965&\1a&HC8&\blur1.4}PLAN
+Dialogue: 1,0:20:32.42,0:20:33.42,Sign,,0,0,0,,{\pos(654.86,420.81)\fnBadaBoom BB\fs200\fsp25\bord2\shad0.01\c&H2029C0&\4c&H090965&\1a&HFE&\3a&HFE&\blur1.4}PLAN
 Dialogue: 2,0:20:32.42,0:20:33.42,Sign,,0,0,0,,{\pos(654.86,420.81)\fnBadaBoom BB\fs200\fsp25\c&H2029C0&\blur1}PLAN
 Dialogue: 0,0:21:06.53,0:21:07.99,Sign,,0,0,0,,{\pos(351.333,232)\fscx350\fscy180\fnFansub Block\fs46\blur8}A
 Dialogue: 1,0:21:06.53,0:21:07.99,Sign,,0,0,0,,{\pos(351.333,232)\fscx350\fscy180\fnFansub Block\fs46\blur1}A
