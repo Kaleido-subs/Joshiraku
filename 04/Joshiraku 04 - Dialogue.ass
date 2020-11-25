@@ -86,7 +86,7 @@ Dialogue: 10,0:03:25.05,0:03:26.26,Default,,0,0,0,,Bloody hell!
 Dialogue: 10,0:03:26.26,0:03:29.44,Default,,0,0,0,,{\q2}Glasses-wielders aren't meant to \Nbe bruisers. It doesn't suit your kind!
 Dialogue: 10,0:03:30.37,0:03:33.60,Default,,0,0,0,,Nothing equips you for violence as well as glasses do.
 Dialogue: 10,0:03:33.60,0:03:34.23,Default,,0,0,0,,What did you say?
-Dialogue: 10,0:03:34.51,0:03:38.48,Default,,0,0,0,,When people are about to punch someone wearing glasses, \Nthere's always a bit of hesitation involved.
+Dialogue: 10,0:03:34.51,0:03:38.48,Default,,0,0,0,,{\q2}When people are about to punch someone wearing glasses, \Nthere's always a bit of hesitation involved.
 Dialogue: 10,0:03:39.72,0:03:42.35,Default,,0,0,0,,"If I break their glasses, it might hurt them."
 Dialogue: 10,0:03:42.35,0:03:43.95,Default,,0,0,0,,"If I break their glasses, it might hurt {\i1}me{\i0}."
 Dialogue: 10,0:03:44.46,0:03:46.87,Default,,0,0,0,,"It might cost a lot to replace them."
@@ -123,7 +123,7 @@ Dialogue: 10,0:04:29.83,0:04:31.66,Default,,0,0,0,,Where did your eyes go?!
 Dialogue: 10,0:04:31.66,0:04:33.75,Default,,0,0,0,,Jab, jab, hook, straight!
 Dialogue: 10,0:04:33.75,0:04:34.69,Default,,0,0,0,,The finisher...
 Dialogue: 10,0:04:34.69,0:04:36.04,Default,,0,0,0,,Uppercut!
-Dialogue: 10,0:04:38.71,0:04:41.01,Default,,0,0,0,,Your power level increases without your glasses!
+Dialogue: 10,0:04:38.71,0:04:41.01,Default,,0,0,0,,{\q2}Your power level increases while \Nyou're not wearing glasses!
 Dialogue: 10,0:04:41.72,0:04:44.59,Default,,0,0,0,,The glasses were suppressing her power all along.
 Dialogue: 10,0:04:44.59,0:04:47.09,Default,,0,0,0,,Best keep them on, for all our sakes.
 Dialogue: 10,0:04:47.40,0:04:49.02,Default,,0,0,0,,That's enough already!
@@ -140,7 +140,7 @@ Dialogue: 10,0:05:12.81,0:05:14.86,Default,,0,0,0,,A good little minion.
 Dialogue: 10,0:05:14.86,0:05:17.17,Default,,0,0,0,,Very not-protagonist material.
 Dialogue: 10,0:05:17.17,0:05:18.42,Default,,0,0,0,,Huh?
 Dialogue: 10,0:05:20.63,0:05:22.59,Default,,0,0,0,,Don't copy my style!
-Dialogue: 10,0:05:22.86,0:05:26.08,Default,,0,0,0,,Grr. Glasses aren't your toys.
+Dialogue: 10,0:05:22.86,0:05:26.08,Default,,0,0,0,,I swear. Glasses aren't toys!
 Dialogue: 10,0:05:26.08,0:05:28.01,Default,,0,0,0,,Not pulling any punches, are ya?
 Dialogue: 10,0:05:28.01,0:05:29.41,Default,,0,0,0,,Please stop it!
 Dialogue: 10,0:05:29.41,0:05:35.34,Default,,0,0,0,,{\q2}We call Gan the Bespectacled Bully, \Nbut she's really the most considerate person around.
@@ -261,10 +261,10 @@ Dialogue: 10,0:11:06.04,0:11:07.08,Default,,0,0,0,,No...
 Dialogue: 10,0:11:07.08,0:11:08.27,Default,,0,0,0,,Need some snacks?
 Dialogue: 10,0:11:08.27,0:11:10.89,Default,,0,0,0,,That crap'll just make her feel worse!
 Dialogue: 10,0:11:10.89,0:11:16.15,Default,,0,0,0,,{\q2}When times are tough, sweets are always \Nthere to put a smile on your face!
-Dialogue: 10,0:11:16.15,0:11:18.78,Default,,0,0,0,,If she eats while motion sick, she'll puke.
+Dialogue: 10,0:11:16.15,0:11:18.78,Default,,0,0,0,,If she eats while feeling carsick, she'll throw up.
 Dialogue: 10,0:11:19.74,0:11:20.91,Default,,0,0,0,,...or even if she doesn't eat.
 Dialogue: 10,0:11:20.91,0:11:22.32,Default,,0,0,0,,You can do it, Kukuru!
-Dialogue: 10,0:11:22.32,0:11:23.70,Default,,0,0,0,,Are you giving her permission?
+Dialogue: 10,0:11:22.32,0:11:23.70,Default,,0,0,0,,You giving her permission?
 Dialogue: 10,0:11:23.70,0:11:24.41,Default,,0,0,0,,No!
 Dialogue: 10,0:11:24.41,0:11:26.02,Default,,0,0,0,,Just hang in there!
 Dialogue: 10,0:11:26.02,0:11:26.95,Default,,0,0,0,,What's it they say?
