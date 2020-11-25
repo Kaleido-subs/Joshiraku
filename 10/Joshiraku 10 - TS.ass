@@ -67,10 +67,13 @@ Dialogue: 0,0:09:32.47,0:09:34.68,Sign,,0,0,0,,{\pos(1008,210.67)}Aware
 Dialogue: 0,0:09:32.47,0:09:34.68,Sign,,0,0,0,,{\pos(1001.33,336)}No talking
 Dialogue: 0,0:09:50.69,0:09:52.36,Sign,,0,0,0,,{\pos(284.125,272)\fs40}Dark Thunder
 Dialogue: 0,0:09:50.69,0:09:52.36,Sign,,0,0,0,,{\pos(768.336,448)}Thunder
-Dialogue: 0,0:10:05.08,0:10:08.30,Sign,,0,0,0,,{\pos(627.336,240)}Kabukicho Ichibangai
-Comment: 0,0:10:08.96,0:10:11.26,Sign,,0,0,0,,{\pos(102,57)\an7\fs40\4a&HA0&\bord2.4\fnGandhi Sans\shad1}Note: A famous rakugo theater.
-Dialogue: 0,0:12:53.29,0:12:54.55,Sign,,0,0,0,,{\pos(659.117,459.508)\fs55}ANIME CHARACTER
-Dialogue: 0,0:12:53.29,0:12:54.55,Sign,,0,0,0,,{\pos(662.938,516.508)\fs55}BATTLE ROYALE
+Dialogue: 0,0:10:05.08,0:10:08.30,Sign,,0,0,0,,{\pos(627.336,240)}Kabukichou Ichibangai
+Dialogue: 0,0:12:53.29,0:12:54.55,Sign,,0,0,0,,{\pos(659.117,459.508)\fs55}ANIME CHARACTER \NBATTLE ROYALE
+Dialogue: 0,0:13:12.35,0:13:21.07,Sign,,0,0,0,,{\fs30\pos(265.6,155.2)}ANIME CHARACTER \NBATTLE ROYALE
+Comment: 0,0:13:37.21,0:13:38.96,Sign,,0,0,0,,{\pos(707.2,126.4)\c&H8E79FC&}Killer Khan's Gan! {## If we do this, I want to do the entire sign}
+Comment: 0,0:13:37.21,0:13:38.96,Sign,,0,0,0,,{\c&HE0634D&\pos(526.4,179.2)}Karaoke Pub
+Dialogue: 0,0:13:38.96,0:13:41.30,Sign,,0,0,0,,{\pos(640,112)\fs100\c&H5D5853&}Fuushin Hall
+Comment: 0,0:13:41.30,0:13:43.30,Sign,,0,0,0,,{\pos(372.8,206.4)}Missing TL {## There's a lot of missing TLs here. While I think it would be fun to TS as many as we can, it'd also kill our TSrs lol}
 Dialogue: 0,0:15:46.13,0:15:47.59,Sign,,0,0,0,,{\pos(637.969,177)\fs24}Hybrid ceramic crown        All-ceramic crown        Zirconium ceramic crown
 Dialogue: 0,0:15:46.13,0:15:47.59,Sign,,0,0,0,,{\pos(658.648,516)\fs24}80,000 yen                       100,000 yen                        150,000 yen
 Dialogue: 0,0:16:18.50,0:16:20.54,Sign,,0,0,0,,{\pos(637.891,124)}June 4th
@@ -88,6 +91,4 @@ Dialogue: 0,0:20:16.19,0:20:17.90,Sign,,0,0,0,,{\pos(642.859,434)}Painkillers
 Comment: 0,0:20:16.19,0:20:17.90,Sign,TL,0,0,0,,{\pos(100,260.29)}Missing TL
 Comment: 0,0:20:16.19,0:20:17.90,Sign,TL,0,0,0,,{\pos(149.14,677.43)}Missing TL
 Dialogue: 0,0:20:59.07,0:21:01.82,Sign,,0,0,0,,{\pos(665.547,84.508)\fs55}Remedication
-Comment: 0,0:21:37.40,0:21:40.49,Sign,,0,0,0,,{\pos(439.203,70)\fs40}Note: A Japanese TV show featuring complex
-Comment: 0,0:21:37.40,0:21:40.49,Sign,,0,0,0,,{\pos(192,100)\an7\fs40\4a&HA0&\bord2.4\fnGandhi Sans\shad1}Rube Goldberg-style machines.
 Dialogue: 0,0:22:01.68,0:22:03.09,Sign,,0,0,0,,{\pos(509.72,641)}Dereliction of Duty
