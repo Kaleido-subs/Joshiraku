@@ -323,16 +323,15 @@ Dialogue: 10,0:15:03.05,0:15:04.42,Default,,0,0,0,,Sounds like that game, Yakuza
 Dialogue: 10,0:15:04.42,0:15:06.51,Default,,0,0,0,,I don't think even that happens in Yakuza.
 Dialogue: 10,0:15:06.51,0:15:07.34,Default,,0,0,0,,Nope.
 Dialogue: 10,0:15:07.34,0:15:08.30,Default,,0,0,0,,Not at all.
-Comment: 0,0:15:10.97,0:15:10.97,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:15:10.97,0:15:10.97,Default,chapter,0,0,0,,{Part C}
 Dialogue: 10,0:15:11.47,0:15:13.68,Default,,0,0,0,,"That's an unthinkable disaster!"
 Dialogue: 10,0:15:13.81,0:15:16.48,Default,,0,0,0,,"Well, my groin sure hurts!"
 Dialogue: 10,0:15:16.94,0:15:18.77,Default,,0,0,0,,Thanks for your continued appreciation.
 Dialogue: 10,0:15:31.70,0:15:34.79,Default,,0,0,0,,What's that? Who's this blank-faced guy?
-Dialogue: 10,0:15:35.87,0:15:37.54,Default,,0,0,0,,He's a man...
-Dialogue: 10,0:15:37.54,0:15:40.63,Default,,0,0,0,,Whose disappointed expression I can't forget...
-Dialogue: 10,0:15:47.89,0:15:49.05,Default,,0,0,0,,Which do you want?
-Dialogue: 10,0:15:49.51,0:15:50.93,Default,,0,0,0,,Whatever I'm insured for.
-Dialogue: 10,0:15:54.06,0:15:59.81,Default,,0,0,0,,I can't forget my dentist's disappointed face \Nwhen I told him to go with my insurance...
+Dialogue: 10,0:15:35.87,0:15:40.63,Default,,0,0,0,,{\q2}He's a man whose disappointed \Nexpression I can never forget...
+Dialogue: 10,0:15:47.89,0:15:49.05,Default,,0,0,0,,Which one would you like?
+Dialogue: 10,0:15:49.51,0:15:50.93,Default,,0,0,0,,Whichever I'm insured for.
+Dialogue: 10,0:15:54.06,0:15:59.81,Default,,0,0,0,,{\q2}I can't forget my dentist's grief-stricken face \Nwhen I told him to go with my insurance...
 Dialogue: 10,0:16:00.19,0:16:01.90,Default,,0,0,0,,The dentist's expression, huh?
 Dialogue: 10,0:16:02.23,0:16:04.36,Default,,0,0,0,,A pro shouldn't be letting their feelings show.
 Dialogue: 10,0:16:04.57,0:16:05.94,Default,,0,0,0,,My heart is in pain...
@@ -341,72 +340,73 @@ Dialogue: 10,0:16:07.57,0:16:09.41,Default,,0,0,0,,He haunts my dreams...
 Dialogue: 10,0:16:09.62,0:16:11.74,Default,,0,0,0,,And so, as my penance...
 Dialogue: 10,0:16:11.99,0:16:13.33,Default,,0,0,0,,I draw!
 Dialogue: 10,0:16:13.33,0:16:15.95,Default,,0,0,0,,How is drawing pictures any kind of penance?
-Dialogue: 10,0:16:15.95,0:16:18.50,Default,,0,0,0,,Is it a bit like copying Buddhist sutras out by hand?
-Dialogue: 10,0:16:20.58,0:16:25.76,Default,,0,0,0,,I didn't really get any of that build-up, \Nbut this week is Cavity Prevention Week!
-Dialogue: 10,0:16:25.76,0:16:28.13,Default,,0,0,0,,What do you mean by "this week"?
-Dialogue: 10,0:16:28.13,0:16:30.59,Default,,0,0,0,,When this goes out it'll already be September.
+Dialogue: 10,0:16:15.95,0:16:18.50,Default,,0,0,0,,Is it a bit like copying Buddhist sutras by hand?
+Dialogue: 10,0:16:20.58,0:16:25.76,Default,,0,0,0,,{\q2}I didn't really get any of that build-up, \Nbut this week is Cavity Prevention Week!
+Dialogue: 10,0:16:25.76,0:16:28.13,Default,,0,0,0,,What do you mean, "this week"?
+Dialogue: 10,0:16:28.13,0:16:30.59,Default,,0,0,0,,{\q2}When this episode goes out \Nit'll already be September.
 Dialogue: 10,0:16:30.59,0:16:32.43,Default,,0,0,0,,And when it goes on sale it'll be January.
-Dialogue: 10,0:16:32.43,0:16:37.89,Default,,0,0,0,,If there's trouble and the DVD has to be redone, \Nit could be delayed into February.
-Dialogue: 10,0:16:37.89,0:16:41.06,Default,,0,0,0,,Forget delays, maybe it'll just be canceled altogether.
+Dialogue: 10,0:16:32.43,0:16:37.89,Default,,0,0,0,,{\q2}If there's trouble and the DVD has to be redone, \Nit could be delayed into February.
+Dialogue: 10,0:16:37.89,0:16:41.06,Default,,0,0,0,,Forget delays, maybe it'll just be cancelled altogether.
 Dialogue: 10,0:16:41.06,0:16:43.52,Default,,0,0,0,,Wouldn't that be super hilarious!
-Dialogue: 10,0:16:46.49,0:16:47.49,Default,,0,0,0,,It's not funny.
-Dialogue: 10,0:16:47.49,0:16:48.74,Default,,0,0,0,,It's not funny at all.
-Dialogue: 10,0:16:48.74,0:16:49.95,Default,,0,0,0,,It's not funny.
+Dialogue: 10,0:16:46.49,0:16:47.49,Default,,0,0,0,,I wouldn't be laughing.
+Dialogue: 10,0:16:47.49,0:16:48.74,Default,,0,0,0,,That'd be no laughing matter.
+Dialogue: 10,0:16:48.74,0:16:49.95,Default,,0,0,0,,It wouldn't be funny at all.
 Dialogue: 10,0:16:49.95,0:16:52.12,Default,,0,0,0,,Let's not even talk about it.
 Dialogue: 10,0:16:52.12,0:16:54.12,Default,,0,0,0,,I know it's a joke, but don't tempt fate.
 Dialogue: 10,0:16:54.12,0:16:56.87,Default,,0,0,0,,Anyway, don't worry about that.
 Dialogue: 10,0:16:56.87,0:16:58.37,Default,,0,0,0,,We're already deep into the season.
 Dialogue: 10,0:16:58.37,0:17:00.92,Default,,0,0,0,,Yeah. No need to stress over small things.
-Dialogue: 10,0:17:02.96,0:17:07.05,Default,,0,0,0,,Don't you feel like there are a weirdly high number \Nof dentists compared to other doctors?
-Dialogue: 10,0:17:07.05,0:17:07.71,Default,,0,0,0,,Really?
+Dialogue: 10,0:17:02.96,0:17:07.05,Default,,0,0,0,,{\q2}Don't you feel like there are a weirdly high number \Nof dentists compared to other doctors?
+Dialogue: 10,0:17:07.05,0:17:07.67,Default,,0,0,0,,Really?
 Dialogue: 10,0:17:11.64,0:17:14.10,Default,,0,0,0,,The puns are a bit too much.
-Dialogue: 10,0:17:14.10,0:17:17.98,Default,,0,0,0,,Is it just me, or do the puns get worse \Nthe further you get towards Kyushu?
+Dialogue: 10,0:17:14.10,0:17:17.98,Default,,0,0,0,,{\q2}Is it just me, or do the puns get worse \Nthe closer you get towards Kyushu?
 Dialogue: 10,0:17:17.98,0:17:20.06,Default,,0,0,0,,They have a good dialect for jokes.
-Dialogue: 10,0:17:20.06,0:17:23.27,Default,,0,0,0,,Some of the pun names must actually \Nbe the dentist's real name.
+Dialogue: 10,0:17:20.06,0:17:23.27,Default,,0,0,0,,{\q2}Some of the pun names must \Nactually be the dentist's real name.
 Dialogue: 10,0:17:23.27,0:17:24.56,Default,,0,0,0,,Like Cohen C. Dental?
 Dialogue: 10,0:17:24.56,0:17:25.69,Default,,0,0,0,,Axie Dental as well?
-Dialogue: 10,0:17:25.90,0:17:29.11,Default,,0,0,0,,Not that I care, but does anyone think the way \Nwe treated that first sign is a bit shoddy
-Dialogue: 10,0:17:29.11,0:17:31.61,Default,,0,0,0,,compared to how we treat that bloody American mouse?
-Dialogue: 10,0:17:31.61,0:17:35.45,Default,,0,0,0,,We pussy-foot around that one while \Nthis one is like "Eh, um, well, whatever."
-Dialogue: 10,0:17:35.45,0:17:38.91,Default,,0,0,0,,It can't possibly be because one is from the \NEnglish-speaking world and the other isn't, can it?
+Dialogue: 10,0:17:25.90,0:17:27.19,Default,,0,0,0,,Not that I care,
+Dialogue: 10,0:17:27.19,0:17:31.82,Default,,0,0,0,,{\q2}but wasn't the way we treated that first sign a bit shoddy \Ncompared to how we treat that bloody American mouse?
+Dialogue: 10,0:17:31.82,0:17:35.74,Default,,0,0,0,,{\q2}We pussy-foot around that one while \Nthis one is like "Eh, um, well, whatever."
+Dialogue: 10,0:17:35.74,0:17:38.91,Default,,0,0,0,,{\q2}Or is that because one's from the \NEnglish-speaking world and the other isn't?
 Dialogue: 10,0:17:38.91,0:17:42.29,Default,,0,0,0,,No, no! It's just... an old woman with hair like that.
-Dialogue: 10,0:17:42.58,0:17:47.09,Default,,0,0,0,,There are definitely a lot fewer doctor's clinics \Nwith that kind of name.
-Dialogue: 10,0:17:47.46,0:17:51.59,Default,,0,0,0,,They deal more directly with death, \Nso maybe a pun name would be in bad taste.
-Dialogue: 10,0:17:51.76,0:17:55.22,Default,,0,0,0,,Even just a cavity can lead to serious \Nhealth problems if you ignore it!
-Dialogue: 10,0:17:55.22,0:17:58.35,Default,,0,0,0,,People who talk for a living like us \Nshould be especially careful
-Dialogue: 10,0:17:58.35,0:18:00.68,Default,,0,0,0,,not to get even a single cavity!
+Dialogue: 10,0:17:42.58,0:17:47.09,Default,,0,0,0,,{\q2}There are definitely a lot fewer \Ndoctor's clinics with those kinds of names.
+Dialogue: 10,0:17:47.46,0:17:51.59,Default,,0,0,0,,{\q2}They deal more directly with death, \Nso maybe a punny name would be in bad taste.
+Dialogue: 10,0:17:51.76,0:17:55.22,Default,,0,0,0,,{\q2}Even cavities can lead to serious \Nhealth problems if you ignore it!
+Dialogue: 10,0:17:55.22,0:17:58.56,Default,,0,0,0,,{\q2}People who talk for a living like us \Nshould be especially careful
+Dialogue: 10,0:17:58.56,0:18:00.68,Default,,0,0,0,,to get not even a single cavity!
 Dialogue: 10,0:18:03.44,0:18:05.69,Default,,0,0,0,,Wow, they're so clean, Kigu!
-Dialogue: 10,0:18:05.69,0:18:10.24,Default,,0,0,0,,Of course, prevention is a daily task, \Nbut also, if I get a cavity I go right to the dentist.
-Dialogue: 10,0:18:10.24,0:18:14.82,Default,,0,0,0,,I can't help but notice that one of \Nour number is keeping her back to us.
+Dialogue: 10,0:18:05.69,0:18:10.24,Default,,0,0,0,,{\q2}Of course, prevention is a daily task, \Nbut also, if I get a cavity I go right to the dentist.
+Dialogue: 10,0:18:10.24,0:18:14.82,Default,,0,0,0,,{\q2}I can't help but notice that one of \Nour number is keeping her back to us.
 Dialogue: 10,0:18:19.16,0:18:20.79,Default,,0,0,0,,That's a very clichéd-looking toothache.
 Dialogue: 10,0:18:20.79,0:18:23.17,Default,,0,0,0,,No! Marii's got cavities!
 Dialogue: 10,0:18:23.17,0:18:26.34,Default,,0,0,0,,Absholutely noh! Shup your mouh!
+Dialogue: 10,0:18:26.54,0:18:27.54,Default,,0,0,0,,Poke!
 Dialogue: 10,0:18:30.01,0:18:31.13,Default,,0,0,0,,Whah ah you doogh?!
 Dialogue: 10,0:18:31.51,0:18:32.67,Default,,0,0,0,,She's got 'em bad.
 Dialogue: 10,0:18:32.67,0:18:34.30,Default,,0,0,0,,Go to the dentist!
 Dialogue: 10,0:18:34.30,0:18:35.59,Default,,0,0,0,,No way! Neber!
 Dialogue: 10,0:18:35.84,0:18:39.31,Default,,0,0,0,,An earthquake could strike Japan at any moment!
 Dialogue: 10,0:18:39.31,0:18:41.56,Default,,0,0,0,,Go to the dentist while you still can!
-Dialogue: 10,0:18:41.73,0:18:46.27,Default,,0,0,0,,While we're on the subject of earthquakes, \NI took the liberty of preparing helmets for us.
+Dialogue: 10,0:18:41.73,0:18:46.27,Default,,0,0,0,,{\q2}While we're on the subject of earthquakes, \NI took the liberty of preparing helmets for us.
 Dialogue: 10,0:18:46.27,0:18:47.44,Default,,0,0,0,,Wow, nice!
 Dialogue: 10,0:18:50.48,0:18:51.61,Default,,0,0,0,,Emergency warning!
 Dialogue: 10,0:18:52.69,0:18:54.28,Default,,0,0,0,,Everyone, prepare to evacuate!
 Dialogue: 10,0:18:54.28,0:18:55.66,Default,,0,0,0,,Protect your head!
 Dialogue: 10,0:18:56.32,0:18:57.78,Default,,0,0,0,,Marii, you too!
-Dialogue: 10,0:18:57.78,0:18:59.28,Default,,0,0,0,,Quickly, put this on!
-Dialogue: 10,0:19:04.41,0:19:07.21,Default,,0,0,0,,Lucky it was a false alarm. Phew.
-Dialogue: 10,0:19:07.21,0:19:11.00,Default,,0,0,0,,Hearing the emergency alarm sound \Nmakes me reflexively tense up!
+Dialogue: 10,0:18:57.78,0:18:59.28,Default,,0,0,0,,Hurry, put this on!
+Dialogue: 10,0:19:04.41,0:19:07.21,Default,,0,0,0,,Looks like it was a false alarm. Phew.
+Dialogue: 10,0:19:07.21,0:19:11.00,Default,,0,0,0,,{\q2}Hearing the emergency alarm sound \Nmakes me reflexively tense up!
 Dialogue: 10,0:19:11.00,0:19:15.13,Default,,0,0,0,,To me it sounds like it's saying "Panic! Panic!"
 Dialogue: 10,0:19:15.30,0:19:17.09,Default,,0,0,0,,That's definitely not the intended effect!
 Dialogue: 10,0:19:17.30,0:19:20.31,Default,,0,0,0,,They should go with something cuter.
 Dialogue: 10,0:19:22.97,0:19:24.31,Default,,0,0,0,,That's adorable!
-Dialogue: 10,0:19:24.31,0:19:28.06,Default,,0,0,0,,But if there were real cats around, \Nwould you be able to tell the difference?
-Dialogue: 10,0:19:28.06,0:19:32.07,Default,,0,0,0,,Hmm, yeah. It should be a sound \Nyou don't hear in real life.
+Dialogue: 10,0:19:24.31,0:19:28.06,Default,,0,0,0,,{\q2}But if there were real cats around, \Nwould you be able to tell the difference?
+Dialogue: 10,0:19:28.06,0:19:32.07,Default,,0,0,0,,{\q2}Hmm, yeah. It should be a sound \Nyou don't hear in real life.
 Dialogue: 10,0:19:34.53,0:19:36.57,Default,,0,0,0,,That sounds like Jason's gonna jump out any moment.
 Dialogue: 10,0:19:36.57,0:19:38.53,Default,,0,0,0,,They could only play it on Fridays.
 Dialogue: 10,0:19:38.53,0:19:40.66,Default,,0,0,0,,The original was Psycho, though.
-Dialogue: 10,0:19:40.91,0:19:45.16,Default,,0,0,0,,Surely the best thing would be to make it \Ncustomizable, like a ringtone?
-Dialogue: 10,0:19:51.29,0:19:52.67,Default,,0,0,0,,I shudder to think.
+Dialogue: 10,0:19:40.91,0:19:45.16,Default,,0,0,0,,{\q2}Surely the best thing would be to \Nmake it customisable, like a ringtone?
+Dialogue: 10,0:19:51.29,0:19:52.67,Default,,0,0,0,,I shudder to imagine.
 Dialogue: 10,0:19:52.67,0:19:55.22,Default,,0,0,0,,Wheh is ohly my one full-face?
 Dialogue: 10,0:19:55.22,0:19:56.97,Default,,0,0,0,,Why are you still wearing it?
 Dialogue: 10,0:19:57.34,0:19:58.89,Default,,0,0,0,,Shtop pullihg!
@@ -416,40 +416,42 @@ Dialogue: 10,0:20:05.93,0:20:07.77,Default,,0,0,0,,If Marii did that, it'd be in
 Dialogue: 10,0:20:07.77,0:20:09.31,Default,,0,0,0,,She's mad now!
 Dialogue: 10,0:20:11.27,0:20:12.98,Default,,0,0,0,,Ow! It hurts!
 Dialogue: 10,0:20:12.98,0:20:16.07,Default,,0,0,0,,Painkillers! Does anyone have any painkillers?!
-Dialogue: 10,0:20:18.24,0:20:20.12,Default,,0,0,0,,We DO have some.
+Dialogue: 10,0:20:18.24,0:20:20.12,Default,,0,0,0,,We {\i1}do{\i0} have some.
 Dialogue: 10,0:20:21.20,0:20:23.66,Default,,0,0,0,,Those are painkillers alright...
-Dialogue: 10,0:20:24.12,0:20:25.62,Default,,0,0,0,,painkillers for the mind.
+Dialogue: 10,0:20:24.12,0:20:25.62,Default,,0,0,0,,Painkillers for the mind.
 Dialogue: 10,0:20:26.87,0:20:31.00,Default,,0,0,0,,Painkillers for the mind... you mean they're happy pills?
-Dialogue: 10,0:20:31.29,0:20:33.17,Default,,0,0,0,,Yes, something like that.
+Dialogue: 10,0:20:31.29,0:20:33.17,Default,,0,0,0,,Yeah, something like that.
 Dialogue: 10,0:20:36.47,0:20:39.09,Default,,0,0,0,,Old mister dentist, old mister dentist,
 Dialogue: 10,0:20:39.09,0:20:41.72,Default,,0,0,0,,please pull my cavity, pull it right out!
-Dialogue: 10,0:20:42.10,0:20:44.68,Default,,0,0,0,,What are we gonna do? She's gone all weird!
-Dialogue: 10,0:20:44.68,0:20:52.52,Default,,0,0,0,,Pull it out, la la la wa la la wa la la
+Dialogue: 10,0:20:42.10,0:20:44.64,Default,,0,0,0,,{\an8}Old mister dentist, old mister dentist,
+Dialogue: 10,0:20:42.10,0:20:44.64,Default,,0,0,0,,What are we gonna do? She's acting all weird now!
+Dialogue: 10,0:20:44.64,0:20:52.52,Default,,0,0,0,,Pull it out, la la la wa la la wa la la!
 Dialogue: 10,0:20:53.69,0:20:55.32,Default,,0,0,0,,Looks like the meds wore off.
 Dialogue: 10,0:20:56.07,0:20:59.07,Default,,0,0,0,,Ow! It hurts! It hurts so much!
-Dialogue: 10,0:21:01.87,0:21:04.58,Default,,0,0,0,,Old mister dentist, old mister dentist
-Dialogue: 10,0:21:04.83,0:21:06.66,Default,,0,0,0,,She's gone back to being weird again.
+Dialogue: 10,0:21:01.87,0:21:04.58,Default,,0,0,0,,Old mister dentist, old mister dentist,
+Dialogue: 10,0:21:04.83,0:21:06.66,Default,,0,0,0,,She's gone back to being high again.
+Dialogue: 10,0:21:04.83,0:21:07.25,Default,,0,0,0,,{\an8}please pull my cavity, pull it right out!
 Dialogue: 10,0:21:07.50,0:21:09.21,Default,,0,0,0,,It hurts! Ow! It hurts!
-Dialogue: 10,0:21:09.21,0:21:12.00,Default,,0,0,0,,Are the only two options "pain" and "weird"?!
+Dialogue: 10,0:21:09.21,0:21:12.00,Default,,0,0,0,,Are the only two options "pain" and "high"?!
 Dialogue: 10,0:21:12.17,0:21:14.67,Default,,0,0,0,,This terrible cavity is doing this to her.
 Dialogue: 10,0:21:14.67,0:21:16.76,Default,,0,0,0,,Maybe we should just remove it.
 Dialogue: 10,0:21:20.51,0:21:22.64,Default,,0,0,0,,When she stretches in the morning, it'll pop right out.
 Dialogue: 10,0:21:22.64,0:21:24.22,Default,,0,0,0,,That reminds me of something.
 Dialogue: 10,0:21:24.22,0:21:27.22,Default,,0,0,0,,There's no way this primitive method is the answer!
-Dialogue: 10,0:21:27.56,0:21:30.06,Default,,0,0,0,,I'm with you. It is VERY primitive.
-Dialogue: 10,0:21:30.06,0:21:33.44,Default,,0,0,0,,I thought you might say that, \Nso I prepared a high-tech machine!
+Dialogue: 10,0:21:27.56,0:21:30.06,Default,,0,0,0,,I'm with you. It is{\i1} very{\i0} primitive.
+Dialogue: 10,0:21:30.06,0:21:33.44,Default,,0,0,0,,{\q2}I thought you might say that, \Nso I prepared a high-tech machine!
 Dialogue: 10,0:21:35.19,0:21:37.40,Default,,0,0,0,,This looks ridiculously over-complicated!
 Dialogue: 10,0:21:37.40,0:21:39.15,Default,,0,0,0,,Is this Pythagoras Switch or what?
-Dialogue: 10,0:21:41.78,0:21:44.78,Default,,0,0,0,,D-does this string lead outside?
+Dialogue: 10,0:21:41.78,0:21:44.78,Default,,0,0,0,,D-Does this string lead outside?
 Dialogue: 10,0:21:44.78,0:21:46.58,Default,,0,0,0,,The mechanism's gone outside!
 Dialogue: 10,0:21:59.84,0:22:00.88,Default,,0,0,0,,At this time, the effect—
 Comment: 0,0:23:40.02,0:23:40.02,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:23:40.98,0:23:42.78,Default,,0,0,0,,Kigurumi Haroukitei here.
 Dialogue: 10,0:23:42.78,0:23:44.07,Default,,0,0,0,,Hello everyone!
 Dialogue: 10,0:23:44.40,0:23:48.07,Default,,0,0,0,,Last Sunday, I went to visit my granny's grave.
-Dialogue: 10,0:23:48.20,0:23:54.37,Default,,0,0,0,,I cleaned it up, placed some flowers, \Nand promised to concentrate more on my rakugo.
+Dialogue: 10,0:23:48.20,0:23:54.37,Default,,0,0,0,,{\q2}I cleaned it up, placed some flowers, \Nand promised to concentrate more on my rakugo.
 Dialogue: 10,0:23:54.70,0:23:59.29,Default,,0,0,0,,I'm still not very good at it, but I told her I'd try my best.
-Dialogue: 10,0:23:59.75,0:24:01.63,Default,,0,0,0,,Only three episodes of Joshiraku left!
+Dialogue: 10,0:23:59.75,0:24:01.63,Default,,0,0,0,,Only three episodes of Rakugo Girls left!
 Dialogue: 10,0:24:01.63,0:24:02.80,Default,,0,0,0,,Here's the eleventh one!
-Dialogue: 10,0:24:02.80,0:24:06.55,Default,,0,0,0,,"Family Drama", "Sakai's the Limit", and "Tree's a Crowd".
+Dialogue: 10,0:24:02.80,0:24:06.55,Default,,0,0,0,,{\q2}"Family Drama", "Sakai's the Limit", \Nand "Tree's a Crowd".
 Dialogue: 10,0:24:06.84,0:24:09.26,Default,,0,0,0,,I hope you'll be satisfied!

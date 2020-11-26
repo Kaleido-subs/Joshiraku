@@ -44,7 +44,7 @@ Dialogue: 3,0:15:08.51,0:15:11.01,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\
 Dialogue: 4,0:15:08.51,0:15:11.01,Sign,,0,0,0,midcard,{\pos(900.2,517)\frz340\fnBrushType-SemiBold\fs59\b0\c&H000000&\blur0.7}Kukuru Anrakutei
 Dialogue: 0,0:02:08.15,0:02:11.49,Sign,,0,0,0,,{\fs30\pos(870.67,448)}White Pepper \NSalami
 Dialogue: 0,0:02:13.61,0:02:15.95,Sign,,0,0,0,,{\fs30\pos(398.67,329.33)}Sweet Beans
-Comment: 0,0:04:49.85,0:04:50.23,Sign,,0,0,0,,{\pos(869.33,193.33)}Missing TL
+Comment: 0,0:04:49.85,0:04:50.23,Sign,TL,0,0,0,,{\pos(869.33,193.33)}Missing TL
 Dialogue: 0,0:05:20.72,0:05:21.43,Sign,,0,0,0,,{\an7\blur1\pos(512.45,297.8)\p1\c&HDFE3E7&}m -85 126 l 0 -175 90 -153 10 160
 Dialogue: 1,0:05:20.72,0:05:21.43,Sign,,0,0,0,,{\pos(515.88,298.94)\frz346.7\fnArchitext\fs40\b0\c&H3032B8&\4a&HA0&\blur0.85}Japan{\fsp-5} {\fsp0}'{\fsp-9} {\fsp0}s \N\NBest
 Dialogue: 1,0:05:20.72,0:05:21.43,Sign,,0,0,0,,{\pos(515.88,298.94)\frz346.7\fnArchitext\fs40\b0\c&H3032B8&\4a&HA0&\blur0.85}Japan{\fsp-5} {\fsp0}'{\fsp-9} {\fsp0}s \N\NBest
@@ -52,7 +52,7 @@ Comment: 0,0:05:40.07,0:05:43.11,Sign,,0,0,0,,{\pos(102,57)\an7\fs40\4a&HA0&\bor
 Dialogue: 0,0:08:50.34,0:08:54.97,Sign,,0,0,0,,{\pos(512.008,275)\fs32}Trip Invitation Ticket
 Dialogue: 0,0:08:50.34,0:08:54.97,Sign,,0,0,0,,{\pos(517.125,325)\fs32}3 days and 2 nights in Yufuin
 Dialogue: 0,0:08:50.34,0:08:54.97,Sign,,0,0,0,,{\pos(516.477,376)\fs32}Hot Springs Vacation
-Comment: 0,0:08:50.34,0:08:54.97,Sign,,0,0,0,,{\fs32\pos(744.48,309.33)}Missing TL
+Comment: 0,0:08:50.34,0:08:54.97,Sign,TL,0,0,0,,{\fs32\pos(744.48,309.33)}Missing TL
 Dialogue: 0,0:09:19.16,0:09:20.87,Sign,,0,0,0,,{\fs120\pos(639,176)\c&H0B1214&}C {## How impossible would it be to mask all of these CAN signs? lol}
 Dialogue: 0,0:09:19.16,0:09:20.87,Sign,,0,0,0,,{\fs120\pos(639,361.33)\c&H0B1214&}A
 Dialogue: 0,0:09:19.16,0:09:20.87,Sign,,0,0,0,,{\fs120\pos(639,545.33)\c&H0B1214&}N
@@ -73,22 +73,69 @@ Dialogue: 0,0:13:12.35,0:13:21.07,Sign,,0,0,0,,{\fs30\pos(265.6,155.2)}ANIME CHA
 Comment: 0,0:13:37.21,0:13:38.96,Sign,,0,0,0,,{\pos(707.2,126.4)\c&H8E79FC&}Killer Khan's Gan! {## If we do this, I want to do the entire sign}
 Comment: 0,0:13:37.21,0:13:38.96,Sign,,0,0,0,,{\c&HE0634D&\pos(526.4,179.2)}Karaoke Pub
 Dialogue: 0,0:13:38.96,0:13:41.30,Sign,,0,0,0,,{\pos(640,112)\fs100\c&H5D5853&}Fuushin Hall
-Comment: 0,0:13:41.30,0:13:43.30,Sign,,0,0,0,,{\pos(372.8,206.4)}Missing TL {## There's a lot of missing TLs here. While I think it would be fun to TS as many as we can, it'd also kill our TSrs lol}
-Dialogue: 0,0:15:46.13,0:15:47.59,Sign,,0,0,0,,{\pos(637.969,177)\fs24}Hybrid ceramic crown        All-ceramic crown        Zirconium ceramic crown
-Dialogue: 0,0:15:46.13,0:15:47.59,Sign,,0,0,0,,{\pos(658.648,516)\fs24}80,000 yen                       100,000 yen                        150,000 yen
-Dialogue: 0,0:16:18.50,0:16:20.54,Sign,,0,0,0,,{\pos(637.891,124)}June 4th
-Dialogue: 0,0:16:18.50,0:16:20.54,Sign,,0,0,0,,{\pos(622.93,312)}Cavity Prevention Day
-Dialogue: 0,0:17:07.71,0:17:08.42,Sign,,0,0,0,,{\pos(635.125,117)}Che-brush-ka Dental
-Dialogue: 0,0:17:08.47,0:17:09.17,Sign,,0,0,0,,{\pos(655.391,81)}Axie Dental
-Dialogue: 0,0:17:09.22,0:17:09.93,Sign,,0,0,0,,{\pos(618.055,168)}Cohen C. Dental
-Dialogue: 0,0:17:09.97,0:17:10.30,Sign,,0,0,0,,{\pos(663.188,81)}Transen Dental
-Dialogue: 0,0:17:10.34,0:17:10.72,Sign,,0,0,0,,{\pos(651.313,218)}Oxy Dental
+Comment: 0,0:13:41.30,0:13:43.30,Sign,TL,0,0,0,,{\pos(372.8,206.4)}Missing TL {## There's a lot of missing TLs here. While I think it would be fun to TS as many as we can, it'd also kill our TSrs lol}
+Dialogue: 0,0:15:46.13,0:15:47.59,Sign,,0,0,0,,{\fs24\pos(427.31,216)\c&H000000&}Hybrid ceramic crown
+Dialogue: 0,0:15:46.13,0:15:47.59,Sign,,0,0,0,,{\fs24\pos(660.64,218.67)\c&H000000&}All-ceramic crown
+Dialogue: 0,0:15:46.13,0:15:47.59,Sign,,0,0,0,,{\fs24\pos(920.64,217.33)\c&H000000&}Zirconium ceramic crown
+Dialogue: 0,0:15:46.13,0:15:47.59,Sign,,0,0,0,,{\fs24\an7\pos(333.98,284)\c&H000000&}Durable but not \Noverly rigid, making it \Nkind to adjacent teeth.
+Dialogue: 0,0:15:46.13,0:15:47.59,Sign,,0,0,0,,{\fs24\pos(580,284)\an7\c&H000000&}Clean, white, \Nand stain-resistant.
+Dialogue: 0,0:15:46.13,0:15:47.59,Sign,,0,0,0,,{\fs24\an7\pos(810,284)\c&H000000&}Extremely sturdy and \Ndifficult to break. \NSuitable for most teeth.
+Dialogue: 0,0:15:46.13,0:15:47.59,Sign,,0,0,0,,{\fs30\pos(415.98,547)\c&H000000&}¥80,000
+Dialogue: 0,0:15:46.13,0:15:47.59,Sign,,0,0,0,,{\fs30\pos(654.65,547)\c&H000000&}¥100,000
+Dialogue: 0,0:15:46.13,0:15:47.59,Sign,,0,0,0,,{\fs30\pos(889.32,547)\c&H000000&}¥150,000
+Dialogue: 0,0:16:18.46,0:16:25.71,Sign,,0,0,0,,{\pos(637.891,124)}June 4th {## How insane would it be if we masked away the original here and redid the texture? :^)}
+Dialogue: 0,0:16:18.46,0:16:25.71,Sign,,0,0,0,,{\pos(622.93,312)}Cavity Prevention Day
+Dialogue: 0,0:17:07.67,0:17:08.42,Sign,,0,0,0,,{\pos(392.46,355.67)\c&H373235&}Che-brush-ka Dental
+Dialogue: 0,0:17:08.42,0:17:09.17,Sign,,0,0,0,,{\pos(626.06,33)}Axie Dental
+Dialogue: 0,0:17:09.17,0:17:09.93,Sign,,0,0,0,,{\pos(636.72,125.33)}Cohen C. Dental
+Dialogue: 0,0:17:09.93,0:17:10.30,Sign,,0,0,0,,{\pos(613.85,93)}Indepen Dental
+Dialogue: 0,0:17:10.30,0:17:10.72,Sign,,0,0,0,,{\pos(456.65,338)}Oxy Dental
+Comment: 0,0:17:10.30,0:17:10.72,Sign,TL,0,0,0,,{\pos(456.65,536.67)}Missing TL
+Comment: 0,0:17:10.30,0:17:10.72,Sign,TL,0,0,0,,{\pos(456.65,631.34)}Missing TL
+Comment: 0,0:17:10.30,0:17:10.72,Sign,TL,0,0,0,,{\pos(1072.65,508.67)}Missing TL
+Comment: 0,0:17:10.30,0:17:10.72,Sign,TL,0,0,0,,{\pos(900.65,607.34)}Missing TL
+Comment: 0,0:17:10.30,0:17:10.72,Sign,TL,0,0,0,,{\pos(1085.98,560.67)}Missing TL
+Dialogue: 0,0:17:10.72,0:17:11.05,Sign,,0,0,0,,{\pos(622.67,673.33)\c&H000000&}Evi Dental
+Dialogue: 0,0:17:11.05,0:17:11.30,Sign,,0,0,0,,{\pos(640,445.33)\fs96\c&HE5F8FD&\shad5\blur1\4c&H000000&\4a&H50&}Pru Dental
+Dialogue: 0,0:17:11.30,0:17:11.55,Sign,,0,0,0,,{\pos(640,53.33)}Prece Dental
+Dialogue: 0,0:17:28.44,0:17:38.91,Sign,,0,0,0,,{\c&H373235&\fs24\frz18.32\pos(245.79,313)}Che-brush-ka Dental
+Comment: 0,0:17:43.04,0:17:51.55,Sign,TL,0,0,0,,Missing TLs{## Fuck, we really need some super punny TLs for these lol}
 Dialogue: 0,0:18:41.56,0:18:42.56,Sign,,0,0,0,,{\pos(837.063,426)\fs32}Kukuru
 Dialogue: 0,0:18:41.56,0:18:46.27,Sign,,0,0,0,,{\pos(347.609,426)\fs32}Gankyou
 Dialogue: 0,0:18:41.56,0:18:47.40,Sign,,0,0,0,,{\pos(567.063,426)\fs32}Kigurumi
+Dialogue: 0,0:18:54.40,0:18:55.66,Sign,,0,0,0,,{\pos(640,92)}Bouhatei {## Double-check that the correct names are being used here}
+Dialogue: 0,0:18:55.66,0:18:56.32,Sign,,0,0,0,,{\pos(689.33,244)}Kukuru
+Dialogue: 0,0:18:55.66,0:18:56.32,Sign,,0,0,0,,{\pos(328,24)}Gankyou
+Dialogue: 0,0:18:55.66,0:18:56.32,Sign,,0,0,0,,{\pos(1026.67,90.67)}Kigurumi
+Dialogue: 0,0:18:56.32,0:18:59.28,Sign,,0,0,0,,{\pos(712,134.67)}Bouhatei
+Dialogue: 0,0:18:59.24,0:19:00.45,Sign,,0,0,0,,Buratei
+Dialogue: 0,0:19:02.25,0:19:04.08,Sign,,0,0,0,,{\fs20\pos(589.33,242.67)}Kigurumi
+Dialogue: 0,0:19:04.08,0:19:15.26,Sign,,0,0,0,,{\pos(640,170.67)}Kigurumi
+Dialogue: 0,0:19:04.08,0:19:15.26,Sign,,0,0,0,,{\pos(305.33,125.34)}Bouhatei
+Dialogue: 0,0:19:04.08,0:19:15.26,Sign,,0,0,0,,{\pos(1054.66,122.67)}Gankyou
+Dialogue: 0,0:19:16.39,0:19:17.26,Sign,,0,0,0,,Bouhatei
+Dialogue: 0,0:19:17.34,0:19:20.26,Sign,,0,0,0,,{\pos(702.67,536)\fs20}Bouhatei
+Dialogue: 0,0:19:20.26,0:19:22.72,Sign,,0,0,0,,{\pos(530.67,564)}Chiba
+Dialogue: 0,0:19:20.26,0:19:22.72,Sign,,0,0,0,,{\pos(733.34,564)}Saitama
+Dialogue: 0,0:19:20.26,0:19:22.72,Sign,,0,0,0,,{\pos(532.01,645.33)}Tokyo
+Dialogue: 0,0:19:20.26,0:19:22.72,Sign,,0,0,0,,{\pos(766.68,645.33)}Kanagawa
+Dialogue: 0,0:19:20.26,0:19:22.72,Sign,,0,0,0,,{\pos(994.68,645.33)}Shizuoka
+Dialogue: 0,0:19:22.72,0:19:32.07,Sign,,0,0,0,,{\pos(702.67,536)\fs20}Bouhatei
+Dialogue: 0,0:19:32.07,0:19:34.53,Sign,,0,0,0,,{\pos(530.67,564)}Chiba
+Dialogue: 0,0:19:32.07,0:19:34.53,Sign,,0,0,0,,{\pos(733.34,564)}Saitama
+Dialogue: 0,0:19:32.07,0:19:34.53,Sign,,0,0,0,,{\pos(532.01,645.33)}Tokyo
+Dialogue: 0,0:19:32.07,0:19:34.53,Sign,,0,0,0,,{\pos(766.68,645.33)}Kanagawa
+Dialogue: 0,0:19:32.07,0:19:34.53,Sign,,0,0,0,,{\pos(994.68,645.33)}Shizuoka
+Dialogue: 0,0:19:52.63,0:19:55.17,Sign,,0,0,0,,Buratei
+Dialogue: 0,0:20:03.81,0:20:04.56,Sign,,0,0,0,,{\pos(1200,82.67)}Buratei
+Dialogue: 0,0:20:07.89,0:20:08.65,Sign,,0,0,0,,{\pos(376,182.67)}Buratei
+Dialogue: 0,0:20:09.52,0:20:10.73,Sign,,0,0,0,,Buratei
 Dialogue: 0,0:20:16.19,0:20:17.90,Sign,,0,0,0,,{\pos(714.508,81)}Colds
 Dialogue: 0,0:20:16.19,0:20:17.90,Sign,,0,0,0,,{\pos(642.859,434)}Painkillers
 Comment: 0,0:20:16.19,0:20:17.90,Sign,TL,0,0,0,,{\pos(100,260.29)}Missing TL
 Comment: 0,0:20:16.19,0:20:17.90,Sign,TL,0,0,0,,{\pos(149.14,677.43)}Missing TL
-Dialogue: 0,0:20:59.07,0:21:01.82,Sign,,0,0,0,,{\pos(665.547,84.508)\fs55}Remedication
+Comment: 0,0:20:17.90,0:20:23.79,Sign,TL,0,0,0,,{\pos(345.33,472)}Missing TLs
+Comment: 0,0:20:26.58,0:20:33.13,Sign,TL,0,0,0,,{\pos(345.33,472)}Missing TLs
+Dialogue: 0,0:20:59.07,0:21:01.87,Sign,,0,0,0,,{\pos(665.547,84.508)\fs55}Remedication
+Comment: 0,0:21:43.53,0:21:46.33,Sign,,0,0,0,,{\pos(1082.67,566.67)}Missing TL
 Dialogue: 0,0:22:01.68,0:22:03.09,Sign,,0,0,0,,{\pos(509.72,641)}Dereliction of Duty
