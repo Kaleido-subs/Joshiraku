@@ -16,26 +16,43 @@ Audio File: JoshirakuBD_08 (Premux).mkv
 Video File: JoshirakuBD_08 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.882813
-Scroll Position: 70
-Active Line: 72
-Video Position: 17521
+Video Zoom Percent: 0.632813
+Scroll Position: 16
+Active Line: 22
+Video Position: 5997
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,133,133,37,1
 Style: Calander,Bougan Book SSi,60,&H003B444A,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Stamp,Fx勘亭流江戸文字,80,&H0003086B,&H000000FF,&H0003086B,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: New Year Card,Alpha54,40,&H00141B1F,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:44.08,0:01:46.09,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
 Dialogue: 1,0:01:44.08,0:01:46.09,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Bag of Gold
-Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,TO DO,{\pos(1036,57)\an7\fs48}Y*Su
-Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,TO DO,{\pos(102,266)\an7\fs48}Koji K*m*ta
+Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,TO DO,{\an7\fs48\c&H000000&\pos(1100.95,17.44)}Y*Su
+Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,TO DO,{\an7\fs48\c&H000000&\pos(315.861,23.89)}Koji K*m*ta
 Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\fsp-6.9\c&H1856D9&\blur1\iclip(m 601 720 b 602 686 604 661 607 612 b 610 560 614 499 618 439 b 620 403 623 367 625 345 b 630 298 632 264 635 231 b 637 210 639 190 641 170 b 647 141 652 111 659 85 b 669 54 679 24 694 0 l 1299 -22 l 1290 733)\fscx2011\fscy2126\pos(411.53,348.415)}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs85\fnbrush-tipTerrence trial\c&HF3FAFE&\an7\iclip(m 601 720 b 602 686 604 661 607 612 b 610 560 614 499 618 439 b 620 403 623 367 625 345 b 630 298 632 264 635 231 b 637 210 639 190 641 170 b 647 141 652 111 659 85 b 669 54 679 24 694 0 l 1299 -22 l 1290 733)\pos(24.586,58.955)}Live long, live long and prosper. \NMay great wealth await you wherever you go, be it on unknown soil or under foreign skies. May you always have your daily bread. Like the long{\fnAirstream ITC\b0}-{\fnbrush-tipTerrence trial\b1}lived king of Shuringan and his dear wife, Gurindai, and their children, Ponpokoki
-Dialogue: 0,0:04:08.31,0:04:10.15,Sign,,0,0,0,TO DO,{\pos(645,498)\fs32\c&H22282B&}New Years' Money
+Dialogue: 0,0:04:08.51,0:04:08.56,New Year Card,,0,0,0,,{=75}{\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(639.72,696.24)}New Years' Money
+Dialogue: 0,0:04:08.56,0:04:08.60,New Year Card,,0,0,0,,{=75}{\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(639.72,640.87)}New Years' Money
+Dialogue: 0,0:04:08.60,0:04:08.64,New Year Card,,0,0,0,,{=75}{\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(639.72,593.41)}New Years' Money
+Dialogue: 0,0:04:08.64,0:04:08.68,New Year Card,,0,0,0,,{=75}{\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(639.72,555.67)}New Years' Money
+Dialogue: 0,0:04:08.68,0:04:08.72,New Year Card,,0,0,0,,{=75}{\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(639.72,530.15)}New Years' Money
+Dialogue: 0,0:04:08.72,0:04:09.06,New Year Card,,0,0,0,,{=75}{\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(639.71,520.46)}New Years' Money
+Dialogue: 0,0:04:09.06,0:04:09.10,New Year Card,,0,0,0,,{=75}{\frz0\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(639.71,520.46)}New Years' Money
+Dialogue: 0,0:04:09.10,0:04:09.14,New Year Card,,0,0,0,,{=75}{\frz-3.82\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(671.6,525.68)}New Years' Money
+Dialogue: 0,0:04:09.14,0:04:09.18,New Year Card,,0,0,0,,{=75}{\frz-3.83\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(671.58,525.68)}New Years' Money
+Dialogue: 0,0:04:09.18,0:04:09.22,New Year Card,,0,0,0,,{=75}{\frz-7.66\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(698.82,533.86)}New Years' Money
+Dialogue: 0,0:04:09.22,0:04:09.27,New Year Card,,0,0,0,,{=75}{\frz-7.66\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(698.82,533.85)}New Years' Money
+Dialogue: 0,0:04:09.27,0:04:09.31,New Year Card,,0,0,0,,{=75}{\frz-14.22\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(761.6,552.84)}New Years' Money
+Dialogue: 0,0:04:09.31,0:04:09.35,New Year Card,,0,0,0,,{=75}{\frz-14.22\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(761.58,552.83)}New Years' Money
+Dialogue: 0,0:04:09.35,0:04:09.39,New Year Card,,0,0,0,,{=75}{\frz-18.01\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(791.97,568.26)}New Years' Money
+Dialogue: 0,0:04:09.39,0:04:09.43,New Year Card,,0,0,0,,{=75}{\frz-18.01\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(791.96,568.25)}New Years' Money
+Dialogue: 0,0:04:09.43,0:04:09.52,New Year Card,,0,0,0,,{=75}{\frz-20.42\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(812.64,580.56)}New Years' Money
+Dialogue: 0,0:04:09.52,0:04:10.14,New Year Card,,0,0,0,,{=75}{\frz-22.85\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(833.2,593.28)}New Years' Money
 Dialogue: 0,0:04:12.36,0:04:13.86,Sign,,0,0,0,TO DO,{\pos(640,376)\fs16\c&H22282B&}New Years' Money
 Dialogue: 0,0:04:13.86,0:04:17.57,Sign,,0,0,0,TO DO,{\pos(649,702)\frz180\fs3\c&H22282B&}New Year's Money
 Dialogue: 0,0:04:35.42,0:04:36.51,Sign,,0,0,0,TO DO,{\pos(640,429.33)\fs32\c&H22282B&}New Years' Money
@@ -85,8 +102,12 @@ Dialogue: 0,0:04:54.64,0:04:54.81,Sign,,0,0,0,,{=5}{\alpha&H00&\c&H010A10&\blur0
 Comment: 0,0:05:14.00,0:05:16.67,Sign,,0,0,0,,{\pos(834,550)\frz19.24}Missing TL
 Dialogue: 0,0:05:25.30,0:05:29.73,Sign,,0,0,0,TO DO,{\pos(640,376)\fs20\c&H22282B&}New Years' Money
 Dialogue: 0,0:06:02.05,0:06:03.80,Sign,,0,0,0,TO DO,{\pos(782.67,465.33)\fs20\c&H22282B&}New Years' Money
-Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,TO DO,{\fs24\pos(661.897,313.037)}Central Japan Railway Company
-Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,TO DO,{\fs32\pos(660.581,355.899)}1 Share Certificate
+Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(655.688,282.874)\p1\c&HD9E2E3&}m -100 4 l 113 4 113 27 -100 27
+Dialogue: 1,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\blur1\fs20\c&H121819&\pos(656.484,296.6)}Central Japan Railway Company
+Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(656.68,355.336)\p1\c&HDBE7E8&}m -80 -40 l -39 -40 -39 -7 -80 -7
+Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HDBE7E8&\pos(721.225,357.978)}m -80 -40 l -39 -40 -39 -7 -80 -7
+Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HDBE7E8&\pos(782.051,355.336)}m -80 -40 l -39 -40 -39 -7 -80 -7
+Dialogue: 1,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\blur1\fs24\c&H343B3D&\pos(653.784,335.075)}1 Share Certificate
 Dialogue: 0,0:07:04.95,0:07:10.62,Sign,,0,0,0,TO DO,New Year's Money
 Dialogue: 0,0:10:10.51,0:10:13.01,Sign,,0,0,0,midcard,{\frz355.1\fnBrushStroke 35\fs62\fsp-2\b0\c&H000000&\blur0.8\pos(824.38,483.83)}Rakugo Girls
 Dialogue: 0,0:10:10.51,0:10:13.01,Sign,,0,0,0,midcard,{\frz355.1\fnBrushStroke 35\fs62\fsp-2\b0\c&H000000&\blur0.8\pos(824.38,483.83)}Rakugo Girls
@@ -97,10 +118,21 @@ Dialogue: 1,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\
 Dialogue: 2,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\fscx74.6\fscy60\p1\c&H000000&\pos(614.265,548.408)}m -302 -92 l 328 -92 328 86 -302 86
 Dialogue: 3,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\fscx73.4\fscy54\p1\c&HFFFFFF&\pos(614.265,548.408)}m -300 -92 l 326 -92 326 86 -300 86
 Dialogue: 4,0:11:16.20,0:11:17.16,Sign,,0,0,0,,{\fscx80\fscy80\fnBrushType-SemiBold\fs99\b0\c&H000000&\blur0.9\pos(623.229,552.077)}Mongolian Blue Spot
-Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,TO DO,{\pos(640,126.4)}Sugamon's Buttocks
+Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H422D26&\fs30\fnBolide\pos(1191.47,189.559)}Sugamon's 
+Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H422D26&\fs28\fnBolide\pos(1169.371,216.025)}Buttocks
+Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H896A48&\fs30\fnBolide\pos(55.602,155.21)\frz358.1}Sugamon's 
+Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H896A48&\fs28\fnBolide\pos(147.168,180.952)\frz358.2}Buttocks
+Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&HC6AFB0&\fs28\fnBolide\pos(587.173,43.027)}S{\c&HC2ABAC&}u{\c&HBDA7A8&}g{\c&HB9A2A4&}a{\c&HB59EA0&}m{\c&HB19A9C&}o{\c&HAC9698&}n{\c&HA89194&}'{\c&HA48D90&}s{\c&HA0898C&}{\c&H9B8588&} 
+Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H978184&\fs28\fnBolide\pos(680.307,47.956)}B{\c&H937C80&}u{\c&H8E787C&}t{\c&H8A7478&}t{\c&H867074&}o{\c&H826B70&}c{\c&H7D676C&}k{\c&H796368&}s
 Dialogue: 0,0:11:27.04,0:11:31.25,Sign,,0,0,0,,{\blur1\fs62\c&H070501&\fnArtificeSSK\pos(906.666,641.334)\b0}Mt. Fuji
 Comment: 0,0:11:31.25,0:11:38.84,Sign,,0,0,0,,{\pos(712,272)}Mt. Fuji
-Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,TO DO,{\an7\fs63\pos(298.714,90.143)}LAMPREY
+Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,,{\blur1\an7\fnBlack Metal Sans\fs33\c&H746650&\pos(217.51,9.164)}L
+Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,,{\blur1\an7\fnBlack Metal Sans\fs33\c&H746650&\pos(218.958,30.848)}a
+Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,,{\blur1\an7\fnBlack Metal Sans\fs33\c&H746650&\pos(218.958,48.913)}m
+Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,,{\blur1\an7\fnBlack Metal Sans\fs33\c&H746650&\pos(222.293,66.954)}p
+Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,,{\blur1\an7\fnBlack Metal Sans\fs33\c&H746650&\pos(222.293,88.793)}r
+Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,,{\blur1\an7\fnBlack Metal Sans\fs33\c&H746650&\pos(222.578,103.219)}e
+Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,,{\blur1\an7\fnBlack Metal Sans\fs33\c&H746650&\pos(223.434,117.645)}y
 Dialogue: 0,0:12:10.75,0:12:11.79,Sign,,0,0,0,,{\blur0.8\fnBlack Metal Sans\an7\fs80\bord3.5\3c&HEAF0EE&\c&HEAF0EE&\fsp3\pos(694.743,451.429)\b0}Nine-eyed Eel
 Dialogue: 1,0:12:10.75,0:12:11.79,Sign,,0,0,0,,{\blur0.8\fnBlack Metal Sans\an7\fs80\c&H3FA1FA&\bord0\4a&HFF&\fsp3\pos(694.743,451.429)\b0}Nine-eyed Eel
 Dialogue: 0,0:12:21.38,0:12:24.06,Sign,,0,0,0,,{\blur1\fsp3\fax0.35\fs68\c&H14110D&\fnNewt Serif\b0\frz342.7\pos(490.572,652.714)}Carp
@@ -245,7 +277,7 @@ Dialogue: 1,0:16:28.84,0:16:31.80,Calander,,0,0,0,,{\blur0.8\fs35\pos(642.8,547.
 Dialogue: 0,0:18:16.53,0:18:19.99,Sign,,0,0,0,,{\blur0.8\c&H1A2021&\fnBliss Pro\pos(670.468,44.529)}Kukuru's Ups and Downs by Month
 Dialogue: 0,0:18:16.53,0:18:19.99,Sign,,0,0,0,,{\fs32\blur0.8\c&H1A2021&\fnBliss Pro\pos(83.801,120.529)}Highs
 Dialogue: 0,0:18:16.53,0:18:19.99,Sign,,0,0,0,,{\fs32\blur0.8\c&H1A2021&\fnBliss Pro\pos(83.801,597.863)}Lows
-Dialogue: 0,0:20:03.14,0:20:05.98,Sign,TLC/Edit,0,0,0,TO DO,{\pos(494.667,422.667)}I grasped your hot arm \NYou came out, shaking \NTrembling slightly in your white gown \NAnd I saw your prolonged sadness \NIn the long corridor \NWhere you're walking towards the ring \NYou suddenly stopped for no reason \NYou turned around to face me awkwardly \NShowing your fists and smiling a bit lonely \NEventually the ring and the maelstrom of applause swallowed a single man \N(You're the king of Kings) \NStand! \NRise back to your feet again! \NLight up the flames of life! {## Song is "Champion" by Alice. Lyrics are taken from Judas' Sora no Otoshimono release and very, very mildly edited. Further editing would probably be a good idea.}
+Dialogue: 0,0:20:03.14,0:20:05.98,Sign,TLC/Edit,0,0,0,TO DO,{\pos(752.763,367.018)}I grasped your hot arm You came out, shaking Trembling slightly in your white gown And I saw your prolonged sadness In the long corridor Where you're walking towards the ring You suddenly stopped for no reason You turned around to face me awkwardly Showing your fists and smiling a bit lonely Eventually the ring and the maelstrom of applause swallowed a single man (You're the king of Kings) Stand! Rise back to your feet again! Light up the flames of life! {## Song is "Champion" by Alice. Lyrics are taken from Judas' Sora no Otoshimono release and very, very mildly edited. Further editing would probably be a good idea.}
 Dialogue: 2,0:20:10.27,0:20:10.31,Stamp,,0,0,0,,{=13}{\fscx368.49\fscy368.49\alpha&H00&\blur2.95\an7\pos(-1915.92,-1199.11)}{\1c&H18196D&\p1}m 972.95 314.05 b 969.12 313.88 967.84 311.57 966.36 309.61 946.81 283.69 927.28 257.75 907.74 231.82 900.43 222.11 893.1 212.41 885.81 202.69 881.62 197.11 881.84 195.62 887.47 191.37 959.76 136.79 1032.05 82.22 1104.34 27.65 1109.92 23.43 1115.49 19.2 1121.08 15 1126.97 10.57 1128.4 10.76 1132.79 16.58 1157.54 49.42 1182.28 82.27 1207.03 115.12 1209.24 118.05 1211.47 120.95 1213.65 123.9 1217.21 128.72 1216.98 130.48 1212.11 134.17 1190.6 150.45 1169.06 166.69 1147.54 182.94 1090.92 225.67 1034.31 268.4 977.69 311.13 975.99 312.41 974.46 314.08 972.95 314.05 m 972.21 308.96 b 1052.07 248.67 1131.4 188.78 1210.95 128.72 1182.78 91.35 1154.8 54.23 1126.77 17.04 1046.87 77.36 967.49 137.29 888.03 197.28 916.3 234.78 944.15 271.73 972.21 308.96{\p0}
 Dialogue: 2,0:20:10.31,0:20:10.35,Stamp,,0,0,0,,{=13}{\fscx242.7\fscy242.7\alpha&H00&\blur1.94\an7\pos(-1052.68,-667.26)}{\1c&H18196D&\p1}m 972.95 314.05 b 969.12 313.88 967.84 311.57 966.36 309.61 946.81 283.69 927.28 257.75 907.74 231.82 900.43 222.11 893.1 212.41 885.81 202.69 881.62 197.11 881.84 195.62 887.47 191.37 959.76 136.79 1032.05 82.22 1104.34 27.65 1109.92 23.43 1115.49 19.2 1121.08 15 1126.97 10.57 1128.4 10.76 1132.79 16.58 1157.54 49.42 1182.28 82.27 1207.03 115.12 1209.24 118.05 1211.47 120.95 1213.65 123.9 1217.21 128.72 1216.98 130.48 1212.11 134.17 1190.6 150.45 1169.06 166.69 1147.54 182.94 1090.92 225.67 1034.31 268.4 977.69 311.13 975.99 312.41 974.46 314.08 972.95 314.05 m 972.21 308.96 b 1052.07 248.67 1131.4 188.78 1210.95 128.72 1182.78 91.35 1154.8 54.23 1126.77 17.04 1046.87 77.36 967.49 137.29 888.03 197.28 916.3 234.78 944.15 271.73 972.21 308.96{\p0}
 Dialogue: 2,0:20:10.35,0:20:10.39,Stamp,,0,0,0,,{=13}{\fscx178.8\fscy178.8\alpha&H00&\blur1.43\an7\pos(-608.03,-399.34)}{\1c&H18196D&\p1}m 972.95 314.05 b 969.12 313.88 967.84 311.57 966.36 309.61 946.81 283.69 927.28 257.75 907.74 231.82 900.43 222.11 893.1 212.41 885.81 202.69 881.62 197.11 881.84 195.62 887.47 191.37 959.76 136.79 1032.05 82.22 1104.34 27.65 1109.92 23.43 1115.49 19.2 1121.08 15 1126.97 10.57 1128.4 10.76 1132.79 16.58 1157.54 49.42 1182.28 82.27 1207.03 115.12 1209.24 118.05 1211.47 120.95 1213.65 123.9 1217.21 128.72 1216.98 130.48 1212.11 134.17 1190.6 150.45 1169.06 166.69 1147.54 182.94 1090.92 225.67 1034.31 268.4 977.69 311.13 975.99 312.41 974.46 314.08 972.95 314.05 m 972.21 308.96 b 1052.07 248.67 1131.4 188.78 1210.95 128.72 1182.78 91.35 1154.8 54.23 1126.77 17.04 1046.87 77.36 967.49 137.29 888.03 197.28 916.3 234.78 944.15 271.73 972.21 308.96{\p0}
@@ -735,3 +767,4 @@ Data: 71,a-mo,e{"uuid"#3A"6fcfb7c0-a79e-4157-b55f-fb4721d97a72"#2C"originalText"
 Data: 72,a-mo,e{"uuid"#3A"575d24de-275b-451b-9f69-0cdfa006357a"#2C"originalText"#3A"{\\blur0.9\\c&HF5FEFE&\\fnAgeo Personal Use Heavy\\pos(115.247#2C39.675)}NOV"}
 Data: 73,a-mo,e{"uuid"#3A"f84696d8-2107-4408-a5d7-5ed8ec141397"#2C"originalText"#3A"{\\pos(317.34#2C568.33)\\blur0.9\\c&HF6FEFC&\\fnAgeo Personal Use Heavy}Christmas"}
 Data: 74,a-mo,e{"uuid"#3A"07f5a5a3-df18-4885-9c33-9a37a8e0aa13"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(1086.461#2C323.89)}DEC"}
+Data: 75,a-mo,e{"uuid"#3A"cf5063f5-5966-4b7a-8326-e71bb3e38c56"#2C"originalText"#3A"{\\blur1\\c&H22282B&\\fnAlpha54\\pos(639.711#2C520.459)}New Years' Money"}
