@@ -16,10 +16,10 @@ Audio File: JoshirakuBD_08 (Premux).mkv
 Video File: JoshirakuBD_08 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.757813
-Scroll Position: 304
-Active Line: 309
-Video Position: 30021
+Video Zoom Percent: 0.882813
+Scroll Position: 70
+Active Line: 72
+Video Position: 17521
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +34,7 @@ Dialogue: 1,0:01:44.08,0:01:46.09,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro S
 Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,TO DO,{\pos(1036,57)\an7\fs48}Y*Su
 Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,TO DO,{\pos(102,266)\an7\fs48}Koji K*m*ta
 Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\fsp-6.9\c&H1856D9&\blur1\iclip(m 601 720 b 602 686 604 661 607 612 b 610 560 614 499 618 439 b 620 403 623 367 625 345 b 630 298 632 264 635 231 b 637 210 639 190 641 170 b 647 141 652 111 659 85 b 669 54 679 24 694 0 l 1299 -22 l 1290 733)\fscx2011\fscy2126\pos(411.53,348.415)}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs85\fnbrush-tipTerrence trial\c&HF3FAFE&\an7\iclip(m 601 720 b 602 686 604 661 607 612 b 610 560 614 499 618 439 b 620 403 623 367 625 345 b 630 298 632 264 635 231 b 637 210 639 190 641 170 b 647 141 652 111 659 85 b 669 54 679 24 694 0 l 1299 -22 l 1290 733)\pos(24.586,58.955)}Live long, live long and prosper. \NMay great wealth await you wherever you go, be it on unknown soil or under foreign skies. May you always have your daily bread. Like the long{\fnAirstream ITC}-{\fnbrush-tipTerrence trial}lived king of Shuringan and his dear wife, Gurindai, and their children, Ponpokoki
+Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\blur1\fs85\fnbrush-tipTerrence trial\c&HF3FAFE&\an7\iclip(m 601 720 b 602 686 604 661 607 612 b 610 560 614 499 618 439 b 620 403 623 367 625 345 b 630 298 632 264 635 231 b 637 210 639 190 641 170 b 647 141 652 111 659 85 b 669 54 679 24 694 0 l 1299 -22 l 1290 733)\pos(24.586,58.955)}Live long, live long and prosper. \NMay great wealth await you wherever you go, be it on unknown soil or under foreign skies. May you always have your daily bread. Like the long{\fnAirstream ITC\b0}-{\fnbrush-tipTerrence trial\b1}lived king of Shuringan and his dear wife, Gurindai, and their children, Ponpokoki
 Dialogue: 0,0:04:08.31,0:04:10.15,Sign,,0,0,0,TO DO,{\pos(645,498)\fs32\c&H22282B&}New Years' Money
 Dialogue: 0,0:04:12.36,0:04:13.86,Sign,,0,0,0,TO DO,{\pos(640,376)\fs16\c&H22282B&}New Years' Money
 Dialogue: 0,0:04:13.86,0:04:17.57,Sign,,0,0,0,TO DO,{\pos(649,702)\frz180\fs3\c&H22282B&}New Year's Money
@@ -85,40 +85,146 @@ Dialogue: 0,0:04:54.64,0:04:54.81,Sign,,0,0,0,,{=5}{\alpha&H00&\c&H010A10&\blur0
 Comment: 0,0:05:14.00,0:05:16.67,Sign,,0,0,0,,{\pos(834,550)\frz19.24}Missing TL
 Dialogue: 0,0:05:25.30,0:05:29.73,Sign,,0,0,0,TO DO,{\pos(640,376)\fs20\c&H22282B&}New Years' Money
 Dialogue: 0,0:06:02.05,0:06:03.80,Sign,,0,0,0,TO DO,{\pos(782.67,465.33)\fs20\c&H22282B&}New Years' Money
-Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,TO DO,{\pos(640,298)\fs24}Central Japan Railway Company
-Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,TO DO,{\pos(640,334)\fs32}1 Share Certificate
+Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,TO DO,{\fs24\pos(661.897,313.037)}Central Japan Railway Company
+Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,TO DO,{\fs32\pos(660.581,355.899)}1 Share Certificate
 Dialogue: 0,0:07:04.95,0:07:10.62,Sign,,0,0,0,TO DO,New Year's Money
 Dialogue: 0,0:10:10.51,0:10:13.01,Sign,,0,0,0,midcard,{\frz355.1\fnBrushStroke 35\fs62\fsp-2\b0\c&H000000&\blur0.8\pos(824.38,483.83)}Rakugo Girls
 Dialogue: 0,0:10:10.51,0:10:13.01,Sign,,0,0,0,midcard,{\frz355.1\fnBrushStroke 35\fs62\fsp-2\b0\c&H000000&\blur0.8\pos(824.38,483.83)}Rakugo Girls
 Dialogue: 0,0:10:46.13,0:10:48.13,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
 Dialogue: 1,0:10:46.13,0:10:48.13,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Unsteady
-Dialogue: 0,0:11:16.20,0:11:17.16,Sign,,0,0,0,TO DO,{\pos(179,280)\an7\fs48}Mongolian
-Dialogue: 0,0:11:16.20,0:11:17.16,Sign,,0,0,0,TO DO,{\pos(179,331)\an7\fs48}Blue Spot
+Dialogue: 0,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\fscx80\fscy80\c&H010000&\p1\pos(614.265,548.408)}m -302 -92 l 328 -92 328 86 -302 86
+Dialogue: 1,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\fscx77\fscy70\c&HFFFFFF&\p1\pos(614.265,548.408)}m -302 -92 l 328 -92 328 86 -302 86
+Dialogue: 2,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\fscx74.6\fscy60\p1\c&H000000&\pos(614.265,548.408)}m -302 -92 l 328 -92 328 86 -302 86
+Dialogue: 3,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\fscx73.4\fscy54\p1\c&HFFFFFF&\pos(614.265,548.408)}m -300 -92 l 326 -92 326 86 -300 86
+Dialogue: 4,0:11:16.20,0:11:17.16,Sign,,0,0,0,,{\fscx80\fscy80\fnBrushType-SemiBold\fs99\b0\c&H000000&\blur0.9\pos(623.229,552.077)}Mongolian Blue Spot
 Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,TO DO,{\pos(640,126.4)}Sugamon's Buttocks
-Dialogue: 0,0:11:27.04,0:11:31.25,Sign,,0,0,0,,{\blur1\fs62\c&H070501&\fnArtificeSSK\pos(906.666,641.334)}Mt. Fuji
+Dialogue: 0,0:11:27.04,0:11:31.25,Sign,,0,0,0,,{\blur1\fs62\c&H070501&\fnArtificeSSK\pos(906.666,641.334)\b0}Mt. Fuji
 Comment: 0,0:11:31.25,0:11:38.84,Sign,,0,0,0,,{\pos(712,272)}Mt. Fuji
 Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,TO DO,{\an7\fs63\pos(298.714,90.143)}LAMPREY
-Dialogue: 0,0:12:10.75,0:12:11.79,Sign,,0,0,0,,{\blur0.8\fnBlack Metal Sans\an7\fs80\bord3.5\3c&HEAF0EE&\c&HEAF0EE&\fsp3\pos(694.743,451.429)}Nine-eyed Eel
-Dialogue: 1,0:12:10.75,0:12:11.79,Sign,,0,0,0,,{\blur0.8\fnBlack Metal Sans\an7\fs80\c&H3FA1FA&\bord0\4a&HFF&\fsp3\pos(694.743,451.429)}Nine-eyed Eel
-Dialogue: 0,0:12:21.43,0:12:24.06,Sign,,0,0,0,,{\blur1\fsp3\fax0.35\fs68\c&H14110D&\fnNewt Serif\b0\frz342.7\pos(490.572,652.714)}Carp
-Dialogue: 1,0:12:21.43,0:12:24.06,Sign,,0,0,0,,{\blur1.2\fsp3\fax0.35\fs68\c&H14110D&\fnNewt Serif\b0\frz342.7\pos(490.572,652.714)}Carp
+Dialogue: 0,0:12:10.75,0:12:11.79,Sign,,0,0,0,,{\blur0.8\fnBlack Metal Sans\an7\fs80\bord3.5\3c&HEAF0EE&\c&HEAF0EE&\fsp3\pos(694.743,451.429)\b0}Nine-eyed Eel
+Dialogue: 1,0:12:10.75,0:12:11.79,Sign,,0,0,0,,{\blur0.8\fnBlack Metal Sans\an7\fs80\c&H3FA1FA&\bord0\4a&HFF&\fsp3\pos(694.743,451.429)\b0}Nine-eyed Eel
+Dialogue: 0,0:12:21.38,0:12:24.06,Sign,,0,0,0,,{\blur1\fsp3\fax0.35\fs68\c&H14110D&\fnNewt Serif\b0\frz342.7\pos(490.572,652.714)}Carp
+Dialogue: 1,0:12:21.38,0:12:24.06,Sign,,0,0,0,,{\blur1.2\fsp3\fax0.35\fs68\c&H14110D&\fnNewt Serif\b0\frz342.7\pos(490.572,652.714)}Carp
 Dialogue: 0,0:12:29.27,0:12:30.48,Sign,,0,0,0,,{\blur1\fs108\c&HE0F3EF&\fsp4\fnaugie\pos(648.762,115.476)}Locust
-Dialogue: 0,0:12:33.07,0:12:33.98,Sign,,0,0,0,,{\blur1\fsp3\fs78\c&H0856EC&\fnA Year Without Rain\b1\pos(599.429,658.857)}Bee larva
-Dialogue: 0,0:12:39.99,0:12:41.82,Sign,,0,0,0,,{\blur1\fs70\c&H265738&\fnEager Naturalist\pos(646,444.572)}Caddisfly Larva
+Dialogue: 0,0:12:33.07,0:12:34.02,Sign,,0,0,0,,{\blur1\fsp3\fs78\c&H0856EC&\fnA Year Without Rain\b0\pos(599.429,658.857)}Bee larva
+Dialogue: 0,0:12:33.07,0:12:34.02,Sign,,0,0,0,,{\blur1\fsp3\fs78\c&H0856EC&\fnA Year Without Rain\b0\pos(599.429,658.857)}Bee larva
+Dialogue: 0,0:12:39.99,0:12:41.86,Sign,,0,0,0,,{\blur1\fs70\c&H265738&\fnEager Naturalist\pos(646,444.572)}Caddisfly Larva
 Comment: 0,0:12:51.33,0:12:53.67,Sign,Skip?,0,0,0,,{\pos(792,563.2)}Kintarou Candy
 Comment: 0,0:12:51.33,0:12:53.67,Sign,Skip?,0,0,0,,{\pos(792,651.2)}Missing TL
 Comment: 0,0:12:51.33,0:12:53.67,Sign,Skip?,0,0,0,,{\pos(1088,505.6)}Missing TL
-Dialogue: 0,0:13:10.98,0:13:13.69,Sign,,0,0,0,TO DO,{\pos(664,226)\fs32}Kougan Temple
-Dialogue: 0,0:13:21.57,0:13:22.95,Sign,TLC,0,0,0,,{\blur0.8\fsp2.5\c&H11100E&\fnAgnesa Kyoto\frz334.8\pos(873.142,402.742)}Charm
-Dialogue: 0,0:13:21.57,0:13:22.95,Sign,TLC,0,0,0,,{\blur0.8\fsp1\c&H11100E&\fnBetterize\pos(769.6,572.8)\frz333}Tokyo Sugamo
-Dialogue: 0,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\blur0.6\fsp1\bord3\3c&HEAEAE8&\c&HEAEAE8&\fnNyala\pos(1061.744,417.686)}Thornpuller Jizo
-Dialogue: 1,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\blur0.6\fsp1\bord0\c&H0E0D0E&\fnNyala\pos(1061.744,417.686)\4a&HFF&}Thornpuller Jizo
-Dialogue: 0,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\fs40\an7\blur0.6\fsp1\bord3\3c&HEAEAE8&\c&HEAEAE8&\fnNyala\pos(42.316,32.542)}The shrine is built around an image of Jizo Bosatsu\N (also known as Longevity Jizo). \NIn accordance with Buddhist tradition, \Nthe image is kept hidden from public view.
-Dialogue: 1,0:13:36.17,0:13:38.80,Sign,,0,0,0,,{\fs40\an7\blur0.6\fsp1\bord0\c&H0E0D0E&\fnNyala\pos(42.316,32.542)\4a&HFF&}The shrine is built around an image of Jizo Bosatsu\N (also known as Longevity Jizo). \NIn accordance with Buddhist tradition, \Nthe image is kept hidden from public view.
-Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,TO DO,{\pos(928,468.8)\fs20}The Statute Books {## I've gotta think of a not-shit edit for this}
+Dialogue: 0,0:13:10.93,0:13:13.69,Sign,,0,0,0,TO DO,{\fs32\pos(652.612,181.036)}Kougan Temple
+Dialogue: 0,0:13:21.57,0:13:22.95,Sign,TLC,0,0,0,,{\blur1\fsp2.5\c&H11100E&\fnAgnesa Kyoto\frz334.8\pos(873.142,402.742)\b0}Charm
+Dialogue: 0,0:13:21.57,0:13:22.95,Sign,TLC,0,0,0,,{\blur1\fsp1\c&H11100E&\fnBetterize\pos(769.6,572.8)\frz333\b0}Tokyo Sugamo
+Dialogue: 0,0:13:36.12,0:13:38.80,Sign,,0,0,0,,{\blur0.6\fsp1\bord3\3c&HEAEAE8&\c&HEAEAE8&\fnNyala\pos(1061.744,417.686)}Thornpuller Jizo
+Dialogue: 1,0:13:36.12,0:13:38.80,Sign,,0,0,0,,{\blur0.6\fsp1\bord0\c&H0E0D0E&\fnNyala\pos(1061.744,417.686)\4a&HFF&}Thornpuller Jizo
+Dialogue: 0,0:13:36.12,0:13:38.80,Sign,,0,0,0,,{\fs40\an7\blur0.6\fsp1\bord3\3c&HEAEAE8&\c&HEAEAE8&\fnNyala\pos(42.316,32.542)}The shrine is built around an image of Jizo Bosatsu\N (also known as Longevity Jizo). \NIn accordance with Buddhist tradition, \Nthe image is kept hidden from public view.
+Dialogue: 1,0:13:36.12,0:13:38.80,Sign,,0,0,0,,{\fs40\an7\blur0.6\fsp1\bord0\c&H0E0D0E&\fnNyala\pos(42.316,32.542)\4a&HFF&}The shrine is built around an image of Jizo Bosatsu\N (also known as Longevity Jizo). \NIn accordance with Buddhist tradition, \Nthe image is kept hidden from public view.
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA4C1CF&\clip(893,372,957,373)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA4C1CF&\clip(893,373,957,374)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA4C1CF&\clip(893,374,957,375)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA4C1CF&\clip(893,375,957,376)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA3C1CF&\clip(893,376,957,377)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA3C0CE&\clip(893,377,957,378)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA3C0CE&\clip(893,378,957,379)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA3C0CE&\clip(893,379,957,380)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA3C0CE&\clip(893,380,957,381)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA3C0CE&\clip(893,381,957,382)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA3C0CE&\clip(893,382,957,383)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA2C0CE&\clip(893,383,957,384)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA2C0CE&\clip(893,384,957,385)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA2BFCE&\clip(893,385,957,386)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA2BFCD&\clip(893,386,957,387)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA2BFCD&\clip(893,387,957,388)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA2BFCD&\clip(893,388,957,389)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA2BFCD&\clip(893,389,957,390)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA2BFCD&\clip(893,390,957,391)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA1BFCD&\clip(893,391,957,392)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA1BFCD&\clip(893,392,957,393)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA1BFCD&\clip(893,393,957,394)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA1BECD&\clip(893,394,957,395)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA1BECC&\clip(893,395,957,396)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA1BECC&\clip(893,396,957,397)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA1BECC&\clip(893,397,957,398)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA0BECC&\clip(893,398,957,399)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA0BECC&\clip(893,399,957,400)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA0BECC&\clip(893,400,957,401)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA0BECC&\clip(893,401,957,402)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA0BDCC&\clip(893,402,957,403)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA0BDCC&\clip(893,403,957,404)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&HA0BDCC&\clip(893,404,957,405)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9FBDCB&\clip(893,405,957,406)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9FBDCB&\clip(893,406,957,407)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9FBDCB&\clip(893,407,957,408)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9FBDCB&\clip(893,408,957,409)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9FBDCB&\clip(893,409,957,410)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9FBCCB&\clip(893,410,957,411)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9FBCCB&\clip(893,411,957,412)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9EBCCB&\clip(893,412,957,413)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9EBCCB&\clip(893,413,957,414)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9EBCCA&\clip(893,414,957,415)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9EBCCA&\clip(893,415,957,416)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9EBCCA&\clip(893,416,957,417)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9EBCCA&\clip(893,417,957,418)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9EBCCA&\clip(893,418,957,419)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9DBBCA&\clip(893,419,957,420)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9DBBCA&\clip(893,420,957,421)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9DBBCA&\clip(893,421,957,422)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9DBBCA&\clip(893,422,957,423)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9DBBC9&\clip(893,423,957,424)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9DBBC9&\clip(893,424,957,425)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9DBBC9&\clip(893,425,957,426)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9DBBC9&\clip(893,426,957,427)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9CBAC9&\clip(893,427,957,428)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9CBAC9&\clip(893,428,957,429)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9CBAC9&\clip(893,429,957,430)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9CBAC9&\clip(893,430,957,431)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9CBAC9&\clip(893,431,957,432)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9CBAC8&\clip(893,432,957,433)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9CBAC8&\clip(893,433,957,434)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9BBAC8&\clip(893,434,957,435)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9BBAC8&\clip(893,435,957,436)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9BB9C8&\clip(893,436,957,437)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9BB9C8&\clip(893,437,957,438)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9BB9C8&\clip(893,438,957,439)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9BB9C8&\clip(893,439,957,440)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9BB9C8&\clip(893,440,957,441)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9AB9C7&\clip(893,441,957,442)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9AB9C7&\clip(893,442,957,443)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9AB9C7&\clip(893,443,957,444)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9AB8C7&\clip(893,444,957,445)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9AB8C7&\clip(893,445,957,446)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9AB8C7&\clip(893,446,957,447)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H9AB8C7&\clip(893,447,957,448)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H99B8C7&\clip(893,448,957,449)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H99B8C7&\clip(893,449,957,450)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H99B8C7&\clip(893,450,957,451)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H99B8C6&\clip(893,451,957,452)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H99B7C6&\clip(893,452,957,453)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H99B7C6&\clip(893,453,957,454)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H99B7C6&\clip(893,454,957,455)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H98B7C6&\clip(893,455,957,456)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H98B7C6&\clip(893,456,957,457)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H98B7C6&\clip(893,457,957,458)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H98B7C6&\clip(893,458,957,459)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H98B7C6&\clip(893,459,957,460)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H98B7C5&\clip(893,460,957,461)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H98B6C5&\clip(893,461,957,462)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H98B6C5&\clip(893,462,957,463)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H97B6C5&\clip(893,463,957,464)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H97B6C5&\clip(893,464,957,465)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H97B6C5&\clip(893,465,957,466)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H97B6C5&\clip(893,466,957,467)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H97B6C5&\clip(893,467,957,468)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H97B6C5&\clip(893,468,957,469)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H97B5C4&\clip(893,469,957,470)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H96B5C4&\clip(893,470,957,471)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H96B5C4&\clip(893,471,957,472)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H96B5C4&\clip(893,472,957,473)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 0,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(925.045,427.183)\p1\c&H96B5C4&\clip(893,473,957,474)}m -23 -52 l 11 -54 15 30 -15 34 -15 -22
+Dialogue: 1,0:14:32.35,0:14:33.56,Sign,TLC/Edit,0,0,0,,{\blur1\fs20\c&H6D7B86&\fnSylfaen\frz0.5608\pos(925.045,427.183)}The \NStatute \NBooks {## I've gotta think of a not-shit edit for this}
 Comment: 0,0:14:52.25,0:14:54.21,Sign,TL,0,0,0,,{\pos(714.29,169.6)}Missing TL
-Dialogue: 0,0:14:52.25,0:14:54.21,Sign,,0,0,0,TO DO,{\pos(749.49,408)}Turtle and Ginseng
-Dialogue: 0,0:14:52.25,0:14:54.21,Sign,,0,0,0,TO DO,{\pos(745.13,591.4)}Mukian
+Dialogue: 0,0:14:52.25,0:14:54.21,Sign,,0,0,0,TO DO,{\pos(719.077,406.679)}Turtle and Ginseng
+Dialogue: 0,0:14:52.25,0:14:54.21,Sign,,0,0,0,TO DO,{\pos(741.163,615.18)}Mukian
 Dialogue: 0,0:15:47.72,0:15:51.43,Sign,TLC,0,0,0,TO DO,{\pos(444.8,440)}Jizodori Shopping Street
 Dialogue: 0,0:15:47.72,0:15:51.43,Sign,,0,0,0,TO DO,{\pos(444.8,600)}Thornpuller hall entrance
 Dialogue: 0,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\an7\blur0.6\bord0\shad0\fscx80\fscy80\c&H010000&\p1\frz348.8\pos(1109.27,239.8)}m -168 -46 l 182 -46 182 43 -168 43
@@ -133,12 +239,12 @@ Dialogue: 1,0:16:08.16,0:16:10.16,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro S
 Dialogue: 0,0:16:28.84,0:16:31.80,Calander,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(734,188)\p1\c&HEDF5FB&}m -149 -12 l -42 -12 -42 39 -149 39
 Dialogue: 1,0:16:28.84,0:16:31.80,Calander,,0,0,0,,{\blur0.8\pos(642.8,202.4)}April
 Dialogue: 0,0:16:28.84,0:16:31.80,Calander,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HEDF5FB&}m 597 453 l 678 453 678 520 597 520
-Dialogue: 1,0:16:28.84,0:16:31.80,Calander,,0,0,0,,{\blur0.8\pos(642.8,487.644)}Monday
+Dialogue: 1,0:16:28.84,0:16:31.80,Calander,,0,0,0,,{\blur0.8\pos(642.8,487.644)}Mon
 Dialogue: 0,0:16:28.84,0:16:31.80,Calander,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HEDF5FB&}m 563 531 l 714 531 714 571 563 571
 Dialogue: 1,0:16:28.84,0:16:31.80,Calander,,0,0,0,,{\blur0.8\fs35\pos(642.8,547.733)}Very Lucky Day
-Dialogue: 0,0:18:16.53,0:18:19.99,Sign,,0,0,0,,{\blur0.6\c&H1A2021&\fnBliss Pro\pos(670.468,44.529)}Kukuru's Ups and Downs by Month
-Dialogue: 0,0:18:16.53,0:18:19.99,Sign,,0,0,0,,{\fs32\blur0.6\c&H1A2021&\fnBliss Pro\pos(83.801,120.529)}Highs
-Dialogue: 0,0:18:16.53,0:18:19.99,Sign,,0,0,0,,{\fs32\blur0.6\c&H1A2021&\fnBliss Pro\pos(83.801,597.863)}Lows
+Dialogue: 0,0:18:16.53,0:18:19.99,Sign,,0,0,0,,{\blur0.8\c&H1A2021&\fnBliss Pro\pos(670.468,44.529)}Kukuru's Ups and Downs by Month
+Dialogue: 0,0:18:16.53,0:18:19.99,Sign,,0,0,0,,{\fs32\blur0.8\c&H1A2021&\fnBliss Pro\pos(83.801,120.529)}Highs
+Dialogue: 0,0:18:16.53,0:18:19.99,Sign,,0,0,0,,{\fs32\blur0.8\c&H1A2021&\fnBliss Pro\pos(83.801,597.863)}Lows
 Dialogue: 0,0:20:03.14,0:20:05.98,Sign,TLC/Edit,0,0,0,TO DO,{\pos(494.667,422.667)}I grasped your hot arm \NYou came out, shaking \NTrembling slightly in your white gown \NAnd I saw your prolonged sadness \NIn the long corridor \NWhere you're walking towards the ring \NYou suddenly stopped for no reason \NYou turned around to face me awkwardly \NShowing your fists and smiling a bit lonely \NEventually the ring and the maelstrom of applause swallowed a single man \N(You're the king of Kings) \NStand! \NRise back to your feet again! \NLight up the flames of life! {## Song is "Champion" by Alice. Lyrics are taken from Judas' Sora no Otoshimono release and very, very mildly edited. Further editing would probably be a good idea.}
 Dialogue: 2,0:20:10.27,0:20:10.31,Stamp,,0,0,0,,{=13}{\fscx368.49\fscy368.49\alpha&H00&\blur2.95\an7\pos(-1915.92,-1199.11)}{\1c&H18196D&\p1}m 972.95 314.05 b 969.12 313.88 967.84 311.57 966.36 309.61 946.81 283.69 927.28 257.75 907.74 231.82 900.43 222.11 893.1 212.41 885.81 202.69 881.62 197.11 881.84 195.62 887.47 191.37 959.76 136.79 1032.05 82.22 1104.34 27.65 1109.92 23.43 1115.49 19.2 1121.08 15 1126.97 10.57 1128.4 10.76 1132.79 16.58 1157.54 49.42 1182.28 82.27 1207.03 115.12 1209.24 118.05 1211.47 120.95 1213.65 123.9 1217.21 128.72 1216.98 130.48 1212.11 134.17 1190.6 150.45 1169.06 166.69 1147.54 182.94 1090.92 225.67 1034.31 268.4 977.69 311.13 975.99 312.41 974.46 314.08 972.95 314.05 m 972.21 308.96 b 1052.07 248.67 1131.4 188.78 1210.95 128.72 1182.78 91.35 1154.8 54.23 1126.77 17.04 1046.87 77.36 967.49 137.29 888.03 197.28 916.3 234.78 944.15 271.73 972.21 308.96{\p0}
 Dialogue: 2,0:20:10.31,0:20:10.35,Stamp,,0,0,0,,{=13}{\fscx242.7\fscy242.7\alpha&H00&\blur1.94\an7\pos(-1052.68,-667.26)}{\1c&H18196D&\p1}m 972.95 314.05 b 969.12 313.88 967.84 311.57 966.36 309.61 946.81 283.69 927.28 257.75 907.74 231.82 900.43 222.11 893.1 212.41 885.81 202.69 881.62 197.11 881.84 195.62 887.47 191.37 959.76 136.79 1032.05 82.22 1104.34 27.65 1109.92 23.43 1115.49 19.2 1121.08 15 1126.97 10.57 1128.4 10.76 1132.79 16.58 1157.54 49.42 1182.28 82.27 1207.03 115.12 1209.24 118.05 1211.47 120.95 1213.65 123.9 1217.21 128.72 1216.98 130.48 1212.11 134.17 1190.6 150.45 1169.06 166.69 1147.54 182.94 1090.92 225.67 1034.31 268.4 977.69 311.13 975.99 312.41 974.46 314.08 972.95 314.05 m 972.21 308.96 b 1052.07 248.67 1131.4 188.78 1210.95 128.72 1182.78 91.35 1154.8 54.23 1126.77 17.04 1046.87 77.36 967.49 137.29 888.03 197.28 916.3 234.78 944.15 271.73 972.21 308.96{\p0}
@@ -165,7 +271,7 @@ Dialogue: 2,0:20:10.64,0:20:10.68,Stamp,,0,0,0,,{=12}{\alpha&H00&\blur0.8\fscx10
 Dialogue: 2,0:20:10.68,0:20:10.73,Stamp,,0,0,0,,{=12}{\alpha&H00&\blur0.8\fscx100\fscy100\frz37.54\pos(989.3,92.4)}DECIDED
 Dialogue: 2,0:20:10.73,0:20:10.77,Stamp,,0,0,0,,{=12}{\alpha&H00&\blur0.8\fscx100\fscy100\frz37.54\pos(989.29,92.4)}DECIDED
 Dialogue: 2,0:20:10.77,0:20:10.93,Stamp,,0,0,0,,{=12}{\alpha&H00&\blur0.8\fscx100\fscy100\frz37.54\pos(989.3,92.4)}DECIDED
-Dialogue: 0,0:20:10.94,0:20:12.77,Sign,,0,0,0,TO DO,{\pos(319.648,254)}June Blues
+Dialogue: 0,0:20:10.94,0:20:12.81,Sign,,0,0,0,TO DO,{\pos(319.648,254)}June Blues
 Dialogue: 2,0:20:40.51,0:20:40.55,Stamp,,0,0,0,,{=17}{\fscx328.59\fscy328.59\alpha&H00&\blur2.96\an7\frz4.766\pos(-3384.48,-433.72)}{\1c&H18196D&\p1}m 972.95 314.05 b 969.12 313.88 967.84 311.57 966.36 309.61 946.81 283.69 927.28 257.75 907.74 231.82 900.43 222.11 893.1 212.41 885.81 202.69 881.62 197.11 881.84 195.62 887.47 191.37 959.76 136.79 1032.05 82.22 1104.34 27.65 1109.92 23.43 1115.49 19.2 1121.08 15 1126.97 10.57 1128.4 10.76 1132.79 16.58 1157.54 49.42 1182.28 82.27 1207.03 115.12 1209.24 118.05 1211.47 120.95 1213.65 123.9 1217.21 128.72 1216.98 130.48 1212.11 134.17 1190.6 150.45 1169.06 166.69 1147.54 182.94 1090.92 225.67 1034.31 268.4 977.69 311.13 975.99 312.41 974.46 314.08 972.95 314.05 m 972.21 308.96 b 1052.07 248.67 1131.4 188.78 1210.95 128.72 1182.78 91.35 1154.8 54.23 1126.77 17.04 1046.87 77.36 967.49 137.29 888.03 197.28 916.3 234.78 944.15 271.73 972.21 308.96{\p0}
 Dialogue: 2,0:20:40.55,0:20:40.59,Stamp,,0,0,0,,{=17}{\fscx212.48\fscy212.48\alpha&H00&\blur1.91\an7\frz4.766\pos(-1972.1,-147.52)}{\1c&H18196D&\p1}m 972.95 314.05 b 969.12 313.88 967.84 311.57 966.36 309.61 946.81 283.69 927.28 257.75 907.74 231.82 900.43 222.11 893.1 212.41 885.81 202.69 881.62 197.11 881.84 195.62 887.47 191.37 959.76 136.79 1032.05 82.22 1104.34 27.65 1109.92 23.43 1115.49 19.2 1121.08 15 1126.97 10.57 1128.4 10.76 1132.79 16.58 1157.54 49.42 1182.28 82.27 1207.03 115.12 1209.24 118.05 1211.47 120.95 1213.65 123.9 1217.21 128.72 1216.98 130.48 1212.11 134.17 1190.6 150.45 1169.06 166.69 1147.54 182.94 1090.92 225.67 1034.31 268.4 977.69 311.13 975.99 312.41 974.46 314.08 972.95 314.05 m 972.21 308.96 b 1052.07 248.67 1131.4 188.78 1210.95 128.72 1182.78 91.35 1154.8 54.23 1126.77 17.04 1046.87 77.36 967.49 137.29 888.03 197.28 916.3 234.78 944.15 271.73 972.21 308.96{\p0}
 Dialogue: 2,0:20:40.59,0:20:40.63,Stamp,,0,0,0,,{=17}{\fscx154.44\fscy154.44\alpha&H00&\blur1.39\an7\frz4.766\pos(-1258.41,-8.93)}{\1c&H18196D&\p1}m 972.95 314.05 b 969.12 313.88 967.84 311.57 966.36 309.61 946.81 283.69 927.28 257.75 907.74 231.82 900.43 222.11 893.1 212.41 885.81 202.69 881.62 197.11 881.84 195.62 887.47 191.37 959.76 136.79 1032.05 82.22 1104.34 27.65 1109.92 23.43 1115.49 19.2 1121.08 15 1126.97 10.57 1128.4 10.76 1132.79 16.58 1157.54 49.42 1182.28 82.27 1207.03 115.12 1209.24 118.05 1211.47 120.95 1213.65 123.9 1217.21 128.72 1216.98 130.48 1212.11 134.17 1190.6 150.45 1169.06 166.69 1147.54 182.94 1090.92 225.67 1034.31 268.4 977.69 311.13 975.99 312.41 974.46 314.08 972.95 314.05 m 972.21 308.96 b 1052.07 248.67 1131.4 188.78 1210.95 128.72 1182.78 91.35 1154.8 54.23 1126.77 17.04 1046.87 77.36 967.49 137.29 888.03 197.28 916.3 234.78 944.15 271.73 972.21 308.96{\p0}
@@ -338,23 +444,247 @@ Dialogue: 0,0:20:52.27,0:20:52.31,Sign,,0,0,0,,{=38}{\alpha&H00&\pos(912.89,558.
 Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{=38}{\alpha&H00&\pos(1057.23,558.66)\blur0.9\c&HF6FEFD&\fnAgeo Personal Use Heavy}School Trips
 Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{=38}{\alpha&H00&\pos(1191.1,558.67)\blur0.9\c&HF6FEFD&\fnAgeo Personal Use Heavy}School Trips
 Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{=38}{\alpha&H00&\pos(1307.39,558.67)\blur0.9\c&HF6FEFD&\fnAgeo Personal Use Heavy}School Trips
-Dialogue: 0,0:20:52.10,0:20:52.60,Sign,,0,0,0,TO DO,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(432.224,156.41)}Mountains
-Dialogue: 0,0:20:52.10,0:20:52.60,Sign,,0,0,0,TO DO,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1135.425,210.918)}JUL
-Dialogue: 0,0:20:52.10,0:20:52.60,Sign,,0,0,0,TO DO,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(144.399,505.505)}AUG
-Dialogue: 0,0:20:52.10,0:20:52.60,Sign,,0,0,0,TO DO,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(856.996,557.386)}Ocean
-Dialogue: 0,0:20:52.60,0:20:53.22,Sign,,0,0,0,TO DO,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(432.224,156.41)}Mountains
-Dialogue: 0,0:20:52.60,0:20:53.22,Sign,,0,0,0,TO DO,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1135.425,210.918)}JUL
-Dialogue: 0,0:20:52.60,0:20:53.22,Sign,,0,0,0,TO DO,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(144.399,505.505)}AUG
-Dialogue: 0,0:20:52.60,0:20:53.22,Sign,,0,0,0,TO DO,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(856.996,557.386)}Ocean
-Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,TO DO,{\pos(108.29,233.33)\blur0.9\c&H000506&\fnAgeo Personal Use Heavy}NOV
-Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,TO DO,{\pos(702.95,233.34)\blur0.9\c&H000506&\fnAgeo Personal Use Heavy}OCT
-Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,TO DO,{\pos(213.98,571)\blur0.9\c&H000506&\fnAgeo Personal Use Heavy}Baked potatoes
-Dialogue: 0,0:20:54.15,0:20:55.53,Sign,,0,0,0,TO DO,{\pos(1035.31,569.67)\blur0.9\c&H000506&\fnAgeo Personal Use Heavy}Halloween
-Dialogue: 0,0:20:55.78,0:20:57.40,Sign,,0,0,0,TO DO,{\pos(1086.461,312)\blur0.9\c&H000506&\fnAgeo Personal Use Heavy}DEC
-Dialogue: 0,0:20:55.78,0:20:57.40,Sign,,0,0,0,TO DO,{\pos(317.34,568.33)\blur0.9\c&H000506&\fnAgeo Personal Use Heavy}Christmas
-Dialogue: 0,0:21:59.84,0:22:01.84,Sign,,0,0,0,TO DO,{\an7\fs48\pos(601,175.33)}May
-Dialogue: 0,0:21:59.84,0:22:01.84,Sign,,0,0,0,TO DO,{\an7\fs32\pos(614,465.67)}Mon
-Dialogue: 0,0:21:59.84,0:22:01.84,Sign,,0,0,0,TO DO,{\an7\fs32\pos(537,529.33)}Very Unlucky Day
+Dialogue: 0,0:20:52.10,0:20:52.14,Sign,,0,0,0,,{=53}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-678.24,156.41)}Mountains
+Dialogue: 0,0:20:52.14,0:20:52.18,Sign,,0,0,0,,{=53}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-561.93,156.41)}Mountains
+Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{=53}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-428.06,156.42)}Mountains
+Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{=53}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-283.72,156.41)}Mountains
+Dialogue: 0,0:20:52.27,0:20:52.31,Sign,,0,0,0,,{=53}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-135.86,156.41)}Mountains
+Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{=53}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(8.48,156.41)}Mountains
+Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{=53}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(142.37,156.4)}Mountains
+Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{=53}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(258.64,156.41)}Mountains
+Dialogue: 0,0:20:52.43,0:20:52.48,Sign,,0,0,0,,{=53}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(350.41,156.41)}Mountains
+Dialogue: 0,0:20:52.48,0:20:52.52,Sign,,0,0,0,,{=53}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(410.58,156.41)}Mountains
+Dialogue: 0,0:20:52.52,0:20:52.60,Sign,,0,0,0,,{=53}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(432.22,156.41)}Mountains
+Dialogue: 0,0:20:52.10,0:20:52.14,Sign,,0,0,0,,{=52}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(24.96,210.92)}JUL
+Dialogue: 0,0:20:52.14,0:20:52.18,Sign,,0,0,0,,{=52}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(141.27,210.92)}JUL
+Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{=52}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(275.14,210.92)}JUL
+Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{=52}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(419.49,210.92)}JUL
+Dialogue: 0,0:20:52.27,0:20:52.31,Sign,,0,0,0,,{=52}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(567.34,210.92)}JUL
+Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{=52}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(711.68,210.92)}JUL
+Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{=52}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(845.57,210.91)}JUL
+Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{=52}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(961.84,210.92)}JUL
+Dialogue: 0,0:20:52.43,0:20:52.48,Sign,,0,0,0,,{=52}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1053.62,210.92)}JUL
+Dialogue: 0,0:20:52.48,0:20:52.52,Sign,,0,0,0,,{=52}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1113.78,210.92)}JUL
+Dialogue: 0,0:20:52.52,0:20:52.60,Sign,,0,0,0,,{=52}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1135.43,210.92)}JUL
+Dialogue: 0,0:20:52.10,0:20:52.14,Sign,,0,0,0,,{=51}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-966.06,505.5)}AUG
+Dialogue: 0,0:20:52.14,0:20:52.18,Sign,,0,0,0,,{=51}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-849.76,505.51)}AUG
+Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{=51}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-715.89,505.51)}AUG
+Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{=51}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-571.54,505.51)}AUG
+Dialogue: 0,0:20:52.27,0:20:52.31,Sign,,0,0,0,,{=51}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-423.69,505.5)}AUG
+Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{=51}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-279.34,505.5)}AUG
+Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{=51}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-145.46,505.5)}AUG
+Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{=51}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-29.19,505.51)}AUG
+Dialogue: 0,0:20:52.43,0:20:52.48,Sign,,0,0,0,,{=51}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(62.59,505.51)}AUG
+Dialogue: 0,0:20:52.48,0:20:52.52,Sign,,0,0,0,,{=51}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(122.76,505.51)}AUG
+Dialogue: 0,0:20:52.52,0:20:52.60,Sign,,0,0,0,,{=51}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(144.4,505.51)}AUG
+Dialogue: 0,0:20:52.10,0:20:52.14,Sign,,0,0,0,,{=50}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-253.46,557.39)}Ocean
+Dialogue: 0,0:20:52.14,0:20:52.18,Sign,,0,0,0,,{=50}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-137.16,557.39)}Ocean
+Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{=50}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-3.29,557.39)}Ocean
+Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{=50}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(141.06,557.39)}Ocean
+Dialogue: 0,0:20:52.27,0:20:52.31,Sign,,0,0,0,,{=50}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(288.91,557.38)}Ocean
+Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{=50}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(433.26,557.39)}Ocean
+Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{=50}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(567.14,557.38)}Ocean
+Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{=50}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(683.41,557.39)}Ocean
+Dialogue: 0,0:20:52.43,0:20:52.48,Sign,,0,0,0,,{=50}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(775.19,557.39)}Ocean
+Dialogue: 0,0:20:52.48,0:20:52.52,Sign,,0,0,0,,{=50}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(835.36,557.39)}Ocean
+Dialogue: 0,0:20:52.52,0:20:52.60,Sign,,0,0,0,,{=50}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(857,557.39)}Ocean
+Dialogue: 0,0:20:52.60,0:20:53.73,Sign,,0,0,0,,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(432.224,156.41)}Mountains
+Dialogue: 0,0:20:52.60,0:20:53.73,Sign,,0,0,0,,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1135.425,210.918)}JUL
+Dialogue: 0,0:20:52.60,0:20:53.73,Sign,,0,0,0,,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(144.399,505.505)}AUG
+Dialogue: 0,0:20:52.60,0:20:53.73,Sign,,0,0,0,,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(856.996,557.386)}Ocean
+Dialogue: 0,0:20:53.73,0:20:53.77,Sign,,0,0,0,,{=57}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(432.22,156.41)}Mountains
+Dialogue: 0,0:20:53.77,0:20:53.81,Sign,,0,0,0,,{=57}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(453.85,156.41)}Mountains
+Dialogue: 0,0:20:53.81,0:20:53.85,Sign,,0,0,0,,{=57}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(514,156.41)}Mountains
+Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{=57}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(605.77,156.41)}Mountains
+Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{=57}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(722.07,156.41)}Mountains
+Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{=57}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(855.98,156.41)}Mountains
+Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{=57}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1000.27,156.41)}Mountains
+Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{=57}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1148.19,156.41)}Mountains
+Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{=57}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1292.47,156.41)}Mountains
+Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{=57}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1426.37,156.41)}Mountains
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=57}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1542.63,156.41)}Mountains
+Dialogue: 0,0:20:53.73,0:20:53.77,Sign,,0,0,0,,{=56}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1135.42,210.92)}JUL
+Dialogue: 0,0:20:53.77,0:20:53.81,Sign,,0,0,0,,{=56}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1157.05,210.92)}JUL
+Dialogue: 0,0:20:53.81,0:20:53.85,Sign,,0,0,0,,{=56}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1217.2,210.92)}JUL
+Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{=56}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1308.97,210.92)}JUL
+Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{=56}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1425.28,210.92)}JUL
+Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{=56}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1559.18,210.92)}JUL
+Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{=56}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1703.47,210.92)}JUL
+Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{=56}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1851.39,210.91)}JUL
+Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{=56}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1995.67,210.92)}JUL
+Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{=56}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(2129.57,210.92)}JUL
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=56}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(2245.84,210.92)}JUL
+Dialogue: 0,0:20:53.73,0:20:53.77,Sign,,0,0,0,,{=55}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(144.4,505.51)}AUG
+Dialogue: 0,0:20:53.77,0:20:53.81,Sign,,0,0,0,,{=55}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(166.02,505.51)}AUG
+Dialogue: 0,0:20:53.81,0:20:53.85,Sign,,0,0,0,,{=55}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(226.17,505.51)}AUG
+Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{=55}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(317.94,505.51)}AUG
+Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{=55}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(434.25,505.5)}AUG
+Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{=55}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(568.15,505.5)}AUG
+Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{=55}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(712.44,505.5)}AUG
+Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{=55}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(860.36,505.5)}AUG
+Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{=55}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1004.65,505.5)}AUG
+Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{=55}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1138.55,505.51)}AUG
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=55}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1254.81,505.51)}AUG
+Dialogue: 0,0:20:53.73,0:20:53.77,Sign,,0,0,0,,{=54}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(857,557.39)}Ocean
+Dialogue: 0,0:20:53.77,0:20:53.81,Sign,,0,0,0,,{=54}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(878.62,557.39)}Ocean
+Dialogue: 0,0:20:53.81,0:20:53.85,Sign,,0,0,0,,{=54}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(938.77,557.39)}Ocean
+Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{=54}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1030.54,557.39)}Ocean
+Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{=54}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1146.85,557.39)}Ocean
+Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{=54}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1280.75,557.38)}Ocean
+Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{=54}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1425.04,557.38)}Ocean
+Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{=54}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1572.96,557.38)}Ocean
+Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{=54}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1717.25,557.39)}Ocean
+Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{=54}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1851.15,557.39)}Ocean
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=54}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1967.41,557.39)}Ocean
+Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{=67}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-995.17,39.67)}NOV
+Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{=67}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-878.88,39.67)}NOV
+Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{=67}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-744.98,39.67)}NOV
+Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{=67}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-600.68,39.67)}NOV
+Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{=67}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-452.77,39.67)}NOV
+Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{=67}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-308.48,39.68)}NOV
+Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{=67}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-174.58,39.66)}NOV
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=67}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-58.32,39.66)}NOV
+Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{=67}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(33.46,39.66)}NOV
+Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{=67}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(93.7,39.67)}NOV
+Dialogue: 0,0:20:54.27,0:20:54.31,Sign,,0,0,0,,{=67}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(115.25,39.67)}NOV
+Dialogue: 0,0:20:54.31,0:20:54.35,Sign,,0,0,0,,{=67}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(115.25,39.68)}NOV
+Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{=66}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-407.47,42.66)}OCT
+Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{=66}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-291.17,42.65)}OCT
+Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{=66}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-157.28,42.65)}OCT
+Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{=66}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-12.98,42.65)}OCT
+Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{=66}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(134.93,42.65)}OCT
+Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{=66}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(279.22,42.67)}OCT
+Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{=66}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(413.13,42.65)}OCT
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=66}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(529.38,42.65)}OCT
+Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{=66}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(621.16,42.65)}OCT
+Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{=66}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(681.4,42.65)}OCT
+Dialogue: 0,0:20:54.27,0:20:54.35,Sign,,0,0,0,,{=66}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(702.95,42.66)}OCT
+Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{=65}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-994.82,525.14)}Baked
+Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{=65}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-878.53,525.14)}Baked
+Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{=65}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-744.63,525.14)}Baked
+Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{=65}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-600.33,525.14)}Baked
+Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{=65}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-452.42,525.14)}Baked
+Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{=65}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-308.13,525.15)}Baked
+Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{=65}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-174.23,525.14)}Baked
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=65}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-57.97,525.14)}Baked
+Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{=65}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(33.81,525.14)}Baked
+Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{=65}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(94.05,525.14)}Baked
+Dialogue: 0,0:20:54.27,0:20:54.35,Sign,,0,0,0,,{=65}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(115.6,525.15)}Baked
+Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{=64}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-994.82,566.19)}potatoes
+Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{=64}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-878.53,566.19)}potatoes
+Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{=64}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-744.63,566.19)}potatoes
+Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{=64}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-600.33,566.19)}potatoes
+Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{=64}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-452.42,566.19)}potatoes
+Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{=64}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-308.13,566.2)}potatoes
+Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{=64}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-174.23,566.19)}potatoes
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=64}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(-57.98,566.19)}potatoes
+Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{=64}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(33.81,566.19)}potatoes
+Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{=64}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(94.04,566.19)}potatoes
+Dialogue: 0,0:20:54.27,0:20:54.35,Sign,,0,0,0,,{=64}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(115.6,566.2)}potatoes
+Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{=63}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-154.61,696.78)}Halloween
+Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{=63}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(-38.32,696.78)}Halloween
+Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{=63}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(95.58,696.78)}Halloween
+Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{=63}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(239.88,696.78)}Halloween
+Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{=63}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(387.79,696.78)}Halloween
+Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{=63}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(532.08,696.79)}Halloween
+Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{=63}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(665.98,696.77)}Halloween
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=63}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(782.24,696.78)}Halloween
+Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{=63}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(874.02,696.78)}Halloween
+Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{=63}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(934.26,696.78)}Halloween
+Dialogue: 0,0:20:54.27,0:20:54.35,Sign,,0,0,0,,{=63}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(955.81,696.79)}Halloween
+Dialogue: 0,0:20:54.35,0:20:55.48,Sign,,0,0,0,,{\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(115.247,39.675)}NOV
+Dialogue: 0,0:20:54.35,0:20:55.48,Sign,,0,0,0,,{\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(702.95,42.664)}OCT
+Dialogue: 0,0:20:54.35,0:20:55.48,Sign,,0,0,0,,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(115.595,525.152)}Baked
+Dialogue: 0,0:20:54.35,0:20:55.48,Sign,,0,0,0,,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(115.595,566.2)}potatoes
+Dialogue: 0,0:20:54.35,0:20:55.48,Sign,,0,0,0,,{\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(955.807,696.787)}Halloween
+Dialogue: 0,0:20:55.48,0:20:55.52,Sign,,0,0,0,,{=72}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(115.25,39.67)}NOV
+Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{=72}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(136.88,39.68)}NOV
+Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{=72}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(197.05,39.67)}NOV
+Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{=72}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(288.82,39.67)}NOV
+Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{=72}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(405.12,39.68)}NOV
+Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{=72}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(538.99,39.68)}NOV
+Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{=72}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(683.3,39.68)}NOV
+Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{=72}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(831.2,39.67)}NOV
+Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{=72}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(975.53,39.67)}NOV
+Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{=72}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1109.43,39.67)}NOV
+Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{=72}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1225.67,39.67)}NOV
+Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{=72}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1317.44,39.66)}NOV
+Dialogue: 0,0:20:55.48,0:20:55.52,Sign,,0,0,0,,{=71}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(702.95,42.66)}OCT
+Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{=71}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(724.58,42.67)}OCT
+Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{=71}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(784.75,42.66)}OCT
+Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{=71}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(876.52,42.66)}OCT
+Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{=71}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(992.83,42.66)}OCT
+Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{=71}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1126.69,42.67)}OCT
+Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{=71}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1271,42.67)}OCT
+Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{=71}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1418.9,42.66)}OCT
+Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{=71}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1563.23,42.66)}OCT
+Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{=71}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1697.13,42.66)}OCT
+Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{=71}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1813.37,42.65)}OCT
+Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{=71}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1905.14,42.65)}OCT
+Dialogue: 0,0:20:55.48,0:20:55.52,Sign,,0,0,0,,{=70}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(115.6,525.15)}Baked
+Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{=70}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(137.23,525.16)}Baked
+Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{=70}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(197.4,525.15)}Baked
+Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{=70}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(289.17,525.15)}Baked
+Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{=70}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(405.47,525.15)}Baked
+Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{=70}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(539.33,525.15)}Baked
+Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{=70}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(683.65,525.16)}Baked
+Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{=70}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(831.54,525.15)}Baked
+Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{=70}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(975.87,525.15)}Baked
+Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{=70}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1109.78,525.14)}Baked
+Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{=70}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1226.02,525.14)}Baked
+Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{=70}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1317.79,525.14)}Baked
+Dialogue: 0,0:20:55.48,0:20:55.52,Sign,,0,0,0,,{=69}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(115.6,566.2)}potatoes
+Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{=69}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(137.23,566.21)}potatoes
+Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{=69}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(197.4,566.2)}potatoes
+Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{=69}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(289.17,566.2)}potatoes
+Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{=69}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(405.47,566.2)}potatoes
+Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{=69}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(539.33,566.2)}potatoes
+Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{=69}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(683.65,566.21)}potatoes
+Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{=69}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(831.54,566.19)}potatoes
+Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{=69}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(975.87,566.2)}potatoes
+Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{=69}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1109.78,566.19)}potatoes
+Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{=69}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1226.02,566.19)}potatoes
+Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{=69}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1317.79,566.18)}potatoes
+Dialogue: 0,0:20:55.48,0:20:55.52,Sign,,0,0,0,,{=68}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(955.81,696.79)}Halloween
+Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{=68}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(977.44,696.79)}Halloween
+Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{=68}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1037.61,696.79)}Halloween
+Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{=68}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1129.38,696.79)}Halloween
+Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{=68}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1245.69,696.79)}Halloween
+Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{=68}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1379.55,696.79)}Halloween
+Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{=68}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1523.86,696.8)}Halloween
+Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{=68}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1671.76,696.78)}Halloween
+Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{=68}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1816.09,696.78)}Halloween
+Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{=68}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(1949.99,696.78)}Halloween
+Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{=68}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(2066.23,696.78)}Halloween
+Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{=68}{\alpha&H00&\blur0.9\c&HF5FEFE&\fnAgeo Personal Use Heavy\pos(2158,696.77)}Halloween
+Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{=74}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(92.35,323.89)}DEC
+Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{=74}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(226.2,323.89)}DEC
+Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{=74}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(370.53,323.89)}DEC
+Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{=74}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(518.42,323.9)}DEC
+Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{=74}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(662.75,323.9)}DEC
+Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{=74}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(796.63,323.89)}DEC
+Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{=74}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(912.88,323.9)}DEC
+Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{=74}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1004.64,323.91)}DEC
+Dialogue: 0,0:20:55.98,0:20:56.02,Sign,,0,0,0,,{=74}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1064.85,323.9)}DEC
+Dialogue: 0,0:20:56.02,0:20:56.10,Sign,,0,0,0,,{=74}{\alpha&H00&\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1086.46,323.89)}DEC
+Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{=73}{\alpha&H00&\pos(-676.77,568.33)\blur0.9\c&HF6FEFC&\fnAgeo Personal Use Heavy}Christmas
+Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{=73}{\alpha&H00&\pos(-542.92,568.33)\blur0.9\c&HF6FEFC&\fnAgeo Personal Use Heavy}Christmas
+Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{=73}{\alpha&H00&\pos(-398.59,568.33)\blur0.9\c&HF6FEFC&\fnAgeo Personal Use Heavy}Christmas
+Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{=73}{\alpha&H00&\pos(-250.7,568.34)\blur0.9\c&HF6FEFC&\fnAgeo Personal Use Heavy}Christmas
+Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{=73}{\alpha&H00&\pos(-106.37,568.34)\blur0.9\c&HF6FEFC&\fnAgeo Personal Use Heavy}Christmas
+Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{=73}{\alpha&H00&\pos(27.51,568.33)\blur0.9\c&HF6FEFC&\fnAgeo Personal Use Heavy}Christmas
+Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{=73}{\alpha&H00&\pos(143.76,568.34)\blur0.9\c&HF6FEFC&\fnAgeo Personal Use Heavy}Christmas
+Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{=73}{\alpha&H00&\pos(235.52,568.35)\blur0.9\c&HF6FEFC&\fnAgeo Personal Use Heavy}Christmas
+Dialogue: 0,0:20:55.98,0:20:56.02,Sign,,0,0,0,,{=73}{\alpha&H00&\pos(295.73,568.34)\blur0.9\c&HF6FEFC&\fnAgeo Personal Use Heavy}Christmas
+Dialogue: 0,0:20:56.02,0:20:56.10,Sign,,0,0,0,,{=73}{\alpha&H00&\pos(317.34,568.33)\blur0.9\c&HF6FEFC&\fnAgeo Personal Use Heavy}Christmas
+Dialogue: 0,0:20:56.10,0:20:57.40,Sign,,0,0,0,,{\blur0.9\c&H000506&\fnAgeo Personal Use Heavy\pos(1086.461,323.89)}DEC
+Dialogue: 0,0:20:56.10,0:20:57.40,Sign,,0,0,0,,{\pos(317.34,568.33)\blur0.9\c&HF6FEFC&\fnAgeo Personal Use Heavy}Christmas
+Dialogue: 0,0:21:59.84,0:22:01.84,Calander,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HEDF5FB&\pos(734,182.716)}m -149 -12 l -42 -12 -42 39 -149 39
+Dialogue: 1,0:21:59.84,0:22:01.84,Calander,,0,0,0,,{\blur0.8\pos(642.8,197.116)}May
+Dialogue: 0,0:21:59.84,0:22:01.84,Calander,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HEDF5FB&\pos(0,-5.284)}m 597 453 l 678 453 678 520 597 520
+Dialogue: 1,0:21:59.84,0:22:01.84,Calander,,0,0,0,,{\blur0.8\pos(642.8,482.36)}Mon
+Dialogue: 0,0:21:59.84,0:22:01.84,Calander,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HEDF5FB&\pos(0,-5.284)}m 563 531 l 714 531 714 571 563 571
+Dialogue: 1,0:21:59.84,0:22:01.84,Calander,,0,0,0,,{\blur0.8\fs35\pos(642.8,542.449)}Very Unlucky Day
 Dialogue: 0,0:23:39.98,0:23:42.73,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:39.98,0:23:42.73,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs144\2a&HFF&\blur0.8}Next Time
 Dialogue: 0,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
@@ -385,3 +715,23 @@ Data: 38,a-mo,e{"uuid"#3A"a0d8dbba-0c8e-4eb6-bc82-4ccf564e0708"#2C"originalText"
 Data: 39,a-mo,e{"uuid"#3A"b515b3f1-64a7-4a87-8186-759d64359fc8"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(145.448#2C221.252)}APR"}
 Data: 40,a-mo,e{"uuid"#3A"a497e3b2-c241-41bd-a31c-21067827e5d5"#2C"originalText"#3A"{\\pos(1168.46#2C499.33)\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy}MAR"}
 Data: 41,a-mo,e{"uuid"#3A"8826b181-2cc1-4186-a3c0-e4c1079f4a7a"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(790.691#2C157.535)}Cherry Blossoms"}
+Data: 50,a-mo,e{"uuid"#3A"7a7d531b-14d5-422c-a809-2c5989b07ce9"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(856.996#2C557.386)}Ocean"}
+Data: 51,a-mo,e{"uuid"#3A"40c16b49-f83a-4938-8d42-96ed4e8e6964"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(144.399#2C505.505)}AUG"}
+Data: 52,a-mo,e{"uuid"#3A"9ae3bb84-a524-4fe8-a849-4b9f78b004a1"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(1135.425#2C210.918)}JUL"}
+Data: 53,a-mo,e{"uuid"#3A"64324aa9-1e0f-4b32-ac2a-5731d4dd56a6"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(432.224#2C156.41)}Mountains"}
+Data: 54,a-mo,e{"uuid"#3A"9b237cb6-9df2-444f-b353-955b7049276e"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(856.996#2C557.386)}Ocean"}
+Data: 55,a-mo,e{"uuid"#3A"92e18624-3cc2-4092-8bb0-3584f96ff88b"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(144.399#2C505.505)}AUG"}
+Data: 56,a-mo,e{"uuid"#3A"49b743c3-e3ea-439a-a3f1-b22e7603a681"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(1135.425#2C210.918)}JUL"}
+Data: 57,a-mo,e{"uuid"#3A"92c86d84-8874-4afa-bfd3-5a93092178fa"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(432.224#2C156.41)}Mountains"}
+Data: 63,a-mo,e{"uuid"#3A"27f4a2f8-d509-49ed-b1c1-1327304be719"#2C"originalText"#3A"{\\blur0.9\\c&HF5FEFE&\\fnAgeo Personal Use Heavy\\pos(955.807#2C696.787)}Halloween"}
+Data: 64,a-mo,e{"uuid"#3A"f0a9b5e1-c104-4f35-87b3-2338ec81c915"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(115.595#2C566.2)}potatoes"}
+Data: 65,a-mo,e{"uuid"#3A"663971ee-804a-4d4f-af8f-41f36e8fe45c"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(115.595#2C525.152)}Baked "}
+Data: 66,a-mo,e{"uuid"#3A"24481c31-aedd-4d20-b0e0-5e1137de11d6"#2C"originalText"#3A"{\\blur0.9\\c&HF5FEFE&\\fnAgeo Personal Use Heavy\\pos(702.95#2C42.664)}OCT"}
+Data: 67,a-mo,e{"uuid"#3A"bedd90fd-c055-4177-ba4d-6565bfb5b124"#2C"originalText"#3A"{\\blur0.9\\c&HF5FEFE&\\fnAgeo Personal Use Heavy\\pos(115.247#2C39.675)}NOV"}
+Data: 68,a-mo,e{"uuid"#3A"1e13ff08-3e10-4a7b-b08a-c24bfe26a635"#2C"originalText"#3A"{\\blur0.9\\c&HF5FEFE&\\fnAgeo Personal Use Heavy\\pos(955.807#2C696.787)}Halloween"}
+Data: 69,a-mo,e{"uuid"#3A"50c362f8-6fa7-4806-ac06-a285ce7b9842"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(115.595#2C566.2)}potatoes"}
+Data: 70,a-mo,e{"uuid"#3A"ed6a61a5-5d8c-4c2f-afde-62c68c3726a8"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(115.595#2C525.152)}Baked "}
+Data: 71,a-mo,e{"uuid"#3A"6fcfb7c0-a79e-4157-b55f-fb4721d97a72"#2C"originalText"#3A"{\\blur0.9\\c&HF5FEFE&\\fnAgeo Personal Use Heavy\\pos(702.95#2C42.664)}OCT"}
+Data: 72,a-mo,e{"uuid"#3A"575d24de-275b-451b-9f69-0cdfa006357a"#2C"originalText"#3A"{\\blur0.9\\c&HF5FEFE&\\fnAgeo Personal Use Heavy\\pos(115.247#2C39.675)}NOV"}
+Data: 73,a-mo,e{"uuid"#3A"f84696d8-2107-4408-a5d7-5ed8ec141397"#2C"originalText"#3A"{\\pos(317.34#2C568.33)\\blur0.9\\c&HF6FEFC&\\fnAgeo Personal Use Heavy}Christmas"}
+Data: 74,a-mo,e{"uuid"#3A"07f5a5a3-df18-4885-9c33-9a37a8e0aa13"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(1086.461#2C323.89)}DEC"}
