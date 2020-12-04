@@ -16,10 +16,10 @@ Audio File: JoshirakuBD_08 (Premux).mkv
 Video File: JoshirakuBD_08 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.632813
-Scroll Position: 16
-Active Line: 22
-Video Position: 5997
+Video Zoom Percent: 2.507813
+Scroll Position: 112
+Active Line: 118
+Video Position: 18964
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -53,8 +53,12 @@ Dialogue: 0,0:04:09.35,0:04:09.39,New Year Card,,0,0,0,,{=75}{\frz-18.01\alpha&H
 Dialogue: 0,0:04:09.39,0:04:09.43,New Year Card,,0,0,0,,{=75}{\frz-18.01\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(791.96,568.25)}New Years' Money
 Dialogue: 0,0:04:09.43,0:04:09.52,New Year Card,,0,0,0,,{=75}{\frz-20.42\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(812.64,580.56)}New Years' Money
 Dialogue: 0,0:04:09.52,0:04:10.14,New Year Card,,0,0,0,,{=75}{\frz-22.85\alpha&H00&\blur1\c&H22282B&\fnAlpha54\pos(833.2,593.28)}New Years' Money
-Dialogue: 0,0:04:12.36,0:04:13.86,Sign,,0,0,0,TO DO,{\pos(640,376)\fs16\c&H22282B&}New Years' Money
-Dialogue: 0,0:04:13.86,0:04:17.57,Sign,,0,0,0,TO DO,{\pos(649,702)\frz180\fs3\c&H22282B&}New Year's Money
+Dialogue: 0,0:04:12.36,0:04:13.86,New Year Card,,0,0,0,,{\blur1\pos(640,376)\fs16\c&H22282B&\frx10\fry0}New Years' Money
+Dialogue: 0,0:04:12.36,0:04:13.86,New Year Card,,0,0,0,,{\blur1\fs19\fax-0.3\c&H22282B&\frx10\fry0\pos(171.243,376)}New Years' Money
+Dialogue: 0,0:04:12.36,0:04:13.86,New Year Card,,0,0,0,,{\blur1\fs17\c&H22282B&\fax-0.15\frx10\fry0\pos(410.113,376)}New Years' Money
+Dialogue: 0,0:04:12.36,0:04:13.86,New Year Card,,0,0,0,,{\blur1\fs17\c&H22282B&\fax0.1\pos(885.106,376)\frx20\fry8}New Years' Money
+Dialogue: 0,0:04:12.36,0:04:13.86,New Year Card,,0,0,0,,{\blur1\fs19\c&H22282B&\fax0.23\frx20\fry8\pos(1127.316,376)}New Years' Money
+Comment: 0,0:04:13.86,0:04:17.57,Sign,,0,0,0,TO DO,{\pos(649,702)\frz180\fs3\c&H22282B&}New Year's Money
 Dialogue: 0,0:04:35.42,0:04:36.51,Sign,,0,0,0,TO DO,{\pos(640,429.33)\fs32\c&H22282B&}New Years' Money
 Dialogue: 0,0:04:45.52,0:04:47.98,Sign,,0,0,0,TO DO,{\pos(644,446)\frz179\fs14\c&H22282B&}New Years' Money
 Dialogue: 0,0:04:52.81,0:04:52.85,Sign,,0,0,0,,{=4}{\alpha&H00&\blur0.7\fs60\c&H010A10&\fnaugie\pos(122.66,50.67)}Tetora
@@ -118,11 +122,11 @@ Dialogue: 1,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\
 Dialogue: 2,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\fscx74.6\fscy60\p1\c&H000000&\pos(614.265,548.408)}m -302 -92 l 328 -92 328 86 -302 86
 Dialogue: 3,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\fscx73.4\fscy54\p1\c&HFFFFFF&\pos(614.265,548.408)}m -300 -92 l 326 -92 326 86 -300 86
 Dialogue: 4,0:11:16.20,0:11:17.16,Sign,,0,0,0,,{\fscx80\fscy80\fnBrushType-SemiBold\fs99\b0\c&H000000&\blur0.9\pos(623.229,552.077)}Mongolian Blue Spot
-Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H422D26&\fs30\fnBolide\pos(1191.47,189.559)}Sugamon's 
+Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H422D26&\fs30\fnBolide\pos(1191.47,189.559)}Sugamon's
 Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H422D26&\fs28\fnBolide\pos(1169.371,216.025)}Buttocks
-Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H896A48&\fs30\fnBolide\pos(55.602,155.21)\frz358.1}Sugamon's 
+Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H896A48&\fs30\fnBolide\pos(55.602,155.21)\frz358.1}Sugamon's
 Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H896A48&\fs28\fnBolide\pos(147.168,180.952)\frz358.2}Buttocks
-Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&HC6AFB0&\fs28\fnBolide\pos(587.173,43.027)}S{\c&HC2ABAC&}u{\c&HBDA7A8&}g{\c&HB9A2A4&}a{\c&HB59EA0&}m{\c&HB19A9C&}o{\c&HAC9698&}n{\c&HA89194&}'{\c&HA48D90&}s{\c&HA0898C&}{\c&H9B8588&} 
+Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&HC6AFB0&\fs28\fnBolide\pos(587.173,43.027)}S{\c&HC2ABAC&}u{\c&HBDA7A8&}g{\c&HB9A2A4&}a{\c&HB59EA0&}m{\c&HB19A9C&}o{\c&HAC9698&}n{\c&HA89194&}'{\c&HA48D90&}s{\c&HA0898C&}{\c&H9B8588&}
 Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H978184&\fs28\fnBolide\pos(680.307,47.956)}B{\c&H937C80&}u{\c&H8E787C&}t{\c&H8A7478&}t{\c&H867074&}o{\c&H826B70&}c{\c&H7D676C&}k{\c&H796368&}s
 Dialogue: 0,0:11:27.04,0:11:31.25,Sign,,0,0,0,,{\blur1\fs62\c&H070501&\fnArtificeSSK\pos(906.666,641.334)\b0}Mt. Fuji
 Comment: 0,0:11:31.25,0:11:38.84,Sign,,0,0,0,,{\pos(712,272)}Mt. Fuji
@@ -144,7 +148,8 @@ Dialogue: 0,0:12:39.99,0:12:41.86,Sign,,0,0,0,,{\blur1\fs70\c&H265738&\fnEager N
 Comment: 0,0:12:51.33,0:12:53.67,Sign,Skip?,0,0,0,,{\pos(792,563.2)}Kintarou Candy
 Comment: 0,0:12:51.33,0:12:53.67,Sign,Skip?,0,0,0,,{\pos(792,651.2)}Missing TL
 Comment: 0,0:12:51.33,0:12:53.67,Sign,Skip?,0,0,0,,{\pos(1088,505.6)}Missing TL
-Dialogue: 0,0:13:10.93,0:13:13.69,Sign,,0,0,0,TO DO,{\fs32\pos(652.612,181.036)}Kougan Temple
+Dialogue: 0,0:13:10.93,0:13:13.69,Sign,,0,0,0,,{\blur1.2\fs16\fn0 Buzz DNA\frx350\fry358\3c&H212466&\c&H212466&\bord2\pos(649.462,218.531)}Kougan Temple
+Dialogue: 1,0:13:10.93,0:13:13.69,Sign,,0,0,0,,{\blur1.2\fs16\c&HA0B2E7&\fn0 Buzz DNA\frx350\fry358\bord0\4a&HFF&\pos(649.462,218.531)}K{\c&HA9BCEA&}o{\c&HB1C6EE&}u{\c&HBAD0F1&}g{\c&HC2DAF4&}a{\c&HCBE4F8&}n{\c&HD3EEFB&} {\c&HCBE4F8&}T{\c&HC2DAF4&}e{\c&HBAD0F1&}m{\c&HB1C6EE&}p{\c&HA9BCEA&}l{\c&HA0B2E7&}e
 Dialogue: 0,0:13:21.57,0:13:22.95,Sign,TLC,0,0,0,,{\blur1\fsp2.5\c&H11100E&\fnAgnesa Kyoto\frz334.8\pos(873.142,402.742)\b0}Charm
 Dialogue: 0,0:13:21.57,0:13:22.95,Sign,TLC,0,0,0,,{\blur1\fsp1\c&H11100E&\fnBetterize\pos(769.6,572.8)\frz333\b0}Tokyo Sugamo
 Dialogue: 0,0:13:36.12,0:13:38.80,Sign,,0,0,0,,{\blur0.6\fsp1\bord3\3c&HEAEAE8&\c&HEAEAE8&\fnNyala\pos(1061.744,417.686)}Thornpuller Jizo
@@ -303,7 +308,8 @@ Dialogue: 2,0:20:10.64,0:20:10.68,Stamp,,0,0,0,,{=12}{\alpha&H00&\blur0.8\fscx10
 Dialogue: 2,0:20:10.68,0:20:10.73,Stamp,,0,0,0,,{=12}{\alpha&H00&\blur0.8\fscx100\fscy100\frz37.54\pos(989.3,92.4)}DECIDED
 Dialogue: 2,0:20:10.73,0:20:10.77,Stamp,,0,0,0,,{=12}{\alpha&H00&\blur0.8\fscx100\fscy100\frz37.54\pos(989.29,92.4)}DECIDED
 Dialogue: 2,0:20:10.77,0:20:10.93,Stamp,,0,0,0,,{=12}{\alpha&H00&\blur0.8\fscx100\fscy100\frz37.54\pos(989.3,92.4)}DECIDED
-Dialogue: 0,0:20:10.94,0:20:12.81,Sign,,0,0,0,TO DO,{\pos(319.648,254)}June Blues
+Dialogue: 0,0:20:10.94,0:20:12.81,Sign,,0,0,0,,{\blur0.9\fs90\fnCheap Ink killed my Printer\3c&H031C5C&\c&H031C5C&\bord1.5\b0\pos(312.732,275.219)}June Blues
+Dialogue: 1,0:20:10.94,0:20:12.81,Sign,,0,0,0,,{\blur0.9\c&H010518&\fs90\fnCheap Ink killed my Printer\bord0\b0\pos(312.732,275.219)\4a&HFF&}June Blues
 Dialogue: 2,0:20:40.51,0:20:40.55,Stamp,,0,0,0,,{=17}{\fscx328.59\fscy328.59\alpha&H00&\blur2.96\an7\frz4.766\pos(-3384.48,-433.72)}{\1c&H18196D&\p1}m 972.95 314.05 b 969.12 313.88 967.84 311.57 966.36 309.61 946.81 283.69 927.28 257.75 907.74 231.82 900.43 222.11 893.1 212.41 885.81 202.69 881.62 197.11 881.84 195.62 887.47 191.37 959.76 136.79 1032.05 82.22 1104.34 27.65 1109.92 23.43 1115.49 19.2 1121.08 15 1126.97 10.57 1128.4 10.76 1132.79 16.58 1157.54 49.42 1182.28 82.27 1207.03 115.12 1209.24 118.05 1211.47 120.95 1213.65 123.9 1217.21 128.72 1216.98 130.48 1212.11 134.17 1190.6 150.45 1169.06 166.69 1147.54 182.94 1090.92 225.67 1034.31 268.4 977.69 311.13 975.99 312.41 974.46 314.08 972.95 314.05 m 972.21 308.96 b 1052.07 248.67 1131.4 188.78 1210.95 128.72 1182.78 91.35 1154.8 54.23 1126.77 17.04 1046.87 77.36 967.49 137.29 888.03 197.28 916.3 234.78 944.15 271.73 972.21 308.96{\p0}
 Dialogue: 2,0:20:40.55,0:20:40.59,Stamp,,0,0,0,,{=17}{\fscx212.48\fscy212.48\alpha&H00&\blur1.91\an7\frz4.766\pos(-1972.1,-147.52)}{\1c&H18196D&\p1}m 972.95 314.05 b 969.12 313.88 967.84 311.57 966.36 309.61 946.81 283.69 927.28 257.75 907.74 231.82 900.43 222.11 893.1 212.41 885.81 202.69 881.62 197.11 881.84 195.62 887.47 191.37 959.76 136.79 1032.05 82.22 1104.34 27.65 1109.92 23.43 1115.49 19.2 1121.08 15 1126.97 10.57 1128.4 10.76 1132.79 16.58 1157.54 49.42 1182.28 82.27 1207.03 115.12 1209.24 118.05 1211.47 120.95 1213.65 123.9 1217.21 128.72 1216.98 130.48 1212.11 134.17 1190.6 150.45 1169.06 166.69 1147.54 182.94 1090.92 225.67 1034.31 268.4 977.69 311.13 975.99 312.41 974.46 314.08 972.95 314.05 m 972.21 308.96 b 1052.07 248.67 1131.4 188.78 1210.95 128.72 1182.78 91.35 1154.8 54.23 1126.77 17.04 1046.87 77.36 967.49 137.29 888.03 197.28 916.3 234.78 944.15 271.73 972.21 308.96{\p0}
 Dialogue: 2,0:20:40.59,0:20:40.63,Stamp,,0,0,0,,{=17}{\fscx154.44\fscy154.44\alpha&H00&\blur1.39\an7\frz4.766\pos(-1258.41,-8.93)}{\1c&H18196D&\p1}m 972.95 314.05 b 969.12 313.88 967.84 311.57 966.36 309.61 946.81 283.69 927.28 257.75 907.74 231.82 900.43 222.11 893.1 212.41 885.81 202.69 881.62 197.11 881.84 195.62 887.47 191.37 959.76 136.79 1032.05 82.22 1104.34 27.65 1109.92 23.43 1115.49 19.2 1121.08 15 1126.97 10.57 1128.4 10.76 1132.79 16.58 1157.54 49.42 1182.28 82.27 1207.03 115.12 1209.24 118.05 1211.47 120.95 1213.65 123.9 1217.21 128.72 1216.98 130.48 1212.11 134.17 1190.6 150.45 1169.06 166.69 1147.54 182.94 1090.92 225.67 1034.31 268.4 977.69 311.13 975.99 312.41 974.46 314.08 972.95 314.05 m 972.21 308.96 b 1052.07 248.67 1131.4 188.78 1210.95 128.72 1182.78 91.35 1154.8 54.23 1126.77 17.04 1046.87 77.36 967.49 137.29 888.03 197.28 916.3 234.78 944.15 271.73 972.21 308.96{\p0}
