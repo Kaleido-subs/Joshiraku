@@ -426,7 +426,7 @@ Dialogue: 10,0:13:17.44,0:13:20.23,Default,,0,0,0,,{\q2}Apparently, they've even
 Dialogue: 10,0:13:20.23,0:13:24.32,Default,,0,0,0,,Aristotle wrote that they're born spontaneously from mud.
 Dialogue: 10,0:13:24.32,0:13:26.74,Default,,0,0,0,,Then they should use the symbol for "mud"!
 Dialogue: 10,0:13:26.74,0:13:28.24,Default,,0,0,0,,I've no idea why eel uses "wide".
-Dialogue: 10,0:13:28.24,0:13:29.91,Default,ED,0,0,0,,What about just writing out "blue".{ED: Question mark?}
+Dialogue: 10,0:13:28.24,0:13:29.91,Default,,0,0,0,,What about just writing out "blue"?{ED: Question mark?}{## Fixed}
 Dialogue: 10,0:13:30.78,0:13:32.83,Default,,0,0,0,,That's how Mister explained the kanji for "mackerel".
 Dialogue: 9,0:13:30.78,0:13:32.83,Alt,,0,0,0,,{\an7\fs32\shad0\pos(33.333,18.667)}Note:
 Dialogue: 9,0:13:30.78,0:13:32.83,Alt,,0,0,0,,{\an7\fs29.333\bord2.667\shad0\pos(33.333,52)}Shigeo Nagashima, a very famous \Nbaseball player and manager.
@@ -517,18 +517,18 @@ Dialogue: 10,0:17:19.39,0:17:21.01,Default,,0,0,0,,Only one way to find out!
 Dialogue: 10,0:17:28.13,0:17:29.94,Default,,0,0,0,,No speakers, then.
 Dialogue: 10,0:17:29.94,0:17:31.15,Default,,0,0,0,,Nope.
 Dialogue: 10,0:17:33.12,0:17:34.81,Default,,0,0,0,,Nothing unusual there.
-Dialogue: 10,0:17:36.95,0:17:40.78,Default,ED,0,0,0,,Um, didn't you notice anything unusual there?{ED: This feels awkward because my reaction is "but she just said she didn't see anything unusual". Perhaps it would be better to turn this into a confirmation instead: "Um, you didn't notice anything unusual there?". If you do this, you may have to prepend "Was there" to the next line.}
-Dialogue: 10,0:17:41.45,0:17:43.67,Default,,0,0,0,,Something that uses electricity?
+Dialogue: 10,0:17:36.95,0:17:40.78,Default,,0,0,0,,Um, you didn't notice anything unusual there?{ED: This feels awkward because my reaction is "but she just said she didn't see anything unusual". Perhaps it would be better to turn this into a confirmation instead: "Um, you didn't notice anything unusual there?". If you do this, you may have to prepend "Was there" to the next line.}{## Sounds good to me}
+Dialogue: 10,0:17:41.45,0:17:43.67,Default,,0,0,0,,You mean something that uses electricity?
 Dialogue: 10,0:17:43.67,0:17:47.13,Default,,0,0,0,,No, nothing that uses electricity, but...
-Dialogue: 10,0:17:47.13,0:17:48.73,Default,,0,0,0,,Right, then there was nothing unusual.
+Dialogue: 10,0:17:47.13,0:17:48.73,Default,,0,0,0,,Right, so nothing unusual.
 Dialogue: 10,0:17:48.73,0:17:51.10,Default,,0,0,0,,No, um, I mean—{ED: Some variety would be nice here. Maybe "No, but, I mean—"}{## Agreed, replaced the first word}
 Dialogue: 10,0:17:51.10,0:17:55.59,Default,,0,0,0,,{\i1\q2}Can't these guys see anything \Nbut what they're focused on?
 Dialogue: 10,0:17:55.59,0:17:56.65,Default,,0,0,0,,That reminds me.
 Dialogue: 10,0:17:56.65,0:18:00.10,Default,,0,0,0,,The ceiling's been shaking recently.
 Dialogue: 10,0:18:00.10,0:18:01.26,Default,,0,0,0,,Shaking?
 Dialogue: 10,0:18:01.26,0:18:04.56,Default,,0,0,0,,{\q2}Maybe someone's using \Na massage chair on the other side.{ED: This gets auto-split after "a". Break manually before it.}
-Dialogue: 10,0:18:04.56,0:18:09.90,Default,ED,0,0,0,,{\q2}These days, massage chairs massage everything, from your \Nshoulders to your back, from your calves to your arms,{ED: The comma at the end is incorrect here. Grammatically, it should either be a colon or nothing, but you can't have nothing because the sentence will be misread given how the line is split. However, given the "so" line, I think a colon might be incorrect if "so" isn't joined with a semicolon (yuck). You can try removing the comma and moving "from your shoulders to your back" up to this line (which is what the audio says anyway) and leaving "from your calves to your arms" in the next line.}{## what if I merged the lines instead?}
-Dialogue: 10,0:18:09.90,0:18:11.69,Default,,0,0,0,,so they use a lot of electricity.{ED: This is a sentence fragment. It should be joined with the previous sentence with a comma.}{## fixed}
+Dialogue: 10,0:18:04.56,0:18:09.90,Default,ED,0,0,0,,{\q2}These days, massage chairs massage everything, from your \Nshoulders to your back, from your calves to your arms.{ED: The comma at the end is incorrect here. Grammatically, it should either be a colon or nothing, but you can't have nothing because the sentence will be misread given how the line is split. However, given the "so" line, I think a colon might be incorrect if "so" isn't joined with a semicolon (yuck). You can try removing the comma and moving "from your shoulders to your back" up to this line (which is what the audio says anyway) and leaving "from your calves to your arms" in the next line.}{## what if I merged the lines instead?}{## Maybe it's better if I split the lines entirely here? idk, I feel like this line is going to be awkward no matter what we do.}
+Dialogue: 10,0:18:09.90,0:18:11.69,Default,,0,0,0,,They use a lot of electricity!{ED: This is a sentence fragment. It should be joined with the previous sentence with a comma.}{## fixed}
 Dialogue: 10,0:18:11.69,0:18:13.51,Default,,0,0,0,,Only one way to find out!
 Dialogue: 10,0:18:19.97,0:18:21.74,Default,,0,0,0,,No massage chair, then.
 Dialogue: 10,0:18:21.74,0:18:22.66,Default,,0,0,0,,Nope.
@@ -579,7 +579,7 @@ Dialogue: 10,0:20:40.07,0:20:43.73,Default,,0,0,0,,{\q2}They say the wind blows 
 Dialogue: 10,0:20:43.73,0:20:44.73,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:20:44.73,0:20:45.39,Default,,0,0,0,,And that's not all!
 Dialogue: 10,0:20:45.39,0:20:47.97,Default,,0,0,0,,{\q2}They say that when you have \Nan instant connection with someone...
-Dialogue: 10,0:20:55.00,0:20:56.71,Default,ED,0,0,0,,there's electricity in the air!{ED: I don't think anyone says this. gg has "you can almost see sparks fly!" and I think some variation of that would be best here.}{## would this work better?}
+Dialogue: 10,0:20:55.00,0:20:56.71,Default,,0,0,0,,there's electricity in the air!{ED: I don't think anyone says this. gg has "you can almost see sparks fly!" and I think some variation of that would be best here.}{## would this work better?}
 Dialogue: 10,0:20:56.71,0:20:57.46,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:20:57.46,0:20:59.77,Default,,0,0,0,,{\q2}So to create electricity, \Nwe need to create encounters.
 Dialogue: 10,0:21:01.78,0:21:03.71,Default,,0,0,0,,Welcome!
