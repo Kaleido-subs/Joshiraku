@@ -593,7 +593,7 @@ Dialogue: 10,0:21:10.37,0:21:13.31,Default,,0,0,0,,{\q2}It's working! I can prac
 Dialogue: 10,0:21:13.31,0:21:16.23,Default,,0,0,0,,Police! Nobody move!
 Dialogue: 10,0:21:16.23,0:21:19.00,Default,,0,0,0,,{\q2}We received a tip-off that there were \Nunlicensed indecent activities going on here!{TM: The first syllable starts at 0:21:16.18}{Fixed}
 Dialogue: 10,0:21:19.00,0:21:22.96,Default,,0,0,0,,{\q2}Indecent? We're just trying \Nto make a little electricity here!{ED: I'd split before the "to", otherwise you're (literally) splitting the infinitive.}
-Dialogue: 10,0:21:21.59,0:21:22.96,Default,,0,0,0,,You're digging yourself deeper!
+Dialogue: 10,0:21:21.59,0:21:22.96,Alt,,0,0,0,,You're digging yourself deeper!
 Dialogue: 10,0:21:22.96,0:21:24.80,Default,,0,0,0,,Stop being so obstinate!
 Dialogue: 10,0:21:41.29,0:21:43.28,Default,,0,0,0,,Wh-What on earth...
 Dialogue: 10,0:21:44.02,0:21:47.41,Default,,0,0,0,,So it was you who used all that electricity, Kigu.
