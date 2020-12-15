@@ -71,11 +71,11 @@ Dialogue: 10,0:03:28.60,0:03:31.69,Default,,0,0,0,,Marry late? That's hardly any
 Dialogue: 10,0:03:32.10,0:03:33.56,Default,,0,0,0,,We're done for...
 Dialogue: 10,0:03:33.56,0:03:35.90,Default,,0,0,0,,We're never gonna get married, \N and freeze to death all alone!
 Dialogue: 10,0:03:35.90,0:03:38.99,Default,,0,0,0,,We don't stand a snowball's chance in hell!
-Dialogue: 10,0:03:38.99,0:03:42.89,Default,,0,0,0,,{\q2}C'mon, guys. Let's just think about it calmly over some tea.{ST: Unnecessary q2}{## noticed a double "over" so I edited it, and now the q2 IS necessary! :^)}
-Dialogue: 10,0:03:42.89,0:03:44.20,Default,,0,0,0,,I'll go prepare some!
+Dialogue: 10,0:03:38.99,0:03:42.89,Default,TM,0,0,0,,{\q2}C'mon, guys. Let's just think about it calmly over some tea.{ST: Unnecessary q2}{## noticed a double "over" so I edited it, and now the q2 IS necessary! :^)}{TM: This could use some more lead-in time. The start of the first syllable is at 0:03:39.05.}
+Dialogue: 10,0:03:42.89,0:03:44.20,Default,TM,0,0,0,,I'll go prepare some!{TM: Snap to preceding keyframe.}
 Dialogue: 10,0:03:44.20,0:03:46.37,Default,,0,0,0,,Cursed to be an *ld maid forever!
 Dialogue: 10,0:03:44.20,0:03:47.79,Default,,0,0,0,,{\an8}I knew we had some matcha powder here.
-Dialogue: 10,0:03:47.79,0:03:48.73,Alt,,0,0,0,,M*ld maid.{TM: This should include the start of the "i" at 0:03:47.70.}{Fixed}
+Dialogue: 10,0:03:47.79,0:03:48.73,Alt,TM,0,0,0,,M*ld maid.{TM: This should include the start of the "i" at 0:03:47.70.}
 Dialogue: 10,0:03:48.73,0:03:51.32,Default,,0,0,0,,Is that a real thing?{TM: This should include the "de" at 0:03:48.88.}{Fixed}
 Dialogue: 10,0:03:51.32,0:03:52.62,Default,,0,0,0,,Of course not!{TM: This should include the start of the "ha" at 0:03:51.47.}{Fixed}
 Dialogue: 10,0:03:55.71,0:03:56.46,Default,,0,0,0,,{\i1}It's her!
@@ -431,7 +431,7 @@ Dialogue: 10,0:13:17.44,0:13:20.23,Default,,0,0,0,,{\q2}Apparently, they've even
 Dialogue: 10,0:13:20.23,0:13:24.32,Default,,0,0,0,,Aristotle wrote that they're born spontaneously from mud.
 Dialogue: 10,0:13:24.32,0:13:26.74,Default,,0,0,0,,Then they should use the symbol for "mud"!
 Dialogue: 10,0:13:26.74,0:13:28.24,Default,,0,0,0,,I've no idea why eel uses "wide".
-Dialogue: 10,0:13:28.24,0:13:29.91,Default,,0,0,0,,What about just writing out "blue".
+Dialogue: 10,0:13:28.24,0:13:29.91,Default,ED,0,0,0,,What about just writing out "blue".{ED: Question mark?}
 Dialogue: 10,0:13:30.78,0:13:32.83,Default,,0,0,0,,That's how Mister explained the kanji for "mackerel".
 Dialogue: 9,0:13:30.78,0:13:32.83,Alt,,0,0,0,,{\an7\fs32\shad0\pos(33.333,18.667)}Note:
 Dialogue: 9,0:13:30.78,0:13:32.83,Alt,,0,0,0,,{\an7\fs29.333\bord2.667\shad0\pos(33.333,52)}Shigeo Nagashima, a very famous \Nbaseball player and manager.
@@ -449,13 +449,13 @@ Dialogue: 10,0:13:53.35,0:13:56.19,Default,,0,0,0,,Kigu, you'd be "person" and "
 Dialogue: 10,0:13:56.19,0:13:57.19,Default,,0,0,0,,Oh, yay!{TM: This should include the start of the "he" at 0:13:56.33.}
 Dialogue: 10,0:13:57.19,0:13:59.15,Default,,0,0,0,,I think "cutie" would work too.
 Dialogue: 10,0:13:59.15,0:14:03.65,Default,,0,0,0,,I'm so happy! I'll work hard to be pure and cute!
-Dialogue: 10,0:14:04.00,0:14:07.22,Default,,0,0,0,,{\i1}Ugh, I'm so sick of playing into their expectations of me.
+Dialogue: 10,0:14:04.00,0:14:07.22,Default,TM,0,0,0,,{\i1}Ugh, I'm so sick of playing into their expectations of me.{TM: Overlap. Snap end to keyframe.}
 Dialogue: 10,0:14:07.11,0:14:08.99,Default,,0,0,0,,Kukuru would be "person" and...
 Dialogue: 10,0:14:08.99,0:14:10.41,Default,,0,0,0,,"Pain" for sure.
 Dialogue: 10,0:14:10.70,0:14:11.45,Default,,0,0,0,,Huh?
 Dialogue: 10,0:14:12.37,0:14:13.58,Default,,0,0,0,,That's cool!
-Dialogue: 10,0:14:14.37,0:14:18.72,Default,,0,0,0,,{\q2}Born into a poor family, abused, neglected, \Nsent out to pick pockets on the street,
-Dialogue: 10,0:14:18.72,0:14:22.25,Default,,0,0,0,,{\q2}protective custody, drop out, \Nteenage pregnancy, get married,{TM: This line should include the start of "hodo" at 0:14:18.86. Note the "keyframe" at 0:14:18.816.}{Fixed}
+Dialogue: 10,0:14:14.37,0:14:18.72,Default,TM,0,0,0,,{\q2}Born into a poor family, abused, neglected, \Nsent out to pick pockets on the street,{TM: No lead-in.}
+Dialogue: 10,0:14:18.72,0:14:22.25,Default,TM,0,0,0,,{\q2}protective custody, drop out, \Nteenage pregnancy, get married,{TM: Snap to "keyframe" at 0:14:18.816 or add more lead-in.}
 Dialogue: 10,0:14:22.25,0:14:24.53,Default,,0,0,0,,domestic violence, poisoning, arrest, divorce, illness!
 Dialogue: 10,0:14:24.53,0:14:26.01,Default,,0,0,0,,Talk about a sob story!{TM: The first syllable starts at 0:14:24.63.}{Fixed}
 Dialogue: 10,0:14:26.01,0:14:28.22,Default,,0,0,0,,It's like you're trying to win a TV talent show!
@@ -469,7 +469,7 @@ Dialogue: 10,0:14:38.27,0:14:39.77,Default,,0,0,0,,That's just eight on its side
 Dialogue: 10,0:14:39.77,0:14:41.65,Default,,0,0,0,,What about me, I wonder?
 Dialogue: 10,0:14:41.65,0:14:44.78,Default,,0,0,0,,You're pretty neutral...
 Dialogue: 10,0:14:44.78,0:14:46.18,Default,,0,0,0,,"Person" plus a square.{TM: I would join this with the next line. The last syllable ends at 0:14:44.61.}{Fixed, I think you previous line-gsk}
-Dialogue: 10,0:14:46.18,0:14:47.15,Default,,0,0,0,,A square?
+Dialogue: 10,0:14:46.18,0:14:47.15,Default,TM,0,0,0,,A square?{TM: Join with next.}
 Dialogue: 10,0:14:47.18,0:14:49.70,Default,,0,0,0,,Then you can put whatever you like in it.
 Dialogue: 10,0:14:49.70,0:14:51.45,Default,,0,0,0,,Like "rose", "azure", or "azalea".
 Dialogue: 10,0:14:51.45,0:14:53.66,Default,,0,0,0,,Seems a bit unfinished.
@@ -480,7 +480,7 @@ Dialogue: 10,0:15:01.54,0:15:04.42,Default,,0,0,0,,When you come to Tsukiji, it'
 Dialogue: 10,0:15:04.42,0:15:07.92,Default,,0,0,0,,Huh? Beef bowl? Not fish?
 Dialogue: 10,0:15:07.92,0:15:11.44,Default,,0,0,0,,The first Yoshinoya was established here in Tsukiji.
 Dialogue: 10,0:15:11.44,0:15:12.34,Default,,0,0,0,,Sounds good to me.{TM: No lead in.}{Fixed}
-Dialogue: 10,0:15:13.89,0:15:16.10,Default,,0,0,0,,Look! The promised land!
+Dialogue: 10,0:15:13.89,0:15:16.10,Default,TM,0,0,0,,Look! The promised land!{TM: The gap is within your paramters, but it looks awkward here because the audio is somewhat busy. I would either treat the other girls' shouts as dialogue or join this line with the next line.}
 Dialogue: 10,0:15:16.35,0:15:19.28,Default,,0,0,0,,Hey, wait for me!{TM: This should include the "aa" starting at 0:15:16.41.}{Fixed}
 Comment: 0,0:15:22.86,0:15:22.86,Default,chapter,0,0,0,,{Part C}
 Dialogue: 10,0:15:29.94,0:15:32.02,Default,,0,0,0,,What's wrong, Kukuru?{TM: No lead-out, but this one's probably okay.}{I think it's better to add some-gsk}{Fixed}
@@ -522,7 +522,7 @@ Dialogue: 10,0:17:19.39,0:17:21.01,Default,,0,0,0,,Only one way to find out!
 Dialogue: 10,0:17:28.13,0:17:29.94,Default,,0,0,0,,No speakers, then.
 Dialogue: 10,0:17:29.94,0:17:31.15,Default,,0,0,0,,Nope.
 Dialogue: 10,0:17:33.12,0:17:34.81,Default,,0,0,0,,Nothing unusual there.
-Dialogue: 10,0:17:36.95,0:17:40.78,Default,,0,0,0,,Um, didn't you notice anything unusual there?
+Dialogue: 10,0:17:36.95,0:17:40.78,Default,ED,0,0,0,,Um, didn't you notice anything unusual there?{ED: This feels awkward because my reaction is "but she just said she didn't see anything unusual". Perhaps it would be better to turn this into a confirmation instead: "Um, you didn't notice anything unusual there?". If you do this, you may have to prepend "Was there" to the next line.}
 Dialogue: 10,0:17:41.45,0:17:43.67,Default,,0,0,0,,Something that uses electricity?
 Dialogue: 10,0:17:43.67,0:17:47.13,Default,,0,0,0,,No, nothing that uses electricity, but...
 Dialogue: 10,0:17:47.13,0:17:48.73,Default,,0,0,0,,Right, then there was nothing unusual.
@@ -554,7 +554,7 @@ Dialogue: 10,0:18:53.16,0:18:57.65,Default,,0,0,0,,{\q2}Why would I need a scout
 Dialogue: 10,0:18:57.65,0:19:01.25,Default,,0,0,0,,{\q2}When it comes to saving electricity, \Nevery little bit helps.
 Dialogue: 10,0:19:01.25,0:19:03.03,Default,,0,0,0,,How is that even relevant?
 Dialogue: 10,0:19:03.03,0:19:04.60,Default,,0,0,0,,By the way, guys.
-Dialogue: 10,0:19:04.60,0:19:07.00,Default,,0,0,0,,Don't you reckon saving electricity is a bit unambitious?
+Dialogue: 10,0:19:04.60,0:19:07.00,Default,TM,0,0,0,,Don't you reckon saving electricity is a bit unambitious?{TM: Snap start to keyframe.}
 Dialogue: 10,0:19:07.00,0:19:11.46,Default,,0,0,0,,{\q2}Rather than cutting down how much we use, \Nshouldn't we instead focus on generating more?
 Dialogue: 10,0:19:11.87,0:19:14.42,Default,,0,0,0,,It's a human-powered generator!
 Dialogue: 10,0:19:16.32,0:19:17.53,Default,,0,0,0,,Who's gonna ride it?
