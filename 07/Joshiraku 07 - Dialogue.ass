@@ -18,9 +18,9 @@ Keyframes File: JoshirakuBD_07 (Premux)._keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 40
-Active Line: 44
-Video Position: 5456
+Scroll Position: 419
+Active Line: 425
+Video Position: 20478
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -454,8 +454,8 @@ Dialogue: 10,0:14:07.11,0:14:08.99,Default,,0,0,0,,Kukuru would be "person" and.
 Dialogue: 10,0:14:08.99,0:14:10.41,Default,,0,0,0,,"Pain" for sure.
 Dialogue: 10,0:14:10.70,0:14:11.45,Default,,0,0,0,,Huh?
 Dialogue: 10,0:14:12.37,0:14:13.58,Default,,0,0,0,,That's cool!
-Dialogue: 10,0:14:14.08,0:14:18.62,Default,,0,0,0,,{\q2}Born into a poor family, abused, neglected, \Nsent out to pick pockets on the street,{TM: No lead-in.}{Fixed}
-Dialogue: 10,0:14:18.62,0:14:22.25,Default,TM,0,0,0,,{\q2}protective custody, drop out, \Nteenage pregnancy, get married,{TM: Snap to "keyframe" at 0:14:18.816 or add more lead-in.}{Fixed? Not sure if it looks right}{I think I would just snap. There's too much movement otherwise. You still get about 120ms lead-in anyway by snapping.}
+Dialogue: 10,0:14:14.08,0:14:19.25,Default,,0,0,0,,{\q2}Born into a poor family, abused, neglected, \Nsent out to pick pockets on the street,{TM: No lead-in.}{Fixed}
+Dialogue: 10,0:14:19.25,0:14:22.25,Default,,0,0,0,,{\q2}protective custody, drop out, \Nteenage pregnancy, get married,{TM: Snap to "keyframe" at 0:14:18.816 or add more lead-in.}{Fixed? Not sure if it looks right}{I think I would just snap. There's too much movement otherwise. You still get about 120ms lead-in anyway by snapping.}
 Dialogue: 10,0:14:22.25,0:14:24.53,Default,,0,0,0,,domestic violence, poisoning, arrest, divorce, illness!
 Dialogue: 10,0:14:24.53,0:14:26.01,Default,,0,0,0,,Talk about a sob story!{TM: The first syllable starts at 0:14:24.63.}{Fixed}
 Dialogue: 10,0:14:26.01,0:14:28.22,Default,,0,0,0,,It's like you're trying to win a TV talent show!
