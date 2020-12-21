@@ -18,9 +18,9 @@ Keyframes File: JoshirakuBD_07 (Premux)._keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 146
-Active Line: 151
-Video Position: 6386
+Scroll Position: 105
+Active Line: 108
+Video Position: 6310
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -136,7 +136,18 @@ Dialogue: 10,0:04:22.20,0:04:22.24,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA
 Dialogue: 10,0:04:22.24,0:04:22.28,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(648.42,671.26)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
 Dialogue: 10,0:04:22.28,0:04:22.32,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(648.29,679.59)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
 Dialogue: 10,0:04:22.32,0:04:22.36,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(643.11,673.09)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
-Dialogue: 10,0:04:22.36,0:04:22.82,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(650.49,668.87)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
+Comment: 10,0:04:22.36,0:04:22.82,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(650.49,668.87)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
+Dialogue: 10,0:04:22.36,0:04:22.40,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(641.6,668.87)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
+Dialogue: 10,0:04:22.40,0:04:22.45,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(640.8,666.96)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
+Dialogue: 10,0:04:22.45,0:04:22.49,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(645.1,656.38)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
+Dialogue: 10,0:04:22.49,0:04:22.53,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(640.8,668.3)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
+Dialogue: 10,0:04:22.53,0:04:22.57,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(649,673.66)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
+Dialogue: 10,0:04:22.57,0:04:22.61,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(643.1,661.68)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
+Dialogue: 10,0:04:22.61,0:04:22.65,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(643,646.33)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
+Dialogue: 10,0:04:22.65,0:04:22.70,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(640.7,658)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
+Dialogue: 10,0:04:22.70,0:04:22.74,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(649.4,659.37)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
+Dialogue: 10,0:04:22.74,0:04:22.78,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(645.5,670.9)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
+Dialogue: 10,0:04:22.78,0:04:22.82,Default,ST,0,0,0,,{=0}{\1a&H00&\3a&H00&\4a&HA0&\pos(659.7,662.89)}We've all been infected! {TO-DO(?): track to actual movement rather than random}{ST: Yes. It's distracting and hard to read otherwise.}{## I can't get this to track nicely, since I can't into mocha. @gsk?}
 Dialogue: 10,0:04:22.82,0:04:22.86,Default,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&HA0&\pos(650.49,668.87)}We really {\i1}are{\i0} done for now!
 Dialogue: 10,0:04:22.86,0:04:22.90,Default,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&HA0&\pos(642.9,674.97)}We really {\i1}are{\i0} done for now!
 Dialogue: 10,0:04:22.90,0:04:22.95,Default,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&HA0&\pos(627.46,674.29)}We really {\i1}are{\i0} done for now!
