@@ -16,6 +16,10 @@ Audio File: JoshirakuBD_08 (Premux).mkv
 Video File: JoshirakuBD_08 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
+Video Zoom Percent: 0.875000
+Scroll Position: 536
+Active Line: 538
+Video Position: 22812
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -223,8 +227,8 @@ Dialogue: 0,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\
 Dialogue: 1,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\fscx77\fscy70\c&HFFFFFF&\p1\pos(614.265,548.408)}m -302 -92 l 328 -92 328 86 -302 86
 Dialogue: 2,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\fscx74.6\fscy60\p1\c&H000000&\pos(614.265,548.408)}m -302 -92 l 328 -92 328 86 -302 86
 Dialogue: 3,0:11:16.20,0:11:17.16,Sign,,0,0,0,midcard,{\an7\blur0.9\bord0\shad0\fscx73.4\fscy54\p1\c&HFFFFFF&\pos(614.265,548.408)}m -300 -92 l 326 -92 326 86 -300 86
-Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H422D26&\fs30\fnBolide\pos(1191.47,189.559)}Sugamon's
-Dialogue: 0,0:11:17.16,0:11:18.12,Sign,TS,0,0,0,,{\blur1\c&H422D26&\fs28\fnBolide\pos(1169.371,216.025)}Buttocks{TS: This is too close to the left edge of the banner. I recommend moving it to the right side and letting it get cut off as necessary.}
+Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H422D26&\fs30\fnBolide\pos(1235.47,197.56)}Sugamon's Buttocks
+Comment: 0,0:11:17.16,0:11:18.12,Sign,TS,0,0,0,,{\blur1\c&H422D26&\fs28\fnBolide\pos(1169.371,216.025)}Buttocks{TS: This is too close to the left edge of the banner. I recommend moving it to the right side and letting it get cut off as necessary.}
 Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H896A48&\fs30\fnBolide\pos(55.602,155.21)\frz358.1}Sugamon's
 Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&H896A48&\fs28\fnBolide\pos(147.168,180.952)\frz358.2}Buttocks
 Dialogue: 0,0:11:17.16,0:11:18.12,Sign,,0,0,0,,{\blur1\c&HC6AFB0&\fs28\fnBolide\pos(587.173,43.027)}S{\c&HC2ABAC&}u{\c&HBDA7A8&}g{\c&HB9A2A4&}a{\c&HB59EA0&}m{\c&HB19A9C&}o{\c&HAC9698&}n{\c&HA89194&}'{\c&HA48D90&}s{\c&HA0898C&}{\c&H9B8588&}
@@ -563,9 +567,9 @@ Dialogue: 3,0:15:47.72,0:15:51.43,Sign,,0,0,0,,{\blur5\fnArtificeSSK\fs24\fsp0.6
 Dialogue: 4,0:15:47.72,0:15:51.43,Sign,,0,0,0,,{\blur3\fnArtificeSSK\fs24\fsp0.6\pos(454,658)\frz359.8\c&H44321F&\alpha&HB0&}T{\c&H43321F&}h{\c&H41311F&}o{\c&H40311F&}r{\c&H3E301F&}n{\c&H3D301F&}p{\c&H3B2F1F&}u{\c&H3A2F1F&}l{\c&H382E1F&}l{\c&H372E1F&}e{\c&H352D1F&}r{\c&H342D1F&} {\c&H332D1F&}h{\c&H312C1F&}a{\c&H302C1F&}l{\c&H2E2B1F&}l{\c&H2D2B1F&} {\c&H2B2A1F&}e{\c&H2A2A1F&}n{\c&H28291F&}t{\c&H27291F&}r{\c&H25281F&}a{\c&H24281F&}n{\c&H22271F&}c{\c&H21271F&}e
 Dialogue: 5,0:15:47.72,0:15:51.43,Sign,,0,0,0,,{\blur0.95\fnArtificeSSK\fs24\fsp0.6\pos(454,658)\frz359.8\c&H44321F&}T{\c&H43321F&}h{\c&H41311F&}o{\c&H40311F&}r{\c&H3E301F&}n{\c&H3D301F&}p{\c&H3B2F1F&}u{\c&H3A2F1F&}l{\c&H382E1F&}l{\c&H372E1F&}e{\c&H352D1F&}r{\c&H342D1F&} {\c&H332D1F&}h{\c&H312C1F&}a{\c&H302C1F&}l{\c&H2E2B1F&}l{\c&H2D2B1F&} {\c&H2B2A1F&}e{\c&H2A2A1F&}n{\c&H28291F&}t{\c&H27291F&}r{\c&H25281F&}a{\c&H24281F&}n{\c&H22271F&}c{\c&H21271F&}e
 Dialogue: 0,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx80\fscy80\c&H010000&\p1\frz348.8\pos(1109.27,239.8)}m -168 -46 l 182 -46 182 43 -168 43
-Dialogue: 1,0:15:51.43,0:15:53.93,Sign,TS,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx77\fscy70\c&HFFFFFF&\p1\frz348.8\pos(1109.27,239.8)}m -168 -46 l 182 -46 182 43 -168 43{TS: The original sign is off-white, not full white.}
+Dialogue: 1,0:15:51.43,0:15:53.93,Sign,TS,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx77\fscy70\c&HFEFEFE&\p1\frz348.8\pos(1109.27,239.8)}m -168 -46 l 182 -46 182 43 -168 43{TS: The original sign is off-white, not full white.}
 Dialogue: 2,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx74.6\fscy60\p1\c&H000000&\frz348.8\pos(1109.27,239.8)}m -168 -46 l 182 -46 182 43 -168 43
-Dialogue: 3,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx73.4\fscy54\p1\c&HFFFFFF&\frz348.8\pos(1109.27,239.8)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 3,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx73.4\fscy54\p1\c&HFEFEFE&\frz348.8\pos(1109.27,239.8)}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 4,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\fscx80\fscy80\frz348.7\fnBrushType-SemiBold\fs59\b0\c&H000000&\blur0.7\pos(1115.13,242.94)}Tetora Bouhatei
 Dialogue: 0,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8\pos(449.71,592.177)}Rakugo Girls
 Dialogue: 0,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8\pos(449.71,592.177)}Rakugo Girls
