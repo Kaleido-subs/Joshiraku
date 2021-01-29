@@ -356,7 +356,7 @@ Dialogue: 10,0:10:27.77,0:10:28.90,Default,,0,0,0,,Ticket scalpers
 Dialogue: 10,0:10:29.85,0:10:31.61,Default,,0,0,0,,and His Excellency Rozen!
 Dialogue: 9,0:10:29.85,0:10:32.82,Alt,,0,0,0,,{\an7\fs32\shad0\pos(33.333,18.667)}Note:
 Dialogue: 9,0:10:29.85,0:10:32.82,Alt,,0,0,0,,{\an7\fs29.333\bord2.667\shad0\pos(33.333,52)}Former Prime Minister Taro Aso, \Nwho was reportedly seen reading \N"Rozen Maiden" at an airport.
-Dialogue: 10,0:10:30.97,0:10:32.82,Default,,0,0,0,,Really? Unbelievable!
+Dialogue: 10,0:10:30.97,0:10:32.82,Alt,,0,0,0,,Really? Unbelievable!
 Dialogue: 10,0:10:34.78,0:10:36.99,Default,,0,0,0,,Their gestures are pretty cool, too.
 Dialogue: 10,0:10:36.99,0:10:39.66,Default,,0,0,0,,One of the top three gestures.
 Dialogue: 10,0:10:39.66,0:10:40.78,Default,,0,0,0,,What are the other two?
