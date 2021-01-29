@@ -478,7 +478,7 @@ Dialogue: 10,0:15:07.92,0:15:11.44,Default,,0,0,0,,The first Yoshinoya was estab
 Dialogue: 10,0:15:11.44,0:15:12.34,Default,,0,0,0,,Sounds good to me.
 Dialogue: 10,0:15:13.89,0:15:16.26,Default,,0,0,0,,Look! The promised land!
 Dialogue: 10,0:15:16.26,0:15:19.28,Default,,0,0,0,,Hey, wait for me!
-Comment: 0,0:15:22.86,0:15:22.86,Default,chapter,0,0,0,,{Part C}
+Comment: 0,0:15:22.90,0:15:22.90,Default,chapter,0,0,0,,{Part C}
 Dialogue: 10,0:15:29.94,0:15:32.02,Default,,0,0,0,,What's wrong, Kukuru?
 Dialogue: 10,0:15:32.02,0:15:34.98,Default,,0,0,0,,The manager just chewed me out.
 Dialogue: 10,0:15:35.49,0:15:39.58,Default,,0,0,0,,{\q2}He said the electricity bill for the backstage room \Nwas unbelievably high last month.
