@@ -14,13 +14,8 @@ Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default (720p)
 Audio File: JoshirakuBD_08 (Premux).mkv
 Video File: JoshirakuBD_08 (Premux).mkv
-Keyframes File: JoshirakuBD_08 (Premux)_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 414
-Active Line: 392
-Video Position: 30355
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -333,15 +328,15 @@ Dialogue: 10,0:16:32.14,0:16:34.26,Default,,0,0,0,,Today is the 40th of April.
 Dialogue: 10,0:16:35.35,0:16:36.43,Default,,0,0,0,,Why?
 Dialogue: 10,0:16:37.10,0:16:40.12,Default,,0,0,0,,Kukuru gets the May Blues in May.
 Dialogue: 10,0:16:40.12,0:16:42.44,Default,,0,0,0,,Of course, I can't believe I forgot!
-Dialogue: 10,0:16:43.65,0:16:45.07,Default,ED,0,0,0,,Sure feels April!{ED: Is it some kind of slang to omit the "like" after "feels"?}{## I've seen similar phrasing before. If you feel it's too odd, I'm fine with including "like"}
+Dialogue: 10,0:16:43.65,0:16:45.07,Default,,0,0,0,,Sure feels like April!{ED: Is it some kind of slang to omit the "like" after "feels"?}{## I've seen similar phrasing before. If you feel it's too odd, I'm fine with including "like"}
 Dialogue: 10,0:16:46.90,0:16:50.70,Default,,0,0,0,,{\i1}They're expecting me to get the May Blues again.
 Dialogue: 10,0:16:51.20,0:16:55.87,Default,,0,0,0,,A-pril! A-pril! A-pril!
 Dialogue: 10,0:16:56.75,0:16:59.77,Default,,0,0,0,,Kukuru's expression got darker!
 Dialogue: 10,0:16:59.77,0:17:01.73,Default,,0,0,0,,It's no longer a case of if, but when!
 Dialogue: 10,0:17:01.73,0:17:04.38,Default,,0,0,0,,Is there anything we can do to make her smile?
 Dialogue: 10,0:17:05.35,0:17:08.25,Default,,0,0,0,,Hey! Let's have a staring contest!
-Dialogue: 10,0:17:08.25,0:17:12.72,Default,,0,0,0,,{\q2}Daruma, daruma, stare me down. {## I want to replace this with a kids' game, but I can't think of any that fit this well :(}{## Oh well, if we can think of something better before batch, we'll just do that (probs not)}
-Dialogue: 10,0:17:12.72,0:17:14.63,Default,,0,0,0,,{\q2}Laughs and smiles aren't allowed.
+Dialogue: 10,0:17:08.25,0:17:12.72,Default,,0,0,0,,Daruma, daruma, stare me down. {## I want to replace this with a kids' game, but I can't think of any that fit this well :(}{## Oh well, if we can think of something better before batch, we'll just do that (probs not)}
+Dialogue: 10,0:17:12.72,0:17:14.63,Default,,0,0,0,,Laughs and smiles aren't allowed.
 Dialogue: 10,0:17:14.63,0:17:16.42,Default,,0,0,0,,A-puh-puh!
 Dialogue: 10,0:17:24.82,0:17:26.28,Default,,0,0,0,,Wh-What about this?!
 Dialogue: 10,0:17:26.28,0:17:27.69,Default,,0,0,0,,That... hurts...
@@ -383,7 +378,7 @@ Dialogue: 10,0:19:06.06,0:19:07.78,Default,,0,0,0,,Y'know, these days.
 Dialogue: 10,0:19:07.78,0:19:10.17,Default,,0,0,0,,Even if they're not real, they should be.
 Dialogue: 10,0:19:10.17,0:19:14.12,Default,,0,0,0,,At any rate, we can't let you suffer alone!
 Dialogue: 10,0:19:14.12,0:19:16.09,Default,,0,0,0,,We should help shoulder the pain!
-Dialogue: 10,0:19:16.09,0:19:18.22,Default,ED,0,0,0,,I've got the June Blues!{ED: Should this be consistent with the wording from earlier, "June Woes", which also shows up a few lines later? If so, November, February and December should get their own words as well.}{## I was thinking of other terms to use for them, but I can't think of any that fit well. I think I forgot to mark those, whoops}
+Dialogue: 10,0:19:16.09,0:19:18.22,Default,ED,0,0,0,,I've got the June Woes!{ED: Should this be consistent with the wording from earlier, "June Woes", which also shows up a few lines later? If so, November, February and December should get their own words as well.}{## I was thinking of other terms to use for them, but I can't think of any that fit well. I think I forgot to mark those, whoops}
 Dialogue: 10,0:19:18.22,0:19:18.59,Default,,0,0,0,,What?
 Dialogue: 10,0:19:18.87,0:19:21.35,Default,,0,0,0,,We'll all take on a different month.
 Dialogue: 10,0:19:21.35,0:19:24.06,Default,,0,0,0,,Oh, I see! I'll go for the November Blues!
