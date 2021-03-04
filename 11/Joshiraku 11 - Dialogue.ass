@@ -56,7 +56,7 @@ Dialogue: 10,0:03:21.47,0:03:24.06,Default,,0,0,0,,school swimsuits are the most
 Dialogue: 10,0:03:24.06,0:03:26.48,Default,,0,0,0,,There are people who think that, I'm sure...
 Dialogue: 10,0:03:26.48,0:03:29.48,Default,,0,0,0,,School swimsuits always look the same.
 Dialogue: 10,0:03:29.48,0:03:31.07,Default,,0,0,0,,Are there specific regulations?
-Dialogue: 10,0:03:31.07,0:03:33.99,Default,,0,0,0,,Like, "it has to be such-and-such".
+Dialogue: 10,0:03:31.07,0:03:33.99,Default,,0,0,0,,Like, "It has to be such-and-such".
 Dialogue: 10,0:03:34.28,0:03:38.82,Default,,0,0,0,,{\q2}Probably, but I think it's best to stay away from \Nanyone who knows too much about that subject.
 Dialogue: 10,0:03:38.82,0:03:41.70,Default,,0,0,0,,Unless you want them to go on for hours.
 Dialogue: 10,0:03:42.20,0:03:44.25,Default,,0,0,0,,{\q2}"The old designs were much better \Nthan the new ones, blah blah."
@@ -301,26 +301,27 @@ Dialogue: 10,0:14:27.49,0:14:30.43,Default,,0,0,0,,{\q2}The reason we're here is
 Dialogue: 10,0:14:30.72,0:14:34.10,Default,,0,0,0,,{\q2}And if they're up to episode eleven, \Ntheir schedule must be ruthless.
 Dialogue: 10,0:14:36.61,0:14:40.32,Default,,0,0,0,,Please take good care of us.
 Comment: 0,0:14:43.03,0:14:43.03,Default,chapter,0,0,0,,{Part C}
-Dialogue: 10,0:14:43.57,0:14:47.57,Default,,0,0,0,,"Ack, carrying that tree really did \Na number on my neck."
-Dialogue: 10,0:14:47.57,0:14:51.25,Default,,0,0,0,,"Well you know what they say, \NChristmas'll crush muscles!"
+Dialogue: 10,0:14:43.57,0:14:47.57,Default,,0,0,0,,{\q2}"Ack, carrying that tree \Nreally did a number on my neck."
+Dialogue: 10,0:14:47.57,0:14:51.25,Default,,0,0,0,,{\q2}"Well you know what they say, \NChristmas'll crush muscles!"
 Dialogue: 10,0:14:51.25,0:14:53.58,Default,,0,0,0,,"Lord have mercy on me for that one!"
-Dialogue: 10,0:14:54.46,0:14:55.71,Default,,0,0,0,,Thanks for your continued appreciation.
+Dialogue: 10,0:14:53.58,0:14:55.71,Default,,0,0,0,,Thanks for your continued appreciation.
 Dialogue: 10,0:14:59.88,0:15:02.32,Default,,0,0,0,,Good job getting a Party Bucket!
 Dialogue: 10,0:15:02.32,0:15:04.42,Default,,0,0,0,,Nope, look inside.
-Dialogue: 10,0:15:05.30,0:15:06.14,Default,,0,0,0,,Grilled chicken!
+Dialogue: 10,0:15:05.30,0:15:06.14,Default,,0,0,0,,Grilled chicken! {## Looks more like chicken skewers}
 Dialogue: 10,0:15:06.14,0:15:07.45,Default,,0,0,0,,Aw...
-Dialogue: 10,0:15:07.45,0:15:09.14,Default,,0,0,0,,I forgot to reserve.
-Dialogue: 10,0:15:09.14,0:15:10.72,Default,,0,0,0,,But you managed to get the bucket.
-Dialogue: 10,0:15:10.72,0:15:13.60,Default,,0,0,0,,Hey, grilled or fried, it's still chicken.
-Dialogue: 10,0:15:13.60,0:15:15.48,Default,,0,0,0,,Let's have toast!
+Dialogue: 10,0:15:07.45,0:15:09.14,Default,,0,0,0,,I forgot to make a reservation. {## "make a reservation" sounds a bit odd here, since they're not renting a place. As does just "reserve", though. Got any ideas?}
+Dialogue: 10,0:15:09.14,0:15:10.72,Default,,0,0,0,,But you did get the bucket?
+Dialogue: 10,0:15:10.72,0:15:13.60,Default,,0,0,0,,Hey, grilled or fried{## /fried or skewered}, chicken is chicken.
+Dialogue: 10,0:15:13.60,0:15:15.48,Default,,0,0,0,,Let's have a toast!
 Dialogue: 10,0:15:16.48,0:15:17.98,Default,,0,0,0,,Non-alcoholic for you, Kigu.
 Dialogue: 10,0:15:17.98,0:15:20.15,Default,,0,0,0,,Merry Christmas!
 Dialogue: 10,0:15:20.15,0:15:22.03,Default,,0,0,0,,Did everybody bring their presents?
+Dialogue: 10,0:15:22.03,0:15:22.99,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:15:22.99,0:15:24.70,Default,,0,0,0,,Shall we hand out the gifts, then?
-Dialogue: 10,0:15:24.70,0:15:25.70,Default,,0,0,0,,Let's go around the circle.
-Dialogue: 10,0:15:26.32,0:15:28.20,Default,,0,0,0,,I know how this'll turn out.
-Dialogue: 10,0:15:28.20,0:15:30.83,Default,,0,0,0,,Tetora will get the best gift.
-Dialogue: 10,0:15:30.83,0:15:32.58,Default,,0,0,0,,What a farce.
+Dialogue: 10,0:15:24.70,0:15:25.70,Default,,0,0,0,,Counterclockwise!
+Dialogue: 10,0:15:26.32,0:15:28.20,Default,,0,0,0,,{\i1}I know how this'll turn out.
+Dialogue: 10,0:15:28.20,0:15:30.83,Default,,0,0,0,,{\i1}Tetora will get the best gift.
+Dialogue: 10,0:15:30.83,0:15:32.58,Default,,0,0,0,,{\i1}This sucks so much.
 Dialogue: 10,0:15:32.58,0:15:33.83,Default,,0,0,0,,And stop!
 Dialogue: 10,0:15:34.75,0:15:35.96,Default,,0,0,0,,Open it!
 Dialogue: 10,0:15:36.92,0:15:39.17,Default,,0,0,0,,That's from me! Isn't it Christmassy?
@@ -330,22 +331,21 @@ Dialogue: 10,0:15:43.96,0:15:46.13,Default,,0,0,0,,This is useless once Christma
 Dialogue: 10,0:15:46.13,0:15:46.80,Default,,0,0,0,,Aw...
 Dialogue: 10,0:15:47.80,0:15:49.09,Default,,0,0,0,,Sweet chestnuts.
 Dialogue: 10,0:15:49.09,0:15:50.14,Default,,0,0,0,,Ah, they're from me!
-Dialogue: 10,0:15:50.14,0:15:52.89,Default,,0,0,0,,Christmas and chestnuts both start with CH.
-Dialogue: 10,0:15:52.89,0:15:54.22,Default,,0,0,0,,What about the other 7 letters?!
-Dialogue: 10,0:15:54.22,0:15:57.81,Default,,0,0,0,,Nice idea, but somehow I'm struggling \Nto be pleased with this.
+Dialogue: 10,0:15:50.14,0:15:52.89,Default,,0,0,0,,"Christmas" and "chestnut" both start with "ch".
+Dialogue: 10,0:15:52.89,0:15:54.22,Default,,0,0,0,,What about the rest?!
+Dialogue: 10,0:15:54.22,0:15:57.81,Default,,0,0,0,,{\q2}Nice idea, but somehow I'm struggling \Nto be pleased with this.
 Dialogue: 10,0:15:57.81,0:15:59.86,Default,,0,0,0,,There was a 1000 yen limit...
-Dialogue: 10,0:16:02.48,0:16:04.94,Default,,0,0,0,,It's ChristmAS so I got you an AShtray.
-Dialogue: 10,0:16:04.94,0:16:06.24,Default,,0,0,0,,Not you too!
+Dialogue: 10,0:16:02.48,0:16:04.94,Default,,0,0,0,,It's Christm{\i1}as{\i0} so I got you an {\i1}as{\i0}htray.
+Dialogue: 10,0:16:04.94,0:16:06.24,Default,,0,0,0,,Not you, too!
 Dialogue: 10,0:16:06.86,0:16:08.32,Default,,0,0,0,,Mine is so big!
 Dialogue: 10,0:16:08.32,0:16:09.53,Default,,0,0,0,,That's from me.
 Dialogue: 10,0:16:09.53,0:16:12.08,Default,,0,0,0,,100% pure pulp toilet paper!
 Dialogue: 10,0:16:12.08,0:16:13.70,Default,,0,0,0,,That's a very Marii present!
-Dialogue: 10,0:16:14.41,0:16:16.75,Default,,0,0,0,,Absolutely nothing to do with Christmas.
+Dialogue: 10,0:16:14.41,0:16:16.75,Default,,0,0,0,,Got piss-all to do with Christmas, though.
 Dialogue: 10,0:16:17.33,0:16:19.96,Default,,0,0,0,,Sorry, I didn't have time to buy anything.
-Dialogue: 10,0:16:21.38,0:16:22.63,Default,,0,0,0,,Thanks!
-Dialogue: 10,0:16:22.63,0:16:24.71,Default,,0,0,0,,That's the best present of any of them.
-Dialogue: 10,0:16:25.46,0:16:27.05,Default,,0,0,0,,Your nose is very red, Marii.
-Dialogue: 10,0:16:27.05,0:16:28.18,Default,,0,0,0,,Like a certain reindeer.
+Dialogue: 10,0:16:20.42,0:16:22.63,Default,,0,0,0,,No worries. Thanks!
+Dialogue: 10,0:16:22.63,0:16:24.71,Default,,0,0,0,,That's the best one out of all of them.
+Dialogue: 10,0:16:25.46,0:16:28.18,Default,,0,0,0,,{\q2}Your nose is very red, Marii. \NLike a certain reindeer.
 Dialogue: 10,0:16:28.63,0:16:30.47,Default,,0,0,0,,I've got a bit of a cold.
 Dialogue: 10,0:16:30.47,0:16:31.85,Default,,0,0,0,,Blow your nose.
 Dialogue: 10,0:16:34.93,0:16:38.98,Default,,0,0,0,,By the way, shouldn't a Christmas Party have a tree?
@@ -356,17 +356,17 @@ Dialogue: 10,0:16:46.07,0:16:48.07,Default,,0,0,0,,Whatcha doing there, Teto?
 Dialogue: 10,0:16:48.07,0:16:49.15,Default,,0,0,0,,Don't look!
 Dialogue: 10,0:16:49.70,0:16:52.07,Default,,0,0,0,,So that's where you get material for your routine.
 Dialogue: 10,0:16:52.07,0:16:54.74,Default,,0,0,0,,Hey, it's hard coming up with opening gags.
-Dialogue: 10,0:16:54.74,0:16:58.96,Default,,0,0,0,,They always know what kind of things \Nyou usually browse or buy.
-Dialogue: 10,0:16:58.96,0:17:00.96,Default,,0,0,0,,It's a pretty amazing service for a rainforest.
-Dialogue: 10,0:17:00.96,0:17:05.21,Default,,0,0,0,,Sometimes it's scary how accurately \Nthey can pin down your interests.
-Dialogue: 10,0:17:05.21,0:17:07.80,Default,,0,0,0,,When things are on sale \NI always end up buying them.
-Dialogue: 10,0:17:07.80,0:17:13.93,Default,,0,0,0,,I forgot that I preordered something and \Nbought it when it came out. Now I've got two...
-Dialogue: 10,0:17:13.93,0:17:19.06,Default,,0,0,0,,But it's very kind how they say "you last \Nbought this in such a month of such a year."
+Dialogue: 10,0:16:54.74,0:16:58.96,Default,,0,0,0,,{\q2}They always seem to know exactly \Nwhat you want to browse or buy.
+Dialogue: 10,0:16:58.96,0:17:00.96,Default,,0,0,0,TLC,It's a pretty amazing service for a rainforest. {## Conflicts with gg. TLC?}
+Dialogue: 10,0:17:00.96,0:17:05.21,Default,,0,0,0,,{\q2}Sometimes it's scary how accurately \Nthey can pin down your interests.
+Dialogue: 10,0:17:05.21,0:17:07.80,Default,,0,0,0,,{\q2}When things are on sale \NI always end up buying them.
+Dialogue: 10,0:17:07.80,0:17:13.93,Default,,0,0,0,,{\q2}I forgot that I pre-ordered something and \Nbought it when it came out. Now I've got two...
+Dialogue: 10,0:17:13.93,0:17:19.06,Default,,0,0,0,,{\q2}But it's very kind how they say \N"You last bought this in such a month of such a year".
 Dialogue: 10,0:17:22.40,0:17:23.77,Default,,0,0,0,,My nose is all bunged up.
 Dialogue: 10,0:17:23.77,0:17:26.11,Default,,0,0,0,,It's very red.
-Dialogue: 10,0:17:26.11,0:17:27.36,Default,,0,0,0,,Delivery for you!
+Dialogue: 10,0:17:26.11,0:17:27.36,Default,,0,0,0,,Delivery service!
 Dialogue: 10,0:17:27.36,0:17:28.03,Default,,0,0,0,,It's here!
-Dialogue: 10,0:17:33.37,0:17:34.20,Default,,0,0,0,,Oops.
+Dialogue: 10,0:17:33.37,0:17:34.20,Default,,0,0,0,,Whoops.
 Dialogue: 10,0:17:34.20,0:17:35.08,Default,,0,0,0,,What's this?
 Dialogue: 10,0:17:35.08,0:17:37.29,Default,,0,0,0,,I think it's the tree I ordered!
 Dialogue: 10,0:17:37.29,0:17:38.45,Default,,0,0,0,,Isn't it a bit big?!
@@ -378,55 +378,55 @@ Dialogue: 10,0:17:48.80,0:17:51.01,Default,,0,0,0,,Hey! Is everyone still alive?
 Dialogue: 10,0:17:51.63,0:17:52.59,Default,,0,0,0,,Just about!
 Dialogue: 10,0:17:52.59,0:17:54.01,Default,,0,0,0,,I'm alive!
 Dialogue: 10,0:17:54.01,0:17:56.10,Default,,0,0,0,,The leaves are poking me and it hurts!
-Dialogue: 10,0:17:56.10,0:17:59.02,Default,,0,0,0,,Well, guys, the tree's here.
+Dialogue: 10,0:17:56.10,0:17:59.02,Default,,0,0,0,,Well girls, the tree's here.
 Dialogue: 10,0:17:59.47,0:18:01.10,Default,,0,0,0,,Time for our Christmas party!
 Dialogue: 10,0:18:01.10,0:18:04.23,Default,,0,0,0,,Party?! Like this? Are you being serious right now?
-Dialogue: 10,0:18:04.23,0:18:06.02,Default,,0,0,0,,Agh, these branches are so ANNOYING!
-Dialogue: 10,0:18:04.23,0:18:06.02,Default,,0,0,0,,{\an8}Are you listening to me? You forgot to say "I'm so sorry everyone"! Say it! I wanna hear you say it!
-Dialogue: 10,0:18:07.32,0:18:07.90,Default,,0,0,0,,It's dark!
+Dialogue: 10,0:18:04.23,0:18:06.02,Default,,0,0,0,,Agh, these branches are so annoying!
+Dialogue: 10,0:18:04.23,0:18:06.02,Default,,0,0,0,,{\an8\q2}Are you listening to me? You forgot to say \N"I'm so sorry everyone"! Say it! I wanna hear you say it!
+Dialogue: 10,0:18:07.32,0:18:07.90,Default,,0,0,0,,It's pitch black!
 Dialogue: 10,0:18:08.32,0:18:10.36,Default,,0,0,0,,Starless and Bible black...
 Dialogue: 10,0:18:10.36,0:18:13.24,Default,,0,0,0,,Darkness, surrounded by branches.
 Dialogue: 10,0:18:13.24,0:18:14.82,Default,,0,0,0,,What on Earth are we gonna do?
 Dialogue: 10,0:18:16.49,0:18:19.20,Default,,0,0,0,,Hm? A single light, shining in the darkness.
-Dialogue: 10,0:18:24.08,0:18:29.59,Default,,0,0,0,,And so, even though everyone had made \Nfun of her for her shining, red nose,
+Dialogue: 10,0:18:24.08,0:18:29.59,Default,,0,0,0,,{\q2}And so, even though everyone had \Nmade fun of her for her shining, red nose,
 Dialogue: 10,0:18:29.59,0:18:31.76,Default,,0,0,0,,Marii ended up being of great use.
 Dialogue: 10,0:18:31.76,0:18:33.09,Default,,0,0,0,,Am I a reindeer?!
 Dialogue: 10,0:18:33.09,0:18:35.72,Default,,0,0,0,,Everyone, group up. Don't stub your toes!
 Dialogue: 10,0:18:35.72,0:18:37.64,Default,,0,0,0,,We're going to rub a nose?
-Dialogue: 10,0:18:37.64,0:18:41.60,Default,,0,0,0,,The Maori of New Zealand touch noses as a greeting.
-Dialogue: 10,0:18:41.60,0:18:43.06,Default,,0,0,0,,I said "don't stub your toes"!
+Dialogue: 10,0:18:37.64,0:18:41.60,Default,,0,0,0,,{\q2}Just like the Maori of New Zealand. \NThey touch noses as a greeting.
+Dialogue: 10,0:18:41.60,0:18:43.06,Default,,0,0,0,,I said "Don't stub your toes"!
 Dialogue: 10,0:18:43.06,0:18:44.48,Default,,0,0,0,,A grubby rose?
 Dialogue: 10,0:18:44.77,0:18:46.02,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:18:46.02,0:18:47.40,Default,,0,0,0,,Don't STUB your TOES!
+Dialogue: 10,0:18:46.02,0:18:47.40,Default,,0,0,0,,Don't {\i1}stub{\i0} your {\i1}toes{\i0}!
 Dialogue: 10,0:18:47.40,0:18:49.11,Default,,0,0,0,,Use Marii's nose as a guide.
 Dialogue: 10,0:18:49.11,0:18:51.18,Default,,0,0,0,,Follow the light!
 Dialogue: 10,0:18:51.18,0:18:52.32,Default,,0,0,0,,Go towards the light!
-Dialogue: 10,0:18:57.03,0:19:01.29,Default,,0,0,0,,Yes... we should go into the light...
-Dialogue: 10,0:19:01.29,0:19:02.91,Default,,0,0,0,,No, wrong light!
+Dialogue: 10,0:18:57.03,0:19:01.29,Default,,0,0,0,,Yes, we should go into the light...
+Dialogue: 10,0:19:01.29,0:19:02.91,Default,,0,0,0,,No, wrong light! Wrong light!
 Dialogue: 10,0:19:02.91,0:19:04.62,Default,,0,0,0,,Did she hit her head on a branch?
 Dialogue: 10,0:19:04.62,0:19:06.29,Default,,0,0,0,,Don't leave us, Kukuru!
 Dialogue: 10,0:19:06.71,0:19:08.88,Default,,0,0,0,,Towards the light, towards the light...
 Dialogue: 10,0:19:11.21,0:19:12.38,Default,,0,0,0,,That's your cellphone!
-Dialogue: 10,0:19:12.38,0:19:13.76,Default,,0,0,0,,Hey, what're you doing?
+Dialogue: 10,0:19:12.38,0:19:13.76,Default,,0,0,0,,Hey, what are you doing?
 Dialogue: 10,0:19:13.76,0:19:16.05,Default,,0,0,0,,We could have used the light of the phone.
 Dialogue: 10,0:19:16.68,0:19:19.24,Default,,0,0,0,,The Bespectacled Bully strikes again.
 Dialogue: 10,0:19:19.24,0:19:20.93,Default,,0,0,0,,Who was that! Show yourself!
 Dialogue: 10,0:19:21.68,0:19:25.48,Default,,0,0,0,,Gah! Stupid trees!
-Dialogue: 10,0:19:26.02,0:19:27.23,Default,,0,0,0,,I'm finally gonna win!
+Dialogue: 10,0:19:26.02,0:19:27.23,Default,,0,0,0,,The time has finally come!
 Dialogue: 10,0:19:27.94,0:19:31.57,Default,,0,0,0,,I'm the only one with the power to light my way!
 Dialogue: 10,0:19:31.57,0:19:33.32,Default,,0,0,0,,Oh, the light went out...
 Dialogue: 10,0:19:34.36,0:19:36.15,Default,,0,0,0,,Hope you're ready, Bespectacled Bully!
 Dialogue: 10,0:19:36.15,0:19:39.24,Default,,0,0,0,,I've got years of pent-up retribution to unleash!
 Dialogue: 10,0:19:41.70,0:19:42.20,Default,,0,0,0,,Ow!
-Dialogue: 10,0:19:42.20,0:19:43.20,Default,,0,0,0,,Oops!
+Dialogue: 10,0:19:42.20,0:19:43.20,Default,,0,0,0,,Oops, wrong person.
 Dialogue: 10,0:19:43.54,0:19:45.58,Default,,0,0,0,,Marii hit me!
 Dialogue: 10,0:19:45.58,0:19:47.46,Default,,0,0,0,,Sorry, I didn't know it was you.
 Dialogue: 10,0:19:47.46,0:19:49.88,Default,,0,0,0,,Marii's turned into a jungle guerilla!
-Dialogue: 10,0:19:49.88,0:19:53.96,Default,,0,0,0,,You never know when I'm going to strike \Nat you from the darkness of the jungle!
+Dialogue: 10,0:19:49.88,0:19:53.96,Default,,0,0,0,,{\q2}You never know when I'm going to strike \Nat you from the darkness of the jungle!
 Dialogue: 10,0:19:54.71,0:19:55.63,Default,,0,0,0,,Who are you, Rambo?!
-Dialogue: 10,0:19:55.63,0:19:56.97,Default,,0,0,0,,Where did you get that from?!
-Dialogue: 10,0:19:56.97,0:19:58.18,Default,,0,0,0,,From Amazon!
-Dialogue: 10,0:19:59.34,0:20:00.68,Default,,0,0,0,,I bought something too!
+Dialogue: 10,0:19:55.63,0:19:56.97,Default,,0,0,0,,Where'd you get {\i1}that{\i0} from?!
+Dialogue: 10,0:19:56.97,0:19:58.18,Default,,0,0,0,,From Amazon! {## Now I kinda wanna keep it for all these instances LOL}
+Dialogue: 10,0:19:59.34,0:20:00.68,Default,,0,0,0,,I bought something, too!
 Dialogue: 10,0:20:05.52,0:20:06.60,Default,,0,0,0,,What are you, a Predator?!
 Dialogue: 10,0:20:07.94,0:20:09.73,Default,,0,0,0,,Stop this! The dressing room can't take it!
 Dialogue: 10,0:20:10.98,0:20:12.48,Default,,0,0,0,,Why do you look like that?
@@ -434,35 +434,36 @@ Dialogue: 10,0:20:13.19,0:20:15.28,Default,,0,0,0,,It's fluorescent paint from A
 Dialogue: 10,0:20:17.99,0:20:20.62,Default,,0,0,0,,This is a mudpack I bought from Amazon.
 Dialogue: 10,0:20:21.28,0:20:25.45,Default,,0,0,0,,What the hell have you guys been buying?!
 Dialogue: 10,0:20:26.83,0:20:28.46,Default,,0,0,0,,Gan, are you okay?
-Dialogue: 10,0:20:29.12,0:20:32.67,Default,,0,0,0,,If we're talking jungle films, \Nthere's one thing you can't leave out.
+Dialogue: 10,0:20:29.12,0:20:32.67,Default,,0,0,0,,{\q2}If we're talking jungle films, \Nthere's one thing you can't leave out.
 Dialogue: 10,0:20:33.13,0:20:34.17,Default,,0,0,0,,Cannibals!
 Dialogue: 10,0:20:34.17,0:20:35.30,Default,,0,0,0,,What's happened to your skin?!
 Dialogue: 10,0:20:35.30,0:20:36.55,Default,,0,0,0,,The Yamamomo tribe!
 Dialogue: 10,0:20:40.26,0:20:42.89,Default,,0,0,0,,This is scary. Somebody's gotta take her out.
 Dialogue: 10,0:20:45.22,0:20:47.02,Default,,0,0,0,,There she is. I see her!
 Dialogue: 10,0:20:51.02,0:20:51.90,Default,,0,0,0,,How...
-Dialogue: 10,0:20:51.90,0:20:55.65,Default,,0,0,0,,Idiot. During a night fight, the person \Nemitting light is at a disadvantage.
+Dialogue: 10,0:20:51.90,0:20:55.65,Default,,0,0,0,,{\q2}Idiot. During a night fight, the person \Nemitting light is at a disadvantage.
 Dialogue: 10,0:20:58.82,0:21:00.74,Default,,0,0,0,,It's gotten even brighter.
 Dialogue: 10,0:21:00.74,0:21:05.58,Default,,0,0,0,,I guess when you punched her, her nose swelled up!
-Dialogue: 10,0:21:05.58,0:21:06.83,Default,,0,0,0,,Oh, nice!
+Dialogue: 10,0:21:05.58,0:21:06.83,Default,,0,0,0,,Oh, nice going!
 Dialogue: 10,0:21:06.83,0:21:08.21,Default,,0,0,0,,But it's still dark.
 Dialogue: 10,0:21:08.21,0:21:10.83,Default,,0,0,0,,Could we make it a little brighter?
 Dialogue: 10,0:21:11.54,0:21:12.92,Default,,0,0,0,,For the greater good!
-Dialogue: 10,0:21:13.84,0:21:20.13,Default,,0,0,0,,The light was so sublime that it drew \Nall kinds of people from near and far.
-Dialogue: 10,0:21:20.55,0:21:23.72,Default,,0,0,0,,Delinquents who gathered \Nby the light of a convenience store.
+Dialogue: 10,0:21:13.84,0:21:20.13,Default,,0,0,0,,{\q2}The light was so sublime that it \Ndrew all kinds of people from near and far.
+Dialogue: 10,0:21:20.55,0:21:23.72,Default,,0,0,0,,{\q2}Delinquents who gathered \Nby the light of a convenience store.
 Dialogue: 10,0:21:23.72,0:21:26.04,Default,,0,0,0,,Out of fried chicken? What a joke.
 Dialogue: 10,0:21:26.04,0:21:28.23,Default,,0,0,0,,Couples visiting Don Quixote late at night.
 Dialogue: 10,0:21:28.23,0:21:29.64,Default,,0,0,0,,Isn't that totally awesome?
 Dialogue: 10,0:21:29.64,0:21:30.81,Default,,0,0,0,,The spirits of the dead.
-Dialogue: 10,0:21:30.81,0:21:33.44,Default,,0,0,0,,Yes... we should go into the light...
+Dialogue: 10,0:21:30.81,0:21:33.44,Default,,0,0,0,,Yes, we should go into the light...
 Dialogue: 10,0:21:33.73,0:21:35.40,Default,,0,0,0,,The warrior of light, Haraguchi.
 Dialogue: 10,0:21:35.40,0:21:37.48,Default,,0,0,0,,The fiber-optic-obsessed CEO.
 Dialogue: 10,0:21:37.48,0:21:39.90,Default,,0,0,0,,Ota Hikari, followed by his companion Tanaka.
 Dialogue: 10,0:21:40.20,0:21:41.15,Default,,0,0,0,,Bugs.
 Dialogue: 10,0:21:41.53,0:21:42.36,Default,,0,0,0,,Squid.
 Dialogue: 10,0:21:44.20,0:21:45.78,Default,,0,0,0,,What a fascinating tree.
-Dialogue: 10,0:21:46.53,0:21:49.12,Default,,0,0,0,,This turned out to be a great \NChristmas party in the end.
-Dialogue: 10,0:21:49.91,0:21:54.88,Default,,0,0,0,,I've never... I've never been to such \Na lively Christmas party...
+Dialogue: 10,0:21:46.53,0:21:49.12,Default,,0,0,0,,{\q2}This turned out to be a great \NChristmas party in the end.
+Dialogue: 10,0:21:49.91,0:21:51.46,Default,,0,0,0,,I've never...
+Dialogue: 10,0:21:51.46,0:21:54.88,Default,,0,0,0,,I've never been to such a lively Christmas party...
 Dialogue: 10,0:21:54.88,0:21:56.71,Default,,0,0,0,,Stop making this out to be a happy ending!
 Dialogue: 10,0:21:56.71,0:21:59.30,Default,,0,0,0,,All it needs is Christmas boots to make it perfect!
 Dialogue: 10,0:21:59.30,0:22:00.42,Default,,0,0,0,,I ordered some, you know.
@@ -473,8 +474,9 @@ Dialogue: 10,0:22:05.64,0:22:08.01,Default,,0,0,0,,I'm scared to see what happen
 Dialogue: 10,0:22:08.01,0:22:09.85,Default,,0,0,0,,I already ordered the bamboo decorations.
 Comment: 0,0:23:40.02,0:23:40.02,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:23:40.82,0:23:44.78,Default,,0,0,0,,Thank you for your continued patronage.
-Dialogue: 10,0:23:45.45,0:23:49.66,Default,,0,0,0,,I hope you'll forgive me for not revealing \Nmy face or giving my name.
+Dialogue: 10,0:23:45.45,0:23:49.66,Default,,0,0,0,,{\q2}I hope you'll forgive me for not \Nrevealing my face or giving my name.
 Dialogue: 10,0:23:50.37,0:23:57.71,Default,,0,0,0,,However, I'm sure we'll meet somewhere, someday.
-Dialogue: 10,0:23:58.04,0:24:00.71,Default,,0,0,0,,For example, RIGHT BEHIND YOU.
+Dialogue: 10,0:23:58.04,0:23:58.92,Default,,0,0,0,,For example,
+Dialogue: 10,0:23:58.92,0:24:00.71,Default,,0,0,0,,right behind you!
 Dialogue: 10,0:24:01.71,0:24:04.01,Default,,0,0,0,,Here's the penultimate episode of Joshiraku.
 Dialogue: 10,0:24:04.01,0:24:09.18,Default,,0,0,0,,"Dreamer's Revenge", "Scary", and "Blue in the Face".
