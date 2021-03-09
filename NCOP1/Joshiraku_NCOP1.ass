@@ -21,7 +21,7 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,133,133,37,1
+Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,133,133,37,1
 Style: OP1,Merienda One,48,&H00FFFFFF,&H000000FF,&H00007FFF,&HA0000000,0,0,0,0,100,100,1.5,0,1,2.4,0,1,45,45,30,1
 
 [Events]
