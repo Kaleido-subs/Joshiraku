@@ -24,17 +24,17 @@ Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:43.45,0:01:45.46,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:01:43.45,0:01:45.46,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Praise the Girl
+Dialogue: 1,0:01:43.45,0:01:45.46,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.6}Praise the Girl
 Dialogue: 0,0:08:47.38,0:08:49.38,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:08:47.38,0:08:49.38,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Trendy Town
+Dialogue: 1,0:08:47.38,0:08:49.38,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.6}Trendy Town
 Dialogue: 0,0:15:21.23,0:15:23.23,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:15:21.23,0:15:23.23,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}A Farewell to Glasses
+Dialogue: 1,0:15:21.23,0:15:23.23,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.6}A Farewell to Glasses
 Dialogue: 0,0:23:39.98,0:23:43.23,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:23:39.98,0:23:43.23,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs144\2a&HFF&\blur0.6}Next Time
+Dialogue: 1,0:23:39.98,0:23:43.23,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs144\2a&HFF&\blur0.6}Next Time
 Dialogue: 0,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt}All Four One
-Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}Seven Wonders of Musashi
-Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Servant's Revenge
+Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}All Four One
+Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Seven Wonders of Musashi
+Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Servant's Revenge
 Dialogue: 1,0:08:36.45,0:08:38.95,Sign,,0,0,0,midcard,{\pos(954.67,508)\frz345.6\fnBrushStroke 35\fs66.67\b0\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 1,0:08:36.45,0:08:38.95,Sign,,0,0,0,midcard,{\pos(954.67,508)\frz345.6\fnBrushStroke 35\fs66.67\b0\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 1,0:15:09.42,0:15:11.93,Sign,,0,0,0,midcard,{\pos(230.67,561.33)\frz23.19\fnBrushStroke 35\fs66.67\b0\c&H000000&\blur0.8}Rakugo Girls

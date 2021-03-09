@@ -27,7 +27,7 @@ Style: New Year Card,Alpha54,40,&H00141B1F,&H000000FF,&H00000000,&H00000000,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:44.08,0:01:46.09,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:01:44.08,0:01:46.09,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Bag of Gold
+Dialogue: 1,0:01:44.08,0:01:46.09,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.6}Bag of Gold
 Dialogue: 0,0:03:52.00,0:03:56.34,Sign,,0,0,0,,{\an5\bord0\shad0\blur1\p1\fscx212\fscy113\c&H010508&\pos(1169,527)\frz339.8}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:03:52.00,0:03:56.34,Sign,,0,0,0,,{\an5\bord0\shad0\blur1\p1\c&HF6FDFC&\pos(1169,527)\frz339.8\fscx193\fscy95}m 0 0 l 100 0 100 100 0 100
 Dialogue: 2,0:03:52.00,0:03:56.34,Sign,,0,0,0,,{\an5\bord0\shad0\blur1\p1\c&H010508&\pos(1169,527)\frz339.8\fscx181\fscy83}m 0 0 l 100 0 100 100 0 100
@@ -216,7 +216,7 @@ Dialogue: 0,0:07:06.65,0:07:10.62,New Year Card,,0,0,0,,{\blur0.9\fs5.5\frz357.3
 Dialogue: 0,0:10:10.51,0:10:13.01,Sign,,0,0,0,midcard,{\frz355.1\fnBrushStroke 35\fs62\fsp-2\b0\c&H000000&\blur0.8\pos(824.38,483.83)}Rakugo Girls
 Dialogue: 0,0:10:10.51,0:10:13.01,Sign,,0,0,0,midcard,{\frz355.1\fnBrushStroke 35\fs62\fsp-2\b0\c&H000000&\blur0.8\pos(824.38,483.83)}Rakugo Girls
 Dialogue: 0,0:10:46.13,0:10:48.13,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:10:46.13,0:10:48.13,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Unsteady
+Dialogue: 1,0:10:46.13,0:10:48.13,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.6}Unsteady
 Comment: 0,0:10:48.12,0:10:48.12,Sign,TS,0,0,0,repeat TS,{TS: This sign is later typeset at 0:15:47.72. I think it's worth it to typeset this  instance and possibly the instance before the title card since it's an establishing shot.}{the instance before the title card is extremely inconvenient to TS, and considering that the one after the title card has a huge centerpiece focus on it, the efforts are not going to be worth it that much}
 Dialogue: 0,0:10:48.13,0:10:49.59,Sign,,0,0,0,,{\fnAgeo Personal Use Heavy\fs36\fsp3.3\blur2.8\c&H211F23&\frz0.57\pos(652,372.5)}Jizodori Shopping Street
 Dialogue: 1,0:10:48.13,0:10:49.59,Sign,,0,0,0,,{\fnAgeo Personal Use Heavy\fs36\fsp3.3\blur1\c&H313330&\frz0.57\pos(650.5,370.5)}Jizodori Shopping Street
@@ -575,7 +575,7 @@ Dialogue: 4,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\fscx80\fscy80\frz348.7\f
 Dialogue: 0,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8\pos(449.71,592.177)}Rakugo Girls
 Dialogue: 0,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8\pos(449.71,592.177)}Rakugo Girls
 Dialogue: 0,0:16:08.16,0:16:10.16,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:16:08.16,0:16:10.16,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Is It Over Yet?
+Dialogue: 1,0:16:08.16,0:16:10.16,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.6}Is It Over Yet?
 Dialogue: 0,0:16:28.84,0:16:31.80,Calander,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(734,188)\p1\c&HEDF5FB&}m -149 -12 l -42 -12 -42 39 -149 39
 Dialogue: 1,0:16:28.84,0:16:31.80,Calander,,0,0,0,,{\blur0.8\pos(642.8,202.4)}April
 Dialogue: 0,0:16:28.84,0:16:31.80,Calander,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HEDF5FB&}m 597 453 l 678 453 678 520 597 520
@@ -1035,11 +1035,11 @@ Dialogue: 1,0:21:59.84,0:22:01.84,Calander,,0,0,0,,{\blur0.8\pos(642.8,482.36)}M
 Dialogue: 0,0:21:59.84,0:22:01.84,Calander,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\p1\c&HEDF5FB&\pos(0,-5.284)}m 563 531 l 714 531 714 571 563 571
 Dialogue: 1,0:21:59.84,0:22:01.84,Calander,,0,0,0,,{\blur0.8\fs35\pos(642.8,542.449)}Very Unlucky Day
 Dialogue: 0,0:23:39.98,0:23:42.73,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:23:39.98,0:23:42.73,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs144\2a&HFF&\blur0.6}Next Time
+Dialogue: 1,0:23:39.98,0:23:42.73,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs144\2a&HFF&\blur0.6}Next Time
 Dialogue: 0,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt}Life's Butt a Comedy
-Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}The Bear of Ueno
-Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Sleep-Talking
+Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Life's Butt a Comedy
+Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}The Bear of Ueno
+Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Sleep-Talking
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"c8582128-f127-4b97-8d1d-b98099fcf8f5"#2C"originalText"#3A"{\\c&H010A10&\\blur0.7\\fs60\\fnaugie\\pos(380#2C70.67)}Kukuru"}

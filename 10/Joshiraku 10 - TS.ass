@@ -26,7 +26,7 @@ Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:45.17,0:01:47.17,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:01:45.17,0:01:47.17,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Pumpkin Band
+Dialogue: 1,0:01:45.17,0:01:47.17,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.8}Pumpkin Band
 Dialogue: 0,0:02:08.15,0:02:11.49,Sign,TO DO,0,0,0,,{\fs30\pos(870.67,448)}White Pepper \NSalami
 Dialogue: 0,0:02:13.61,0:02:15.95,Sign,TO DO,0,0,0,,{\fs30\pos(398.67,329.33)}Sweet Beans
 Comment: 0,0:04:49.85,0:04:50.23,Sign,TL,0,0,0,,{\pos(869.33,193.33)}Missing TL
@@ -92,7 +92,7 @@ Dialogue: 0,0:10:02.50,0:10:05.00,Sign,,0,0,0,midcard,{\fnBrushStroke 35\fs64\b0
 Dialogue: 0,0:10:02.50,0:10:05.00,Sign,,0,0,0,midcard,{\fnBrushStroke 35\fs64\b0\c&H000000&\fsp-2\blur0.8\frz22.53\pos(213.4,552)}Rakugo Girls
 Dialogue: 0,0:10:05.00,0:10:08.30,Sign,TO DO,0,0,0,,{\pos(627.336,240)}Kabukichou Ichibangai
 Dialogue: 0,0:10:52.26,0:10:54.26,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:10:52.26,0:10:54.26,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}The Battle of Shinjuku
+Dialogue: 1,0:10:52.26,0:10:54.26,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.8}The Battle of Shinjuku
 Dialogue: 0,0:12:53.29,0:12:54.55,Sign,TO DO,0,0,0,,{\pos(659.117,459.508)\fs55}ANIME CHARACTER \NBATTLE ROYALE
 Dialogue: 0,0:13:12.35,0:13:21.07,Sign,TO DO,0,0,0,,{\fs30\pos(265.6,155.2)}ANIME CHARACTER \NBATTLE ROYALE
 Comment: 0,0:13:37.21,0:13:38.96,Sign,,0,0,0,,{\pos(707.2,126.4)\c&H8E79FC&}Killer Khan's Gan! {## If we do this, I want to do the entire sign}
@@ -108,7 +108,7 @@ Dialogue: 2,0:15:08.51,0:15:11.01,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\
 Dialogue: 3,0:15:08.51,0:15:11.01,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\fscx93\fscy75\p1\c&HFFFFFF&\frz339.9\pos(895.2,511)}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 4,0:15:08.51,0:15:11.01,Sign,,0,0,0,midcard,{\pos(900.2,517)\frz340\fnBrushType-SemiBold\fs59\b0\c&H000000&\blur0.7}Kukuru Anrakutei
 Dialogue: 0,0:15:27.91,0:15:29.91,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:15:27.91,0:15:29.91,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Cavity Beach
+Dialogue: 1,0:15:27.91,0:15:29.91,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.8}Cavity Beach
 Dialogue: 0,0:15:45.26,0:15:47.60,Sign,TO DO,0,0,0,,{\blur0.8\fs24\c&H14221F&\pos(420.03,188.72)}Hybrid ceramic crown
 Dialogue: 0,0:15:45.26,0:15:47.59,Sign,TO DO,0,0,0,,{\fs24\pos(660.64,218.67)\c&H000000&}All-ceramic crown
 Dialogue: 0,0:15:45.26,0:15:47.59,Sign,TO DO,0,0,0,,{\fs24\pos(920.64,217.33)\c&H000000&}Zirconium ceramic crown
@@ -231,11 +231,11 @@ Comment: 0,0:21:43.53,0:21:46.33,Sign,,0,0,0,,{\pos(1082.67,566.67)}Missing TL
 Dialogue: 0,0:22:01.63,0:22:03.09,Sign,TO DO,0,0,0,,{\blur0.8\3c&HF2F2F3&\c&HF2F2F3&\bord2\fnFOT-TsukuMin Pr5 EN H\b0\fscx141\fscy147\pos(1008.39,69)}Dereliction of Duty
 Dialogue: 1,0:22:01.63,0:22:03.09,Sign,TO DO,0,0,0,,{\blur0.8\c&H13110D&\bord0\fnFOT-TsukuMin Pr5 EN H\b0\fscx141\fscy147\pos(1008.39,69)\4a&HFF&}Dereliction of Duty
 Dialogue: 0,0:23:40.02,0:23:42.78,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:23:40.02,0:23:42.78,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs144\2a&HFF&\blur0.8}Next Time
+Dialogue: 1,0:23:40.02,0:23:42.78,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs144\2a&HFF&\blur0.8}Next Time
 Dialogue: 0,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt}Family Drama
-Dialogue: 1,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}Sakai's the Limit
-Dialogue: 1,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Tree's a Crowd
+Dialogue: 1,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Family Drama
+Dialogue: 1,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Sakai's the Limit
+Dialogue: 1,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Tree's a Crowd
 
 [Aegisub Extradata]
 Data: 8,a-mo,e{"uuid"#3A"5e51f1a0-046c-41c6-86df-e0b59cc4be29"#2C"originalText"#3A"{\\c&H0F1215&\\fnBrushstroke 35\\fs70\\blur0.8\\bord0\\4a&HFF&\\pos(306.67#2C466.67)\\clip(m 226.4 434.4 b 213.2 452.47 192.8 492.6 181.6 512 251 512.4 389.8 513.2 459.2 513.6 463.2 491.8 471.2 448.2 475.2 426.4)}Atomic power"}

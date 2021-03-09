@@ -24,17 +24,17 @@ Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:34.94,0:01:36.95,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:01:34.94,0:01:36.95,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Delinquents Are Scary
+Dialogue: 1,0:01:34.94,0:01:36.95,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.6}Delinquents Are Scary
 Dialogue: 0,0:10:12.42,0:10:14.42,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:10:12.42,0:10:14.42,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Something Fishy
+Dialogue: 1,0:10:12.42,0:10:14.42,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.6}Something Fishy
 Dialogue: 0,0:15:54.22,0:15:56.22,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:15:54.22,0:15:56.22,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.6}Backstage Investigation
+Dialogue: 1,0:15:54.22,0:15:56.22,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.6}Backstage Investigation
 Dialogue: 0,0:23:39.94,0:23:42.69,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:23:39.94,0:23:42.69,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs144\2a&HFF&\blur0.6}Next Time
+Dialogue: 1,0:23:39.94,0:23:42.69,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs144\2a&HFF&\blur0.6}Next Time
 Dialogue: 0,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt}Bag of Gold
-Dialogue: 1,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}Unsteady
-Dialogue: 1,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Is It Over Yet?
+Dialogue: 1,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Bag of Gold
+Dialogue: 1,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Unsteady
+Dialogue: 1,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Is It Over Yet?
 Dialogue: 0,0:08:55.43,0:08:57.93,Sign,,0,0,0,midcard,{\pos(1043.733,250.933)\frz352.8\fnBrushStroke 35\fs66.67\bord1.4\c&H000000&\3c&HE80779&\1a&HFF&\blur4}Rakugo Girls
 Dialogue: 1,0:08:55.43,0:08:57.93,Sign,,0,0,0,midcard,{\pos(1043.733,250.933)\frz352.8\fnBrushStroke 35\fs66.67\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:15:20.94,0:15:22.90,Sign,,0,0,0,midcard,{\pos(975.93,581.33)\frz328\fnBrushStroke 35\fs66.67\bord1.6\3c&HF9F9F9&\1a&HC8&\blur2}Rakugo Girls

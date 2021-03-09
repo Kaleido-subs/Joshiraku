@@ -22,27 +22,27 @@ Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:54.01,0:01:56.01,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:01:54.01,0:01:56.01,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Family Drama
+Dialogue: 1,0:01:54.01,0:01:56.01,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.8}Family Drama
 Dialogue: 0,0:07:41.36,0:07:43.36,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:07:41.36,0:07:43.36,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Sakai's the Limit
+Dialogue: 1,0:07:41.36,0:07:43.36,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.8}Sakai's the Limit
 Dialogue: 0,0:14:56.88,0:14:58.88,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:14:56.88,0:14:58.88,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs100\blur0.8}Tree's a Crowd
+Dialogue: 1,0:14:56.88,0:14:58.88,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.8}Tree's a Crowd
 Dialogue: 0,0:23:39.98,0:23:42.78,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:23:39.98,0:23:42.78,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs144\2a&HFF&\blur0.8}Next Time
+Dialogue: 1,0:23:39.98,0:23:42.78,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs144\2a&HFF&\blur0.8}Next Time
 Dialogue: 0,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt}Family Drama
-Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt}Sakai's the Limit
-Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt}Tree's a Crowd
+Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Family Drama
+Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Sakai's the Limit
+Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Tree's a Crowd
 Dialogue: 0,0:07:33.47,0:07:35.98,Sign,,0,0,0,midcard,{\pos(952.07,561.33)\frz332.2\fnBrushStroke 35\fs64\fsp-2\b0\bord3\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur8}Rakugo Girls
 Dialogue: 1,0:07:33.47,0:07:35.98,Sign,,0,0,0,midcard,{\pos(952.07,561.33)\frz332.2\fnBrushStroke 35\fs64\fsp-2\b0\c&H000000&\blur1}Rakugo Girls
 Dialogue: 1,0:07:33.47,0:07:35.98,Sign,,0,0,0,midcard,{\pos(952.07,561.33)\frz332.2\fnBrushStroke 35\fs64\fsp-2\b0\c&H000000&\blur1}Rakugo Girls
 Dialogue: 0,0:14:40.53,0:14:43.03,Sign,,0,0,0,midcard,{\pos(287.8,554.94)\frz24.99\fnBrushStroke 35\fs64\fsp-2\b0\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:14:40.53,0:14:43.03,Sign,,0,0,0,midcard,{\pos(287.8,554.94)\frz24.99\fnBrushStroke 35\fs64\fsp-2\b0\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:20:37.30,0:20:39.26,Sign,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:20:37.30,0:20:39.26,Sign,,0,0,0,,{\pos(640,218)\fnGaramond Premr Pro Smbd Capt\fs54\c&H0007FF&\2a&HFF&\blur0.7}The conversations in this anime
-Dialogue: 1,0:20:37.30,0:20:39.26,Sign,,0,0,0,,{\pos(640,274)\fnGaramond Premr Pro Smbd Capt\fs54\c&H0007FF&\2a&HFF&\blur0.7}are written to be as inoffensive as possible
-Dialogue: 1,0:20:37.30,0:20:39.26,Sign,,0,0,0,,{\pos(640,330)\fnGaramond Premr Pro Smbd Capt\fs54\c&H0007FF&\2a&HFF&\blur0.7}so as not to interfere with your enjoyment
-Dialogue: 1,0:20:37.30,0:20:39.26,Sign,,0,0,0,,{\pos(640,386)\fnGaramond Premr Pro Smbd Capt\fs54\c&H0007FF&\2a&HFF&\blur0.7}of viewing cute girls.
+Dialogue: 1,0:20:37.30,0:20:39.26,Sign,,0,0,0,,{\pos(640,218)\fnGaramond Premr Pro Smbd Capt\b600\fs54\c&H0007FF&\2a&HFF&\blur0.7}The conversations in this anime
+Dialogue: 1,0:20:37.30,0:20:39.26,Sign,,0,0,0,,{\pos(640,274)\fnGaramond Premr Pro Smbd Capt\b600\fs54\c&H0007FF&\2a&HFF&\blur0.7}are written to be as inoffensive as possible
+Dialogue: 1,0:20:37.30,0:20:39.26,Sign,,0,0,0,,{\pos(640,330)\fnGaramond Premr Pro Smbd Capt\b600\fs54\c&H0007FF&\2a&HFF&\blur0.7}so as not to interfere with your enjoyment
+Dialogue: 1,0:20:37.30,0:20:39.26,Sign,,0,0,0,,{\pos(640,386)\fnGaramond Premr Pro Smbd Capt\b600\fs54\c&H0007FF&\2a&HFF&\blur0.7}of viewing cute girls.
 Dialogue: 0,0:02:20.87,0:02:23.46,Sign,,0,0,0,,{\pos(665,208)\an7\fs48}Big Catch
 Dialogue: 0,0:03:45.71,0:03:48.21,Sign,,0,0,0,,{\pos(179,367)\an7\fs48}New Design
 Dialogue: 0,0:03:48.21,0:03:51.34,Sign,,0,0,0,,{\pos(896,367)\an7\fs48}Old Design

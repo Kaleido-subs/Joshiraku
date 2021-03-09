@@ -24,31 +24,31 @@ Style: Sign,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:44.91,0:01:46.91,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:01:44.91,0:01:46.91,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b1\fs100\blur0.6}Backstage Wealth
+Dialogue: 1,0:01:44.91,0:01:46.91,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\b1\fs100\blur0.6}Backstage Wealth
 Dialogue: 0,0:08:53.63,0:08:55.63,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:08:53.63,0:08:55.63,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b1\fs100\blur0.6}Tower Trip
+Dialogue: 1,0:08:53.63,0:08:55.63,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\b1\fs100\blur0.6}Tower Trip
 Dialogue: 0,0:13:42.92,0:13:44.92,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:13:42.92,0:13:44.92,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b1\fs100\blur0.6}Girl with a Cold
+Dialogue: 1,0:13:42.92,0:13:44.92,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\b1\fs100\blur0.6}Girl with a Cold
 Dialogue: 0,0:23:39.93,0:23:42.69,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:23:39.93,0:23:42.69,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b1\fs144\2a&HFF&\blur0.6}Next Time
+Dialogue: 1,0:23:39.93,0:23:42.69,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\b1\fs144\2a&HFF&\blur0.6}Next Time
 Dialogue: 0,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\pos(189,240)\fnConsolas\fs94\2a&HFF&\blur0.6}① {\fnGaramond Premr Pro Smbd Capt\b1}Bath of Last Resort
-Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\pos(189,360)\fnConsolas\fs94\2a&HFF&\blur0.6}② {\fnGaramond Premr Pro Smbd Capt\b1}Asakusa Visit
-Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\pos(189,480)\fnConsolas\fs94\2a&HFF&\blur0.6}③ {\fnGaramond Premr Pro Smbd Capt\b1}A Stroke of Raku
+Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\pos(189,240)\fnConsolas\fs94\2a&HFF&\blur0.6}① {\fnGaramond Premr Pro Smbd Capt\b600\b1}Bath of Last Resort
+Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\pos(189,360)\fnConsolas\fs94\2a&HFF&\blur0.6}② {\fnGaramond Premr Pro Smbd Capt\b600\b1}Asakusa Visit
+Dialogue: 1,0:23:58.95,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\pos(189,480)\fnConsolas\fs94\2a&HFF&\blur0.6}③ {\fnGaramond Premr Pro Smbd Capt\b600\b1}A Stroke of Raku
 Dialogue: 0,0:08:32.45,0:08:34.95,Sign,,0,0,0,midcard,{\pos(287,576)\frz25.12\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:08:32.45,0:08:34.95,Sign,,0,0,0,midcard,{\pos(287,576)\frz25.12\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:13:30.45,0:13:32.95,Sign,,0,0,0,midcard,{\pos(1060,420)\frz341\fnBrushStroke 35\fs67\b0\c&HE5E5E4&\blur0.8}Rakugo Girls
 Dialogue: 0,0:13:30.45,0:13:32.95,Sign,,0,0,0,midcard,{\pos(1060,420)\frz341\fnBrushStroke 35\fs67\b0\c&HE5E5E4&\blur0.8}Rakugo Girls
 Dialogue: 0,0:02:05.48,0:02:07.89,Sign,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:02:05.52,0:02:07.89,Sign,,0,0,0,,{\kf25}{\pos(72,218)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b1\2c&H0000FF&\2a&HFF&\blur0.7}The conversations in this anime{\kf212}
-Dialogue: 1,0:02:05.77,0:02:07.89,Sign,,0,0,0,,{\kf49}{\pos(72,274)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b1\2c&H0000FF&\2a&HFF&\blur0.7}are written to be as inoffensive as possible{\kf163}
-Dialogue: 1,0:02:06.31,0:02:07.89,Sign,,0,0,0,,{\kf45}{\pos(72,330)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b1\2c&H0000FF&\2a&HFF&\blur0.7}so as not to interfere with your enjoyment{\kf113}
-Dialogue: 1,0:02:06.81,0:02:07.89,Sign,,0,0,0,,{\kf38}{\pos(72,386)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b1\2c&H0000FF&\2a&HFF&\blur0.7}of viewing cute girls.{\kf70}
+Dialogue: 1,0:02:05.52,0:02:07.89,Sign,,0,0,0,,{\kf25}{\pos(72,218)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b600\b1\2c&H0000FF&\2a&HFF&\blur0.7}The conversations in this anime{\kf212}
+Dialogue: 1,0:02:05.77,0:02:07.89,Sign,,0,0,0,,{\kf49}{\pos(72,274)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b600\b1\2c&H0000FF&\2a&HFF&\blur0.7}are written to be as inoffensive as possible{\kf163}
+Dialogue: 1,0:02:06.31,0:02:07.89,Sign,,0,0,0,,{\kf45}{\pos(72,330)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b600\b1\2c&H0000FF&\2a&HFF&\blur0.7}so as not to interfere with your enjoyment{\kf113}
+Dialogue: 1,0:02:06.81,0:02:07.89,Sign,,0,0,0,,{\kf38}{\pos(72,386)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b600\b1\2c&H0000FF&\2a&HFF&\blur0.7}of viewing cute girls.{\kf70}
 Dialogue: 0,0:14:01.48,0:14:04.36,Sign,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:14:01.52,0:14:04.36,Sign,,0,0,0,,{\kf66}{\pos(72,232)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b1\2c&H0000FF&\2a&HFF&\blur0.7}So as to not interfere with{\kf218}
-Dialogue: 1,0:14:02.23,0:14:04.36,Sign,,0,0,0,,{\kf73}{\pos(72,288)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b1\2c&H0000FF&\2a&HFF&\blur0.7}your enjoyment of watching cute girls,{\kf140}
-Dialogue: 1,0:14:02.98,0:14:04.36,Sign,,0,0,0,,{\kf58}{\pos(72,344)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b1\2c&H0000FF&\2a&HFF&\blur4\c&H0000FF&}the obstructing masks have been removed.{\kf80}
-Dialogue: 2,0:14:02.98,0:14:04.36,Sign,,0,0,0,,{\kf58}{\pos(72,344)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b1\2c&H0000FF&\2a&HFF&\blur0.7\c&H0000FF&}the obstructing masks have been removed.{\kf80}
+Dialogue: 1,0:14:01.52,0:14:04.36,Sign,,0,0,0,,{\kf66}{\pos(72,232)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b600\b1\2c&H0000FF&\2a&HFF&\blur0.7}So as to not interfere with{\kf218}
+Dialogue: 1,0:14:02.23,0:14:04.36,Sign,,0,0,0,,{\kf73}{\pos(72,288)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b600\b1\2c&H0000FF&\2a&HFF&\blur0.7}your enjoyment of watching cute girls,{\kf140}
+Dialogue: 1,0:14:02.98,0:14:04.36,Sign,,0,0,0,,{\kf58}{\pos(72,344)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b600\b1\2c&H0000FF&\2a&HFF&\blur4\c&H0000FF&}the obstructing masks have been removed.{\kf80}
+Dialogue: 2,0:14:02.98,0:14:04.36,Sign,,0,0,0,,{\kf58}{\pos(72,344)\an7\fs54\fnGaramond Premr Pro Smbd Capt\b600\b1\2c&H0000FF&\2a&HFF&\blur0.7\c&H0000FF&}the obstructing masks have been removed.{\kf80}
 Dialogue: 11,0:05:14.66,0:05:17.29,Sign,,0,0,0,,{\an7\blur0.667\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&H000000&}m 674.625 626.625 l 968 626.625 968 685.375 674.625 685.375
 Dialogue: 12,0:05:14.66,0:05:17.29,Sign,,0,0,0,,{\pos(821.333,658.667)\fscx110\fnHVD Comic Serif Pro\fs42.67\fsp0.67\b0\blur0.67}REDACTED
 Dialogue: 13,0:05:14.66,0:05:17.29,Sign,,0,0,0,,{\pos(821.333,658.667)\fnWC Rhesus A Bta\fs16\fsp13.33\b0\c&H000000&\blur0.67}REDACTED
