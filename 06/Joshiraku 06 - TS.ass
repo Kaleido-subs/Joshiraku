@@ -32,9 +32,9 @@ Dialogue: 1,0:12:01.32,0:12:03.33,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro S
 Dialogue: 0,0:23:39.98,0:23:42.98,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:39.98,0:23:42.98,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs144\2a&HFF&\blur0.6}Next Time
 Dialogue: 0,0:24:04.08,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:04.08,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Delinquents Are Scary
-Dialogue: 1,0:24:04.08,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Something Fishy
-Dialogue: 1,0:24:04.08,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Backstage Investigation
+Dialogue: 1,0:24:04.08,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\b1\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Delinquents Are Scary
+Dialogue: 1,0:24:04.08,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\b1\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Something Fishy
+Dialogue: 1,0:24:04.08,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\b1\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Backstage Investigation
 Dialogue: 0,0:10:16.51,0:10:19.01,Sign,,0,0,0,midcard,{\pos(886.13,566.67)\frz23.22\fnBrushStroke 35\fs67\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:10:16.51,0:10:19.01,Sign,,0,0,0,midcard,{\pos(886.13,566.67)\frz23.22\fnBrushStroke 35\fs67\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:11:41.51,0:11:44.01,Sign,,0,0,0,midcard,{\pos(317.34,606.67)\frz29\fnBrushStroke 35\fs67\c&H000000&\blur0.8}Rakugo Girls

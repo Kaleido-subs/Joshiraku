@@ -1037,9 +1037,9 @@ Dialogue: 1,0:21:59.84,0:22:01.84,Calander,,0,0,0,,{\blur0.8\fs35\pos(642.8,542.
 Dialogue: 0,0:23:39.98,0:23:42.73,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:39.98,0:23:42.73,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs144\2a&HFF&\blur0.6}Next Time
 Dialogue: 0,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Life's Butt a Comedy
-Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}The Bear of Ueno
-Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Sleep-Talking
+Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\b1\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Life's Butt a Comedy
+Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\b1\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}The Bear of Ueno
+Dialogue: 1,0:24:03.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\b1\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Sleep-Talking
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"c8582128-f127-4b97-8d1d-b98099fcf8f5"#2C"originalText"#3A"{\\c&H010A10&\\blur0.7\\fs60\\fnaugie\\pos(380#2C70.67)}Kukuru"}

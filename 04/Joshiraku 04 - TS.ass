@@ -32,9 +32,9 @@ Dialogue: 1,0:15:14.14,0:15:16.14,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro S
 Dialogue: 0,0:23:39.93,0:23:42.69,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:39.93,0:23:42.69,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs144\2a&HFF&\blur0.6}Next Time
 Dialogue: 0,0:24:04.21,0:24:09.96,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:04.21,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Praise the Girl
-Dialogue: 1,0:24:04.21,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Trendy Town
-Dialogue: 1,0:24:04.21,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}A Farewell to Glasses
+Dialogue: 1,0:24:04.21,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\b1\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Praise the Girl
+Dialogue: 1,0:24:04.21,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\b1\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Trendy Town
+Dialogue: 1,0:24:04.21,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\b1\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}A Farewell to Glasses
 Dialogue: 0,0:09:02.43,0:09:04.94,Sign,,0,0,0,midcard,{\pos(290.67,586)\frz28.88\fnBrushStroke 35\fs66.67\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:09:02.43,0:09:04.94,Sign,,0,0,0,midcard,{\pos(290.67,586)\frz28.88\fnBrushStroke 35\fs66.67\c&H000000&\blur0.8}Rakugo Girls
 Dialogue: 0,0:14:56.37,0:14:58.87,Sign,,0,0,0,midcard,{\pos(1008.333,572.667)\frz334.2\fnBrushStroke 35\fs66.67\c&H000000&\blur0.8}Rakugo Girls

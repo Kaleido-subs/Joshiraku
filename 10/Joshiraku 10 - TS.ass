@@ -233,9 +233,9 @@ Dialogue: 1,0:22:01.63,0:22:03.09,Sign,TO DO,0,0,0,,{\blur0.8\c&H13110D&\bord0\f
 Dialogue: 0,0:23:40.02,0:23:42.78,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:40.02,0:23:42.78,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs144\2a&HFF&\blur0.8}Next Time
 Dialogue: 0,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Family Drama
-Dialogue: 1,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Sakai's the Limit
-Dialogue: 1,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Tree's a Crowd
+Dialogue: 1,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\b1\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Family Drama
+Dialogue: 1,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\b1\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Sakai's the Limit
+Dialogue: 1,0:24:03.30,0:24:10.05,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\b1\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Tree's a Crowd
 
 [Aegisub Extradata]
 Data: 8,a-mo,e{"uuid"#3A"5e51f1a0-046c-41c6-86df-e0b59cc4be29"#2C"originalText"#3A"{\\c&H0F1215&\\fnBrushstroke 35\\fs70\\blur0.8\\bord0\\4a&HFF&\\pos(306.67#2C466.67)\\clip(m 226.4 434.4 b 213.2 452.47 192.8 492.6 181.6 512 251 512.4 389.8 513.2 459.2 513.6 463.2 491.8 471.2 448.2 475.2 426.4)}Atomic power"}

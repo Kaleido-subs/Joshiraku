@@ -31,9 +31,9 @@ Dialogue: 1,0:15:13.05,0:15:15.06,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro S
 Dialogue: 0,0:23:40.10,0:23:42.85,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:40.10,0:23:42.85,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs144\2a&HFF&\blur0.6}Next Time
 Dialogue: 0,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Backstage Wealth
-Dialogue: 1,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Tower Trip
-Dialogue: 1,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Girl with a Cold
+Dialogue: 1,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\b1\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Backstage Wealth
+Dialogue: 1,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\b1\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Tower Trip
+Dialogue: 1,0:23:59.50,0:24:10.13,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.6\fnConsolas\b1\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Girl with a Cold
 Dialogue: 0,0:10:40.61,0:10:43.12,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz21.86\fscx100\fscy100\c&H010000&\pos(460,503)\p1}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 1,0:10:40.61,0:10:43.12,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz21.86\fscx97.5\fscy90\c&HFFFFFF&\pos(460,503)\p1}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 2,0:10:40.61,0:10:43.12,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\frz21.86\fscx94.5\fscy80\pos(460,503)\p1\c&H000000&}m -168 -46 l 182 -46 182 43 -168 43

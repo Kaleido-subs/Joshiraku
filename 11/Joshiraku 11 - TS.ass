@@ -30,9 +30,9 @@ Dialogue: 1,0:14:56.88,0:14:58.88,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro S
 Dialogue: 0,0:23:39.98,0:23:42.78,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:39.98,0:23:42.78,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs144\2a&HFF&\blur0.8}Next Time
 Dialogue: 0,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(585,360)\fscx1535\fscy2000\fsp-6.9\c&H1856D9&\blur1}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Family Drama
-Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Sakai's the Limit
-Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Tree's a Crowd
+Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\b1\pos(189,240)}① {\fnGaramond Premr Pro Smbd Capt\b600}Family Drama
+Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\b1\pos(189,360)}② {\fnGaramond Premr Pro Smbd Capt\b600}Sakai's the Limit
+Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\fs94\2a&HFF&\blur0.8\fnConsolas\b1\pos(189,480)}③ {\fnGaramond Premr Pro Smbd Capt\b600}Tree's a Crowd
 Dialogue: 0,0:07:33.47,0:07:35.98,Sign,,0,0,0,midcard,{\pos(952.07,561.33)\frz332.2\fnBrushStroke 35\fs64\fsp-2\b0\bord3\shad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\blur8}Rakugo Girls
 Dialogue: 1,0:07:33.47,0:07:35.98,Sign,,0,0,0,midcard,{\pos(952.07,561.33)\frz332.2\fnBrushStroke 35\fs64\fsp-2\b0\c&H000000&\blur1}Rakugo Girls
 Dialogue: 1,0:07:33.47,0:07:35.98,Sign,,0,0,0,midcard,{\pos(952.07,561.33)\frz332.2\fnBrushStroke 35\fs64\fsp-2\b0\c&H000000&\blur1}Rakugo Girls
