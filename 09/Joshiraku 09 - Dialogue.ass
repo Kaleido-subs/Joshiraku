@@ -39,7 +39,7 @@ Dialogue: 10,0:01:48.08,0:01:51.59,Default,,0,0,0,,It's a holiday, but there wer
 Dialogue: 10,0:01:51.59,0:01:53.13,Default,,0,0,0,,Oh, you're right.
 Dialogue: 10,0:01:53.13,0:01:56.62,Default,,0,0,0,,{\q2}Well, rakugo's never really been \Nsomething that attracts kids, y'know?
 Dialogue: 10,0:01:56.62,0:01:58.43,Default,,0,0,0,,But today's a holiday!
-Dialogue: 10,0:01:58.68,0:02:02.47,Default,,0,0,0,,{\q2}Other amusement– and tourist spots \Nare overflowing with children!
+Dialogue: 10,0:01:58.68,0:02:02.47,Default,ED,0,0,0,,{\q2}Other amusement– and tourist spots \Nare overflowing with children!{ED: I don't think that dash needs to be there.}
 Dialogue: 10,0:02:02.47,0:02:04.73,Default,,0,0,0,,They're pulling in children from far and wide!
 Dialogue: 10,0:02:04.73,0:02:08.86,Default,,0,0,0,,We need to offer more services to attract children!
 Dialogue: 10,0:02:08.86,0:02:10.49,Default,,0,0,0,,Kigu's wigging out!
@@ -146,7 +146,7 @@ Dialogue: 10,0:06:45.99,0:06:47.07,Default,,0,0,0,,Child abuse?
 Dialogue: 10,0:06:47.07,0:06:49.81,Default,,0,0,0,,What are you talking about? That's a Mongolian spot.
 Dialogue: 10,0:06:49.81,0:06:51.10,Default,,0,0,0,,I've heard of this.
 Dialogue: 10,0:06:51.10,0:06:54.27,Default,,0,0,0,,{\q2}Only Asian people get Mongolian spots, \Nso there have been cases
-Dialogue: 10,0:06:54.27,0:06:58.60,Default,,0,0,0,,{\q2}where foreign doctors who weren't used to seeing \Nthem mistook them for evidence of child abuse.
+Dialogue: 10,0:06:54.27,0:06:58.60,Default,ED,0,0,0,,{\q2}where foreign doctors who weren't used to seeing \Nthem mistook them for evidence of child abuse.{ED: Split after "them".}
 Dialogue: 10,0:06:58.60,0:07:00.46,Default,,0,0,0,,You Japanese are uncivilized brutes!
 Dialogue: 10,0:07:00.46,0:07:03.09,Default,,0,0,0,,I'm taking this child into protective custody!
 Dialogue: 10,0:07:03.44,0:07:05.17,Default,,0,0,0,,Let go of me!
@@ -170,16 +170,16 @@ Dialogue: 10,0:08:18.98,0:08:24.36,Default,,0,0,0,,If you see everything in orde
 Dialogue: 10,0:08:21.97,0:08:22.86,Alt,,0,0,0,,Birds?
 Dialogue: 10,0:08:24.36,0:08:26.82,Default,,0,0,0,,Where the flamingos at?
 Dialogue: 10,0:08:26.82,0:08:29.53,Default,,0,0,0,,Everyone knows flamingos are the stars of the zoo!
-Dialogue: 10,0:08:29.94,0:08:34.68,Default,,0,0,0,,{\q2}So you end up wasting your time taking pics or \Nwhatever, and then you're in a hurry later on!
+Dialogue: 10,0:08:29.94,0:08:34.68,Default,ED,0,0,0,,{\q2}So you end up wasting your time taking pics or \Nwhatever, and then you're in a hurry later on!{ED: Split before "or".}
 Dialogue: 10,0:08:34.68,0:08:37.66,Default,,0,0,0,,Just after you enter is when your energy's at its peak.
 Dialogue: 10,0:08:37.66,0:08:39.75,Default,,0,0,0,,Everything seems cool and rare.
-Dialogue: 10,0:08:40.14,0:08:42.78,Default,,0,0,0,,I wonder why they put flamingos at the entrance.
+Dialogue: 10,0:08:40.14,0:08:42.78,Default,TM,0,0,0,,I wonder why they put flamingos at the entrance.{TM: Needs more lead-in. "Nande" starts at 0:08:40.21.}
 Dialogue: 10,0:08:42.78,0:08:47.52,Default,,0,0,0,,{\q2}I heard the reason flamingos stand on one leg \Nis because the water they stand in is cool.
 Dialogue: 10,0:08:47.52,0:08:49.90,Default,,0,0,0,,{\q2}Maybe they're by the entrance \Nbecause it's sunnier there?
 Dialogue: 10,0:08:49.90,0:08:51.89,Default,,0,0,0,,They're like old people lying in the sun!
 Dialogue: 10,0:08:55.91,0:08:56.89,Default,,0,0,0,,Panda, panda!
 Dialogue: 10,0:08:56.89,0:08:58.80,Default,,0,0,0,,Going straight to the pandas?
-Dialogue: 10,0:08:58.80,0:09:01.06,Default,,0,0,0,,{\q2}That's like sitting down and \Ngoing straight for the main dish,
+Dialogue: 10,0:08:58.80,0:09:01.06,Default,ED,0,0,0,,{\q2}That's like sitting down and \Ngoing straight for the main dish,{ED: Split before "and".}
 Dialogue: 10,0:09:01.06,0:09:04.98,Default,,0,0,0,,{\q2}or announcing contest results starting \Nwith the winner, don't you think?
 Dialogue: 10,0:09:04.98,0:09:06.96,Default,,0,0,0,,That's the Ueno Zoo for you.
 Dialogue: 10,0:09:06.96,0:09:09.23,Default,,0,0,0,,Casually bringing out the big guns right away.
@@ -264,7 +264,7 @@ Dialogue: 10,0:12:33.06,0:12:35.09,Default,,0,0,0,,Ah! Gross! They're so ugly!
 Dialogue: 10,0:12:35.09,0:12:36.52,Default,,0,0,0,,The naked mole-rat.
 Dialogue: 10,0:12:36.86,0:12:39.70,Default,,0,0,0,,A rare rodent with a queen-based society.
 Dialogue: 10,0:12:39.70,0:12:41.70,Default,,0,0,0,,They form colonies around one individual,
-Dialogue: 10,0:12:41.70,0:12:46.53,Default,,0,0,0,,{\q2}with multiple males and \Nworker bees—I mean worker rats.
+Dialogue: 10,0:12:41.70,0:12:46.53,Default,ED,0,0,0,,{\q2}with multiple males and \Nworker bees—I mean worker rats.{ED: How do you feel about a split after the dash?}
 Dialogue: 10,0:12:46.53,0:12:48.04,Default,,0,0,0,,They're your favourite?
 Dialogue: 10,0:12:48.04,0:12:51.06,Default,,0,0,0,,Yeah. Also, they live for a really long time.
 Dialogue: 10,0:12:51.06,0:12:52.54,Default,,0,0,0,,And they don't get cancer.
@@ -316,7 +316,7 @@ Dialogue: 10,0:15:20.52,0:15:24.24,Default,,0,0,0,,{\q2}Why do they call dozing 
 Dialogue: 10,0:15:24.24,0:15:28.20,Default,,0,0,0,,{\q2}Shirakawa sounds like a river, \Nbut it's actually an area of Kyoto.
 Dialogue: 10,0:15:28.20,0:15:32.87,Default,,0,0,0,,{\q2}There was once a guy who said he'd seen \Nit all, and was asked "How's Shirakawa?"
 Dialogue: 10,0:15:32.87,0:15:38.21,Default,,0,0,0,,{\q2}He lied and said "I sailed down it on a boat, \Nbut I slept and didn't see anything."
-Dialogue: 10,0:15:38.21,0:15:41.04,Default,,0,0,0,,That's where the phrase originated from.
+Dialogue: 10,0:15:38.21,0:15:41.04,Default,TM,0,0,0,,That's where the phrase originated from.{TM: I'd stop right before the "eehh?"}
 Dialogue: 10,0:15:41.54,0:15:43.03,Default,,0,0,0,,According to the internet.
 Dialogue: 10,0:15:43.03,0:15:44.01,Default,,0,0,0,,The internet's amazing.
 Dialogue: 10,0:15:44.01,0:15:46.97,Default,,0,0,0,,"Asleep at the wheel", "Sleeping on the job"...
