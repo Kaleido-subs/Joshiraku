@@ -16,6 +16,10 @@ Audio File: JoshirakuBD_09 (Premux).mkv
 Video File: JoshirakuBD_09 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 104
+Active Line: 287
+Video Position: 22495
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -168,7 +172,7 @@ Dialogue: 10,0:08:26.82,0:08:29.53,Default,,0,0,0,,Everyone knows flamingos are 
 Dialogue: 10,0:08:29.94,0:08:34.68,Default,,0,0,0,,{\q2}So you end up wasting your time taking pics \Nor whatever, and then you're in a hurry later on!
 Dialogue: 10,0:08:34.68,0:08:37.66,Default,,0,0,0,,Just after you enter is when your energy's at its peak.
 Dialogue: 10,0:08:37.66,0:08:39.75,Default,,0,0,0,,Everything seems cool and rare.
-Dialogue: 10,0:08:40.14,0:08:42.78,Default,TM,0,0,0,,I wonder why they put flamingos at the entrance.{TM: Needs more lead-in. "Nande" starts at 0:08:40.21.}
+Dialogue: 10,0:08:40.09,0:08:42.78,Default,,0,0,0,,I wonder why they put flamingos at the entrance.{TM: Needs more lead-in. "Nande" starts at 0:08:40.21.}
 Dialogue: 10,0:08:42.78,0:08:47.52,Default,,0,0,0,,{\q2}I heard the reason flamingos stand on one leg \Nis because the water they stand in is cool.
 Dialogue: 10,0:08:47.52,0:08:49.90,Default,,0,0,0,,{\q2}Maybe they're by the entrance \Nbecause it's sunnier there?
 Dialogue: 10,0:08:49.90,0:08:51.89,Default,,0,0,0,,They're like old people lying in the sun!
@@ -311,7 +315,7 @@ Dialogue: 10,0:15:20.52,0:15:24.24,Default,,0,0,0,,{\q2}Why do they call dozing 
 Dialogue: 10,0:15:24.24,0:15:28.20,Default,,0,0,0,,{\q2}Shirakawa sounds like a river, \Nbut it's actually an area of Kyoto.
 Dialogue: 10,0:15:28.20,0:15:32.87,Default,,0,0,0,,{\q2}There was once a guy who said he'd seen \Nit all, and was asked "How's Shirakawa?"
 Dialogue: 10,0:15:32.87,0:15:38.21,Default,,0,0,0,,{\q2}He lied and said "I sailed down it on a boat, \Nbut I slept and didn't see anything."
-Dialogue: 10,0:15:38.21,0:15:41.04,Default,TM,0,0,0,,That's where the phrase originated from.{TM: I'd stop right before the "eehh?"}
+Dialogue: 10,0:15:38.21,0:15:40.92,Default,,0,0,0,,That's where the phrase originated from.{TM: I'd stop right before the "eehh?"}
 Dialogue: 10,0:15:41.54,0:15:43.03,Default,,0,0,0,,According to the internet.
 Dialogue: 10,0:15:43.03,0:15:44.01,Default,,0,0,0,,The internet's amazing.
 Dialogue: 10,0:15:44.01,0:15:46.97,Default,,0,0,0,,"Asleep at the wheel", "Sleeping on the job"...
