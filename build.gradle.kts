@@ -72,7 +72,7 @@ subs {
         includeProjectGarbage(false)
 
         scriptInfo {
-            title = "Kaleido-subs"
+            title = getRaw("group")
             scaledBorderAndShadow = true
         }
     }
@@ -198,7 +198,7 @@ subs {
                     lang("eng")
                     name(get("group"))
                     default(true)
-                    forced(true)
+                    forced(false)
                     compression(CompressionType.ZLIB)
                 }
             }
