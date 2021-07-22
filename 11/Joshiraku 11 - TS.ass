@@ -14,10 +14,10 @@ Audio File: JoshirakuBD_11 (Premux).mkv
 Video File: JoshirakuBD_11 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 161
-Active Line: 162
-Video Position: 12884
+Video Zoom Percent: 0.750000
+Scroll Position: 497
+Active Line: 500
+Video Position: 24203
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,7 +54,10 @@ Dialogue: 0,0:03:45.71,0:03:48.21,Sign,,0,0,0,,{\blur0.6\an5\bord1\fs68\fnCambri
 Dialogue: 1,0:03:45.71,0:03:48.21,Sign,,0,0,0,,{\blur0.6\an5\bord0\fs68\c&H151515&\fnCambria\pos(277.29,375)\b1\4a&HFF&}New Design
 Dialogue: 0,0:03:48.21,0:03:51.34,Sign,,0,0,0,,{\blur0.6\an5\bord1\fs68\fnCambria\b1\3c&HA7A5A4&\c&HA7A5A4&\pos(984.72,371.57)}Old Design
 Dialogue: 1,0:03:48.21,0:03:51.34,Sign,,0,0,0,,{\blur0.6\an5\bord0\fs68\c&H151515&\fnCambria\b1\pos(984.72,371.57)\4a&HFF&}Old Design
-Dialogue: 0,0:03:51.34,0:03:55.42,Sign,TO DO,0,0,0,,{\an7\fs48\pos(652.2,366.8)}Marii
+Dialogue: 0,0:03:51.34,0:03:55.59,Sign,,0,0,0,,{\fad(0,230)\blur3\an5\fs43\c&H0C1214&\fnIAmTheCrayonMaster\b1\pos(693.53,410.8)\frz353\alpha&H80&}Marii
+Dialogue: 1,0:03:51.34,0:03:55.59,Sign,,0,0,0,,{\fad(0,230)\blur1.5\an5\fs43\c&H0C1214&\fnIAmTheCrayonMaster\b1\pos(693.53,410.8)\frz353}Marii
+Dialogue: 0,0:03:55.34,0:03:57.59,Sign,,0,0,0,,{\fad(270,220)\blur3\an5\fs35\c&H0C1214&\fnIAmTheCrayonMaster\b1\frz353\alpha&H80&\pos(858.42,327.25)}Marii
+Dialogue: 1,0:03:55.34,0:03:57.59,Sign,,0,0,0,,{\fad(270,220)\blur1.5\an5\fs35\c&H0C1214&\fnIAmTheCrayonMaster\b1\frz353\pos(858.42,327.25)}Marii
 Dialogue: 0,0:04:38.63,0:04:39.80,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(641.86,109.86)\p1\c&HEFEFEF&}m -229 -46 l 229 -46 229 50 -229 50
 Dialogue: 1,0:04:38.63,0:04:39.80,Sign,,0,0,0,,{\blur0.8\an5\bord0\fs48\c&H151515&\fnCambria\b1\4a&HFF&\pos(641.86,111.86)}Academic Performance \NScore 60
 Dialogue: 0,0:04:39.80,0:04:40.84,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(641.86,109.86)\p1\c&HEFEFEF&}m -229 -46 l 229 -46 229 50 -229 50
@@ -499,8 +502,12 @@ Dialogue: 0,0:10:11.30,0:10:12.47,AI TS,,0,0,0,,{\an7\1c&HAB9A90&\p1\pos(-316,-1
 Dialogue: 0,0:10:11.30,0:10:12.47,AI TS,,0,0,0,,{\an7\1c&HB6A39A&\p1\pos(-316,-177.33)}m 991.42 568 b 988.86 568.07 986.83 568.19 985.28 564.85 984.17 562.47 980.27 560.97 977.02 562.11 974.43 563.01 971.44 562.6 970.88 560.8 970.02 558.06 966.73 555.75 969.34 551.83 973.9 544.97 974.53 544.74 981.91 548.41 986.69 550.78 989.73 555.42 995.3 557.04 998.25 557.89 996.67 562.58 995.91 565.59 995.31 567.93 993.91 568.96 991.42 568{\p0}
 Dialogue: 0,0:10:11.30,0:10:12.47,AI TS,,0,0,0,,{\an7\1c&HAB9B90&\p1\pos(-316,-177.33)}m 1072.98 583 b 1070.15 582.29 1070.6 580.76 1071.98 579 1072.66 580.24 1073.13 581.54 1072.98 583{\p0}
 Dialogue: 0,0:10:11.13,0:10:12.47,Sign,,0,0,0,,{\blur1.2\an5\fs48\c&H1E2225&\fnAgeo Personal Use Heavy\b0\clip(m 463.2 243.2 l 962.4 364 965.6 483.2 441.6 370.4)\org(414.4,549.5)\fry4.57\frx5.52\pos(717,273.6)\fscx215\fscy206\frz349.8}Doppo Street
-Dialogue: 0,0:10:26.48,0:10:27.69,Sign,TO DO,0,0,0,,{\pos(230,338)\an7\fs48}Marii Buratei
-Dialogue: 0,0:10:53.13,0:10:54.38,Sign,,0,0,0,,{\blur1\an7\fs42\c&H1A1711&\fnAgilita W02 Black Condensed\fax-0.28\pos(728,199.66)\frz15.39}The 
+Dialogue: 0,0:10:26.48,0:10:27.69,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\fscx100\fscy100\c&H0C0B07&\p1\frz341.7\pos(754.67,93.67)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 1,0:10:26.48,0:10:27.69,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\fscx97.5\fscy90\c&HEAEAEA&\p1\frz341.7\pos(754.67,93.67)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 2,0:10:26.48,0:10:27.69,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\fscx94.5\fscy80\p1\c&H0C0B07&\frz341.7\pos(754.67,93.67)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 3,0:10:26.48,0:10:27.69,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\fscx93\fscy75\p1\c&HEAEAEA&\frz341.7\pos(754.67,93.67)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 4,0:10:26.48,0:10:27.69,Sign,,0,0,0,midcard,{\fnBrushType-SemiBold\fs59\b0\c&H050603&\blur0.7\frz341.7\pos(759.49,97.85)}Marii Buratei
+Dialogue: 0,0:10:53.13,0:10:54.38,Sign,,0,0,0,,{\blur1\an7\fs42\c&H1A1711&\fnAgilita W02 Black Condensed\fax-0.28\pos(728,199.66)\frz15.39}The
 Dialogue: 0,0:10:53.13,0:10:54.38,Sign,,0,0,0,,{\blur1\an7\fs42\c&H27231B&\fnAgilita W02 Black Condensed\fax-0.28\pos(684.98,248.14)\frz15.39}Wie{\c&H1A1711&}ner
 Dialogue: 0,0:15:46.80,0:15:47.68,Sign,,0,0,0,,{\blur0.9\an5\fs32\fnCatalogue\c&HE3EAF0&\frz26.02\pos(446.66,213.8)}S{\frz25.66}w{\frz25.3}e{\frz24.94}e{\frz24.59}t{\frz24.23} {\frz23.87}C{\frz23.51}h{\frz23.15}e{\frz22.79}s{\frz22.43}t{\frz22.08}n{\frz21.72}u{\frz21.36}t{\frz21}s
 Dialogue: 0,0:15:46.80,0:15:47.68,Sign,,0,0,0,,{\blur0.9\an5\fs32\fnCatalogue\c&HE3EAF0&\frz339.4\pos(824.84,226.04)}Sweet
@@ -517,12 +524,12 @@ Dialogue: 0,0:15:50.14,0:15:51.81,Sign,TO DO,0,0,0,,{\pos(768,144)\an7\fs63}Chri
 Dialogue: 0,0:15:51.81,0:15:54.22,Sign,TO DO,0,0,0,,{\pos(768,144)\an7\fs63}Ch
 Dialogue: 0,0:16:02.23,0:16:03.78,Sign,TO DO,0,0,0,,{\pos(543.921875,165)\an9\fs63}Christmas
 Dialogue: 0,0:16:03.78,0:16:06.24,Sign,TO DO,0,0,0,,{\pos(543.921875,165)\an9\fs63}as
-Dialogue: 0,0:16:49.45,0:16:52.07,Sign,TO DO,0,0,0,,{\c&H000000&\fs28\pos(184,11.2)}Jungle.co.jp {## 密林. A good pun based on Amazon would probably be better}
-Dialogue: 0,0:16:49.45,0:16:52.07,Sign,TO DO,0,0,0,,{\c&H000000&\fs28\pos(339,366)}Introduction to Rakugo {## consider how this looks on the other slides}
-Dialogue: 0,0:16:49.45,0:16:52.07,Sign,TO DO,0,0,0,,{\c&H000000&\fs28\pos(636.8,366)}Extreme Ironing
-Dialogue: 0,0:16:49.45,0:16:52.07,Sign,TO DO,0,0,0,,{\c&H000000&\fs28\pos(915.4,366)}Extreme Sixth Sense
-Dialogue: 0,0:16:49.45,0:16:52.07,Sign,TO DO,0,0,0,,{\c&H000000&\fs28\pos(339,596.4)}Proverb Dictionary
-Dialogue: 0,0:16:49.45,0:16:52.07,Sign,TO DO,0,0,0,,{\c&H000000&\fs28\pos(635,596.4)}Pun Collection
+Comment: 0,0:16:49.45,0:16:52.07,Sign,TO DO?,0,0,0,,{\c&H000000&\fs28\pos(184,11.2)}Jungle.co.jp {## 密林. A good pun based on Amazon would probably be better}
+Dialogue: 0,0:16:49.45,0:16:52.07,Sign,TO DO,0,0,0,,{\blur0.9\c&H4F610D&\fs15\fnAsap\pos(337.17,222)}Introduction to Rakugo {## consider how this looks on the other slides}
+Dialogue: 0,0:16:49.45,0:16:52.07,Sign,TO DO,0,0,0,,{\blur0.9\c&H4F610D&\fs15\fnAsap\pos(633.61,217.69)}Extreme Ironing
+Dialogue: 0,0:16:49.45,0:16:52.07,Sign,TO DO,0,0,0,,{\blur0.9\c&H4F610D&\fs15\fnAsap\pos(917.81,217.08)}Extreme Sixth Sense
+Dialogue: 0,0:16:49.45,0:16:52.07,Sign,TO DO,0,0,0,,{\blur0.9\c&H4F610D&\fs15\fnAsap\pos(336,441.07)}Proverb Dictionary
+Dialogue: 0,0:16:49.45,0:16:52.07,Sign,TO DO,0,0,0,,{\blur0.9\c&H4F610D&\fs15\fnAsap\pos(634.4,444.8)}Pun Collection
 Dialogue: 0,0:17:00.96,0:17:19.06,Sign,TO DO,0,0,0,,{\c&H000000&\fs28\pos(184,11.2)}Jungle.co.jp {## 密林. A good pun based on Amazon would probably be better}
 Dialogue: 0,0:17:00.96,0:17:05.17,Sign,TO DO,0,0,0,,{\c&H000000&\fs28\pos(339,366)}Sweater Jacket
 Dialogue: 0,0:17:00.96,0:17:05.17,Sign,TO DO,0,0,0,,{\c&H000000&\fs28\pos(636.8,366)}Beer Set
@@ -541,12 +548,15 @@ Dialogue: 0,0:17:07.76,0:17:12.09,Sign,TO DO,0,0,0,,{\c&H000000&\fs28\pos(339,59
 Dialogue: 0,0:17:07.76,0:17:12.09,Sign,TO DO,0,0,0,,{\c&H000000&\fs28\pos(635,596.4)}Introduction to \NWatercolour Painting
 Dialogue: 0,0:17:11.80,0:17:12.09,Sign,TO DO,0,0,0,,{\fs10\pos(993.6,339.6)\c&H000000&}Super Ultra Soul Pill Royal Gold
 Dialogue: 0,0:17:12.09,0:17:19.06,Sign,TO DO,0,0,0,,{\c&H000000&\fs28\pos(625.8,137.2)}Super Ultra Soul Pill Royal Gold
-Dialogue: 0,0:19:09.75,0:19:11.17,Sign,TO DO,0,0,0,,{\pos(384,266)\an7\fs48\c&H000000&}From: Ebizou
-Dialogue: 0,0:19:09.75,0:19:11.17,Sign,TO DO,0,0,0,,{\pos(422,324)\an7\fs48\c&H000000&}Re: So sorry!
-Dialogue: 0,0:19:09.75,0:19:11.17,Sign,TO DO,0,0,0,,{\pos(499,403)\an7\fs48\c&H000000&}I'm so, so sorry!
-Dialogue: 0,0:19:09.75,0:19:11.17,Sign,TO DO,0,0,0,,{\pos(460,453)\an7\fs48\c&H000000&}I can't make it today!
-Dialogue: 0,0:19:09.75,0:19:11.17,Sign,TO DO,0,0,0,,{\pos(742,532)\an7\fs48\c&H000000&}- Ebizou
-Dialogue: 0,0:21:25.76,0:21:28.23,Sign,TO DO,0,0,0,,Don Quixote
+Dialogue: 0,0:19:09.75,0:19:11.17,Sign,,0,0,0,,{\blur1\an5\fs25\c&H735E48&\frz20.65\fnCameronSans\b0\pos(627,226)\alpha&HA0&}From: Ebizou
+Dialogue: 1,0:19:09.75,0:19:11.17,Sign,,0,0,0,,{\blur0.8\an5\fs25\c&H735E48&\frz20.65\fnCameronSans\b0\pos(627,226)}From: Ebizou
+Dialogue: 0,0:19:09.75,0:19:11.17,Sign,,0,0,0,,{\blur1\an5\fs22\c&H735E48&\fnCameronSans\b0\pos(689,265)\frz21.27\alpha&HA0&}Re: So sor{\c&H745737&}ry!
+Dialogue: 1,0:19:09.75,0:19:11.17,Sign,,0,0,0,,{\blur0.8\an5\fs22\c&H735E48&\fnCameronSans\b0\pos(689,265)\frz21.27}Re: So sor{\c&H745737&}ry!
+Dialogue: 0,0:19:09.75,0:19:11.17,Sign,,0,0,0,,{\blur1\an7\fs30\c&H876944&\fnCameronSans\b0\frz21.27\pos(553.14,507.42)\alpha&HA0&}I'm so, so sorry! \NI can't make it today!
+Dialogue: 1,0:19:09.75,0:19:11.17,Sign,,0,0,0,,{\blur0.8\an7\fs30\c&H876944&\fnCameronSans\b0\frz21.27\pos(553.14,507.42)}I'm so, so sorry! \NI can't make it today!
+Dialogue: 0,0:19:09.75,0:19:11.17,Sign,,0,0,0,,{\blur1\an7\fs30\c&H876944&\fnCameronSans\b0\frz21.27\pos(724.57,585.14)\alpha&HA0&}- Ebizou
+Dialogue: 1,0:19:09.75,0:19:11.17,Sign,,0,0,0,,{\blur0.8\an7\fs30\c&H876944&\fnCameronSans\b0\frz21.27\pos(724.57,585.14)}- Ebizou
+Dialogue: 0,0:21:25.76,0:21:28.23,Sign,,0,0,0,,{\blur1\c&H0D2632&\fs25\fnBlockParty\fax-0.45\frz24.88\pos(724.15,316.28)}D{\fs25.4\fax-0.44}o{\fs25.8\fax-0.43}n{\fs26.2\fax-0.42} {\fs26.6\fax-0.41}Q{\fs27\fax-0.4}u{\fs27.4\fax-0.39}i{\fs27.8\fax-0.38}x{\fs28.2\fax-0.37}o{\fs28.6\fax-0.36}t{\fs29\fax-0.35}e
 Dialogue: 0,0:23:40.07,0:23:42.78,Sign,,0,0,0,,{\pos(563,151)\an7\fs48}Next time
 Dialogue: 0,0:24:04.01,0:24:10.01,Sign,,0,0,0,,{\pos(473,57)\an7\fs55}Dreamer's Revenge
 Dialogue: 0,0:24:04.01,0:24:10.01,Sign,,0,0,0,,{\pos(588,115)\an7\fs55}Scary
