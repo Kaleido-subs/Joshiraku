@@ -167,8 +167,8 @@ Dialogue: 10,0:08:24.36,0:08:26.82,Default,,0,0,0,,Where the flamingos at?
 Dialogue: 10,0:08:26.82,0:08:29.53,Default,,0,0,0,,Everyone knows flamingos are the stars of the zoo!
 Dialogue: 10,0:08:29.94,0:08:34.68,Default,,0,0,0,,{\q2}So you end up wasting your time taking pics \Nor whatever, and then you're in a hurry later on!
 Dialogue: 10,0:08:34.68,0:08:37.66,Default,,0,0,0,,Just after you enter is when your energy's at its peak.
-Dialogue: 10,0:08:37.66,0:08:39.75,Default,,0,0,0,,Everything seems cool and rare.
-Dialogue: 10,0:08:40.09,0:08:42.78,Default,,0,0,0,,I wonder why they put flamingos at the entrance.{TM: Needs more lead-in. "Nande" starts at 0:08:40.21.}
+Dialogue: 10,0:08:37.66,0:08:39.75,Default,,0,0,0,,Everything seems cool and exotic.
+Dialogue: 10,0:08:40.09,0:08:42.78,Default,,0,0,0,,I wonder why they put flamingos at the entrance.
 Dialogue: 10,0:08:42.78,0:08:47.52,Default,,0,0,0,,{\q2}I heard the reason flamingos stand on one leg \Nis because the water they stand in is cool.
 Dialogue: 10,0:08:47.52,0:08:49.90,Default,,0,0,0,,{\q2}Maybe they're by the entrance \Nbecause it's sunnier there?
 Dialogue: 10,0:08:49.90,0:08:51.89,Default,,0,0,0,,They're like old people lying in the sun!
@@ -204,7 +204,7 @@ Dialogue: 10,0:10:08.53,0:10:10.88,Default,,0,0,0,,I couldn't care less about pa
 Dialogue: 10,0:10:10.88,0:10:12.84,Default,,0,0,0,,Their eyes are terrifying.
 Dialogue: 10,0:10:12.84,0:10:15.70,Default,,0,0,0,,So, everyone likes the giant panda?
 Dialogue: 10,0:10:15.70,0:10:18.31,Default,,0,0,0,,There's nobody who dislikes pandas!
-Dialogue: 10,0:10:18.61,0:10:22.06,Default,,0,0,0,,{\q2}Please take some time to think \Nof the lesser panda occasionally.
+Dialogue: 10,0:10:18.61,0:10:22.06,Default,,0,0,0,,{\q2}Please take some time to think of \Nthe lesser panda occasionally.
 Dialogue: 10,0:10:22.06,0:10:26.74,Default,,0,0,0,,{\q2}Originally, the word "panda" referred \Nto the smaller, brownish type.
 Dialogue: 10,0:10:26.74,0:10:31.70,Default,,0,0,0,,{\q2}But after the discovery of the giant panda, \Nthe brown one got saddled with "lesser".
 Dialogue: 10,0:10:31.70,0:10:33.55,Default,,0,0,0,,"Lesser"? That's kind of mean.
@@ -300,7 +300,7 @@ Dialogue: 10,0:14:27.08,0:14:28.21,Default,,0,0,0,,Let's come back sometime.
 Dialogue: 10,0:14:30.38,0:14:31.26,Default,,0,0,0,,Pimo.
 Dialogue: 10,0:14:32.01,0:14:33.79,Default,,0,0,0,,What's "Pimo"?
 Dialogue: 10,0:14:33.79,0:14:36.90,Default,,0,0,0,,A mysterious animal that many have seen,
-Dialogue: 10,0:14:36.90,0:14:39.69,Default,,0,0,0,,{\q2}but few know where it comes from \Nor where its name originates from.
+Dialogue: 10,0:14:36.90,0:14:39.69,Default,,0,0,0,,{\q2}but few know where it comes from \Nor where its name originated.
 Dialogue: 10,0:14:39.69,0:14:41.28,Default,,0,0,0,,Does an animal like that exist?
 Dialogue: 10,0:14:42.73,0:14:44.25,Default,,0,0,0,,Huh? Where?
 Comment: 0,0:14:53.91,0:14:53.91,Default,chapter,0,0,0,,{Part C}
