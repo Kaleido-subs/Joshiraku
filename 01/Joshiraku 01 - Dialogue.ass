@@ -6,22 +6,22 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
-PlayResX: 1280
-PlayResY: 720
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
 Export Filters: Actor/Linebreak Remover
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default (720p)
-Audio File: JoshirakuBD_01 (Premux).mkv
-Video File: JoshirakuBD_01 (Premux).mkv
+Audio File: JoshirakuBD_01_new (Premux).mkv
+Video File: JoshirakuBD_01_new (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.4,1,2,140,140,40,1
-Style: Alt,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,0,0,0,0,100,100,0,0,1,2.4,1,2,120,120,40,1
+Style: Default,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,3.6,1.5,2,210,210,60,1
+Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,0,0,0,0,100,100,0,0,1,3.6,1.5,2,180,180,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -183,8 +183,8 @@ Dialogue: 10,0:09:23.20,0:09:25.96,Default,,0,0,0,,Even though you can't really 
 Dialogue: 10,0:09:25.96,0:09:27.42,Default,,0,0,0,,Cut it out, guys!
 Dialogue: 10,0:09:27.42,0:09:29.67,Default,,0,0,0,,People are gonna start losing respect for me!
 Dialogue: 10,0:09:29.67,0:09:31.84,Default,,0,0,0,,Can you really lose something you never had?
-Dialogue: 10,0:09:31.84,0:09:35.01,Default,,0,0,0,,{\move(640,682.667,640,823.111,2609,2750)\q2}Being naked all the time reminds me of a baseball manga... \Nthat I can't name because of copyright.
-Dialogue: 10,0:09:34.42,0:09:36.05,Default,,0,0,0,,{\move(640,586.667,640,682.667,0,160)}What kinda reference was that?
+Dialogue: 10,0:09:31.84,0:09:35.01,Default,,0,0,0,,{\move(960,1024.001,960,1234.667,2609,2750)\q2}Being naked all the time reminds me of a baseball manga... \Nthat I can't name because of copyright.
+Dialogue: 10,0:09:34.42,0:09:36.05,Default,,0,0,0,,{\move(960,880.001,960,1024.001,0,160)}What kinda reference was that?
 Dialogue: 10,0:09:36.05,0:09:38.68,Default,,0,0,0,,There's no way anybody's gonna get that!
 Dialogue: 10,0:09:38.68,0:09:40.47,Default,,0,0,0,,It's flippin' time!
 Dialogue: 10,0:09:40.47,0:09:43.93,Default,,0,0,0,,It's not like flipping the sheet will show more anyway!
