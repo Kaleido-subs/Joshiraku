@@ -18,44 +18,45 @@ Style: Alt,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:01:30.36,0:01:33.61,Default,,0,0,0,,"So, I guess this is goodbye."
 Dialogue: 10,0:01:33.99,0:01:35.91,Default,,0,0,0,,"I guess it is."
-Dialogue: 10,0:01:48.21,0:01:50.09,Default,,0,0,0,,So this is the last episode.
+Dialogue: 10,0:01:48.21,0:01:50.09,Default,,0,0,0,,So, this is the last episode.
 Dialogue: 10,0:01:50.42,0:01:52.26,Default,,0,0,0,,It's programming rearrangement season.
 Dialogue: 10,0:01:53.47,0:01:55.72,Default,,0,0,0,,A time of partings and new meetings.
 Dialogue: 10,0:01:56.64,0:01:59.85,Default,,0,0,0,,We should hold each new meeting dear.
 Dialogue: 10,0:02:00.56,0:02:02.77,Default,,0,0,0,,Cherish the fleeting.
 Dialogue: 10,0:02:03.73,0:02:05.23,Default,,0,0,0,,Cherish the fleeting?
 Dialogue: 10,0:02:05.52,0:02:07.07,Default,,0,0,0,,What does that mean?
-Dialogue: 10,0:02:07.40,0:02:13.03,Default,,0,0,0,,Each meeting must be treasured, because once gone,\Nmoments in time can never be reclaimed.
-Dialogue: 10,0:02:13.24,0:02:17.45,Default,,0,0,0,,Said to be the words of the tea master Sen no Rikyu.
+Dialogue: 10,0:02:07.40,0:02:13.03,Default,,0,0,0,,Each meeting must be treasured, because once gone, \Nmoments in time can never be reclaimed.
+Dialogue: 10,0:02:13.24,0:02:17.45,Default,,0,0,0,,Said to be the words of the tea master, Sen-no-Rikyu.
 Dialogue: 10,0:02:19.74,0:02:20.83,Default,,0,0,0,,Coming in!
 Dialogue: 10,0:02:25.58,0:02:27.75,Default,,0,0,0,,Good morning!
-Dialogue: 10,0:02:29.46,0:02:30.71,Default,,0,0,0,,Who are you?
+Dialogue: 10,0:02:29.46,0:02:30.71,Default,,0,0,0,,Wh-Who are you?
 Dialogue: 10,0:02:30.71,0:02:34.26,Default,,0,0,0,,Master said I could go on stage today.
-Dialogue: 10,0:02:34.26,0:02:38.10,Default,,0,0,0,,Well, when I stage, what I actually mean is backstage!
+Dialogue: 10,0:02:34.26,0:02:38.10,Default,,0,0,0,,{\q2}Well, when I say stage, \Nwhat I {\i1}actually{\i0} mean is backstage!
 Dialogue: 10,0:02:38.10,0:02:39.56,Default,,0,0,0,,I slay me!
 Dialogue: 10,0:02:39.56,0:02:42.02,Default,,0,0,0,,Delighted to meet you all!
-Dialogue: 10,0:02:42.02,0:02:44.27,Default,,0,0,0,,Or, as they say in England, "cheers mate"!
+Dialogue: 10,0:02:42.02,0:02:44.27,Default,,0,0,0,,Or, as they say in England, "cheers, mate"!
 Dialogue: 10,0:02:44.27,0:02:46.19,Default,,0,0,0,,Wow, hottie alert!
-Dialogue: 10,0:02:46.19,0:02:47.94,Default,,0,0,0,,Do you have a boyf?
-Dialogue: 10,0:02:48.44,0:02:49.19,Default,,0,0,0,,How annoying.
-Dialogue: 10,0:02:49.19,0:02:50.15,Default,,0,0,0,,What is her problem?
-Dialogue: 10,0:02:50.15,0:02:51.03,Default,,0,0,0,,So annoying.
-Dialogue: 10,0:02:51.28,0:02:53.74,Default,,0,0,0,,Did you really used to be a little punk?
+Dialogue: 10,0:02:46.19,0:02:47.94,Default,,0,0,0,,You gots a BF?
+Dialogue: 10,0:02:48.44,0:02:49.19,Default,,0,0,0,,{\i1}How annoying.
+Dialogue: 10,0:02:49.19,0:02:50.15,Default,,0,0,0,,{\i1}What is her problem?
+Dialogue: 10,0:02:50.15,0:02:51.03,Default,,0,0,0,,{\i1}God, shut up!
+Dialogue: 10,0:02:51.28,0:02:53.74,Default,,0,0,0,,Did you really used to be a pot stirrer?
 Dialogue: 10,0:02:53.74,0:02:55.15,Default,,0,0,0,,Stop with the on-air reporter shtick!
 Dialogue: 10,0:02:55.45,0:02:57.82,Default,,0,0,0,,Is it true you're divorced?
-Dialogue: 10,0:02:58.83,0:03:01.66,Default,,0,0,0,,Do you wear gothic lolita clothes because\Nyou think you look good in them?
+Dialogue: 10,0:02:58.83,0:03:01.66,Default,,0,0,0,,Do you wear gothic lolita clothes \N'cuz you think you look good in them?
 Dialogue: 10,0:03:02.37,0:03:04.25,Default,,0,0,0,,I can't even with this jerkwad.
 Dialogue: 10,0:03:04.25,0:03:06.92,Default,,0,0,0,,Now, now. It's only for a day.
-Dialogue: 10,0:03:06.92,0:03:10.00,Default,,0,0,0,,I'm here to shower you with love and support!
-Dialogue: 10,0:03:10.00,0:03:12.51,Default,,0,0,0,,It's the last episode, we don't need support!
+Dialogue: 10,0:03:06.92,0:03:10.00,Default,,0,0,0,,I'm here to shower you with love and support! {### gg's makes more sense here to me ("Nope, I'm a new supporting character")}
+Dialogue: 10,0:03:10.00,0:03:12.51,Default,,0,0,0,,{\q2}It's the last episode! \NWe don't need your support!
 Dialogue: 10,0:03:12.51,0:03:13.21,Default,,0,0,0,,She's late!
-Dialogue: 10,0:03:13.21,0:03:14.51,Default,,0,0,0,,Today of all days.
-Dialogue: 10,0:03:14.51,0:03:16.51,Default,,0,0,0,,I was hoping we could give the show a nice send-off.
-Dialogue: 10,0:03:16.51,0:03:20.10,Default,,0,0,0,,Well, you know what they say.\NAll's well that ends well.
-Dialogue: 10,0:03:20.43,0:03:23.68,Default,,0,0,0,,Hopefully it's just this once, and we can let it all slide.
-Dialogue: 10,0:03:24.31,0:03:25.73,Default,,0,0,0,,It's our only option.
+Dialogue: 10,0:03:13.21,0:03:14.51,Default,,0,0,0,,Today of all days?!
+Dialogue: 10,0:03:14.51,0:03:16.51,Default,,0,0,0,,{\q2}I was hoping we could give \Nthe show a nice send-off!
+Dialogue: 10,0:03:16.51,0:03:20.10,Default,,0,0,0,,Well, you know what they say. \NAll's well that ends well.
+Dialogue: 10,0:03:20.43,0:03:23.68,Default,,0,0,0,,Hopefully it's just this once, \Nand we can let it all slide. {### here too ("this is our last time on screen, so let's just take it easy")}
+Dialogue: 10,0:03:24.31,0:03:25.73,Default,,0,0,0,,Well, okay.
 Dialogue: 10,0:03:25.73,0:03:27.02,Default,,0,0,0,,If it's just this once.
 Dialogue: 10,0:03:27.02,0:03:29.06,Default,,0,0,0,,That's right! Cherish the fleeting!
 Dialogue: 10,0:03:29.06,0:03:30.90,Default,,0,0,0,,Whether you laugh or cry, it's the final episode!
@@ -63,17 +64,17 @@ Dialogue: 10,0:03:30.90,0:03:32.53,Default,,0,0,0,,We've gotta cherish this meet
 Dialogue: 10,0:03:32.73,0:03:36.36,Default,,0,0,0,,Meeting you all today makes me so grateful!
 Dialogue: 10,0:03:36.36,0:03:37.20,Default,,0,0,0,,So annoying.
 Dialogue: 10,0:03:37.49,0:03:39.87,Default,,0,0,0,,It's just this once! Just for today!
-Dialogue: 10,0:03:39.87,0:03:43.12,Default,,0,0,0,,Aren't you even going to tell us who you are?
-Dialogue: 10,0:03:43.12,0:03:46.46,Default,,0,0,0,,Oh! Of course! Where are my manners?!\NLet me introduce myself!
+Dialogue: 10,0:03:39.87,0:03:43.12,Default,,0,0,0,,Aren't you even gonna tell us who you are?
+Dialogue: 10,0:03:43.12,0:03:46.46,Default,,0,0,0,,Oh! Of course! Where are my manners?! \NLet me introduce myself!
 Dialogue: 10,0:03:46.46,0:03:49.00,Default,,0,0,0,,Why don't we have a little name quiz?
 Dialogue: 10,0:03:49.00,0:03:50.17,Default,,0,0,0,,Who wants to guess? C'mon now!
-Dialogue: 10,0:03:50.33,0:03:52.13,Default,,0,0,0,,She is SO annoying.
+Dialogue: 10,0:03:50.33,0:03:52.13,Default,,0,0,0,,I swear to god, she's {\i1}so{\i0} annoying!
 Dialogue: 10,0:03:52.13,0:03:53.42,Default,,0,0,0,,It's only one day!
-Dialogue: 10,0:03:53.42,0:03:57.01,Default,,0,0,0,,I don't see any raised hands.\NYou're gonna make me sad, you know!
-Dialogue: 10,0:03:57.01,0:04:00.30,Default,,0,0,0,,Okay then, let's make it so everyone\Ncan raise their hands!
-Dialogue: 10,0:04:00.30,0:04:02.31,Default,,0,0,0,,If you have a good guess, raise your hand like "paper",
-Dialogue: 10,0:04:02.31,0:04:04.27,Default,,0,0,0,,if you kind of think you know, go with "scissors",
-Dialogue: 10,0:04:04.27,0:04:07.52,Default,,0,0,0,,and if you have no idea, go with "rock". Got that?
+Dialogue: 10,0:03:53.42,0:03:57.01,Default,,0,0,0,,I don't see any raised hands. \NYou'll make Ms. Me cry, pupils!
+Dialogue: 10,0:03:57.01,0:04:00.30,Default,,0,0,0,,Okay then, let's make it so everyone \Ncan raise their hands!
+Dialogue: 10,0:04:00.30,0:04:02.31,Default,,0,0,0,,If you have a good guess, \Nraise your hand like "paper",
+Dialogue: 10,0:04:02.31,0:04:04.27,Default,,0,0,0,,if you kind of think you know, \Ngo with "scissors",
+Dialogue: 10,0:04:04.27,0:04:07.52,Default,,0,0,0,,and if you have no idea, \Ngo with "rock". Got that?
 Dialogue: 10,0:04:07.52,0:04:09.48,Default,,0,0,0,,What is this, parent's evening at school, Mr. Kinpachi?
 Dialogue: 10,0:04:09.48,0:04:10.44,Default,,0,0,0,,She's so damn annoying!
 Dialogue: 10,0:04:10.44,0:04:11.48,Default,,0,0,0,,It's just this once...
@@ -85,30 +86,30 @@ Dialogue: 10,0:04:18.99,0:04:21.37,Default,,0,0,0,,Uzannu Uzattei!
 Dialogue: 10,0:04:21.37,0:04:22.49,Default,,0,0,0,,Don't forget it, now!
 Dialogue: 10,0:04:22.49,0:04:23.33,Default,,0,0,0,,She's so annoying!
 Dialogue: 10,0:04:23.33,0:04:24.45,Default,,0,0,0,,It's just this once...
-Dialogue: 10,0:04:24.45,0:04:27.54,Default,,0,0,0,,Ugh, "voiced by ***ko Shin*** ".
+Dialogue: 10,0:04:24.45,0:04:27.54,Default,,0,0,0,,Ugh, "Voiced by ***ko Shin*** ".
 Dialogue: 10,0:04:27.54,0:04:28.71,Default,,0,0,0,,She's so annoying!
 Dialogue: 10,0:04:28.71,0:04:29.71,Default,,0,0,0,,It's just this once!
 Dialogue: 10,0:04:29.87,0:04:31.54,Default,,0,0,0,,What's everyone else's names, then?
-Dialogue: 10,0:04:31.54,0:04:32.71,Default,,0,0,0,,I'm-
+Dialogue: 10,0:04:31.54,0:04:32.71,Default,,0,0,0,,I'm—
 Dialogue: 10,0:04:32.71,0:04:35.17,Default,,0,0,0,,Ah, wait, wait, don't tell me!
-Dialogue: 10,0:04:35.17,0:04:36.17,Default,,0,0,0,,She's so annoying!
+Dialogue: 10,0:04:35.17,0:04:36.17,Default,,0,0,0,,She's {\i1}so{\i0} annoying!
 Dialogue: 10,0:04:36.17,0:04:37.09,Default,,0,0,0,,It's just this once.
-Dialogue: 10,0:04:37.55,0:04:39.84,Default,,0,0,0,,I don't care what Rikyu says...
+Dialogue: 10,0:04:37.55,0:04:39.84,Default,,0,0,0,,I don't care what Rikyuu says...
 Dialogue: 10,0:04:40.68,0:04:42.18,Default,,0,0,0,,For most moments...
 Dialogue: 10,0:04:43.26,0:04:44.64,Default,,0,0,0,,Once is enough!
 Dialogue: 10,0:04:45.01,0:04:46.89,Default,,0,0,0,,Forget "cherish the fleeting".
-Dialogue: 10,0:04:46.89,0:04:50.31,Default,,0,0,0,,Nine out of ten times,\Nit's GOOD that the moment is fleeting.
-Dialogue: 10,0:04:50.60,0:04:54.73,Default,,0,0,0,,Lining up for hours at an attraction because\Nyou don't know when you'll come again.
+Dialogue: 10,0:04:46.89,0:04:50.31,Default,,0,0,0,,Nine out of ten times, \Nit's {\i1}good{\i0} that the moment is fleeting.
+Dialogue: 10,0:04:50.60,0:04:54.73,Default,,0,0,0,,Lining up for hours at an attraction \Nbecause you don't know when you'll come again...
 Dialogue: 10,0:04:54.73,0:04:56.36,Default,,0,0,0,,Yeah, once is enough.
-Dialogue: 10,0:04:56.73,0:05:00.28,Default,,0,0,0,,Waiting outside a pancake place because\Nyou happened to be in the area.
+Dialogue: 10,0:04:56.73,0:05:00.28,Default,,0,0,0,,Waiting outside a pancake place \Nbecause you happened to be in the area...
 Dialogue: 10,0:05:00.28,0:05:01.95,Default,,0,0,0,,Yeah, once is enough.
-Dialogue: 10,0:05:02.20,0:05:04.74,Default,,0,0,0,,That internet friend you've been emailing for\Na year who you finally got to meet.
+Dialogue: 10,0:05:02.20,0:05:04.74,Default,,0,0,0,,{\q2}That internet friend you've been emailing \Nfor a year who you finally got to meet...
 Dialogue: 10,0:05:05.12,0:05:06.91,Default,,0,0,0,,Yeah, once is enough.
 Dialogue: 10,0:05:07.04,0:05:08.33,Default,,0,0,0,,Once is enough!
 Dialogue: 10,0:05:08.66,0:05:09.71,Default,,0,0,0,,That circus of the sun.
 Dialogue: 10,0:05:09.71,0:05:12.54,Default,,0,0,0,,Rockers who sing on and on about the good old days.
-Dialogue: 10,0:05:12.54,0:05:14.75,Default,,0,0,0,,The first or second qualifying round of the World Cup.
-Dialogue: 10,0:05:14.75,0:05:16.80,Default,,0,0,0,,Movies about a space probe that\Njust went there and came back.
+Dialogue: 10,0:05:12.54,0:05:14.75,Default,,0,0,0,,The first or second qualifying round \Nof the World Cup.
+Dialogue: 10,0:05:14.75,0:05:16.80,Default,,0,0,0,,Movies about a space probe \Nthat just went there and came back.
 Dialogue: 10,0:05:16.80,0:05:17.63,Default,,0,0,0,,American candy.
 Dialogue: 10,0:05:17.63,0:05:18.59,Default,,0,0,0,,Hollywood remakes.
 Dialogue: 10,0:05:18.59,0:05:20.13,Default,,0,0,0,,Middle-school reunions.
@@ -116,61 +117,59 @@ Dialogue: 10,0:05:20.13,0:05:21.18,Default,,0,0,0,,Porn made by former celebriti
 Dialogue: 10,0:05:21.18,0:05:23.43,Default,,0,0,0,,Live action anime movies!
 Dialogue: 10,0:05:23.43,0:05:25.14,Default,,0,0,0,,Goddammit! She's so annoying!
 Dialogue: 10,0:05:25.14,0:05:26.18,Default,,0,0,0,,It's just one time.
-Dialogue: 10,0:05:26.18,0:05:29.31,Default,,0,0,0,,But there are plenty of products that\Nrely on once being enough!
-Dialogue: 10,0:05:30.10,0:05:33.23,Default,,0,0,0,,Products that aren't so much limited\Nedition as "once only",
-Dialogue: 10,0:05:33.23,0:05:35.40,Default,,0,0,0,,where they clearly don't intend\Nfor people to come back.
+Dialogue: 10,0:05:26.18,0:05:29.31,Default,,0,0,0,,But there are plenty of products \Nthat rely on once being enough!
+Dialogue: 10,0:05:30.10,0:05:33.23,Default,,0,0,0,,Products that aren't so much \Nlimited edition as "once only",
+Dialogue: 10,0:05:33.23,0:05:35.40,Default,,0,0,0,,where they clearly don't intend \Nfor people to come back.
 Dialogue: 10,0:05:35.40,0:05:37.73,Default,,0,0,0,,Products where getting you to pay for it once is enough!
 Dialogue: 10,0:05:37.73,0:05:40.11,Default,,0,0,0,,Meeting up once is enough for me!
 Dialogue: 10,0:05:40.11,0:05:41.11,Default,,0,0,0,,Used cars.
 Dialogue: 10,0:05:41.86,0:05:43.28,Default,,0,0,0,,Restaurants at tourist spots.
 Dialogue: 10,0:05:44.16,0:05:45.83,Default,,0,0,0,,Expensive health goods.
-Dialogue: 10,0:05:46.49,0:05:49.45,Default,,0,0,0,,Try them even once and\Nyou're playing right into their hands!
-Dialogue: 10,0:05:49.45,0:05:51.08,Default,,0,0,0,,Hehe, exactly right.
+Dialogue: 10,0:05:46.49,0:05:49.45,Default,,0,0,0,,Try them even once and \Nyou're playing right into their hands!
+Dialogue: 10,0:05:49.45,0:05:51.08,Default,,0,0,0,,Exactly right.
 Dialogue: 10,0:05:51.08,0:05:52.58,Default,,0,0,0,,Once is enough.
 Dialogue: 10,0:05:52.79,0:05:54.33,Default,,0,0,0,,Did she just change?
-Dialogue: 10,0:05:54.67,0:05:58.09,Default,,0,0,0,,All I need is one opportunity\Nto bring about your downfall.
-Dialogue: 10,0:05:58.09,0:06:01.67,Default,,0,0,0,,I just noticed that Marii somehow\Nended up on the teasing side.
+Dialogue: 10,0:05:54.67,0:05:58.09,Default,,0,0,0,,All I need is one opportunity \Nto bring about your downfall.
+Dialogue: 10,0:05:58.09,0:06:01.67,Default,,0,0,0,,I just noticed that Marii somehow \Nended up on the teasing side.
 Dialogue: 10,0:06:01.67,0:06:03.47,Default,,0,0,0,,She's usually the one being teased!
-Dialogue: 10,0:06:03.80,0:06:07.43,Default,,0,0,0,,I just realized that her strawberry-patterned kimono\Nis kinda stealing my niche!
+Dialogue: 10,0:06:03.80,0:06:07.43,Default,,0,0,0,,I just realized that her strawberry-patterned kimono \Nis kinda stealing my niche!
 Dialogue: 10,0:06:07.43,0:06:08.97,Default,,0,0,0,,She's kinda stealing my niche!
 Dialogue: 10,0:06:08.97,0:06:10.60,Default,,0,0,0,,Ah, stop copying me!
 Dialogue: 10,0:06:10.60,0:06:12.18,Default,,0,0,0,,Ah, stop copying me!
 Dialogue: 10,0:06:12.18,0:06:14.60,Default,,0,0,0,,Oops, looks like I've upset the character balance.
 Dialogue: 10,0:06:14.60,0:06:16.31,Default,,0,0,0,,Because it's the last episode,
-Dialogue: 10,0:06:16.31,0:06:21.74,Default,,0,0,0,,it only takes one rogue element to ruin things as\Nthoroughly as you-know-who ruined Japan!
+Dialogue: 10,0:06:16.31,0:06:21.74,Default,,0,0,0,,it only takes one rogue element to ruin things \Nas thoroughly as you-know-who ruined Japan!
 Dialogue: 10,0:06:23.03,0:06:25.41,Default,,0,0,0,,Time for stage two of your destruction.
 Dialogue: 10,0:06:25.78,0:06:26.87,Default,,0,0,0,,Plastic explosives?!
 Dialogue: 10,0:06:27.99,0:06:28.74,Default,,0,0,0,,Stop!
 Dialogue: 10,0:06:28.74,0:06:30.54,Default,,0,0,0,,Now you're infringing my character!
-Dialogue: 10,0:06:31.29,0:06:33.46,Default,,0,0,0,,Haha! Character balance: ruined!
-Dialogue: 10,0:06:33.66,0:06:38.13,Default,,0,0,0,,It's true that there are characters who\Nruin the balance just by showing up once.
+Dialogue: 10,0:06:31.29,0:06:33.46,Default,,0,0,0,,Character balance: in shambles!
+Dialogue: 10,0:06:33.66,0:06:38.13,Default,,0,0,0,,It's true that there are characters who \Nruin the balance just by showing up once.
 Dialogue: 10,0:06:38.13,0:06:39.17,Default,,0,0,0,,What do you want?
 Dialogue: 10,0:06:39.17,0:06:41.88,Default,,0,0,0,,To send this show into an early grave.
 Dialogue: 10,0:06:41.88,0:06:43.92,Default,,0,0,0,,The show was ending today anyway!
-Dialogue: 10,0:06:43.92,0:06:46.55,Default,,0,0,0,,Look forward to Uzannu-Chan, airing next week!
-Dialogue: 10,0:06:46.55,0:06:49.18,Default,,0,0,0,,Look forward to continued annoyance
-Dialogue: 10,0:06:49.18,0:06:51.60,Default,,0,0,0,,I've annoyed you before and I'll annoy you again
-Dialogue: 10,0:06:52.10,0:06:57.06,Default,,0,0,0,,U-za-uzannu! U-za-uzannu!
+Dialogue: 10,0:06:43.92,0:06:46.51,Default,,0,0,0,,Look forward to Annoying Girl, airing next week!
 Dialogue: 10,0:06:57.61,0:06:59.19,Default,,0,0,0,,What a bloody cheek!
 Dialogue: 10,0:06:59.19,0:07:00.19,Default,,0,0,0,,We won't let you get away with this!
-Dialogue: 10,0:07:00.19,0:07:03.11,Default,,0,0,0,,Since the balance has been ruined so thoroughly,
-Dialogue: 10,0:07:03.11,0:07:04.28,Default,,0,0,0,,there's only one thing left we can do to fix this.
+Dialogue: 10,0:07:00.19,0:07:03.11,Default,,0,0,0,,But the balance has been ruined so thoroughly...
+Dialogue: 10,0:07:03.11,0:07:04.28,Default,,0,0,0,,I know a solution!
 Dialogue: 10,0:07:04.28,0:07:05.74,Default,,0,0,0,,The Exile method.
-Dialogue: 10,0:07:07.45,0:07:10.91,Default,,0,0,0,,If you add a whole load of new members, stuff like\Nbalance or individual character goes out the window.
+Dialogue: 10,0:07:07.45,0:07:10.91,Default,,0,0,0,,{\q2}If you add a whole load of new members, stuff like balance \Nor individual character goes out the window!
 Dialogue: 10,0:07:10.91,0:07:12.50,Default,,0,0,0,,This many members is so annoying!
 Dialogue: 10,0:07:12.50,0:07:14.75,Default,,0,0,0,,The annoyer has become the annoyee.
 Dialogue: 10,0:07:14.75,0:07:16.00,Default,,0,0,0,,Now that's breaking character!
 Dialogue: 10,0:07:16.21,0:07:18.25,Default,,0,0,0,,You'll pay for this!
 Dialogue: 10,0:07:18.88,0:07:19.63,Default,,0,0,0,,We won!
 Dialogue: 10,0:07:20.00,0:07:22.80,Default,,0,0,0,,Once was definitely enough.
-Dialogue: 10,0:07:24.26,0:07:27.84,Default,,0,0,0,,Ma-chan, how was these nice ladies' rakugo?
+Dialogue: 10,0:07:24.26,0:07:27.84,Default,,0,0,0,,Ma, how was these nice ladies' rakugo?
 Dialogue: 10,0:07:29.55,0:07:30.89,Default,,0,0,0,,Um, once was enough.
 Dialogue: 10,0:07:31.93,0:07:33.52,Default,,0,0,0,,We got a taste of our own medicine.
 Dialogue: 10,0:07:33.52,0:07:35.43,Default,,0,0,0,,Once was enough...
 Dialogue: 10,0:07:35.43,0:07:38.31,Default,,0,0,0,,Well, maybe kids just don't get traditional arts.
-Dialogue: 10,0:07:38.31,0:07:41.90,Default,,0,0,0,,When she's older, she'll definitely...\NWhen she's older, she'll definitely...
-Dialogue: 10,0:07:43.44,0:07:46.74,Default,,0,0,0,,The second season will be\Nan annoying live-action movie!
-Dialogue: 10,0:07:46.74,0:07:48.11,Default,,0,0,0,,So annoying!
+Dialogue: 10,0:07:38.31,0:07:41.90,Default,,0,0,0,,When she's older, she'll definitely...
+Dialogue: 10,0:07:43.44,0:07:46.74,Default,,0,0,0,,Season two will be an annoying live-action adaptation!
+Dialogue: 10,0:07:46.74,0:07:48.11,Default,,0,0,0,,You're annoying!
+Comment: 0,0:07:50.91,0:07:50.91,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:07:55.91,0:07:58.29,Default,,0,0,0,,Well? Which way are we going?
 Dialogue: 10,0:07:58.83,0:08:00.50,Default,,0,0,0,,I think it's this way.
 Dialogue: 10,0:08:10.93,0:08:13.39,Default,,0,0,0,,Huh? We're on the platform again.
@@ -186,34 +185,34 @@ Dialogue: 10,0:08:34.79,0:08:36.54,Default,,0,0,0,,This is needlessly confusing.
 Dialogue: 10,0:08:42.54,0:08:45.80,Default,,0,0,0,,What? The signs for Electric Town disappeared!
 Dialogue: 10,0:08:54.68,0:08:56.93,Default,,0,0,0,,Just getting outside was a bit of a mission.
 Dialogue: 10,0:08:57.22,0:09:00.52,Default,,0,0,0,,This is the legendary Akihabara Labyrinth.
-Dialogue: 10,0:09:00.81,0:09:05.57,Default,,0,0,0,,They say that those who get lost in\Nits multi-level hell are never seen again.
+Dialogue: 10,0:09:00.81,0:09:05.57,Default,,0,0,0,,They say that those who get lost in \Nits multi-level hell are never seen again.
 Dialogue: 10,0:09:05.57,0:09:07.78,Default,,0,0,0,,So that's why you didn't want to come to a place like this.
 Dialogue: 10,0:09:07.78,0:09:09.32,Default,,0,0,0,,What do you mean by "a place like this"?
 Dialogue: 10,0:09:09.49,0:09:13.24,Default,,0,0,0,,Akihabara is a world-famous tourist hotspot!
-Dialogue: 10,0:09:13.24,0:09:16.70,Default,,0,0,0,,We're not just talking appliances, cameras, computers\Nand high-end audio equipment.
-Dialogue: 10,0:09:16.70,0:09:18.58,Default,,0,0,0,,We're talking hobby goods,\Nidol merch, games, and anime!
+Dialogue: 10,0:09:13.24,0:09:16.70,Default,,0,0,0,,We're not just talking appliances, cameras, computers \Nand high-end audio equipment.
+Dialogue: 10,0:09:16.70,0:09:18.58,Default,,0,0,0,,We're talking hobby goods, \Nidol merch, games, and anime!
 Dialogue: 10,0:09:18.58,0:09:20.87,Default,,0,0,0,,Don't underestimate the depth of Akihabara!
 Dialogue: 10,0:09:21.46,0:09:23.33,Default,,0,0,0,,You're very enthusiastic, Gan-chan!
-Dialogue: 10,0:09:23.33,0:09:26.96,Default,,0,0,0,,Like a fish that found water,\Nor a fan that found a meet-and-greet ticket.
+Dialogue: 10,0:09:23.33,0:09:26.96,Default,,0,0,0,,Like a fish that found water, \Nor a fan that found a meet-and-greet ticket.
 Dialogue: 10,0:09:26.96,0:09:29.72,Default,,0,0,0,,I wouldn't have expected it. She's a little obsessed, even.
 Dialogue: 10,0:09:29.72,0:09:32.55,Default,,0,0,0,,Sounds like we should get Gan-chan to show us around.
 Dialogue: 10,0:09:32.93,0:09:33.97,Default,,0,0,0,,Very well.
 Dialogue: 10,0:09:34.35,0:09:35.93,Default,,0,0,0,,To the Rajikan!
 Dialogue: 10,0:09:36.18,0:09:37.10,Default,,0,0,0,,Magician?
-Dialogue: 10,0:09:37.10,0:09:39.31,Default,,0,0,0,,No, the Rajikan!\NThat's the nickname for the Radio Kaikan!
-Dialogue: 10,0:09:39.31,0:09:43.44,Default,,0,0,0,,You could say that the Radio Kaikan\Nis the beating heart of Akihabara!
-Dialogue: 10,0:09:46.94,0:09:49.32,Default,,0,0,0,,The main building is being demolished\Nand rebuilt, apparently.
+Dialogue: 10,0:09:37.10,0:09:39.31,Default,,0,0,0,,No, the Rajikan! \NThat's the nickname for the Radio Kaikan!
+Dialogue: 10,0:09:39.31,0:09:43.44,Default,,0,0,0,,You could say that the Radio Kaikan \Nis the beating heart of Akihabara!
+Dialogue: 10,0:09:46.94,0:09:49.32,Default,,0,0,0,,The main building is being demolished \Nand rebuilt, apparently.
 Dialogue: 10,0:09:49.53,0:09:52.53,Default,,0,0,0,,You didn't know that, Gankyou?
 Dialogue: 10,0:09:52.53,0:09:56.70,Default,,0,0,0,,Well now, this is unexpected. What now, super fan?
-Dialogue: 10,0:09:57.24,0:10:00.41,Default,,0,0,0,,There are second and third locations\Nin addition to this main one...
+Dialogue: 10,0:09:57.24,0:10:00.41,Default,,0,0,0,,There are second and third locations \Nin addition to this main one...
 Dialogue: 10,0:10:00.41,0:10:02.50,Default,,0,0,0,,I think she needs a rest.
 Dialogue: 10,0:10:04.46,0:10:06.00,Default,,0,0,0,,She's being arrested!
 Dialogue: 10,0:10:06.00,0:10:08.63,Default,,0,0,0,,Just questioned. It's common in Akiba.
 Dialogue: 10,0:10:08.96,0:10:11.97,Default,,0,0,0,,If you qualify, they'll stop you every 50 meters.
 Dialogue: 10,0:10:11.97,0:10:14.43,Default,,0,0,0,,That's not qualifying, that's failing.
-Dialogue: 10,0:10:14.43,0:10:18.14,Default,,0,0,0,,Apparently, you'll definitely be stopped\Nif you're wearing a fanny pack.
+Dialogue: 10,0:10:14.43,0:10:18.14,Default,,0,0,0,,Apparently, you'll definitely be stopped \Nif you're wearing a fanny pack.
 Dialogue: 10,0:10:18.14,0:10:18.81,Default,,0,0,0,,Why?
-Dialogue: 10,0:10:18.81,0:10:21.48,Default,,0,0,0,,I guess because you never know\Nwhat could be inside them.
+Dialogue: 10,0:10:18.81,0:10:21.48,Default,,0,0,0,,I guess because you never know \Nwhat could be inside them.
 Dialogue: 10,0:10:21.48,0:10:24.44,Default,,0,0,0,,Fanny packs contain nothing but hopes and dreams!
 Dialogue: 10,0:10:24.44,0:10:26.02,Default,,0,0,0,,They're not suspicious!
 Dialogue: 10,0:10:26.40,0:10:28.44,Default,,0,0,0,,Oh, Gan-chan's back.
@@ -225,20 +224,20 @@ Dialogue: 10,0:10:37.66,0:10:38.83,Default,,0,0,0,,Don't forget anime creators!
 Dialogue: 10,0:10:38.83,0:10:40.45,Default,,0,0,0,,How would they cut peg holes?
 Dialogue: 10,0:10:40.45,0:10:42.29,Default,,0,0,0,,Do a lot of work in the streets of Akiba, do they?
 Dialogue: 10,0:10:43.87,0:10:46.83,Default,,0,0,0,,This is great! I love looking at household appliances.
-Dialogue: 10,0:10:46.83,0:10:52.21,Default,,0,0,0,,They have a lot of niche products like electric tempura\Nmachines, egg boilers and waffle makers.
+Dialogue: 10,0:10:46.83,0:10:52.21,Default,,0,0,0,,They have a lot of niche products like electric tempura \Nmachines, egg boilers and waffle makers.
 Dialogue: 10,0:10:52.38,0:10:55.89,Default,,0,0,0,,The best-sellers have got to be rice cookers.
 Dialogue: 10,0:10:55.89,0:10:57.05,Default,,0,0,0,,Rice cookers?
-Dialogue: 10,0:10:58.30,0:11:02.35,Default,,0,0,0,,For some reason, foreign visitors always\Nseem to buy three or four.
+Dialogue: 10,0:10:58.30,0:11:02.35,Default,,0,0,0,,For some reason, foreign visitors always \Nseem to buy three or four.
 Dialogue: 10,0:11:02.35,0:11:04.94,Default,,0,0,0,,Japan leads the world in rice cooker technology.
-Dialogue: 10,0:11:05.27,0:11:08.77,Default,,0,0,0,,The most expensive ones,\Nthat fluff the rice up using a vacuum
+Dialogue: 10,0:11:05.27,0:11:08.77,Default,,0,0,0,,The most expensive ones, \Nthat fluff the rice up using a vacuum
 Dialogue: 10,0:11:08.77,0:11:11.40,Default,,0,0,0,,or are lined with copper, cost as much as 100,000 yen.
-Dialogue: 10,0:11:11.65,0:11:15.49,Default,,0,0,0,,100,000 yen?! Do you really need to spend that much\Nto cook rice that costs 2000 yen for 2 kilos?
-Dialogue: 10,0:11:15.49,0:11:19.33,Default,,0,0,0,,Depending on the shop you might\Nbe able to get them a little cheaper...
+Dialogue: 10,0:11:11.65,0:11:15.49,Default,,0,0,0,,100,000 yen?! Do you really need to spend that much \Nto cook rice that costs 2000 yen for 2 kilos?
+Dialogue: 10,0:11:15.49,0:11:19.33,Default,,0,0,0,,Depending on the shop you might \Nbe able to get them a little cheaper...
 Dialogue: 10,0:11:20.03,0:11:22.87,Default,,0,0,0,,So, what store is the king of Akiba?
 Dialogue: 10,0:11:25.54,0:11:28.54,Default,,0,0,0,,Apparently Laox is a luxury brand in China.
 Dialogue: 10,0:11:28.54,0:11:31.09,Default,,0,0,0,,Luxury brand? It's just a regular shop.
-Dialogue: 10,0:11:31.09,0:11:34.09,Default,,0,0,0,,I don't know which one is the top,\Nbut they all have one thing in common.
-Dialogue: 10,0:11:35.72,0:11:38.14,Default,,0,0,0,,Once the theme song gets into\Nyour brain, it'll never leave.
+Dialogue: 10,0:11:31.09,0:11:34.09,Default,,0,0,0,,I don't know which one is the top, \Nbut they all have one thing in common.
+Dialogue: 10,0:11:35.72,0:11:38.14,Default,,0,0,0,,Once the theme song gets into \Nyour brain, it'll never leave.
 Dialogue: 10,0:11:40.39,0:11:43.02,Default,,0,0,0,,Ishimaru! Ishimaru!
 Dialogue: 10,0:11:43.02,0:11:44.89,Default,,0,0,0,,Ow! Sato Wireless!
 Dialogue: 10,0:11:44.89,0:11:47.52,Default,,0,0,0,,Onoden! La la la!
@@ -249,9 +248,9 @@ Dialogue: 10,0:11:56.70,0:12:00.53,Default,,0,0,0,,Turn your heart's switch on!
 Dialogue: 10,0:12:00.78,0:12:04.50,Default,,0,0,0,,Look, someone is waiting for you!
 Dialogue: 10,0:12:05.00,0:12:09.33,Default,,0,0,0,,Hold on tight to your dreams! Hey!
 Dialogue: 10,0:12:11.63,0:12:14.46,Default,,0,0,0,,This old bridge is very calming.
-Dialogue: 10,0:12:14.96,0:12:20.84,Default,,0,0,0,,Akiba's a very frenetic kind of place.\NOne minute you're in, the next you're out.
-Dialogue: 10,0:12:20.84,0:12:23.68,Default,,0,0,0,,Even in those theme songs we just sang,\Nthere are songs you don't hear anymore.
-Dialogue: 10,0:12:23.68,0:12:27.52,Default,,0,0,0,,Long-standing things like\Nthis bridge are few and far between.
+Dialogue: 10,0:12:14.96,0:12:20.84,Default,,0,0,0,,Akiba's a very frenetic kind of place. \NOne minute you're in, the next you're out.
+Dialogue: 10,0:12:20.84,0:12:23.68,Default,,0,0,0,,Even in those theme songs we just sang, \Nthere are songs you don't hear anymore.
+Dialogue: 10,0:12:23.68,0:12:27.52,Default,,0,0,0,,Long-standing things like \Nthis bridge are few and far between.
 Dialogue: 10,0:12:27.81,0:12:30.19,Default,,0,0,0,,We haven't done anything yet but I'm tired.
 Dialogue: 10,0:12:30.19,0:12:32.56,Default,,0,0,0,,It's a strange old town, Akihabara.
 Dialogue: 10,0:12:32.82,0:12:37.03,Default,,0,0,0,,An army fights on its stomach. Let's go eat something?
@@ -262,48 +261,48 @@ Dialogue: 10,0:12:42.12,0:12:43.37,Default,,0,0,0,,No, not that...
 Dialogue: 10,0:12:43.74,0:12:45.49,Default,,0,0,0,,These new kebab things?
 Dialogue: 10,0:12:45.49,0:12:46.50,Default,,0,0,0,,Not quite...
 Dialogue: 10,0:12:46.79,0:12:49.83,Default,,0,0,0,,An amateurish omelet and rice cooked by a maid?
-Dialogue: 10,0:12:49.83,0:12:53.04,Default,,0,0,0,,There's a place where young women\Ntry their best to make sushi for you.
-Dialogue: 10,0:12:53.04,0:12:55.75,Default,,0,0,0,,There's a bar with an N-gauge model\Nrailway running through it.
-Dialogue: 10,0:12:56.05,0:12:59.47,Default,,0,0,0,,Or a café where voice actors speak\Nin lines appropriate to your order.
+Dialogue: 10,0:12:49.83,0:12:53.04,Default,,0,0,0,,There's a place where young women \Ntry their best to make sushi for you.
+Dialogue: 10,0:12:53.04,0:12:55.75,Default,,0,0,0,,There's a bar with an N-gauge model \Nrailway running through it.
+Dialogue: 10,0:12:56.05,0:12:59.47,Default,,0,0,0,,Or a café where voice actors speak \Nin lines appropriate to your order.
 Dialogue: 10,0:12:59.47,0:13:00.93,Default,,0,0,0,,Or a drag king café.
 Dialogue: 10,0:13:01.18,0:13:03.01,Default,,0,0,0,,I'm full now. Full of this nonsense!
 Dialogue: 10,0:13:03.01,0:13:05.01,Default,,0,0,0,,Aren't there any normal restaurants?!
 Dialogue: 10,0:13:05.01,0:13:07.52,Default,,0,0,0,,Uh-oh, Marii's gone aggro.
 Dialogue: 10,0:13:07.77,0:13:10.23,Default,,0,0,0,,Akiba's a lovely place that's kind to visitors.
-Dialogue: 10,0:13:10.23,0:13:12.52,Default,,0,0,0,,You're speaking up for it after\Nbeing questioned by the police?
+Dialogue: 10,0:13:10.23,0:13:12.52,Default,,0,0,0,,You're speaking up for it after \Nbeing questioned by the police?
 Dialogue: 10,0:13:12.52,0:13:15.32,Default,,0,0,0,,This place has a legend.
-Dialogue: 10,0:13:16.32,0:13:20.03,Default,,0,0,0,,There once was a young man who\Nwas experiencing his first real crisis.
+Dialogue: 10,0:13:16.32,0:13:20.03,Default,,0,0,0,,There once was a young man who \Nwas experiencing his first real crisis.
 Dialogue: 10,0:13:21.07,0:13:22.61,Default,,0,0,0,,A herculean mission.
 Dialogue: 10,0:13:23.16,0:13:25.91,Default,,0,0,0,,A wall that was insurmountable alone.
-Dialogue: 10,0:13:26.29,0:13:32.37,Default,,0,0,0,,Then, help came through the internet\Nfrom the residents of Akiba.
+Dialogue: 10,0:13:26.29,0:13:32.37,Default,,0,0,0,,Then, help came through the internet \Nfrom the residents of Akiba.
 Dialogue: 10,0:13:33.17,0:13:34.84,Default,,0,0,0,,You mean that Train Man?
-Dialogue: 10,0:13:34.84,0:13:37.67,Default,,0,0,0,,I wonder if they'll ever distribute the royalties\Nfrom the book to the forum posters.
+Dialogue: 10,0:13:34.84,0:13:37.67,Default,,0,0,0,,I wonder if they'll ever distribute the royalties \Nfrom the book to the forum posters.
 Dialogue: 10,0:13:37.67,0:13:39.38,Default,,0,0,0,,I smell an ulterior motive...
 Dialogue: 10,0:13:43.09,0:13:45.10,Default,,0,0,0,,This is a pretty fancy place.
 Dialogue: 10,0:13:45.10,0:13:47.56,Default,,0,0,0,,I hope we're not under-dressed...
 Dialogue: 10,0:13:47.56,0:13:49.48,Default,,0,0,0,,It's fine! It's just a restaurant.
-Dialogue: 10,0:13:49.48,0:13:53.27,Default,,0,0,0,,Besides, if we were too fashionable,\Nit wouldn't feel like Akiba.
-Dialogue: 10,0:13:53.27,0:13:58.90,Default,,0,0,0,,Don't worry. They have a space over there where\Nthey hold an event that is 100% pure-grade Akiba.
+Dialogue: 10,0:13:49.48,0:13:53.27,Default,,0,0,0,,Besides, if we were too fashionable, \Nit wouldn't feel like Akiba.
+Dialogue: 10,0:13:53.27,0:13:58.90,Default,,0,0,0,,Don't worry. They have a space over there where \Nthey hold an event that is 100% pure-grade Akiba.
 Dialogue: 10,0:13:58.90,0:14:00.53,Default,,0,0,0,,What kind of event?
 Dialogue: 10,0:14:00.53,0:14:01.86,Default,,0,0,0,,Basement Idol.
 Dialogue: 10,0:14:02.49,0:14:09.04,Default,,0,0,0,,Hi everyone! Please hate me, but don't hate Akiba!
-Dialogue: 10,0:14:09.04,0:14:12.96,Default,,0,0,0,,I've got a song for you. It's called\N"Look Forward to Continued Annoyance".
+Dialogue: 10,0:14:09.04,0:14:12.96,Default,,0,0,0,,I've got a song for you. It's called \N"Look Forward to Continued Annoyance".
 Dialogue: 10,0:14:15.54,0:14:16.50,Default,,0,0,0,,Let's get outta here.
-Dialogue: 10,0:14:37.69,0:14:42.40,Default,,0,0,0,,Hey, guys. Do you prefer mochi\Nsimmered in miso or clear soup?
+Dialogue: 10,0:14:37.69,0:14:42.40,Default,,0,0,0,,Hey, guys. Do you prefer mochi \Nsimmered in miso or clear soup?
 Dialogue: 10,0:14:42.40,0:14:44.11,Default,,0,0,0,,Don't ask such dull questions!
 Dialogue: 10,0:14:44.70,0:14:45.95,Default,,0,0,0,,The conversations in this anime
 Dialogue: 10,0:14:46.37,0:14:49.16,Default,,0,0,0,,are as inoffensive as possible
 Dialogue: 10,0:14:49.49,0:14:52.70,Default,,0,0,0,,so as not to interfere
 Dialogue: 10,0:14:52.70,0:14:55.50,Default,,0,0,0,,with your enjoyment of watching cute girls.
 Dialogue: 10,0:14:56.17,0:14:59.17,Default,,0,0,0,,Right, that's it. I'm done. I can't eat anymore!
-Dialogue: 10,0:14:59.17,0:15:04.01,Default,,0,0,0,,I'm pretty sure we cooked\Nevery kind of mochi imaginable.
+Dialogue: 10,0:14:59.17,0:15:04.01,Default,,0,0,0,,I'm pretty sure we cooked \Nevery kind of mochi imaginable.
 Dialogue: 10,0:15:04.26,0:15:06.84,Default,,0,0,0,,I wish we had more actual rice, though.
 Dialogue: 10,0:15:06.84,0:15:07.59,Default,,0,0,0,,Check it out!
 Dialogue: 10,0:15:08.89,0:15:10.85,Default,,0,0,0,,Huh, rice?! How?
 Dialogue: 10,0:15:10.85,0:15:12.27,Default,,0,0,0,,I made it out of mochi!
 Dialogue: 10,0:15:12.56,0:15:14.39,Default,,0,0,0,,First, you bake the mochi.
 Dialogue: 10,0:15:14.39,0:15:18.19,Default,,0,0,0,,Then you chop it up into tiny, tiny pieces.
-Dialogue: 10,0:15:18.52,0:15:22.07,Default,,0,0,0,,Then put it in a rice bowl.\NAnd you're done! Ready to serve!
+Dialogue: 10,0:15:18.52,0:15:22.07,Default,,0,0,0,,Then put it in a rice bowl. \NAnd you're done! Ready to serve!
 Dialogue: 10,0:15:22.07,0:15:23.65,Default,,0,0,0,,Woo, rice!
 Dialogue: 10,0:15:23.65,0:15:25.15,Default,,0,0,0,,Just eat mochi like a normal person!
 Dialogue: 10,0:15:25.53,0:15:28.37,Default,,0,0,0,,Eat it as-is without doing a bunch of weird things to it!
@@ -312,42 +311,42 @@ Dialogue: 10,0:15:32.54,0:15:34.96,Default,,0,0,0,,If you want to read a manga, 
 Dialogue: 10,0:15:35.12,0:15:36.87,Default,,0,0,0,,There's no point making it into an anime!
 Dialogue: 10,0:15:37.62,0:15:39.59,Default,,0,0,0,,What's this all of a sudden?
 Dialogue: 10,0:15:39.59,0:15:40.71,Default,,0,0,0,,What're you saying?
-Dialogue: 10,0:15:41.25,0:15:45.76,Default,,0,0,0,,Why take a perfectly good manga, featuring mostly\Nconversations that gain nothing from being animated,
-Dialogue: 10,0:15:45.76,0:15:49.18,Default,,0,0,0,,where, might I add, we don't even really\Never leave this room, and turn it into an anime?
+Dialogue: 10,0:15:41.25,0:15:45.76,Default,,0,0,0,,Why take a perfectly good manga, featuring mostly \Nconversations that gain nothing from being animated,
+Dialogue: 10,0:15:45.76,0:15:49.18,Default,,0,0,0,,where, might I add, we don't even really \Never leave this room, and turn it into an anime?
 Dialogue: 10,0:15:49.18,0:15:52.51,Default,,0,0,0,,What's more, enjoy a broadcast as a broadcast!
 Dialogue: 10,0:15:52.93,0:15:55.39,Default,,0,0,0,,Why does it need to be turned into a disk?
-Dialogue: 10,0:15:56.81,0:16:00.31,Default,,0,0,0,,Taking a perfectly good manga,\Nfeaturing conversations that don't need animating,
-Dialogue: 10,0:16:00.31,0:16:04.36,Default,,0,0,0,,turning it into an anime, and broadcasting it,\Nand then selling it as a video is totally unnecessary!
+Dialogue: 10,0:15:56.81,0:16:00.31,Default,,0,0,0,,Taking a perfectly good manga, \Nfeaturing conversations that don't need animating,
+Dialogue: 10,0:16:00.31,0:16:04.36,Default,,0,0,0,,turning it into an anime, and broadcasting it, \Nand then selling it as a video is totally unnecessary!
 Dialogue: 10,0:16:04.36,0:16:05.78,Default,,0,0,0,,That's what you wanted to say, right?
-Dialogue: 10,0:16:05.78,0:16:10.57,Default,,0,0,0,,Stop this! It may be unnecessary, but the hardworking\Nstudio staff are working to a punishing schedule
-Dialogue: 10,0:16:10.57,0:16:13.99,Default,,0,0,0,,and going to a lot of trouble\Nto animate us in incredible detail!
+Dialogue: 10,0:16:05.78,0:16:10.57,Default,,0,0,0,,Stop this! It may be unnecessary, but the hardworking \Nstudio staff are working to a punishing schedule
+Dialogue: 10,0:16:10.57,0:16:13.99,Default,,0,0,0,,and going to a lot of trouble \Nto animate us in incredible detail!
 Dialogue: 10,0:16:13.99,0:16:15.20,Default,,0,0,0,,That was a bit much, Gan-chan.
 Dialogue: 10,0:16:15.20,0:16:16.54,Default,,0,0,0,,I didn't say that!
-Dialogue: 10,0:16:16.54,0:16:20.04,Default,,0,0,0,,Dear God, please make it so Gan-chan is shown\Nonly as rough sketches without any edits.
+Dialogue: 10,0:16:16.54,0:16:20.04,Default,,0,0,0,,Dear God, please make it so Gan-chan is shown \Nonly as rough sketches without any edits.
 Dialogue: 10,0:16:20.04,0:16:21.25,Default,,0,0,0,,Hey! Put me back!
-Dialogue: 10,0:16:21.25,0:16:24.09,Default,,0,0,0,,Right then, Kigu, I hope that at\Nyour future wedding banquet,
-Dialogue: 10,0:16:24.09,0:16:28.18,Default,,0,0,0,,all the dishes are melon with ham.\NStarters, mains: ALL HAM MELON.
+Dialogue: 10,0:16:21.25,0:16:24.09,Default,,0,0,0,,Right then, Kigu, I hope that at \Nyour future wedding banquet,
+Dialogue: 10,0:16:24.09,0:16:28.18,Default,,0,0,0,,all the dishes are melon with ham. \NStarters, mains: ALL HAM MELON.
 Dialogue: 10,0:16:28.88,0:16:30.51,Default,,0,0,0,,I just wanna eat melon as melon!
 Dialogue: 10,0:16:30.51,0:16:31.18,Default,,0,0,0,,Right?
 Dialogue: 10,0:16:31.18,0:16:33.39,Default,,0,0,0,,The bride never gets to eat anyway.
 Dialogue: 10,0:16:33.39,0:16:34.85,Default,,0,0,0,,Think about it, Kigu.
-Dialogue: 10,0:16:34.85,0:16:38.89,Default,,0,0,0,,Wouldn't you hate it if all the fruit you ever\Nate for the rest of your life had ham on it?
-Dialogue: 10,0:16:38.89,0:16:41.98,Default,,0,0,0,,I just want to eat bananas and grapes and mandarins\Nand watermelon without anything extra!
+Dialogue: 10,0:16:34.85,0:16:38.89,Default,,0,0,0,,Wouldn't you hate it if all the fruit you ever \Nate for the rest of your life had ham on it?
+Dialogue: 10,0:16:38.89,0:16:41.98,Default,,0,0,0,,I just want to eat bananas and grapes and mandarins \Nand watermelon without anything extra!
 Dialogue: 10,0:16:41.98,0:16:44.07,Default,,0,0,0,,So, you understand what I'm saying.
 Dialogue: 10,0:16:44.07,0:16:44.52,Default,,0,0,0,,Yes!
 Dialogue: 10,0:16:44.52,0:16:45.86,Default,,0,0,0,,Gan-chan's right!
 Dialogue: 10,0:16:46.32,0:16:48.61,Default,,0,0,0,,She's talked you into being a bad person.
-Dialogue: 10,0:16:48.61,0:16:51.07,Default,,0,0,0,,At any rate, what I'm trying to say\Nis don't add unnecessary elements
+Dialogue: 10,0:16:48.61,0:16:51.07,Default,,0,0,0,,At any rate, what I'm trying to say \Nis don't add unnecessary elements
 Dialogue: 10,0:16:51.07,0:16:52.57,Default,,0,0,0,,or inflict bizarre arrangements on things!
-Dialogue: 10,0:16:52.57,0:16:55.54,Default,,0,0,0,,It seems like adding extra elements is\Na bit of a worldwide fad at the moment.
-Dialogue: 10,0:16:55.54,0:17:00.08,Default,,0,0,0,,Adding even a little, and you run the risk of people\Nyelling "original defiler!" and "new stuff sucks!"
-Dialogue: 10,0:17:00.71,0:17:04.21,Default,,0,0,0,,They worked on them,\Nbut were the B parts really necessary?
+Dialogue: 10,0:16:52.57,0:16:55.54,Default,,0,0,0,,It seems like adding extra elements is \Na bit of a worldwide fad at the moment.
+Dialogue: 10,0:16:55.54,0:17:00.08,Default,,0,0,0,,Adding even a little, and you run the risk of people \Nyelling "original defiler!" and "new stuff sucks!"
+Dialogue: 10,0:17:00.71,0:17:04.21,Default,,0,0,0,,They worked on them, \Nbut were the B parts really necessary?
 Dialogue: 10,0:17:04.21,0:17:05.59,Default,,0,0,0,,She says in the last episode!
-Dialogue: 10,0:17:05.59,0:17:10.47,Default,,0,0,0,,Anyway, forget ranking extra elements.\NI'd say it's more like ranking how unnerving something is.
+Dialogue: 10,0:17:05.59,0:17:10.47,Default,,0,0,0,,Anyway, forget ranking extra elements. \NI'd say it's more like ranking how unnerving something is.
 Dialogue: 10,0:17:10.47,0:17:11.97,Default,,0,0,0,,Take music, for example.
-Dialogue: 10,0:17:11.97,0:17:16.35,Default,,0,0,0,,If you come to Japan and sing in Japanese,\Nit's J-pop, no matter who's singing!
+Dialogue: 10,0:17:11.97,0:17:16.35,Default,,0,0,0,,If you come to Japan and sing in Japanese, \Nit's J-pop, no matter who's singing!
 Dialogue: 10,0:17:16.35,0:17:17.47,Default,,0,0,0,,Don't confuse the issue with extra elements!
-Dialogue: 10,0:17:17.47,0:17:20.77,Default,,0,0,0,,Don't say that, we can't afford\Nto have them cancel our sales!
+Dialogue: 10,0:17:17.47,0:17:20.77,Default,,0,0,0,,Don't say that, we can't afford \Nto have them cancel our sales!
 Dialogue: 10,0:17:20.77,0:17:21.98,Default,,0,0,0,,You bespectacled nationalist!
 Dialogue: 10,0:17:22.52,0:17:24.52,Default,,0,0,0,,I've found celebs with... extra elements.
 Dialogue: 10,0:17:24.52,0:17:25.90,Default,,0,0,0,,There's definitely a little extra.
@@ -360,28 +359,28 @@ Dialogue: 10,0:17:34.12,0:17:35.58,Default,,0,0,0,,Oh, look, a drama!
 Dialogue: 10,0:17:35.58,0:17:37.66,Default,,0,0,0,,They turned this one into a film.
 Dialogue: 10,0:17:37.66,0:17:40.33,Default,,0,0,0,,They also made an anime. In Musashi-Sakai.
 Dialogue: 10,0:17:40.33,0:17:43.17,Default,,0,0,0,,TV is fine! Why make a movie or an anime?!
-Dialogue: 10,0:17:43.17,0:17:45.79,Default,,0,0,0,,It's true that when a drama is turned\Ninto "Such-and-Such: the Movie",
-Dialogue: 10,0:17:45.79,0:17:49.55,Default,,0,0,0,,everything gets so big-budget that they lose\Nwhat made it special in the first place.
-Dialogue: 10,0:17:49.55,0:17:52.38,Default,,0,0,0,,Yeah, like they'll introduce terrorist organizations\Nand serial killers and whatnot.
+Dialogue: 10,0:17:43.17,0:17:45.79,Default,,0,0,0,,It's true that when a drama is turned \Ninto "Such-and-Such: the Movie",
+Dialogue: 10,0:17:45.79,0:17:49.55,Default,,0,0,0,,everything gets so big-budget that they lose \Nwhat made it special in the first place.
+Dialogue: 10,0:17:49.55,0:17:52.38,Default,,0,0,0,,Yeah, like they'll introduce terrorist organizations \Nand serial killers and whatnot.
 Dialogue: 10,0:17:52.38,0:17:54.55,Default,,0,0,0,,I'm not kidding. Give me dramas as dramas!
-Dialogue: 10,0:17:54.55,0:18:01.44,Default,,0,0,0,,That's incorrect. A lot of dramas started as manga,\Nso you should say "give me manga as manga!"
-Dialogue: 10,0:18:01.44,0:18:05.77,Default,,0,0,0,,In other words, when it comes to spinoffs,\Nif the film was originally a drama,
-Dialogue: 10,0:18:05.77,0:18:11.19,Default,,0,0,0,,you should watch the drama, and if\Nthe drama was originally a manga, you should-
+Dialogue: 10,0:17:54.55,0:18:01.44,Default,,0,0,0,,That's incorrect. A lot of dramas started as manga, \Nso you should say "give me manga as manga!"
+Dialogue: 10,0:18:01.44,0:18:05.77,Default,,0,0,0,,In other words, when it comes to spinoffs, \Nif the film was originally a drama,
+Dialogue: 10,0:18:05.77,0:18:11.19,Default,,0,0,0,,you should watch the drama, and if \Nthe drama was originally a manga, you should—
 Dialogue: 10,0:18:11.19,0:18:13.74,Default,,0,0,0,,As long as it's entertaining, who cares?
-Dialogue: 10,0:18:14.03,0:18:17.20,Default,,0,0,0,,So what if it's made into an anime, and so\Nwhat if they go on to sell that anime in stores?
+Dialogue: 10,0:18:14.03,0:18:17.20,Default,,0,0,0,,So what if it's made into an anime, and so \Nwhat if they go on to sell that anime in stores?
 Dialogue: 10,0:18:17.20,0:18:19.75,Default,,0,0,0,,As long as it's entertaining, who cares?
 Dialogue: 10,0:18:19.75,0:18:21.96,Default,,0,0,0,,This feels like too much pressure again.
 Dialogue: 10,0:18:23.08,0:18:24.67,Default,,0,0,0,,Who put this dog in clothes?!
 Dialogue: 10,0:18:24.83,0:18:26.71,Default,,0,0,0,,Just enjoy a dog as a dog!
 Dialogue: 10,0:18:26.71,0:18:29.50,Default,,0,0,0,,Lots of people say that, but even dogs feel the cold.
-Dialogue: 10,0:18:29.88,0:18:32.51,Default,,0,0,0,,The number one cause\Nof doggy deaths in winter is the cold.
-Dialogue: 10,0:18:32.51,0:18:35.59,Default,,0,0,0,,Plus, it's a good way to stop them\Nshedding all over your house.
+Dialogue: 10,0:18:29.88,0:18:32.51,Default,,0,0,0,,The number one cause \Nof doggy deaths in winter is the cold.
+Dialogue: 10,0:18:32.51,0:18:35.59,Default,,0,0,0,,Plus, it's a good way to stop them \Nshedding all over your house.
 Dialogue: 10,0:18:35.59,0:18:37.35,Default,,0,0,0,,Nope. I like my dogs naked!
 Dialogue: 10,0:18:37.35,0:18:38.39,Default,,0,0,0,,I don't care.
 Dialogue: 10,0:18:38.47,0:18:40.60,Default,,0,0,0,,Dogs should be naked! Mutt naked!
 Dialogue: 10,0:18:40.60,0:18:42.48,Default,,0,0,0,,Who let you make jokes like that?!
 Dialogue: 10,0:18:44.39,0:18:47.06,Default,,0,0,0,,Look, the dog hated being nude after all.
-Dialogue: 10,0:18:47.06,0:18:49.98,Default,,0,0,0,,I don't think it cared one way or another;\Nit just hated the "mutt naked" joke.
+Dialogue: 10,0:18:47.06,0:18:49.98,Default,,0,0,0,,I don't think it cared one way or another; \Nit just hated the "mutt naked" joke.
 Dialogue: 10,0:18:49.98,0:18:51.94,Default,,0,0,0,,I think it's just tough on puns.
 Dialogue: 10,0:18:51.94,0:18:52.90,Default,,0,0,0,,Stop!
 Dialogue: 10,0:18:54.24,0:18:55.36,Default,,0,0,0,,Gah, dammit!
@@ -406,7 +405,7 @@ Dialogue: 10,0:19:30.40,0:19:31.40,Default,,0,0,0,,Please donate it.
 Dialogue: 10,0:19:31.40,0:19:33.49,Default,,0,0,0,,Why on earth do you need it?
 Dialogue: 10,0:19:33.74,0:19:35.24,Default,,0,0,0,,She said it's to make Ospreys.
 Dialogue: 10,0:19:35.24,0:19:38.41,Default,,0,0,0,,Use a washbasin as a washbasin! We're not at war!
-Dialogue: 10,0:19:38.41,0:19:42.62,Default,,0,0,0,,How are we going to help our brave lads on\Nthe home front if you won't give up a simple washbasin?
+Dialogue: 10,0:19:38.41,0:19:42.62,Default,,0,0,0,,How are we going to help our brave lads on \Nthe home front if you won't give up a simple washbasin?
 Dialogue: 10,0:19:42.62,0:19:46.08,Default,,0,0,0,,I wonder what's going on out there.
 Dialogue: 10,0:19:49.75,0:19:53.67,Default,,0,0,0,,It looks like the world's gone to hell.
 Dialogue: 10,0:19:53.67,0:19:56.63,Default,,0,0,0,,What did I say to make America mad at us?!
@@ -414,14 +413,14 @@ Dialogue: 10,0:19:56.88,0:19:59.14,Default,,0,0,0,,I don't think you angered Ame
 Dialogue: 10,0:19:59.14,0:20:00.97,Default,,0,0,0,,I don't know about these ladies, though.
 Dialogue: 10,0:20:00.97,0:20:04.35,Default,,0,0,0,,We'll take this metal and use it for the greater good!
 Dialogue: 10,0:20:06.52,0:20:08.98,Default,,0,0,0,,This is because you tried to use a washbasin as clothes.
-Dialogue: 10,0:20:08.98,0:20:12.94,Default,,0,0,0,,The Women's Association weren't monsters.\NThey left this for you to wear.
+Dialogue: 10,0:20:08.98,0:20:12.94,Default,,0,0,0,,The Women's Association weren't monsters. \NThey left this for you to wear.
 Dialogue: 10,0:20:16.86,0:20:18.41,Default,,0,0,0,,My beautiful prince!
 Dialogue: 10,0:20:18.41,0:20:21.12,Default,,0,0,0,,We're not worthy to stand in your presence, sir!
 Dialogue: 10,0:20:21.12,0:20:22.70,Default,,0,0,0,,So manly and cool!
-Dialogue: 10,0:20:22.70,0:20:26.96,Default,,0,0,0,,I'm a woman! Treat women as women!\NDon't add any extra elements!
+Dialogue: 10,0:20:22.70,0:20:26.96,Default,,0,0,0,,I'm a woman! Treat women as women! \NDon't add any extra elements!
 Dialogue: 10,0:20:26.96,0:20:28.08,Default,,0,0,0,,By the way.
 Dialogue: 10,0:20:28.62,0:20:30.17,Default,,0,0,0,,What's up, Marii?
-Dialogue: 10,0:20:30.17,0:20:32.54,Default,,0,0,0,,I'm the one who's suspected of being\Na cross-dressing boy!
+Dialogue: 10,0:20:30.17,0:20:32.54,Default,,0,0,0,,I'm the one who's suspected of being \Na cross-dressing boy!
 Dialogue: 10,0:20:32.54,0:20:33.92,Default,,0,0,0,,She's infringing my character!
 Dialogue: 10,0:20:33.92,0:20:36.51,Default,,0,0,0,,Treat a cross-dressing boy as a cross-dressing boy!
 Dialogue: 10,0:20:36.51,0:20:38.63,Default,,0,0,0,,Did Marii just come out to us?
@@ -439,7 +438,7 @@ Dialogue: 10,0:21:05.74,0:21:08.37,Default,,0,0,0,,Miss Marii, you're on next.
 Dialogue: 10,0:21:08.37,0:21:09.33,Default,,0,0,0,,Gotcha!
 Dialogue: 10,0:21:10.58,0:21:11.88,Default,,0,0,0,,Good luck.
 Dialogue: 10,0:21:32.48,0:21:34.94,Default,,0,0,0,,Allow me to take to the stage.
-Dialogue: 10,0:21:45.62,0:21:51.25,Default,,0,0,0,,"The world's full of people shoutin' and groanin'\N'This is the end! This is the end!'
-Dialogue: 10,0:21:51.25,0:21:56.59,Default,,0,0,0,,But the scariest end has gotta\Nbe the end of life, don't ya think?
-Dialogue: 10,0:21:56.59,0:22:04.68,Default,,0,0,0,,But then again, that's the only kind of endin'\Nwhich comes to everybody, without discrimination.
-Dialogue: 10,0:22:04.68,0:22:09.56,Default,,0,0,0,,So I reckon the only thing is to just keep on\Nlaughin' and smilin' right until the very end."
+Dialogue: 10,0:21:45.62,0:21:51.25,Default,,0,0,0,,"The world's full of people shoutin' and groanin' \N'This is the end! This is the end!'
+Dialogue: 10,0:21:51.25,0:21:56.59,Default,,0,0,0,,But the scariest end has gotta \Nbe the end of life, don't ya think?
+Dialogue: 10,0:21:56.59,0:22:04.68,Default,,0,0,0,,But then again, that's the only kind of endin' \Nwhich comes to everybody, without discrimination.
+Dialogue: 10,0:22:04.68,0:22:09.56,Default,,0,0,0,,So I reckon the only thing is to just keep on \Nlaughin' and smilin' right until the very end."
