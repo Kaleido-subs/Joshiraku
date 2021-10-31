@@ -10,11 +10,11 @@ plugins {
 }
 
 fun String.isKaraTemplate(): Boolean {
-	return this.startsWith("code") || this.startsWith("template") || this.startsWith("mixin")
+    return this.startsWith("code") || this.startsWith("template") || this.startsWith("mixin")
 }
 
 fun EventLine.isKaraTemplate(): Boolean {
-	return this.comment && this.effect.isKaraTemplate()
+    return this.comment && this.effect.isKaraTemplate()
 }
 
 subs {
@@ -22,41 +22,43 @@ subs {
     episodes(getList("episodes"))
 
 
-	val op_ktemplate by task<Automation> {
+    val op_ktemplate by task<Automation> {
         if (propertyExists("OP")) {
             from(get("OP"))
         }
 
         video(get("premux"))
-		script("0x.KaraTemplater.moon")
-		macro("0x539's Templater")
-		loglevel(Automation.LogLevel.WARNING)
-	}
+        script("0x.KaraTemplater.moon")
+        macro("0x539's Templater")
+        loglevel(Automation.LogLevel.WARNING)
+    }
 
 
-	val ed_ktemplate by task<Automation> {
+    val ed_ktemplate by task<Automation> {
         if (propertyExists("ED")) {
             from(get("ED"))
         }
 
         video(get("premux"))
-		script("0x.KaraTemplater.moon")
-		macro("0x539's Templater")
-		loglevel(Automation.LogLevel.WARNING)
-	}
+        script("0x.KaraTemplater.moon")
+        macro("0x539's Templater")
+        loglevel(Automation.LogLevel.WARNING)
+    }
 
     merge {
         from(get("dialogue"))
 
         if (propertyExists("OP")) {
             from(op_ktemplate.item()) {
-                syncTargetTime(getAs<Duration>("opsync"))
+                syncSourceLine("sync")
+                syncTargetLine("opsync")
             }
         }
 
         if (propertyExists("ED")) {
             from(ed_ktemplate.item()) {
-                syncTargetTime(getAs<Duration>("edsync"))
+                syncSourceLine("sync")
+                syncTargetLine("edsync")
             }
         }
 
@@ -64,25 +66,26 @@ subs {
             from(get("IS"))
         }
 
-        if (file(get("TS")).exists()) {
-            from(get("TS"))
-        }
+        fromIfPresent(get("INS"), ignoreMissingFiles = true)
+        fromIfPresent(getList("TS"), ignoreMissingFiles = true)
 
         includeExtraData(false)
         includeProjectGarbage(false)
 
         scriptInfo {
-            title = getRaw("group")
+            title = "Kaleido-subs"
             scaledBorderAndShadow = true
         }
     }
 
-	val cleanmerge by task<ASS> {
-		from(merge.item())
-    	ass {
-			events.lines.removeIf { it.isKaraTemplate() }
-	    }
-	}
+    val cleanmerge by task<ASS> {
+        from(merge.item())
+        ass {
+            events.lines.removeIf {
+                it.isKaraTemplate()
+                }
+        }
+    }
 
     chapters {
         from(cleanmerge.item())
@@ -92,28 +95,28 @@ subs {
     mux {
         title(get("title"))
 
-		from(get("premux")) {
-			video {
-				lang("jpn")
-				default(true)
-			}
-			audio {
-				lang("jpn")
-				default(true)
-			}
+        from(get("premux")) {
+            video {
+                lang("jpn")
+                default(true)
+            }
+            audio {
+                lang("jpn")
+                default(true)
+            }
             includeChapters(false)
-			attachments { include(false) }
-		}
+            attachments { include(false) }
+        }
 
-		from(cleanmerge.item()) {
-			tracks {
-				lang("eng")
+        from(cleanmerge.item()) {
+            tracks {
+                lang("eng")
                 name(get("group"))
-				default(true)
-				forced(false)
-				compression(CompressionType.ZLIB)
-			}
-		}
+                default(true)
+                forced(false)
+                compression(CompressionType.ZLIB)
+            }
+        }
 
         chapters(chapters.item()) { lang("eng") }
 
