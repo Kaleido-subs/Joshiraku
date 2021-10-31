@@ -89,7 +89,7 @@ Comment: 0,0:01:15.26,0:01:16.56,OP1,rom,0,0,0,kara,gokuraku da
 Comment: 0,0:01:16.56,0:01:17.72,OP1,rom,0,0,0,kara,gokuraku da
 Comment: 0,0:01:17.72,0:01:19.05,OP1,rom,0,0,0,kara,arayotto
 Comment: 0,0:01:19.05,0:01:20.77,OP1,rom,0,0,0,kara,gokuraku joudo ring
-Dialogue: 1,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\c&H000000&\blur0.9\clip(m 1115 260 l 778 294 b 819 206 789 159 777 132 l 1115 163)}Rakugo Girls
+Dialogue: 1,0:00:05.81,0:00:08.44,Sign,,0,0,0,TO-UPDATE,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\c&H000000&\blur0.9\clip(m 1115 260 l 778 294 b 819 206 789 159 777 132 l 1115 163)}Rakugo Girls {## Make sure the thickness matches, see Ep1 TS for reference}
 Dialogue: 1,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\c&H000000&\blur0.9\clip(m 1115 260 l 778 294 b 819 206 789 159 777 132 l 1115 163)}Rakugo Girls
 Dialogue: 0,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\blur9\clip(m 1115 267 l 765 316 b 819 244 809 178 767 116 l 1115 159)}Rakugo Girls
 Dialogue: 0,0:00:05.81,0:00:08.44,Sign,,0,0,0,,{\move(702.667,208,956.667,208,0,1120)\fnBrushStroke 35\fs67\blur13\clip(m 1115 267 l 765 316 b 819 244 809 178 767 116 l 1115 159)}Rakugo Girls
