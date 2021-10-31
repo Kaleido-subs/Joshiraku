@@ -12,8 +12,8 @@ PlayResY: 720
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: ../.seed/[Kaleido-subs] Joshiraku (Rakugo Girls) Vol.1v2 (BD 720p)/Creditless/[Kaleido-subs] Joshiraku (Rakugo Girls) - Creditless OP1v2 (BD 720p) [916CE4E3].mkv
-Video File: ../.seed/[Kaleido-subs] Joshiraku (Rakugo Girls) Vol.1v2 (BD 720p)/Creditless/[Kaleido-subs] Joshiraku (Rakugo Girls) - Creditless OP1v2 (BD 720p) [916CE4E3].mkv
+Audio File: JoshirakuBD_NCOP1 (mux).mkv
+Video File: JoshirakuBD_NCOP1 (mux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -29,7 +29,7 @@ Comment: 7,0:00:00.00,0:00:00.02,OP1,,0,0,0,template char noblank,{\blur0.75}
 Comment: 6,0:00:00.00,0:00:00.02,OP1,,0,0,0,template char noblank,{\1a&H80&\3c!gc(4)!\bord1.2\blur1.2}
 Comment: 5,0:00:00.00,0:00:00.02,OP1,,0,0,0,template char noblank,{\1a&H80&\3a&H00&\bord3.6\blur4}
 Comment: 0,0:00:00.00,0:00:00.02,OP1,,0,0,0,mixin line,{!ln.tag.pos(5,5,0,pos_y())!\fry-80\t(0,200,\fry0)\t(!orgline.duration-400!,!orgline.duration!,\fry270)}
-Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,sync,{OP}
+Comment: 0,0:00:02.73,0:00:02.73,Default,,0,0,0,sync,{OP}
 Comment: 0,0:00:00.52,0:00:02.73,OP1,eng,0,0,0,kara,Thanks for your continued appreciation!
 Comment: 0,0:00:02.98,0:00:05.44,OP1,eng,0,0,0,kara,For everything so far and all that is to come!
 Comment: 0,0:00:05.69,0:00:08.06,OP1,eng,0,0,0,kara,Twing-twang, twing-twang-twang

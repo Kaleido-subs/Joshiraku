@@ -175,10 +175,10 @@ subs {
             }
         }
 
-        chapters {
-            from(cleanmerge.item())
-            chapterMarker("chapter")
-        }
+        // chapters {
+        //     from(cleanmerge.item())
+        //     chapterMarker("chapter")
+        // }
 
         mux {
             title(get("title"))
@@ -206,7 +206,7 @@ subs {
                 }
             }
 
-            chapters(chapters.item()) { lang("eng") }
+            // chapters(chapters.item()) { lang("eng") }
 
             skipUnusedFonts(true)
 
