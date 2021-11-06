@@ -27,464 +27,464 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{OP}
 Comment: 0,0:00:02.73,0:00:02.73,Default,,0,0,0,opsync,{OP}
-Comment: 0,0:01:29.98,0:01:29.98,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
 Comment: 0,0:08:34.95,0:08:34.95,Default,chapter,0,0,0,,{Part B}
-Comment: 0,0:13:32.95,0:13:32.95,Default,chapter,0,0,0,,{Part C}
+Comment: 0,0:13:32.96,0:13:32.96,Default,chapter,0,0,0,,{Part C}
 Comment: 0,0:22:09.93,0:22:09.93,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:35.33,0:22:35.33,Default,,0,0,0,edsync,{ED}
-Comment: 0,0:23:39.93,0:23:39.93,Default,chapter,0,0,0,,{Preview}
+Comment: 0,0:23:39.94,0:23:39.94,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:01:32.57,0:01:36.20,Default,,0,0,0,,"No, you idiot. Military {\i1}drills{\i0}!"
-Dialogue: 10,0:01:36.95,0:01:38.78,Default,,0,0,0,,Thanks for your continued appreciation!
-Dialogue: 10,0:01:49.33,0:01:50.04,Default,,0,0,0,,Um—
-Dialogue: 10,0:01:50.04,0:01:51.92,Default,,0,0,0,,Don't ask such dull questions!
-Dialogue: 10,0:01:53.76,0:01:57.63,Default,,0,0,0,,Uh, nobody asked anything.
-Dialogue: 10,0:01:57.63,0:01:58.80,Default,,0,0,0,,My bad.
-Dialogue: 10,0:01:59.68,0:02:01.05,Default,,0,0,0,,So, what were you saying?
-Dialogue: 10,0:02:01.05,0:02:03.31,Default,,0,0,0,,What would you buy if you won the lottery?
+Dialogue: 10,0:01:36.95,0:01:38.79,Default,,0,0,0,,Thanks for your continued appreciation!
+Dialogue: 10,0:01:49.34,0:01:50.05,Default,,0,0,0,,Um—
+Dialogue: 10,0:01:50.05,0:01:51.92,Default,,0,0,0,,Don't ask such dull questions!
+Dialogue: 10,0:01:53.76,0:01:57.64,Default,,0,0,0,,Uh, nobody asked anything.
+Dialogue: 10,0:01:57.64,0:01:58.81,Default,,0,0,0,,My bad.
+Dialogue: 10,0:01:59.68,0:02:01.06,Default,,0,0,0,,So, what were you saying?
+Dialogue: 10,0:02:01.06,0:02:03.31,Default,,0,0,0,,What would you buy if you won the lottery?
 Dialogue: 10,0:02:03.31,0:02:05.48,Default,,0,0,0,,See, I knew it'd be something dull!
-Dialogue: 10,0:02:07.89,0:02:10.48,Default,,0,0,0,,Oh, please. That's an easy one.
-Dialogue: 10,0:02:10.48,0:02:11.06,Default,,0,0,0,,I'd save it a—
-Dialogue: 10,0:02:11.06,0:02:14.28,Default,,0,0,0,,{\q2}Anything to avoid being the kind of person \Nwho'd put all the money into savings.
+Dialogue: 10,0:02:07.90,0:02:10.49,Default,,0,0,0,,Oh, please. That's an easy one.
+Dialogue: 10,0:02:10.49,0:02:11.07,Default,,0,0,0,,I'd save it a—
+Dialogue: 10,0:02:11.07,0:02:14.28,Default,,0,0,0,,{\q2}Anything to avoid being the kind of person \Nwho'd put all the money into savings.
 Dialogue: 10,0:02:15.57,0:02:18.53,Default,,0,0,0,,Ugh, yeah. It's like, c'mon, dream big!
 Dialogue: 10,0:02:18.53,0:02:21.37,Default,,0,0,0,,I can't think of anything worse.
 Dialogue: 10,0:02:21.37,0:02:25.83,Default,,0,0,0,,{\q2}The kind of person who, if you ask them \Nwhat animal they'd want to come back as,
 Dialogue: 10,0:02:25.83,0:02:28.25,Default,,0,0,0,,would always say "human".
-Dialogue: 10,0:02:25.83,0:02:26.37,Alt,,0,0,0,,Hum—
-Dialogue: 10,0:02:28.87,0:02:30.63,Default,,0,0,0,,Hm, what's up, Marii?
-Dialogue: 10,0:02:30.63,0:02:31.79,Default,,0,0,0,,Oh, n-nothing.
-Dialogue: 10,0:02:31.79,0:02:33.80,Default,,0,0,0,,So what would you buy, then?
+Dialogue: 10,0:02:25.83,0:02:26.38,Alt,,0,0,0,,Hum—
+Dialogue: 10,0:02:28.88,0:02:30.63,Default,,0,0,0,,Hm, what's up, Marii?
+Dialogue: 10,0:02:30.63,0:02:31.80,Default,,0,0,0,,Oh, n-nothing.
+Dialogue: 10,0:02:31.80,0:02:33.80,Default,,0,0,0,,So what would you buy, then?
 Dialogue: 10,0:02:34.13,0:02:36.51,Default,,0,0,0,,Me? I guess...
-Dialogue: 10,0:02:36.96,0:02:38.30,Default,,0,0,0,,I'd pay off my debts.
+Dialogue: 10,0:02:36.97,0:02:38.30,Default,,0,0,0,,I'd pay off my debts.
 Dialogue: 10,0:02:38.30,0:02:40.97,Default,,0,0,0,,{\q2}Your dreams are awfully small \Nfor someone that spouted all that!
-Dialogue: 10,0:02:40.97,0:02:43.22,Default,,0,0,0,,Paying it back is no different to saving it up!
-Dialogue: 10,0:02:43.22,0:02:45.72,Default,,0,0,0,,It's a lot more urgent...
-Dialogue: 10,0:02:45.72,0:02:48.39,Default,,0,0,0,,Oh, spare me the sob story!
-Dialogue: 10,0:02:48.39,0:02:49.77,Default,,0,0,0,,Three hundred million yen?
-Dialogue: 10,0:02:49.77,0:02:51.81,Default,,0,0,0,,If I had three hundred million yen, I'd...
-Dialogue: 10,0:02:52.11,0:02:54.69,Default,,0,0,0,,I would track down my missing mother.
-Dialogue: 10,0:02:57.49,0:03:01.28,Default,,0,0,0,,Um, really...?
-Dialogue: 10,0:03:05.28,0:03:09.33,Default,,0,0,0,,{\q2}If I won the lottery, I'd use the money \Nto hunt down the true culprit.
-Dialogue: 10,0:03:09.33,0:03:11.08,Default,,0,0,0,,What the hell are you talking about?
-Dialogue: 10,0:03:11.08,0:03:12.67,Default,,0,0,0,,It'd be great if you could catch them.
+Dialogue: 10,0:02:40.97,0:02:43.23,Default,,0,0,0,,Paying it back is no different to saving it up!
+Dialogue: 10,0:02:43.23,0:02:45.73,Default,,0,0,0,,It's a lot more urgent...
+Dialogue: 10,0:02:45.73,0:02:48.40,Default,,0,0,0,,Oh, spare me the sob story!
+Dialogue: 10,0:02:48.40,0:02:49.77,Default,,0,0,0,,Three hundred million yen?
+Dialogue: 10,0:02:49.77,0:02:51.82,Default,,0,0,0,,If I had three hundred million yen, I'd...
+Dialogue: 10,0:02:52.11,0:02:54.70,Default,,0,0,0,,I would track down my missing mother.
+Dialogue: 10,0:02:57.49,0:03:01.29,Default,,0,0,0,,Um, really...?
+Dialogue: 10,0:03:05.29,0:03:09.34,Default,,0,0,0,,{\q2}If I won the lottery, I'd use the money \Nto hunt down the true culprit.
+Dialogue: 10,0:03:09.34,0:03:11.09,Default,,0,0,0,,What the hell are you talking about?
+Dialogue: 10,0:03:11.09,0:03:12.67,Default,,0,0,0,,It'd be great if you could catch them.
 Dialogue: 10,0:03:12.67,0:03:13.67,Default,,0,0,0,,Good luck!
 Dialogue: 10,0:03:13.67,0:03:14.34,Default,,0,0,0,,Thanks!
 Dialogue: 10,0:03:14.34,0:03:16.80,Default,,0,0,0,,What's with the private conversation, guys?!
 Dialogue: 10,0:03:16.80,0:03:19.76,Default,,0,0,0,,Debt? Lost moms? True culprits?
 Dialogue: 10,0:03:19.76,0:03:22.18,Default,,0,0,0,,Is that all you can come up with?
 Dialogue: 10,0:03:22.18,0:03:24.18,Default,,0,0,0,,The lottery lets you buy whatever your heart desires!
-Dialogue: 10,0:03:24.55,0:03:27.27,Default,,0,0,0,,{\q2}One ticket costs three hundred yen. \NThat's crazy money!
+Dialogue: 10,0:03:24.56,0:03:27.27,Default,,0,0,0,,{\q2}One ticket costs three hundred yen. \NThat's crazy money!
 Dialogue: 10,0:03:27.27,0:03:30.77,Default,,0,0,0,,{\q2}You can't fork out crazy money if your plan \Nis to spend your winnings on boring crap!
-Dialogue: 10,0:03:32.44,0:03:35.27,Default,,0,0,0,,Kigu! What would you buy if you won?
-Dialogue: 10,0:03:36.32,0:03:36.98,Default,,0,0,0,,I wanna know!
-Dialogue: 10,0:03:36.98,0:03:37.57,Default,,0,0,0,,Tell us!
-Dialogue: 10,0:03:37.57,0:03:38.19,Default,,0,0,0,,What would you do?
-Dialogue: 10,0:03:38.19,0:03:41.28,Default,,0,0,0,,{\i1}Th-This is a lot of pressure...
-Dialogue: 10,0:03:42.32,0:03:46.53,Default,,0,0,0,,I'd build a house out of my favourite candy!
-Dialogue: 10,0:03:48.70,0:03:49.70,Default,,0,0,0,,That's so you!
-Dialogue: 10,0:03:49.70,0:03:50.83,Default,,0,0,0,,You cutie.
-Dialogue: 10,0:03:53.12,0:03:54.88,Default,,0,0,0,,{\i1}As if.
+Dialogue: 10,0:03:32.44,0:03:35.28,Default,,0,0,0,,Kigu! What would you buy if you won?
+Dialogue: 10,0:03:36.32,0:03:36.99,Default,,0,0,0,,I wanna know!
+Dialogue: 10,0:03:36.99,0:03:37.57,Default,,0,0,0,,Tell us!
+Dialogue: 10,0:03:37.57,0:03:38.20,Default,,0,0,0,,What would you do?
+Dialogue: 10,0:03:38.20,0:03:41.28,Default,,0,0,0,,{\i1}Th-This is a lot of pressure...
+Dialogue: 10,0:03:42.33,0:03:46.54,Default,,0,0,0,,I'd build a house out of my favourite candy!
+Dialogue: 10,0:03:48.71,0:03:49.71,Default,,0,0,0,,That's so you!
+Dialogue: 10,0:03:49.71,0:03:50.84,Default,,0,0,0,,You cutie.
+Dialogue: 10,0:03:53.13,0:03:54.88,Default,,0,0,0,,{\i1}As if.
 Dialogue: 10,0:03:54.88,0:03:57.38,Default,,0,0,0,,{\i1\q2}I'm getting sick of playing into \Neveryone's expectations of me.
 Dialogue: 10,0:03:57.38,0:04:00.47,Default,,0,0,0,,One thing is for sure, though.
 Dialogue: 10,0:04:01.22,0:04:05.18,Default,,0,0,0,,If I won the lottery, I wouldn't tell anyone about it.
 Dialogue: 10,0:04:06.43,0:04:08.39,Default,,0,0,0,,Yeah, me neither.
 Dialogue: 10,0:04:08.39,0:04:09.77,Default,,0,0,0,,Definitely not.
-Dialogue: 10,0:04:11.43,0:04:12.73,Default,,0,0,0,,{\i1}Could it be?
+Dialogue: 10,0:04:11.44,0:04:12.73,Default,,0,0,0,,{\i1}Could it be?
 Dialogue: 10,0:04:12.73,0:04:14.15,Default,,0,0,0,,{\i1}Has one of us...
-Dialogue: 10,0:04:14.65,0:04:15.98,Default,,0,0,0,,{\i1}Already...
-Dialogue: 10,0:04:16.27,0:04:17.06,Default,,0,0,0,,{\i1}Won?!
-Dialogue: 10,0:04:19.94,0:04:21.24,Default,,0,0,0,,{\i1}But...
-Dialogue: 10,0:04:22.74,0:04:24.11,Default,,0,0,0,,{\i1}Who...
-Dialogue: 10,0:04:24.45,0:04:25.53,Default,,0,0,0,,{\i1}Is it?!
-Dialogue: 10,0:04:26.49,0:04:29.62,Default,,0,0,0,,You {\i1}did{\i0} get a new kimono recently!
-Dialogue: 10,0:04:30.24,0:04:33.33,Default,,0,0,0,,Come into a little money, did we?
-Dialogue: 10,0:04:33.33,0:04:34.67,Default,,0,0,0,,Wh-What're you getting at?
-Dialogue: 10,0:04:35.50,0:04:38.42,Default,,0,0,0,,Hit the nail on the head, I'd say.
-Dialogue: 10,0:04:38.42,0:04:41.38,Default,,0,0,0,,What about you? Didn't you arrive in a taxi today?
-Dialogue: 10,0:04:41.38,0:04:42.30,Default,,0,0,0,,A taxi?
+Dialogue: 10,0:04:14.65,0:04:15.99,Default,,0,0,0,,{\i1}Already...
+Dialogue: 10,0:04:16.28,0:04:17.07,Default,,0,0,0,,{\i1}Won?!
+Dialogue: 10,0:04:19.95,0:04:21.24,Default,,0,0,0,,{\i1}But...
+Dialogue: 10,0:04:22.74,0:04:24.12,Default,,0,0,0,,{\i1}Who...
+Dialogue: 10,0:04:24.45,0:04:25.54,Default,,0,0,0,,{\i1}Is it?!
+Dialogue: 10,0:04:26.50,0:04:29.62,Default,,0,0,0,,You {\i1}did{\i0} get a new kimono recently!
+Dialogue: 10,0:04:30.25,0:04:33.34,Default,,0,0,0,,Come into a little money, did we?
+Dialogue: 10,0:04:33.34,0:04:34.67,Default,,0,0,0,,Wh-What're you getting at?
+Dialogue: 10,0:04:35.51,0:04:38.42,Default,,0,0,0,,Hit the nail on the head, I'd say.
+Dialogue: 10,0:04:38.42,0:04:41.39,Default,,0,0,0,,What about you? Didn't you arrive in a taxi today?
+Dialogue: 10,0:04:41.39,0:04:42.30,Default,,0,0,0,,A taxi?
 Dialogue: 10,0:04:42.30,0:04:43.26,Default,,0,0,0,,Highly suspicious.
 Dialogue: 10,0:04:43.26,0:04:44.51,Default,,0,0,0,,It only cost the base fare!
-Dialogue: 10,0:04:44.51,0:04:47.01,Default,,0,0,0,,I-If we're pointing fingers, I saw you, y'know!
-Dialogue: 10,0:04:47.01,0:04:50.22,Default,,0,0,0,,You bought McD's without using a coupon!
-Dialogue: 10,0:04:50.22,0:04:51.31,Default,,0,0,0,,McD...
-Dialogue: 10,0:04:51.31,0:04:52.85,Default,,0,0,0,,Without using a coupon...
-Dialogue: 10,0:04:54.10,0:04:57.69,Default,,0,0,0,,{\q2}There's no way you'd do something so \Nextravagant if you hadn't won the lottery!
-Dialogue: 10,0:04:57.69,0:04:59.19,Default,,0,0,0,,What about her?
-Dialogue: 10,0:04:59.19,0:05:02.49,Default,,0,0,0,,She's got a holiday brochure in her purse!
-Dialogue: 10,0:05:02.49,0:05:04.36,Default,,0,0,0,,It's for my grandma!
-Dialogue: 10,0:05:04.36,0:05:06.53,Default,,0,0,0,,Don't mess about with other people's purses!
-Dialogue: 10,0:05:06.53,0:05:09.83,Default,,0,0,0,,Let's see what everyone's got in theirs, shall we?
-Dialogue: 10,0:05:10.24,0:05:11.66,Default,,0,0,0,,What are you doing?
-Dialogue: 10,0:05:11.66,0:05:14.66,Default,,0,0,0,,{\q2}Look! She's been seeing films \Nwithout using the Ladies' Day discount!
-Dialogue: 10,0:05:14.66,0:05:17.29,Default,,0,0,0,,And she went to see [DDY] KimiKoe!
-Dialogue: 10,0:05:17.63,0:05:20.04,Default,,0,0,0,,{\q2}There's no explanation \Nfor this kind of reckless spending!
-Dialogue: 10,0:05:20.04,0:05:21.59,Default,,0,0,0,,Agh! Stop it!
-Dialogue: 10,0:05:21.59,0:05:24.17,Default,,0,0,0,,Stop all this senseless fighting!
-Dialogue: 10,0:05:24.17,0:05:26.26,Default,,0,0,0,,{\q2}You know what they say, \Nthere's no money in squabbling!
-Dialogue: 10,0:05:28.84,0:05:29.72,Default,,0,0,0,,That's right.
-Dialogue: 10,0:05:29.72,0:05:32.39,Default,,0,0,0,,{\q2}Rich people don't bother themselves \Nwith the petty concerns of regular people.
-Dialogue: 10,0:05:32.39,0:05:33.47,Default,,0,0,0,,They're above that.
-Dialogue: 10,0:05:33.47,0:05:38.10,Default,,0,0,0,,{\q2}In other words, that means \Neveryone here must be totally broke.
-Dialogue: 10,0:05:38.10,0:05:40.27,Default,,0,0,0,,But they also say "as stingy as a millionaire".
-Dialogue: 10,0:05:41.15,0:05:42.40,Default,,0,0,0,,Why are you looking at me?
-Dialogue: 10,0:05:42.40,0:05:44.40,Default,,0,0,0,,Fat cat!
-Dialogue: 10,0:05:44.40,0:05:46.78,Default,,0,0,0,,C-Cut it out! Stop looking at me!
+Dialogue: 10,0:04:44.51,0:04:47.02,Default,,0,0,0,,I-If we're pointing fingers, I saw you, y'know!
+Dialogue: 10,0:04:47.02,0:04:50.23,Default,,0,0,0,,You bought McD's without using a coupon!
+Dialogue: 10,0:04:50.23,0:04:51.31,Default,,0,0,0,,McD...
+Dialogue: 10,0:04:51.31,0:04:52.86,Default,,0,0,0,,Without using a coupon...
+Dialogue: 10,0:04:54.11,0:04:57.69,Default,,0,0,0,,{\q2}There's no way you'd do something so \Nextravagant if you hadn't won the lottery!
+Dialogue: 10,0:04:57.69,0:04:59.20,Default,,0,0,0,,What about her?
+Dialogue: 10,0:04:59.20,0:05:02.49,Default,,0,0,0,,She's got a holiday brochure in her purse!
+Dialogue: 10,0:05:02.49,0:05:04.37,Default,,0,0,0,,It's for my grandma!
+Dialogue: 10,0:05:04.37,0:05:06.54,Default,,0,0,0,,Don't mess about with other people's purses!
+Dialogue: 10,0:05:06.54,0:05:09.83,Default,,0,0,0,,Let's see what everyone's got in theirs, shall we?
+Dialogue: 10,0:05:10.25,0:05:11.67,Default,,0,0,0,,What are you doing?
+Dialogue: 10,0:05:11.67,0:05:14.67,Default,,0,0,0,,{\q2}Look! She's been seeing films \Nwithout using the Ladies' Day discount!
+Dialogue: 10,0:05:14.67,0:05:17.30,Default,,0,0,0,,And she went to see [DDY] KimiKoe!
+Dialogue: 10,0:05:17.63,0:05:20.05,Default,,0,0,0,,{\q2}There's no explanation \Nfor this kind of reckless spending!
+Dialogue: 10,0:05:20.05,0:05:21.59,Default,,0,0,0,,Agh! Stop it!
+Dialogue: 10,0:05:21.59,0:05:24.18,Default,,0,0,0,,Stop all this senseless fighting!
+Dialogue: 10,0:05:24.18,0:05:26.26,Default,,0,0,0,,{\q2}You know what they say, \Nthere's no money in squabbling!
+Dialogue: 10,0:05:28.85,0:05:29.73,Default,,0,0,0,,That's right.
+Dialogue: 10,0:05:29.73,0:05:32.40,Default,,0,0,0,,{\q2}Rich people don't bother themselves \Nwith the petty concerns of regular people.
+Dialogue: 10,0:05:32.40,0:05:33.48,Default,,0,0,0,,They're above that.
+Dialogue: 10,0:05:33.48,0:05:38.11,Default,,0,0,0,,{\q2}In other words, that means \Neveryone here must be totally broke.
+Dialogue: 10,0:05:38.11,0:05:40.28,Default,,0,0,0,,But they also say "as stingy as a millionaire".
+Dialogue: 10,0:05:41.15,0:05:42.41,Default,,0,0,0,,Why are you looking at me?
+Dialogue: 10,0:05:42.41,0:05:44.41,Default,,0,0,0,,Fat cat!
+Dialogue: 10,0:05:44.41,0:05:46.78,Default,,0,0,0,,C-Cut it out! Stop looking at me!
 Dialogue: 10,0:05:46.78,0:05:48.41,Default,,0,0,0,,I just like snacking!
 Dialogue: 10,0:05:48.41,0:05:53.29,Default,,0,0,0,,{\q2}Wouldn't you expect a rich person to \Nhave more self-control and a really good body?
 Dialogue: 10,0:05:54.00,0:05:56.25,Default,,0,0,0,,I ain't talking about you, big-heads!
-Dialogue: 10,0:05:56.25,0:05:58.54,Default,,0,0,0,,If rich people don't squabble,
-Dialogue: 10,0:05:58.54,0:06:00.38,Default,,0,0,0,,what do they do when they have a disagreement?
-Dialogue: 10,0:06:00.79,0:06:03.13,Default,,0,0,0,,They do argue, just in a more refined way.
+Dialogue: 10,0:05:56.25,0:05:58.55,Default,,0,0,0,,If rich people don't squabble,
+Dialogue: 10,0:05:58.55,0:06:00.38,Default,,0,0,0,,what do they do when they have a disagreement?
+Dialogue: 10,0:06:00.80,0:06:03.13,Default,,0,0,0,,They do argue, just in a more refined way.
 Dialogue: 10,0:06:03.84,0:06:08.68,Default,,0,0,0,,{\q2}I simply do not understand \Nthese economically impaired people.
-Dialogue: 10,0:06:10.47,0:06:11.80,Default,,0,0,0,,How very sophisticated of you.
-Dialogue: 10,0:06:11.80,0:06:15.77,Default,,0,0,0,,{\q2}I say, good madam, perchance wherefore \Nwhat are you enspeakenestening about?
-Dialogue: 10,0:06:15.77,0:06:18.89,Default,,0,0,0,,{\q2}I think you should perhaps mollify \Nyour obstrepepeperous tendencies.
+Dialogue: 10,0:06:10.47,0:06:11.81,Default,,0,0,0,,How very sophisticated of you.
+Dialogue: 10,0:06:11.81,0:06:15.77,Default,,0,0,0,,{\q2}I say, good madam, perchance wherefore \Nwhat are you enspeakenestening about?
+Dialogue: 10,0:06:15.77,0:06:18.90,Default,,0,0,0,,{\q2}I think you should perhaps mollify \Nyour obstrepepeperous tendencies.
 Dialogue: 10,0:06:19.19,0:06:22.19,Default,,0,0,0,,Please ingest a portion of excrement.
-Dialogue: 10,0:06:23.77,0:06:25.90,Default,,0,0,0,,Is that...
-Dialogue: 10,0:06:25.90,0:06:27.53,Default,,0,0,0,,"Eat shit"?
-Dialogue: 10,0:06:28.99,0:06:33.45,Default,,0,0,0,,{\q2}I reckon that when someone's wealthy, \Nit shows in intangible ways.
-Dialogue: 10,0:06:33.45,0:06:34.99,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:06:34.99,0:06:37.87,Default,,0,0,0,,{\q2}For instance, after someone won the lottery, \NI'd expect them to change as a person.
-Dialogue: 10,0:06:37.87,0:06:39.42,Default,,0,0,0,,Starting with the things they say.
-Dialogue: 10,0:06:39.42,0:06:42.79,Default,,0,0,0,,You! Do you remember what you said the other day?
-Dialogue: 10,0:06:42.79,0:06:43.88,Default,,0,0,0,,What? I—
-Dialogue: 10,0:06:44.55,0:06:47.17,Default,,0,0,0,,I respect my parents more than anyone!
-Dialogue: 10,0:06:48.38,0:06:51.26,Default,,0,0,0,,{\q2}Nobody says that kind of stuff \Nunless they're completely carefree!
-Dialogue: 10,0:06:51.26,0:06:54.35,Default,,0,0,0,,{\q2}Could it be that you're carefree \Nto the tune of three hundred million yen?!
-Dialogue: 10,0:06:55.10,0:06:56.47,Default,,0,0,0,,I'm not sure what you—
-Dialogue: 10,0:06:56.47,0:07:00.27,Default,,0,0,0,,{\q2}It's elementary, my dear Marii. \NI've deduced the solution to this mystery.
-Dialogue: 10,0:07:00.27,0:07:02.10,Default,,0,0,0,,{\i1}You're{\i0} the culprit!
-Dialogue: 10,0:07:02.10,0:07:03.11,Default,,0,0,0,,No way!
-Dialogue: 10,0:07:03.11,0:07:05.27,Default,,0,0,0,,Culprit? I think she means "winner".
-Dialogue: 10,0:07:05.27,0:07:08.07,Default,,0,0,0,,Who is it?! Just step forward already!
-Dialogue: 10,0:07:08.07,0:07:09.11,Default,,0,0,0,,Wait.
-Dialogue: 10,0:07:09.11,0:07:10.28,Default,,0,0,0,,I heard something once.
-Dialogue: 10,0:07:10.61,0:07:14.62,Default,,0,0,0,,{\q2}They say that even if lottery winners \Nkeep a low profile,
-Dialogue: 10,0:07:14.62,0:07:16.70,Default,,0,0,0,,{\q2}pros will be able to smell \Nthe scent of money on them.
-Dialogue: 10,0:07:18.54,0:07:19.66,Default,,0,0,0,,Pros?
-Dialogue: 10,0:07:19.66,0:07:23.92,Default,,0,0,0,,{\q2}Relatives you've never met before. \NSchoolmates from different classes.
+Dialogue: 10,0:06:23.78,0:06:25.91,Default,,0,0,0,,Is that...
+Dialogue: 10,0:06:25.91,0:06:27.53,Default,,0,0,0,,"Eat shit"?
+Dialogue: 10,0:06:28.99,0:06:33.46,Default,,0,0,0,,{\q2}I reckon that when someone's wealthy, \Nit shows in intangible ways.
+Dialogue: 10,0:06:33.46,0:06:35.00,Default,,0,0,0,,What do you mean?
+Dialogue: 10,0:06:35.00,0:06:37.88,Default,,0,0,0,,{\q2}For instance, after someone won the lottery, \NI'd expect them to change as a person.
+Dialogue: 10,0:06:37.88,0:06:39.42,Default,,0,0,0,,Starting with the things they say.
+Dialogue: 10,0:06:39.42,0:06:42.80,Default,,0,0,0,,You! Do you remember what you said the other day?
+Dialogue: 10,0:06:42.80,0:06:43.88,Default,,0,0,0,,What? I—
+Dialogue: 10,0:06:44.55,0:06:47.18,Default,,0,0,0,,I respect my parents more than anyone!
+Dialogue: 10,0:06:48.39,0:06:51.27,Default,,0,0,0,,{\q2}Nobody says that kind of stuff \Nunless they're completely carefree!
+Dialogue: 10,0:06:51.27,0:06:54.35,Default,,0,0,0,,{\q2}Could it be that you're carefree \Nto the tune of three hundred million yen?!
+Dialogue: 10,0:06:55.10,0:06:56.48,Default,,0,0,0,,I'm not sure what you—
+Dialogue: 10,0:06:56.48,0:07:00.27,Default,,0,0,0,,{\q2}It's elementary, my dear Marii. \NI've deduced the solution to this mystery.
+Dialogue: 10,0:07:00.27,0:07:02.11,Default,,0,0,0,,{\i1}You're{\i0} the culprit!
+Dialogue: 10,0:07:02.11,0:07:03.11,Default,,0,0,0,,No way!
+Dialogue: 10,0:07:03.11,0:07:05.28,Default,,0,0,0,,Culprit? I think she means "winner".
+Dialogue: 10,0:07:05.28,0:07:08.07,Default,,0,0,0,,Who is it?! Just step forward already!
+Dialogue: 10,0:07:08.07,0:07:09.12,Default,,0,0,0,,Wait.
+Dialogue: 10,0:07:09.12,0:07:10.28,Default,,0,0,0,,I heard something once.
+Dialogue: 10,0:07:10.62,0:07:14.62,Default,,0,0,0,,{\q2}They say that even if lottery winners \Nkeep a low profile,
+Dialogue: 10,0:07:14.62,0:07:16.71,Default,,0,0,0,,{\q2}pros will be able to smell \Nthe scent of money on them.
+Dialogue: 10,0:07:18.54,0:07:19.67,Default,,0,0,0,,Pros?
+Dialogue: 10,0:07:19.67,0:07:23.92,Default,,0,0,0,,{\q2}Relatives you've never met before. \NSchoolmates from different classes.
 Dialogue: 10,0:07:23.92,0:07:26.59,Default,,0,0,0,,Those are just parasites!
-Dialogue: 10,0:07:26.59,0:07:27.71,Default,,0,0,0,,And...
-Dialogue: 10,0:07:29.97,0:07:33.80,Default,,0,0,0,,Have you got a moment to talk about the Lord?
+Dialogue: 10,0:07:26.59,0:07:27.72,Default,,0,0,0,,And...
+Dialogue: 10,0:07:29.97,0:07:33.81,Default,,0,0,0,,Have you got a moment to talk about the Lord?
 Dialogue: 10,0:07:34.89,0:07:36.89,Default,,0,0,0,,Here's a pro, right on schedule.
-Dialogue: 10,0:07:36.89,0:07:41.85,Default,,0,0,0,,She's sure to know which one of us is the rich one.
-Dialogue: 10,0:07:41.85,0:07:45.11,Default,,0,0,0,,Which one of us do you want to convert the most?
+Dialogue: 10,0:07:36.89,0:07:41.86,Default,,0,0,0,,She's sure to know which one of us is the rich one.
+Dialogue: 10,0:07:41.86,0:07:45.11,Default,,0,0,0,,Which one of us do you want to convert the most?
 Dialogue: 10,0:07:45.11,0:07:46.86,Default,,0,0,0,,Who is the lottery winner?
-Dialogue: 10,0:07:47.73,0:07:51.82,Default,,0,0,0,,Who do I want to convert the most?
+Dialogue: 10,0:07:47.74,0:07:51.83,Default,,0,0,0,,Who do I want to convert the most?
 Dialogue: 10,0:07:52.24,0:07:55.37,Default,,0,0,0,,{\q2}The young lady most at risk \Nof falling into Satan's clutches is...
-Dialogue: 10,0:07:57.24,0:07:58.24,Default,,0,0,0,,Her!
+Dialogue: 10,0:07:57.25,0:07:58.25,Default,,0,0,0,,Her!
 Dialogue: 10,0:07:58.54,0:08:00.04,Default,,0,0,0,,It ain't me!
-Dialogue: 10,0:08:00.04,0:08:00.12,Default,,0,0,0,,{\c&H000000&\blur2.4}It ain't me!
-Dialogue: 11,0:08:00.04,0:08:00.12,Default,,0,0,0,,{\bord0\4a&HFF&\blur2.4}It ain't me!
-Dialogue: 10,0:08:00.12,0:08:00.20,Default,,0,0,0,,It ain't me!
-Dialogue: 10,0:08:00.20,0:08:00.29,Default,,0,0,0,,{\c&H000000&\blur2.4}It ain't me!
-Dialogue: 11,0:08:00.20,0:08:00.29,Default,,0,0,0,,{\bord0\4a&HFF&\blur2.4}It ain't me!
+Dialogue: 10,0:08:00.04,0:08:00.13,Default,,0,0,0,,{\c&H000000&\blur2.4}It ain't me!
+Dialogue: 11,0:08:00.04,0:08:00.13,Default,,0,0,0,,{\bord0\4a&HFF&\blur2.4}It ain't me!
+Dialogue: 10,0:08:00.13,0:08:00.21,Default,,0,0,0,,It ain't me!
+Dialogue: 10,0:08:00.21,0:08:00.29,Default,,0,0,0,,{\c&H000000&\blur2.4}It ain't me!
+Dialogue: 11,0:08:00.21,0:08:00.29,Default,,0,0,0,,{\bord0\4a&HFF&\blur2.4}It ain't me!
 Dialogue: 10,0:08:00.29,0:08:00.50,Default,,0,0,0,,{\fad(0,200)}It ain't me!
-Dialogue: 10,0:08:01.71,0:08:03.87,Default,,0,0,0,,Shut your damn mouth!
-Dialogue: 10,0:08:03.87,0:08:05.29,Default,,0,0,0,,There's no need for violence!
-Dialogue: 10,0:08:06.00,0:08:06.79,Default,,0,0,0,,The power was cut?
-Dialogue: 10,0:08:06.79,0:08:09.05,Default,,0,0,0,,{\q2}You'd think a millionaire \Nwould be able to pay our bills on time.
+Dialogue: 10,0:08:01.71,0:08:03.88,Default,,0,0,0,,Shut your damn mouth!
+Dialogue: 10,0:08:03.88,0:08:05.30,Default,,0,0,0,,There's no need for violence!
+Dialogue: 10,0:08:06.01,0:08:06.80,Default,,0,0,0,,The power was cut?
+Dialogue: 10,0:08:06.80,0:08:09.05,Default,,0,0,0,,{\q2}You'd think a millionaire \Nwould be able to pay our bills on time.
 Dialogue: 10,0:08:09.51,0:08:11.01,Default,,0,0,0,,Oh, it's back on.
-Dialogue: 10,0:08:18.22,0:08:19.56,Default,,0,0,0,,Retaliation?
-Dialogue: 10,0:08:21.81,0:08:24.27,Default,,0,0,0,,{\i1}One of us is a convert...
-Dialogue: 10,0:08:24.56,0:08:25.94,Default,,0,0,0,,{\i1}Who...
+Dialogue: 10,0:08:18.23,0:08:19.56,Default,,0,0,0,,Retaliation?
+Dialogue: 10,0:08:21.81,0:08:24.28,Default,,0,0,0,,{\i1}One of us is a convert...
+Dialogue: 10,0:08:24.57,0:08:25.94,Default,,0,0,0,,{\i1}Who...
 Dialogue: 10,0:08:25.94,0:08:27.36,Default,,0,0,0,,{\i1}Attacked...
-Dialogue: 10,0:08:27.36,0:08:28.98,Default,,0,0,0,,{\i1}Marii?
-Dialogue: 10,0:08:35.91,0:08:38.74,Default,,0,0,0,,Wow! Talk about a panoramic view!
-Dialogue: 10,0:08:38.74,0:08:40.16,Default,,0,0,0,,We're lucky it's so clear.
-Dialogue: 10,0:08:40.16,0:08:42.33,Default,,0,0,0,,I can see for miles!
+Dialogue: 10,0:08:27.36,0:08:28.99,Default,,0,0,0,,{\i1}Marii?
+Dialogue: 10,0:08:35.91,0:08:38.75,Default,,0,0,0,,Wow! Talk about a panoramic view!
+Dialogue: 10,0:08:38.75,0:08:40.17,Default,,0,0,0,,We're lucky it's so clear.
+Dialogue: 10,0:08:40.17,0:08:42.33,Default,,0,0,0,,I can see for miles!
 Dialogue: 10,0:08:42.33,0:08:44.00,Default,,0,0,0,,I'm so glad we came.
-Dialogue: 10,0:08:44.00,0:08:44.83,Default,,0,0,0,,Hey.
-Dialogue: 10,0:08:44.83,0:08:47.04,Default,,0,0,0,,What are we doing here?
-Dialogue: 10,0:08:47.04,0:08:49.71,Default,,0,0,0,,What do you mean, what are we doing here?
-Dialogue: 10,0:08:50.13,0:08:52.17,Default,,0,0,0,,Why are we at Tokyo Tower?
-Dialogue: 10,0:08:56.01,0:08:58.14,Default,,0,0,0,,Doesn't everyone go to Skytree these days?
-Dialogue: 10,0:08:58.14,0:09:01.64,Default,,0,0,0,,Skytree isn't a tower, yeah? It's a tree.
-Dialogue: 10,0:09:01.64,0:09:02.10,Default,,0,0,0,,Huh?
-Dialogue: 10,0:09:02.43,0:09:04.52,Default,,0,0,0,,Tokyo Tower all the way.
-Dialogue: 10,0:09:04.52,0:09:07.06,Default,,0,0,0,,Its fan-like design is very auspicious.
-Dialogue: 10,0:09:07.06,0:09:09.61,Default,,0,0,0,,Skytree is too skinny.
+Dialogue: 10,0:08:44.00,0:08:44.84,Default,,0,0,0,,Hey.
+Dialogue: 10,0:08:44.84,0:08:47.05,Default,,0,0,0,,What are we doing here?
+Dialogue: 10,0:08:47.05,0:08:49.72,Default,,0,0,0,,What do you mean, what are we doing here?
+Dialogue: 10,0:08:50.13,0:08:52.18,Default,,0,0,0,,Why are we at Tokyo Tower?
+Dialogue: 10,0:08:56.02,0:08:58.14,Default,,0,0,0,,Doesn't everyone go to Skytree these days?
+Dialogue: 10,0:08:58.14,0:09:01.65,Default,,0,0,0,,Skytree isn't a tower, yeah? It's a tree.
+Dialogue: 10,0:09:01.65,0:09:02.10,Default,,0,0,0,,Huh?
+Dialogue: 10,0:09:02.44,0:09:04.52,Default,,0,0,0,,Tokyo Tower all the way.
+Dialogue: 10,0:09:04.52,0:09:07.07,Default,,0,0,0,,Its fan-like design is very auspicious.
+Dialogue: 10,0:09:07.07,0:09:09.61,Default,,0,0,0,,Skytree is too skinny.
 Dialogue: 10,0:09:09.61,0:09:13.03,Default,,0,0,0,,Tokyo Tower is 333 metres tall.
 Dialogue: 10,0:09:13.03,0:09:15.24,Default,,0,0,0,,Isn't that a beautiful number?
-Dialogue: 10,0:09:15.24,0:09:18.57,Default,,0,0,0,,By comparison, Tokyo Skytree is 634 metres.
-Dialogue: 10,0:09:18.57,0:09:21.79,Default,,0,0,0,,{\q2}Are they trying to make it sound like "Musashi"? \NWhere's Kojirou's tower then?
-Dialogue: 9,0:09:18.57,0:09:24.12,Alt,,0,0,0,,{\an7\pos(50,28)\fs48\shad0}Note:
-Dialogue: 9,0:09:18.57,0:09:24.12,Alt,,0,0,0,,{\an7\pos(50,78)\fs44\bord4\shad0\q2}The Japanese numbers 634 can be pronounced \Nlike the name of the famous swordsman "Musashi". \NKojirou is another swordsman who was famously \Ndefeated by Musashi.
-Dialogue: 10,0:09:21.79,0:09:24.12,Default,,0,0,0,,They should have just gone for 666.
-Dialogue: 10,0:09:24.12,0:09:25.96,Default,,0,0,0,,That's the mark of the devil!
-Dialogue: 10,0:09:26.33,0:09:30.84,Default,,0,0,0,,{\q2}Tokyo Tower's major shareholders are \Nthe Toei film company and Mother Farm.
-Dialogue: 10,0:09:31.25,0:09:34.09,Default,,0,0,0,,I prefer Toei because of the film connection.
-Dialogue: 10,0:09:34.09,0:09:38.01,Default,,0,0,0,,Why Mother Farm? Sheep can't climb towers.
-Dialogue: 10,0:09:38.01,0:09:38.72,Default,,0,0,0,,Oh, I got it!
-Dialogue: 10,0:09:38.72,0:09:41.68,Default,,0,0,0,,{\q2}When they're lost on the farm, \Nthey can use the tower to guide them home!
-Dialogue: 10,0:09:41.68,0:09:45.60,Default,,0,0,0,,{\q2}Uh, no. Mother Farm's in Chiba. \NYou can't see it from there.
-Dialogue: 10,0:09:45.60,0:09:50.56,Default,,0,0,0,,{\q2}The tower's red and blue mascots, \Nthe Noppons, are brothers. Not lovers.
-Dialogue: 10,0:09:50.56,0:09:52.02,Default,,0,0,0,,Seriously?!
-Dialogue: 10,0:09:52.02,0:09:55.28,Default,,0,0,0,,Whatever. Tree, tower, it doesn't matter.
-Dialogue: 10,0:09:55.28,0:09:58.28,Default,,0,0,0,,You're all forgetting about Tanashi Tower!
-Dialogue: 10,0:10:01.24,0:10:04.87,Default,,0,0,0,,The official name is "Skytower West Tokyo".
-Dialogue: 10,0:10:04.87,0:10:07.83,Default,,0,0,0,,This is their mascot, Sorapon.
-Dialogue: 10,0:10:07.83,0:10:12.25,Default,,0,0,0,,"West Tokyo" is bad enough, but "Skytower"?
-Dialogue: 10,0:10:12.25,0:10:14.51,Default,,0,0,0,,It's like a perfect blend of the other two.
+Dialogue: 10,0:09:15.24,0:09:18.58,Default,,0,0,0,,By comparison, Tokyo Skytree is 634 metres.
+Dialogue: 10,0:09:18.58,0:09:21.79,Default,,0,0,0,,{\q2}Are they trying to make it sound like "Musashi"? \NWhere's Kojirou's tower then?
+Dialogue: 9,0:09:18.58,0:09:24.13,Alt,,0,0,0,,{\an7\pos(50,28)\fs48\shad0}Note:
+Dialogue: 9,0:09:18.58,0:09:24.13,Alt,,0,0,0,,{\an7\pos(50,78)\fs44\bord4\shad0\q2}The Japanese numbers 634 can be pronounced \Nlike the name of the famous swordsman "Musashi". \NKojirou is another swordsman who was famously \Ndefeated by Musashi.
+Dialogue: 10,0:09:21.79,0:09:24.13,Default,,0,0,0,,They should have just gone for 666.
+Dialogue: 10,0:09:24.13,0:09:25.96,Default,,0,0,0,,That's the mark of the devil!
+Dialogue: 10,0:09:26.34,0:09:30.84,Default,,0,0,0,,{\q2}Tokyo Tower's major shareholders are \Nthe Toei film company and Mother Farm.
+Dialogue: 10,0:09:31.26,0:09:34.09,Default,,0,0,0,,I prefer Toei because of the film connection.
+Dialogue: 10,0:09:34.09,0:09:38.02,Default,,0,0,0,,Why Mother Farm? Sheep can't climb towers.
+Dialogue: 10,0:09:38.02,0:09:38.72,Default,,0,0,0,,Oh, I got it!
+Dialogue: 10,0:09:38.72,0:09:41.69,Default,,0,0,0,,{\q2}When they're lost on the farm, \Nthey can use the tower to guide them home!
+Dialogue: 10,0:09:41.69,0:09:45.61,Default,,0,0,0,,{\q2}Uh, no. Mother Farm's in Chiba. \NYou can't see it from there.
+Dialogue: 10,0:09:45.61,0:09:50.57,Default,,0,0,0,,{\q2}The tower's red and blue mascots, \Nthe Noppons, are brothers. Not lovers.
+Dialogue: 10,0:09:50.57,0:09:52.03,Default,,0,0,0,,Seriously?!
+Dialogue: 10,0:09:52.03,0:09:55.28,Default,,0,0,0,,Whatever. Tree, tower, it doesn't matter.
+Dialogue: 10,0:09:55.28,0:09:58.29,Default,,0,0,0,,You're all forgetting about Tanashi Tower!
+Dialogue: 10,0:10:01.25,0:10:04.88,Default,,0,0,0,,The official name is "Skytower West Tokyo".
+Dialogue: 10,0:10:04.88,0:10:07.84,Default,,0,0,0,,This is their mascot, Sorapon.
+Dialogue: 10,0:10:07.84,0:10:12.26,Default,,0,0,0,,"West Tokyo" is bad enough, but "Skytower"?
+Dialogue: 10,0:10:12.26,0:10:14.51,Default,,0,0,0,,It's like a perfect blend of the other two.
 Dialogue: 10,0:10:14.51,0:10:17.68,Default,,0,0,0,,{\q2}Anyway, I don't think there's any need for us \Nto trek out to Skytree or Tanashi Tower.
 Dialogue: 10,0:10:17.68,0:10:21.93,Default,,0,0,0,,Isn't it enough to stand here and take in this scenery?
-Dialogue: 10,0:10:21.93,0:10:26.43,Default,,0,0,0,,{\q2}The view to the north is amazing. \NThe light hits it just right and you can see everything.
-Dialogue: 10,0:10:26.43,0:10:28.44,Default,,0,0,0,,I can see Mt. Fuji!
-Dialogue: 10,0:10:28.73,0:10:30.81,Default,,0,0,0,,That's Haneda Airport to the south.
-Dialogue: 10,0:10:30.81,0:10:35.99,Default,,0,0,0,,Where can see the Rainbow Bridge? West? East?
+Dialogue: 10,0:10:21.93,0:10:26.44,Default,,0,0,0,,{\q2}The view to the north is amazing. \NThe light hits it just right and you can see everything.
+Dialogue: 10,0:10:26.44,0:10:28.44,Default,,0,0,0,,I can see Mt. Fuji!
+Dialogue: 10,0:10:28.73,0:10:30.82,Default,,0,0,0,,That's Haneda Airport to the south.
+Dialogue: 10,0:10:30.82,0:10:35.99,Default,,0,0,0,,Where can see the Rainbow Bridge? West? East?
 Dialogue: 10,0:10:35.99,0:10:39.20,Default,,0,0,0,,Hey. Which do you like better, north or south?
-Dialogue: 10,0:10:39.78,0:10:43.45,Default,,0,0,0,,North. South. Which one is your favourite?
-Dialogue: 10,0:10:43.45,0:10:44.70,Default,,0,0,0,,North, I think.
-Dialogue: 10,0:10:44.70,0:10:47.58,Default,,0,0,0,,Hm, I see. Why is that?
-Dialogue: 10,0:10:48.04,0:10:48.83,Default,,0,0,0,,I just went with my gut.
-Dialogue: 10,0:10:49.25,0:10:50.29,Default,,0,0,0,,Oh?
-Dialogue: 10,0:10:50.29,0:10:54.96,Default,,0,0,0,,That's so vague. It's not really a reason.
-Dialogue: 10,0:10:55.34,0:10:57.13,Default,,0,0,0,,Isn't the south better?
+Dialogue: 10,0:10:39.79,0:10:43.46,Default,,0,0,0,,North. South. Which one is your favourite?
+Dialogue: 10,0:10:43.46,0:10:44.71,Default,,0,0,0,,North, I think.
+Dialogue: 10,0:10:44.71,0:10:47.59,Default,,0,0,0,,Hm, I see. Why is that?
+Dialogue: 10,0:10:48.04,0:10:48.84,Default,,0,0,0,,I just went with my gut.
+Dialogue: 10,0:10:49.25,0:10:50.30,Default,,0,0,0,,Oh?
+Dialogue: 10,0:10:50.30,0:10:54.97,Default,,0,0,0,,That's so vague. It's not really a reason.
+Dialogue: 10,0:10:55.34,0:10:57.14,Default,,0,0,0,,Isn't the south better?
 Dialogue: 10,0:10:57.80,0:10:58.51,Default,,0,0,0,,What are you—
 Dialogue: 10,0:10:58.51,0:11:00.43,Default,,0,0,0,,Are you ready to choose the North?
 Dialogue: 10,0:11:00.43,0:11:02.68,Default,,0,0,0,,Are you prepared to never return to the South?
-Dialogue: 10,0:11:02.68,0:11:04.68,Default,,0,0,0,,You're t-talking about scenery, right?
-Dialogue: 10,0:11:04.68,0:11:06.06,Default,,0,0,0,,Just talking about scenery.
-Dialogue: 10,0:11:06.06,0:11:09.14,Default,,0,0,0,,{\q2}It's kind of hard to keep north, \Nsouth, east, and west straight.
-Dialogue: 10,0:11:09.14,0:11:15.15,Default,,0,0,0,,{\q2}I just remember that north is up, south is down, \Nright is east, and left is west.
-Dialogue: 10,0:11:15.15,0:11:18.61,Default,,0,0,0,,Isn't left versus right just as hard to remember?
-Dialogue: 10,0:11:18.61,0:11:21.95,Default,,0,0,0,,{\q2}Right is the chopstick hand. \NLeft is where I hold my rice bowl.
-Dialogue: 10,0:11:22.49,0:11:25.95,Default,,0,0,0,,Hey. Which do you like better, right or left?
-Dialogue: 10,0:11:26.74,0:11:28.33,Default,,0,0,0,,I don't really know...
-Dialogue: 10,0:11:28.33,0:11:31.79,Default,,0,0,0,,Do you lean to the right? Or the left?
-Dialogue: 10,0:11:31.79,0:11:33.21,Default,,0,0,0,,Neither...
-Dialogue: 10,0:11:33.21,0:11:34.50,Default,,0,0,0,,You prefer the centre?
-Dialogue: 10,0:11:34.50,0:11:36.13,Default,,0,0,0,,Uh... uh...
-Dialogue: 10,0:11:36.13,0:11:36.17,Default,,0,0,0,,{\pos(904,1024)}Uh... uh...
-Dialogue: 10,0:11:36.17,0:11:36.21,Default,,0,0,0,,{\pos(758,1024)}Uh... uh...
-Dialogue: 10,0:11:36.21,0:11:36.25,Default,,0,0,0,,{\pos(541,1024)}Uh... uh...
-Dialogue: 10,0:11:36.25,0:11:36.30,Default,,0,0,0,,{\pos(277,1024)}Uh... uh...
+Dialogue: 10,0:11:02.68,0:11:04.69,Default,,0,0,0,,You're t-talking about scenery, right?
+Dialogue: 10,0:11:04.69,0:11:06.06,Default,,0,0,0,,Just talking about scenery.
+Dialogue: 10,0:11:06.06,0:11:09.15,Default,,0,0,0,,{\q2}It's kind of hard to keep north, \Nsouth, east, and west straight.
+Dialogue: 10,0:11:09.15,0:11:15.15,Default,,0,0,0,,{\q2}I just remember that north is up, south is down, \Nright is east, and left is west.
+Dialogue: 10,0:11:15.15,0:11:18.62,Default,,0,0,0,,Isn't left versus right just as hard to remember?
+Dialogue: 10,0:11:18.62,0:11:21.95,Default,,0,0,0,,{\q2}Right is the chopstick hand. \NLeft is where I hold my rice bowl.
+Dialogue: 10,0:11:22.49,0:11:25.96,Default,,0,0,0,,Hey. Which do you like better, right or left?
+Dialogue: 10,0:11:26.75,0:11:28.33,Default,,0,0,0,,I don't really know...
+Dialogue: 10,0:11:28.33,0:11:31.80,Default,,0,0,0,,Do you lean to the right? Or the left?
+Dialogue: 10,0:11:31.80,0:11:33.21,Default,,0,0,0,,Neither...
+Dialogue: 10,0:11:33.21,0:11:34.51,Default,,0,0,0,,You prefer the centre?
+Dialogue: 10,0:11:34.51,0:11:36.13,Default,,0,0,0,,Uh... uh...
+Dialogue: 10,0:11:36.13,0:11:36.18,Default,,0,0,0,,{\pos(904,1024)}Uh... uh...
+Dialogue: 10,0:11:36.18,0:11:36.22,Default,,0,0,0,,{\pos(758,1024)}Uh... uh...
+Dialogue: 10,0:11:36.22,0:11:36.26,Default,,0,0,0,,{\pos(541,1024)}Uh... uh...
+Dialogue: 10,0:11:36.26,0:11:36.30,Default,,0,0,0,,{\pos(277,1024)}Uh... uh...
 Dialogue: 10,0:11:36.30,0:11:36.34,Default,,0,0,0,,{\pos(-14,1024)}Uh... uh...
-Dialogue: 10,0:11:36.50,0:11:38.71,Default,,0,0,0,,Why don't you tell us which one {\i1}you{\i0} like best?
-Dialogue: 10,0:11:38.71,0:11:41.84,Default,,0,0,0,,Me? I like...
-Dialogue: 10,0:11:42.59,0:11:43.39,Default,,0,0,0,,Down.
-Dialogue: 10,0:11:43.97,0:11:45.97,Default,,0,0,0,,I like looking down.
-Dialogue: 10,0:11:47.89,0:11:50.73,Default,,0,0,0,,L-Look, the Russian Embassy!
+Dialogue: 10,0:11:36.51,0:11:38.72,Default,,0,0,0,,Why don't you tell us which one {\i1}you{\i0} like best?
+Dialogue: 10,0:11:38.72,0:11:41.85,Default,,0,0,0,,Me? I like...
+Dialogue: 10,0:11:42.60,0:11:43.39,Default,,0,0,0,,Down.
+Dialogue: 10,0:11:43.97,0:11:45.98,Default,,0,0,0,,I like looking down.
+Dialogue: 10,0:11:47.90,0:11:50.73,Default,,0,0,0,,L-Look, the Russian Embassy!
 Dialogue: 10,0:11:50.73,0:11:56.65,Default,,0,0,0,,{\q2}The Netherlands, Fiji, Afghanistan... \NThere's a lot of embassies 'round here!
 Dialogue: 10,0:11:56.65,0:12:00.03,Default,,0,0,0,,{\q2}How do you think non-Japanese people \Nremember their left and right?
 Dialogue: 10,0:12:00.95,0:12:03.95,Default,,0,0,0,,Fork side and knife side?
-Dialogue: 10,0:12:04.95,0:12:07.66,Default,,0,0,0,,{\q2}But don't you sometimes switch \Nyour fork to the other hand?
-Dialogue: 10,0:12:08.79,0:12:13.79,Default,,0,0,0,,{\q2}Like when you cut steak up first and then \Nswap your fork to their right hand to eat it.
-Dialogue: 10,0:12:13.79,0:12:15.00,Default,,0,0,0,,And when you eat rice.
-Dialogue: 10,0:12:15.00,0:12:18.59,Default,,0,0,0,,{\q2}By the way, what's up with people \Nwho put rice on the top of their fork?
+Dialogue: 10,0:12:04.95,0:12:07.67,Default,,0,0,0,,{\q2}But don't you sometimes switch \Nyour fork to the other hand?
+Dialogue: 10,0:12:08.79,0:12:13.80,Default,,0,0,0,,{\q2}Like when you cut steak up first and then \Nswap your fork to their right hand to eat it.
+Dialogue: 10,0:12:13.80,0:12:15.01,Default,,0,0,0,,And when you eat rice.
+Dialogue: 10,0:12:15.01,0:12:18.59,Default,,0,0,0,,{\q2}By the way, what's up with people \Nwho put rice on the top of their fork?
 Dialogue: 10,0:12:18.59,0:12:21.01,Default,,0,0,0,,Do you say "top" or "reverse"?
-Dialogue: 10,0:12:21.01,0:12:22.88,Default,,0,0,0,,Do they even eat rice overseas?
-Dialogue: 10,0:12:22.88,0:12:27.43,Default,,0,0,0,,{\q2}I heard it was a holdover from table manners \Nwhen eating boiled beans.
+Dialogue: 10,0:12:21.01,0:12:22.89,Default,,0,0,0,,Do they even eat rice overseas?
+Dialogue: 10,0:12:22.89,0:12:27.43,Default,,0,0,0,,{\q2}I heard it was a holdover from table manners \Nwhen eating boiled beans.
 Dialogue: 10,0:12:27.43,0:12:30.02,Default,,0,0,0,,So it's not wrong per se.
-Dialogue: 10,0:12:30.43,0:12:32.56,Default,,0,0,0,,If you just scoop them up, they fall all over the place,
+Dialogue: 10,0:12:30.44,0:12:32.56,Default,,0,0,0,,If you just scoop them up, they fall all over the place,
 Dialogue: 10,0:12:32.56,0:12:35.73,Default,,0,0,0,,{\q2}so you're meant to help them onto \Nthe back of your fork using your knife.
-Dialogue: 10,0:12:35.73,0:12:37.23,Default,,0,0,0,,Back? Of a fork?
-Dialogue: 10,0:12:37.69,0:12:39.69,Default,,0,0,0,,The raised bit is called the back.
-Dialogue: 10,0:12:39.69,0:12:42.24,Default,,0,0,0,,So the concave bit is the tummy?
-Dialogue: 10,0:12:42.24,0:12:44.11,Default,,0,0,0,,{\q2}You'd expect the bit that \Nsticks out to be the tummy.
-Dialogue: 10,0:12:44.11,0:12:46.53,Default,,0,0,0,,The back sticks out like Peko.
-Dialogue: 10,0:12:46.53,0:12:48.33,Default,,0,0,0,,Peko? The Fujiya mascot?
+Dialogue: 10,0:12:35.73,0:12:37.24,Default,,0,0,0,,Back? Of a fork?
+Dialogue: 10,0:12:37.70,0:12:39.70,Default,,0,0,0,,The raised bit is called the back.
+Dialogue: 10,0:12:39.70,0:12:42.24,Default,,0,0,0,,So the concave bit is the tummy?
+Dialogue: 10,0:12:42.24,0:12:44.12,Default,,0,0,0,,{\q2}You'd expect the bit that \Nsticks out to be the tummy.
+Dialogue: 10,0:12:44.12,0:12:46.54,Default,,0,0,0,,The back sticks out like Peko.
+Dialogue: 10,0:12:46.54,0:12:48.33,Default,,0,0,0,,Peko? The Fujiya mascot?
 Dialogue: 10,0:12:48.62,0:12:51.04,Default,,0,0,0,,Yeah. Her tongue is sticking out.
-Dialogue: 10,0:12:52.41,0:12:53.41,Default,,0,0,0,,So it is.
-Dialogue: 10,0:12:53.41,0:12:56.79,Default,,0,0,0,,When did they get a dog? They're so cheeky.
-Dialogue: 10,0:12:56.79,0:12:59.80,Default,,0,0,0,,Ah, they're just kids. It's fine.
+Dialogue: 10,0:12:52.42,0:12:53.42,Default,,0,0,0,,So it is.
+Dialogue: 10,0:12:53.42,0:12:56.80,Default,,0,0,0,,When did they get a dog? They're so cheeky.
+Dialogue: 10,0:12:56.80,0:12:59.80,Default,,0,0,0,,Ah, they're just kids. It's fine.
 Dialogue: 10,0:13:00.13,0:13:02.05,Default,,0,0,0,,So a fork is the opposite of a kid?
-Dialogue: 10,0:13:03.38,0:13:05.88,Default,,0,0,0,,Because it doesn't stick out where it should.
-Dialogue: 10,0:13:05.88,0:13:07.55,Default,,0,0,0,,Oh, I see what you mean.
-Dialogue: 10,0:13:07.55,0:13:10.64,Default,,0,0,0,,Marii is like a fork, then.
-Dialogue: 10,0:13:10.64,0:13:11.39,Default,,0,0,0,,Oi!
-Dialogue: 10,0:13:11.39,0:13:15.06,Default,,0,0,0,,What's that supposed to mean?!
-Dialogue: 10,0:13:13.48,0:13:15.06,Alt,,0,0,0,,Straight and narrow.
-Dialogue: 10,0:13:15.06,0:13:18.69,Default,,0,0,0,,Oh, I guess you're right. I'm a very honest person.
-Dialogue: 10,0:13:19.40,0:13:21.48,Default,,0,0,0,,Completely straight up and down.
-Dialogue: 10,0:13:22.94,0:13:26.20,Default,,0,0,0,,{\q2}Hold on, are you complimenting \Nor insulting me? I can't tell!
+Dialogue: 10,0:13:03.39,0:13:05.89,Default,,0,0,0,,Because it doesn't stick out where it should.
+Dialogue: 10,0:13:05.89,0:13:07.56,Default,,0,0,0,,Oh, I see what you mean.
+Dialogue: 10,0:13:07.56,0:13:10.64,Default,,0,0,0,,Marii is like a fork, then.
+Dialogue: 10,0:13:10.64,0:13:11.40,Default,,0,0,0,,Oi!
+Dialogue: 10,0:13:11.40,0:13:15.07,Default,,0,0,0,,What's that supposed to mean?!
+Dialogue: 10,0:13:13.48,0:13:15.07,Alt,,0,0,0,,Straight and narrow.
+Dialogue: 10,0:13:15.07,0:13:18.69,Default,,0,0,0,,Oh, I guess you're right. I'm a very honest person.
+Dialogue: 10,0:13:19.40,0:13:21.49,Default,,0,0,0,,Completely straight up and down.
+Dialogue: 10,0:13:22.95,0:13:26.20,Default,,0,0,0,,{\q2}Hold on, are you complimenting \Nor insulting me? I can't tell!
 Dialogue: 10,0:13:26.20,0:13:27.95,Default,,0,0,0,,It really is a lovely view.
-Dialogue: 10,0:13:27.95,0:13:29.45,Default,,0,0,0,,I can see the Imperial Palace!
-Dialogue: 10,0:13:29.45,0:13:30.45,Default,,0,0,0,,Hey!
-Dialogue: 10,0:13:33.50,0:13:36.08,Default,,0,0,0,,"But how did you eat the whole dessert?"
-Dialogue: 10,0:13:36.08,0:13:38.50,Default,,0,0,0,,"It was a piece of cake!"
+Dialogue: 10,0:13:27.95,0:13:29.46,Default,,0,0,0,,I can see the Imperial Palace!
+Dialogue: 10,0:13:29.46,0:13:30.46,Default,,0,0,0,,Hey!
+Dialogue: 10,0:13:33.50,0:13:36.09,Default,,0,0,0,,"But how did you eat the whole dessert?"
+Dialogue: 10,0:13:36.09,0:13:38.51,Default,,0,0,0,,"It was a piece of cake!"
 Dialogue: 10,0:13:39.17,0:13:40.92,Default,,0,0,0,,Thank you for your continued appreciation.
-Dialogue: 10,0:13:46.72,0:13:48.09,Default,,0,0,0,,What are you guys doing?
-Dialogue: 10,0:13:55.85,0:13:57.98,Default,,0,0,0,,I have absolutely {\i1}no{\i0} idea what you're trying to say.
+Dialogue: 10,0:13:46.72,0:13:48.10,Default,,0,0,0,,What are you guys doing?
+Dialogue: 10,0:13:55.86,0:13:57.98,Default,,0,0,0,,I have absolutely {\i1}no{\i0} idea what you're trying to say.
 Dialogue: 10,0:13:57.98,0:13:59.86,Default,,0,0,0,,Can't you tell?
-Dialogue: 10,0:13:59.86,0:14:01.48,Default,,0,0,0,,Don't make us explain such dull things!
-Dialogue: 10,0:14:04.65,0:14:07.82,Default,,0,0,0,,Man, this new type of flu is scary.
-Dialogue: 10,0:14:07.82,0:14:09.28,Default,,0,0,0,,That's true, but hey.
-Dialogue: 10,0:14:09.28,0:14:11.74,Default,,0,0,0,,How long do we get to keep calling it a "new type"?
-Dialogue: 10,0:14:13.20,0:14:15.50,Default,,0,0,0,,It started in winter and it's already summer.
-Dialogue: 10,0:14:15.50,0:14:17.33,Default,,0,0,0,,Are we just going to keep pretending it's new?
-Dialogue: 10,0:14:17.33,0:14:20.25,Default,,0,0,0,,{\q2}If a manga had been out that long \Nand they called it a new release,
-Dialogue: 10,0:14:20.25,0:14:21.42,Default,,0,0,0,,they'd be a laughingstock!
+Dialogue: 10,0:13:59.86,0:14:01.49,Default,,0,0,0,,Don't make us explain such dull things!
+Dialogue: 10,0:14:04.66,0:14:07.83,Default,,0,0,0,,Man, this new type of flu is scary.
+Dialogue: 10,0:14:07.83,0:14:09.29,Default,,0,0,0,,That's true, but hey.
+Dialogue: 10,0:14:09.29,0:14:11.75,Default,,0,0,0,,How long do we get to keep calling it a "new type"?
+Dialogue: 10,0:14:13.21,0:14:15.50,Default,,0,0,0,,It started in winter and it's already summer.
+Dialogue: 10,0:14:15.50,0:14:17.34,Default,,0,0,0,,Are we just going to keep pretending it's new?
+Dialogue: 10,0:14:17.34,0:14:20.26,Default,,0,0,0,,{\q2}If a manga had been out that long \Nand they called it a new release,
+Dialogue: 10,0:14:20.26,0:14:21.42,Default,,0,0,0,,they'd be a laughingstock!
 Dialogue: 10,0:14:21.42,0:14:23.30,Default,,0,0,0,,{\q2}A Shounen Jump series \Nwould already be finished by now!
 Dialogue: 10,0:14:23.30,0:14:26.97,Default,,0,0,0,,{\q2}If it was an anime, the first cour would be over \Nand the DVD would already have come out!
 Dialogue: 10,0:14:26.97,0:14:29.22,Default,,0,0,0,,{\q2}Worst-case, everyone would have \Nalready forgotten about it!
 Dialogue: 10,0:14:29.72,0:14:31.85,Default,,0,0,0,,Just accept that nobody's buying it!
 Dialogue: 10,0:14:31.85,0:14:33.35,Default,,0,0,0,,First impressions are everything!
 Dialogue: 10,0:14:33.35,0:14:34.85,Default,,0,0,0,,Your numbers aren't going to improve!
-Dialogue: 10,0:14:37.35,0:14:41.31,Default,,0,0,0,,I'm going to try something.
-Dialogue: 10,0:14:44.40,0:14:45.69,Default,,0,0,0,,One moment, please.
-Dialogue: 10,0:14:50.49,0:14:52.03,Default,,0,0,0,,I'm New-Type Kukuru!
-Dialogue: 10,0:14:53.49,0:14:55.24,Default,,0,0,0,,The new me!
-Dialogue: 10,0:14:55.24,0:14:58.12,Default,,0,0,0,,What exactly do you mean by "new type"?
-Dialogue: 10,0:15:00.17,0:15:01.08,Default,,0,0,0,,Uh, well...
-Dialogue: 10,0:15:01.08,0:15:03.96,Default,,0,0,0,,She now emits pleasing scents from her nipples!
-Dialogue: 10,0:15:03.96,0:15:04.92,Default,,0,0,0,,What?
-Dialogue: 10,0:15:05.00,0:15:08.63,Default,,0,0,0,,{\alphaH&FF&\t(0,200,\alphaH&00&\3a&HA0&)}Just give the screen a rub here.
-Dialogue: 10,0:15:08.63,0:15:09.93,Default,,0,0,0,,It smells great!
-Dialogue: 10,0:15:09.93,0:15:11.59,Default,,0,0,0,,Friendship perks?
-Dialogue: 10,0:15:11.59,0:15:14.76,Default,,0,0,0,,Rubbing nipples has nothing to do with being friends.
-Dialogue: 10,0:15:14.76,0:15:18.77,Default,,0,0,0,,It sounds more like that John Waters film "Polyester".
+Dialogue: 10,0:14:37.36,0:14:41.32,Default,,0,0,0,,I'm going to try something.
+Dialogue: 10,0:14:44.40,0:14:45.70,Default,,0,0,0,,One moment, please.
+Dialogue: 10,0:14:50.49,0:14:52.04,Default,,0,0,0,,I'm New-Type Kukuru!
+Dialogue: 10,0:14:53.50,0:14:55.25,Default,,0,0,0,,The new me!
+Dialogue: 10,0:14:55.25,0:14:58.13,Default,,0,0,0,,What exactly do you mean by "new type"?
+Dialogue: 10,0:15:00.17,0:15:01.09,Default,,0,0,0,,Uh, well...
+Dialogue: 10,0:15:01.09,0:15:03.97,Default,,0,0,0,,She now emits pleasing scents from her nipples!
+Dialogue: 10,0:15:03.97,0:15:04.93,Default,,0,0,0,,What?
+Dialogue: 10,0:15:05.01,0:15:08.64,Default,,0,0,0,,{\alphaH&FF&\t(0,200,\alphaH&00&\3a&HA0&)}Just give the screen a rub here.
+Dialogue: 10,0:15:08.64,0:15:09.93,Default,,0,0,0,,It smells great!
+Dialogue: 10,0:15:09.93,0:15:11.60,Default,,0,0,0,,Friendship perks?
+Dialogue: 10,0:15:11.60,0:15:14.77,Default,,0,0,0,,Rubbing nipples has nothing to do with being friends.
+Dialogue: 10,0:15:14.77,0:15:18.77,Default,,0,0,0,,It sounds more like that John Waters film "Polyester".
 Dialogue: 10,0:15:18.77,0:15:20.73,Default,,0,0,0,,Looks like you've been rubbed already.
 Dialogue: 10,0:15:21.48,0:15:23.40,Default,,0,0,0,,Who's been rubbing Kukuru?
-Dialogue: 10,0:15:23.40,0:15:24.31,Default,,0,0,0,,Show yourself, culprit!
-Dialogue: 10,0:15:24.31,0:15:27.53,Default,,0,0,0,,{\q2}Anyway, what's the difference \Nbetween "new type" and "old type"?
-Dialogue: 10,0:15:27.53,0:15:33.07,Default,,0,0,0,,{\q2}Sometimes they change nothing but \Nthe packaging, then slap a "new" label on it.
-Dialogue: 10,0:15:33.07,0:15:33.99,Default,,0,0,0,,They do?
-Dialogue: 10,0:15:33.99,0:15:36.62,Default,,0,0,0,,Sometimes they bring on substitute idol group members
-Dialogue: 10,0:15:36.62,0:15:40.12,Default,,0,0,0,,and tout the performance as a whole new cast.
-Dialogue: 10,0:15:40.12,0:15:40.87,Default,,0,0,0,,They do!
-Dialogue: 10,0:15:41.75,0:15:43.83,Default,,0,0,0,,Old types are heavy.
-Dialogue: 10,0:15:43.83,0:15:46.25,Default,,0,0,0,,They don't even have cameras and stuff.
-Dialogue: 10,0:15:46.25,0:15:49.67,Default,,0,0,0,,Wait. Do you really need there to be a camera?
-Dialogue: 10,0:15:51.55,0:15:52.80,Default,,0,0,0,,Not really, I guess!
-Dialogue: 10,0:15:52.80,0:15:56.39,Default,,0,0,0,,You don't meet celebs in town that often.
-Dialogue: 10,0:15:56.39,0:16:00.10,Default,,0,0,0,,{\q2}There's no need to keep people \Nupdated on your every movement.
-Dialogue: 10,0:16:00.10,0:16:01.73,Default,,0,0,0,,Pay with cash.
-Dialogue: 10,0:16:01.73,0:16:04.52,Default,,0,0,0,,A wallet is a wallet, a phone is a phone.
-Dialogue: 10,0:16:05.48,0:16:07.73,Default,,0,0,0,,Do we even need new types of things?
-Dialogue: 10,0:16:07.73,0:16:08.82,Default,,0,0,0,,Nope!
-Dialogue: 10,0:16:11.07,0:16:12.57,Default,,0,0,0,,What were we talking about again?
-Dialogue: 10,0:16:12.57,0:16:15.41,Default,,0,0,0,,New type, old type... Maybe it doesn't really matter.
-Dialogue: 10,0:16:15.41,0:16:18.70,Default,,0,0,0,,Yeah. We probably shouldn't be getting so worked up.
-Dialogue: 10,0:16:18.70,0:16:23.04,Default,,0,0,0,,There are people laid up in bed with the flu right now.
-Dialogue: 10,0:16:23.04,0:16:25.29,Default,,0,0,0,,Yep, we should be trying not to catch it.
-Dialogue: 10,0:16:25.29,0:16:27.54,Default,,0,0,0,,Is everyone vaccinated?
-Dialogue: 10,0:16:27.54,0:16:30.92,Default,,0,0,0,,Not yet. We're not that high a priority.
-Dialogue: 10,0:16:30.92,0:16:32.88,Default,,0,0,0,,Is there an order?
+Dialogue: 10,0:15:23.40,0:15:24.32,Default,,0,0,0,,Show yourself, culprit!
+Dialogue: 10,0:15:24.32,0:15:27.53,Default,,0,0,0,,{\q2}Anyway, what's the difference \Nbetween "new type" and "old type"?
+Dialogue: 10,0:15:27.53,0:15:33.08,Default,,0,0,0,,{\q2}Sometimes they change nothing but \Nthe packaging, then slap a "new" label on it.
+Dialogue: 10,0:15:33.08,0:15:34.00,Default,,0,0,0,,They do?
+Dialogue: 10,0:15:34.00,0:15:36.62,Default,,0,0,0,,Sometimes they bring on substitute idol group members
+Dialogue: 10,0:15:36.62,0:15:40.13,Default,,0,0,0,,and tout the performance as a whole new cast.
+Dialogue: 10,0:15:40.13,0:15:40.88,Default,,0,0,0,,They do!
+Dialogue: 10,0:15:41.75,0:15:43.84,Default,,0,0,0,,Old types are heavy.
+Dialogue: 10,0:15:43.84,0:15:46.26,Default,,0,0,0,,They don't even have cameras and stuff.
+Dialogue: 10,0:15:46.26,0:15:49.68,Default,,0,0,0,,Wait. Do you really need there to be a camera?
+Dialogue: 10,0:15:51.56,0:15:52.81,Default,,0,0,0,,Not really, I guess!
+Dialogue: 10,0:15:52.81,0:15:56.39,Default,,0,0,0,,You don't meet celebs in town that often.
+Dialogue: 10,0:15:56.39,0:16:00.11,Default,,0,0,0,,{\q2}There's no need to keep people \Nupdated on your every movement.
+Dialogue: 10,0:16:00.11,0:16:01.73,Default,,0,0,0,,Pay with cash.
+Dialogue: 10,0:16:01.73,0:16:04.53,Default,,0,0,0,,A wallet is a wallet, a phone is a phone.
+Dialogue: 10,0:16:05.49,0:16:07.74,Default,,0,0,0,,Do we even need new types of things?
+Dialogue: 10,0:16:07.74,0:16:08.82,Default,,0,0,0,,Nope!
+Dialogue: 10,0:16:11.07,0:16:12.58,Default,,0,0,0,,What were we talking about again?
+Dialogue: 10,0:16:12.58,0:16:15.41,Default,,0,0,0,,New type, old type... Maybe it doesn't really matter.
+Dialogue: 10,0:16:15.41,0:16:18.71,Default,,0,0,0,,Yeah. We probably shouldn't be getting so worked up.
+Dialogue: 10,0:16:18.71,0:16:23.05,Default,,0,0,0,,There are people laid up in bed with the flu right now.
+Dialogue: 10,0:16:23.05,0:16:25.30,Default,,0,0,0,,Yep, we should be trying not to catch it.
+Dialogue: 10,0:16:25.30,0:16:27.55,Default,,0,0,0,,Is everyone vaccinated?
+Dialogue: 10,0:16:27.55,0:16:30.93,Default,,0,0,0,,Not yet. We're not that high a priority.
+Dialogue: 10,0:16:30.93,0:16:32.89,Default,,0,0,0,,Is there an order?
 Dialogue: 10,0:16:33.22,0:16:34.22,Default,,0,0,0,,Let's see...
-Dialogue: 10,0:16:34.51,0:16:37.05,Default,,0,0,0,,Doctors are the first priority, I think.
-Dialogue: 10,0:16:37.55,0:16:40.52,Default,,0,0,0,,Yeah, they're the first line of defence against infection.
+Dialogue: 10,0:16:34.51,0:16:37.06,Default,,0,0,0,,Doctors are the first priority, I think.
+Dialogue: 10,0:16:37.56,0:16:40.52,Default,,0,0,0,,Yeah, they're the first line of defence against infection.
 Comment: 9,0:16:40.52,0:16:43.19,Alt,,0,0,0,,{\an7\pos(50,28)\fs48\shad0}Note: An inventor.
 Dialogue: 10,0:16:40.52,0:16:43.19,Default,,0,0,0,,Wait. Does that include Dr. N*k*m*tsu?
-Comment: 9,0:16:43.19,0:16:45.77,Alt,,0,0,0,,{\an7\pos(50,28)\fs48\shad0}Note: A plastic surgeon.
-Dialogue: 10,0:16:43.19,0:16:45.77,Default,,0,0,0,,What about Dr. T*k*su?
-Comment: 9,0:16:45.77,0:16:47.06,Alt,,0,0,0,,{\an7\pos(50,28)\fs48\shad0}Note: A psychiatrist.
-Dialogue: 10,0:16:45.77,0:16:47.06,Default,,0,0,0,,Or Dr. K*y*m*?
-Dialogue: 10,0:16:48.52,0:16:52.95,Default,,0,0,0,,{\q2}We probably come after Dr. Zhivago, \NDr. No and Dr. Moreau...
+Comment: 9,0:16:43.19,0:16:45.78,Alt,,0,0,0,,{\an7\pos(50,28)\fs48\shad0}Note: A plastic surgeon.
+Dialogue: 10,0:16:43.19,0:16:45.78,Default,,0,0,0,,What about Dr. T*k*su?
+Comment: 9,0:16:45.78,0:16:47.07,Alt,,0,0,0,,{\an7\pos(50,28)\fs48\shad0}Note: A psychiatrist.
+Dialogue: 10,0:16:45.78,0:16:47.07,Default,,0,0,0,,Or Dr. K*y*m*?
+Dialogue: 10,0:16:48.53,0:16:52.95,Default,,0,0,0,,{\q2}We probably come after Dr. Zhivago, \NDr. No and Dr. Moreau...
 Dialogue: 10,0:16:52.95,0:16:58.08,Default,,0,0,0,,{\q2}No, this is only for proper doctors \Nwho deal directly with the flu.
-Dialogue: 10,0:16:58.08,0:17:02.16,Default,,0,0,0,,{\q2}Does that mean that Bl*ck J*ck won't \Nget vaccinated because he's not licenced?
-Dialogue: 10,0:17:02.16,0:17:04.50,Default,,0,0,0,,He's the one most likely to cure the outbreak!
+Dialogue: 10,0:16:58.08,0:17:02.17,Default,,0,0,0,,{\q2}Does that mean that Bl*ck J*ck won't \Nget vaccinated because he's not licenced?
+Dialogue: 10,0:17:02.17,0:17:04.50,Default,,0,0,0,,He's the one most likely to cure the outbreak!
 Dialogue: 10,0:17:04.50,0:17:07.67,Default,,0,0,0,,{\q2}No. For one thing, it'd be expensive. \NSecondly, he's not real.
 Dialogue: 10,0:17:07.67,0:17:13.55,Default,,0,0,0,,{\q2}But there must be people who aren't doctors \Nwho've taken the vaccination drugs.
-Comment: 9,0:17:13.55,0:17:22.72,Alt,,0,0,0,,{\an7\pos(50,28)\fs48\shad0}Note: Japanese celebs with widely rumoured drug problems.
+Comment: 9,0:17:13.55,0:17:22.73,Alt,,0,0,0,,{\an7\pos(50,28)\fs48\shad0}Note: Japanese celebs with widely rumoured drug problems.
 Dialogue: 10,0:17:13.55,0:17:17.14,Default,,0,0,0,,N*ri-P definitely took the drugs!
 Dialogue: 10,0:17:17.14,0:17:19.89,Default,,0,0,0,,M*rcy definitely took the drugs!
-Dialogue: 10,0:17:19.89,0:17:22.72,Default,,0,0,0,,Osh*o M*n*bu probably injected them with the drugs!
-Dialogue: 10,0:17:22.72,0:17:24.14,Default,,0,0,0,,I think it was a pill.
-Dialogue: 10,0:17:24.14,0:17:29.15,Default,,0,0,0,,{\q2}Celebrities probably have secret ways to \Nget priority vaccinations, but I suppose we're out of luck.
+Dialogue: 10,0:17:19.89,0:17:22.73,Default,,0,0,0,,Osh*o M*n*bu probably injected them with the drugs!
+Dialogue: 10,0:17:22.73,0:17:24.15,Default,,0,0,0,,I think it was a pill.
+Dialogue: 10,0:17:24.15,0:17:29.15,Default,,0,0,0,,{\q2}Celebrities probably have secret ways to \Nget priority vaccinations, but I suppose we're out of luck.
 Dialogue: 10,0:17:29.15,0:17:32.07,Default,,0,0,0,,We're neither rich nor famous.
-Dialogue: 10,0:17:32.07,0:17:33.86,Default,,0,0,0,,There's one way.
-Dialogue: 10,0:17:34.36,0:17:37.45,Default,,0,0,0,,Next on the list after doctors are...
+Dialogue: 10,0:17:32.07,0:17:33.87,Default,,0,0,0,,There's one way.
+Dialogue: 10,0:17:34.37,0:17:37.45,Default,,0,0,0,,Next on the list after doctors are...
 Dialogue: 10,0:17:37.45,0:17:38.62,Default,,0,0,0,,Pregnant women.
 Dialogue: 10,0:17:38.62,0:17:41.08,Default,,0,0,0,,Ack! You're saying we should get pregnant?
 Dialogue: 10,0:17:41.08,0:17:43.83,Default,,0,0,0,,{\q2}It's the only way to ensure \Nyou get priority vaccinations.
-Dialogue: 10,0:17:43.83,0:17:46.87,Default,,0,0,0,,Kigu, do you know where babies come from?
-Dialogue: 10,0:17:50.17,0:17:52.21,Default,,0,0,0,,{\i1}Th-The pressure...
-Dialogue: 10,0:17:53.88,0:17:58.84,Default,,0,0,0,,{\q2}If you smooch the boy you like, \NMr. Stork brings you a baby!
-Dialogue: 10,0:17:58.84,0:18:01.05,Default,,0,0,0,,That's right, you little cutie-pie.
-Dialogue: 10,0:18:01.05,0:18:03.31,Default,,0,0,0,,It's fine that you don't know.
-Dialogue: 10,0:18:03.93,0:18:07.39,Default,,0,0,0,,{\i1\q2}Tch. I'm getting sick of playing into \Neveryone's expectations of me.
-Dialogue: 10,0:18:07.39,0:18:09.02,Default,,0,0,0,,Hm, but getting pregnant...
-Dialogue: 10,0:18:09.02,0:18:11.36,Default,,0,0,0,,It's not as simple as that.
-Dialogue: 10,0:18:11.77,0:18:13.36,Default,,0,0,0,,There's one way.
-Dialogue: 10,0:18:14.86,0:18:16.90,Default,,0,0,0,,They call it "false pregnancy".
-Dialogue: 10,0:18:16.90,0:18:20.03,Default,,0,0,0,,There's nothing in the rules against false pregnancy!
-Dialogue: 10,0:18:20.03,0:18:22.99,Default,,0,0,0,,Virtual or real, it's pregnancy just the same!
-Dialogue: 10,0:18:22.99,0:18:24.62,Default,,0,0,0,,It's a loophole in the law!
-Dialogue: 10,0:18:25.16,0:18:27.37,Default,,0,0,0,,Okay, time to visualise it.
-Dialogue: 10,0:18:27.37,0:18:28.71,Default,,0,0,0,,Imagine...
-Dialogue: 10,0:18:28.71,0:18:30.54,Default,,0,0,0,,Contemplate the mysteries of life.
-Dialogue: 10,0:18:30.54,0:18:32.34,Default,,0,0,0,,The path of evolution.
-Dialogue: 10,0:18:33.21,0:18:34.67,Default,,0,0,0,,Look at that smile...
-Dialogue: 10,0:18:34.67,0:18:36.72,Default,,0,0,0,,What are you imagining, you weirdo?
+Dialogue: 10,0:17:43.83,0:17:46.88,Default,,0,0,0,,Kigu, do you know where babies come from?
+Dialogue: 10,0:17:50.17,0:17:52.22,Default,,0,0,0,,{\i1}Th-The pressure...
+Dialogue: 10,0:17:53.89,0:17:58.85,Default,,0,0,0,,{\q2}If you smooch the boy you like, \NMr. Stork brings you a baby!
+Dialogue: 10,0:17:58.85,0:18:01.06,Default,,0,0,0,,That's right, you little cutie-pie.
+Dialogue: 10,0:18:01.06,0:18:03.31,Default,,0,0,0,,It's fine that you don't know.
+Dialogue: 10,0:18:03.94,0:18:07.40,Default,,0,0,0,,{\i1\q2}Tch. I'm getting sick of playing into \Neveryone's expectations of me.
+Dialogue: 10,0:18:07.40,0:18:09.03,Default,,0,0,0,,Hm, but getting pregnant...
+Dialogue: 10,0:18:09.03,0:18:11.36,Default,,0,0,0,,It's not as simple as that.
+Dialogue: 10,0:18:11.78,0:18:13.36,Default,,0,0,0,,There's one way.
+Dialogue: 10,0:18:14.87,0:18:16.91,Default,,0,0,0,,They call it "false pregnancy".
+Dialogue: 10,0:18:16.91,0:18:20.04,Default,,0,0,0,,There's nothing in the rules against false pregnancy!
+Dialogue: 10,0:18:20.04,0:18:23.00,Default,,0,0,0,,Virtual or real, it's pregnancy just the same!
+Dialogue: 10,0:18:23.00,0:18:24.62,Default,,0,0,0,,It's a loophole in the law!
+Dialogue: 10,0:18:25.17,0:18:27.38,Default,,0,0,0,,Okay, time to visualise it.
+Dialogue: 10,0:18:27.38,0:18:28.71,Default,,0,0,0,,Imagine...
+Dialogue: 10,0:18:28.71,0:18:30.55,Default,,0,0,0,,Contemplate the mysteries of life.
+Dialogue: 10,0:18:30.55,0:18:32.34,Default,,0,0,0,,The path of evolution.
+Dialogue: 10,0:18:33.22,0:18:34.68,Default,,0,0,0,,Look at that smile...
+Dialogue: 10,0:18:34.68,0:18:36.72,Default,,0,0,0,,What are you imagining, you weirdo?
 Dialogue: 10,0:18:36.72,0:18:39.93,Default,,0,0,0,,{\q2}H-Hey! I wasn't thinking about \Nthe process or anything of the kind!
-Dialogue: 10,0:18:39.93,0:18:41.30,Default,,0,0,0,,She definitely was.
+Dialogue: 10,0:18:39.93,0:18:41.31,Default,,0,0,0,,She definitely was.
 Dialogue: 10,0:18:42.68,0:18:44.94,Default,,0,0,0,,It's no use! False pregnancy isn't going to work.
-Dialogue: 10,0:18:44.94,0:18:46.39,Default,,0,0,0,,I can't imagine it at all!
-Dialogue: 10,0:18:46.39,0:18:49.02,Default,,0,0,0,,Why don't you start with a false relationship?
-Dialogue: 10,0:18:49.02,0:18:50.85,Default,,0,0,0,,Start with your first meeting.
-Dialogue: 10,0:18:50.85,0:18:52.69,Default,,0,0,0,,It's at a group blind date.
-Dialogue: 10,0:18:54.73,0:18:57.57,Default,,0,0,0,,He asks you to meet up with him one-on-one.
-Dialogue: 10,0:18:58.86,0:18:59.86,Default,,0,0,0,,And then?
-Dialogue: 10,0:19:00.16,0:19:01.74,Default,,0,0,0,,Your relationship grows!
-Dialogue: 10,0:19:01.74,0:19:03.49,Default,,0,0,0,,Ah, we're fighting!
-Dialogue: 10,0:19:03.49,0:19:05.74,Default,,0,0,0,,{\q2}He won't put the toilet seat down \Nwhen he's done using it!
-Dialogue: 10,0:19:05.74,0:19:07.20,Default,,0,0,0,,But you make up—
-Dialogue: 10,0:19:07.20,0:19:08.33,Default,,0,0,0,,We're fighting again!
-Dialogue: 10,0:19:08.33,0:19:11.04,Default,,0,0,0,,He's throwing an ashtray against the wall!
-Dialogue: 10,0:19:11.04,0:19:12.71,Default,,0,0,0,,But you make up again!
+Dialogue: 10,0:18:44.94,0:18:46.40,Default,,0,0,0,,I can't imagine it at all!
+Dialogue: 10,0:18:46.40,0:18:49.02,Default,,0,0,0,,Why don't you start with a false relationship?
+Dialogue: 10,0:18:49.02,0:18:50.86,Default,,0,0,0,,Start with your first meeting.
+Dialogue: 10,0:18:50.86,0:18:52.69,Default,,0,0,0,,It's at a group blind date.
+Dialogue: 10,0:18:54.74,0:18:57.57,Default,,0,0,0,,He asks you to meet up with him one-on-one.
+Dialogue: 10,0:18:58.87,0:18:59.87,Default,,0,0,0,,And then?
+Dialogue: 10,0:19:00.16,0:19:01.75,Default,,0,0,0,,Your relationship grows!
+Dialogue: 10,0:19:01.75,0:19:03.50,Default,,0,0,0,,Ah, we're fighting!
+Dialogue: 10,0:19:03.50,0:19:05.75,Default,,0,0,0,,{\q2}He won't put the toilet seat down \Nwhen he's done using it!
+Dialogue: 10,0:19:05.75,0:19:07.21,Default,,0,0,0,,But you make up—
+Dialogue: 10,0:19:07.21,0:19:08.34,Default,,0,0,0,,We're fighting again!
+Dialogue: 10,0:19:08.34,0:19:11.05,Default,,0,0,0,,He's throwing an ashtray against the wall!
+Dialogue: 10,0:19:11.05,0:19:12.71,Default,,0,0,0,,But you make up again!
 Dialogue: 10,0:19:12.71,0:19:15.59,Default,,0,0,0,,He confides in one of his female friends...
-Dialogue: 10,0:19:18.22,0:19:22.05,Default,,0,0,0,,{\q2}Next thing I know, he's telling me \N"You'll be all right on your own"!
-Dialogue: 10,0:19:22.05,0:19:24.89,Default,,0,0,0,,This is all so sudden! I'm so hurt!
-Dialogue: 10,0:19:25.60,0:19:27.39,Default,,0,0,0,,Self-inflicted wounds.
-Dialogue: 10,0:19:27.39,0:19:28.27,Default,,0,0,0,,Um...
-Dialogue: 10,0:19:35.52,0:19:37.53,Default,,0,0,0,,Uh, um...
+Dialogue: 10,0:19:18.22,0:19:22.06,Default,,0,0,0,,{\q2}Next thing I know, he's telling me \N"You'll be all right on your own"!
+Dialogue: 10,0:19:22.06,0:19:24.89,Default,,0,0,0,,This is all so sudden! I'm so hurt!
+Dialogue: 10,0:19:25.60,0:19:27.40,Default,,0,0,0,,Self-inflicted wounds.
+Dialogue: 10,0:19:27.40,0:19:28.27,Default,,0,0,0,,Um...
+Dialogue: 10,0:19:35.53,0:19:37.53,Default,,0,0,0,,Uh, um...
 Dialogue: 10,0:19:37.86,0:19:40.74,Default,,0,0,0,,She's completely shut out all noise.
 Dialogue: 10,0:19:40.74,0:19:43.20,Default,,0,0,0,,She's floating on a sea of imagination...
-Dialogue: 10,0:19:43.20,0:19:44.95,Default,,0,0,0,,She's literally floating!
-Dialogue: 10,0:19:49.45,0:19:50.41,Default,,0,0,0,,Morning sickness?!
-Dialogue: 10,0:19:50.41,0:19:51.79,Default,,0,0,0,,I'm craving something spicy!
-Dialogue: 10,0:19:51.79,0:19:52.33,Default,,0,0,0,,Sure thing!
-Dialogue: 10,0:19:54.50,0:19:56.80,Default,,0,0,0,,I brought you some curried seafood!
+Dialogue: 10,0:19:43.20,0:19:44.96,Default,,0,0,0,,She's literally floating!
+Dialogue: 10,0:19:49.46,0:19:50.42,Default,,0,0,0,,Morning sickness?!
+Dialogue: 10,0:19:50.42,0:19:51.80,Default,,0,0,0,,I'm craving something spicy!
+Dialogue: 10,0:19:51.80,0:19:52.34,Default,,0,0,0,,Sure thing!
+Dialogue: 10,0:19:54.51,0:19:56.80,Default,,0,0,0,,I brought you some curried seafood!
 Dialogue: 10,0:19:56.80,0:19:57.63,Default,,0,0,0,,That smells gross!
-Dialogue: 10,0:19:58.92,0:20:01.05,Default,,0,0,0,,I bought you something spy-cy!
+Dialogue: 10,0:19:58.93,0:20:01.05,Default,,0,0,0,,I bought you something spy-cy!
 Dialogue: 10,0:20:01.05,0:20:01.76,Default,,0,0,0,,That was terrible.
-Dialogue: 10,0:20:03.39,0:20:05.55,Default,,0,0,0,,I brought you a pile of lemons!
-Dialogue: 10,0:20:05.55,0:20:06.35,Default,,0,0,0,,Just put them down there.
+Dialogue: 10,0:20:03.39,0:20:05.56,Default,,0,0,0,,I brought you a pile of lemons!
+Dialogue: 10,0:20:05.56,0:20:06.35,Default,,0,0,0,,Just put them down there.
 Dialogue: 10,0:20:09.81,0:20:11.06,Default,,0,0,0,,It moved!
-Dialogue: 10,0:20:11.60,0:20:14.10,Default,,0,0,0,,Her mind has complete control over her body.
-Dialogue: 10,0:20:14.10,0:20:15.98,Default,,0,0,0,,Are we sure she's not {\i1}actually{\i0} gonna give birth?
-Dialogue: 10,0:20:16.44,0:20:19.23,Default,,0,0,0,,My stomach somehow feels bigger.
-Dialogue: 10,0:20:19.23,0:20:22.11,Default,,0,0,0,,I think you just ate too much at lunch.
-Dialogue: 10,0:20:22.57,0:20:23.74,Default,,0,0,0,,Music.
+Dialogue: 10,0:20:11.61,0:20:14.11,Default,,0,0,0,,Her mind has complete control over her body.
+Dialogue: 10,0:20:14.11,0:20:15.99,Default,,0,0,0,,Are we sure she's not {\i1}actually{\i0} gonna give birth?
+Dialogue: 10,0:20:16.45,0:20:19.24,Default,,0,0,0,,My stomach somehow feels bigger.
+Dialogue: 10,0:20:19.24,0:20:22.12,Default,,0,0,0,,I think you just ate too much at lunch.
+Dialogue: 10,0:20:22.58,0:20:23.74,Default,,0,0,0,,Music.
 Dialogue: 10,0:20:23.74,0:20:24.70,Default,,0,0,0,,Music?
 Dialogue: 10,0:20:24.70,0:20:25.95,Default,,0,0,0,,Antenatal care?
-Dialogue: 10,0:20:25.95,0:20:27.45,Default,,0,0,0,,Play something suitable!
-Dialogue: 10,0:20:27.45,0:20:28.03,Default,,0,0,0,,Right away!
+Dialogue: 10,0:20:25.95,0:20:27.46,Default,,0,0,0,,Play something suitable!
+Dialogue: 10,0:20:27.46,0:20:28.04,Default,,0,0,0,,Right away!
 Dialogue: 10,0:20:35.13,0:20:37.13,Default,,0,0,0,,{\q2}The foetus doesn't want to \Nlisten to anime trash!
 Dialogue: 10,0:20:37.13,0:20:39.05,Default,,0,0,0,,Who knows what that'll do to it?!
 Dialogue: 10,0:20:40.01,0:20:42.72,Default,,0,0,0,,By the way, I've decided to call her Pree T. Cure.
-Dialogue: 10,0:20:43.09,0:20:44.68,Default,,0,0,0,,Or maybe Milky.
-Dialogue: 10,0:20:44.68,0:20:45.76,Default,,0,0,0,,Or Horizon—
+Dialogue: 10,0:20:43.10,0:20:44.68,Default,,0,0,0,,Or maybe Milky.
+Dialogue: 10,0:20:44.68,0:20:45.77,Default,,0,0,0,,Or Horizon—
 Dialogue: 10,0:20:49.10,0:20:50.31,Default,,0,0,0,,Sh-She's coming!
 Dialogue: 10,0:20:50.31,0:20:51.35,Default,,0,0,0,,I-It's time!
-Dialogue: 10,0:20:51.35,0:20:52.68,Default,,0,0,0,,Fetch some hot water!
-Dialogue: 10,0:20:52.68,0:20:56.35,Default,,0,0,0,,Come on. Why are we going along with this?
-Dialogue: 10,0:20:56.35,0:20:59.86,Default,,0,0,0,,{\q2}How dare you! The mother-to-be \Ncomes before everything!
-Dialogue: 10,0:20:59.86,0:21:02.40,Default,,0,0,0,,{\i1}I mean, that's an admirable sentiment, but—
-Dialogue: 10,0:21:02.40,0:21:04.61,Default,,0,0,0,,{\i1}There's a fundamental flaw.
-Dialogue: 10,0:21:04.61,0:21:06.45,Default,,0,0,0,,{\i1}She's not actually pregnant.
-Dialogue: 10,0:21:07.82,0:21:09.03,Default,,0,0,0,,She's coming...
+Dialogue: 10,0:20:51.35,0:20:52.69,Default,,0,0,0,,Fetch some hot water!
+Dialogue: 10,0:20:52.69,0:20:56.36,Default,,0,0,0,,Come on. Why are we going along with this?
+Dialogue: 10,0:20:56.36,0:20:59.86,Default,,0,0,0,,{\q2}How dare you! The mother-to-be \Ncomes before everything!
+Dialogue: 10,0:20:59.86,0:21:02.41,Default,,0,0,0,,{\i1}I mean, that's an admirable sentiment, but—
+Dialogue: 10,0:21:02.41,0:21:04.62,Default,,0,0,0,,{\i1}There's a fundamental flaw.
+Dialogue: 10,0:21:04.62,0:21:06.45,Default,,0,0,0,,{\i1}She's not actually pregnant.
+Dialogue: 10,0:21:07.83,0:21:09.04,Default,,0,0,0,,She's coming...
 Dialogue: 10,0:21:09.41,0:21:10.79,Default,,0,0,0,,A-Are you okay?
-Dialogue: 10,0:21:12.87,0:21:14.33,Default,,0,0,0,,She passed out.
-Dialogue: 10,0:21:17.83,0:21:19.59,Default,,0,0,0,,Okay, show's over, guys.
+Dialogue: 10,0:21:12.88,0:21:14.34,Default,,0,0,0,,She passed out.
+Dialogue: 10,0:21:17.84,0:21:19.59,Default,,0,0,0,,Okay, show's over, guys.
 Dialogue: 10,0:21:19.59,0:21:20.80,Default,,0,0,0,,Nothing to see here.
 Dialogue: 10,0:21:21.13,0:21:22.84,Default,,0,0,0,,I wonder what was going on.
-Dialogue: 10,0:21:25.84,0:21:27.09,Default,,0,0,0,,Oh, she's awake!
-Dialogue: 10,0:21:27.68,0:21:30.51,Default,,0,0,0,,Where's my baby?!
+Dialogue: 10,0:21:25.85,0:21:27.10,Default,,0,0,0,,Oh, she's awake!
+Dialogue: 10,0:21:27.68,0:21:30.52,Default,,0,0,0,,Where's my baby?!
 Dialogue: 10,0:21:32.35,0:21:38.36,Default,,0,0,0,,Hush little one, go to sleep...
-Dialogue: 10,0:21:39.36,0:21:40.77,Default,,0,0,0,,My baby...
-Dialogue: 10,0:21:43.11,0:21:44.44,Default,,0,0,0,,My baby...
-Dialogue: 10,0:21:46.36,0:21:48.16,Default,,0,0,0,,W-Wait just a sec—
-Dialogue: 10,0:21:54.20,0:21:55.58,Default,,0,0,0,,Pardon me, ladies!
+Dialogue: 10,0:21:39.36,0:21:40.78,Default,,0,0,0,,My baby...
+Dialogue: 10,0:21:43.11,0:21:44.45,Default,,0,0,0,,My baby...
+Dialogue: 10,0:21:46.37,0:21:48.16,Default,,0,0,0,,W-Wait just a sec—
+Dialogue: 10,0:21:54.21,0:21:55.59,Default,,0,0,0,,Pardon me, ladies!
 Dialogue: 10,0:22:02.38,0:22:04.51,Default,,0,0,0,,Well, I guess she got priority treatment in the end.
 Dialogue: 10,0:22:04.80,0:22:07.18,Default,,0,0,0,,I'm not sure it's the kind of treatment she had in mind.
-Dialogue: 10,0:23:40.89,0:23:42.69,Default,,0,0,0,,Kukuru Anrakutei here.
-Dialogue: 10,0:23:42.69,0:23:44.31,Default,,0,0,0,,Today's outlook is:
+Dialogue: 10,0:23:40.90,0:23:42.69,Default,,0,0,0,,Kukuru Anrakutei here.
+Dialogue: 10,0:23:42.69,0:23:44.32,Default,,0,0,0,,Today's outlook is:
 Dialogue: 10,0:23:44.94,0:23:45.86,Default,,0,0,0,,Good.
-Dialogue: 10,0:23:46.15,0:23:50.15,Default,,0,0,0,,So good it might go up in flames.
-Dialogue: 10,0:23:50.57,0:23:53.16,Default,,0,0,0,,I wish everything would just disappear.
-Dialogue: 10,0:23:53.16,0:23:55.53,Default,,0,0,0,,No, I wish I could just disappear.
-Dialogue: 10,0:23:56.08,0:23:58.95,Default,,0,0,0,,Here's the miraculous third episode of Rakugo Girls:
-Dialogue: 10,0:23:58.95,0:24:04.58,Default,,0,0,0,,{\q2}"Bath of Last Resort", "Asakusa Visit", \Nand "A Stroke of Raku".
-Dialogue: 10,0:24:04.58,0:24:07.88,Default,,0,0,0,,Until then, look after your bodies.
-Dialogue: 10,0:24:07.88,0:24:08.92,Default,,0,0,0,,Stay healthy.
+Dialogue: 10,0:23:46.15,0:23:50.16,Default,,0,0,0,,So good it might go up in flames.
+Dialogue: 10,0:23:50.58,0:23:53.16,Default,,0,0,0,,I wish everything would just disappear.
+Dialogue: 10,0:23:53.16,0:23:55.54,Default,,0,0,0,,No, I wish I could just disappear.
+Dialogue: 10,0:23:56.08,0:23:58.96,Default,,0,0,0,,Here's the miraculous third episode of Rakugo Girls:
+Dialogue: 10,0:23:58.96,0:24:04.59,Default,,0,0,0,,{\q2}"Bath of Last Resort", "Asakusa Visit", \Nand "A Stroke of Raku".
+Dialogue: 10,0:24:04.59,0:24:07.88,Default,,0,0,0,,Until then, look after your bodies.
+Dialogue: 10,0:24:07.88,0:24:08.93,Default,,0,0,0,,Stay healthy.
