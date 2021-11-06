@@ -348,7 +348,7 @@ Comment: 0,0:00:17.24,0:00:17.33,ED1,eng tracked,0,0,0,kara,{\pos(629.17,696.667
 Comment: 0,0:00:17.33,0:00:17.41,ED1,eng tracked,0,0,0,kara,{\pos(634.46,696.667)}Like the long-lived king of Paipo, Shuringan
 Comment: 0,0:00:17.41,0:00:17.45,ED1,eng tracked,0,0,0,kara,{\pos(638.96,696.667)}Like the long-lived king of Paipo, Shuringan
 Comment: 0,0:00:17.45,0:00:17.53,ED1,eng tracked,0,0,0,kara,{\pos(649.69,696.667)}Like the long-lived king of Paipo, Shuringan
-Comment: 0,0:00:17.53,0:00:17.96,ED1,eng tracked,0,0,0,kara,{\move(670.95,696.667,1510,696.667,0,400)}Like the long-lived king of Shuringan
+Comment: 0,0:00:17.53,0:00:17.96,ED1,eng tracked,0,0,0,kara,{\move(670.95,696.667,1510,696.667,0,400)}Like the long-lived king of Paipo, Shuringan
 Comment: 0,0:00:14.86,0:00:14.91,ED1,rom tracked,0,0,0,kara,{\pos(640,654.667)\fs34\fs34}paipo paipo paipo no shuringan
 Comment: 0,0:00:14.91,0:00:14.95,ED1,rom tracked,0,0,0,kara,{\pos(636.08,654.667)\fs34\fs34}paipo paipo paipo no shuringan
 Comment: 0,0:00:14.95,0:00:14.99,ED1,rom tracked,0,0,0,kara,{\pos(630.95,654.667)\fs34\fs34}paipo paipo paipo no shuringan
@@ -555,7 +555,7 @@ Comment: 0,0:00:08.86,0:00:10.32,ED1,eng,0,0,0,intro,May great wealth await you 
 Comment: 0,0:00:10.32,0:00:11.87,ED1,eng,0,0,0,intro,Be it on unknown soil or under foreign skies
 Comment: 0,0:00:11.87,0:00:13.33,ED1,eng,0,0,0,intro,May you always have your daily bread!
 Comment: 0,0:00:13.33,0:00:14.87,ED1,eng,0,0,0,intro,And always be brimming full of life
-Comment: 0,0:00:14.87,0:00:17.87,ED1,eng,0,0,0,intro,{\move(640,696.667,1540,696.667,2600,3000)}Like the long-lived king of Shuringan
+Comment: 0,0:00:14.87,0:00:17.87,ED1,eng,0,0,0,intro,{\move(640,696.667,1540,696.667,2600,3000)}Like the long-lived king of Paipo, Shuringan
 Comment: 0,0:00:19.00,0:00:20.83,ED1,eng,0,0,0,intro,{\move(-300,696.667,640,696.667,0,300)}And his dear wife, Gurindai
 Comment: 0,0:00:20.83,0:00:23.00,ED1,eng,0,0,0,intro,And their children, Ponpokoki and Ponpokona
 Comment: 0,0:00:23.00,0:00:25.38,ED1,eng,0,0,0,intro,{\move(640,696.667,696.667,696.667,1980,2380)\fad(0,400)}Who lived a long and blessed life
@@ -1534,9 +1534,9 @@ Dialogue: 0,0:00:17.41,0:00:17.45,ED1,eng tracked,0,0,0,fx,{\pos(638.96,696.667)
 Dialogue: 2,0:00:17.45,0:00:17.53,ED1,eng tracked,0,0,0,fx,{\pos(649.69,696.667)\blur0.65\1a&HFE&\3a&HFE&\xshad0.01}Like the long-lived king of Paipo, Shuringan
 Dialogue: 1,0:00:17.45,0:00:17.53,ED1,eng tracked,0,0,0,fx,{\pos(649.69,696.667)\4c&H000000&\1a&HFE&\3a&HFE&\xshad0.01\bord2\blur0.85}Like the long-lived king of Paipo, Shuringan
 Dialogue: 0,0:00:17.45,0:00:17.53,ED1,eng tracked,0,0,0,fx,{\pos(649.69,696.667)\4a&HA0&\1a&HFE&\3a&HFE&\xshad0.01\bord1\blur6}Like the long-lived king of Paipo, Shuringan
-Dialogue: 2,0:00:17.53,0:00:17.96,ED1,eng tracked,0,0,0,fx,{\move(670.95,696.667,1510,696.667,0,400)\blur0.65\1a&HFE&\3a&HFE&\xshad0.01}Like the long-lived king of Shuringan
-Dialogue: 1,0:00:17.53,0:00:17.96,ED1,eng tracked,0,0,0,fx,{\move(670.95,696.667,1510,696.667,0,400)\4c&H000000&\1a&HFE&\3a&HFE&\xshad0.01\bord2\blur0.85}Like the long-lived king of Shuringan
-Dialogue: 0,0:00:17.53,0:00:17.96,ED1,eng tracked,0,0,0,fx,{\move(670.95,696.667,1510,696.667,0,400)\4a&HA0&\1a&HFE&\3a&HFE&\xshad0.01\bord1\blur6}Like the long-lived king of Shuringan
+Dialogue: 2,0:00:17.53,0:00:17.96,ED1,eng tracked,0,0,0,fx,{\move(670.95,696.667,1510,696.667,0,400)\blur0.65\1a&HFE&\3a&HFE&\xshad0.01}Like the long-lived king of Paipo, Shuringan
+Dialogue: 1,0:00:17.53,0:00:17.96,ED1,eng tracked,0,0,0,fx,{\move(670.95,696.667,1510,696.667,0,400)\4c&H000000&\1a&HFE&\3a&HFE&\xshad0.01\bord2\blur0.85}Like the long-lived king of Paipo, Shuringan
+Dialogue: 0,0:00:17.53,0:00:17.96,ED1,eng tracked,0,0,0,fx,{\move(670.95,696.667,1510,696.667,0,400)\4a&HA0&\1a&HFE&\3a&HFE&\xshad0.01\bord1\blur6}Like the long-lived king of Paipo, Shuringan
 Dialogue: 2,0:00:14.86,0:00:14.91,ED1,rom tracked,0,0,0,fx,{\pos(640,654.667)\blur0.65\1a&HFE&\3a&HFE&\xshad0.01}paipo paipo paipo no shuringan
 Dialogue: 1,0:00:14.86,0:00:14.91,ED1,rom tracked,0,0,0,fx,{\pos(640,654.667)\4c&H000000&\1a&HFE&\3a&HFE&\xshad0.01\bord1.8\blur0.85}paipo paipo paipo no shuringan
 Dialogue: 0,0:00:14.86,0:00:14.91,ED1,rom tracked,0,0,0,fx,{\pos(640,654.667)\4a&HA0&\1a&HFE&\3a&HFE&\xshad0.01\bord0.8\blur6}paipo paipo paipo no shuringan
