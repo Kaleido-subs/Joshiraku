@@ -24,7 +24,13 @@ Style: Alt,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:00:02.73,0:00:02.73,Default,,0,0,0,opsync,{OP}
 Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:08:20.94,0:08:20.94,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:15:43.96,0:15:43.96,Default,chapter,0,0,0,,{Part C}
+Comment: 0,0:22:09.98,0:22:09.98,Default,chapter,0,0,0,,{ED}
+Comment: 0,0:22:35.38,0:22:35.38,Default,,0,0,0,edsync,{ED}
 Dialogue: 10,0:01:30.53,0:01:33.20,Default,,0,0,0,,"Teddy, where were you?"
 Dialogue: 10,0:01:33.48,0:01:36.62,Default,,0,0,0,,"I took a puzzle and I sat on the street waiting for you."
 Dialogue: 10,0:01:36.62,0:01:40.57,Default,,0,0,0,,"What? I told you to wait with the bamboo seller!"
@@ -173,7 +179,6 @@ Dialogue: 10,0:08:09.59,0:08:11.42,Default,,0,0,0,,Fifteen: strontium!
 Dialogue: 10,0:08:11.42,0:08:13.97,Default,,0,0,0,,Sixteen: plutonium!
 Dialogue: 10,0:08:15.30,0:08:17.03,Default,,0,0,0,,{\q2}You wanna see \Nwhat comes after sixteen?
 Dialogue: 10,0:08:17.03,0:08:18.43,Default,,0,0,0,,Please stop...
-Comment: 0,0:08:20.94,0:08:20.94,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:08:27.28,0:08:29.55,Default,,0,0,0,,What are you up to, Marii?
 Dialogue: 10,0:08:30.77,0:08:31.66,Default,,0,0,0,,N-Nothing...
 Dialogue: 10,0:08:31.66,0:08:34.70,Default,,0,0,0,,In you go, then. Into Almond!
@@ -317,7 +322,6 @@ Dialogue: 10,0:15:29.58,0:15:31.03,Default,,0,0,0,,An Ebi** pilgrimage!
 Dialogue: 10,0:15:31.03,0:15:32.68,Default,,0,0,0,,Ah, that building!
 Dialogue: 10,0:15:32.68,0:15:35.49,Default,,0,0,0,,Let's go drink tequila from ashtrays!
 Dialogue: 10,0:15:35.49,0:15:39.58,Default,,0,0,0,,I'm pretty sure we'll become national treasures like him.
-Comment: 0,0:15:43.96,0:15:43.96,Default,chapter,0,0,0,,{Part C}
 Dialogue: 10,0:15:46.56,0:15:50.38,Default,,0,0,0,,"That ninja fella over there looks pretty hot."
 Dialogue: 10,0:15:50.84,0:15:54.97,Default,,0,0,0,,"I went over there just now to ask him somethin'."
 Dialogue: 10,0:15:55.32,0:15:57.19,Default,,0,0,0,,"What didja ask him?"
