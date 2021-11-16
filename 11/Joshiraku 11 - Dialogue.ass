@@ -22,7 +22,13 @@ Style: Alt,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:00:02.73,0:00:02.73,Default,,0,0,0,opsync,{OP}
 Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:07:35.98,0:07:35.98,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:14:43.03,0:14:43.03,Default,chapter,0,0,0,,{Part C}
+Comment: 0,0:22:10.02,0:22:10.02,Default,chapter,0,0,0,,{ED}
+Comment: 0,0:22:35.42,0:22:35.42,Default,,0,0,0,edsync,{ED}
 Dialogue: 10,0:01:30.42,0:01:35.17,Default,,0,0,0,,{\q2}"Y'know, Teddy, did you ever consider \Nthat the reason you're so stupid"
 Dialogue: 10,0:01:35.17,0:01:36.83,Default,,0,0,0,,"is because you go on vacation all the time?"
 Dialogue: 10,0:01:36.83,0:01:41.76,Default,,0,0,0,,{\q2}"Oi, Yassan! I know I ain't the sharpest tool in the shed, \Nbut what's that got to do with vacation?"
@@ -139,7 +145,6 @@ Dialogue: 10,0:07:19.04,0:07:20.17,Default,,0,0,0,,What's that?
 Dialogue: 10,0:07:20.17,0:07:21.42,Default,,0,0,0,,Soapy water.
 Dialogue: 10,0:07:30.97,0:07:32.35,Default,,0,0,0,,Smells of soap bubbles!
 Dialogue: 10,0:07:32.35,0:07:33.47,Default,,0,0,0,,I'll friggin' murder you!
-Comment: 0,0:07:35.98,0:07:35.98,Default,chapter,0,0,0,,{Part B}
 Dialogue: 10,0:07:44.24,0:07:45.91,Default,,0,0,0,,Sorry to keep you waiting, Gan!
 Dialogue: 10,0:07:47.00,0:07:48.53,Default,,0,0,0,,You fell for the trap, right?
 Dialogue: 10,0:07:48.82,0:07:50.99,Default,,0,0,0,,Had fun figuring out the Mitaka express? {OG: The Mitaka Station Trap: waiting for the express train to pass by.}{## Figured I'd make it a bit more playful, since CPS is a bitch}
@@ -301,7 +306,6 @@ Dialogue: 10,0:14:22.88,0:14:27.49,Default,,0,0,0,,{\q2}We owe our existence to 
 Dialogue: 10,0:14:27.49,0:14:30.43,Default,,0,0,0,,{\q2}The reason we're here is \Nto offer them our encouragement!
 Dialogue: 10,0:14:30.72,0:14:34.33,Default,,0,0,0,,{\q2}And if they're up to episode eleven, \Ntheir schedule must be ruthless.
 Dialogue: 10,0:14:36.46,0:14:40.52,Default,,0,0,0,,Please take good care of us.
-Comment: 0,0:14:43.03,0:14:43.03,Default,chapter,0,0,0,,{Part C}
 Dialogue: 10,0:14:43.46,0:14:47.60,Default,,0,0,0,,{\q2}"Ack, carrying that tree \Nreally did a number on my neck."
 Dialogue: 10,0:14:47.60,0:14:51.46,Default,,0,0,0,,{\q2}"Well you know what they say, \NChristmas'll crush muscles!"
 Dialogue: 10,0:14:51.46,0:14:53.97,Default,,0,0,0,,"Lord have mercy on me for that one!"
