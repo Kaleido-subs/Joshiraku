@@ -25,7 +25,7 @@ Style: Alt,LTFinnegan Medium,48,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
-Dialogue: 10,0:01:30.53,0:01:33.20,Default,,0,0,0,,"Kuma, where were you?"
+Dialogue: 10,0:01:30.53,0:01:33.20,Default,,0,0,0,,"Teddy, where were you?"
 Dialogue: 10,0:01:33.48,0:01:36.62,Default,,0,0,0,,"I took a puzzle and I sat on the street waiting for you."
 Dialogue: 10,0:01:36.62,0:01:40.57,Default,,0,0,0,,"What? I told you to wait with the bamboo seller!"
 Dialogue: 10,0:01:40.57,0:01:43.58,Default,,0,0,0,,"Oh, I thought you said 'with a bamboozler'."
