@@ -428,8 +428,22 @@ Dialogue: 0,0:01:29.99,0:01:33.20,Sign,,0,0,0,,{\an7\1c&H98DDED&\p1\pos(-328,-17
 Dialogue: 0,0:01:29.99,0:01:33.20,Sign,,0,0,0,,{\an7\1c&HA2E1F1&\p1\pos(-328,-176)}m 1069.97 553.99 b 1068.28 552.16 1065.92 553.27 1063.93 552.66 1062.6 552.26 1060.4 555.06 1060.02 551.03 1059.89 549.6 1058.06 551.86 1056.87 552.06 1055.05 552.38 1054 556.23 1052.11 554.13 1050.5 552.35 1050.34 548.28 1051.79 546.81 1053.74 544.82 1053.11 543.85 1051.42 542.25 1059.22 543.91 1066.33 544.93 1073.58 543.22 1075.37 542.8 1077.61 544.33 1078.97 541.99 1082.81 542.65 1086.9 542.33 1090.5 542.92 1096.59 543.93 1101.69 548.32 1105.44 553.44 1106.92 555.45 1105.72 558.38 1102.96 557.78 1098.99 556.9 1094.71 558.01 1091.01 555.9 1087.14 553.7 1083.45 556.64 1079.78 556.85 1075.56 557.11 1073.13 555.19 1069.97 553.99{\p0}
 Dialogue: 0,0:01:29.99,0:01:33.20,Sign,,0,0,0,,{\an7\1c&H8DD8EA&\p1\pos(-328,-176)}m 1302.87 467.38 b 1302.36 467.1 1301.53 467.07 1301.67 466.24 1301.71 465.98 1302.4 465.59 1302.68 465.66 1303.06 465.77 1303.46 466.22 1303.62 466.61 1303.83 467.17 1303.51 467.5 1302.87 467.38{\p0}
 Dialogue: 0,0:01:29.99,0:01:33.20,Sign,,0,336,0,,{\blur1\an5\fs55\c&H30464C&\fnGentium\b1\frz10.28\fscx196\fax0.06\fscy193\pos(638.33,341.67)}Happy New Year
-Dialogue: 0,0:02:01.85,0:02:03.85,Sign,,0,323,0,,{\blur0.6\an5\fs55\c&HFEFEFE&\fnAfton\i0\b1\pos(641.5,59.56)}Dreamer's Revenge
-Dialogue: 0,0:09:08.49,0:09:10.49,Sign,,0,438,0,,{\blur0.6\an5\fs55\c&HFEFEFE&\fnAfton\i0\b1\pos(641.5,59.56)}Scary
+Comment: 0,0:06:07.47,0:06:08.05,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Comment: 0,0:06:08.05,0:06:12.26,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Comment: 0,0:06:13.72,0:06:21.94,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Comment: 0,0:06:26.94,0:06:29.95,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Comment: 0,0:06:30.41,0:06:43.96,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Comment: 0,0:06:45.59,0:06:49.01,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Comment: 0,0:06:57.60,0:06:58.02,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Comment: 0,0:07:03.02,0:07:05.94,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Comment: 0,0:07:13.82,0:07:20.54,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Comment: 0,0:07:20.54,0:07:25.42,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Comment: 0,0:07:25.42,0:07:33.14,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Comment: 0,0:07:33.93,0:07:37.39,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Comment: 0,0:07:39.77,0:07:40.35,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Comment: 0,0:07:53.95,0:07:58.66,Sign,TS.ms,0,336,0,,Happy New Year{TS.ms: Missing sign: 賀正}
+Dialogue: 0,0:02:01.85,0:02:03.85,Sign,TS,0,323,0,,{\blur0.6\an5\fs55\c&HFEFEFE&\fnAfton\i0\b1\pos(641.5,59.56)}Dreamer's Revenge{TS: This should follow the masked style of segment title cards in previous episodes.}
+Dialogue: 0,0:09:08.49,0:09:10.49,Sign,TS,0,438,0,,{\blur0.6\an5\fs55\c&HFEFEFE&\fnAfton\i0\b1\pos(641.5,59.56)}Scary{TS: This should follow the masked style of segment title cards in previous episodes.}
 Comment: 0,0:12:39.95,0:12:42.91,Sign,TO DO,0,1,0,,{\pos(102,57)\an7\fs40}Note: A famous nightclub.
 Comment: 0,0:15:47.93,0:15:50.85,Sign,TO DO,0,1,0,,{\pos(102,50)\an7\fs40}Note: A policy whereby the AC is kept above a certain temperature and
 Comment: 0,0:15:47.93,0:15:50.85,Sign,TO DO,0,42,0,,{\pos(192,100)\an7\fs40}employees are allowed to wear short sleeves.
@@ -962,12 +976,12 @@ Dialogue: 0,0:15:47.89,0:15:50.85,Sign,AI Sign,0,0,0,,{\an7\1c&HB8BEC4&\p1\pos(-
 Dialogue: 0,0:15:47.89,0:15:50.85,Sign,AI Sign,0,0,0,,{\an7\1c&HBAC1C7&\p1\pos(-321.6,-180.8)}m 900.55 624.41 b 900.86 624.12 901.15 623.61 901.47 623.59 902.22 623.53 902.7 624.12 902.71 624.81 902.71 625.2 902.26 625.59 902.01 625.98 901.57 625.5 901.12 625.02 900.55 624.41{\p0}
 Dialogue: 0,0:15:47.89,0:15:50.85,Sign,AI Sign,0,0,0,,{\an7\1c&H858B90&\p1\pos(-321.6,-180.8)}m 983 340.06 b 982.28 338.72 979.49 337.39 983 336.06 983 337.39 983 338.72 983 340.06{\p0}
 Dialogue: 0,0:15:47.89,0:15:50.85,Sign,AI Sign,0,0,0,,{\an7\1c&H959BA0&\p1\pos(-321.6,-180.8)}m 962.96 436.1 b 963.22 434.85 962.5 433.46 964.14 432.18 964.31 433.86 964.17 435.06 962.96 436.1{\p0}
-Dialogue: 0,0:15:47.89,0:15:50.85,Sign,,0,310,0,,{\blur0.8\an5\fs48\c&H1B2023&\fn123Marker\b1\frz-0.45\fax0.15\pos(638.33,311.67)}T{\fax0.16}o{\fax0.16} {\fax0.17}s{\fax0.18}a{\fax0.18}v{\fax0.19}e{\fax0.2} {\fax0.2}e{\fax0.21}l{\fax0.22}e{\fax0.22}c{\fax0.23}t{\fax0.23}r{\fax0.24}i{\fax0.25}c{\fax0.25}i{\fax0.26}t{\fax0.27}y{\fax0.27},{\fax0.28}
+Dialogue: 0,0:15:47.89,0:15:50.85,Sign,TS,0,310,0,,{\blur0.8\an5\fs48\c&H1B2023&\fn123Marker\b1\frz-0.45\fax0.15\pos(638.33,311.67)}T{\fax0.16}o{\fax0.16} {\fax0.17}s{\fax0.18}a{\fax0.18}v{\fax0.19}e{\fax0.2} {\fax0.2}e{\fax0.21}l{\fax0.22}e{\fax0.22}c{\fax0.23}t{\fax0.23}r{\fax0.24}i{\fax0.25}c{\fax0.25}i{\fax0.26}t{\fax0.27}y{\fax0.27},{\fax0.28}{TS: These lines look neither centered with each other nor to the paper. To center with the paper, the lines should be shifted slightly to the left.}
 Dialogue: 0,0:15:47.89,0:15:50.85,Sign,,0,310,0,,{\blur0.8\an5\fs48\c&H1B2023&\fn123Marker\b1\frz-0.45\fax0.15\pos(637.33,359.67)}w{\fax0.16}e{\fax0.17}'{\fax0.18}r{\fax0.19}e{\fax0.2} {\fax0.21}d{\fax0.22}r{\fax0.22}e{\fax0.23}s{\fax0.24}s{\fax0.25}i{\fax0.26}n{\fax0.27}g{\fax0.28}
 Dialogue: 0,0:15:47.89,0:15:50.85,Sign,,0,310,0,,{\blur0.8\an5\fs48\c&H1B2023&\fn123Marker\b1\frz-0.45\fax0.15\pos(647.33,407.67)}i{\fax0.16}n{\fax0.16} {\fax0.17}a{\fax0.17}c{\fax0.18}c{\fax0.19}o{\fax0.19}r{\fax0.2}d{\fax0.2}a{\fax0.21}n{\fax0.22}c{\fax0.22}e{\fax0.23} {\fax0.23}w{\fax0.24}i{\fax0.24}t{\fax0.25}h{\fax0.26} {\fax0.26}t{\fax0.27}h{\fax0.27}e{\fax0.28}
 Dialogue: 0,0:15:47.89,0:15:50.85,Sign,,0,310,0,,{\blur0.8\an5\fs48\c&H1B2023&\fn123Marker\b1\frz-0.45\fax0.15\pos(649.33,455.67)}"{\fax0.16}C{\fax0.16}o{\fax0.17}o{\fax0.17}l{\fax0.18} {\fax0.19}B{\fax0.19}i{\fax0.2}z{\fax0.21}"{\fax0.21} {\fax0.22}i{\fax0.22}n{\fax0.23}i{\fax0.24}t{\fax0.24}i{\fax0.25}a{\fax0.26}t{\fax0.26}i{\fax0.27}v{\fax0.27}e{\fax0.28}.
 Comment: 0,0:15:47.89,0:15:50.85,Sign,TO DO,0,310,0,,{\blur0.8\an5\fs48\c&H1B2023&\fn123Marker\b1\pos(592,385)\frz-0.45\clip(m 340 45 l 392 709 812 49 992 713)}To save electricity, \Nwe're dressing \Nin accordance with the \N"Cool Biz" initiative.
-Dialogue: 0,0:16:04.90,0:16:06.90,Sign,,0,349,0,,{\blur0.6\an5\fs55\c&HFEFEFE&\fnAfton\i0\b1\pos(641.5,139.56)}Blue in the Face
+Dialogue: 0,0:16:04.90,0:16:06.90,Sign,TS,0,349,0,,{\blur0.6\an5\fs55\c&HFEFEFE&\fnAfton\i0\b1\pos(641.5,139.56)}Blue in the Face{TS: This should follow the masked style of segment title cards in previous episodes.}
 Dialogue: 0,0:17:08.01,0:17:08.05,Sign,,0,426,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(576,360)\p1\c&HECF0F0&\iclip(m 539 419 b 546 411 551 403 555 397 562 401 567 404 571 408 573 410 574 413 575 415 579 393 581 371 583 350 597 360 611 370 626 375 615 354 604 332 595 311 l 481.14 317.71)}m -39 -12 l 152 -11 151 61 -38 60
 Dialogue: 0,0:17:08.05,0:17:08.09,Sign,,0,426,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(576,360)\p1\c&HECEADA&}m -39 -12 l 152 -11 151 61 -38 60
 Dialogue: 0,0:17:08.09,0:17:08.13,Sign,,0,426,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(576,360)\p1\c&HEDE4C4&}m -39 -12 l 152 -11 151 61 -38 60
@@ -1059,6 +1073,9 @@ Dialogue: 0,0:17:11.64,0:17:11.68,Sign,,0,426,0,,{\an7\blur1\bord0\shad0\fscx100
 Dialogue: 1,0:17:08.01,0:17:11.68,Sign,,0,426,0,,{\an7\fs40\blur1.2\c&HD5DBDE&\fnCallani\pos(581.49,368)\t(20,267,1,\c&H0D1834&)}Cool Biz
 Dialogue: 0,0:17:08.01,0:17:11.68,Sign,,0,426,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(792,362.67)\p1\c&HDAE0FD&\t(20,267,1,\c&H5749DE&)}m -61 -14 l 134 -14 133 59 -63 58 -61 59
 Dialogue: 1,0:17:08.01,0:17:11.68,Sign,,0,426,0,,{\blur1.2\an7\fs40\pos(792,368)\c&HD5DBDE&\fnCallani\t(20,267,1,\c&H0D1834&)}Ninja
+Comment: 0,0:19:17.42,0:19:20.76,Sign,TS.ms,0,426,0,,Clockwise{TS.ms: Missing sign. 時計回り}
+Comment: 0,0:19:17.63,0:19:26.31,Sign,TS.ms,0,426,0,,Special price on tombstones{TS.ms: Missing sign. 墓石特価}
+Comment: 0,0:19:18.92,0:19:26.31,Sign,TS.ms,0,426,0,,Turn back if you value your life{TS.ms: Missing sign. 命がほしくば / 今、来た道を / もどるべし}
 Comment: 0,0:19:46.67,0:19:47.37,Sign,TO DO,0,0,0,,{\pos(640,604)\an5\fs48}No.
 Dialogue: 0,0:21:37.44,0:21:40.11,Sign,,0,362,0,,{\blur0.6\an5\fs45\3c&HC3C6C4&\c&HC3C6C4&\bord2\fnKozuka Mincho Pro H\b0\pos(645.71,90.28)}Toshihiro Miura Born 1970. \NAttended M University. \NA famously shrewd producer
 Dialogue: 1,0:21:37.44,0:21:40.11,Sign,,0,362,0,,{\blur0.6\an5\fs45\c&H000101&\bord0\fnKozuka Mincho Pro H\b0\pos(645.71,90.28)\4a&HFF&}Toshihiro Miura Born 1970. \NAttended M University. \NA famously shrewd producer
