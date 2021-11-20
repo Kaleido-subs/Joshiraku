@@ -47,7 +47,7 @@ Dialogue: 10,0:02:05.31,0:02:08.40,Default,,0,0,0,,Happy new year!
 Dialogue: 10,0:02:08.40,0:02:10.97,Default,,0,0,0,,So, what was everyone's first dream of the year?
 Dialogue: 10,0:02:10.97,0:02:11.89,Default,,0,0,0,,Don't ask such dull—
 Dialogue: 10,0:02:11.89,0:02:13.45,Default,,0,0,0,,Don't ask such horrible questions!
-Dialogue: 10,0:02:13.91,0:02:16.90,Default,ED,0,0,0,,{\q2}I just wanted to say it \Nfor the first time in ages...{ED: Stiff translation.}
+Dialogue: 10,0:02:13.91,0:02:16.90,Default,,0,0,0,,{\q2}I just wanted to relive the good old times, and yet...
 Dialogue: 10,0:02:16.90,0:02:18.30,Default,,0,0,0,,What's horrible about it?
 Dialogue: 10,0:02:18.30,0:02:19.37,Default,,0,0,0,,I haven't had one yet.
 Dialogue: 10,0:02:19.83,0:02:22.04,Default,,0,0,0,,I haven't been able to sleep since New Year's Eve.
@@ -65,20 +65,20 @@ Dialogue: 10,0:02:44.63,0:02:46.62,Default,,0,0,0,,We'll sing you a lullaby.
 Dialogue: 10,0:02:46.62,0:02:56.66,Default,,0,0,0,,Go to sleep... go to sleep...
 Dialogue: 10,0:02:56.66,0:02:58.91,Default,,0,0,0,,I feel like I'm being cursed.
 Dialogue: 10,0:02:58.91,0:03:01.33,Default,,0,0,0,,Sorry! We'll stop.
-Dialogue: 10,0:03:01.33,0:03:02.85,Default,,0,0,0,,This always works!
-Dialogue: 10,0:03:02.85,0:03:05.08,Default,ED,0,0,0,,One sheep, two sheep...{ED: This doesn't really work. We can probably rewrite the joke slightly and make this line use something like "lamb". The next line would say something like "Surely that only works with 'sheep'?". Then the "sheep one, sheep two" would then just be "one sheep, two sheep".}
-Dialogue: 10,0:03:05.35,0:03:07.78,Default,,0,0,0,,Surely that only works in English?
-Dialogue: 10,0:03:07.78,0:03:10.46,Default,,0,0,0,,Because "sheep" and "sleep" sound similar,
-Dialogue: 10,0:03:10.46,0:03:13.42,Default,,0,0,0,,it's like you're hypnotising yourself to sleep.
+Dialogue: 10,0:03:01.33,0:03:02.85,Default,,0,0,0,,Here's a life hack for ya!
+Dialogue: 10,0:03:02.85,0:03:05.08,Default,ED,0,0,0,,You count one lamb, two lambs, three lambs...{ED: This doesn't really work. We can probably rewrite the joke slightly and make this line use something like "lamb". The next line would say something like "Surely that only works with 'sheep'?". Then the "sheep one, sheep two" would then just be "one sheep, two sheep".}{## how's this?}
+Dialogue: 10,0:03:05.35,0:03:07.78,Default,,0,0,0,,Surely "sheep" would work a lot better for that.
+Dialogue: 10,0:03:07.78,0:03:10.46,Default,,0,0,0,,"Sheep" and "sleep" sound very similar,
+Dialogue: 10,0:03:10.46,0:03:13.42,Default,,0,0,0,,so it's like you're hypnotising yourself to sleep.
 Dialogue: 10,0:03:13.42,0:03:16.43,Default,,0,0,0,,Okay then, just say "sheep one, sheep two".
 Dialogue: 10,0:03:16.43,0:03:18.10,Default,,0,0,0,,Shouldn't they be plural?
 Dialogue: 10,0:03:18.10,0:03:19.72,Default,,0,0,0,,What's the plural of sheep?
-Dialogue: 10,0:03:19.72,0:03:22.15,Default,ED,0,0,0,,To make a plural in English, you just add S.{ED: I think the usual way to format the S would be to lowercase and italicize it.}
-Dialogue: 10,0:03:22.15,0:03:24.27,Default,,0,0,0,,The plural of sheep is sheep.
-Dialogue: 10,0:03:24.27,0:03:25.31,Default,,0,0,0,,What?!
+Dialogue: 10,0:03:19.72,0:03:22.15,Default,ED,0,0,0,,{\q2}To make something plural in English, \Nyou just slap on an {\i1}s{\i0}.{ED: I think the usual way to format the S would be to lowercase and italicize it.}{## also slightly rewrote it. Don't think CPS is too bad still?}
+Dialogue: 10,0:03:22.15,0:03:24.27,Default,,0,0,0,,The plural of "sheep" is "sheep".
+Dialogue: 10,0:03:24.27,0:03:25.31,Default,,0,0,0,,What the {\i1}what{\i0}?!
 Dialogue: 10,0:03:25.31,0:03:29.11,Default,,0,0,0,,{\q2}Sheep are treated as a flock, \Nso the noun is uncountable.
 Dialogue: 10,0:03:29.11,0:03:31.11,Default,,0,0,0,,Have they never seen a sheep on its own?
-Dialogue: 10,0:03:31.11,0:03:32.73,Default,,0,0,0,,It's too loud to sleep in here.
+Dialogue: 10,0:03:31.11,0:03:32.73,Default,,0,0,0,,I can't sl{/h}eep with all this noise.
 Dialogue: 10,0:03:32.73,0:03:35.69,Default,,0,0,0,,O-Okay, we'll try to keep it down.
 Dialogue: 10,0:03:54.55,0:03:59.14,Default,,0,0,0,,{\q2}I may not be able to sleep, but I see \Nthat isn't stopping you all from having fun.
 Dialogue: 10,0:03:59.14,0:03:59.92,Default,,0,0,0,,I-I'm sorry...
@@ -89,7 +89,7 @@ Dialogue: 10,0:04:14.64,0:04:17.99,Default,,0,0,0,,{\q2}My father suddenly annou
 Dialogue: 10,0:04:17.99,0:04:20.99,Default,,0,0,0,,{\q2}seemingly convinced he was \Ngoing to be laid off from his company.
 Dialogue: 10,0:04:20.99,0:04:24.01,Default,,0,0,0,,{\q2}My grandmother started wearing more \Nand more make-up, often leaving the house.
 Dialogue: 10,0:04:24.01,0:04:26.82,Default,,0,0,0,,It wasn't uncommon for her to stay out all night.
-Dialogue: 10,0:04:26.82,0:04:30.63,Default,ED,0,0,0,,{\q2}In the end, a white Republican man who claimed to \Nhave been an acquaintance of my mother's{ED: Break before "to".}
+Dialogue: 10,0:04:26.82,0:04:30.63,Default,ED,0,0,0,,{\q2}In the end, a white Republican man who claimed to \Nhave been an acquaintance of my mother's{ED: Break before "to".}{## I think "claimed to" should stay together}
 Dialogue: 10,0:04:30.63,0:04:34.04,Default,,0,0,0,,invited us to go live with him in Oregon.
 Dialogue: 10,0:04:34.04,0:04:37.09,Default,,0,0,0,,The start of the year brings nothing but pain!
 Dialogue: 10,0:04:37.09,0:04:40.15,Default,,0,0,0,,{\q2}I just want to dream! \NIs that so much to ask?
@@ -150,7 +150,7 @@ Dialogue: 10,0:06:58.29,0:06:59.60,Default,,0,0,0,,Four: green pepper!
 Dialogue: 10,0:06:59.60,0:07:00.69,Default,,0,0,0,,Five: carrot!
 Dialogue: 10,0:07:00.69,0:07:01.90,Default,,0,0,0,,Six: broccoli!
 Dialogue: 10,0:07:02.69,0:07:05.78,Default,,0,0,0,,This is just a list of all the veggies you hate!
-Dialogue: 10,0:07:05.78,0:07:07.61,Default,,0,0,0,,Are you a grade schooler?!
+Dialogue: 10,0:07:05.78,0:07:07.61,Default,,0,0,0,,Grow up, you toddler!
 Dialogue: 10,0:07:09.20,0:07:13.83,Default,,0,0,0,,I thought it went fan, tobacco, blind masseur...
 Dialogue: 10,0:07:13.83,0:07:15.50,Default,,0,0,0,,Oh, really?
 Dialogue: 10,0:07:15.50,0:07:20.54,Default,,0,0,0,,{\q2}A fan spreads out wide, and the smoke \Nfrom tobacco rises up like your fortunes.
@@ -164,7 +164,7 @@ Dialogue: 10,0:07:37.70,0:07:39.77,Default,,0,0,0,,Following on from broccoli...
 Dialogue: 10,0:07:43.11,0:07:43.98,Default,,0,0,0,,Seven: chloroplasts!
 Dialogue: 10,0:07:43.98,0:07:44.98,Default,,0,0,0,,Eight: mitochondria!
 Dialogue: 10,0:07:44.98,0:07:45.74,Default,,0,0,0,,Nine: nuclei!
-Dialogue: 10,0:07:45.74,0:07:46.61,Default,,0,0,0,,Ten: Golgi apparatus!
+Dialogue: 10,0:07:45.74,0:07:46.61,Default,,0,0,0,,Ten: golgi apparatus!
 Dialogue: 10,0:07:46.61,0:07:50.36,Default,,0,0,0,,This is so lucky! So lucky!
 Dialogue: 10,0:07:50.36,0:07:51.95,Default,,0,0,0,,This is scary!
 Dialogue: 10,0:07:51.95,0:07:53.95,Default,,0,0,0,,I feel like I'm going to get sick!
@@ -199,7 +199,7 @@ Dialogue: 10,0:09:04.60,0:09:06.03,Default,,0,0,0,,We're all here. Shall we head
 Dialogue: 10,0:09:06.03,0:09:08.49,Default,,0,0,0,,After all that, we're not going in?!
 Dialogue: 10,0:09:11.35,0:09:12.53,Default,,0,0,0,,What's that?!
 Dialogue: 10,0:09:12.53,0:09:13.80,Default,,0,0,0,,It's huge!
-Dialogue: 10,0:09:14.99,0:09:17.41,Default,ED,0,0,0,,Ten meters tall.{ED: Spelling: "metres".}
+Dialogue: 10,0:09:14.99,0:09:17.41,Default,,0,0,0,,Ten metres tall.
 Dialogue: 10,0:09:17.41,0:09:18.25,Default,,0,0,0,,It's a spider?
 Dialogue: 10,0:09:18.25,0:09:19.91,Default,,0,0,0,,She's got a name, you know.
 Dialogue: 10,0:09:19.91,0:09:20.96,Default,,0,0,0,,She does?
@@ -312,7 +312,7 @@ Dialogue: 10,0:14:53.08,0:14:54.50,Default,,0,0,0,,Day Tripper...
 Dialogue: 10,0:14:54.50,0:14:58.86,Default,,0,0,0,,So it was all a bubble-like dream.
 Dialogue: 10,0:14:58.86,0:15:01.97,Default,,0,0,0,,I guess all bubbles have to burst eventually.
 Dialogue: 10,0:15:01.97,0:15:05.15,Default,,0,0,0,,{\q2}Boris Vian, who wrote \N"Froth on the Daydream", once said:
-Dialogue: 10,0:15:05.15,0:15:11.06,Default,ED,0,0,0,,{\q2}"There are only two things: \NLove, all sorts of love, with pretty girls,"{ED: What's the Kaleido stance on using quotation marks when the quote is broken over multiple lines? This is one option. Another option is having no quotatoin marks until the end. Yet another is always starting each line with a quotation mark, but only ending with one at the end.}
+Dialogue: 10,0:15:05.15,0:15:11.06,Default,ED,0,0,0,,{\q2}"There are only two things: \NLove, all sorts of love, with pretty girls,"{ED: What's the Kaleido stance on using quotation marks when the quote is broken over multiple lines? This is one option. Another option is having no quotatoin marks until the end. Yet another is always starting each line with a quotation mark, but only ending with one at the end.}{## Quotation marks on every line. This makes it clear what is and isn't part of a quote, and it's almost always clear enough which goes where either way.}
 Dialogue: 10,0:15:11.06,0:15:17.43,Default,,0,0,0,,{\q2}"and the music of New Orleans or Duke Ellington. \NEverything else ought to go,"
 Dialogue: 10,0:15:17.94,0:15:20.64,Default,,0,0,0,,"because everything else is ugly."
 Dialogue: 10,0:15:23.60,0:15:26.23,Default,,0,0,0,,{\q2}Shall we go on a pilgrimage \Nbefore we head home?
@@ -444,7 +444,7 @@ Dialogue: 10,0:21:24.18,0:21:26.52,Default,,0,0,0,,Maybe we should wear blue kim
 Dialogue: 10,0:21:26.52,0:21:29.18,Default,,0,0,0,,Yes! Everyone wear blue!
 Dialogue: 10,0:21:31.96,0:21:34.61,Default,,0,0,0,,Ooh, this kinda works!
 Dialogue: 10,0:21:34.61,0:21:35.32,Default,,0,0,0,,Right?
-Dialogue: 10,0:21:36.99,0:21:40.11,Default,TS,0,0,0,,{\an8}I just had another great idea!{TS: Dialogue overlaps sign. Consider either repositioning the dialogue, or repositioning the sign by masking the original with a box.}
+Dialogue: 10,0:21:36.99,0:21:40.11,Default,,0,0,0,,{\pos(640,704)}I just had another great idea!
 Dialogue: 10,0:21:43.86,0:21:46.03,Default,,0,0,0,,Ghosts!
 Dialogue: 10,0:21:46.03,0:21:47.91,Default,,0,0,0,,What was that about?
 Dialogue: 10,0:21:47.91,0:21:50.52,Default,,0,0,0,,His wife's way scarier than ghosts.
