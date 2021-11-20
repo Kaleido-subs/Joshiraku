@@ -5,9 +5,9 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
-PlayResX: 848
-PlayResY: 480
+YCbCr Matrix: TV.709
+PlayResX: 1296
+PlayResY: 720
 Video Aspect Ratio: c1.766667
 
 [Aegisub Project Garbage]
@@ -19,130 +19,130 @@ Video AR Value: 1.766667
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: signs,Arial,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,7,7,7,1
+Style: signs,Arial,20,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,101.887,100,0,0,1,0,0,5,11,11,11,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:05:53.16,0:05:54.91,signs,,0,0,0,gg_signs,{\fs80\xshad-2\yshad-2\blur0.85\c&H060A13&\4c&H263036&\pos(135,199)\fnJoshiraku v999}Mend\N her\N rhythm
-Dialogue: 0,0:05:53.16,0:05:54.91,signs,,0,0,0,gg_signs,{\fs80\blur2\c&H99A9CB&\4c&H263036&\pos(138,202)\fnJoshiraku v999}Mend\N her\N rhythm
-Dialogue: 1,0:01:57.13,0:01:59.14,signs,,0,0,0,gg_signs,{\blur0.5\fnG-OTF Antique Std AN M\fs80}Ruined
-Dialogue: 0,0:01:57.13,0:01:59.14,signs,,0,0,0,gg_signs,{\blur5\p1\c&H000000&\fs80\fnG-OTF Antique Std AN M}m 0 -7 l 206 -7 l 206 567 l -1 568
-Dialogue: 1,0:09:14.53,0:09:16.53,signs,,0,0,0,gg_signs,{\blur0.5\fnG-OTF Antique Std AN M\fs80}Three Bookstores
-Dialogue: 0,0:09:14.53,0:09:16.53,signs,,0,0,0,gg_signs,{\blur5\p1\c&H000000&\fs80\fnG-OTF Antique Std AN M}m 0 -7 l 206 -7 l 206 567 l -1 568
-Dialogue: 1,0:15:13.35,0:15:15.35,signs,,0,0,0,gg_signs,{\blur0.5\fnG-OTF Antique Std AN M\fs80}{TS 1514}Surprise Focus
-Dialogue: 0,0:15:13.35,0:15:15.35,signs,,0,0,0,gg_signs,{\blur5\p1\c&H000000&\fs80\fnG-OTF Antique Std AN M}m 0 -7 l 206 -7 l 206 567 l -1 568
-Dialogue: 1,0:05:53.16,0:05:54.91,signs,,0,0,0,gg_signs,{\fs80\xshad-2\yshad-2\blur0.85\c&H060A13&\4c&H263036&\pos(135,199)\fnJoshiraku v999}Mend\N her\N rhythm
-Dialogue: 0,0:05:53.16,0:05:54.91,signs,,0,0,0,gg_signs,{\fs80\blur2\c&H99A9CB&\4c&H263036&\pos(138,202)\fnJoshiraku v999}Mend\N her\N rhythm
-Dialogue: 0,0:08:40.45,0:08:43.29,signs,,0,0,0,gg_signs,{\fnLato\b1\fs25\fax-0.55\blur0.55\frz31.16\pos(103,276)}Grande
-Dialogue: 0,0:08:41.33,0:08:43.29,signs,,0,0,0,gg_signs,{\b0\fnFranklin Gothic Demi\fs25\c&H454338&\blur0.6\pos(436,195)\frz0.3422}Haga Bookstore
-Dialogue: 0,0:08:41.95,0:08:43.29,signs,,0,0,0,gg_signs,{\fnCentury\fs30\b1\shad1\blur0.55\c&H161511&\4c&H6C695C&\frz358.1\pos(696,230)}Senshu University
-Dialogue: 0,0:09:26.33,0:09:30.29,signs,,0,0,0,gg_signs,{\fnIskoola Pota\blur0.65\fs36\b1\fsp5\pos(488,84)\frz2.404\c&HE5DCD7&\frx8\fry358\org(589,60)}Shogakukan Bld.
-Dialogue: 1,0:11:00.55,0:11:01.55,signs,,0,0,0,gg_signs,{\fnCentury\b1\c&H140F0E&\blur1\fs30\frz75.44\pos(341,195)}Tokyo, Bunkyo, Otowa 2-12-21\NFor telephone numbers, please  \Nrefer to the table of contents.
-Dialogue: 0,0:11:00.55,0:11:01.55,signs,,0,0,0,gg_signs,{\an7\pos(0,0)\blur1\p1\c&HF8F5EF&}m 346 -4 l 269 315 l 287 433 l 327 441 l 443 -5
-Dialogue: 1,0:12:14.96,0:12:19.05,signs,,0,0,0,gg_signs,{\fnArtificeSSK\fs18\move(417,40,399.32,46.25,24,4070)\blur0.65\c&H000000&\b1\frz18.95}Great Japan\N Oratorical Society \NKodansha
-Dialogue: 0,0:12:14.96,0:12:19.05,signs,,0,0,0,gg_signs,{\fnArtificeSSK\bord0.7\fs18\move(417,40,399.32,46.25,24,4070)\blur0.65\c&HEEEEF6&\3c&HEEEEF6&\b1\frz18.95}Great Japan\N Oratorical Society \NKodansha
-Dialogue: 0,0:14:34.43,0:14:48.40,signs,,0,0,0,gg_signs,{\fnOh Crud BB\fs20\frz20.9\blur0.65\shad1.5\b1\pos(516,291)\c&H7E16C0&\4c&H781479&}Anoingu
-Dialogue: 0,0:19:46.12,0:19:52.67,signs,,0,0,0,gg_signs,{\fnGentium Book Basic\b1\fs23\fax-0.1\blur0.65\c&H1F2325&\frz11.93\pos(528,29)\frx350\fry18\fad(1483,0)}Bid \Nresults\h
-Dialogue: 0,0:19:46.12,0:19:52.67,signs,,0,0,0,gg_signs,{\fnGentium Book Basic\fax-0.1\b1\fs12\blur0.65\c&H1F2325&\frx350\fry12\frz14.26\pos(330,107)\fad(1483,0)}Construction company
-Dialogue: 0,0:19:46.12,0:19:52.67,signs,,0,0,0,gg_signs,{\fnGentium Book Basic\fax-0.05\b1\fs20\blur0.7\c&H1F2325&\frx352\fry28\frz12.29\pos(436,94)\fad(1483,0)}Bid
-Dialogue: 0,0:19:46.12,0:19:52.67,signs,,0,0,0,gg_signs,{\fnGentium Book Basic\fay-0.02\an9\fax-0.16\b1\fs15\blur0.7\c&H1F2325&\fad(1483,0)\frz13.89\pos(388,207)\frx348\fry14}Ishida Constr.\h\NTanaka Constr.\h\NHirata Co. Ltd.\h\h\NHaneishi Assoc.\h\h
-Dialogue: 0,0:20:05.14,0:20:05.18,signs,,0,0,0,gg_signs,{\fscx100\fscy100\fnpencilPete FONT\b1\fs80\blur0.6\pos(601,380)\c&H221422&\t(0,3568,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.18,0:20:05.22,signs,,0,0,0,gg_signs,{\fscx95.11\fscy95.11\fnpencilPete FONT\b1\fs80\blur0.6\pos(584.19,372.5)\c&H221422&\t(-41,3527,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.22,0:20:05.26,signs,,0,0,0,gg_signs,{\fscx91.69\fscy91.69\fnpencilPete FONT\b1\fs80\blur0.6\pos(569.11,367.33)\c&H221422&\t(-83,3485,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.26,0:20:05.30,signs,,0,0,0,gg_signs,{\fscx87.61\fscy87.61\fnpencilPete FONT\b1\fs80\blur0.6\pos(555.29,361.05)\c&H221422&\t(-125,3443,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.30,0:20:05.35,signs,,0,0,0,gg_signs,{\fscx83.87\fscy83.87\fnpencilPete FONT\b1\fs80\blur0.6\pos(542.58,355.32)\c&H221422&\t(-166,3402,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.35,0:20:05.39,signs,,0,0,0,gg_signs,{\fscx80.46\fscy80.46\fnpencilPete FONT\b1\fs80\blur0.6\pos(530.98,350.08)\c&H221422&\t(-208,3360,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.39,0:20:05.43,signs,,0,0,0,gg_signs,{\fscx77.33\fscy77.33\fnpencilPete FONT\b1\fs80\blur0.6\pos(520.33,345.27)\c&H221422&\t(-250,3318,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.43,0:20:05.47,signs,,0,0,0,gg_signs,{\fscx74.43\fscy74.43\fnpencilPete FONT\b1\fs80\blur0.6\pos(510.49,340.84)\c&H221422&\t(-292,3276,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.47,0:20:05.51,signs,,0,0,0,gg_signs,{\fscx71.77\fscy71.77\fnpencilPete FONT\b1\fs80\blur0.6\pos(501.43,336.75)\c&H221422&\t(-333,3235,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.51,0:20:05.55,signs,,0,0,0,gg_signs,{\fscx69.3\fscy69.3\fnpencilPete FONT\b1\fs80\blur0.6\pos(493.04,332.95)\c&H221422&\t(-375,3193,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.55,0:20:05.60,signs,,0,0,0,gg_signs,{\fscx67\fscy67\fnpencilPete FONT\b1\fs80\blur0.6\pos(485.22,329.43)\c&H221422&\t(-417,3151,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.60,0:20:05.64,signs,,0,0,0,gg_signs,{\fscx64.86\fscy64.86\fnpencilPete FONT\b1\fs80\blur0.6\pos(477.95,326.16)\c&H221422&\t(-458,3110,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.64,0:20:05.68,signs,,0,0,0,gg_signs,{\fscx62.87\fscy62.87\fnpencilPete FONT\b1\fs80\blur0.6\pos(471.17,323.1)\c&H221422&\t(-500,3068,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.68,0:20:05.72,signs,,0,0,0,gg_signs,{\fscx61.01\fscy61.01\fnpencilPete FONT\b1\fs80\blur0.6\pos(464.68,320.34)\c&H221422&\t(-542,3026,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.72,0:20:05.76,signs,,0,0,0,gg_signs,{\fscx59.26\fscy59.26\fnpencilPete FONT\b1\fs80\blur0.6\pos(458.73,317.65)\c&H221422&\t(-584,2984,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.76,0:20:05.80,signs,,0,0,0,gg_signs,{\fscx57.65\fscy57.65\fnpencilPete FONT\b1\fs80\blur0.6\pos(453.28,315.13)\c&H221422&\t(-625,2943,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.80,0:20:05.85,signs,,0,0,0,gg_signs,{\fscx56.14\fscy56.14\fnpencilPete FONT\b1\fs80\blur0.6\pos(448.16,312.74)\c&H221422&\t(-667,2901,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.85,0:20:05.89,signs,,0,0,0,gg_signs,{\fscx54.68\fscy54.68\fnpencilPete FONT\b1\fs80\blur0.6\pos(443.22,310.51)\c&H221422&\t(-709,2859,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.89,0:20:05.93,signs,,0,0,0,gg_signs,{\fscx53.31\fscy53.31\fnpencilPete FONT\b1\fs80\blur0.6\pos(438.58,308.39)\c&H221422&\t(-750,2818,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.93,0:20:05.97,signs,,0,0,0,gg_signs,{\fscx52.02\fscy52.02\fnpencilPete FONT\b1\fs80\blur0.6\pos(434.18,306.41)\c&H221422&\t(-792,2776,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:05.97,0:20:06.01,signs,,0,0,0,gg_signs,{\fscx50.79\fscy50.79\fnpencilPete FONT\b1\fs80\blur0.6\pos(430,304.52)\c&H221422&\t(-834,2734,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.01,0:20:06.05,signs,,0,0,0,gg_signs,{\fscx49.64\fscy49.64\fnpencilPete FONT\b1\fs80\blur0.6\pos(426.07,302.74)\c&H221422&\t(-875,2693,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.05,0:20:06.10,signs,,0,0,0,gg_signs,{\fscx48.52\fscy48.52\fnpencilPete FONT\b1\fs80\blur0.6\pos(422.3,301.04)\c&H221422&\t(-917,2651,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.10,0:20:06.14,signs,,0,0,0,gg_signs,{\fscx47.48\fscy47.48\fnpencilPete FONT\b1\fs80\blur0.6\pos(418.75,299.44)\c&H221422&\t(-959,2609,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.14,0:20:06.18,signs,,0,0,0,gg_signs,{\fscx46.49\fscy46.49\fnpencilPete FONT\b1\fs80\blur0.6\pos(415.39,297.9)\c&H221422&\t(-1001,2567,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.18,0:20:06.22,signs,,0,0,0,gg_signs,{\fscx45.54\fscy45.54\fnpencilPete FONT\b1\fs80\blur0.6\pos(412.14,296.44)\c&H221422&\t(-1042,2526,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.22,0:20:06.26,signs,,0,0,0,gg_signs,{\fscx44.64\fscy44.64\fnpencilPete FONT\b1\fs80\blur0.6\pos(409.08,295.06)\c&H221422&\t(-1084,2484,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.26,0:20:06.30,signs,,0,0,0,gg_signs,{\fscx43.77\fscy43.77\fnpencilPete FONT\b1\fs80\blur0.6\pos(406.12,293.73)\c&H221422&\t(-1126,2442,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.30,0:20:06.35,signs,,0,0,0,gg_signs,{\fscx42.96\fscy42.96\fnpencilPete FONT\b1\fs80\blur0.6\pos(403.34,292.48)\c&H221422&\t(-1167,2401,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.35,0:20:06.39,signs,,0,0,0,gg_signs,{\fscx42.16\fscy42.16\fnpencilPete FONT\b1\fs80\blur0.6\pos(400.63,291.25)\c&H221422&\t(-1209,2359,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.39,0:20:06.43,signs,,0,0,0,gg_signs,{\fscx41.41\fscy41.41\fnpencilPete FONT\b1\fs80\blur0.6\pos(398.07,290.11)\c&H221422&\t(-1251,2317,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.43,0:20:06.47,signs,,0,0,0,gg_signs,{\fscx40.68\fscy40.68\fnpencilPete FONT\b1\fs80\blur0.6\pos(395.6,289.01)\c&H221422&\t(-1293,2275,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.47,0:20:06.51,signs,,0,0,0,gg_signs,{\fscx39.99\fscy39.99\fnpencilPete FONT\b1\fs80\blur0.6\pos(393.26,287.94)\c&H221422&\t(-1334,2234,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.51,0:20:06.56,signs,,0,0,0,gg_signs,{\fscx39.34\fscy39.34\fnpencilPete FONT\b1\fs80\blur0.6\pos(391.02,286.95)\c&H221422&\t(-1376,2192,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.56,0:20:06.60,signs,,0,0,0,gg_signs,{\fscx38.71\fscy38.71\fnpencilPete FONT\b1\fs80\blur0.6\pos(388.88,285.96)\c&H221422&\t(-1418,2150,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.60,0:20:06.64,signs,,0,0,0,gg_signs,{\fscx38.09\fscy38.09\fnpencilPete FONT\b1\fs80\blur0.6\pos(386.79,285.02)\c&H221422&\t(-1459,2109,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.64,0:20:06.68,signs,,0,0,0,gg_signs,{\fscx37.52\fscy37.52\fnpencilPete FONT\b1\fs80\blur0.6\pos(384.82,284.12)\c&H221422&\t(-1501,2067,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.68,0:20:06.72,signs,,0,0,0,gg_signs,{\fscx36.96\fscy36.96\fnpencilPete FONT\b1\fs80\blur0.6\pos(382.92,283.28)\c&H221422&\t(-1543,2025,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.72,0:20:06.76,signs,,0,0,0,gg_signs,{\fscx36.41\fscy36.41\fnpencilPete FONT\b1\fs80\blur0.6\pos(381.07,282.44)\c&H221422&\t(-1585,1983,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.76,0:20:06.81,signs,,0,0,0,gg_signs,{\fscx35.91\fscy35.91\fnpencilPete FONT\b1\fs80\blur0.6\pos(379.32,281.65)\c&H221422&\t(-1626,1942,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.81,0:20:06.85,signs,,0,0,0,gg_signs,{\fscx35.4\fscy35.4\fnpencilPete FONT\b1\fs80\blur0.6\pos(377.59,280.88)\c&H221422&\t(-1668,1900,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.85,0:20:06.89,signs,,0,0,0,gg_signs,{\fscx34.93\fscy34.93\fnpencilPete FONT\b1\fs80\blur0.6\pos(375.97,280.15)\c&H221422&\t(-1710,1858,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.89,0:20:06.93,signs,,0,0,0,gg_signs,{\fscx34.46\fscy34.46\fnpencilPete FONT\b1\fs80\blur0.6\pos(374.36,279.44)\c&H221422&\t(-1751,1817,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.93,0:20:06.97,signs,,0,0,0,gg_signs,{\fscx34.02\fscy34.02\fnpencilPete FONT\b1\fs80\blur0.6\pos(372.88,278.76)\c&H221422&\t(-1793,1775,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:06.97,0:20:07.01,signs,,0,0,0,gg_signs,{\fscx33.61\fscy33.61\fnpencilPete FONT\b1\fs80\blur0.6\pos(371.45,278.12)\c&H221422&\t(-1835,1733,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.01,0:20:07.06,signs,,0,0,0,gg_signs,{\fscx33.18\fscy33.18\fnpencilPete FONT\b1\fs80\blur0.6\pos(370.02,277.47)\c&H221422&\t(-1876,1692,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.06,0:20:07.10,signs,,0,0,0,gg_signs,{\fscx32.8\fscy32.8\fnpencilPete FONT\b1\fs80\blur0.6\pos(368.71,276.87)\c&H221422&\t(-1918,1650,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.10,0:20:07.14,signs,,0,0,0,gg_signs,{\fscx32.41\fscy32.41\fnpencilPete FONT\b1\fs80\blur0.6\pos(367.38,276.29)\c&H221422&\t(-1960,1608,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.14,0:20:07.18,signs,,0,0,0,gg_signs,{\fscx32.06\fscy32.06\fnpencilPete FONT\b1\fs80\blur0.6\pos(366.15,275.74)\c&H221422&\t(-2002,1566,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.18,0:20:07.22,signs,,0,0,0,gg_signs,{\fscx31.7\fscy31.7\fnpencilPete FONT\b1\fs80\blur0.6\pos(364.93,275.18)\c&H221422&\t(-2043,1525,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.22,0:20:07.26,signs,,0,0,0,gg_signs,{\fscx31.36\fscy31.36\fnpencilPete FONT\b1\fs80\blur0.6\pos(363.77,274.68)\c&H221422&\t(-2085,1483,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.26,0:20:07.31,signs,,0,0,0,gg_signs,{\fscx31.03\fscy31.03\fnpencilPete FONT\b1\fs80\blur0.6\pos(362.63,274.16)\c&H221422&\t(-2127,1441,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.31,0:20:07.35,signs,,0,0,0,gg_signs,{\fscx30.72\fscy30.72\fnpencilPete FONT\b1\fs80\blur0.6\pos(361.56,273.69)\c&H221422&\t(-2168,1400,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.35,0:20:07.39,signs,,0,0,0,gg_signs,{\fscx30.41\fscy30.41\fnpencilPete FONT\b1\fs80\blur0.6\pos(360.52,273.23)\c&H221422&\t(-2210,1358,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.39,0:20:07.43,signs,,0,0,0,gg_signs,{\fscx30.12\fscy30.12\fnpencilPete FONT\b1\fs80\blur0.6\pos(359.5,272.77)\c&H221422&\t(-2252,1316,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.43,0:20:07.47,signs,,0,0,0,gg_signs,{\fscx29.84\fscy29.84\fnpencilPete FONT\b1\fs80\blur0.6\pos(358.54,272.34)\c&H221422&\t(-2294,1274,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.47,0:20:07.51,signs,,0,0,0,gg_signs,{\fscx29.56\fscy29.56\fnpencilPete FONT\b1\fs80\blur0.6\pos(357.58,271.91)\c&H221422&\t(-2335,1233,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.51,0:20:07.56,signs,,0,0,0,gg_signs,{\fscx29.3\fscy29.3\fnpencilPete FONT\b1\fs80\blur0.6\pos(356.7,271.51)\c&H221422&\t(-2377,1191,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.56,0:20:07.60,signs,,0,0,0,gg_signs,{\fscx29.05\fscy29.05\fnpencilPete FONT\b1\fs80\blur0.6\pos(355.82,271.12)\c&H221422&\t(-2419,1149,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.60,0:20:07.64,signs,,0,0,0,gg_signs,{\fscx28.82\fscy28.82\fnpencilPete FONT\b1\fs80\blur0.6\pos(355.04,270.77)\c&H221422&\t(-2460,1108,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.64,0:20:07.68,signs,,0,0,0,gg_signs,{\fscx28.59\fscy28.59\fnpencilPete FONT\b1\fs80\blur0.6\pos(354.22,270.41)\c&H221422&\t(-2502,1066,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.68,0:20:07.72,signs,,0,0,0,gg_signs,{\fscx28.35\fscy28.35\fnpencilPete FONT\b1\fs80\blur0.6\pos(353.42,270.07)\c&H221422&\t(-2544,1024,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.72,0:20:07.76,signs,,0,0,0,gg_signs,{\fscx28.14\fscy28.14\fnpencilPete FONT\b1\fs80\blur0.6\pos(352.71,269.72)\c&H221422&\t(-2586,982,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.76,0:20:07.81,signs,,0,0,0,gg_signs,{\fscx27.94\fscy27.94\fnpencilPete FONT\b1\fs80\blur0.6\pos(352,269.41)\c&H221422&\t(-2627,941,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.81,0:20:07.85,signs,,0,0,0,gg_signs,{\fscx27.74\fscy27.74\fnpencilPete FONT\b1\fs80\blur0.6\pos(351.31,269.11)\c&H221422&\t(-2669,899,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.85,0:20:07.89,signs,,0,0,0,gg_signs,{\fscx27.55\fscy27.55\fnpencilPete FONT\b1\fs80\blur0.6\pos(350.65,268.82)\c&H221422&\t(-2711,857,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.89,0:20:07.93,signs,,0,0,0,gg_signs,{\fscx27.39\fscy27.39\fnpencilPete FONT\b1\fs80\blur0.6\pos(350.07,268.57)\c&H221422&\t(-2752,816,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.93,0:20:07.97,signs,,0,0,0,gg_signs,{\fscx27.21\fscy27.21\fnpencilPete FONT\b1\fs80\blur0.6\pos(349.47,268.3)\c&H221422&\t(-2794,774,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:07.97,0:20:08.01,signs,,0,0,0,gg_signs,{\fscx27.05\fscy27.05\fnpencilPete FONT\b1\fs80\blur0.6\pos(348.9,268.04)\c&H221422&\t(-2836,732,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.01,0:20:08.06,signs,,0,0,0,gg_signs,{\fscx26.88\fscy26.88\fnpencilPete FONT\b1\fs80\blur0.6\pos(348.32,267.79)\c&H221422&\t(-2877,691,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.06,0:20:08.10,signs,,0,0,0,gg_signs,{\fscx26.74\fscy26.74\fnpencilPete FONT\b1\fs80\blur0.6\pos(347.82,267.57)\c&H221422&\t(-2919,649,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.10,0:20:08.14,signs,,0,0,0,gg_signs,{\fscx26.6\fscy26.6\fnpencilPete FONT\b1\fs80\blur0.6\pos(347.34,267.35)\c&H221422&\t(-2961,607,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.14,0:20:08.18,signs,,0,0,0,gg_signs,{\fscx26.46\fscy26.46\fnpencilPete FONT\b1\fs80\blur0.6\pos(346.87,267.15)\c&H221422&\t(-3003,565,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.18,0:20:08.22,signs,,0,0,0,gg_signs,{\fscx26.34\fscy26.34\fnpencilPete FONT\b1\fs80\blur0.6\pos(346.44,266.96)\c&H221422&\t(-3044,524,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.22,0:20:08.27,signs,,0,0,0,gg_signs,{\fscx26.23\fscy26.23\fnpencilPete FONT\b1\fs80\blur0.6\pos(346.06,266.79)\c&H221422&\t(-3086,482,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.27,0:20:08.31,signs,,0,0,0,gg_signs,{\fscx26.13\fscy26.13\fnpencilPete FONT\b1\fs80\blur0.6\pos(345.7,266.64)\c&H221422&\t(-3128,440,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.31,0:20:08.35,signs,,0,0,0,gg_signs,{\fscx26.01\fscy26.01\fnpencilPete FONT\b1\fs80\blur0.6\pos(345.3,266.47)\c&H221422&\t(-3169,399,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.35,0:20:08.39,signs,,0,0,0,gg_signs,{\fscx25.92\fscy25.92\fnpencilPete FONT\b1\fs80\blur0.6\pos(344.97,266.33)\c&H221422&\t(-3211,357,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.39,0:20:08.43,signs,,0,0,0,gg_signs,{\fscx25.85\fscy25.85\fnpencilPete FONT\b1\fs80\blur0.6\pos(344.74,266.22)\c&H221422&\t(-3253,315,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.43,0:20:08.47,signs,,0,0,0,gg_signs,{\fscx25.78\fscy25.78\fnpencilPete FONT\b1\fs80\blur0.6\pos(344.49,266.11)\c&H221422&\t(-3295,273,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.47,0:20:08.52,signs,,0,0,0,gg_signs,{\fscx25.72\fscy25.72\fnpencilPete FONT\b1\fs80\blur0.6\pos(344.28,266.01)\c&H221422&\t(-3336,232,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.52,0:20:08.56,signs,,0,0,0,gg_signs,{\fscx25.66\fscy25.66\fnpencilPete FONT\b1\fs80\blur0.6\pos(344.05,265.92)\c&H221422&\t(-3378,190,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.56,0:20:08.60,signs,,0,0,0,gg_signs,{\fscx25.62\fscy25.62\fnpencilPete FONT\b1\fs80\blur0.6\pos(343.89,265.86)\c&H221422&\t(-3420,148,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.60,0:20:08.64,signs,,0,0,0,gg_signs,{\fscx25.6\fscy25.6\fnpencilPete FONT\b1\fs80\blur0.6\pos(343.82,265.82)\c&H221422&\t(-3461,107,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.64,0:20:08.68,signs,,0,0,0,gg_signs,{\fscx25.56\fscy25.56\fnpencilPete FONT\b1\fs80\blur0.6\pos(343.68,265.76)\c&H221422&\t(-3503,65,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.68,0:20:08.72,signs,,0,0,0,gg_signs,{\fscx25.54\fscy25.54\fnpencilPete FONT\b1\fs80\blur0.6\pos(343.6,265.72)\c&H221422&\t(-3545,23,\blur0.4)\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.72,0:20:08.77,signs,,0,0,0,gg_signs,{\fscx25.53\fscy25.53\fnpencilPete FONT\b1\fs80\pos(343.56,265.73)\c&H221422&\blur0.4\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.77,0:20:08.81,signs,,0,0,0,gg_signs,{\fscx25.53\fscy25.53\fnpencilPete FONT\b1\fs80\pos(343.56,265.73)\c&H221422&\blur0.4\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.81,0:20:08.85,signs,,0,0,0,gg_signs,{\fscx25.54\fscy25.54\fnpencilPete FONT\b1\fs80\pos(343.57,265.73)\c&H221422&\blur0.4\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.85,0:20:08.89,signs,,0,0,0,gg_signs,{\fscx25.54\fscy25.54\fnpencilPete FONT\b1\fs80\pos(343.58,265.73)\c&H221422&\blur0.4\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.89,0:20:08.93,signs,,0,0,0,gg_signs,{\fscx25.54\fscy25.54\fnpencilPete FONT\b1\fs80\pos(343.6,265.73)\c&H221422&\blur0.4\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.93,0:20:08.97,signs,,0,0,0,gg_signs,{\fscx25.55\fscy25.55\fnpencilPete FONT\b1\fs80\pos(343.62,265.73)\c&H221422&\blur0.4\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:08.97,0:20:09.02,signs,,0,0,0,gg_signs,{\fscx25.56\fscy25.56\fnpencilPete FONT\b1\fs80\pos(343.64,265.73)\c&H221422&\blur0.4\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:09.02,0:20:09.06,signs,,0,0,0,gg_signs,{\fscx25.56\fscy25.56\fnpencilPete FONT\b1\fs80\pos(343.66,265.72)\c&H221422&\blur0.4\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:09.06,0:20:09.10,signs,,0,0,0,gg_signs,{\fscx25.57\fscy25.57\fnpencilPete FONT\b1\fs80\pos(343.68,265.72)\c&H221422&\blur0.4\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:09.10,0:20:09.14,signs,,0,0,0,gg_signs,{\fscx25.58\fscy25.58\fnpencilPete FONT\b1\fs80\pos(343.7,265.72)\c&H221422&\blur0.4\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:09.14,0:20:09.18,signs,,0,0,0,gg_signs,{\fscx25.58\fscy25.58\fnpencilPete FONT\b1\fs80\pos(343.72,265.72)\c&H221422&\blur0.4\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:09.18,0:20:09.22,signs,,0,0,0,gg_signs,{\fscx25.58\fscy25.58\fnpencilPete FONT\b1\fs80\pos(343.73,265.72)\c&H221422&\blur0.4\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:20:09.22,0:20:09.73,signs,,0,0,0,gg_signs,{\fscx25.59\fscy25.59\fnpencilPete FONT\b1\fs80\pos(343.75,265.72)\c&H221422&\blur0.4\frz13.86}Love Love Love Love Love Love
-Dialogue: 0,0:21:45.45,0:21:46.74,signs,,0,0,0,gg_signs,{\pos(420,137)\fnFranklin Gothic Demi\fs70\blur0.55\c&H38352E&}F{\c&H37322A&}o{\c&H3B342C&}c{\c&H433D34&}u{\c&H4D463D&}s{\c&H544F46&}e{\c&H544F48&}d{\c&H4F4945&} {\c&H58524F&}T{\c&H6F6B68&}r{\c&H7C7975&}e{\c&H7F7C78&}a{\c&H7B7873&}t{\c&H5F5D56&}m{\c&H504D46&}e{\c&H46423A&}n{\c&H464239&}t
+Dialogue: 1,0:05:53.16,0:05:54.91,signs,,0,0,0,gg_signs,{\fs120\xshad-3\yshad-3\blur1.275\c&H060B14&\4c&H253037&\pos(206.321,298.5)\fnJoshiraku v999}Mend\N her\N rhythm
+Dialogue: 0,0:05:53.16,0:05:54.91,signs,,0,0,0,gg_signs,{\fs120\blur3\c&H98ABCE&\4c&H253037&\pos(210.906,303)\fnJoshiraku v999}Mend\N her\N rhythm
+Dialogue: 1,0:01:57.13,0:01:59.14,signs,,0,0,0,gg_signs,{\blur0.75\fnG-OTF Antique Std AN M\fs120}Ruined
+Dialogue: 0,0:01:57.13,0:01:59.14,signs,,0,0,0,gg_signs,{\blur7.5\p1\c&H000000&\fs120\fnG-OTF Antique Std AN M}m 0 -10.5 l 309 -10.5 l 309 850.5 l -1.5 852
+Dialogue: 1,0:09:14.53,0:09:16.53,signs,,0,0,0,gg_signs,{\blur0.75\fnG-OTF Antique Std AN M\fs120}Three Bookstores
+Dialogue: 0,0:09:14.53,0:09:16.53,signs,,0,0,0,gg_signs,{\blur7.5\p1\c&H000000&\fs120\fnG-OTF Antique Std AN M}m 0 -10.5 l 309 -10.5 l 309 850.5 l -1.5 852
+Dialogue: 1,0:15:13.35,0:15:15.35,signs,,0,0,0,gg_signs,{\blur0.75\fnG-OTF Antique Std AN M\fs120}{TS 1514}Surprise Focus
+Dialogue: 0,0:15:13.35,0:15:15.35,signs,,0,0,0,gg_signs,{\blur7.5\p1\c&H000000&\fs120\fnG-OTF Antique Std AN M}m 0 -10.5 l 309 -10.5 l 309 850.5 l -1.5 852
+Dialogue: 1,0:05:53.16,0:05:54.91,signs,,0,0,0,gg_signs,{\fs120\xshad-3\yshad-3\blur1.275\c&H060B14&\4c&H253037&\pos(206.321,298.5)\fnJoshiraku v999}Mend\N her\N rhythm
+Dialogue: 0,0:05:53.16,0:05:54.91,signs,,0,0,0,gg_signs,{\fs120\blur3\c&H98ABCE&\4c&H253037&\pos(210.906,303)\fnJoshiraku v999}Mend\N her\N rhythm
+Dialogue: 0,0:08:40.45,0:08:43.29,signs,,0,0,0,gg_signs,{\fnLato\b1\fs37.5\fax-0.55\blur0.825\frz31.16\pos(157.415,414)}Grande
+Dialogue: 0,0:08:41.33,0:08:43.29,signs,,0,0,0,gg_signs,{\b0\fnFranklin Gothic Demi\fs37.5\c&H454237&\blur0.9\pos(666.34,292.5)\frz0.3422}Haga Bookstore
+Dialogue: 0,0:08:41.95,0:08:43.29,signs,,0,0,0,gg_signs,{\fnCentury\fs45\b1\shad1.5\blur0.825\c&H161511&\4c&H6C685B&\frz358.1\pos(1063.698,345)}Senshu University
+Dialogue: 0,0:09:26.33,0:09:30.29,signs,,0,0,0,gg_signs,{\fnIskoola Pota\blur0.975\fs54\b1\fsp7.5\pos(745.811,126)\frz2.404\c&HE5DCD6&\frx8\fry358\org(900,90)}Shogakukan Bld.
+Dialogue: 1,0:11:00.55,0:11:01.55,signs,,0,0,0,gg_signs,{\fnCentury\b1\c&H140F0E&\blur1.5\fs45\frz75.44\pos(521.151,292.5)}Tokyo, Bunkyo, Otowa 2-12-21\NFor telephone numbers, please  \Nrefer to the table of contents.
+Dialogue: 0,0:11:00.55,0:11:01.55,signs,,0,0,0,gg_signs,{\an7\pos(0,0)\blur1.5\p1\c&HF8F5EE&}m 519 -6 l 403.5 472.5 l 430.5 649.5 l 490.5 661.5 l 664.5 -7.5
+Dialogue: 1,0:12:14.96,0:12:19.05,signs,,0,0,0,gg_signs,{\fnArtificeSSK\fs27\move(637.302,60,610.282,69.375,24,4070)\blur0.975\c&H000000&\b1\frz18.95}Great Japan\N Oratorical Society \NKodansha
+Dialogue: 0,0:12:14.96,0:12:19.05,signs,,0,0,0,gg_signs,{\fnArtificeSSK\bord1.05\fs27\move(637.302,60,610.282,69.375,24,4070)\blur0.975\c&HEEEFF7&\3c&HEEEFF7&\b1\frz18.95}Great Japan\N Oratorical Society \NKodansha
+Dialogue: 0,0:14:34.43,0:14:48.40,signs,,0,0,0,gg_signs,{\fnOh Crud BB\fs30\frz20.9\blur0.975\shad2.25\b1\pos(788.604,436.5)\c&H802CCD&\4c&H7B2480&}Anoingu
+Dialogue: 0,0:19:46.12,0:19:52.67,signs,,0,0,0,gg_signs,{\fnGentium Book Basic\b1\fs34.5\fax-0.1\blur0.975\c&H1F2325&\frz11.93\pos(806.943,43.5)\frx350\fry18\fad(1483,0)}Bid \Nresults\h
+Dialogue: 0,0:19:46.12,0:19:52.67,signs,,0,0,0,gg_signs,{\fnGentium Book Basic\fax-0.1\b1\fs18\blur0.975\c&H1F2325&\frx350\fry12\frz14.26\pos(504.34,160.5)\fad(1483,0)}Construction company
+Dialogue: 0,0:19:46.12,0:19:52.67,signs,,0,0,0,gg_signs,{\fnGentium Book Basic\fax-0.05\b1\fs30\blur1.05\c&H1F2325&\frx352\fry28\frz12.29\pos(666.34,141)\fad(1483,0)}Bid
+Dialogue: 0,0:19:46.12,0:19:52.67,signs,,0,0,0,gg_signs,{\fnGentium Book Basic\fay-0.02\an9\fax-0.16\b1\fs22.5\blur1.05\c&H1F2325&\fad(1483,0)\frz13.89\pos(592.981,310.5)\frx348\fry14}Ishida Constr.\h\NTanaka Constr.\h\NHirata Co. Ltd.\h\h\NHaneishi Assoc.\h\h
+Dialogue: 0,0:20:05.14,0:20:05.18,signs,,0,0,0,gg_signs,{\fscx101.887\fscy100\fnpencilPete FONT\b1\fs120\blur0.9\pos(918.509,570)\c&H221623&\t(0,3568,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.18,0:20:05.22,signs,,0,0,0,gg_signs,{\fscx96.905\fscy95.11\fnpencilPete FONT\b1\fs120\blur0.9\pos(892.819,558.75)\c&H221623&\t(-41,3527,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.22,0:20:05.26,signs,,0,0,0,gg_signs,{\fscx93.42\fscy91.69\fnpencilPete FONT\b1\fs120\blur0.9\pos(869.772,550.995)\c&H221623&\t(-83,3485,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.26,0:20:05.30,signs,,0,0,0,gg_signs,{\fscx89.263\fscy87.61\fnpencilPete FONT\b1\fs120\blur0.9\pos(848.651,541.575)\c&H221623&\t(-125,3443,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.30,0:20:05.35,signs,,0,0,0,gg_signs,{\fscx85.452\fscy83.87\fnpencilPete FONT\b1\fs120\blur0.9\pos(829.226,532.98)\c&H221623&\t(-166,3402,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.35,0:20:05.39,signs,,0,0,0,gg_signs,{\fscx81.978\fscy80.46\fnpencilPete FONT\b1\fs120\blur0.9\pos(811.498,525.12)\c&H221623&\t(-208,3360,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.39,0:20:05.43,signs,,0,0,0,gg_signs,{\fscx78.789\fscy77.33\fnpencilPete FONT\b1\fs120\blur0.9\pos(795.221,517.905)\c&H221623&\t(-250,3318,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.43,0:20:05.47,signs,,0,0,0,gg_signs,{\fscx75.834\fscy74.43\fnpencilPete FONT\b1\fs120\blur0.9\pos(780.183,511.26)\c&H221623&\t(-292,3276,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.47,0:20:05.51,signs,,0,0,0,gg_signs,{\fscx73.124\fscy71.77\fnpencilPete FONT\b1\fs120\blur0.9\pos(766.336,505.125)\c&H221623&\t(-333,3235,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.51,0:20:05.55,signs,,0,0,0,gg_signs,{\fscx70.608\fscy69.3\fnpencilPete FONT\b1\fs120\blur0.9\pos(753.514,499.425)\c&H221623&\t(-375,3193,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.55,0:20:05.60,signs,,0,0,0,gg_signs,{\fscx68.264\fscy67\fnpencilPete FONT\b1\fs120\blur0.9\pos(741.563,494.145)\c&H221623&\t(-417,3151,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.60,0:20:05.64,signs,,0,0,0,gg_signs,{\fscx66.084\fscy64.86\fnpencilPete FONT\b1\fs120\blur0.9\pos(730.452,489.24)\c&H221623&\t(-458,3110,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.64,0:20:05.68,signs,,0,0,0,gg_signs,{\fscx64.056\fscy62.87\fnpencilPete FONT\b1\fs120\blur0.9\pos(720.09,484.65)\c&H221623&\t(-500,3068,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.68,0:20:05.72,signs,,0,0,0,gg_signs,{\fscx62.161\fscy61.01\fnpencilPete FONT\b1\fs120\blur0.9\pos(710.171,480.51)\c&H221623&\t(-542,3026,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.72,0:20:05.76,signs,,0,0,0,gg_signs,{\fscx60.378\fscy59.26\fnpencilPete FONT\b1\fs120\blur0.9\pos(701.078,476.475)\c&H221623&\t(-584,2984,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.76,0:20:05.80,signs,,0,0,0,gg_signs,{\fscx58.738\fscy57.65\fnpencilPete FONT\b1\fs120\blur0.9\pos(692.749,472.695)\c&H221623&\t(-625,2943,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.80,0:20:05.85,signs,,0,0,0,gg_signs,{\fscx57.199\fscy56.14\fnpencilPete FONT\b1\fs120\blur0.9\pos(684.924,469.11)\c&H221623&\t(-667,2901,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.85,0:20:05.89,signs,,0,0,0,gg_signs,{\fscx55.712\fscy54.68\fnpencilPete FONT\b1\fs120\blur0.9\pos(677.374,465.765)\c&H221623&\t(-709,2859,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.89,0:20:05.93,signs,,0,0,0,gg_signs,{\fscx54.316\fscy53.31\fnpencilPete FONT\b1\fs120\blur0.9\pos(670.283,462.585)\c&H221623&\t(-750,2818,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.93,0:20:05.97,signs,,0,0,0,gg_signs,{\fscx53.002\fscy52.02\fnpencilPete FONT\b1\fs120\blur0.9\pos(663.558,459.615)\c&H221623&\t(-792,2776,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:05.97,0:20:06.01,signs,,0,0,0,gg_signs,{\fscx51.748\fscy50.79\fnpencilPete FONT\b1\fs120\blur0.9\pos(657.17,456.78)\c&H221623&\t(-834,2734,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.01,0:20:06.05,signs,,0,0,0,gg_signs,{\fscx50.577\fscy49.64\fnpencilPete FONT\b1\fs120\blur0.9\pos(651.164,454.11)\c&H221623&\t(-875,2693,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.05,0:20:06.10,signs,,0,0,0,gg_signs,{\fscx49.435\fscy48.52\fnpencilPete FONT\b1\fs120\blur0.9\pos(645.402,451.56)\c&H221623&\t(-917,2651,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.10,0:20:06.14,signs,,0,0,0,gg_signs,{\fscx48.376\fscy47.48\fnpencilPete FONT\b1\fs120\blur0.9\pos(639.976,449.16)\c&H221623&\t(-959,2609,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.14,0:20:06.18,signs,,0,0,0,gg_signs,{\fscx47.367\fscy46.49\fnpencilPete FONT\b1\fs120\blur0.9\pos(634.841,446.85)\c&H221623&\t(-1001,2567,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.18,0:20:06.22,signs,,0,0,0,gg_signs,{\fscx46.399\fscy45.54\fnpencilPete FONT\b1\fs120\blur0.9\pos(629.874,444.66)\c&H221623&\t(-1042,2526,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.22,0:20:06.26,signs,,0,0,0,gg_signs,{\fscx45.482\fscy44.64\fnpencilPete FONT\b1\fs120\blur0.9\pos(625.198,442.59)\c&H221623&\t(-1084,2484,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.26,0:20:06.30,signs,,0,0,0,gg_signs,{\fscx44.596\fscy43.77\fnpencilPete FONT\b1\fs120\blur0.9\pos(620.674,440.595)\c&H221623&\t(-1126,2442,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.30,0:20:06.35,signs,,0,0,0,gg_signs,{\fscx43.771\fscy42.96\fnpencilPete FONT\b1\fs120\blur0.9\pos(616.425,438.72)\c&H221623&\t(-1167,2401,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.35,0:20:06.39,signs,,0,0,0,gg_signs,{\fscx42.955\fscy42.16\fnpencilPete FONT\b1\fs120\blur0.9\pos(612.284,436.875)\c&H221623&\t(-1209,2359,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.39,0:20:06.43,signs,,0,0,0,gg_signs,{\fscx42.191\fscy41.41\fnpencilPete FONT\b1\fs120\blur0.9\pos(608.371,435.165)\c&H221623&\t(-1251,2317,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.43,0:20:06.47,signs,,0,0,0,gg_signs,{\fscx41.448\fscy40.68\fnpencilPete FONT\b1\fs120\blur0.9\pos(604.596,433.515)\c&H221623&\t(-1293,2275,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.47,0:20:06.51,signs,,0,0,0,gg_signs,{\fscx40.745\fscy39.99\fnpencilPete FONT\b1\fs120\blur0.9\pos(601.02,431.91)\c&H221623&\t(-1334,2234,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.51,0:20:06.56,signs,,0,0,0,gg_signs,{\fscx40.082\fscy39.34\fnpencilPete FONT\b1\fs120\blur0.9\pos(597.597,430.425)\c&H221623&\t(-1376,2192,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.56,0:20:06.60,signs,,0,0,0,gg_signs,{\fscx39.44\fscy38.71\fnpencilPete FONT\b1\fs120\blur0.9\pos(594.326,428.94)\c&H221623&\t(-1418,2150,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.60,0:20:06.64,signs,,0,0,0,gg_signs,{\fscx38.809\fscy38.09\fnpencilPete FONT\b1\fs120\blur0.9\pos(591.132,427.53)\c&H221623&\t(-1459,2109,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.64,0:20:06.68,signs,,0,0,0,gg_signs,{\fscx38.228\fscy37.52\fnpencilPete FONT\b1\fs120\blur0.9\pos(588.121,426.18)\c&H221623&\t(-1501,2067,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.68,0:20:06.72,signs,,0,0,0,gg_signs,{\fscx37.657\fscy36.96\fnpencilPete FONT\b1\fs120\blur0.9\pos(585.217,424.92)\c&H221623&\t(-1543,2025,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.72,0:20:06.76,signs,,0,0,0,gg_signs,{\fscx37.097\fscy36.41\fnpencilPete FONT\b1\fs120\blur0.9\pos(582.39,423.66)\c&H221623&\t(-1585,1983,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.76,0:20:06.81,signs,,0,0,0,gg_signs,{\fscx36.588\fscy35.91\fnpencilPete FONT\b1\fs120\blur0.9\pos(579.715,422.475)\c&H221623&\t(-1626,1942,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.81,0:20:06.85,signs,,0,0,0,gg_signs,{\fscx36.068\fscy35.4\fnpencilPete FONT\b1\fs120\blur0.9\pos(577.072,421.32)\c&H221623&\t(-1668,1900,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.85,0:20:06.89,signs,,0,0,0,gg_signs,{\fscx35.589\fscy34.93\fnpencilPete FONT\b1\fs120\blur0.9\pos(574.596,420.225)\c&H221623&\t(-1710,1858,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.89,0:20:06.93,signs,,0,0,0,gg_signs,{\fscx35.11\fscy34.46\fnpencilPete FONT\b1\fs120\blur0.9\pos(572.135,419.16)\c&H221623&\t(-1751,1817,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.93,0:20:06.97,signs,,0,0,0,gg_signs,{\fscx34.662\fscy34.02\fnpencilPete FONT\b1\fs120\blur0.9\pos(569.873,418.14)\c&H221623&\t(-1793,1775,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:06.97,0:20:07.01,signs,,0,0,0,gg_signs,{\fscx34.244\fscy33.61\fnpencilPete FONT\b1\fs120\blur0.9\pos(567.688,417.18)\c&H221623&\t(-1835,1733,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.01,0:20:07.06,signs,,0,0,0,gg_signs,{\fscx33.806\fscy33.18\fnpencilPete FONT\b1\fs120\blur0.9\pos(565.502,416.205)\c&H221623&\t(-1876,1692,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.06,0:20:07.10,signs,,0,0,0,gg_signs,{\fscx33.419\fscy32.8\fnpencilPete FONT\b1\fs120\blur0.9\pos(563.5,415.305)\c&H221623&\t(-1918,1650,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.10,0:20:07.14,signs,,0,0,0,gg_signs,{\fscx33.022\fscy32.41\fnpencilPete FONT\b1\fs120\blur0.9\pos(561.468,414.435)\c&H221623&\t(-1960,1608,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.14,0:20:07.18,signs,,0,0,0,gg_signs,{\fscx32.665\fscy32.06\fnpencilPete FONT\b1\fs120\blur0.9\pos(559.588,413.61)\c&H221623&\t(-2002,1566,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.18,0:20:07.22,signs,,0,0,0,gg_signs,{\fscx32.298\fscy31.7\fnpencilPete FONT\b1\fs120\blur0.9\pos(557.723,412.77)\c&H221623&\t(-2043,1525,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.22,0:20:07.26,signs,,0,0,0,gg_signs,{\fscx31.952\fscy31.36\fnpencilPete FONT\b1\fs120\blur0.9\pos(555.95,412.02)\c&H221623&\t(-2085,1483,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.26,0:20:07.31,signs,,0,0,0,gg_signs,{\fscx31.615\fscy31.03\fnpencilPete FONT\b1\fs120\blur0.9\pos(554.208,411.24)\c&H221623&\t(-2127,1441,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.31,0:20:07.35,signs,,0,0,0,gg_signs,{\fscx31.3\fscy30.72\fnpencilPete FONT\b1\fs120\blur0.9\pos(552.573,410.535)\c&H221623&\t(-2168,1400,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.35,0:20:07.39,signs,,0,0,0,gg_signs,{\fscx30.984\fscy30.41\fnpencilPete FONT\b1\fs120\blur0.9\pos(550.983,409.845)\c&H221623&\t(-2210,1358,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.39,0:20:07.43,signs,,0,0,0,gg_signs,{\fscx30.688\fscy30.12\fnpencilPete FONT\b1\fs120\blur0.9\pos(549.425,409.155)\c&H221623&\t(-2252,1316,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.43,0:20:07.47,signs,,0,0,0,gg_signs,{\fscx30.403\fscy29.84\fnpencilPete FONT\b1\fs120\blur0.9\pos(547.957,408.51)\c&H221623&\t(-2294,1274,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.47,0:20:07.51,signs,,0,0,0,gg_signs,{\fscx30.118\fscy29.56\fnpencilPete FONT\b1\fs120\blur0.9\pos(546.49,407.865)\c&H221623&\t(-2335,1233,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.51,0:20:07.56,signs,,0,0,0,gg_signs,{\fscx29.853\fscy29.3\fnpencilPete FONT\b1\fs120\blur0.9\pos(545.145,407.265)\c&H221623&\t(-2377,1191,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.56,0:20:07.60,signs,,0,0,0,gg_signs,{\fscx29.598\fscy29.05\fnpencilPete FONT\b1\fs120\blur0.9\pos(543.8,406.68)\c&H221623&\t(-2419,1149,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.60,0:20:07.64,signs,,0,0,0,gg_signs,{\fscx29.364\fscy28.82\fnpencilPete FONT\b1\fs120\blur0.9\pos(542.608,406.155)\c&H221623&\t(-2460,1108,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.64,0:20:07.68,signs,,0,0,0,gg_signs,{\fscx29.129\fscy28.59\fnpencilPete FONT\b1\fs120\blur0.9\pos(541.355,405.615)\c&H221623&\t(-2502,1066,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.68,0:20:07.72,signs,,0,0,0,gg_signs,{\fscx28.885\fscy28.35\fnpencilPete FONT\b1\fs120\blur0.9\pos(540.132,405.105)\c&H221623&\t(-2544,1024,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.72,0:20:07.76,signs,,0,0,0,gg_signs,{\fscx28.671\fscy28.14\fnpencilPete FONT\b1\fs120\blur0.9\pos(539.047,404.58)\c&H221623&\t(-2586,982,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.76,0:20:07.81,signs,,0,0,0,gg_signs,{\fscx28.467\fscy27.94\fnpencilPete FONT\b1\fs120\blur0.9\pos(537.962,404.115)\c&H221623&\t(-2627,941,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.81,0:20:07.85,signs,,0,0,0,gg_signs,{\fscx28.263\fscy27.74\fnpencilPete FONT\b1\fs120\blur0.9\pos(536.908,403.665)\c&H221623&\t(-2669,899,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.85,0:20:07.89,signs,,0,0,0,gg_signs,{\fscx28.07\fscy27.55\fnpencilPete FONT\b1\fs120\blur0.9\pos(535.899,403.23)\c&H221623&\t(-2711,857,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.89,0:20:07.93,signs,,0,0,0,gg_signs,{\fscx27.907\fscy27.39\fnpencilPete FONT\b1\fs120\blur0.9\pos(535.013,402.855)\c&H221623&\t(-2752,816,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.93,0:20:07.97,signs,,0,0,0,gg_signs,{\fscx27.723\fscy27.21\fnpencilPete FONT\b1\fs120\blur0.9\pos(534.096,402.45)\c&H221623&\t(-2794,774,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:07.97,0:20:08.01,signs,,0,0,0,gg_signs,{\fscx27.56\fscy27.05\fnpencilPete FONT\b1\fs120\blur0.9\pos(533.225,402.06)\c&H221623&\t(-2836,732,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.01,0:20:08.06,signs,,0,0,0,gg_signs,{\fscx27.387\fscy26.88\fnpencilPete FONT\b1\fs120\blur0.9\pos(532.338,401.685)\c&H221623&\t(-2877,691,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.06,0:20:08.10,signs,,0,0,0,gg_signs,{\fscx27.245\fscy26.74\fnpencilPete FONT\b1\fs120\blur0.9\pos(531.574,401.355)\c&H221623&\t(-2919,649,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.10,0:20:08.14,signs,,0,0,0,gg_signs,{\fscx27.102\fscy26.6\fnpencilPete FONT\b1\fs120\blur0.9\pos(530.84,401.025)\c&H221623&\t(-2961,607,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.14,0:20:08.18,signs,,0,0,0,gg_signs,{\fscx26.959\fscy26.46\fnpencilPete FONT\b1\fs120\blur0.9\pos(530.122,400.725)\c&H221623&\t(-3003,565,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.18,0:20:08.22,signs,,0,0,0,gg_signs,{\fscx26.837\fscy26.34\fnpencilPete FONT\b1\fs120\blur0.9\pos(529.465,400.44)\c&H221623&\t(-3044,524,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.22,0:20:08.27,signs,,0,0,0,gg_signs,{\fscx26.725\fscy26.23\fnpencilPete FONT\b1\fs120\blur0.9\pos(528.884,400.185)\c&H221623&\t(-3086,482,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.27,0:20:08.31,signs,,0,0,0,gg_signs,{\fscx26.623\fscy26.13\fnpencilPete FONT\b1\fs120\blur0.9\pos(528.334,399.96)\c&H221623&\t(-3128,440,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.31,0:20:08.35,signs,,0,0,0,gg_signs,{\fscx26.501\fscy26.01\fnpencilPete FONT\b1\fs120\blur0.9\pos(527.723,399.705)\c&H221623&\t(-3169,399,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.35,0:20:08.39,signs,,0,0,0,gg_signs,{\fscx26.409\fscy25.92\fnpencilPete FONT\b1\fs120\blur0.9\pos(527.218,399.495)\c&H221623&\t(-3211,357,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.39,0:20:08.43,signs,,0,0,0,gg_signs,{\fscx26.338\fscy25.85\fnpencilPete FONT\b1\fs120\blur0.9\pos(526.867,399.33)\c&H221623&\t(-3253,315,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.43,0:20:08.47,signs,,0,0,0,gg_signs,{\fscx26.266\fscy25.78\fnpencilPete FONT\b1\fs120\blur0.9\pos(526.485,399.165)\c&H221623&\t(-3295,273,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.47,0:20:08.52,signs,,0,0,0,gg_signs,{\fscx26.205\fscy25.72\fnpencilPete FONT\b1\fs120\blur0.9\pos(526.164,399.015)\c&H221623&\t(-3336,232,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.52,0:20:08.56,signs,,0,0,0,gg_signs,{\fscx26.144\fscy25.66\fnpencilPete FONT\b1\fs120\blur0.9\pos(525.812,398.88)\c&H221623&\t(-3378,190,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.56,0:20:08.60,signs,,0,0,0,gg_signs,{\fscx26.103\fscy25.62\fnpencilPete FONT\b1\fs120\blur0.9\pos(525.568,398.79)\c&H221623&\t(-3420,148,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.60,0:20:08.64,signs,,0,0,0,gg_signs,{\fscx26.083\fscy25.6\fnpencilPete FONT\b1\fs120\blur0.9\pos(525.461,398.73)\c&H221623&\t(-3461,107,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.64,0:20:08.68,signs,,0,0,0,gg_signs,{\fscx26.042\fscy25.56\fnpencilPete FONT\b1\fs120\blur0.9\pos(525.247,398.64)\c&H221623&\t(-3503,65,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.68,0:20:08.72,signs,,0,0,0,gg_signs,{\fscx26.022\fscy25.54\fnpencilPete FONT\b1\fs120\blur0.9\pos(525.125,398.58)\c&H221623&\t(-3545,23,\blur0.6)\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.72,0:20:08.77,signs,,0,0,0,gg_signs,{\fscx26.012\fscy25.53\fnpencilPete FONT\b1\fs120\pos(525.063,398.595)\c&H221623&\blur0.6\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.77,0:20:08.81,signs,,0,0,0,gg_signs,{\fscx26.012\fscy25.53\fnpencilPete FONT\b1\fs120\pos(525.063,398.595)\c&H221623&\blur0.6\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.81,0:20:08.85,signs,,0,0,0,gg_signs,{\fscx26.022\fscy25.54\fnpencilPete FONT\b1\fs120\pos(525.079,398.595)\c&H221623&\blur0.6\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.85,0:20:08.89,signs,,0,0,0,gg_signs,{\fscx26.022\fscy25.54\fnpencilPete FONT\b1\fs120\pos(525.094,398.595)\c&H221623&\blur0.6\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.89,0:20:08.93,signs,,0,0,0,gg_signs,{\fscx26.022\fscy25.54\fnpencilPete FONT\b1\fs120\pos(525.125,398.595)\c&H221623&\blur0.6\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.93,0:20:08.97,signs,,0,0,0,gg_signs,{\fscx26.032\fscy25.55\fnpencilPete FONT\b1\fs120\pos(525.155,398.595)\c&H221623&\blur0.6\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:08.97,0:20:09.02,signs,,0,0,0,gg_signs,{\fscx26.042\fscy25.56\fnpencilPete FONT\b1\fs120\pos(525.186,398.595)\c&H221623&\blur0.6\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:09.02,0:20:09.06,signs,,0,0,0,gg_signs,{\fscx26.042\fscy25.56\fnpencilPete FONT\b1\fs120\pos(525.216,398.58)\c&H221623&\blur0.6\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:09.06,0:20:09.10,signs,,0,0,0,gg_signs,{\fscx26.052\fscy25.57\fnpencilPete FONT\b1\fs120\pos(525.247,398.58)\c&H221623&\blur0.6\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:09.10,0:20:09.14,signs,,0,0,0,gg_signs,{\fscx26.063\fscy25.58\fnpencilPete FONT\b1\fs120\pos(525.277,398.58)\c&H221623&\blur0.6\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:09.14,0:20:09.18,signs,,0,0,0,gg_signs,{\fscx26.063\fscy25.58\fnpencilPete FONT\b1\fs120\pos(525.308,398.58)\c&H221623&\blur0.6\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:09.18,0:20:09.22,signs,,0,0,0,gg_signs,{\fscx26.063\fscy25.58\fnpencilPete FONT\b1\fs120\pos(525.323,398.58)\c&H221623&\blur0.6\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:20:09.22,0:20:09.73,signs,,0,0,0,gg_signs,{\fscx26.073\fscy25.59\fnpencilPete FONT\b1\fs120\pos(525.354,398.58)\c&H221623&\blur0.6\frz13.86}Love Love Love Love Love Love
+Dialogue: 0,0:21:45.45,0:21:46.74,signs,,0,0,0,gg_signs,{\pos(641.887,205.5)\fnFranklin Gothic Demi\fs105\blur0.825\c&H38342D&}F{\c&H373229&}o{\c&H3B342B&}c{\c&H433C33&}u{\c&H4D463C&}s{\c&H544E45&}e{\c&H544F47&}d{\c&H4F4945&} {\c&H58524F&}T{\c&H6F6B68&}r{\c&H7C7975&}e{\c&H7F7C78&}a{\c&H7B7873&}t{\c&H5F5C55&}m{\c&H504C45&}e{\c&H464139&}n{\c&H464138&}t
