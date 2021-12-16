@@ -57,9 +57,9 @@ Dialogue: 10,0:03:10.67,0:03:13.71,Default,,0,0,0,,You can't call it a fancy vac
 Dialogue: 10,0:03:14.20,0:03:16.30,Default,,0,0,0,,if you're wearing a boring-ass swimsuit!
 Dialogue: 10,0:03:16.30,0:03:18.55,Default,,0,0,0,,Yours is the most boring one, though.
 Dialogue: 10,0:03:18.55,0:03:20.22,Default,,0,0,0,,Isn't that a school swimsuit?
-Dialogue: 10,0:03:20.22,0:03:21.72,Default,,0,0,0,,Everybody knows that
+Dialogue: 10,0:03:20.22,0:03:21.72,Default,ED,0,0,0,,Everybody knows that{ED: I'm not sure if there was a specific effect you were going for here, but I feel that it's more natural to split before "that". The pause also makes it feel like there should be an ellipsis at the end of this line.}
 Dialogue: 10,0:03:21.72,0:03:24.00,Default,,0,0,0,,school swimsuits are the most exciting of all!
-Dialogue: 10,0:03:24.00,0:03:26.48,Default,,0,0,0,,There are people who think that, I'm sure...
+Dialogue: 10,0:03:24.00,0:03:26.48,Default,TM,0,0,0,,There are people who think that, I'm sure...{TM: Needs more lead-in; the first sound starts at 0:03:24.08.}
 Dialogue: 10,0:03:26.48,0:03:29.48,Default,,0,0,0,,School swimsuits always look so samey.
 Dialogue: 10,0:03:29.48,0:03:31.07,Default,,0,0,0,,Are there specific regulations?
 Dialogue: 10,0:03:31.07,0:03:34.28,Default,,0,0,0,,Like, "It has to be such-and-such".
@@ -76,12 +76,12 @@ Dialogue: 10,0:04:01.03,0:04:03.64,Default,,0,0,0,,And that's not to mention whi
 Dialogue: 10,0:04:03.64,0:04:07.06,Default,,0,0,0,,{\q2}Forgive me! I didn't know \Nyou were so into school swimsuits!
 Dialogue: 10,0:04:07.06,0:04:10.15,Default,,0,0,0,,Somehow they're all the same design, though.
 Dialogue: 10,0:04:10.15,0:04:14.36,Default,,0,0,0,,{\q2}Uniform designs are super varied, \Nso why not swimsuits?
-Dialogue: 10,0:04:14.88,0:04:18.49,Default,,0,0,0,,{\q2}I'm just gonna come out and say it: \NSwimsuits {\i1}are{\i0} the summer uniform.
+Dialogue: 10,0:04:14.88,0:04:18.49,Default,ED,0,0,0,,{\q2}I'm just gonna come out and say it: \NSwimsuits {\i1}are{\i0} the summer uniform.{ED: A capital after the colon in this case is fine for AmE but BrE.}
 Dialogue: 10,0:04:18.49,0:04:22.95,Default,,0,0,0,,{\q2}The designs should be much more diverse, \Njust like the regular uniforms!
 Dialogue: 10,0:04:23.23,0:04:26.83,Default,,0,0,0,,{\q2}True. Some girls pick what school \Nto go to based on the uniform.
 Dialogue: 10,0:04:26.83,0:04:29.92,Default,,0,0,0,,It'd only help if swimsuits also enjoyed that benefit.
 Dialogue: 10,0:04:29.92,0:04:33.54,Default,,0,0,0,,{\q2}And leave the door wide open \Nfor freaks to flood these schools.
-Dialogue: 10,0:04:33.54,0:04:36.80,Default,,0,0,0,,{\q2}It's weird that no matter the \Ndifference in academic performance,
+Dialogue: 10,0:04:33.54,0:04:36.80,Default,ED,0,0,0,,{\q2}It's weird that no matter the \Ndifference in academic performance,{ED: split before "the" or after "difference"; avoid splitting the article from the following noun.}
 Dialogue: 10,0:04:36.80,0:04:38.63,Default,,0,0,0,,every school's swimsuit looks the same.
 Dialogue: 10,0:04:39.16,0:04:42.22,Default,,0,0,0,,{\q2}They should make the angle of \Nthe swimsuit match the school's score! {## holy shit Tetora, that is BRILLIANT}
 Dialogue: 10,0:04:42.22,0:04:45.47,Default,,0,0,0,,That sounds reasonable.
@@ -97,7 +97,7 @@ Dialogue: 10,0:05:05.58,0:05:08.62,Default,,0,0,0,,{\q2}Reap what the post-war J
 Dialogue: 10,0:05:08.62,0:05:10.08,Default,,0,0,0,,That stupid system is {\i1}ass{\i0}!
 Dialogue: 10,0:05:10.84,0:05:13.75,Default,,0,0,0,,{\q2}If you're against the scoring system, \Nthen you must be in favour of...
 Dialogue: 10,0:05:14.34,0:05:15.67,Default,,0,0,0,,Loose education!
-Dialogue: 10,0:05:15.67,0:05:19.05,Default,,0,0,0,,{\q2}Behold! A swimsuit for the \Nloose generation. It's even worse!
+Dialogue: 10,0:05:15.67,0:05:19.05,Default,ED,0,0,0,,{\q2}Behold! A swimsuit for the \Nloose generation. It's even worse!{ED: Split before "the" or after "loose".}
 Dialogue: 10,0:05:20.09,0:05:23.02,Default,,0,0,0,,Gan, have a little dignity.
 Dialogue: 10,0:05:23.02,0:05:25.56,Default,,0,0,0,,Does this mean you were part of generation loose?
 Dialogue: 10,0:05:25.56,0:05:27.47,Default,,0,0,0,,It looks really sloppy.
@@ -173,7 +173,7 @@ Dialogue: 10,0:08:48.32,0:08:51.78,Default,,0,0,0,,To Musashi-Sakai residents, t
 Dialogue: 10,0:08:51.78,0:08:55.33,Default,,0,0,0,,{\q2}It's been years of not being able to go \Nback and forth, despite being the same station!
 Dialogue: 10,0:08:55.33,0:08:57.34,Default,,0,0,0,,Okay, shall we head out?
 Dialogue: 10,0:08:59.19,0:09:01.59,Default,,0,0,0,,This is the Skip Street shopping mall.
-Dialogue: 10,0:09:01.59,0:09:02.94,Default,,0,0,0,,Why's it called "skip"?
+Dialogue: 10,0:09:01.59,0:09:02.94,Default,ED,0,0,0,,Why's it called "skip"?{ED: Should "skip" be capitalized if it's quoting from the name?}
 Dialogue: 10,0:09:02.94,0:09:06.06,Default,,0,0,0,,Can you only go down it if you skip?
 Dialogue: 10,0:09:06.06,0:09:08.52,Default,,0,0,0,,Skip, skip, skip!
 Dialogue: 10,0:09:10.21,0:09:12.99,Default,,0,0,0,,Skipping does nothing for me.
@@ -189,7 +189,7 @@ Dialogue: 10,0:09:34.29,0:09:38.47,Default,,0,0,0,,{\q2}If you did that, you'd b
 Dialogue: 10,0:09:38.47,0:09:43.37,Default,,0,0,0,,{\q2}It used to be that in August, men would parade down \Nthis street with their bellybuttons exposed.
 Dialogue: 10,0:09:43.37,0:09:43.85,Default,1,0,0,0,,Huh?
 Dialogue: 10,0:09:45.04,0:09:46.35,Default,,0,0,0,,Not like that!
-Dialogue: 10,0:09:46.35,0:09:47.53,Default,,0,0,0,,A traditional belly button dance!
+Dialogue: 10,0:09:46.35,0:09:47.53,Default,ED,0,0,0,,A traditional belly button dance!{ED: Spelling consistency. All other lines use "bellybutton" without a space.}
 Dialogue: 10,0:09:47.75,0:09:51.86,Default,,0,0,0,,{\q2}They strip down to the waist, paint a face \Non their stomach, and hide their own faces.
 Dialogue: 10,0:09:51.86,0:09:54.24,Default,,0,0,0,,Oh yeah, I saw that in {\i1}From the North{\i0}!
 Dialogue: 10,0:09:54.24,0:09:55.41,Default,,0,0,0,,It's a rip-off of the Hokkaido Bellybu—
@@ -218,7 +218,7 @@ Dialogue: 10,0:10:48.71,0:10:51.71,Default,,0,0,0,,Wrong! Musashi-Sakai is the b
 Dialogue: 10,0:10:54.68,0:10:57.54,Default,,0,0,0,,{\q2}This is supposed to be \Nwhere oil noodles were first invented.
 Dialogue: 10,0:10:57.54,0:11:01.57,Default,,0,0,0,,Some people say it was Sankou in Kunitachi, though.
 Dialogue: 10,0:11:01.57,0:11:04.23,Default,,0,0,0,,Are oil noodles different from tsukemen?
-Dialogue: 10,0:11:04.23,0:11:09.02,Default,,0,0,0,,{\q2}With oil noodles, you stir in a thick sauce \Nand then add vinegar and Chili oil.
+Dialogue: 10,0:11:04.23,0:11:09.02,Default,ED,0,0,0,,{\q2}With oil noodles, you stir in a thick sauce \Nand then add vinegar and Chili oil.{ED: "chili" should not be capitalized.}
 Dialogue: 10,0:11:09.02,0:11:10.98,Default,,0,0,0,,Like bukkake udon.
 Dialogue: 10,0:11:10.98,0:11:12.99,Default,,0,0,0,,What the hell is bukkake udon?
 Dialogue: 10,0:11:12.99,0:11:16.24,Default,,0,0,0,,{\q2}It's where you put the toppings on udon, \Nand then pour broth over it.
@@ -273,7 +273,7 @@ Dialogue: 10,0:13:02.73,0:13:04.64,Default,,0,0,0,,In Kyoto, they sell "Kyoto Wa
 Dialogue: 10,0:13:04.64,0:13:08.48,Default,,0,0,0,,{\q2}and in Osaka they sell tap water \Nunder the name "Honmaya".
 Dialogue: 10,0:13:08.48,0:13:12.30,Default,,0,0,0,,{\q2}Then I guess the water from here \Nwould be "Musashi-Sakai Water"!
 Dialogue: 10,0:13:12.30,0:13:14.31,Default,,0,0,0,,I don't think that'd sell.
-Dialogue: 10,0:13:14.57,0:13:16.78,Default,,0,0,0,,{\q2}The Japanese Veterinary and \NLife Science University.
+Dialogue: 10,0:13:14.57,0:13:16.78,Default,ED,0,0,0,,{\q2}The Japanese Veterinary and \NLife Science University.{ED: Break before "and"}
 Dialogue: 10,0:13:16.78,0:13:18.94,Default,,0,0,0,,There's a manga artist who went here!
 Dialogue: 10,0:13:18.94,0:13:19.86,Default,,0,0,0,,Cool.
 Dialogue: 10,0:13:20.07,0:13:21.36,Default,,0,0,0,,Asia University.
@@ -362,10 +362,10 @@ Dialogue: 10,0:16:47.99,0:16:49.44,Default,,0,0,0,,Don't look!
 Dialogue: 10,0:16:49.70,0:16:52.07,Default,,0,0,0,,So that's where you get material for your routine.
 Dialogue: 10,0:16:52.07,0:16:54.91,Default,,0,0,0,,Hey, it's hard coming up with opening gags.
 Dialogue: 10,0:16:54.91,0:16:58.86,Default,,0,0,0,,{\q2}They always seem to know exactly \Nwhat you want to browse or buy.
-Dialogue: 10,0:16:58.86,0:17:00.96,Default,,0,0,0,,It's a pretty amazing service for a rainforest.
+Dialogue: 10,0:16:58.86,0:17:00.96,Default,ED,0,0,0,,It's a pretty amazing service for a rainforest.{ED: TS has "Jungle". "Rainforest" is more correct, though, so maybe this doesn't need changing.}
 Dialogue: 10,0:17:00.96,0:17:05.17,Default,,0,0,0,,{\q2}Sometimes it's scary how accurately \Nthey can pin down your interests.
 Dialogue: 10,0:17:05.17,0:17:07.75,Default,,0,0,0,,{\q2}When things are on sale, \NI always end up buying them.
-Dialogue: 10,0:17:07.75,0:17:13.93,Default,,0,0,0,,{\q2}I forgot that I pre-ordered something and \Nbought it when it came out. Now I've got two...
+Dialogue: 10,0:17:07.75,0:17:13.93,Default,ED,0,0,0,,{\q2}I forgot that I pre-ordered something and \Nbought it when it came out. Now I've got two...{ED: Break before "and".}
 Dialogue: 10,0:17:13.93,0:17:19.06,Default,,0,0,0,,{\q2}But it's very kind how they say \N"You last bought this in such month of so year".
 Dialogue: 10,0:17:22.40,0:17:23.77,Default,,0,0,0,,My nose is all bunged up.
 Dialogue: 10,0:17:23.77,0:17:26.11,Default,,0,0,0,,It's very red.
@@ -426,7 +426,7 @@ Dialogue: 10,0:19:41.55,0:19:42.20,Default,,0,0,0,,Ow!
 Dialogue: 10,0:19:42.45,0:19:43.67,Default,,0,0,0,,Oops, wrong person.
 Dialogue: 10,0:19:43.67,0:19:45.86,Default,,0,0,0,,Marii hit me!
 Dialogue: 10,0:19:45.86,0:19:47.46,Default,,0,0,0,,Sorry, I didn't know it was you.
-Dialogue: 10,0:19:47.46,0:19:49.83,Default,,0,0,0,,Marii's turned into a jungle guerilla!
+Dialogue: 10,0:19:47.46,0:19:49.83,Default,ED,0,0,0,,Marii's turned into a jungle guerilla!{ED: While "guerilla" is not wrong, it seems "guerrilla" with two 'r's is more common.}
 Dialogue: 10,0:19:49.83,0:19:54.08,Default,,0,0,0,,{\q2}You never know when I'm going to \Nstrike at you from the darkness of the jungle!
 Dialogue: 10,0:19:54.67,0:19:55.63,Default,,0,0,0,,Who are you, Rambo?!
 Dialogue: 10,0:19:55.63,0:19:56.92,Default,,0,0,0,,Where'd you get {\i1}that{\i0} from?!
@@ -448,7 +448,7 @@ Dialogue: 10,0:20:45.09,0:20:47.37,Default,,0,0,0,,There she is. I see her!
 Dialogue: 10,0:20:51.02,0:20:51.90,Default,,0,0,0,,How...
 Dialogue: 10,0:20:51.90,0:20:55.44,Default,,0,0,0,,{\q2}Idiot. During a night fight, the person \Nemitting light is at a disadvantage.
 Dialogue: 10,0:20:59.08,0:21:00.74,Default,,0,0,0,,It's gotten even brighter.
-Dialogue: 10,0:21:00.74,0:21:05.58,Default,,0,0,0,,{\q2}I guess when you punched her, \Nher nose swelled up!
+Dialogue: 10,0:21:00.74,0:21:05.58,Default,ED,0,0,0,,{\q2}I guess when you punched her, \Nher nose swelled up!{ED: Not sure if this was an editing choice, but the bit from 0:21:03.88 is missing: "That's why the light got bigger, too!"}
 Dialogue: 10,0:21:05.58,0:21:06.89,Default,,0,0,0,,Oh, nice going!
 Dialogue: 10,0:21:06.89,0:21:08.43,Default,,0,0,0,,But it's still dark.
 Dialogue: 10,0:21:08.43,0:21:10.83,Default,,0,0,0,,Could we make it a little brighter?
