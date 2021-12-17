@@ -364,7 +364,7 @@ Dialogue: 10,0:16:47.99,0:16:49.44,Default,,0,0,0,,Don't look!
 Dialogue: 10,0:16:49.70,0:16:52.07,Default,,0,0,0,,So that's where you get material for your routine.
 Dialogue: 10,0:16:52.07,0:16:54.91,Default,,0,0,0,,Hey, it's hard coming up with opening gags.
 Dialogue: 10,0:16:54.91,0:16:58.86,Default,,0,0,0,,{\q2}They always seem to know exactly \Nwhat you want to browse or buy.
-Dialogue: 10,0:16:58.86,0:17:00.96,Default,ED,0,0,0,,It's a pretty amazing service for a rainforest.{ED: TS has "Jungle". "Rainforest" is more correct, though, so maybe this doesn't need changing.}{## This should probably be updated in the TS}
+Dialogue: 10,0:16:58.86,0:17:00.96,Default,,0,0,0,,It's a pretty amazing service for a rainforest.
 Dialogue: 10,0:17:00.96,0:17:05.17,Default,,0,0,0,,{\q2}Sometimes it's scary how accurately \Nthey can pin down your interests.
 Dialogue: 10,0:17:05.17,0:17:07.75,Default,,0,0,0,,{\q2}When things are on sale, \NI always end up buying them.
 Dialogue: 10,0:17:07.75,0:17:13.93,Default,,0,0,0,,{\q2}I forgot that I pre-ordered something \Nand bought it when it came out. Now I've got two...
