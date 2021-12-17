@@ -15,9 +15,9 @@ Video File: JoshirakuBD_11 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 675
-Active Line: 684
-Video Position: 19924
+Scroll Position: 678
+Active Line: 685
+Video Position: 15660
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -709,7 +709,9 @@ Dialogue: 3,0:10:26.48,0:10:27.69,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\
 Dialogue: 4,0:10:26.48,0:10:27.69,Sign,,0,0,0,midcard,{\fnBrushType-SemiBold\fs59\b0\c&H050603&\blur0.7\frz341.7\pos(759.49,97.85)}Marii Buratei
 Dialogue: 0,0:10:53.13,0:10:54.38,Sign,,0,0,0,,{\blur1\an7\fs42\c&H1A1711&\fnAgilita W02 Black Condensed\fax-0.28\pos(728,199.66)\frz15.39}The
 Dialogue: 0,0:10:53.13,0:10:54.38,Sign,,0,0,0,,{\blur1\an7\fs42\c&H27231B&\fnAgilita W02 Black Condensed\fax-0.28\pos(684.98,248.14)\frz15.39}Wie{\c&H1A1711&}ner
-Dialogue: 0,0:10:53.13,0:10:54.38,Sign,TS,0,0,0,,{TS: Missing repeat "The Wiener" sign.}
+Dialogue: 0,0:11:26.12,0:11:26.75,Sign,,0,0,0,,{\blur1\an7\fs42\c&H1A1711&\fnAgilita W02 Black Condensed\fax-0.28\pos(728,199.66)\frz15.39}The
+Dialogue: 0,0:11:26.12,0:11:26.75,Sign,,0,0,0,,{\blur1\an7\fs42\c&H27231B&\fnAgilita W02 Black Condensed\fax-0.28\pos(684.98,248.14)\frz15.39}Wie{\c&H1A1711&}ner
+Dialogue: 0,0:10:53.13,0:10:54.38,Sign,,0,0,0,,{TS: Missing repeat "The Wiener" sign.}
 Dialogue: 0,0:13:50.97,0:14:05.40,Sign,TS,0,0,0,,{TS: Missing signs. Take names from dialogue.}
 Dialogue: 0,0:13:50.97,0:13:52.31,Sign,,0,0,0,,{=43}{\alpha&H00&\an7\blur1\bord0\shad0\fscx100\fscy100\pos(658,548)\p1\c&HEEEFEE&}m -274 -173 l 266 -173 266 -15 -274 -15
 Dialogue: 0,0:13:52.31,0:13:52.39,Sign,,0,0,0,,{=43}{\alpha&H00&\an7\blur1\bord0\shad0\fscx100.01\fscy100.01\pos(658,548)\p1\c&HEEEFEE&}m -274 -173 l 266 -173 266 -15 -274 -15
