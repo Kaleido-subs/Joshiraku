@@ -14,9 +14,10 @@ Audio File: JoshirakuBD_11 (Premux).mkv
 Video File: JoshirakuBD_11 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Active Line: 11
-Video Position: 34621
+Video Zoom Percent: 0.625000
+Scroll Position: 674
+Active Line: 676
+Video Position: 14872
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -701,6 +702,26 @@ Dialogue: 0,0:10:11.13,0:10:12.47,AI TS,,0,0,0,,{\an7\1c&HB6A39A&\p1\pos(-316,-1
 Dialogue: 0,0:10:11.13,0:10:12.47,AI TS,,0,0,0,,{\an7\1c&HAB9B90&\p1\pos(-316,-177.33)}m 1072.98 583 b 1070.15 582.29 1070.6 580.76 1071.98 579 1072.66 580.24 1073.13 581.54 1072.98 583{\p0}
 Dialogue: 0,0:10:11.13,0:10:12.47,Sign,,0,0,0,,{\blur1.2\an5\fs48\c&H1E2225&\fnAgeo Personal Use Heavy\b0\clip(m 463.2 243.2 l 962.4 364 965.6 483.2 441.6 370.4)\org(414.4,549.5)\fry4.57\frx5.52\pos(717,273.6)\fscx215\fscy206\frz349.8}Doppo Street
 Dialogue: 0,0:10:20.26,0:10:23.22,Sign,TS;ED,0,0,0,,{TS: Missing sign.}{ED: gg has "Kunikida Doppo's works" for this sign, literally "Kunikida Doppo Literature Monument". 国木田独歩文学碑 is a real place, so you can look up what other people use. "Doppo" is the given name.}
+Dialogue: 0,0:10:20.26,0:10:20.30,Sign,,0,0,0,,{=55}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.72,63.71)\fscx140\fscy131}Kunikid{\c&H8BE38D&}a {\c&H21302A&}\NDoppo{\c&H7FD681&}'s\N {\c&H21302A&}works
+Dialogue: 0,0:10:20.30,0:10:20.34,Sign,,0,0,0,,{=55}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.72,50.44)\fscx140\fscy131}Kunikid{\c&H8BE38D&}a {\c&H21302A&}\NDoppo{\c&H7FD681&}'s\N {\c&H21302A&}works
+Dialogue: 0,0:10:20.34,0:10:20.39,Sign,,0,0,0,,{=55}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.71,37.17)\fscx140\fscy131}Kunikid{\c&H8BE38D&}a {\c&H21302A&}\NDoppo{\c&H7FD681&}'s\N {\c&H21302A&}works
+Dialogue: 0,0:10:20.39,0:10:20.43,Sign,,0,0,0,,{=55}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.71,23.89)\fscx140\fscy131}Kunikid{\c&H8BE38D&}a {\c&H21302A&}\NDoppo{\c&H7FD681&}'s\N {\c&H21302A&}works
+Dialogue: 0,0:10:20.43,0:10:20.47,Sign,,0,0,0,,{=55}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.71,10.63)\fscx140\fscy131}Kunikid{\c&H8BE38D&}a {\c&H21302A&}\NDoppo{\c&H7FD681&}'s\N {\c&H21302A&}works
+Dialogue: 0,0:10:20.47,0:10:20.51,Sign,,0,0,0,,{=55}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.69,-2.65)\fscx140\fscy131}Kunikid{\c&H8BE38D&}a {\c&H21302A&}\NDoppo{\c&H7FD681&}'s\N {\c&H21302A&}works
+Dialogue: 0,0:10:20.51,0:10:20.55,Sign,,0,0,0,,{=55}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.72,-15.94)\fscx140\fscy131}Kunikid{\c&H8BE38D&}a {\c&H21302A&}\NDoppo{\c&H7FD681&}'s\N {\c&H21302A&}works
+Dialogue: 0,0:10:20.55,0:10:20.59,Sign,,0,0,0,,{=55}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.72,-29.2)\fscx140\fscy131}Kunikid{\c&H8BE38D&}a {\c&H21302A&}\NDoppo{\c&H7FD681&}'s\N {\c&H21302A&}works
+Dialogue: 0,0:10:20.59,0:10:20.64,Sign,,0,0,0,,{=55}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.71,-42.48)\fscx140\fscy131}Kunikid{\c&H8BE38D&}a {\c&H21302A&}\NDoppo{\c&H7FD681&}'s\N {\c&H21302A&}works
+Dialogue: 0,0:10:20.64,0:10:20.68,Sign,,0,0,0,,{=55}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.7,-55.73)\fscx140\fscy131}Kunikid{\c&H8BE38D&}a {\c&H21302A&}\NDoppo{\c&H7FD681&}'s\N {\c&H21302A&}works
+Dialogue: 1,0:10:20.26,0:10:20.30,Sign,,0,0,0,,{=54}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.72,63.71)\fscx140\fscy131}Kunikida \NDoppo's\N works
+Dialogue: 1,0:10:20.30,0:10:20.34,Sign,,0,0,0,,{=54}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.72,50.44)\fscx140\fscy131}Kunikida \NDoppo's\N works
+Dialogue: 1,0:10:20.34,0:10:20.39,Sign,,0,0,0,,{=54}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.71,37.17)\fscx140\fscy131}Kunikida \NDoppo's\N works
+Dialogue: 1,0:10:20.39,0:10:20.43,Sign,,0,0,0,,{=54}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.71,23.89)\fscx140\fscy131}Kunikida \NDoppo's\N works
+Dialogue: 1,0:10:20.43,0:10:20.47,Sign,,0,0,0,,{=54}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.71,10.63)\fscx140\fscy131}Kunikida \NDoppo's\N works
+Dialogue: 1,0:10:20.47,0:10:20.51,Sign,,0,0,0,,{=54}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.69,-2.65)\fscx140\fscy131}Kunikida \NDoppo's\N works
+Dialogue: 1,0:10:20.51,0:10:20.55,Sign,,0,0,0,,{=54}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.72,-15.94)\fscx140\fscy131}Kunikida \NDoppo's\N works
+Dialogue: 1,0:10:20.55,0:10:20.59,Sign,,0,0,0,,{=54}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.72,-29.2)\fscx140\fscy131}Kunikida \NDoppo's\N works
+Dialogue: 1,0:10:20.59,0:10:20.64,Sign,,0,0,0,,{=54}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.71,-42.48)\fscx140\fscy131}Kunikida \NDoppo's\N works
+Dialogue: 1,0:10:20.64,0:10:20.68,Sign,,0,0,0,,{=54}{\alpha&H00&\blur1\c&H21302A&\fn!Sketchy Times\b0\fs30\pos(645.7,-55.73)\fscx140\fscy131}Kunikida \NDoppo's\N works
 Dialogue: 0,0:10:26.48,0:10:27.69,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\fscx100\fscy100\c&H0C0B07&\p1\frz341.7\pos(754.67,93.67)}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 1,0:10:26.48,0:10:27.69,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\fscx97.5\fscy90\c&HEAEAEA&\p1\frz341.7\pos(754.67,93.67)}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 2,0:10:26.48,0:10:27.69,Sign,,0,0,0,midcard,{\an7\blur0.8\bord0\shad0\fscx94.5\fscy80\p1\c&H0C0B07&\frz341.7\pos(754.67,93.67)}m -168 -46 l 182 -46 182 43 -168 43
@@ -2680,3 +2701,5 @@ Data: 46,a-mo,e{"uuid"#3A"bc8f5913-f5de-425c-b3f8-5d34d94057b9"#2C"originalText"
 Data: 47,a-mo,e{"uuid"#3A"09c13de9-353a-4f09-b3ee-890a9dc8ae4c"#2C"originalText"#3A"{\\an7\\blur1\\bord0\\shad0\\fscx100\\fscy100\\pos(666#2C223.5)\\p1\\c&HEEEFEE&}m -281 155 l 242 155 242 308 -281 308"}
 Data: 48,a-mo,e{"uuid"#3A"1a20f495-72d1-4385-b0d2-7528be50c6de"#2C"originalText"#3A"{\\blur0.8\\fs105\\c&H11120D&\\fnCollegiate\\b1\\pos(648#2C454)}Musashi-Sakai Line"}
 Data: 49,a-mo,e{"uuid"#3A"77368ae3-cd88-4de4-b6e2-ded6a7a2a01e"#2C"originalText"#3A"{\\an7\\blur1\\bord0\\shad0\\fscx100\\fscy100\\pos(648#2C454)\\p1\\c&HEEEFEE&}m -295 -71 l -196 -71 -184 -69 -172 -70 -132 -66 -103 -69 -51 -69 109 -70 196 -67 220 -79 285 -81 283 80 -288 78"}
+Data: 54,a-mo,e{"uuid"#3A"330142cf-997b-4a2e-ad43-30f265fc46d7"#2C"originalText"#3A"{\\blur1\\c&H21302A&\\fn!Sketchy Times\\b0\\fs30\\pos(645.72#2C63.71)\\fscx140\\fscy131}Kunikida \\NDoppo's\\N works"}
+Data: 55,a-mo,e{"uuid"#3A"4b46ceb6-7081-4970-9318-908a34e8fd98"#2C"originalText"#3A"{\\blur1\\c&H21302A&\\fn!Sketchy Times\\b0\\fs30\\pos(645.72#2C63.71)\\fscx140\\fscy131}Kunikid{\\c&H8BE38D&}a {\\c&H21302A&}\\NDoppo{\\c&H7FD681&}'s\\N {\\c&H21302A&}works"}
