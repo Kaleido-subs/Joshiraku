@@ -14,9 +14,9 @@ Audio File: JoshirakuBD_13 (Premux).mkv
 Video File: JoshirakuBD_13 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 1034
-Active Line: 1042
+Video Zoom Percent: 0.500000
+Scroll Position: 1037
+Active Line: 1045
 Video Position: 20559
 
 [V4+ Styles]
@@ -28,7 +28,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:39.33,0:01:41.33,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\pos(640,360)\p1\c&H000000&\fscx106\fscy152}m -237 -248 l 240 -248 240 195 -237 195
 Dialogue: 0,0:04:18.86,0:04:24.45,Sign,,0,0,0,,{\an7\blur1\bord3\shad0\p1\3c&H6D6F86&\c&H6D6F86&\fscx105\fscy115\pos(245.14,113.57)}m -214 -55 l 216 -55 216 64 -214 64
 Dialogue: 1,0:04:18.86,0:04:24.45,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\p1\c&HE2E8FA&\4a&HFF&\fscx105\fscy115\pos(245.14,113.57)}m -214 -55 l 216 -55 216 64 -214 64
-Dialogue: 2,0:04:18.86,0:04:24.45,Sign,,0,0,0,,{\blur0.8\an5\fs95\c&H230B3B&\fnSmudger LET\fscx91\fscy100\pos(223.14,96.07)}Uzannu Uzattei 
+Dialogue: 2,0:04:18.86,0:04:24.45,Sign,,0,0,0,,{\blur0.8\an5\fs95\c&H230B3B&\fnSmudger LET\fscx91\fscy100\pos(223.14,96.07)}Uzannu Uzattei
 Dialogue: 2,0:04:18.86,0:04:24.45,Sign,,0,0,0,,{\blur0.8\an5\fs40\c&H230B3B&\fnSmudger LET\pos(311.14,158.4)}Voiced by ***ko Shin****
 Dialogue: 0,0:04:24.45,0:04:29.67,Sign,,0,0,0,,{\blur0.8\an7\fs59\c&H13120E&\fnSmudger LET\pos(569.43,-2.44)}Voiced by\N ***ko Shin****
 Dialogue: 1,0:04:44.60,0:04:50.31,Sign,,0,0,0,,{\blur1\c&H364145&\fnAlpha54\frz0.6038\pos(666.33,97)\fscx137\fscy131}C{\c&H354044&}h{\c&H343F43&}e{\c&H323D41&}r{\c&H313C40&}i{\c&H303B3F&}s{\c&H2F3A3E&}h{\c&H2E393D&} {\c&H2C373B&}t{\c&H2B363A&}h{\c&H2A3539&}e{\c&H293438&} {\c&H273236&}f{\c&H263135&}l{\c&H253034&}e{\c&H242F33&}e{\c&H232E32&}t{\c&H212C30&}i{\c&H202B2F&}n{\c&H1F2A2E&}g
@@ -1066,11 +1066,11 @@ Comment: 0,0:07:48.41,0:07:50.91,Sign,,0,0,0,,{TS: Missing name sign.}{Done}
 Dialogue: 0,0:10:52.26,0:10:54.26,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
 Dialogue: 1,0:10:52.26,0:10:54.26,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.8}The Battle of Shinjuku
 Dialogue: 1,0:08:51.93,0:08:53.93,Sign,TS,0,0,0,,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.8}Akihabubble
-Dialogue: 0,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx80\fscy80\c&H010000&\p1\frz14.43\pos(322.8,44.33)}m -168 -46 l 182 -46 182 43 -168 43
-Dialogue: 1,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx77\fscy70\c&HFEFEFE&\p1\frz14.43\pos(322.8,44.33)}m -168 -46 l 182 -46 182 43 -168 43
-Dialogue: 2,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx74.6\fscy60\p1\c&H000000&\frz14.43\pos(322.8,44.33)}m -168 -46 l 182 -46 182 43 -168 43
-Dialogue: 3,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx73.4\fscy54\p1\c&HFEFEFE&\frz14.43\pos(322.8,44.33)}m -168 -46 l 182 -46 182 43 -168 43
-Dialogue: 4,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\fscx80\fscy80\fnBrushType-SemiBold\fs59\b0\c&H000000&\blur0.7\frz14.43\pos(328.66,47.47)}Marii Burateii
+Dialogue: 0,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx80\fscy80\c&H010000&\p1\frz13.03\pos(321.91,48.14)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 1,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx77\fscy70\c&HFEFEFE&\p1\frz13.03\pos(321.91,48.14)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 2,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx74.6\fscy60\p1\c&H000000&\frz13.03\pos(321.91,48.14)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 3,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx73.4\fscy54\p1\c&HFEFEFE&\frz13.03\pos(321.91,48.14)}m -168 -46 l 182 -46 182 43 -168 43
+Dialogue: 4,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\fscx80\fscy80\fnBrushType-SemiBold\fs59\b0\c&H000000&\blur0.7\frz13.03\pos(327.77,51.28)}Marii Burateii
 Dialogue: 0,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8\pos(821.71,640.18)}Rakugo Girls
 Dialogue: 0,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8\pos(821.71,640.18)}Rakugo Girls
 Comment: 0,0:14:17.46,0:14:19.96,Sign,,0,0,0,,{TS: Missing character name sign}{Done}
