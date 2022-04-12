@@ -21,6 +21,13 @@ Style: Ep10 - INS,Who asks Satan,56,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:07:21.92,0:07:22.84,Ep10 - INS,,0,0,0,template line,{\bord0\blur0.65}
+Comment: 0,0:07:21.92,0:07:22.84,Ep10 - INS,,0,0,0,template line,{\1a&HFE&\3a&HFE&\shad0.01\blur1}
+Comment: 0,0:07:21.92,0:07:22.84,Ep10 - INS,,0,0,0,,
+Comment: 0,0:07:21.92,0:07:22.84,Ep10 - INS,,0,0,0,mixin line,{!ln.line.tag('pos', 'frz')!\t(!orgline.duration-300!, !orgline.duration+100!,\4c&H000000&)}
+Comment: 0,0:07:21.92,0:07:22.84,Ep10 - INS,,0,0,0,mixin line actor main,{\fad(100,200)\t(0,!orgline.duration/2!,\fscx120\fscy120)\t(!orgline.duration/2!,!orgline.duration!,\fscx100\fscy100)}
+Comment: 0,0:07:21.92,0:07:22.84,Ep10 - INS,,0,0,0,mixin line actor long,{\fad(100,300)\t(\fscx135\fscy135)}
+Comment: 0,0:07:21.92,0:07:22.84,Ep10 - INS,,0,0,0,,
 Comment: 0,0:07:21.92,0:07:22.84,Ep10 - INS,main,0,0,0,kara,Beef bowl!
 Comment: 0,0:07:22.84,0:07:23.63,Ep10 - INS,main,0,0,0,kara,Beef bowl!
 Comment: 0,0:07:23.63,0:07:24.42,Ep10 - INS,main,0,0,0,kara,Beef bowl!
