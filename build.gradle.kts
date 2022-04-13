@@ -146,18 +146,22 @@ subs {
         }
 
         attach(get("fonts")) {
-            includeExtensions("ttf", "otf")
+            includeExtensions("ttf", "otf", "ttc")
+        }
+
+        attach(get("fonts_alt")) {
+            includeExtensions("ttf", "otf", "ttc")
         }
 
         if (propertyExists("OP")) {
             attach(get("opfonts")) {
-                includeExtensions("ttf", "otf")
+                includeExtensions("ttf", "otf", "ttc")
             }
         }
 
         if (propertyExists("ED")) {
             attach(get("edfonts")) {
-                includeExtensions("ttf", "otf")
+                includeExtensions("ttf", "otf", "ttc")
             }
         }
 
