@@ -1042,8 +1042,6 @@ Comment: 0,0:17:22.52,0:17:24.52,Sign,,0,0,0,,{\pos(102,57)\an7\fs40}Note: All s
 Comment: 0,0:19:04.46,0:19:08.34,Sign,,0,0,0,,{\pos(102,57)\an7\fs40}Note: "La" sounds like "naked" in Japanese. "Megane" means glasses.
 Dialogue: 0,0:19:27.06,0:19:31.40,Sign,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1067.71,81)\p1\c&H5F2E6C&}m -186 -38 l 188 -38 188 40 -186 40
 Dialogue: 1,0:19:27.06,0:19:31.40,Sign,,0,0,0,,{\blur0.8\an5\fs40\c&HD1CEE0&\fnSmudger LET\pos(1067.71,81)\fscx155\fscy170}Women's Association
-Dialogue: 0,0:23:36.60,0:23:40.02,Sign,,0,0,0,,{\fad(232,0)\blur0.9\an5\fs71\3c&HF9FEFB&\c&HF9FEFB&\bord3.5\fnBrushType-SemiBold\fscx351\fscy198\pos(619.34,644.01)\1a&HFF&\t(187,232,\1a&H00&)}Fin
-Dialogue: 1,0:23:36.60,0:23:40.02,Sign,,0,0,0,,{\fad(232,0)\blur0.9\an5\fs71\c&H181818&\bord0\fnBrushType-SemiBold\fscx351\fscy198\pos(619.34,644.01)\4a&HFF&}Fin
 Dialogue: 1,0:01:39.33,0:01:41.33,Sign,,0,0,0,,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.8}Character Assassination
 Comment: 0,0:04:18.86,0:04:24.45,Sign,,0,0,0,,{TS: Not a huge deal, but the original sign is a lot more magenta than brown. I would also imitate the font-sizing of the original: make her name larger and more prominent, and the "Voiced by" line smaller and less prominent.}{Done}
 Dialogue: 0,0:07:48.41,0:07:50.91,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx80\fscy80\c&H010000&\p1\frz18.08\pos(550.13,76.33)}m -168 -46 l 182 -46 182 43 -168 43
