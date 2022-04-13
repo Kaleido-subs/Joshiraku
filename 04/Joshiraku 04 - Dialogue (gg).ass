@@ -568,10 +568,10 @@ Dialogue: 0,0:01:53.59,0:01:55.59,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy37
 Dialogue: 0,0:06:48.17,0:06:49.13,brush1,,0,0,0,,{\an3\pos(1356,678)\fs150\be2}{TS 0649}This anime...\Netc.{rest omitted}
 Dialogue: 0,0:09:47.94,0:09:49.94,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Nausea at Sea{retcon it}
 Dialogue: 0,0:15:14.14,0:15:16.14,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Eye of the Rabbit
-Dialogue: 0,0:17:24.02,0:17:25.27,brush1,,0,0,0,,{\pos(519,123.499)\fscy80\fnH_Valkyria\fs105\c&H140C02&\be2\fad(280,280)}Girl with a bucket
-Dialogue: 0,0:17:25.02,0:17:26.23,brush1,,0,0,0,,{\pos(519,123.499)\fscy80\fnH_Valkyria\fs105\c&H140C02&\be2\fad(280,280)}Crab with big claws
-Dialogue: 0,0:17:26.02,0:17:27.27,brush1,,0,0,0,,{\pos(519,123.499)\fscy80\fnH_Valkyria\fs105\c&H140C02&\be2\fad(280,280)}Woman reading a book
-Dialogue: 0,0:17:27.02,0:17:28.15,brush1,,0,0,0,,{\pos(519,123.499)\fscy80\fnH_Valkyria\fs105\c&H140C02&\be2\fad(280,0)}Roaring lion
+Dialogue: 0,0:17:24.02,0:17:25.27,brush1,,0,0,0,,{\pos(519,123.499)\fscy80\fnH_Valkyria-fix\fs105\c&H140C02&\be2\fad(280,280)}Girl with a bucket
+Dialogue: 0,0:17:25.02,0:17:26.23,brush1,,0,0,0,,{\pos(519,123.499)\fscy80\fnH_Valkyria-fix\fs105\c&H140C02&\be2\fad(280,280)}Crab with big claws
+Dialogue: 0,0:17:26.02,0:17:27.27,brush1,,0,0,0,,{\pos(519,123.499)\fscy80\fnH_Valkyria-fix\fs105\c&H140C02&\be2\fad(280,280)}Woman reading a book
+Dialogue: 0,0:17:27.02,0:17:28.15,brush1,,0,0,0,,{\pos(519,123.499)\fscy80\fnH_Valkyria-fix\fs105\c&H140C02&\be2\fad(280,0)}Roaring lion
 Dialogue: 0,0:02:36.55,0:02:39.34,brush4,,0,0,0,,{\an1\pos(328,822.499)\fscx370\fscy370\fsp-1.5\be2}This anime is\Nfull of ordinary dialogue\Nso that viewers can fully\Nenjoy how cute the girls are.
 Dialogue: 0,0:02:49.81,0:02:51.73,brush4,,0,0,0,,{\an1\pos(328,822.499)\fscx370\fscy370\fsp-1.5\be2}This anime is\Nfull of ordinary dialogue\Nso that viewers can fully\Nenjoy how cute the girls are.
 Dialogue: 0,0:03:16.46,0:03:18.38,brush4,,0,0,0,,{\an1\pos(328,822.499)\fscx370\fscy370\fsp-1.5\be2}This anime is\Nfull of ordinary dialogue\Nso that viewers can fully\Nenjoy how cute the girls are.
