@@ -85,6 +85,14 @@ subs {
 
     val alt_track by task<ASS> {
         from(get("dialogue_alt"))
+
+        includeExtraData(false)
+        includeProjectGarbage(false)
+
+        scriptInfo {
+            title = get("group_alt").get()
+            scaledBorderAndShadow = true
+        }
     }
 
     chapters {
