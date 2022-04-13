@@ -70,6 +70,7 @@ subs {
 
         scriptInfo {
             title = get("group").get()
+            originalScript = get("source_subs").get()
             scaledBorderAndShadow = true
         }
     }
@@ -83,14 +84,17 @@ subs {
         }
     }
 
-    val alt_track by task<ASS> {
+    val alt_track by task<Merge> {
         from(get("dialogue_alt"))
 
         includeExtraData(false)
         includeProjectGarbage(false)
 
         scriptInfo {
-            title = get("group_alt").get()
+            title = get("group_alt_new").get()
+            originalScript = get("group_alt_old").get()
+            updatedBy = get("group").get()
+            updateDetails = get("alt_updated_details").get()
             scaledBorderAndShadow = true
         }
     }
