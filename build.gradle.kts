@@ -62,10 +62,6 @@ subs {
             }
         }
 
-        if (file(get("IS")).exists()) {
-            from(get("IS"))
-        }
-
         fromIfPresent(get("INS"), ignoreMissingFiles = true)
         fromIfPresent(getList("TS"), ignoreMissingFiles = true)
 
@@ -73,7 +69,7 @@ subs {
         includeProjectGarbage(false)
 
         scriptInfo {
-            title = "Kaleido-subs"
+            title = get("group").get()
             scaledBorderAndShadow = true
         }
     }
@@ -85,6 +81,10 @@ subs {
                 it.isKaraTemplate()
                 }
         }
+    }
+
+    val alt_track by task<ASS> {
+        from(get("dialogue_alt"))
     }
 
     chapters {
@@ -113,6 +113,17 @@ subs {
                 lang("eng")
                 name(get("group"))
                 default(true)
+                forced(false)
+                compression(CompressionType.ZLIB)
+            }
+        }
+
+        // Alt gg track
+        from(alt_track.item()) {
+            tracks {
+                lang("eng")
+                name(get("group_alt"))
+                default(false)
                 forced(false)
                 compression(CompressionType.ZLIB)
             }
