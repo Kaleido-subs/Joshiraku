@@ -109,6 +109,7 @@ subs {
 
         from(get("premux")) {
             video {
+                name("Original encode by LightArrowsEXE@Kaleido")
                 lang("jpn")
                 default(true)
             }
