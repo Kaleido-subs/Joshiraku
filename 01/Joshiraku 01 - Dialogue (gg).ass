@@ -12,8 +12,10 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../01/JoshirakuBD_01_new (Premux).mkv
-Video File: ../01/JoshirakuBD_01_new (Premux).mkv
+Audio File: JoshirakuBD_01_new (Premux).mkv
+Video File: JoshirakuBD_01_new (Premux).mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,15 +43,15 @@ Dialogue: 10,0:00:04.86,0:00:07.40,Default,,0,0,0,,Knock knock. Knock knock.
 Dialogue: 10,0:00:07.90,0:00:13.66,Default,,0,0,0,,"Who is it? Do you bring news of my husband's death?"
 Dialogue: 10,0:00:13.66,0:00:19.08,Default,,0,0,0,,"Oh please, your husband bit the dust 30 years ago!"
 Dialogue: 10,0:00:19.08,0:00:22.00,Default,,0,0,0,,"It's me, Kumagorou the Fool!"
-Dialogue: 10,0:00:22.00,0:00:26.26,Default,,0,0,0,,"Ah, Kumagorou. What business do you have with this old woman?"
+Dialogue: 10,0:00:22.00,0:00:26.26,Default,,0,0,0,,{\q2}"Ah, Kumagorou. What business \Ndo you have with this old woman?"
 Dialogue: 10,0:00:26.26,0:00:27.84,Default,,0,0,0,,"Skip the formalities."
 Dialogue: 10,0:00:27.84,0:00:30.01,Default,,0,0,0,,"It should be impossible for someone my age,"
 Dialogue: 10,0:00:30.01,0:00:33.94,Default,,0,0,0,,"but I was able to make my own delicacy!"
-Dialogue: 10,0:00:33.94,0:00:36.89,Default,,0,0,0,,"Oh, that's wonderful!
-Dialogue: 10,0:00:36.89,0:00:45.19,Default,,0,0,0,,"Being able to make a delicacy shows how much you've learned!"
+Dialogue: 10,0:00:33.94,0:00:36.89,Default,,0,0,0,,"Oh, that's wonderful!"
+Dialogue: 10,0:00:36.89,0:00:45.19,Default,,0,0,0,,{\q2}"Being able to make a delicacy \Nshows how much you've learned!"
 Dialogue: 10,0:00:45.19,0:00:47.86,Default,,0,0,0,,"So, how was it?"
 Dialogue: 10,0:00:47.86,0:00:51.53,Default,,0,0,0,,"I handed him the package, asked for his seal stamp,"
-Dialogue: 10,0:00:51.53,0:00:54.24,Default,,0,0,0,,"and told him if he doesn't have it on hand, he could sign for it instead."
+Dialogue: 10,0:00:51.53,0:00:54.24,Default,,0,0,0,,{\q2}"and told him if he doesn't have it \Non hand, he could sign for it instead."
 Dialogue: 10,0:00:54.24,0:00:55.95,Default,,0,0,0,,"You fool."
 Dialogue: 10,0:00:55.95,0:01:00.46,Default,,0,0,0,,"That's not a delicacy, that's a delivery."
 Dialogue: 10,0:01:01.17,0:01:03.67,Default,,0,0,0,,Thank you kindly for your attention.
@@ -64,16 +66,16 @@ Dialogue: 10,0:03:45.71,0:03:48.45,Default,,0,0,0,,So why would anyone turn a ma
 Dialogue: 10,0:03:48.45,0:03:52.63,Default,,0,0,0,,Well, now that you put it that way... You have a point.
 Dialogue: 10,0:03:52.63,0:03:54.30,Default,,0,0,0,,...said Gan.
 Dialogue: 10,0:03:54.30,0:03:55.30,Default,,0,0,0,,What?
-Dialogue: 10,0:03:55.30,0:04:01.26,Default,,0,0,0,,Stop that! They're working so hard to animate us{ and fansub us} even though there's so little to animate!
+Dialogue: 10,0:03:55.30,0:04:01.26,Default,,0,0,0,,{\q2}Stop that! They're working so hard to animate us{ and fansub us} \Neven though there's so little to animate!
 Dialogue: 10,0:04:01.26,0:04:04.22,Default,,0,0,0,,Yeah, Gan. You shouldn't write off this project just yet.
 Dialogue: 10,0:04:04.22,0:04:06.14,Default,,0,0,0,,I haven't even said anything!
 Dialogue: 10,0:04:06.14,0:04:08.81,Default,,0,0,0,,Not to mention you all agreed as well!
-Dialogue: 10,0:04:09.27,0:04:12.19,Default,,0,0,0,,In the event we get an anime, please leave Gan unanimated.
+Dialogue: 10,0:04:09.27,0:04:12.19,Default,,0,0,0,,{\q2}In the event we get an anime, \Nplease leave Gan unanimated.
 Dialogue: 10,0:04:12.19,0:04:13.11,Default,,0,0,0,,Hey!
 Dialogue: 10,0:04:13.11,0:04:17.24,Default,,0,0,0,,Well, at least we'll have more viewers than we do readers.
 Dialogue: 10,0:04:17.24,0:04:21.91,Default,,0,0,0,,Though most of them will be watching it for free.
 Dialogue: 10,0:04:21.91,0:04:24.12,Default,,0,0,0,,A shopper who doesn't buy anything is just a window shopper.
-Dialogue: 10,0:04:24.12,0:04:27.62,Default,,0,0,0,,But thinking about all those people watching makes me nervous!
+Dialogue: 10,0:04:24.12,0:04:27.62,Default,,0,0,0,,But thinking about all those people \Nwatching makes me nervous!
 Dialogue: 10,0:04:27.62,0:04:31.69,Default,,0,0,0,,Don't be stupid. Just act normally.
 Dialogue: 10,0:04:31.69,0:04:36.51,Default,,0,0,0,,This anime is full of ordinary dialogue
 Dialogue: 10,0:04:36.51,0:04:43.05,Default,,0,0,0,,so that viewers can fully enjoy how cute the girls are.
@@ -114,7 +116,7 @@ Dialogue: 10,0:06:00.72,0:06:04.05,Default,,0,0,0,,I used to find it difficult t
 Dialogue: 10,0:06:04.05,0:06:05.34,Default,,0,0,0,,Huh? Why?
 Dialogue: 10,0:06:05.34,0:06:06.72,Default,,0,0,0,,There are lots of men,
 Dialogue: 10,0:06:06.72,0:06:09.81,Default,,0,0,0,,and you can't look too fashionable or too casual.
-Dialogue: 10,0:06:09.81,0:06:12.69,Default,,0,0,0,,You have to find the right balance between standing out and blending in.
+Dialogue: 10,0:06:09.81,0:06:12.69,Default,,0,0,0,,{\q2}You have to find the right balance \Nbetween standing out and blending in.
 Dialogue: 10,0:06:12.69,0:06:15.48,Default,,0,0,0,,Ah, so it's a weird situation?
 Dialogue: 10,0:06:15.48,0:06:18.27,Default,,0,0,0,,You should wear whatever you'd like.
 Dialogue: 10,0:06:18.27,0:06:19.94,Default,,0,0,0,,Just dress casually, of course.
@@ -128,33 +130,33 @@ Dialogue: 10,0:06:40.04,0:06:42.76,Default,,0,0,0,,How casual is casual?
 Dialogue: 10,0:06:42.76,0:06:44.63,Default,,0,0,0,,Casual is so difficult.
 Dialogue: 10,0:06:44.63,0:06:46.72,Default,,0,0,0,,Just because the invitation says to dress casually
 Dialogue: 10,0:06:46.72,0:06:49.01,Default,,0,0,0,,doesn't mean we should actually do it!
-Dialogue: 10,0:06:49.01,0:06:52.85,Default,,0,0,0,,Think of how many manga artists were humiliated because they took that too literally!
+Dialogue: 10,0:06:49.01,0:06:52.85,Default,,0,0,0,,{\q2}Think of how many manga artists were humiliated \Nbecause they took that too literally!
 Dialogue: 10,0:06:52.85,0:06:56.10,Default,,0,0,0,,Yeah, Marii's idea of casual is a sweatsuit.
 Dialogue: 10,0:06:56.10,0:06:58.19,Default,,0,0,0,,It would be pretty tacky to show up at a party wearing that.
-Dialogue: 10,0:06:58.19,0:07:00.90,Default,,0,0,0,,Why am I being pigeonholed as someone who "normally" wears a sweatsuit?!
-Dialogue: 10,0:07:00.90,0:07:07.16,Default,,0,0,0,,But if everyone went to the party wearing what they normally do,
+Dialogue: 10,0:06:58.19,0:07:00.90,Default,,0,0,0,,{\q2}Why am I being pigeonholed as \Nsomeone who "normally" wears a sweatsuit?!
+Dialogue: 10,0:07:00.90,0:07:07.16,Default,,0,0,0,,{\q2}But if everyone went to the party \Nwearing what they normally do,
 Dialogue: 10,0:07:07.16,0:07:09.24,Default,,0,0,0,,wouldn't it just turn into a cosplay party?
 Dialogue: 10,0:07:09.24,0:07:11.95,Default,,0,0,0,,Students have their uniforms,
 Dialogue: 10,0:07:11.95,0:07:15.12,Default,,0,0,0,,and most jobs have some dress code as well.
 Dialogue: 10,0:07:15.12,0:07:18.46,Default,,0,0,0,,Yeah, those are the clothes you wear the most.
-Dialogue: 10,0:07:18.46,0:07:23.42,Default,,0,0,0,,So saying "dress casually" is actually an invitation to a cosplay party?
+Dialogue: 10,0:07:18.46,0:07:23.42,Default,,0,0,0,,{\q2}So saying "dress casually" is actually \Nan invitation to a cosplay party?
 Dialogue: 10,0:07:23.42,0:07:25.59,Default,,0,0,0,,That's so dirty.
 Dialogue: 10,0:07:25.59,0:07:26.80,Default,,0,0,0,,I don't think that's quite right.
-Dialogue: 10,0:07:26.80,0:07:32.18,Default,,0,0,0,,I doubt there'd be many people with such unusual jobs or interests in the first place.
-Dialogue: 10,0:07:32.18,0:07:35.02,Default,,0,0,0,,I don't think casual wear would mean to come in your work clothes.
+Dialogue: 10,0:07:26.80,0:07:32.18,Default,,0,0,0,,{\q2}I doubt there'd be many people with \Nsuch unusual jobs or interests in the first place.
+Dialogue: 10,0:07:32.18,0:07:35.02,Default,,0,0,0,,{\q2}I don't think casual wear would mean \Nto come in your work clothes.
 Dialogue: 10,0:07:35.02,0:07:36.56,Default,,0,0,0,,It could mean plain clothes,
 Dialogue: 10,0:07:36.56,0:07:38.40,Default,,0,0,0,,but I wear something different every day.
-Dialogue: 10,0:07:38.85,0:07:44.01,Default,,0,0,0,,Then shouldn't casual wear be something that you make sure to wear every day?
+Dialogue: 10,0:07:38.85,0:07:44.01,Default,,0,0,0,,{\q2}Then shouldn't casual wear be something \Nthat you make sure to wear every day?
 Dialogue: 10,0:07:44.01,0:07:44.86,Default,,0,0,0,,That's it!
 Dialogue: 10,0:07:54.45,0:07:56.66,Default,,0,0,0,,Pajamas are casual wear?
-Dialogue: 10,0:07:56.66,0:07:59.54,Default,,0,0,0,,That's what people wear most of the time when they're not at work.
+Dialogue: 10,0:07:56.66,0:07:59.54,Default,,0,0,0,,{\q2}That's what people wear \Nmost of the time when they're not at work.
 Dialogue: 10,0:07:59.54,0:08:01.04,Default,,0,0,0,,That's true.
 Dialogue: 10,0:08:01.04,0:08:05.38,Default,,0,0,0,,And I saw on TV that in China it's hip to go out in your PJs.
 Dialogue: 10,0:08:05.38,0:08:06.63,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:08:06.63,0:08:10.64,Default,,0,0,0,,It's like a status symbol amongst the elite who live near the city center.
-Dialogue: 10,0:08:10.64,0:08:15.73,Default,,0,0,0,,But they banned that around the time of the Olympics, citing that it was bad manners.
+Dialogue: 10,0:08:06.63,0:08:10.64,Default,,0,0,0,,{\q2}It's like a status symbol amongst \Nthe elite who live near the city center.
+Dialogue: 10,0:08:10.64,0:08:15.73,Default,,0,0,0,,{\q2}But they banned that around the time of the Olympics, \Nciting that it was bad manners.
 Dialogue: 10,0:08:15.73,0:08:18.64,Default,,0,0,0,,Anyway, pajamas are definitely the king of casual wear!
-Dialogue: 10,0:08:18.64,0:08:24.61,Default,,0,0,0,,So saying "dress casually" is actually an invitation to a pajama party?
+Dialogue: 10,0:08:18.64,0:08:24.61,Default,,0,0,0,,{\q2}So saying "dress casually" is actually \Nan invitation to a pajama party?
 Dialogue: 10,0:08:24.94,0:08:26.86,Default,,0,0,0,,That's so dirty.
 Dialogue: 10,0:08:26.86,0:08:28.57,Default,,0,0,0,,I still don't think that's right.
 Dialogue: 10,0:08:28.57,0:08:30.91,Default,,0,0,0,,Really? Pajamas?
@@ -167,15 +169,14 @@ Dialogue: 10,0:08:43.04,0:08:43.25,Default,,0,0,0,,the...
 Dialogue: 10,0:08:43.25,0:08:44.50,Default,,0,0,0,,nude...
 Dialogue: 10,0:08:44.50,0:08:47.72,Default,,0,0,0,,So Marii's "casual wear" is being naked!
 Dialogue: 10,0:08:47.72,0:08:49.09,Default,,0,0,0,,That's not "wear" at all!
-Dialogue: 10,0:08:49.09,0:08:54.97,Default,,0,0,0,,So saying "dress casually" is actually an invitation to a nude party?
+Dialogue: 10,0:08:49.09,0:08:54.97,Default,,0,0,0,,{\q2}So saying "dress casually" is actually \Nan invitation to a nude party?
 Dialogue: 10,0:08:54.97,0:08:56.85,Default,,0,0,0,,That's so dirty!
 Dialogue: 10,0:08:56.85,0:08:58.91,Default,,0,0,0,,That's beyond dirty!
 Dialogue: 10,0:08:58.91,0:09:02.44,Default,,0,0,0,,Anyway, let's take off everything Marii's wearing.
 Dialogue: 10,0:09:02.44,0:09:03.23,Default,,0,0,0,,Or rather...
 Dialogue: 10,0:09:03.23,0:09:05.11,Default,,0,0,0,,Have her change into her casual wear.
-Dialogue: 10,0:09:05.11,0:09:08.49,Default,,0,0,0,,Deal with it! We're definitely {\i1}not{\fscx140\i0} {\fscx100}doing it to boost our ratings!
+Dialogue: 10,0:09:05.11,0:09:08.49,Default,,0,0,0,,{\q2}Deal with it! We're definitely {\i1}not{\fscx140\i0} {\fscx100} \Ndoing it to boost our ratings!
 Dialogue: 10,0:09:08.49,0:09:11.27,Default,,0,0,0,,And it's not for the sales either!
-Dialogue: 10,0:09:11.27,0:09:13.49,Default,,0,0,0,,{\pos(1449,898.5)\b0\c&H30373B&\3c&HD0DFE8&}Buratei Marii
 Dialogue: 10,0:09:12.41,0:09:14.20,Default,,0,0,0,,What are you doing?!
 Dialogue: 10,0:09:14.20,0:09:16.49,Default,,0,0,0,,Oh, look. Someone got all sexy all of a sudden.
 Dialogue: 10,0:09:16.49,0:09:18.50,Default,,0,0,0,,It barely even feels like the first episode anymore.
@@ -190,18 +191,14 @@ Dialogue: 10,0:09:33.47,0:09:35.76,Default,,0,0,0,,That's like the Apache ***{Ba
 Dialogue: 10,0:09:34.51,0:09:36.14,Alter,,0,0,0,,That's a uniform, okay?!
 Dialogue: 10,0:09:36.14,0:09:38.68,Default,,0,0,0,,And no one's gonna get that reference either!
 Dialogue: 10,0:09:38.68,0:09:40.48,Default,,0,0,0,,One page, flip!
-Dialogue: 10,0:09:40.48,0:09:43.94,Default,,0,0,0,,Did you forget that just flipping the page changes nothing behind it?{i took out 'i told you' because technically it was the green haired girl who mentioned it before}
-Dialogue: 10,0:09:43.94,0:09:45.94,Default,,0,0,0,,{\pos(1386,667.5)\b0\c&H30373B&\3c&HD0DFE8&}Bouhatei Tetora
+Dialogue: 10,0:09:40.48,0:09:43.94,Default,,0,0,0,,{\q2}Did you forget that just flipping the page \Nchanges nothing behind it?{i took out 'i told you' because technically it was the green haired girl who mentioned it before}
 Dialogue: 10,0:09:45.94,0:09:48.86,Default,,0,0,0,,No! Now it looks like {\i1}I'm{\fscx140\i0} {\fscx100}naked!
 Dialogue: 10,0:09:48.86,0:09:50.69,Default,,0,0,0,,You can't do that!
-Dialogue: 10,0:09:50.69,0:09:52.70,Default,,0,0,0,,{\pos(1391.571,677.787)\b0\c&H30373B&\3c&HD0DFE8&}Anrakutei Kukuru
 Dialogue: 10,0:09:52.70,0:09:55.83,Default,,0,0,0,,Now it looks like {\i1}I'm{\fscx140\i0} {\fscx100}naked!
 Dialogue: 10,0:09:55.53,0:09:56.45,Default,,0,0,0,,I can't allow that!
 Dialogue: 10,0:09:56.45,0:09:58.16,Default,,0,0,0,,Someone else!
-Dialogue: 10,0:09:58.16,0:10:00.16,Default,,0,0,0,,{\pos(1383.857,677.145)\b0\c&H30373B&\3c&HD0DFE8&}Haroukitei Kigurumi
 Dialogue: 10,0:10:00.16,0:10:02.83,Default,,0,0,0,,Now it looks like {\i1}I'm{\fscx140\i0} {\fscx100}naked!
 Dialogue: 10,0:10:02.83,0:10:06.67,Default,,0,0,0,,Only fairies are allowed to be naked!
-Dialogue: 10,0:10:06.67,0:10:08.67,Default,,0,0,0,,{\pos(1373.571,786.645)\b0\c&H30373B&\3c&HD0DFE8&}Kuurubiyuutei \NGankyou
 Dialogue: 10,0:10:08.67,0:10:13.18,Default,,0,0,0,,Now it looks like I'm naked without my glasses!
 Dialogue: 10,0:10:13.18,0:10:15.18,Default,,0,0,0,,Oh my.
 Dialogue: 10,0:10:16.26,0:10:18.68,Default,,0,0,0,,It's like we just did all this for the first-time viewers.
@@ -209,10 +206,8 @@ Dialogue: 10,0:10:18.68,0:10:20.93,Default,,0,0,0,,Yeah, we introduced all the c
 Dialogue: 10,0:10:20.93,0:10:21.94,Default,,0,0,0,,Indeed.
 Dialogue: 10,0:10:21.94,0:10:23.19,Default,,0,0,0,,A natural way?!{au naturale, you could say}
 Dialogue: 10,0:10:22.81,0:10:23.81,Default,,0,0,0,,Now for something else!
-Dialogue: 10,0:10:23.81,0:10:25.81,Default,,0,0,0,,{\pos(1282.5,733.5)\b0\c&H30373B&\3c&HD0DFE8&}Heipo
 Dialogue: 10,0:10:25.81,0:10:27.23,Default,,0,0,0,,What the hell?
 Dialogue: 10,0:10:26.86,0:10:27.77,Default,,0,0,0,,He's not in this show!
-Dialogue: 10,0:10:27.77,0:10:29.28,Default,,0,0,0,,{\pos(1365,724.5)\b0\c&H30373B&\3c&HD0DFE8&}Stand up Japan!
 Dialogue: 10,0:10:29.28,0:10:30.65,Default,,0,0,0,,That's not a name!
 Dialogue: 10,0:10:30.65,0:10:32.36,Default,,0,0,0,,That's not even writing!
 Dialogue: 10,0:10:32.36,0:10:33.86,Default,,0,0,0,,Too long!
@@ -254,7 +249,7 @@ Dialogue: 10,0:12:42.53,0:12:44.70,Default,,0,0,0,,There are only four of them l
 Dialogue: 10,0:12:44.70,0:12:46.16,Default,,0,0,0,,More like we still have four of them.
 Dialogue: 10,0:12:46.16,0:12:47.79,Default,,0,0,0,,The stage is called the "high seat."
 Dialogue: 10,0:12:47.79,0:12:48.79,Default,,0,0,0,,There's no "low seat," though.
-Dialogue: 10,0:12:49.04,0:12:53.04,Default,,0,0,0,,People "climb onto" the high seat, but no one talks about getting off it.
+Dialogue: 10,0:12:49.04,0:12:53.04,Default,,0,0,0,,{\q2}People "climb onto" the high seat, \Nbut no one talks about getting off it.
 Dialogue: 10,0:12:53.04,0:12:55.05,Default,,0,0,0,,Beginners get the title of an "early seat,"{does this need the article?}
 Dialogue: 10,0:12:55.05,0:12:56.63,Default,,0,0,0,,then as you progress you become a "second."
 Dialogue: 10,0:12:56.63,0:13:00.01,Default,,0,0,0,,Then you can finally wear a haori,
@@ -276,7 +271,7 @@ Dialogue: 10,0:13:39.17,0:13:40.17,Default,,0,0,0,,I think so too.
 Dialogue: 10,0:13:40.47,0:13:42.68,Default,,0,0,0,,Are you even trying to compliment me?
 Dialogue: 10,0:13:42.68,0:13:44.18,Default,,0,0,0,,Not at all.
 Dialogue: 10,0:13:44.18,0:13:45.80,Default,,0,0,0,,Not to mention, you're a rakugo performer,
-Dialogue: 10,0:13:45.80,0:13:48.43,Default,,0,0,0,,so you should greet people with "good day to you" and not "good morning."
+Dialogue: 10,0:13:45.80,0:13:48.43,Default,,0,0,0,,{\q2}so you should greet people with \N"good day to you" and not "good morning."
 Dialogue: 10,0:13:48.43,0:13:51.02,Default,,0,0,0,,I forget about it every now and then.
 Dialogue: 10,0:13:51.02,0:13:53.31,Default,,0,0,0,,But seriously, does it really matter?
 Dialogue: 10,0:13:53.31,0:13:55.56,Default,,0,0,0,,I see. Well, it's not an urgen tissue.{No difficul tissue.}
@@ -334,7 +329,7 @@ Dialogue: 10,0:16:15.20,0:16:17.37,Default,,0,0,0,,If you base it on the sounds 
 Dialogue: 10,0:16:17.37,0:16:18.71,Default,,0,0,0,,Nah, cats are way better.
 Dialogue: 10,0:16:18.71,0:16:22.96,Default,,0,0,0,,Dogs are in the Zodiac and they work for the police as well.
 Dialogue: 10,0:16:22.96,0:16:25.17,Default,,0,0,0,,Cats only bring bad luck. Poor things.
-Dialogue: 10,0:16:25.17,0:16:29.01,Default,,0,0,0,,But dogs are looked down upon. What about the phrase "dog of authority"?{not sure if this is a thing}{dog of the military etc?}
+Dialogue: 10,0:16:25.17,0:16:29.01,Default,,0,0,0,,{\q2}But dogs are looked down upon. \NWhat about the phrase "dog of authority"?{not sure if this is a thing}{dog of the military etc?}
 Dialogue: 10,0:16:29.01,0:16:31.80,Default,,0,0,0,,But you can also say "arched like a cat," "cat burglar,"
 Dialogue: 10,0:16:31.80,0:16:33.89,Default,,0,0,0,,"caterwaul" and "purr like a cat."
 Dialogue: 10,0:16:33.89,0:16:36.56,Default,,0,0,0,,It's usually the cats who turn into monsters.
@@ -360,7 +355,7 @@ Dialogue: 10,0:17:14.01,0:17:14.97,Default,,0,0,0,,Are you sure?
 Dialogue: 10,0:17:18.89,0:17:21.02,Default,,0,0,0,,Anyway, I hate the character for "dog."
 Dialogue: 10,0:17:21.02,0:17:22.19,Default,,0,0,0,,Why?
 Dialogue: 10,0:17:24.11,0:17:26.28,Default,,0,0,0,,Whenever I feel upset, I forget
-Dialogue: 10,0:17:26.28,0:17:29.24,Default,,0,0,0,,{\pos(1410,1027.5)\be2}{When I'm emotionally disturbed}where I'm supposed \Nto put the last stroke!
+Dialogue: 10,0:17:26.28,0:17:29.24,Default,,600,-300,53,,{\q2}{When I'm emotionally disturbed}where I'm supposed to \Nput the last stroke!
 Dialogue: 10,0:17:29.24,0:17:30.20,Default,,0,0,0,,I don't!
 Dialogue: 10,0:17:30.20,0:17:32.03,Default,,0,0,0,,Oh? Well then,
 Dialogue: 10,0:17:32.03,0:17:34.07,Default,,0,0,0,,try staring at this for a while
@@ -369,7 +364,7 @@ Dialogue: 10,0:17:44.46,0:17:46.30,Default,,0,0,0,,I can!
 Dialogue: 10,0:17:46.30,0:17:46.96,Default,,0,0,0,,Oh?
 Dialogue: 10,0:17:54.05,0:17:55.89,Default,,0,0,0,,You weren't sure.
 Dialogue: 10,0:17:55.89,0:18:00.56,Default,,0,0,0,,We write "dog" like this because dogs are always by our side!
-Dialogue: 10,0:18:00.56,0:18:04.27,Default,,0,0,0,,When someone works with a hoe, they often have a dog close by!
+Dialogue: 10,0:18:00.56,0:18:04.27,Default,,0,0,0,,When someone works with a hoe, \Nthey often have a dog close by!
 Dialogue: 10,0:18:04.27,0:18:05.31,Default,,0,0,0,,Really?
 Dialogue: 10,0:18:05.31,0:18:07.11,Default,,0,0,0,,I just made it up!
 Dialogue: 10,0:18:07.11,0:18:09.99,Default,,0,0,0,,Dogs want to be by our side!
@@ -398,15 +393,15 @@ Dialogue: 10,0:19:05.08,0:19:07.29,Default,,0,0,0,,No, I think summer is okay.
 Dialogue: 10,0:19:07.29,0:19:08.67,Default,,0,0,0,,Summer?
 Dialogue: 10,0:19:08.67,0:19:11.59,Default,,0,0,0,,But in the summer you rot so quickly!
 Dialogue: 10,0:19:11.59,0:19:13.55,Default,,0,0,0,,What exactly are you talking about?
-Dialogue: 10,0:19:13.55,0:19:17.01,Default,,0,0,0,,Weren't you asking whether I'd rather die on a mountain or by the sea?
+Dialogue: 10,0:19:13.55,0:19:17.01,Default,,0,0,0,,{\q2}Weren't you asking whether I'd rather die \Non a mountain or by the sea?
 Dialogue: 10,0:19:17.01,0:19:19.68,Default,,0,0,0,,How'd you manage to interpret it {\i1}that{\fscx140\i0} {\fscx100}way?
 Dialogue: 10,0:19:19.68,0:19:23.65,Default,,0,0,0,,Well, if I had to die, I'd prefer to do it on a mountain.
 Dialogue: 10,0:19:23.65,0:19:25.39,Default,,0,0,0,,I'd get frozen in the mountains,
 Dialogue: 10,0:19:25.39,0:19:27.85,Default,,0,0,0,,and centuries later someone would find me,
 Dialogue: 10,0:19:27.85,0:19:34.61,Default,,0,0,0,,and my sheer beauty and grace would move them to tears!
 Dialogue: 10,0:19:34.61,0:19:37.70,Default,,0,0,0,,We're not talking about frozen corpses in the future.
-Dialogue: 10,0:19:37.70,0:19:41.19,Default,,0,0,0,,The question is whether we prefer the mountains or the sea, right?
-Dialogue: 10,0:19:41.19,0:19:45.16,Default,,0,0,0,,Well, it's not exactly a preference, but I think the sea is more primitive.
+Dialogue: 10,0:19:37.70,0:19:41.19,Default,,0,0,0,,{\q2}The question is whether we \Nprefer the mountains or the sea, right?
+Dialogue: 10,0:19:41.19,0:19:45.16,Default,,0,0,0,,{\q2}Well, it's not exactly a preference, \Nbut I think the sea is more primitive.
 Dialogue: 10,0:19:45.16,0:19:47.00,Default,,0,0,0,,Primitive? Why?
 Dialogue: 10,0:19:47.00,0:19:48.75,Default,,0,0,0,,Because in the mountains you shout,
 Dialogue: 10,0:19:49.15,0:19:50.46,Default,,0,0,0,,"Yoo-hoo!"{might as well uncomment this?}{you could use "yoo-hoo" / "you fool" if you want something that sounds closer}{DO EET}
@@ -414,7 +409,7 @@ Dialogue: 10,0:19:50.46,0:19:52.17,Default,,0,0,0,,While by the sea you shout,
 Dialogue: 10,0:19:52.17,0:19:53.71,Default,,0,0,0,,"You fool!"
 Dialogue: 10,0:19:53.71,0:19:54.26,Default,,0,0,0,,Right?
 Dialogue: 10,0:19:54.26,0:19:55.22,Default,,0,0,0,,I see!
-Dialogue: 10,0:19:55.22,0:19:59.51,Default,,0,0,0,,Though I don't think people shout "You fool!" out to sea very often.
+Dialogue: 10,0:19:55.22,0:19:59.51,Default,,0,0,0,,{\q2}Though I don't think people shout \N"You fool!" out to sea very often.
 Dialogue: 10,0:19:59.51,0:20:03.39,Default,,0,0,0,,What? Then what do {\i1}you{\fscx140\i0} {\fscx100}shout out to sea?
 Dialogue: 10,0:20:03.39,0:20:05.39,Default,,0,0,0,,Catch me if you can!
 Dialogue: 10,0:20:05.39,0:20:07.73,Default,,0,0,0,,You wouldn't shout that out to sea.
@@ -430,26 +425,26 @@ Dialogue: 10,0:20:24.08,0:20:26.12,Default,,0,0,0,,"You fool!"
 Dialogue: 10,0:20:26.12,0:20:27.25,Default,,0,0,0,,Right, right, right?
 Dialogue: 10,0:20:27.25,0:20:28.08,Default,,0,0,0,,Yeah...
 Dialogue: 10,0:20:28.08,0:20:30.13,Default,,0,0,0,,I can't think of anything better.
-Dialogue: 10,0:20:30.13,0:20:34.71,Default,,0,0,0,,But doesn't whatever you shout out to sea depend on the direction you're facing?
+Dialogue: 10,0:20:30.13,0:20:34.71,Default,,0,0,0,,{\q2}But doesn't whatever you shout out to sea \Ndepend on the direction you're facing?
 Dialogue: 10,0:20:34.71,0:20:36.25,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:20:36.25,0:20:41.22,Default,,0,0,0,,You'd shout something different toward the Sea of Japan than you would to the Pacific.
+Dialogue: 10,0:20:36.25,0:20:41.22,Default,,0,0,0,,{\q2}You'd shout something different toward \Nthe Sea of Japan than you would to the Pacific.
 Dialogue: 10,0:20:41.22,0:20:44.68,Default,,0,0,0,,There's no one to shout to across the Pacific.
-Dialogue: 10,0:20:44.68,0:20:48.56,Default,,0,0,0,,Even if you were to shout to King Kamehameha, it's{he's?} 6400 km away.
+Dialogue: 10,0:20:44.68,0:20:48.56,Default,,0,0,0,,{\q2}Even if you were to shout \Nto King Kamehameha, it's{he's?} 6400 km away.
 Dialogue: 10,0:20:48.56,0:20:49.48,Default,,0,0,0,,That's far.
 Dialogue: 10,0:20:49.73,0:20:53.06,Default,,0,0,0,,The average "You fool!" travels at 340m/s.
 Dialogue: 10,0:20:53.44,0:20:55.19,Default,,0,0,0,,So how long would it take to get there?
 Dialogue: 10,0:20:57.07,0:20:59.95,Default,,0,0,0,,Would it be faster if we just shouted "Fool!"
 Dialogue: 10,0:20:59.95,0:21:04.33,Default,,0,0,0,,Yeah, I think "Fool!" on its own is easier to catch than "You fool!"
-Dialogue: 10,0:21:04.33,0:21:08.83,Default,,0,0,0,,But what would you shout across the Sea of Japan, where there are people much closer by?
-Dialogue: 10,0:21:13.79,0:21:17.76,Default,,0,0,0,,See, you've got nothing. Why not just settle for "You fool!"
+Dialogue: 10,0:21:04.33,0:21:08.83,Default,,0,0,0,,{\q2}But what would you shout across the Sea of Japan, \Nwhere there are people much closer by?
+Dialogue: 10,0:21:13.79,0:21:17.76,Default,,0,0,0,,{\q2}See, you've got nothing. \NWhy not just settle for "You fool!"
 Dialogue: 10,0:21:17.76,0:21:20.01,Default,,0,0,0,,It's not particularly meaningful, but I guess we could.
-Dialogue: 10,0:21:20.01,0:21:24.60,Default,,0,0,0,,It might not be meaningful, but at least "You fool!" covers quite a wide angle.{i have no idea}
+Dialogue: 10,0:21:20.01,0:21:24.60,Default,,0,0,0,,{\q2}It might not be meaningful, \Nbut at least "You fool!" covers quite a wide angle.{i have no idea}
 Dialogue: 10,0:21:24.60,0:21:30.89,Default,,0,0,0,,However, "You fool!" has no style and won't solve anything.
 Dialogue: 10,0:21:30.89,0:21:32.06,Default,,0,0,0,,Solve?
 Dialogue: 10,0:21:32.06,0:21:33.81,Default,,0,0,0,,Oh, right!
 Dialogue: 10,0:21:37.03,0:21:38.65,Default,,0,0,0,,Give it back!
 Dialogue: 10,0:21:38.65,0:21:40.78,Default,,0,0,0,,Yeah, that works nicely.
-Dialogue: 10,0:21:40.78,0:21:43.91,Default,,0,0,0,,Whenever you shout out to the sea, you should shout "Give it back!"
+Dialogue: 10,0:21:40.78,0:21:43.91,Default,,0,0,0,,{\q2}Whenever you shout out to the sea, \Nyou should shout "Give it back!"
 Dialogue: 10,0:21:43.91,0:21:44.53,Default,,0,0,0,,Right?
 Dialogue: 10,0:21:44.53,0:21:45.45,Default,,0,0,0,,Right.
 Dialogue: 10,0:21:45.45,0:21:48.12,Default,,0,0,0,,With that, you can cover pretty much every angle.
@@ -465,9 +460,9 @@ Dialogue: 10,0:23:49.78,0:23:52.49,Default,,0,0,0,,but if you sleep with an elec
 Dialogue: 10,0:23:52.49,0:23:54.37,Default,,0,0,0,,it'll drain your energy.
 Dialogue: 10,0:23:54.66,0:23:56.41,Default,,0,0,0,,So please be careful.{yeah better watch out lightwater}
 Dialogue: 10,0:23:57.46,0:23:59.50,Default,,0,0,0,,Coming up next, it's Joshiraku's second performance:
-Dialogue: 10,0:23:59.50,0:24:04.51,Default,,0,0,0,,{\pos(957,162)\be2}Backstage Riches, Three Towers and a Vow, and Cold Girl.{TS right to left}{the middle one is weird}
-Dialogue: 10,0:24:04.51,0:24:06.30,Default,,0,0,0,,{\pos(966,127.5)\be2}Those three.{three what?}{three acts as listed above}
-Dialogue: 10,0:24:06.30,0:24:09.51,Default,,0,0,0,,{\pos(976.5,130.5)\be2}Come see us next time, okay?
+Dialogue: 10,0:23:59.50,0:24:04.51,Default,,147,153,918,,Backstage Riches, Three Towers and a Vow, and Cold Girl.{TS right to left}{the middle one is weird}
+Dialogue: 10,0:24:04.51,0:24:06.30,Default,,156,144,953,,Those three.{three what?}{three acts as listed above}
+Dialogue: 10,0:24:06.30,0:24:09.51,Default,,167,134,950,,Come see us next time, okay?
 Dialogue: 3,0:22:17.32,0:22:41.55,EDbg,,0,0,0,,A
 Dialogue: 3,0:22:45.97,0:23:00.73,EDbg,,0,0,0,,{\c&H171717&}A
 Dialogue: 4,0:22:17.32,0:22:18.86,EDdown,,0,0,0,,Live long, live long and prosper
@@ -588,18 +583,240 @@ Dialogue: 1,0:02:38.68,0:02:41.35,OPup,,0,0,0,,{\fsp-1.5}osaki mo shiroki gokura
 Dialogue: 1,0:02:41.35,0:02:43.68,OPup,,0,0,0,,{\fsp-1.5}gokuraku da gokuraku da
 Dialogue: 1,0:02:43.68,0:02:46.85,OPup,,0,0,0,,{\fsp-1.5}arayotto gokuraku joudo ringu
 Dialogue: 1,0:02:46.85,0:02:49.15,OPup,,0,0,0,,{\fsp-1.5}chin-ton chin-ton-shan
-Dialogue: 0,0:01:04.96,0:01:14.85,block,,0,0,0,,{\pos(922.5,333)\frz268.609\fry30\fax-0.5\fsp-1.5\c&H748593&\be2\fad(0,500)\clip(m 925.5 216 l 964.5 252 967.5 432 925.5 403.5)}AAAAA
-Dialogue: 0,0:01:04.96,0:01:13.93,block,,0,0,0,,{\pos(921,852)\fscx120\fscy120\frz277.927\fry30\fax-0.5\fsp-1.5\c&H758D9A&\be2\fad(0,500)\clip(m 912 711 l 961.5 724.5 985.5 930 936 933)}AAAAA
+Dialogue: 0,0:09:11.27,0:09:13.49,Default,,0,0,0,,{\pos(1449,898.5)\c&H30373B&\3c&HD0DFE8&}Buratei Marii
+Dialogue: 0,0:09:43.94,0:09:45.94,Default,,0,0,0,,{\pos(1386,667.5)\c&H30373B&\3c&HD0DFE8&}Bouhatei Tetora
+Dialogue: 0,0:09:50.69,0:09:52.70,Default,,0,0,0,,{\pos(1391.571,677.787)\c&H30373B&\3c&HD0DFE8&}Anrakutei Kukuru
+Dialogue: 0,0:09:58.16,0:10:00.16,Default,,0,0,0,,{\pos(1383.857,677.145)\c&H30373B&\3c&HD0DFE8&}Haroukitei Kigurumi
+Dialogue: 0,0:10:06.67,0:10:08.67,Default,,0,0,0,,{\pos(1373.571,786.645)\c&H30373B&\3c&HD0DFE8&\q2}Kuurubiyuutei \NGankyou
+Dialogue: 0,0:10:23.81,0:10:25.81,Default,,0,0,0,,{\pos(1282.5,733.5)\c&H30373B&\3c&HD0DFE8&}Heipo
+Dialogue: 0,0:10:27.77,0:10:29.28,Default,,0,0,0,,{\pos(1365,724.5)\c&H30373B&\3c&HD0DFE8&}Stand up Japan!
+Dialogue: 0,0:01:04.96,0:01:14.85,block,,0,0,0,,{\pos(922.5,333)\frz268.609\fry30\fax-0.5\fsp-1.5\c&H8395A2&\be2\fad(0,500)\clip(m 925.5 216 l 964.5 252 967.5 432 925.5 403.5)}AAAAA
+Dialogue: 0,0:01:04.96,0:01:13.93,block,,0,0,0,,{\pos(921,852)\fscx120\fscy120\frz277.927\fry30\fax-0.5\fsp-1.5\c&H8395A2&\be2\fad(0,500)\clip(m 912 711 l 961.5 724.5 985.5 930 936 933)}AAAAA
+Dialogue: 0,0:03:47.92,0:03:52.63,block,,0,0,0,,{\pos(1731,798)\fscx180\fscy180\fsp-3\c&H214C36&\be2\clip(m 1782 699.17 b 1689.67 699.33 1531.67 700.67 1446 700.5 1446 757.5 1449 756 1446 793.5 1452 778.5 1495.5 765 1468.5 769.5 1465.5 772.5 1480.5 738 1483.5 733.5 1486.5 730.5 1492.5 741 1498.5 739.5 1507.5 744 1524 723 1534.5 720 1534.5 718.5 1531.5 733.5 1536 741 1533 744 1540.5 750 1543.5 753 1545 754.5 1546.5 763.5 1548 768 1548 771 1543.5 777 1542 781.5 1540.5 784.5 1531.5 778.5 1528.5 778.5 1518 778.5 1501.5 790.5 1492.5 795 1450.5 805.5 1704 796.5 1782 802.5)}AAAAAA
+Dialogue: 0,0:03:54.30,0:03:55.30,block,,0,0,0,,{\pos(1731,798)\fscx180\fscy180\fsp-3\c&H214C36&\be2\clip(m 1782 699.17 b 1689.67 699.33 1531.67 700.67 1446 700.5 1446 757.5 1449 756 1446 793.5 1452 778.5 1495.5 765 1468.5 769.5 1465.5 772.5 1480.5 738 1483.5 733.5 1486.5 730.5 1492.5 741 1498.5 739.5 1507.5 744 1524 723 1534.5 720 1534.5 718.5 1531.5 733.5 1536 741 1533 744 1540.5 750 1543.5 753 1545 754.5 1546.5 763.5 1548 768 1548 771 1543.5 777 1542 781.5 1540.5 784.5 1531.5 778.5 1528.5 778.5 1518 778.5 1501.5 790.5 1492.5 795 1450.5 805.5 1704 796.5 1782 802.5)}AAAAAA
+Dialogue: 0,0:04:43.05,0:04:45.06,block,,0,0,0,,{\pos(1207.5,1755)\c&H000000&\p1}m 0 0 l -231 0 -237 -808.5 -7.5 -808.5 0 0
+Dialogue: 0,0:10:32.40,0:10:33.90,block,,0,0,0,,{\pos(955.5,898.5)\fscx250\fscy250\c&HD5E3EC&\clip(m 900 381 b 928.5 379.5 988.5 378 1018.5 378 1023 342 1021.5 729 1023 846 1018.5 858 924 850.5 892.5 852 889.5 847.5 897 780 889.5 750 901.5 742.5 937.5 751.5 951 751.5 963 751.5 955.5 712.5 958.5 700.5 960 691.5 957 676.5 957 669 957 661.5 943.5 652.5 939 648 934.5 643.5 921 648 916.5 649.5 912 649.5 909 657 907.5 660 904.5 663 898.5 669 897 673.5 891 690 900 727.5 888 789)\q2}A\NA\NA\NA
+Dialogue: 0,0:10:33.90,0:10:35.16,block,,0,0,0,,{\pos(960,693)\fscx200\fscy200\c&HD4E0E8&\clip(m 906 328.5 b 948 319.5 979.5 321 1017 324 1005 406.5 1006.5 577.5 1011 628.5 955.5 636 933 630 910.5 627)\q2}A\NA\NA\NA
+Dialogue: 0,0:10:35.16,0:10:36.66,block,,0,0,0,,{\pos(960,693)\fscx200\fscy200\c&HCEDCE6&\clip(m 918 312 b 939 312 982.5 312 1005 312 1005 406.5 1006.5 577.5 1008 666 994.5 670.5 934.5 666 910.5 666)\q2}A\NA\NA\NA
+Dialogue: 0,0:10:36.66,0:10:38.03,block,,0,0,0,,{\pos(961.5,586.5)\fscx200\fscy200\c&HD4E1E9&\clip(m 925.5 259.5 b 943.5 259.5 979.5 259.5 999 259.5 999 414 999 478.5 1000.5 552 999 558 942 552 922.5 553.5)\q2}A\NA\NA\NA
+Dialogue: 0,0:10:38.03,0:10:39.29,block,,0,0,0,,{\pos(961.5,496.5)\fscx200\fscy200\c&HD6E2EA&\clip(m 934.5 228 b 949.5 226.5 979.5 226.5 994.5 226.5 993 370.5 991.5 402 991.5 460.5 991.5 471 946.5 460.5 931.5 462)\q2}A\NA\NA
+Dialogue: 0,0:10:40.62,0:10:43.12,block,,0,0,0,,{\pos(390,951)\fscx375\fscy472.5\frz21.038\bord3\clip(m 257.6 416.9 l 136.5 462 321 943.5 445 899.9)\q2}A\NA
+Dialogue: 0,0:11:00.56,0:11:02.56,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2\q2}A\NA\NA\NA
+Dialogue: 0,0:14:43.61,0:14:46.12,block,,0,0,0,,{\pos(1009.5,828)\fscx375\fscy472.5\frz351.995\bord3\clip(m 1020 357 l 1125 373.5 1067.73 796.23 960.54 782.46)\q2}A\NA
+Dialogue: 0,0:15:13.06,0:15:15.06,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2\q2}A\NA\NA\NA
+Dialogue: 0,0:17:00.87,0:17:10.97,block,,0,0,0,,{\pos(772.5,766.5)\fscx180\fscy180\fsp-3\c&H214836&\be2\clip(m 882 691.5 b 880.5 703.5 880.5 730.5 882 748.5 877.5 748.5 759 748.5 718.5 748.5 711 750 736.5 738 744 735 750 732 735 715.5 732 709.5 727.5 702 690 735 706.5 691.5)}AAAA
+Dialogue: 0,0:23:40.11,0:23:42.86,block,,0,0,0,,{\an9\pos(1059.833,104.1)\fscx182\fscy1406\c&H1956D9&}A
+Dialogue: 0,0:23:40.11,0:23:42.86,block,,0,0,0,,{\an9\pos(957,100.5)\fscx182\fscy1406\c&H111612&}A
+Dialogue: 0,0:23:59.50,0:24:10.14,block,,0,0,0,,{\an9\pos(1387.1,104.1)\fscx182\fscy1406\c&H1956D9&}A
+Dialogue: 0,0:23:59.50,0:24:10.14,block,,0,0,0,,{\an9\pos(737.6,108.6)\fscx182\fscy1406\c&H1956D9&}A
+Dialogue: 0,0:23:59.50,0:24:10.14,block,,0,0,0,,{\an9\pos(1062.833,104.1)\fscx182\fscy1406\c&H1956D9&}A
+Dialogue: 0,0:23:59.50,0:24:10.14,block,,0,0,0,,{\an9\pos(1281.5,104.5)\fscx182\fscy1406\c&H111612&}A
+Dialogue: 0,0:23:59.50,0:24:10.14,block,,0,0,0,,{\an9\pos(957,104.5)\fscx182\fscy1406\c&H111612&}A
+Dialogue: 0,0:23:59.50,0:24:10.14,block,,0,0,0,,{\an9\pos(633.5,110)\fscx182\fscy1406\c&H111612&}A
 Dialogue: 1,0:01:04.96,0:01:14.85,brush1,,0,0,0,,{\pos(925.5,334.5)\frz272.885\fry10\frx346\fax-0.5\fsp-1.5\i1\c&H13202C&\be2\fad(0,500)}Tetora
 Dialogue: 1,0:01:04.96,0:01:13.93,brush1,,0,0,0,,{\pos(927,829.5)\frz275.418\fry2\frx2\fax-0.2\fsp-3\c&H0F202C&\be2\fad(0,500)}Hir{\fsp-4.5}a{\fsp-6}i{\fsp-1.5}te
-Dialogue: 0,0:03:47.92,0:03:52.63,block,,0,0,0,,{\pos(1731,801)\fscx180\fscy180\fsp-3\c&H234F38&\be2\clip(m 1782 700.5 b 1695 702 1533 702 1446 700.5 1446 757.5 1449 756 1446 793.5 1452 778.5 1495.5 765 1468.5 769.5 1465.5 772.5 1480.5 738 1483.5 733.5 1486.5 730.5 1492.5 741 1498.5 739.5 1507.5 744 1524 723 1534.5 720 1534.5 718.5 1531.5 733.5 1536 741 1533 744 1540.5 750 1543.5 753 1545 754.5 1546.5 763.5 1548 768 1548 771 1543.5 777 1542 781.5 1540.5 784.5 1531.5 778.5 1528.5 778.5 1518 778.5 1501.5 790.5 1492.5 795 1450.5 805.5 1704 796.5 1782 802.5)}AAAAAA
-Dialogue: 0,0:03:47.92,0:03:52.63,freehand1,,0,0,0,,{\pos(1654.5,790.5)\fscx90\fscy90\c&HC6EFDD&\be2}I'm looking for \Nthis kitten
-Dialogue: 0,0:03:54.30,0:03:55.30,block,,0,0,0,,{\pos(1731,801)\fscx180\fscy180\fsp-3\c&H234F38&\be2\clip(m 1782 700.5 b 1695 702 1533 702 1446 700.5 1446 757.5 1449 756 1446 793.5 1452 778.5 1495.5 765 1468.5 769.5 1465.5 772.5 1480.5 738 1483.5 733.5 1486.5 730.5 1492.5 741 1498.5 739.5 1507.5 744 1524 723 1534.5 720 1534.5 718.5 1531.5 733.5 1536 741 1533 744 1540.5 750 1543.5 753 1545 754.5 1546.5 763.5 1548 768 1548 771 1543.5 777 1542 781.5 1540.5 784.5 1531.5 778.5 1528.5 778.5 1518 778.5 1501.5 790.5 1492.5 795 1450.5 805.5 1704 796.5 1782 802.5)}AAAAAA
-Dialogue: 0,0:03:54.30,0:03:55.30,freehand1,,0,0,0,,{\pos(1654.5,790.5)\fscx90\fscy90\c&HC6EFDD&\be2}I'm looking for \Nthis kitten
-Dialogue: 0,0:04:43.05,0:04:45.06,block,,0,0,0,,{\pos(1207.5,1755)\c&H000000&\p1}m 0 0 l -231 0 -237 -808.5 -7.5 -808.5 0 0
 Dialogue: 1,0:04:43.05,0:04:45.06,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Normal Dialogue
+Dialogue: 0,0:10:20.81,0:10:22.73,brush1,,0,0,0,,{\pos(1453.5,177)\c&H191D1F&\3c&H212121&\be2\q2}Buratei\N Mar{\fsp-6}ii
+Dialogue: 0,0:10:40.62,0:10:43.12,brush1,,0,0,0,,{\pos(258,690)\fscx150\fscy160\frz291.897\fsp-1.5\b0\c&H000000&\be2}Bouhatei {\b1}Tetora
+Dialogue: 0,0:10:43.12,0:10:46.71,brush1,,0,0,0,,{\pos(1521,859.5)\fscx90\fscy90\frz20.019\fsp-1.5\bord1.5\c&H2D3B3C&\3c&H828286&\blur1.5\q2}Daatei\N Har{\fsp-6}ii
+Dialogue: 1,0:11:00.56,0:11:02.56,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Different Clothes
+Dialogue: 1,0:14:43.61,0:14:46.12,brush1,,0,0,0,,{\pos(1009.5,571.5)\fscx150\fscy160\frz261.666\fsp-1.5\b0\c&H000000&\3c&H000000&\be2}Buratei {\fsp1.5\b1}M{\fsp-1.5}a{\fsp-6}r{\fsp-9}ii
+Dialogue: 1,0:15:13.06,0:15:15.06,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Shouting Instruction
 Dialogue: 0,0:05:55.17,0:05:57.59,brush2,,0,0,0,,{\pos(1498.5,789)\fscx90\fscy90\fsp-1.5\bord2.63\c&H122334&\3c&HD8E8FF&\be2\fad(1600,0)}Free meals for life
 Dialogue: 0,0:05:57.59,0:06:00.34,brush2,,0,0,0,,{\pos(982.5,330)\frz270.392\fsp-2.25\c&HC6CFF6&\be2}Camp{\fsp-7.5}ai{\fsp-4.5}gn
+Dialogue: 0,0:06:50.18,0:06:51.60,brush2,,0,0,0,,{\move(985.5,226.5,-600,226.5)\fscx120\fscy120\fnArial\fsp-2.25\c&H2B2A3F&\be2}100th anniversary of Kodansha
+Dialogue: 1,0:10:36.66,0:10:38.03,brush2,,0,0,0,,{\pos(943.5,402)\fscx70\frz270\fsp-3\c&H2B3137&\be2}Hidden body features
+Dialogue: 0,0:17:55.89,0:18:00.68,brush2,,0,0,0,,{\pos(196.5,246)\fscx500\fscy500\fsp-3\c&H0B1012&\be2\fad(0,2711)}D{\fsp-6}og
+Dialogue: 0,0:20:49.48,0:20:49.52,brush2,,0,0,0,,{\pos(877.995,429.495)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:49.48,0:20:49.52,brush2,,0,0,0,,{\pos(889.995,431.505)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:49.52,0:20:49.56,brush2,,0,0,0,,{\pos(874.59,429.42)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:49.52,0:20:49.56,brush2,,0,0,0,,{\pos(886.59,431.415)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:49.56,0:20:49.60,brush2,,0,0,0,,{\pos(871.2,429.465)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:49.56,0:20:49.60,brush2,,0,0,0,,{\pos(883.2,431.46)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:49.60,0:20:49.64,brush2,,0,0,0,,{\pos(867.72,429.42)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:49.60,0:20:49.64,brush2,,0,0,0,,{\pos(879.72,431.43)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:49.64,0:20:49.69,brush2,,0,0,0,,{\pos(864.36,429.405)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:49.64,0:20:49.69,brush2,,0,0,0,,{\pos(876.36,431.415)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:49.69,0:20:49.73,brush2,,0,0,0,,{\pos(860.925,429.375)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:49.69,0:20:49.73,brush2,,0,0,0,,{\pos(872.925,431.37)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:49.73,0:20:49.77,brush2,,0,0,0,,{\pos(857.445,429.255)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:49.73,0:20:49.77,brush2,,0,0,0,,{\pos(869.445,431.25)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:49.77,0:20:49.81,brush2,,0,0,0,,{\pos(853.98,429.24)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:49.77,0:20:49.81,brush2,,0,0,0,,{\pos(865.98,431.235)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:49.81,0:20:49.85,brush2,,0,0,0,,{\pos(850.53,429.27)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:49.81,0:20:49.85,brush2,,0,0,0,,{\pos(862.53,431.265)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:49.85,0:20:49.90,brush2,,0,0,0,,{\pos(847.065,429.255)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:49.85,0:20:49.90,brush2,,0,0,0,,{\pos(859.065,431.265)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:49.90,0:20:49.94,brush2,,0,0,0,,{\pos(843.63,429.255)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:49.90,0:20:49.94,brush2,,0,0,0,,{\pos(855.63,431.25)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:49.94,0:20:49.98,brush2,,0,0,0,,{\pos(840.135,429.225)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:49.94,0:20:49.98,brush2,,0,0,0,,{\pos(852.135,431.22)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:49.98,0:20:50.02,brush2,,0,0,0,,{\pos(836.76,429.12)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:49.98,0:20:50.02,brush2,,0,0,0,,{\pos(848.76,431.13)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.02,0:20:50.06,brush2,,0,0,0,,{\pos(833.325,429.105)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.02,0:20:50.06,brush2,,0,0,0,,{\pos(845.325,431.1)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.06,0:20:50.10,brush2,,0,0,0,,{\pos(829.845,429.09)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.06,0:20:50.10,brush2,,0,0,0,,{\pos(841.845,431.085)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.10,0:20:50.15,brush2,,0,0,0,,{\pos(826.38,429.06)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.10,0:20:50.15,brush2,,0,0,0,,{\pos(838.38,431.07)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.15,0:20:50.19,brush2,,0,0,0,,{\pos(822.93,429.075)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.15,0:20:50.19,brush2,,0,0,0,,{\pos(834.93,431.07)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.19,0:20:50.23,brush2,,0,0,0,,{\pos(819.51,429.045)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.19,0:20:50.23,brush2,,0,0,0,,{\pos(831.51,431.04)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.23,0:20:50.27,brush2,,0,0,0,,{\pos(816.075,428.91)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.23,0:20:50.27,brush2,,0,0,0,,{\pos(828.075,430.92)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.27,0:20:50.31,brush2,,0,0,0,,{\pos(812.61,428.88)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.27,0:20:50.31,brush2,,0,0,0,,{\pos(824.61,430.875)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.31,0:20:50.35,brush2,,0,0,0,,{\pos(809.19,428.925)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.31,0:20:50.35,brush2,,0,0,0,,{\pos(821.19,430.935)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.35,0:20:50.40,brush2,,0,0,0,,{\pos(805.74,428.895)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.35,0:20:50.40,brush2,,0,0,0,,{\pos(817.74,430.89)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.40,0:20:50.44,brush2,,0,0,0,,{\pos(802.29,428.895)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.40,0:20:50.44,brush2,,0,0,0,,{\pos(814.29,430.89)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.44,0:20:50.48,brush2,,0,0,0,,{\pos(798.825,428.85)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.44,0:20:50.48,brush2,,0,0,0,,{\pos(810.825,430.845)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.48,0:20:50.52,brush2,,0,0,0,,{\pos(795.39,428.76)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.48,0:20:50.52,brush2,,0,0,0,,{\pos(807.39,430.755)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.52,0:20:50.56,brush2,,0,0,0,,{\pos(791.94,428.745)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.52,0:20:50.56,brush2,,0,0,0,,{\pos(803.94,430.74)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.56,0:20:50.60,brush2,,0,0,0,,{\pos(788.52,428.79)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.56,0:20:50.60,brush2,,0,0,0,,{\pos(800.52,430.785)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.60,0:20:50.65,brush2,,0,0,0,,{\pos(785.01,428.775)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.60,0:20:50.65,brush2,,0,0,0,,{\pos(797.01,430.77)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.65,0:20:50.69,brush2,,0,0,0,,{\pos(781.59,428.76)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.65,0:20:50.69,brush2,,0,0,0,,{\pos(793.59,430.755)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.69,0:20:50.73,brush2,,0,0,0,,{\pos(778.14,428.715)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.69,0:20:50.73,brush2,,0,0,0,,{\pos(790.14,430.71)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.73,0:20:50.77,brush2,,0,0,0,,{\pos(774.66,428.61)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.73,0:20:50.77,brush2,,0,0,0,,{\pos(786.66,430.605)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.77,0:20:50.81,brush2,,0,0,0,,{\pos(771.225,428.625)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.77,0:20:50.81,brush2,,0,0,0,,{\pos(783.225,430.62)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.81,0:20:50.85,brush2,,0,0,0,,{\pos(767.775,428.625)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.81,0:20:50.85,brush2,,0,0,0,,{\pos(779.775,430.62)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.85,0:20:50.90,brush2,,0,0,0,,{\pos(764.355,428.58)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.85,0:20:50.90,brush2,,0,0,0,,{\pos(776.355,430.575)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.90,0:20:50.94,brush2,,0,0,0,,{\pos(760.905,428.565)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.90,0:20:50.94,brush2,,0,0,0,,{\pos(772.905,430.56)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.94,0:20:50.98,brush2,,0,0,0,,{\pos(757.425,428.565)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.94,0:20:50.98,brush2,,0,0,0,,{\pos(769.425,430.56)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:50.98,0:20:51.02,brush2,,0,0,0,,{\pos(754.02,428.445)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:50.98,0:20:51.02,brush2,,0,0,0,,{\pos(766.02,430.44)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.02,0:20:51.06,brush2,,0,0,0,,{\pos(750.525,428.445)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.02,0:20:51.06,brush2,,0,0,0,,{\pos(762.525,430.44)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.06,0:20:51.10,brush2,,0,0,0,,{\pos(747.06,428.505)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.06,0:20:51.10,brush2,,0,0,0,,{\pos(759.06,430.5)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.10,0:20:51.15,brush2,,0,0,0,,{\pos(743.625,428.46)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.10,0:20:51.15,brush2,,0,0,0,,{\pos(755.625,430.47)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.15,0:20:51.19,brush2,,0,0,0,,{\pos(740.175,428.445)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.15,0:20:51.19,brush2,,0,0,0,,{\pos(752.175,430.455)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.19,0:20:51.23,brush2,,0,0,0,,{\pos(736.725,428.43)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.19,0:20:51.23,brush2,,0,0,0,,{\pos(748.725,430.425)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.23,0:20:51.27,brush2,,0,0,0,,{\pos(733.275,428.295)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.23,0:20:51.27,brush2,,0,0,0,,{\pos(745.275,430.29)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.27,0:20:51.31,brush2,,0,0,0,,{\pos(729.795,428.28)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.27,0:20:51.31,brush2,,0,0,0,,{\pos(741.795,430.275)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.31,0:20:51.35,brush2,,0,0,0,,{\pos(726.36,428.34)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.31,0:20:51.35,brush2,,0,0,0,,{\pos(738.36,430.335)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.35,0:20:51.40,brush2,,0,0,0,,{\pos(722.91,428.295)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.35,0:20:51.40,brush2,,0,0,0,,{\pos(734.91,430.305)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.40,0:20:51.44,brush2,,0,0,0,,{\pos(719.46,428.31)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.40,0:20:51.44,brush2,,0,0,0,,{\pos(731.46,430.32)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.44,0:20:51.48,brush2,,0,0,0,,{\pos(716.025,428.28)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.44,0:20:51.48,brush2,,0,0,0,,{\pos(728.025,430.29)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.48,0:20:51.52,brush2,,0,0,0,,{\pos(712.59,428.175)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.48,0:20:51.52,brush2,,0,0,0,,{\pos(724.59,430.17)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.52,0:20:51.56,brush2,,0,0,0,,{\pos(709.125,428.145)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.52,0:20:51.56,brush2,,0,0,0,,{\pos(721.125,430.155)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.56,0:20:51.61,brush2,,0,0,0,,{\pos(705.675,428.205)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.56,0:20:51.61,brush2,,0,0,0,,{\pos(717.675,430.2)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.61,0:20:51.65,brush2,,0,0,0,,{\pos(702.195,428.22)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.61,0:20:51.65,brush2,,0,0,0,,{\pos(714.195,430.215)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.65,0:20:51.69,brush2,,0,0,0,,{\pos(698.73,428.19)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.65,0:20:51.69,brush2,,0,0,0,,{\pos(710.73,430.185)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.69,0:20:51.73,brush2,,0,0,0,,{\pos(695.295,428.175)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.69,0:20:51.73,brush2,,0,0,0,,{\pos(707.295,430.185)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.73,0:20:51.77,brush2,,0,0,0,,{\pos(691.815,428.115)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.73,0:20:51.77,brush2,,0,0,0,,{\pos(703.815,430.11)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.77,0:20:51.81,brush2,,0,0,0,,{\pos(688.365,428.07)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.77,0:20:51.81,brush2,,0,0,0,,{\pos(700.365,430.065)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.81,0:20:51.86,brush2,,0,0,0,,{\pos(684.885,428.055)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.81,0:20:51.86,brush2,,0,0,0,,{\pos(696.885,430.05)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.86,0:20:51.90,brush2,,0,0,0,,{\pos(681.435,428.025)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.86,0:20:51.90,brush2,,0,0,0,,{\pos(693.435,430.035)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.90,0:20:51.94,brush2,,0,0,0,,{\pos(677.985,428.04)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.90,0:20:51.94,brush2,,0,0,0,,{\pos(689.985,430.035)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.94,0:20:51.98,brush2,,0,0,0,,{\pos(674.535,428.025)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.94,0:20:51.98,brush2,,0,0,0,,{\pos(686.535,430.02)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:51.98,0:20:52.02,brush2,,0,0,0,,{\pos(671.085,427.92)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:51.98,0:20:52.02,brush2,,0,0,0,,{\pos(683.085,429.915)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.02,0:20:52.06,brush2,,0,0,0,,{\pos(665.085,438.09)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.02,0:20:52.06,brush2,,0,0,0,,{\pos(677.085,440.085)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.06,0:20:52.11,brush2,,0,0,0,,{\pos(664.14,415.185)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.06,0:20:52.11,brush2,,0,0,0,,{\pos(676.14,417.18)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.11,0:20:52.15,brush2,,0,0,0,,{\pos(665.79,435.555)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.11,0:20:52.15,brush2,,0,0,0,,{\pos(677.79,437.565)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.15,0:20:52.19,brush2,,0,0,0,,{\pos(663.045,425.97)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.15,0:20:52.19,brush2,,0,0,0,,{\pos(675.045,427.98)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.19,0:20:52.23,brush2,,0,0,0,,{\pos(667.2,466.83)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.19,0:20:52.23,brush2,,0,0,0,,{\pos(679.2,468.825)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.23,0:20:52.27,brush2,,0,0,0,,{\pos(671.43,414.75)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.23,0:20:52.27,brush2,,0,0,0,,{\pos(683.43,416.745)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.27,0:20:52.31,brush2,,0,0,0,,{\pos(667.995,445.425)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.27,0:20:52.31,brush2,,0,0,0,,{\pos(679.995,447.42)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.31,0:20:52.36,brush2,,0,0,0,,{\pos(654.24,424.965)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.31,0:20:52.36,brush2,,0,0,0,,{\pos(666.24,426.96)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.36,0:20:52.40,brush2,,0,0,0,,{\pos(643.095,463.275)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.36,0:20:52.40,brush2,,0,0,0,,{\pos(655.095,465.285)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.40,0:20:52.44,brush2,,0,0,0,,{\pos(654.915,424.89)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.40,0:20:52.44,brush2,,0,0,0,,{\pos(666.915,426.885)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.44,0:20:52.48,brush2,,0,0,0,,{\pos(651.495,437.58)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.44,0:20:52.48,brush2,,0,0,0,,{\pos(663.495,439.575)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.48,0:20:52.52,brush2,,0,0,0,,{\pos(642.945,404.175)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.48,0:20:52.52,brush2,,0,0,0,,{\pos(654.945,406.17)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.52,0:20:52.56,brush2,,0,0,0,,{\pos(626.61,457.935)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.52,0:20:52.56,brush2,,0,0,0,,{\pos(638.61,459.93)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.56,0:20:52.61,brush2,,0,0,0,,{\pos(625.545,434.985)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.56,0:20:52.61,brush2,,0,0,0,,{\pos(637.545,436.98)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.61,0:20:52.65,brush2,,0,0,0,,{\pos(632.37,458.085)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.61,0:20:52.65,brush2,,0,0,0,,{\pos(644.37,460.08)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.65,0:20:52.69,brush2,,0,0,0,,{\pos(628.995,415.11)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.65,0:20:52.69,brush2,,0,0,0,,{\pos(640.995,417.105)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.69,0:20:52.73,brush2,,0,0,0,,{\pos(625.575,430.38)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.69,0:20:52.73,brush2,,0,0,0,,{\pos(637.575,432.39)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.73,0:20:52.77,brush2,,0,0,0,,{\pos(619.5,415.02)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.73,0:20:52.77,brush2,,0,0,0,,{\pos(631.5,417.015)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.77,0:20:52.81,brush2,,0,0,0,,{\pos(610.89,430.335)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.77,0:20:52.81,brush2,,0,0,0,,{\pos(622.89,432.33)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.81,0:20:52.86,brush2,,0,0,0,,{\pos(607.47,417.6)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.81,0:20:52.86,brush2,,0,0,0,,{\pos(619.47,419.595)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.86,0:20:52.90,brush2,,0,0,0,,{\pos(611.64,458.52)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.86,0:20:52.90,brush2,,0,0,0,,{\pos(623.64,460.53)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.90,0:20:52.94,brush2,,0,0,0,,{\pos(615.84,399.63)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.90,0:20:52.94,brush2,,0,0,0,,{\pos(627.84,401.64)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.94,0:20:52.98,brush2,,0,0,0,,{\pos(607.275,455.985)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.94,0:20:52.98,brush2,,0,0,0,,{\pos(619.275,457.98)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:52.98,0:20:53.02,brush2,,0,0,0,,{\pos(603.84,425.265)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:52.98,0:20:53.02,brush2,,0,0,0,,{\pos(615.84,427.26)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 0,0:20:53.02,0:20:53.06,brush2,,0,0,0,,{\pos(599.04,437.265)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:20:53.02,0:20:53.06,brush2,,0,0,0,,{\pos(611.04,439.26)\fscx300\fscy300\frz347.5\bord1.5\c&H412FC9&\3c&H7F4C6B&\be2}You fool!
+Dialogue: 1,0:10:38.03,0:10:39.29,brush3,,0,0,0,,{\pos(933,340.5)\fscx140\fscy140\frz270\fsp-3\c&H2B3137&\be2}The end
+Dialogue: 0,0:17:47.05,0:17:52.93,brush3,,0,0,0,,{\pos(285,706.5)\fscx500\fscy500\fsp-3\b0\c&H04080A&\be2\fad(667,0)}D{\fsp-6\alpha&HFF&}og
+Dialogue: 0,0:17:48.26,0:17:52.93,brush3,,0,0,0,,{\pos(285,706.5)\fscx500\fscy500\fsp-3\b0\c&H04080A&\alpha&HFF&\be2\fad(1961,0)}D{\fsp-6\alpha&H00&}o{\alpha&HFF&}g
+Dialogue: 0,0:17:50.72,0:17:52.93,brush3,,0,0,0,,{\pos(285,706.5)\fscx500\fscy500\fsp-3\b0\c&H04080A&\alpha&HFF&\be2\fad(2169,0)}D{\fsp-6}o{\alpha&H00&}g
+Dialogue: 0,0:17:52.93,0:17:52.97,brush3,,0,0,0,,{\pos(1404,792)\frz344.975\fax-0.05\fsp-3\b0\c&H04080A&\be2\fad(0,0)}D{\fsp-6}og
+Dialogue: 0,0:17:52.97,0:17:53.05,brush3,,0,0,0,,{\pos(1414.5,789)\frz346.037\fax-0.05\fsp-3\b0\c&H04080A&\be2\fad(0,0)}D{\fsp-6}og
+Dialogue: 0,0:17:53.05,0:17:53.14,brush3,,0,0,0,,{\pos(1420.5,786)\frz346.037\fax-0.05\fsp-3\b0\c&H04080A&\be2\fad(0,0)}D{\fsp-6}og
+Dialogue: 0,0:17:53.14,0:17:53.22,brush3,,0,0,0,,{\pos(1423.5,784.5)\frz346.037\fax-0.05\fsp-3\b0\c&H04080A&\be2\fad(0,0)}D{\fsp-6}og
+Dialogue: 0,0:17:53.22,0:17:55.89,brush3,,0,0,0,,{\pos(1428,783)\frz346.037\fax-0.05\fsp-3\b0\c&H04080A&\be2\fad(0,0)}D{\fsp-6}og
+Dialogue: 0,0:23:40.11,0:23:42.86,brush4,,0,0,0,,{\pos(957,581.5)\fscx450\fscy450\be2}Preview
+Dialogue: 0,0:23:59.50,0:24:10.14,brush4,,0,0,0,,{\pos(987,247.5)\fscx420\fscy420\be2\q2\a6}Backstage Riches\NThree Towers and a Vow\NCold Girl
+Dialogue: 0,0:03:47.92,0:03:52.63,freehand1,,0,0,0,,{\pos(1654.5,790.5)\fscx90\fscy90\c&HC6EFDD&\be2\q2}I'm looking for \Nthis kitten
+Dialogue: 0,0:03:54.30,0:03:55.30,freehand1,,0,0,0,,{\pos(1654.5,790.5)\fscx90\fscy90\c&HC6EFDD&\be2\q2}I'm looking for \Nthis kitten
+Dialogue: 1,0:10:32.40,0:10:33.90,freehand1,,0,0,0,,{\an7\pos(1029,385.5)\fscx89\fscy89\frz270\fsp-0.75\c&H2B3137&\be2\q2}What a lovely day. This mor-\Nning I've seen dandelions blo-\Noming beside the             road.
+Dialogue: 1,0:10:33.90,0:10:35.16,freehand1,,0,0,0,,{\pos(942,483)\frz270\c&H2B3137&\be2}We drew it!
+Dialogue: 0,0:17:00.87,0:17:10.97,freehand1,,0,0,0,,{\pos(805.5,745.5)\fscx55\fscy55\c&HC6EFDD&\be2\q2}I'm looking for \Nthis kitten
+Dialogue: 0,0:18:39.47,0:18:40.43,freehand1,,0,0,0,,{\pos(1521.855,779.357)\fscx500\fscy500\fsp-1.5\b1\c&H04080A&\be2}Big
+Dialogue: 0,0:18:40.43,0:18:43.39,freehand1,,0,0,0,,{\pos(874.285,786.643)\frz4.24\b1\c&H2D2E30&\be2}Big {also lol up there in the right corner}
 Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(246,153)\frz12.21\fax-0.1\c&H525659&\be2}Kou{\frz8.7}○{\frz9.2}sha
 Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(400.5,133.5)\frz5.188\fax-0.05\c&H525659&\be2}100th
 Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(636,136.5)\frz356.941\fsp-3\c&H525659&\be2}anniversary {\frz-6}party
@@ -623,47 +840,7 @@ Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(310.5,597)\fscx80\fscy80\frz
 Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(415.5,583.5)\fscx80\fscy80\frz5.658\fax-0.05\c&H525659&\be2}wear
 Dialogue: 0,0:06:28.87,0:06:29.24,jp1,,0,0,0,,{\pos(180,622.5)\fscx80\fscy80\frz12.755\fax-0.2\c&H525659&\be2\iclip(m 117 637.5 b 147 612 169.5 588 199.5 601.5 223.5 589.5 172.5 678 165 705)} Come in
 Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(180,622.5)\fscx80\fscy80\frz12.755\fax-0.2\c&H525659&\be2\iclip(m 117 637.5 b 144 612 169.5 588 199.5 601.5 223.5 589.5 172.5 678 165 705)} Come in
-Dialogue: 0,0:06:50.18,0:06:51.60,brush2,,0,0,0,,{\move(985.5,226.5,-600,226.5)\fscx120\fscy120\fnArial\fsp-2.25\c&H2B2A3F&\be2}100th anniversary of Kodansha
-Dialogue: 0,0:10:20.81,0:10:22.73,brush1,,0,0,0,,{\pos(1453.5,177)\c&H191D1F&\3c&H212121&\be2}Buratei\N Mar{\fsp-6}ii
-Dialogue: 0,0:10:32.40,0:10:33.90,block,,0,0,0,,{\pos(955.5,898.5)\fscx250\fscy250\c&HD6E2EB&\clip(m 900 381 b 928.5 379.5 988.5 378 1018.5 378 1023 342 1021.5 729 1023 846 1018.5 858 924 850.5 892.5 852 889.5 847.5 897 780 889.5 750 901.5 742.5 937.5 751.5 951 751.5 963 751.5 955.5 712.5 958.5 700.5 960 691.5 957 676.5 957 669 957 661.5 943.5 652.5 939 648 934.5 643.5 921 648 916.5 649.5 912 649.5 909 657 907.5 660 904.5 663 898.5 669 897 673.5 891 690 900 727.5 888 789)}A\NA\NA\NA
-Dialogue: 1,0:10:32.40,0:10:33.90,freehand1,,0,0,0,,{\an7\pos(1029,385.5)\fscx89\fscy89\frz270\fsp-0.75\c&H2B3137&\be2}What a lovely day. This mor-\Nning I've seen dandelions blo-\Noming beside the             road.
-Dialogue: 0,0:10:33.90,0:10:35.16,block,,0,0,0,,{\pos(960,693)\fscx200\fscy200\c&HD6E2EB&\clip(m 906 328.5 b 948 319.5 979.5 321 1017 324 1005 406.5 1006.5 577.5 1011 628.5 955.5 636 933 630 910.5 627)}A\NA\NA\NA
-Dialogue: 1,0:10:33.90,0:10:35.16,freehand1,,0,0,0,,{\pos(942,483)\frz270\c&H2B3137&\be2}We drew it!
-Dialogue: 0,0:10:35.16,0:10:36.66,block,,0,0,0,,{\pos(960,693)\fscx200\fscy200\c&HD6E2EB&\clip(m 918 312 b 939 312 982.5 312 1005 312 1005 406.5 1006.5 577.5 1008 666 994.5 670.5 934.5 666 910.5 666)}A\NA\NA\NA
-Dialogue: 1,0:10:35.16,0:10:36.66,jp1,,0,0,0,,{\pos(916.5,486)\fscx60\fscy70\frz270\fsp-3\c&H2B3137&\be2}Tokyo Metropolitan Ordinance\NRegarding the Healthy\NDevelopment of Youths
-Dialogue: 0,0:10:36.66,0:10:38.03,block,,0,0,0,,{\pos(961.5,586.5)\fscx200\fscy200\c&HD6DFE7&\clip(m 925.5 259.5 b 943.5 259.5 979.5 259.5 999 259.5 999 414 999 478.5 1000.5 552 999 558 942 552 922.5 553.5)}A\NA\NA\NA
-Dialogue: 1,0:10:36.66,0:10:38.03,brush2,,0,0,0,,{\pos(943.5,402)\fscx70\frz270\fsp-3\c&H2B3137&\be2}Hidden body features
-Dialogue: 0,0:10:38.03,0:10:39.29,block,,0,0,0,,{\pos(961.5,496.5)\fscx200\fscy200\c&HD1DDE8&\clip(m 934.5 228 b 949.5 226.5 979.5 226.5 994.5 226.5 993 370.5 991.5 402 991.5 460.5 991.5 471 946.5 460.5 931.5 462)}A\NA\NA
-Dialogue: 1,0:10:38.03,0:10:39.29,brush3,,0,0,0,,{\pos(933,340.5)\fscx140\fscy140\frz270\fsp-3\c&H2B3137&\be2}The end
-Dialogue: 0,0:10:40.62,0:10:43.12,block,,0,0,0,,{\pos(387,951)\fscx375\fscy472.5\frz21.038\bord3\clip(m 252 418.5 l 136.5 462 321 943.5 441 901.5)}A\NA
-Dialogue: 0,0:10:40.62,0:10:43.12,brush1,,0,0,0,,{\pos(258,690)\fscx160\fscy160\frz291.897\fsp-1.5\b0\c&H000000&\be2}Bouhatei {\b1}Tetora
-Dialogue: 0,0:10:43.12,0:10:46.71,brush1,,0,0,0,,{\pos(1521,859.5)\fscx90\fscy90\frz20.019\fsp-1.5\bord1.5\c&H2D3B3C&\3c&H828286&\blur1.5}Daatei\N Har{\fsp-6}ii
-Dialogue: 0,0:11:00.56,0:11:02.56,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
-Dialogue: 1,0:11:00.56,0:11:02.56,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Different Clothes
-Dialogue: 0,0:14:43.61,0:14:46.12,block,,0,0,0,,{\pos(1009.5,828)\fscx375\fscy472.5\frz351.995\bord3\clip(m 1020 357 l 1125 373.5 1066.5 795 963 780)}A\NA
-Dialogue: 1,0:14:43.61,0:14:46.12,brush1,,0,0,0,,{\pos(1009.5,571.5)\fscx160\fscy160\frz261.666\fsp-1.5\b0\c&H000000&\3c&H000000&\be2}Buratei {\fsp1.5\b1}M{\fsp-1.5}a{\fsp-6}r{\fsp-9}ii
-Dialogue: 0,0:15:13.06,0:15:15.06,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
-Dialogue: 1,0:15:13.06,0:15:15.06,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Shouting Instruction
-Dialogue: 1,0:16:25.55,0:16:29.01,jp2,,0,0,0,,{\pos(1498.715,285)\fscx170\fscy170\fsp-1.5\c&H000000&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Dog of authority
-Dialogue: 0,0:16:25.55,0:16:29.01,jp2,,0,0,0,,{\pos(1498.715,285)\fscx170\fscy170\fsp-1.5\bord1.5\shad2.25\c&HD7CFC5&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Dog of authority
-Dialogue: 1,0:16:26.92,0:16:29.01,jp2,,0,0,0,,{\pos(1716,679.5)\fscx170\fscy170\frz359.952\fsp-1.5\c&H000000&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Yelp of
-Dialogue: 1,0:16:26.92,0:16:29.01,jp2,,0,0,0,,{\pos(1716,769.5)\fscx170\fscy170\frz359.952\fsp-1.5\c&H000000&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}a kicked dog
-Dialogue: 0,0:16:26.92,0:16:29.01,jp2,,0,0,0,,{\pos(1715.46,680.317)\fscx170\fscy170\frz359.952\fsp-1.5\bord1.5\shad2.25\c&HD7CFC5&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Yelp of
-Dialogue: 0,0:16:26.92,0:16:29.01,jp2,,0,0,0,,{\pos(1716,769.773)\fscx170\fscy170\frz359.952\fsp-1.5\bord1.5\shad2.25\c&HD7CFC5&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}a kicked dog
-Dialogue: 1,0:16:27.93,0:16:29.01,jp2,,0,0,0,,{\pos(1086,688.5)\fscx170\fscy170\frz359.952\fsp-1.5\c&H000000&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Die like a dog
-Dialogue: 0,0:16:27.93,0:16:29.01,jp2,,0,0,0,,{\pos(1086,688.5)\fscx170\fscy170\frz359.952\fsp-1.5\bord1.5\shad2.25\c&HD7CFC5&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Die like a dog
-Dialogue: 0,0:16:29.26,0:16:33.89,jp2,,0,0,0,,{\pos(250.287,133.373)\fscx155\fscy155\frz359.952\fs60\fsp-1.5\bord1.5\shad2.25\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Arched like a cat
-Dialogue: 0,0:16:29.26,0:16:33.89,jp2,,0,0,0,,{\pos(250.287,133.373)\fscx155\fscy155\frz359.952\fs60\fsp-1.5\shad2.25\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\bord}Arched like a cat
-Dialogue: 1,0:16:30.26,0:16:33.89,jp2,,0,0,0,,{\pos(546,160.071)\fscx115\fscy115\frz359.952\fsp-1.5\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Cat burglar
-Dialogue: 0,0:16:30.26,0:16:33.89,jp2,,0,0,0,,{\pos(546,160.071)\fscx115\fscy115\frz359.952\fsp-1.5\bord1.5\shad2.25\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Cat burglar
-Dialogue: 1,0:16:31.26,0:16:33.89,jp2,,0,0,0,,{\pos(149.5,736.5)\fscx155\fscy155\frz359.952\fs60\fsp-1.5\c&H172135&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Caterwaul
-Dialogue: 0,0:16:31.26,0:16:33.89,jp2,,0,0,0,,{\pos(149.5,736.5)\fscx155\fscy155\frz359.952\fs60\fsp-1.5\bord1.5\shad2.25\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Caterwaul
-Dialogue: 2,0:16:32.26,0:16:33.89,jp2,,0,0,0,,{\pos(938.143,92.571)\fscx155\fscy155\frz359.952\fs60\fsp-1.5\c&H101D2C&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Purr like a cat
-Dialogue: 0,0:16:32.26,0:16:33.89,jp2,,0,0,0,,{\pos(938.143,92.571)\fscx155\fscy155\frz359.952\fs60\fsp-1.5\bord1.5\shad2.25\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Purr like a cat
-Dialogue: 1,0:16:33.01,0:16:33.89,jp2,,0,0,0,,{\pos(694.5,549)\fscx125\fscy125\frz359.952\fsp-1.5\shad1.5\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5}Tomcat
-Dialogue: 0,0:16:33.01,0:16:33.89,jp2,,0,0,0,,{\pos(694.5,549)\fscx125\fscy125\frz359.952\fsp-1.5\bord1.5\shad1.5\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Tomcat
-Dialogue: 0,0:17:00.87,0:17:10.97,block,,0,0,0,,{\pos(772.5,766.5)\fscx180\fscy180\fsp-3\c&H234F38&\be2\clip(m 882 691.5 b 880.5 703.5 880.5 730.5 882 748.5 877.5 748.5 759 748.5 718.5 748.5 711 750 736.5 738 744 735 750 732 735 715.5 732 709.5 727.5 702 690 735 706.5 691.5)}AAAA
-Dialogue: 0,0:17:00.87,0:17:10.97,freehand1,,0,0,0,,{\pos(805.5,745.5)\fscx55\fscy55\c&HC6EFDD&\be2}I'm looking for \Nthis kitten
+Dialogue: 1,0:10:35.16,0:10:36.66,jp1,,0,0,0,,{\pos(916.5,486)\fscx60\fscy70\frz270\fsp-3\c&H2B3137&\be2\q2}Tokyo Metropolitan Ordinance\NRegarding the Healthy\NDevelopment of Youths
 Dialogue: 0,0:17:17.93,0:17:18.89,jp1,,0,0,0,,{\pos(1671,964.5)\fscx500\fscy500\fsp-1.5\c&H04080A&\be2}Dog
 Dialogue: 0,0:17:26.28,0:17:29.24,jp1,,0,0,0,,{\pos(169.5,393)\fscx185\fscy185\fsp-1.5\c&H010506&\be2}Do{\alpha&HFF&}w
 Dialogue: 0,0:17:26.28,0:17:29.24,jp1,,0,0,0,,{\pos(522,393)\fscx185\fscy185\fsp-1.5\c&H010506&\be2}Do{\alpha&HFF&}a
@@ -683,196 +860,21 @@ Dialogue: 0,0:17:28.15,0:17:29.24,jp1,,0,0,0,,{\pos(867,714)\fscx185\fscy185\fsp
 Dialogue: 0,0:17:28.36,0:17:29.24,jp1,,0,0,0,,{\pos(169.5,1039.5)\fscx185\fscy185\fsp-1.5\c&H010506&\alpha&HFF&\be2}Do{\alpha&H00&}i
 Dialogue: 0,0:17:28.57,0:17:29.24,jp1,,0,0,0,,{\pos(522,1039.5)\fscx185\fscy185\fsp-1.5\c&H010506&\alpha&HFF&\be2}Do{\alpha&H00&}y
 Dialogue: 0,0:17:28.78,0:17:29.24,jp1,,0,0,0,,{\pos(867,1039.5)\fscx185\fscy185\fsp-1.5\c&H010506&\alpha&HFF&\be2}Do{\alpha&H00&}x
-Dialogue: 0,0:17:47.05,0:17:52.93,brush3,,0,0,0,,{\pos(285,706.5)\fscx500\fscy500\fsp-3\b0\c&H04080A&\be2\fad(667,0)}D{\fsp-6\alpha&HFF&}og
-Dialogue: 0,0:17:48.26,0:17:52.93,brush3,,0,0,0,,{\pos(285,706.5)\fscx500\fscy500\fsp-3\b0\c&H04080A&\alpha&HFF&\be2\fad(1961,0)}D{\fsp-6\alpha&H00&}o{\alpha&HFF&}g
-Dialogue: 0,0:17:50.72,0:17:52.93,brush3,,0,0,0,,{\pos(285,706.5)\fscx500\fscy500\fsp-3\b0\c&H04080A&\alpha&HFF&\be2\fad(2169,0)}D{\fsp-6}o{\alpha&H00&}g
-Dialogue: 0,0:17:52.93,0:17:52.97,brush3,,0,0,0,,{\pos(1404,792)\frz344.975\fax-0.05\fsp-3\b0\c&H04080A&\be2\fad(0,0)}D{\fsp-6}og
-Dialogue: 0,0:17:52.97,0:17:53.05,brush3,,0,0,0,,{\pos(1414.5,789)\frz346.037\fax-0.05\fsp-3\b0\c&H04080A&\be2\fad(0,0)}D{\fsp-6}og
-Dialogue: 0,0:17:53.05,0:17:53.14,brush3,,0,0,0,,{\pos(1420.5,786)\frz346.037\fax-0.05\fsp-3\b0\c&H04080A&\be2\fad(0,0)}D{\fsp-6}og
-Dialogue: 0,0:17:53.14,0:17:53.22,brush3,,0,0,0,,{\pos(1423.5,784.5)\frz346.037\fax-0.05\fsp-3\b0\c&H04080A&\be2\fad(0,0)}D{\fsp-6}og
-Dialogue: 0,0:17:53.22,0:17:55.89,brush3,,0,0,0,,{\pos(1428,783)\frz346.037\fax-0.05\fsp-3\b0\c&H04080A&\be2\fad(0,0)}D{\fsp-6}og
-Dialogue: 0,0:17:55.89,0:18:00.68,brush2,,0,0,0,,{\pos(196.5,246)\fscx500\fscy500\fsp-3\c&H0A1010&\be2\fad(0,2711)}D{\fsp-6}og
-Dialogue: 0,0:18:39.47,0:18:40.43,freehand1,,0,0,0,,{\pos(1521.855,779.357)\fscx500\fscy500\fsp-1.5\b1\c&H04080A&\be2}Big
-Dialogue: 0,0:18:40.43,0:18:43.39,freehand1,,0,0,0,,{\pos(874.285,786.643)\frz4.24\b1\c&H2D2E30&\be2}Big {also lol up there in the right corner}
-Dialogue: 0,0:20:49.48,0:20:49.52,brush2,,0,0,0,,{\pos(877.995,429.495)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.48,0:20:49.52,brush2,,0,0,0,,{\pos(889.995,431.505)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.52,0:20:49.56,brush2,,0,0,0,,{\pos(874.59,429.42)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.52,0:20:49.56,brush2,,0,0,0,,{\pos(886.59,431.415)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.56,0:20:49.60,brush2,,0,0,0,,{\pos(871.2,429.465)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.56,0:20:49.60,brush2,,0,0,0,,{\pos(883.2,431.46)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.60,0:20:49.64,brush2,,0,0,0,,{\pos(867.72,429.42)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.60,0:20:49.64,brush2,,0,0,0,,{\pos(879.72,431.43)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.64,0:20:49.69,brush2,,0,0,0,,{\pos(864.36,429.405)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.64,0:20:49.69,brush2,,0,0,0,,{\pos(876.36,431.415)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.69,0:20:49.73,brush2,,0,0,0,,{\pos(860.925,429.375)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.69,0:20:49.73,brush2,,0,0,0,,{\pos(872.925,431.37)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.73,0:20:49.77,brush2,,0,0,0,,{\pos(857.445,429.255)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.73,0:20:49.77,brush2,,0,0,0,,{\pos(869.445,431.25)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.77,0:20:49.81,brush2,,0,0,0,,{\pos(853.98,429.24)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.77,0:20:49.81,brush2,,0,0,0,,{\pos(865.98,431.235)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.81,0:20:49.85,brush2,,0,0,0,,{\pos(850.53,429.27)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.81,0:20:49.85,brush2,,0,0,0,,{\pos(862.53,431.265)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.85,0:20:49.90,brush2,,0,0,0,,{\pos(847.065,429.255)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.85,0:20:49.90,brush2,,0,0,0,,{\pos(859.065,431.265)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.90,0:20:49.94,brush2,,0,0,0,,{\pos(843.63,429.255)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.90,0:20:49.94,brush2,,0,0,0,,{\pos(855.63,431.25)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.94,0:20:49.98,brush2,,0,0,0,,{\pos(840.135,429.225)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.94,0:20:49.98,brush2,,0,0,0,,{\pos(852.135,431.22)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.98,0:20:50.02,brush2,,0,0,0,,{\pos(836.76,429.12)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:49.98,0:20:50.02,brush2,,0,0,0,,{\pos(848.76,431.13)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.02,0:20:50.06,brush2,,0,0,0,,{\pos(833.325,429.105)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.02,0:20:50.06,brush2,,0,0,0,,{\pos(845.325,431.1)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.06,0:20:50.10,brush2,,0,0,0,,{\pos(829.845,429.09)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.06,0:20:50.10,brush2,,0,0,0,,{\pos(841.845,431.085)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.10,0:20:50.15,brush2,,0,0,0,,{\pos(826.38,429.06)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.10,0:20:50.15,brush2,,0,0,0,,{\pos(838.38,431.07)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.15,0:20:50.19,brush2,,0,0,0,,{\pos(822.93,429.075)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.15,0:20:50.19,brush2,,0,0,0,,{\pos(834.93,431.07)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.19,0:20:50.23,brush2,,0,0,0,,{\pos(819.51,429.045)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.19,0:20:50.23,brush2,,0,0,0,,{\pos(831.51,431.04)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.23,0:20:50.27,brush2,,0,0,0,,{\pos(816.075,428.91)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.23,0:20:50.27,brush2,,0,0,0,,{\pos(828.075,430.92)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.27,0:20:50.31,brush2,,0,0,0,,{\pos(812.61,428.88)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.27,0:20:50.31,brush2,,0,0,0,,{\pos(824.61,430.875)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.31,0:20:50.35,brush2,,0,0,0,,{\pos(809.19,428.925)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.31,0:20:50.35,brush2,,0,0,0,,{\pos(821.19,430.935)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.35,0:20:50.40,brush2,,0,0,0,,{\pos(805.74,428.895)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.35,0:20:50.40,brush2,,0,0,0,,{\pos(817.74,430.89)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.40,0:20:50.44,brush2,,0,0,0,,{\pos(802.29,428.895)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.40,0:20:50.44,brush2,,0,0,0,,{\pos(814.29,430.89)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.44,0:20:50.48,brush2,,0,0,0,,{\pos(798.825,428.85)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.44,0:20:50.48,brush2,,0,0,0,,{\pos(810.825,430.845)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.48,0:20:50.52,brush2,,0,0,0,,{\pos(795.39,428.76)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.48,0:20:50.52,brush2,,0,0,0,,{\pos(807.39,430.755)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.52,0:20:50.56,brush2,,0,0,0,,{\pos(791.94,428.745)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.52,0:20:50.56,brush2,,0,0,0,,{\pos(803.94,430.74)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.56,0:20:50.60,brush2,,0,0,0,,{\pos(788.52,428.79)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.56,0:20:50.60,brush2,,0,0,0,,{\pos(800.52,430.785)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.60,0:20:50.65,brush2,,0,0,0,,{\pos(785.01,428.775)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.60,0:20:50.65,brush2,,0,0,0,,{\pos(797.01,430.77)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.65,0:20:50.69,brush2,,0,0,0,,{\pos(781.59,428.76)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.65,0:20:50.69,brush2,,0,0,0,,{\pos(793.59,430.755)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.69,0:20:50.73,brush2,,0,0,0,,{\pos(778.14,428.715)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.69,0:20:50.73,brush2,,0,0,0,,{\pos(790.14,430.71)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.73,0:20:50.77,brush2,,0,0,0,,{\pos(774.66,428.61)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.73,0:20:50.77,brush2,,0,0,0,,{\pos(786.66,430.605)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.77,0:20:50.81,brush2,,0,0,0,,{\pos(771.225,428.625)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.77,0:20:50.81,brush2,,0,0,0,,{\pos(783.225,430.62)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.81,0:20:50.85,brush2,,0,0,0,,{\pos(767.775,428.625)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.81,0:20:50.85,brush2,,0,0,0,,{\pos(779.775,430.62)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.85,0:20:50.90,brush2,,0,0,0,,{\pos(764.355,428.58)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.85,0:20:50.90,brush2,,0,0,0,,{\pos(776.355,430.575)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.90,0:20:50.94,brush2,,0,0,0,,{\pos(760.905,428.565)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.90,0:20:50.94,brush2,,0,0,0,,{\pos(772.905,430.56)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.94,0:20:50.98,brush2,,0,0,0,,{\pos(757.425,428.565)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.94,0:20:50.98,brush2,,0,0,0,,{\pos(769.425,430.56)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.98,0:20:51.02,brush2,,0,0,0,,{\pos(754.02,428.445)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:50.98,0:20:51.02,brush2,,0,0,0,,{\pos(766.02,430.44)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.02,0:20:51.06,brush2,,0,0,0,,{\pos(750.525,428.445)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.02,0:20:51.06,brush2,,0,0,0,,{\pos(762.525,430.44)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.06,0:20:51.10,brush2,,0,0,0,,{\pos(747.06,428.505)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.06,0:20:51.10,brush2,,0,0,0,,{\pos(759.06,430.5)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.10,0:20:51.15,brush2,,0,0,0,,{\pos(743.625,428.46)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.10,0:20:51.15,brush2,,0,0,0,,{\pos(755.625,430.47)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.15,0:20:51.19,brush2,,0,0,0,,{\pos(740.175,428.445)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.15,0:20:51.19,brush2,,0,0,0,,{\pos(752.175,430.455)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.19,0:20:51.23,brush2,,0,0,0,,{\pos(736.725,428.43)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.19,0:20:51.23,brush2,,0,0,0,,{\pos(748.725,430.425)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.23,0:20:51.27,brush2,,0,0,0,,{\pos(733.275,428.295)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.23,0:20:51.27,brush2,,0,0,0,,{\pos(745.275,430.29)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.27,0:20:51.31,brush2,,0,0,0,,{\pos(729.795,428.28)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.27,0:20:51.31,brush2,,0,0,0,,{\pos(741.795,430.275)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.31,0:20:51.35,brush2,,0,0,0,,{\pos(726.36,428.34)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.31,0:20:51.35,brush2,,0,0,0,,{\pos(738.36,430.335)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.35,0:20:51.40,brush2,,0,0,0,,{\pos(722.91,428.295)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.35,0:20:51.40,brush2,,0,0,0,,{\pos(734.91,430.305)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.40,0:20:51.44,brush2,,0,0,0,,{\pos(719.46,428.31)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.40,0:20:51.44,brush2,,0,0,0,,{\pos(731.46,430.32)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.44,0:20:51.48,brush2,,0,0,0,,{\pos(716.025,428.28)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.44,0:20:51.48,brush2,,0,0,0,,{\pos(728.025,430.29)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.48,0:20:51.52,brush2,,0,0,0,,{\pos(712.59,428.175)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.48,0:20:51.52,brush2,,0,0,0,,{\pos(724.59,430.17)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.52,0:20:51.56,brush2,,0,0,0,,{\pos(709.125,428.145)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.52,0:20:51.56,brush2,,0,0,0,,{\pos(721.125,430.155)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.56,0:20:51.61,brush2,,0,0,0,,{\pos(705.675,428.205)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.56,0:20:51.61,brush2,,0,0,0,,{\pos(717.675,430.2)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.61,0:20:51.65,brush2,,0,0,0,,{\pos(702.195,428.22)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.61,0:20:51.65,brush2,,0,0,0,,{\pos(714.195,430.215)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.65,0:20:51.69,brush2,,0,0,0,,{\pos(698.73,428.19)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.65,0:20:51.69,brush2,,0,0,0,,{\pos(710.73,430.185)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.69,0:20:51.73,brush2,,0,0,0,,{\pos(695.295,428.175)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.69,0:20:51.73,brush2,,0,0,0,,{\pos(707.295,430.185)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.73,0:20:51.77,brush2,,0,0,0,,{\pos(691.815,428.115)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.73,0:20:51.77,brush2,,0,0,0,,{\pos(703.815,430.11)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.77,0:20:51.81,brush2,,0,0,0,,{\pos(688.365,428.07)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.77,0:20:51.81,brush2,,0,0,0,,{\pos(700.365,430.065)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.81,0:20:51.86,brush2,,0,0,0,,{\pos(684.885,428.055)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.81,0:20:51.86,brush2,,0,0,0,,{\pos(696.885,430.05)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.86,0:20:51.90,brush2,,0,0,0,,{\pos(681.435,428.025)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.86,0:20:51.90,brush2,,0,0,0,,{\pos(693.435,430.035)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.90,0:20:51.94,brush2,,0,0,0,,{\pos(677.985,428.04)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.90,0:20:51.94,brush2,,0,0,0,,{\pos(689.985,430.035)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.94,0:20:51.98,brush2,,0,0,0,,{\pos(674.535,428.025)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.94,0:20:51.98,brush2,,0,0,0,,{\pos(686.535,430.02)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.98,0:20:52.02,brush2,,0,0,0,,{\pos(671.085,427.92)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:51.98,0:20:52.02,brush2,,0,0,0,,{\pos(683.085,429.915)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.02,0:20:52.06,brush2,,0,0,0,,{\pos(665.085,438.09)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.02,0:20:52.06,brush2,,0,0,0,,{\pos(677.085,440.085)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.06,0:20:52.11,brush2,,0,0,0,,{\pos(664.14,415.185)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.06,0:20:52.11,brush2,,0,0,0,,{\pos(676.14,417.18)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.11,0:20:52.15,brush2,,0,0,0,,{\pos(665.79,435.555)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.11,0:20:52.15,brush2,,0,0,0,,{\pos(677.79,437.565)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.15,0:20:52.19,brush2,,0,0,0,,{\pos(663.045,425.97)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.15,0:20:52.19,brush2,,0,0,0,,{\pos(675.045,427.98)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.19,0:20:52.23,brush2,,0,0,0,,{\pos(667.2,466.83)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.19,0:20:52.23,brush2,,0,0,0,,{\pos(679.2,468.825)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.23,0:20:52.27,brush2,,0,0,0,,{\pos(671.43,414.75)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.23,0:20:52.27,brush2,,0,0,0,,{\pos(683.43,416.745)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.27,0:20:52.31,brush2,,0,0,0,,{\pos(667.995,445.425)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.27,0:20:52.31,brush2,,0,0,0,,{\pos(679.995,447.42)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.31,0:20:52.36,brush2,,0,0,0,,{\pos(654.24,424.965)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.31,0:20:52.36,brush2,,0,0,0,,{\pos(666.24,426.96)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.36,0:20:52.40,brush2,,0,0,0,,{\pos(643.095,463.275)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.36,0:20:52.40,brush2,,0,0,0,,{\pos(655.095,465.285)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.40,0:20:52.44,brush2,,0,0,0,,{\pos(654.915,424.89)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.40,0:20:52.44,brush2,,0,0,0,,{\pos(666.915,426.885)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.44,0:20:52.48,brush2,,0,0,0,,{\pos(651.495,437.58)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.44,0:20:52.48,brush2,,0,0,0,,{\pos(663.495,439.575)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.48,0:20:52.52,brush2,,0,0,0,,{\pos(642.945,404.175)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.48,0:20:52.52,brush2,,0,0,0,,{\pos(654.945,406.17)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.52,0:20:52.56,brush2,,0,0,0,,{\pos(626.61,457.935)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.52,0:20:52.56,brush2,,0,0,0,,{\pos(638.61,459.93)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.56,0:20:52.61,brush2,,0,0,0,,{\pos(625.545,434.985)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.56,0:20:52.61,brush2,,0,0,0,,{\pos(637.545,436.98)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.61,0:20:52.65,brush2,,0,0,0,,{\pos(632.37,458.085)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.61,0:20:52.65,brush2,,0,0,0,,{\pos(644.37,460.08)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.65,0:20:52.69,brush2,,0,0,0,,{\pos(628.995,415.11)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.65,0:20:52.69,brush2,,0,0,0,,{\pos(640.995,417.105)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.69,0:20:52.73,brush2,,0,0,0,,{\pos(625.575,430.38)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.69,0:20:52.73,brush2,,0,0,0,,{\pos(637.575,432.39)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.73,0:20:52.77,brush2,,0,0,0,,{\pos(619.5,415.02)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.73,0:20:52.77,brush2,,0,0,0,,{\pos(631.5,417.015)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.77,0:20:52.81,brush2,,0,0,0,,{\pos(610.89,430.335)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.77,0:20:52.81,brush2,,0,0,0,,{\pos(622.89,432.33)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.81,0:20:52.86,brush2,,0,0,0,,{\pos(607.47,417.6)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.81,0:20:52.86,brush2,,0,0,0,,{\pos(619.47,419.595)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.86,0:20:52.90,brush2,,0,0,0,,{\pos(611.64,458.52)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.86,0:20:52.90,brush2,,0,0,0,,{\pos(623.64,460.53)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.90,0:20:52.94,brush2,,0,0,0,,{\pos(615.84,399.63)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.90,0:20:52.94,brush2,,0,0,0,,{\pos(627.84,401.64)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.94,0:20:52.98,brush2,,0,0,0,,{\pos(607.275,455.985)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.94,0:20:52.98,brush2,,0,0,0,,{\pos(619.275,457.98)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.98,0:20:53.02,brush2,,0,0,0,,{\pos(603.84,425.265)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:52.98,0:20:53.02,brush2,,0,0,0,,{\pos(615.84,427.26)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:53.02,0:20:53.06,brush2,,0,0,0,,{\pos(599.04,437.265)\fscx300\fscy300\frz347.5\bord1.5\c&H6E334D&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:20:53.02,0:20:53.06,brush2,,0,0,0,,{\pos(611.04,439.26)\fscx300\fscy300\frz347.5\bord1.5\c&H5041C2&\3c&H7F4C6B&\be2}You fool!
-Dialogue: 0,0:23:40.11,0:23:42.86,block,,0,0,0,,{\an9\pos(1059.833,104.1)\fscx182\fscy1406\c&H1B4CCD&}A
-Dialogue: 0,0:23:40.11,0:23:42.86,block,,0,0,0,,{\an9\pos(957,100.5)\fscx182\fscy1406\c&H111612&}A
-Dialogue: 0,0:23:40.11,0:23:42.86,brush4,,0,0,0,,{\pos(957,581.5)\fscx450\fscy450\be2}Preview
-Dialogue: 0,0:23:59.50,0:24:10.14,block,,0,0,0,,{\an9\pos(1387.1,104.1)\fscx182\fscy1406\c&H1C4CCC&}A
-Dialogue: 0,0:23:59.50,0:24:10.14,block,,0,0,0,,{\an9\pos(737.6,108.6)\fscx182\fscy1406\c&H1C4CCC&}A
-Dialogue: 0,0:23:59.50,0:24:10.14,block,,0,0,0,,{\an9\pos(1062.833,104.1)\fscx182\fscy1406\c&H1C4CCC&}A
-Dialogue: 0,0:23:59.50,0:24:10.14,block,,0,0,0,,{\an9\pos(1281.5,104.5)\fscx182\fscy1406\c&H111612&}A
-Dialogue: 0,0:23:59.50,0:24:10.14,block,,0,0,0,,{\an9\pos(957,104.5)\fscx182\fscy1406\c&H111612&}A
-Dialogue: 0,0:23:59.50,0:24:10.14,block,,0,0,0,,{\an9\pos(633.5,110)\fscx182\fscy1406\c&H111612&}A
-Dialogue: 0,0:23:59.50,0:24:10.14,brush4,,0,0,0,,{\pos(987,247.5)\fscx420\fscy420\be2\a6}Backstage Riches\NThree Towers and a Vow\NCold Girl
+Dialogue: 1,0:16:25.55,0:16:29.01,jp2,,0,0,0,,{\pos(1498.715,285)\fscx170\fscy170\fsp-1.5\c&H000000&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Dog of authority
+Dialogue: 0,0:16:25.55,0:16:29.01,jp2,,0,0,0,,{\pos(1498.715,285)\fscx170\fscy170\fsp-1.5\bord1.5\shad2.25\c&HD7CFC5&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Dog of authority
+Dialogue: 1,0:16:26.92,0:16:29.01,jp2,,0,0,0,,{\pos(1716,679.5)\fscx170\fscy170\frz359.952\fsp-1.5\c&H000000&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Yelp of
+Dialogue: 1,0:16:26.92,0:16:29.01,jp2,,0,0,0,,{\pos(1716,769.5)\fscx170\fscy170\frz359.952\fsp-1.5\c&H000000&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}a kicked dog
+Dialogue: 0,0:16:26.92,0:16:29.01,jp2,,0,0,0,,{\pos(1715.46,680.317)\fscx170\fscy170\frz359.952\fsp-1.5\bord1.5\shad2.25\c&HD7CFC5&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Yelp of
+Dialogue: 0,0:16:26.92,0:16:29.01,jp2,,0,0,0,,{\pos(1716,769.773)\fscx170\fscy170\frz359.952\fsp-1.5\bord1.5\shad2.25\c&HD7CFC5&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}a kicked dog
+Dialogue: 1,0:16:27.93,0:16:29.01,jp2,,0,0,0,,{\pos(1086,688.5)\fscx170\fscy170\frz359.952\fsp-1.5\c&H000000&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Die like a dog
+Dialogue: 0,0:16:27.93,0:16:29.01,jp2,,0,0,0,,{\pos(1086,688.5)\fscx170\fscy170\frz359.952\fsp-1.5\bord1.5\shad2.25\c&HD7CFC5&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Die like a dog
+Dialogue: 0,0:16:29.26,0:16:33.89,jp2,,0,0,0,,{\pos(250.287,133.373)\fscx155\fscy155\frz359.952\fs60\fsp-1.5\bord1.5\shad2.25\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Arched like a cat
+Dialogue: 0,0:16:29.26,0:16:33.89,jp2,,0,0,0,,{\pos(250.287,133.373)\fscx155\fscy155\frz359.952\fs60\fsp-1.5\shad2.25\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\bord}Arched like a cat
+Dialogue: 1,0:16:30.26,0:16:33.89,jp2,,0,0,0,,{\pos(546,160.071)\fscx115\fscy115\frz359.952\fsp-1.5\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Cat burglar
+Dialogue: 0,0:16:30.26,0:16:33.89,jp2,,0,0,0,,{\pos(546,160.071)\fscx115\fscy115\frz359.952\fsp-1.5\bord1.5\shad2.25\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Cat burglar
+Dialogue: 1,0:16:31.26,0:16:33.89,jp2,,0,0,0,,{\pos(149.5,736.5)\fscx155\fscy155\frz359.952\fs60\fsp-1.5\c&H172135&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Caterwaul
+Dialogue: 0,0:16:31.26,0:16:33.89,jp2,,0,0,0,,{\pos(149.5,736.5)\fscx155\fscy155\frz359.952\fs60\fsp-1.5\bord1.5\shad2.25\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Caterwaul
+Dialogue: 2,0:16:32.26,0:16:33.89,jp2,,0,0,0,,{\pos(938.143,92.571)\fscx155\fscy155\frz359.952\fs60\fsp-1.5\c&H101D2C&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Purr like a cat
+Dialogue: 0,0:16:32.26,0:16:33.89,jp2,,0,0,0,,{\pos(938.143,92.571)\fscx155\fscy155\frz359.952\fs60\fsp-1.5\bord1.5\shad2.25\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Purr like a cat
+Dialogue: 1,0:16:33.01,0:16:33.89,jp2,,0,0,0,,{\pos(694.5,549)\fscx125\fscy125\frz359.952\fsp-1.5\shad1.5\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5}Tomcat
+Dialogue: 0,0:16:33.01,0:16:33.89,jp2,,0,0,0,,{\pos(694.5,549)\fscx125\fscy125\frz359.952\fsp-1.5\bord1.5\shad1.5\c&H000000&\3c&HCED9EF&\4c&HCED9EF&\blur1.5\be2}Tomcat
