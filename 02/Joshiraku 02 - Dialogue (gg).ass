@@ -50,7 +50,7 @@ Dialogue: 10,0:02:10.32,0:02:11.02,Default,,0,0,0,,I'd sa—
 Dialogue: 10,0:02:11.02,0:02:14.82,Default,,0,0,0,,I'd hate to become someone who saves all their money.
 Dialogue: 10,0:02:15.61,0:02:18.57,Default,,0,0,0,,Yeah, that's so lame. Those people have no dreams.
 Dialogue: 10,0:02:18.57,0:02:21.32,Default,,0,0,0,,I'd hate to become someone like that.
-Dialogue: 10,0:02:21.32,0:02:25.79,Default,,0,0,0,,If you asked those people what kind of animal they'd like to be reincarnated as,
+Dialogue: 10,0:02:21.32,0:02:25.79,Default,,0,0,0,,{\q2}If you asked those people what kind of animal \Nthey'd like to be reincarnated as,
 Dialogue: 10,0:02:25.79,0:02:27.04,Alter,,0,0,0,,{overlap}Hum—
 Dialogue: 10,0:02:25.79,0:02:28.96,Default,,0,0,0,,they'd just mindlessly answer "human," wouldn't they?
 Dialogue: 10,0:02:28.96,0:02:30.34,Default,,0,0,0,,What's wrong, Marii?
@@ -59,7 +59,7 @@ Dialogue: 10,0:02:31.96,0:02:33.80,Default,,0,0,0,,So what would you do with it?
 Dialogue: 10,0:02:33.80,0:02:37.05,Default,,0,0,0,,Me? I'd...
 Dialogue: 10,0:02:37.05,0:02:38.30,Default,,0,0,0,,Pay back my debts.
 Dialogue: 10,0:02:38.30,0:02:40.93,Default,,0,0,0,,That's as unambitious as saving money!
-Dialogue: 10,0:02:40.93,0:02:43.14,Default,,0,0,0,,The difference is that in one situation you're saving, and in the other you're paying!
+Dialogue: 10,0:02:40.93,0:02:43.14,Default,,0,0,0,,{\q2}The difference is that in one situation you're saving, \Nand in the other you're paying!
 Dialogue: 10,0:02:43.14,0:02:45.73,Default,,0,0,0,,No, the difference is how serious the situations are.
 Dialogue: 10,0:02:45.73,0:02:48.23,Default,,0,0,0,,It's all about being stingy!
 Dialogue: 10,0:02:48.23,0:02:49.69,Default,,0,0,0,,Three hundred million.
@@ -75,7 +75,7 @@ Dialogue: 10,0:03:16.80,0:03:19.72,Default,,0,0,0,,Debts? Missing mother? Find t
 Dialogue: 10,0:03:19.72,0:03:21.93,Default,,0,0,0,,Do you girls really have no dreams?!
 Dialogue: 10,0:03:21.93,0:03:24.18,Default,,0,0,0,,When you buy a lottery ticket, you buy a dream!
 Dialogue: 10,0:03:24.18,0:03:27.27,Default,,0,0,0,,Three hundred yen per ticket is the price of the delusion!
-Dialogue: 10,0:03:27.27,0:03:31.32,Default,,0,0,0,,What's the point of paying for the delusion if you have no dreams?!
+Dialogue: 10,0:03:27.27,0:03:31.32,Default,,0,0,0,,{\q2}What's the point of paying for the delusion \Nif you have no dreams?!
 Dialogue: 10,0:03:32.48,0:03:35.73,Default,,0,0,0,,Kigu, what would you do with the money?
 Dialogue: 10,0:03:36.32,0:03:37.02,Default,,0,0,0,,I wanna know!
 Dialogue: 10,0:03:37.02,0:03:37.53,Default,,0,0,0,,What?
@@ -98,7 +98,7 @@ Dialogue: 10,0:04:19.94,0:04:21.66,Default,,0,0,0,,But which...
 Dialogue: 10,0:04:22.53,0:04:24.12,Default,,0,0,0,,one of us...
 Dialogue: 10,0:04:24.12,0:04:25.54,Default,,0,0,0,,could it be?
 Dialogue: 10,0:04:26.49,0:04:30.20,Default,,0,0,0,,Come to think of it, you got a brand new kimono recently!
-Dialogue: 10,0:04:30.20,0:04:33.25,Default,,0,0,0,,It would seem that someone has a few extra coins jingling around in her pocket.
+Dialogue: 10,0:04:30.20,0:04:33.25,Default,,0,0,0,,{\q2}It would seem that someone has \Na few extra coins jingling around in her pocket.
 Dialogue: 10,0:04:33.25,0:04:34.67,Default,,0,0,0,,W-What are you getting at?!
 Dialogue: 10,0:04:35.50,0:04:38.42,Default,,0,0,0,,Maybe you won the lottery?
 Dialogue: 10,0:04:38.42,0:04:41.38,Default,,0,0,0,,Look who's talking! You came here by taxi!
@@ -109,16 +109,16 @@ Dialogue: 10,0:04:44.51,0:04:47.02,Default,,0,0,0,,And I can point fingers too! 
 Dialogue: 10,0:04:47.02,0:04:50.22,Default,,0,0,0,,You were eating at McDonald's without any coupons!
 Dialogue: 10,0:04:50.22,0:04:51.31,Default,,0,0,0,,Not using coupons...
 Dialogue: 10,0:04:51.31,0:04:52.86,Default,,0,0,0,,At McDonald's...
-Dialogue: 10,0:04:54.10,0:04:57.56,Default,,0,0,0,,You wouldn't be able to afford such a luxury unless you won the lottery!
+Dialogue: 10,0:04:54.10,0:04:57.56,Default,,0,0,0,,{\q2}You wouldn't be able to afford \Nsuch a luxury unless you won the lottery!
 Dialogue: 10,0:04:57.56,0:05:02.40,Default,,0,0,0,,But... she has a foreign travel catalog in her bag!
 Dialogue: 10,0:05:02.40,0:05:04.37,Default,,0,0,0,,That's for my granny!
 Dialogue: 10,0:05:04.37,0:05:06.53,Default,,0,0,0,,And who gave you permission to look in my bag?!
 Dialogue: 10,0:05:06.53,0:05:10.24,Default,,0,0,0,,Obviously we should look inside {\i1}everyone's{\fscx140\i0} {\r}bags!
 Dialogue: 10,0:05:10.24,0:05:11.66,Default,,0,0,0,,W-What are you doing?!
 Dialogue: 10,0:05:11.66,0:05:12.41,Default,,0,0,0,,Look at this!
-Dialogue: 10,0:05:12.41,0:05:14.46,Default,,0,0,0,,She bought a movie ticket even though it's not ladies' discount day!
+Dialogue: 10,0:05:12.41,0:05:14.46,Default,,0,0,0,,{\q2}She bought a movie ticket \Neven though it's not ladies' discount day!
 Dialogue: 10,0:05:14.46,0:05:17.29,Default,,0,0,0,,And it's for this weird show called Br*ve H**rts Um**aru!
-Dialogue: 10,0:05:17.29,0:05:20.05,Default,,0,0,0,,You can't watch stuff like this unless you don't care about wasting money!
+Dialogue: 10,0:05:17.29,0:05:20.05,Default,,0,0,0,,{\q2}You can't watch stuff like this \Nunless you don't care about wasting money!
 Dialogue: 10,0:05:20.05,0:05:21.18,Default,,0,0,0,,Please, stop!
 Dialogue: 10,0:05:21.18,0:05:24.05,Default,,0,0,0,,Stop hurting each other!
 Dialogue: 10,0:05:24.05,0:05:26.26,Default,,0,0,0,,Rich people aren't supposed to fight!
@@ -137,14 +137,14 @@ Dialogue: 10,0:05:53.95,0:05:56.25,Default,,0,0,0,,"Oh" what?! Stop acting as if
 Dialogue: 10,0:05:56.25,0:05:58.54,Default,,0,0,0,,They say that the rich don't fight,
 Dialogue: 10,0:05:58.54,0:06:00.38,Default,,0,0,0,,but don't you wonder what it's like when they {\i1}do{\fscx140\i0} {\fscx100}fight?
 Dialogue: 10,0:06:00.38,0:06:03.84,Default,,0,0,0,,I assume they go all snobbish.
-Dialogue: 10,0:06:03.84,0:06:09.01,Default,,0,0,0,,Simpletons who are unable to support themselves on minimum wage lack the brainpower to comprehend this.
+Dialogue: 10,0:06:03.84,0:06:09.01,Default,,0,0,0,,{\q2}Simpletons who are unable to support themselves \Non minimum wage lack the brainpower to comprehend this.
 Dialogue: 10,0:06:10.47,0:06:11.80,Default,,0,0,0,,Extremely refined.
 Dialogue: 10,0:06:11.80,0:06:15.77,Default,,0,0,0,,You don't say? What might you be impa-pa-plying?{stutters}
 Dialogue: 10,0:06:15.77,0:06:18.90,Default,,0,0,0,,Deary me. You should regain your compo-po-posure.{stay calm. she stutters}
 Dialogue: 10,0:06:18.90,0:06:22.19,Default,,0,0,0,,Why not insert one's apex into one's own hindquarters?
 Dialogue: 10,0:06:23.40,0:06:25.90,Default,,0,0,0,,Is that supposed to mean...
 Dialogue: 10,0:06:25.90,0:06:27.53,Default,,0,0,0,,Stick your head up your ass?
-Dialogue: 10,0:06:28.99,0:06:33.49,Default,,0,0,0,,When you're wealthy, it shows in other ways that can't be measured with money.
+Dialogue: 10,0:06:28.99,0:06:33.49,Default,,0,0,0,,{\q2}When you're wealthy, it shows in other ways \Nthat can't be measured with money.
 Dialogue: 10,0:06:33.49,0:06:34.99,Default,,0,0,0,,What do you mean?
 Dialogue: 10,0:06:34.99,0:06:39.42,Default,,0,0,0,,You can tell someone won the lottery based on how they speak.
 Dialogue: 10,0:06:39.42,0:06:42.84,Default,,0,0,0,,Which reminds me, what was it that you said?
@@ -153,7 +153,7 @@ Dialogue: 10,0:06:43.88,0:06:47.18,Default,,0,0,0,,The people I respect the most
 Dialogue: 10,0:06:48.38,0:06:51.14,Default,,0,0,0,,No one can emotionally afford to stay stuff like that!
 Dialogue: 10,0:06:51.14,0:06:54.35,Default,,0,0,0,,Not without having a 300 million yen safety net!
 Dialogue: 10,0:06:54.35,0:06:56.47,Default,,0,0,0,,That was just...
-Dialogue: 10,0:06:56.47,0:07:00.27,Default,,0,0,0,,In the name of my woman back home, this mystery is like totally solved!
+Dialogue: 10,0:06:56.47,0:07:00.27,Default,,0,0,0,,{\q2}In the name of my woman back home, \Nthis mystery is like totally solved!
 Dialogue: 10,0:07:00.27,0:07:02.10,Default,,0,0,0,,It's elementary! You're the culprit!
 Dialogue: 10,0:07:02.10,0:07:02.86,Default,,0,0,0,,I'm not!
 Dialogue: 10,0:07:02.86,0:07:05.23,Default,,0,0,0,,She's not the culprit, just a winner.
@@ -204,12 +204,12 @@ Dialogue: 10,0:09:15.20,0:09:18.57,Default,,0,0,0,,In contrast, the Sky Tree is 
 Dialogue: 10,0:09:18.57,0:09:21.66,Default,,0,0,0,,Is that Musashi's number? Where's Kojirou then?
 Dialogue: 10,0:09:21.66,0:09:24.13,Default,,0,0,0,,At least make it 666.
 Dialogue: 10,0:09:24.13,0:09:25.96,Default,,0,0,0,,That's the number of the Beast!
-Dialogue: 10,0:09:25.96,0:09:30.84,Default,,0,0,0,,By the way, Toei and the Mother Farm are big shareholders of the Tokyo Tower.
+Dialogue: 10,0:09:25.96,0:09:30.84,Default,,0,0,0,,{\q2}By the way, Toei and the Mother Farm \Nare big shareholders of the Tokyo Tower.
 Dialogue: 10,0:09:30.84,0:09:34.01,Default,,0,0,0,,Well, Toei is at least connected to TV broadcasting...
 Dialogue: 10,0:09:34.01,0:09:37.93,Default,,0,0,0,,But the Mother Farm? Sheep can't climb the tower!
 Dialogue: 10,0:09:37.93,0:09:41.68,Default,,0,0,0,,I know! When they get lost on the farm, they use it for directions!
-Dialogue: 10,0:09:41.68,0:09:45.60,Default,,0,0,0,,But the Mother Farm is in Chiba. They can't even see it from there.
-Dialogue: 10,0:09:45.60,0:09:50.56,Default,,0,0,0,,The Tokyo Tower mascots, the red and blue Noppons, are brothers and not lovers.
+Dialogue: 10,0:09:41.68,0:09:45.60,Default,,0,0,0,,{\q2}But the Mother Farm is in Chiba. \NThey can't even see it from there.
+Dialogue: 10,0:09:45.60,0:09:50.56,Default,,0,0,0,,{\q2}The Tokyo Tower mascots, the red and blue Noppons, \Nare brothers and not lovers.
 Dialogue: 10,0:09:50.56,0:09:51.90,Default,,0,0,0,,Seriously?
 Dialogue: 10,0:09:51.90,0:09:55.28,Default,,0,0,0,,Anyway! Who cares about trees and towers?
 Dialogue: 10,0:09:55.28,0:09:58.29,Default,,0,0,0,,Remember how people think of the Tanashi Tower!
@@ -217,7 +217,7 @@ Dialogue: 10,0:10:01.24,0:10:04.87,Default,,0,0,0,,By the way, it's official nam
 Dialogue: 10,0:10:04.87,0:10:07.84,Default,,0,0,0,,This is its mascot, Sorapon.
 Dialogue: 10,0:10:07.84,0:10:12.17,Default,,0,0,0,,"Western Tokyo" is already a big stretch, but "Sky Tower"?
 Dialogue: 10,0:10:12.17,0:10:14.63,Default,,0,0,0,,It's like they just mixed words.
-Dialogue: 10,0:10:14.63,0:10:17.68,Default,,0,0,0,,But you don't have to go all the way to the Sky Tree or the Tanashi Tower.
+Dialogue: 10,0:10:14.63,0:10:17.68,Default,,0,0,0,,{\q2}But you don't have to go all the way \Nto the Sky Tree or the Tanashi Tower.
 Dialogue: 10,0:10:17.68,0:10:19.64,Default,,0,0,0,,Just look at the scenery from here...
 Dialogue: 10,0:10:19.64,0:10:21.93,Default,,0,0,0,,Doesn't this give you a sense of serenity?
 Dialogue: 10,0:10:21.93,0:10:24.56,Default,,0,0,0,,I really like the sight to the north.
@@ -261,7 +261,7 @@ Dialogue: 10,0:11:54.44,0:11:56.65,Default,,0,0,0,,There are many embassies arou
 Dialogue: 10,0:11:56.65,0:12:00.03,Default,,0,0,0,,How do foreigners remember left and right?
 Dialogue: 10,0:12:00.95,0:12:04.95,Default,,0,0,0,,Fork side and knife side?
 Dialogue: 10,0:12:04.95,0:12:07.67,Default,,0,0,0,,But sometimes you take the fork in the other hand.
-Dialogue: 10,0:12:08.79,0:12:13.67,Default,,0,0,0,,For example, if you already cut up a steak beforehand, you just eat with the fork in your right hand.
+Dialogue: 10,0:12:08.79,0:12:13.67,Default,,0,0,0,,{\q2}For example, if you already cut up a steak beforehand, \Nyou just eat with the fork in your right hand.
 Dialogue: 10,0:12:13.67,0:12:15.00,Default,,0,0,0,,Or when you eat rice.
 Dialogue: 10,0:12:15.00,0:12:18.59,Default,,0,0,0,,Why would someone put rice on a fork?
 Dialogue: 10,0:12:18.59,0:12:20.92,Default,,0,0,0,,Do they put it into the curve or on the back?
@@ -302,10 +302,10 @@ Dialogue: 10,0:14:04.36,0:14:07.61,Default,,0,0,0,,This new strain of influenza 
 Dialogue: 10,0:14:07.61,0:14:11.75,Default,,0,0,0,,Yeah, about that. How long are you gonna call it "new"?
 Dialogue: 10,0:14:13.21,0:14:15.45,Default,,0,0,0,,It showed up last winter, but it's already summer!
 Dialogue: 10,0:14:15.45,0:14:17.33,Default,,0,0,0,,How long are you gonna act as if it's new?
-Dialogue: 10,0:14:17.33,0:14:21.34,Default,,0,0,0,,If you called a manga that had been running for half a year a "new serial," you'd make a fool of yourself!
+Dialogue: 10,0:14:17.33,0:14:21.34,Default,,0,0,0,,{\q2}If you called a manga that had been running \Nfor half a year a "new serial," you'd make a fool of yourself!
 Dialogue: 10,0:14:21.34,0:14:22.96,Default,,0,0,0,,In Jump it'd be over already!
 Dialogue: 10,0:14:22.96,0:14:25.59,Default,,0,0,0,,Even one-cour anime would be over,{is the plural of anime 'anime'?}
-Dialogue: 10,0:14:25.59,0:14:29.60,Default,,0,0,0,,doomed to slowly sink into the swamp of obscurity after the DVDs were released!
+Dialogue: 10,0:14:25.59,0:14:29.60,Default,,0,0,0,,{\q2}doomed to slowly sink into the swamp \Nof obscurity after the DVDs were released!
 Dialogue: 10,0:14:29.60,0:14:33.35,Default,,0,0,0,,Do you seriously think it'd sell? Speed is essential!
 Dialogue: 10,0:14:33.35,0:14:34.85,Default,,0,0,0,,The numbers won't grow any higher!
 Dialogue: 10,0:14:37.36,0:14:41.78,Default,,0,0,0,,Then should I claim the title of "new"?
@@ -323,10 +323,10 @@ Dialogue: 10,0:15:14.77,0:15:18.68,Default,,0,0,0,,That's more like John Waters'
 Dialogue: 10,0:15:18.68,0:15:21.48,Default,,0,0,0,,But it looks like someone rubbed it!
 Dialogue: 10,0:15:21.48,0:15:23.40,Default,,0,0,0,,Who could have done that?
 Dialogue: 10,0:15:23.40,0:15:24.31,Default,,0,0,0,,Who's the culprit?
-Dialogue: 10,0:15:24.31,0:15:27.53,Default,,0,0,0,,But before that, what's the difference between "new" and "old"?
-Dialogue: 10,0:15:27.53,0:15:33.16,Default,,0,0,0,,Well, sometimes they call the same product "new" when all they did was change the packaging.
+Dialogue: 10,0:15:24.31,0:15:27.53,Default,,0,0,0,,{\q2}But before that, what's the difference \Nbetween "new" and "old"?
+Dialogue: 10,0:15:27.53,0:15:33.16,Default,,0,0,0,,{\q2}Well, sometimes they call the same product "new" \Nwhen all they did was change the packaging.
 Dialogue: 10,0:15:33.16,0:15:34.00,Default,,0,0,0,,Really?
-Dialogue: 10,0:15:34.00,0:15:40.08,Default,,0,0,0,,Or they just switch up the roles{in a tv series?} and then market it as if it were a whole new cast.
+Dialogue: 10,0:15:34.00,0:15:40.08,Default,,0,0,0,,{\q2}Or they just switch up the roles{in a tv series?} and \Nthen market it as if it were a whole new cast.
 Dialogue: 10,0:15:40.08,0:15:40.87,Default,,0,0,0,,Really!
 Dialogue: 10,0:15:40.87,0:15:43.83,Default,,0,0,0,,Old stuff tends to be heavy.
 Dialogue: 10,0:15:43.83,0:15:46.30,Default,,0,0,0,,Not to mention lacking in cameras!
@@ -340,7 +340,7 @@ Dialogue: 10,0:16:07.65,0:16:09.44,Default,,0,0,0,,Not at all!
 Dialogue: 10,0:16:11.07,0:16:12.57,Default,,0,0,0,,What were we talking about again?
 Dialogue: 10,0:16:12.57,0:16:15.32,Default,,0,0,0,,In the end it doesn't matter if it's old or new.
 Dialogue: 10,0:16:15.32,0:16:18.70,Default,,0,0,0,,That's right. But we shouldn't treat the subject so flippantly.
-Dialogue: 10,0:16:18.70,0:16:22.59,Default,,0,0,0,,Even as we speak there are people who've come down with the flu.
+Dialogue: 10,0:16:18.70,0:16:22.59,Default,,0,0,0,,{\q2}Even as we speak there are people \Nwho've come down with the flu.
 Dialogue: 10,0:16:23.00,0:16:25.30,Default,,0,0,0,,That's right. Everyone should just get the vaccine!
 Dialogue: 10,0:16:25.30,0:16:27.54,Default,,0,0,0,,Have you all got it?
 Dialogue: 10,0:16:27.54,0:16:28.50,Default,,0,0,0,,Not yet.
@@ -348,24 +348,24 @@ Dialogue: 10,0:16:28.50,0:16:30.88,Default,,0,0,0,,We're low on the priority lis
 Dialogue: 10,0:16:30.88,0:16:33.13,Default,,0,0,0,,Who's on the priority list?{What's a priority list?}{changed subject so it makes sense with the following dialogue}
 Dialogue: 10,0:16:33.13,0:16:34.22,Default,,0,0,0,,I think...
 Dialogue: 10,0:16:34.22,0:16:36.56,Default,,0,0,0,,Doctors are the first in line.
-Dialogue: 10,0:16:36.56,0:16:40.52,Default,,0,0,0,,That makes sense. They stand on the front lines to fight epidemics, after all.
+Dialogue: 10,0:16:36.56,0:16:40.52,Default,,0,0,0,,{\q2}That makes sense. They stand on \Nthe front lines to fight epidemics, after all.
 Dialogue: 10,0:16:40.52,0:16:43.19,Default,,0,0,0,,Wait, does that include Dr Naka**tsu?
 Dialogue: 10,0:16:43.19,0:16:45.77,Default,,0,0,0,,And is that plastic surgeon Ta**su at the front of the line too,
 Dialogue: 10,0:16:45.77,0:16:47.56,Default,,0,0,0,,along with Ka**ma R**a?
-Dialogue: 10,0:16:48.52,0:16:52.95,Default,,0,0,0,,Then even Dr Zhivago and Dr No and Dr Moreau must be ahead of us...
-Dialogue: 10,0:16:52.95,0:16:58.03,Default,,0,0,0,,No, it only applies to licensed doctors who engage directly in flu treatment.
+Dialogue: 10,0:16:48.52,0:16:52.95,Default,,0,0,0,,{\q2}Then even Dr Zhivago and Dr No \Nand Dr Moreau must be ahead of us...
+Dialogue: 10,0:16:52.95,0:16:58.03,Default,,0,0,0,,{\q2}No, it only applies to licensed doctors \Nwho engage directly in flu treatment.
 Dialogue: 10,0:16:58.03,0:16:58.91,Default,,0,0,0,,But then...
-Dialogue: 10,0:16:58.91,0:17:02.12,Default,,0,0,0,,Does that mean Dr B**ck J*ck can't get vaccinated because he's got no license?
+Dialogue: 10,0:16:58.91,0:17:02.12,Default,,0,0,0,,{\q2}Does that mean Dr B**ck J*ck can't \Nget vaccinated because he's got no license?
 Dialogue: 10,0:17:02.12,0:17:04.29,Default,,0,0,0,,He'd save the most patients!
 Dialogue: 10,0:17:04.29,0:17:07.67,Default,,0,0,0,,But he'd charge a hefty fee. Plus, he doesn't exist.{i remember the thing about black jack being that he charges a lot, right? 'good' implies more that it's reasonable/low}
 Dialogue: 10,0:17:07.67,0:17:10.00,Default,,0,0,0,,But I'm sure it's not just the doctors.
-Dialogue: 10,0:17:10.00,0:17:13.55,Default,,0,0,0,,I'm sure there are people who get vaccinated quickly even though they're not on the list.
+Dialogue: 10,0:17:10.00,0:17:13.55,Default,,0,0,0,,{\q2}I'm sure there are people who get vaccinated quickly \Neven though they're not on the list.
 Dialogue: 10,0:17:13.55,0:17:14.76,Default,,0,0,0,,Right?
 Dialogue: 10,0:17:14.76,0:17:17.09,Default,,0,0,0,,No**pi would've gotten vaccinated already for sure!
 Dialogue: 10,0:17:17.09,0:17:19.85,Default,,0,0,0,,Not to mention Mistress E**ka!
 Dialogue: 10,0:17:19.85,0:17:22.72,Default,,0,0,0,,And I'm certain O***o Ma**bu has had his shots!
 Dialogue: 10,0:17:22.72,0:17:24.14,Default,,0,0,0,,He must've been {\i1}ecstatic{\i0}.{oshio manabu was convicted for leaving a whore to die after taking ecstasy together}
-Dialogue: 10,0:17:24.14,0:17:27.69,Default,,0,0,0,,I guess celebrities would pull all the strings they could for faster access.
+Dialogue: 10,0:17:24.14,0:17:27.69,Default,,0,0,0,,{\q2}I guess celebrities would pull all the strings \Nthey could for faster access.
 Dialogue: 10,0:17:27.69,0:17:29.15,Default,,0,0,0,,But we've got no chance.
 Dialogue: 10,0:17:29.15,0:17:32.07,Default,,0,0,0,,We're neither famous nor rich.
 Dialogue: 10,0:17:32.07,0:17:34.37,Default,,0,0,0,,There's still a way.
@@ -584,141 +584,141 @@ Dialogue: 1,0:01:12.59,0:01:15.30,OPup,,0,0,0,,{\fsp-1.5}osaki mo shiroki gokura
 Dialogue: 1,0:01:15.30,0:01:17.64,OPup,,0,0,0,,{\fsp-1.5}gokuraku da gokuraku da
 Dialogue: 1,0:01:17.64,0:01:20.76,OPup,,0,0,0,,{\fsp-1.5}arayotto gokuraku joudo ringu
 Dialogue: 1,0:01:20.76,0:01:23.10,OPup,,0,0,0,,{\fsp-1.5}chin-ton chin-ton-shan
-Dialogue: 0,0:08:12.34,0:08:12.38,Default,,0,0,0,,{\pos(1451.7,252.795)\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.38,0:08:12.43,Default,,0,0,0,,{\pos(1445.82,251.49)\fscx99.53\fscy99.53\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.43,0:08:12.47,Default,,0,0,0,,{\pos(1439.925,250.185)\fscx99.05\fscy99.05\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.47,0:08:12.51,Default,,0,0,0,,{\pos(1434.15,248.88)\fscx98.59\fscy98.59\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.51,0:08:12.55,Default,,0,0,0,,{\pos(1428.435,247.605)\fscx98.13\fscy98.13\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.55,0:08:12.59,Default,,0,0,0,,{\pos(1422.72,246.33)\fscx97.67\fscy97.67\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.59,0:08:12.63,Default,,0,0,0,,{\pos(1417.035,245.07)\fscx97.21\fscy97.21\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.63,0:08:12.68,Default,,0,0,0,,{\pos(1411.425,243.825)\fscx96.76\fscy96.76\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.68,0:08:12.72,Default,,0,0,0,,{\pos(1405.98,242.565)\fscx96.33\fscy96.33\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.72,0:08:12.76,Default,,0,0,0,,{\pos(1400.46,241.365)\fscx95.89\fscy95.89\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.76,0:08:12.80,Default,,0,0,0,,{\pos(1394.985,240.135)\fscx95.44\fscy95.44\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.80,0:08:12.84,Default,,0,0,0,,{\pos(1389.63,238.935)\fscx95.01\fscy95.01\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.84,0:08:12.88,Default,,0,0,0,,{\pos(1384.26,237.735)\fscx94.58\fscy94.58\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.88,0:08:12.93,Default,,0,0,0,,{\pos(1378.95,236.565)\fscx94.15\fscy94.15\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.93,0:08:12.97,Default,,0,0,0,,{\pos(1373.76,235.38)\fscx93.74\fscy93.74\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:12.97,0:08:13.01,Default,,0,0,0,,{\pos(1368.525,234.225)\fscx93.32\fscy93.32\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.01,0:08:13.05,Default,,0,0,0,,{\pos(1363.44,233.085)\fscx92.91\fscy92.91\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.05,0:08:13.09,Default,,0,0,0,,{\pos(1358.325,231.93)\fscx92.5\fscy92.5\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.09,0:08:13.13,Default,,0,0,0,,{\pos(1353.225,230.79)\fscx92.09\fscy92.09\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.13,0:08:13.18,Default,,0,0,0,,{\pos(1348.23,229.695)\fscx91.69\fscy91.69\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.18,0:08:13.22,Default,,0,0,0,,{\pos(1343.25,228.585)\fscx91.29\fscy91.29\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.22,0:08:13.26,Default,,0,0,0,,{\pos(1338.27,227.475)\fscx90.89\fscy90.89\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.26,0:08:13.30,Default,,0,0,0,,{\pos(1333.38,226.38)\fscx90.5\fscy90.5\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.30,0:08:13.34,Default,,0,0,0,,{\pos(1328.595,225.3)\fscx90.12\fscy90.12\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.34,0:08:13.38,Default,,0,0,0,,{\pos(1323.87,224.205)\fscx89.74\fscy89.74\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.38,0:08:13.43,Default,,0,0,0,,{\pos(1319.055,223.155)\fscx89.35\fscy89.35\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.43,0:08:13.47,Default,,0,0,0,,{\pos(1314.27,222.09)\fscx88.96\fscy88.96\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.47,0:08:13.51,Default,,0,0,0,,{\pos(1309.605,221.055)\fscx88.59\fscy88.59\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.51,0:08:13.55,Default,,0,0,0,,{\pos(1305.015,220.005)\fscx88.23\fscy88.23\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.55,0:08:13.59,Default,,0,0,0,,{\pos(1300.395,218.985)\fscx87.86\fscy87.86\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.59,0:08:13.63,Default,,0,0,0,,{\pos(1295.805,217.965)\fscx87.49\fscy87.49\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.63,0:08:13.68,Default,,0,0,0,,{\pos(1291.305,216.93)\fscx87.12\fscy87.12\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.68,0:08:13.72,Default,,0,0,0,,{\pos(1286.775,215.94)\fscx86.76\fscy86.76\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.72,0:08:13.76,Default,,0,0,0,,{\pos(1282.365,214.95)\fscx86.41\fscy86.41\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.76,0:08:13.80,Default,,0,0,0,,{\pos(1277.925,213.96)\fscx86.05\fscy86.05\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.80,0:08:13.84,Default,,0,0,0,,{\pos(1273.56,212.985)\fscx85.7\fscy85.7\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.84,0:08:13.88,Default,,0,0,0,,{\pos(1269.225,212.025)\fscx85.36\fscy85.36\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.88,0:08:13.93,Default,,0,0,0,,{\pos(1264.95,211.05)\fscx85.01\fscy85.01\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.93,0:08:13.97,Default,,0,0,0,,{\pos(1260.63,210.09)\fscx84.67\fscy84.67\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:13.97,0:08:14.01,Default,,0,0,0,,{\pos(1256.43,209.145)\fscx84.33\fscy84.33\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.01,0:08:14.05,Default,,0,0,0,,{\pos(1252.2,208.215)\fscx83.99\fscy83.99\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.05,0:08:14.09,Default,,0,0,0,,{\pos(1248.045,207.27)\fscx83.66\fscy83.66\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.09,0:08:14.14,Default,,0,0,0,,{\pos(1243.875,206.355)\fscx83.32\fscy83.32\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.14,0:08:14.18,Default,,0,0,0,,{\pos(1239.765,205.44)\fscx82.99\fscy82.99\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.18,0:08:14.22,Default,,0,0,0,,{\pos(1235.76,204.51)\fscx82.68\fscy82.68\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.22,0:08:14.26,Default,,0,0,0,,{\pos(1231.65,203.61)\fscx82.34\fscy82.34\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.26,0:08:14.30,Default,,0,0,0,,{\pos(1227.615,202.71)\fscx82.02\fscy82.02\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.30,0:08:14.34,Default,,0,0,0,,{\pos(1223.685,201.825)\fscx81.71\fscy81.71\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.34,0:08:14.39,Default,,0,0,0,,{\pos(1219.755,200.955)\fscx81.39\fscy81.39\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.39,0:08:14.43,Default,,0,0,0,,{\pos(1215.915,200.055)\fscx81.09\fscy81.09\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.43,0:08:14.47,Default,,0,0,0,,{\pos(1211.88,199.2)\fscx80.75\fscy80.75\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.47,0:08:14.51,Default,,0,0,0,,{\pos(1208.085,198.33)\fscx80.45\fscy80.45\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.51,0:08:14.55,Default,,0,0,0,,{\pos(1204.26,197.49)\fscx80.15\fscy80.15\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.55,0:08:14.59,Default,,0,0,0,,{\pos(1200.45,196.62)\fscx79.84\fscy79.84\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.59,0:08:14.64,Default,,0,0,0,,{\pos(1196.67,195.795)\fscx79.54\fscy79.54\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.64,0:08:14.68,Default,,0,0,0,,{\pos(1192.95,194.94)\fscx79.24\fscy79.24\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.68,0:08:14.72,Default,,0,0,0,,{\pos(1189.245,194.13)\fscx78.95\fscy78.95\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.72,0:08:14.76,Default,,0,0,0,,{\pos(1185.525,193.305)\fscx78.65\fscy78.65\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:08:14.76,0:08:14.80,Default,,0,0,0,,{\pos(1181.85,192.495)\fscx78.35\fscy78.35\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&}You're going\N\Nto Hell!
-Dialogue: 0,0:01:44.91,0:01:46.91,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
-Dialogue: 0,0:02:05.48,0:02:07.89,block,,0,0,0,,{\pos(979.5,1039.5)\fscx4080\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
-Dialogue: 0,0:08:53.63,0:08:55.63,block,,0,0,0,,{\pos(979.5,1039.5)\fscx4080\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
-Dialogue: 0,0:13:42.92,0:13:44.92,block,,0,0,0,,{\pos(979.5,1039.5)\fscx4080\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
-Dialogue: 0,0:14:01.52,0:14:04.36,block,,0,0,0,,{\pos(979.5,1039.5)\fscx4080\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
+Dialogue: 0,0:08:12.34,0:08:12.38,Default,,0,0,0,,{\pos(1451.7,252.795)\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.38,0:08:12.43,Default,,0,0,0,,{\pos(1445.82,251.49)\fscx99.53\fscy99.53\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.43,0:08:12.47,Default,,0,0,0,,{\pos(1439.925,250.185)\fscx99.05\fscy99.05\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.47,0:08:12.51,Default,,0,0,0,,{\pos(1434.15,248.88)\fscx98.59\fscy98.59\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.51,0:08:12.55,Default,,0,0,0,,{\pos(1428.435,247.605)\fscx98.13\fscy98.13\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.55,0:08:12.59,Default,,0,0,0,,{\pos(1422.72,246.33)\fscx97.67\fscy97.67\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.59,0:08:12.63,Default,,0,0,0,,{\pos(1417.035,245.07)\fscx97.21\fscy97.21\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.63,0:08:12.68,Default,,0,0,0,,{\pos(1411.425,243.825)\fscx96.76\fscy96.76\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.68,0:08:12.72,Default,,0,0,0,,{\pos(1405.98,242.565)\fscx96.33\fscy96.33\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.72,0:08:12.76,Default,,0,0,0,,{\pos(1400.46,241.365)\fscx95.89\fscy95.89\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.76,0:08:12.80,Default,,0,0,0,,{\pos(1394.985,240.135)\fscx95.44\fscy95.44\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.80,0:08:12.84,Default,,0,0,0,,{\pos(1389.63,238.935)\fscx95.01\fscy95.01\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.84,0:08:12.88,Default,,0,0,0,,{\pos(1384.26,237.735)\fscx94.58\fscy94.58\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.88,0:08:12.93,Default,,0,0,0,,{\pos(1378.95,236.565)\fscx94.15\fscy94.15\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.93,0:08:12.97,Default,,0,0,0,,{\pos(1373.76,235.38)\fscx93.74\fscy93.74\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:12.97,0:08:13.01,Default,,0,0,0,,{\pos(1368.525,234.225)\fscx93.32\fscy93.32\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.01,0:08:13.05,Default,,0,0,0,,{\pos(1363.44,233.085)\fscx92.91\fscy92.91\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.05,0:08:13.09,Default,,0,0,0,,{\pos(1358.325,231.93)\fscx92.5\fscy92.5\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.09,0:08:13.13,Default,,0,0,0,,{\pos(1353.225,230.79)\fscx92.09\fscy92.09\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.13,0:08:13.18,Default,,0,0,0,,{\pos(1348.23,229.695)\fscx91.69\fscy91.69\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.18,0:08:13.22,Default,,0,0,0,,{\pos(1343.25,228.585)\fscx91.29\fscy91.29\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.22,0:08:13.26,Default,,0,0,0,,{\pos(1338.27,227.475)\fscx90.89\fscy90.89\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.26,0:08:13.30,Default,,0,0,0,,{\pos(1333.38,226.38)\fscx90.5\fscy90.5\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.30,0:08:13.34,Default,,0,0,0,,{\pos(1328.595,225.3)\fscx90.12\fscy90.12\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.34,0:08:13.38,Default,,0,0,0,,{\pos(1323.87,224.205)\fscx89.74\fscy89.74\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.38,0:08:13.43,Default,,0,0,0,,{\pos(1319.055,223.155)\fscx89.35\fscy89.35\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.43,0:08:13.47,Default,,0,0,0,,{\pos(1314.27,222.09)\fscx88.96\fscy88.96\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.47,0:08:13.51,Default,,0,0,0,,{\pos(1309.605,221.055)\fscx88.59\fscy88.59\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.51,0:08:13.55,Default,,0,0,0,,{\pos(1305.015,220.005)\fscx88.23\fscy88.23\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.55,0:08:13.59,Default,,0,0,0,,{\pos(1300.395,218.985)\fscx87.86\fscy87.86\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.59,0:08:13.63,Default,,0,0,0,,{\pos(1295.805,217.965)\fscx87.49\fscy87.49\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.63,0:08:13.68,Default,,0,0,0,,{\pos(1291.305,216.93)\fscx87.12\fscy87.12\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.68,0:08:13.72,Default,,0,0,0,,{\pos(1286.775,215.94)\fscx86.76\fscy86.76\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.72,0:08:13.76,Default,,0,0,0,,{\pos(1282.365,214.95)\fscx86.41\fscy86.41\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.76,0:08:13.80,Default,,0,0,0,,{\pos(1277.925,213.96)\fscx86.05\fscy86.05\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.80,0:08:13.84,Default,,0,0,0,,{\pos(1273.56,212.985)\fscx85.7\fscy85.7\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.84,0:08:13.88,Default,,0,0,0,,{\pos(1269.225,212.025)\fscx85.36\fscy85.36\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.88,0:08:13.93,Default,,0,0,0,,{\pos(1264.95,211.05)\fscx85.01\fscy85.01\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.93,0:08:13.97,Default,,0,0,0,,{\pos(1260.63,210.09)\fscx84.67\fscy84.67\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:13.97,0:08:14.01,Default,,0,0,0,,{\pos(1256.43,209.145)\fscx84.33\fscy84.33\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.01,0:08:14.05,Default,,0,0,0,,{\pos(1252.2,208.215)\fscx83.99\fscy83.99\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.05,0:08:14.09,Default,,0,0,0,,{\pos(1248.045,207.27)\fscx83.66\fscy83.66\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.09,0:08:14.14,Default,,0,0,0,,{\pos(1243.875,206.355)\fscx83.32\fscy83.32\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.14,0:08:14.18,Default,,0,0,0,,{\pos(1239.765,205.44)\fscx82.99\fscy82.99\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.18,0:08:14.22,Default,,0,0,0,,{\pos(1235.76,204.51)\fscx82.68\fscy82.68\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.22,0:08:14.26,Default,,0,0,0,,{\pos(1231.65,203.61)\fscx82.34\fscy82.34\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.26,0:08:14.30,Default,,0,0,0,,{\pos(1227.615,202.71)\fscx82.02\fscy82.02\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.30,0:08:14.34,Default,,0,0,0,,{\pos(1223.685,201.825)\fscx81.71\fscy81.71\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.34,0:08:14.39,Default,,0,0,0,,{\pos(1219.755,200.955)\fscx81.39\fscy81.39\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.39,0:08:14.43,Default,,0,0,0,,{\pos(1215.915,200.055)\fscx81.09\fscy81.09\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.43,0:08:14.47,Default,,0,0,0,,{\pos(1211.88,199.2)\fscx80.75\fscy80.75\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.47,0:08:14.51,Default,,0,0,0,,{\pos(1208.085,198.33)\fscx80.45\fscy80.45\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.51,0:08:14.55,Default,,0,0,0,,{\pos(1204.26,197.49)\fscx80.15\fscy80.15\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.55,0:08:14.59,Default,,0,0,0,,{\pos(1200.45,196.62)\fscx79.84\fscy79.84\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.59,0:08:14.64,Default,,0,0,0,,{\pos(1196.67,195.795)\fscx79.54\fscy79.54\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.64,0:08:14.68,Default,,0,0,0,,{\pos(1192.95,194.94)\fscx79.24\fscy79.24\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.68,0:08:14.72,Default,,0,0,0,,{\pos(1189.245,194.13)\fscx78.95\fscy78.95\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.72,0:08:14.76,Default,,0,0,0,,{\pos(1185.525,193.305)\fscx78.65\fscy78.65\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:08:14.76,0:08:14.80,Default,,0,0,0,,{\pos(1181.85,192.495)\fscx78.35\fscy78.35\frz22\fry18\frx330\fnBloody\fs70.5\bord0\shad0\c&H191D9D&\q2}You're going\N\Nto Hell!
+Dialogue: 0,0:01:44.91,0:01:46.91,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2\q2}A\NA\NA\NA
+Dialogue: 0,0:02:05.48,0:02:07.89,block,,0,0,0,,{\pos(979.5,1039.5)\fscx4080\fscy380\bord3\c&H030303&\3c&H030303&\be2\q2}A\NA\NA\NA
+Dialogue: 0,0:08:53.63,0:08:55.63,block,,0,0,0,,{\pos(979.5,1039.5)\fscx4080\fscy380\bord3\c&H030303&\3c&H030303&\be2\q2}A\NA\NA\NA
+Dialogue: 0,0:13:42.92,0:13:44.92,block,,0,0,0,,{\pos(979.5,1039.5)\fscx4080\fscy380\bord3\c&H030303&\3c&H030303&\be2\q2}A\NA\NA\NA
+Dialogue: 0,0:14:01.52,0:14:04.36,block,,0,0,0,,{\pos(979.5,1039.5)\fscx4080\fscy380\bord3\c&H030303&\3c&H030303&\be2\q2}A\NA\NA\NA
 Dialogue: 4,0:20:40.92,0:20:42.72,block,,0,0,0,,{\pos(622.5,982.5)\fscx509\fscy1487\frz6.299\bord9\c&HDCDEEA&\3c&H505050&\be3\fad(300,0)}A
-Dialogue: 0,0:20:42.72,0:20:42.76,block,,0,0,0,,{\pos(786,519)\fscx1425\fscy463\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:42.76,0:20:42.80,block,,0,0,0,,{\pos(789.465,522.93)\fscx1407.12\fscy457.19\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:42.80,0:20:42.84,block,,0,0,0,,{\pos(793.14,527.085)\fscx1388.23\fscy451.05\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:42.84,0:20:42.88,block,,0,0,0,,{\pos(796.89,531.345)\fscx1368.9\fscy444.77\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:42.88,0:20:42.92,block,,0,0,0,,{\pos(800.67,535.635)\fscx1349.47\fscy438.46\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:42.92,0:20:42.97,block,,0,0,0,,{\pos(804.45,539.895)\fscx1330.07\fscy432.15\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:42.97,0:20:43.01,block,,0,0,0,,{\pos(808.14,544.11)\fscx1310.98\fscy425.95\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.01,0:20:43.05,block,,0,0,0,,{\pos(811.815,548.25)\fscx1292.13\fscy419.83\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.05,0:20:43.09,block,,0,0,0,,{\pos(815.385,552.315)\fscx1273.69\fscy413.84\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.09,0:20:43.13,block,,0,0,0,,{\pos(818.91,556.29)\fscx1255.59\fscy407.96\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.13,0:20:43.18,block,,0,0,0,,{\pos(822.33,560.175)\fscx1237.97\fscy402.23\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.18,0:20:43.22,block,,0,0,0,,{\pos(825.675,563.955)\fscx1220.78\fscy396.65\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.22,0:20:43.26,block,,0,0,0,,{\pos(828.915,567.63)\fscx1204.06\fscy391.21\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.26,0:20:43.30,block,,0,0,0,,{\pos(832.095,571.215)\fscx1187.75\fscy385.92\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.30,0:20:43.34,block,,0,0,0,,{\pos(835.14,574.68)\fscx1172.01\fscy380.8\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.34,0:20:43.38,block,,0,0,0,,{\pos(838.14,578.055)\fscx1156.62\fscy375.8\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.38,0:20:43.43,block,,0,0,0,,{\pos(841.02,581.34)\fscx1141.79\fscy370.98\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.43,0:20:43.47,block,,0,0,0,,{\pos(843.84,584.52)\fscx1127.27\fscy366.27\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.47,0:20:43.51,block,,0,0,0,,{\pos(846.555,587.595)\fscx1113.32\fscy361.73\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.51,0:20:43.55,block,,0,0,0,,{\pos(849.195,590.595)\fscx1099.71\fscy357.31\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.55,0:20:43.59,block,,0,0,0,,{\pos(851.745,593.49)\fscx1086.57\fscy353.04\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.59,0:20:43.63,block,,0,0,0,,{\pos(854.235,596.31)\fscx1073.75\fscy348.88\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.63,0:20:43.68,block,,0,0,0,,{\pos(856.62,599.025)\fscx1061.44\fscy344.87\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.68,0:20:43.72,block,,0,0,0,,{\pos(858.96,601.665)\fscx1049.41\fscy340.97\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.72,0:20:43.76,block,,0,0,0,,{\pos(861.21,604.215)\fscx1037.86\fscy337.21\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.76,0:20:43.80,block,,0,0,0,,{\pos(863.4,606.69)\fscx1026.55\fscy333.54\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.80,0:20:43.84,block,,0,0,0,,{\pos(865.5,609.06)\fscx1015.72\fscy330.02\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.84,0:20:43.88,block,,0,0,0,,{\pos(867.555,611.4)\fscx1005.16\fscy326.59\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.88,0:20:43.93,block,,0,0,0,,{\pos(869.52,613.62)\fscx995.02\fscy323.3\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.93,0:20:43.97,block,,0,0,0,,{\pos(871.44,615.81)\fscx985.12\fscy320.08\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:43.97,0:20:44.01,block,,0,0,0,,{\pos(873.27,617.88)\fscx975.67\fscy317.01\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.01,0:20:44.05,block,,0,0,0,,{\pos(875.07,619.92)\fscx966.44\fscy314.01\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.05,0:20:44.09,block,,0,0,0,,{\pos(876.795,621.87)\fscx957.59\fscy311.13\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.09,0:20:44.13,block,,0,0,0,,{\pos(878.445,623.76)\fscx949.01\fscy308.35\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.13,0:20:44.18,block,,0,0,0,,{\pos(880.05,625.575)\fscx940.74\fscy305.66\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.18,0:20:44.22,block,,0,0,0,,{\pos(881.61,627.33)\fscx932.74\fscy303.06\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.22,0:20:44.26,block,,0,0,0,,{\pos(883.095,629.025)\fscx925.07\fscy300.57\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.26,0:20:44.30,block,,0,0,0,,{\pos(884.55,630.66)\fscx917.58\fscy298.13\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.30,0:20:44.34,block,,0,0,0,,{\pos(885.915,632.22)\fscx910.52\fscy295.84\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.34,0:20:44.38,block,,0,0,0,,{\pos(887.235,633.72)\fscx903.7\fscy293.62\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.38,0:20:44.43,block,,0,0,0,,{\pos(888.525,635.19)\fscx897.2\fscy291.51\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.43,0:20:44.47,block,,0,0,0,,{\pos(889.755,636.585)\fscx890.88\fscy289.46\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.47,0:20:44.51,block,,0,0,0,,{\pos(890.91,637.89)\fscx884.91\fscy287.52\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.51,0:20:44.55,block,,0,0,0,,{\pos(892.035,639.165)\fscx879.16\fscy285.65\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.55,0:20:44.59,block,,0,0,0,,{\pos(893.07,640.35)\fscx873.75\fscy283.89\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.59,0:20:44.63,block,,0,0,0,,{\pos(894.105,641.52)\fscx868.52\fscy282.19\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.63,0:20:44.68,block,,0,0,0,,{\pos(895.035,642.585)\fscx863.66\fscy280.61\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.68,0:20:44.72,block,,0,0,0,,{\pos(895.95,643.62)\fscx858.99\fscy279.1\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.72,0:20:44.76,block,,0,0,0,,{\pos(896.79,644.565)\fscx854.68\fscy277.69\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.76,0:20:44.80,block,,0,0,0,,{\pos(897.585,645.48)\fscx850.55\fscy276.35\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.80,0:20:44.84,block,,0,0,0,,{\pos(898.32,646.305)\fscx846.8\fscy275.14\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.84,0:20:44.89,block,,0,0,0,,{\pos(899.01,647.085)\fscx843.26\fscy273.99\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.89,0:20:44.93,block,,0,0,0,,{\pos(899.625,647.79)\fscx840.09\fscy272.95\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.93,0:20:44.97,block,,0,0,0,,{\pos(900.18,648.42)\fscx837.24\fscy272.03\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:44.97,0:20:45.01,block,,0,0,0,,{\pos(900.675,648.99)\fscx834.65\fscy271.19\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.01,0:20:45.05,block,,0,0,0,,{\pos(901.11,649.5)\fscx832.42\fscy270.46\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.05,0:20:45.09,block,,0,0,0,,{\pos(901.47,649.89)\fscx830.6\fscy269.87\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.09,0:20:45.14,block,,0,0,0,,{\pos(901.77,650.22)\fscx829.11\fscy269.39\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.14,0:20:45.18,block,,0,0,0,,{\pos(901.95,650.475)\fscx828.07\fscy269.05\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.18,0:20:45.22,block,,0,0,0,,{\pos(902.13,650.64)\fscx827.3\fscy268.8\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.22,0:20:45.30,block,,0,0,0,,{\pos(902.145,650.655)\fscx827.19\fscy268.76\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.30,0:20:45.34,block,,0,0,0,,{\pos(902.145,650.655)\fscx827.2\fscy268.77\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.34,0:20:45.39,block,,0,0,0,,{\pos(902.145,650.67)\fscx827.2\fscy268.77\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.39,0:20:45.43,block,,0,0,0,,{\pos(902.145,650.67)\fscx827.21\fscy268.77\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.43,0:20:45.47,block,,0,0,0,,{\pos(902.145,650.685)\fscx827.21\fscy268.77\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.47,0:20:45.59,block,,0,0,0,,{\pos(902.145,650.685)\fscx827.2\fscy268.77\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.59,0:20:45.76,block,,0,0,0,,{\pos(902.13,650.7)\fscx827.2\fscy268.77\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.76,0:20:45.84,block,,0,0,0,,{\pos(902.13,650.715)\fscx827.2\fscy268.77\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.84,0:20:45.93,block,,0,0,0,,{\pos(902.115,650.715)\fscx827.2\fscy268.77\frz18.99\c&HDAE8EF&\be2}A
-Dialogue: 0,0:20:45.93,0:20:46.09,block,,0,0,0,,{\pos(902.115,650.73)\fscx827.2\fscy268.77\frz18.99\c&HDAE8EF&\be2}A
+Dialogue: 0,0:20:42.72,0:20:42.76,block,,0,0,0,,{\pos(786,519)\fscx1425\fscy463\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:42.76,0:20:42.80,block,,0,0,0,,{\pos(789.465,522.93)\fscx1407.12\fscy457.19\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:42.80,0:20:42.84,block,,0,0,0,,{\pos(793.14,527.085)\fscx1388.23\fscy451.05\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:42.84,0:20:42.88,block,,0,0,0,,{\pos(796.89,531.345)\fscx1368.9\fscy444.77\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:42.88,0:20:42.92,block,,0,0,0,,{\pos(800.67,535.635)\fscx1349.47\fscy438.46\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:42.92,0:20:42.97,block,,0,0,0,,{\pos(804.45,539.895)\fscx1330.07\fscy432.15\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:42.97,0:20:43.01,block,,0,0,0,,{\pos(808.14,544.11)\fscx1310.98\fscy425.95\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.01,0:20:43.05,block,,0,0,0,,{\pos(811.815,548.25)\fscx1292.13\fscy419.83\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.05,0:20:43.09,block,,0,0,0,,{\pos(815.385,552.315)\fscx1273.69\fscy413.84\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.09,0:20:43.13,block,,0,0,0,,{\pos(818.91,556.29)\fscx1255.59\fscy407.96\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.13,0:20:43.18,block,,0,0,0,,{\pos(822.33,560.175)\fscx1237.97\fscy402.23\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.18,0:20:43.22,block,,0,0,0,,{\pos(825.675,563.955)\fscx1220.78\fscy396.65\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.22,0:20:43.26,block,,0,0,0,,{\pos(828.915,567.63)\fscx1204.06\fscy391.21\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.26,0:20:43.30,block,,0,0,0,,{\pos(832.095,571.215)\fscx1187.75\fscy385.92\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.30,0:20:43.34,block,,0,0,0,,{\pos(835.14,574.68)\fscx1172.01\fscy380.8\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.34,0:20:43.38,block,,0,0,0,,{\pos(838.14,578.055)\fscx1156.62\fscy375.8\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.38,0:20:43.43,block,,0,0,0,,{\pos(841.02,581.34)\fscx1141.79\fscy370.98\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.43,0:20:43.47,block,,0,0,0,,{\pos(843.84,584.52)\fscx1127.27\fscy366.27\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.47,0:20:43.51,block,,0,0,0,,{\pos(846.555,587.595)\fscx1113.32\fscy361.73\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.51,0:20:43.55,block,,0,0,0,,{\pos(849.195,590.595)\fscx1099.71\fscy357.31\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.55,0:20:43.59,block,,0,0,0,,{\pos(851.745,593.49)\fscx1086.57\fscy353.04\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.59,0:20:43.63,block,,0,0,0,,{\pos(854.235,596.31)\fscx1073.75\fscy348.88\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.63,0:20:43.68,block,,0,0,0,,{\pos(856.62,599.025)\fscx1061.44\fscy344.87\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.68,0:20:43.72,block,,0,0,0,,{\pos(858.96,601.665)\fscx1049.41\fscy340.97\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.72,0:20:43.76,block,,0,0,0,,{\pos(861.21,604.215)\fscx1037.86\fscy337.21\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.76,0:20:43.80,block,,0,0,0,,{\pos(863.4,606.69)\fscx1026.55\fscy333.54\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.80,0:20:43.84,block,,0,0,0,,{\pos(865.5,609.06)\fscx1015.72\fscy330.02\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.84,0:20:43.88,block,,0,0,0,,{\pos(867.555,611.4)\fscx1005.16\fscy326.59\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.88,0:20:43.93,block,,0,0,0,,{\pos(869.52,613.62)\fscx995.02\fscy323.3\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.93,0:20:43.97,block,,0,0,0,,{\pos(871.44,615.81)\fscx985.12\fscy320.08\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:43.97,0:20:44.01,block,,0,0,0,,{\pos(873.27,617.88)\fscx975.67\fscy317.01\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.01,0:20:44.05,block,,0,0,0,,{\pos(875.07,619.92)\fscx966.44\fscy314.01\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.05,0:20:44.09,block,,0,0,0,,{\pos(876.795,621.87)\fscx957.59\fscy311.13\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.09,0:20:44.13,block,,0,0,0,,{\pos(878.445,623.76)\fscx949.01\fscy308.35\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.13,0:20:44.18,block,,0,0,0,,{\pos(880.05,625.575)\fscx940.74\fscy305.66\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.18,0:20:44.22,block,,0,0,0,,{\pos(881.61,627.33)\fscx932.74\fscy303.06\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.22,0:20:44.26,block,,0,0,0,,{\pos(883.095,629.025)\fscx925.07\fscy300.57\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.26,0:20:44.30,block,,0,0,0,,{\pos(884.55,630.66)\fscx917.58\fscy298.13\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.30,0:20:44.34,block,,0,0,0,,{\pos(885.915,632.22)\fscx910.52\fscy295.84\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.34,0:20:44.38,block,,0,0,0,,{\pos(887.235,633.72)\fscx903.7\fscy293.62\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.38,0:20:44.43,block,,0,0,0,,{\pos(888.525,635.19)\fscx897.2\fscy291.51\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.43,0:20:44.47,block,,0,0,0,,{\pos(889.755,636.585)\fscx890.88\fscy289.46\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.47,0:20:44.51,block,,0,0,0,,{\pos(890.91,637.89)\fscx884.91\fscy287.52\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.51,0:20:44.55,block,,0,0,0,,{\pos(892.035,639.165)\fscx879.16\fscy285.65\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.55,0:20:44.59,block,,0,0,0,,{\pos(893.07,640.35)\fscx873.75\fscy283.89\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.59,0:20:44.63,block,,0,0,0,,{\pos(894.105,641.52)\fscx868.52\fscy282.19\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.63,0:20:44.68,block,,0,0,0,,{\pos(895.035,642.585)\fscx863.66\fscy280.61\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.68,0:20:44.72,block,,0,0,0,,{\pos(895.95,643.62)\fscx858.99\fscy279.1\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.72,0:20:44.76,block,,0,0,0,,{\pos(896.79,644.565)\fscx854.68\fscy277.69\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.76,0:20:44.80,block,,0,0,0,,{\pos(897.585,645.48)\fscx850.55\fscy276.35\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.80,0:20:44.84,block,,0,0,0,,{\pos(898.32,646.305)\fscx846.8\fscy275.14\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.84,0:20:44.89,block,,0,0,0,,{\pos(899.01,647.085)\fscx843.26\fscy273.99\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.89,0:20:44.93,block,,0,0,0,,{\pos(899.625,647.79)\fscx840.09\fscy272.95\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.93,0:20:44.97,block,,0,0,0,,{\pos(900.18,648.42)\fscx837.24\fscy272.03\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:44.97,0:20:45.01,block,,0,0,0,,{\pos(900.675,648.99)\fscx834.65\fscy271.19\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.01,0:20:45.05,block,,0,0,0,,{\pos(901.11,649.5)\fscx832.42\fscy270.46\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.05,0:20:45.09,block,,0,0,0,,{\pos(901.47,649.89)\fscx830.6\fscy269.87\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.09,0:20:45.14,block,,0,0,0,,{\pos(901.77,650.22)\fscx829.11\fscy269.39\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.14,0:20:45.18,block,,0,0,0,,{\pos(901.95,650.475)\fscx828.07\fscy269.05\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.18,0:20:45.22,block,,0,0,0,,{\pos(902.13,650.64)\fscx827.3\fscy268.8\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.22,0:20:45.30,block,,0,0,0,,{\pos(902.145,650.655)\fscx827.19\fscy268.76\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.30,0:20:45.34,block,,0,0,0,,{\pos(902.145,650.655)\fscx827.2\fscy268.77\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.34,0:20:45.39,block,,0,0,0,,{\pos(902.145,650.67)\fscx827.2\fscy268.77\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.39,0:20:45.43,block,,0,0,0,,{\pos(902.145,650.67)\fscx827.21\fscy268.77\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.43,0:20:45.47,block,,0,0,0,,{\pos(902.145,650.685)\fscx827.21\fscy268.77\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.47,0:20:45.59,block,,0,0,0,,{\pos(902.145,650.685)\fscx827.2\fscy268.77\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.59,0:20:45.76,block,,0,0,0,,{\pos(902.13,650.7)\fscx827.2\fscy268.77\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.76,0:20:45.84,block,,0,0,0,,{\pos(902.13,650.715)\fscx827.2\fscy268.77\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.84,0:20:45.93,block,,0,0,0,,{\pos(902.115,650.715)\fscx827.2\fscy268.77\frz18.99\c&HD8E6EC&\blur2}A
+Dialogue: 0,0:20:45.93,0:20:46.09,block,,0,0,0,,{\pos(902.115,650.73)\fscx827.2\fscy268.77\frz18.99\c&HD8E6EC&\blur2}A
 Dialogue: 0,0:21:30.97,0:21:31.01,block,,0,0,0,,{\pos(960,957)\fscx186\fscy303\frz9.474\b1\c&HEAE5E5&}A
 Dialogue: 0,0:21:31.01,0:21:31.06,block,,0,0,0,,{\pos(960,959.73)\fscx186.01\fscy303.02\frz9.474\b1\c&HEAE5E5&}A
 Dialogue: 0,0:21:31.06,0:21:31.10,block,,0,0,0,,{\pos(960,962.475)\fscx186.04\fscy303.06\frz9.474\b1\c&HEAE5E5&}A
@@ -781,77 +781,77 @@ Dialogue: 0,0:13:42.92,0:13:44.92,brush1,,0,0,0,,{\pos(945,610.5)\fscx370\fscy37
 Dialogue: 0,0:16:12.57,0:16:25.29,brush1,,0,0,0,,{\pos(194.7,805.8)\fscx80\fscy80\frz352.2\fry30\frx6\fsp-3\c&H4D5961&\be2}Laugh
 Dialogue: 0,0:16:34.22,0:16:36.55,brush1,,0,0,0,,{\pos(416.7,67.8)\fscx110\fscy110\frz353.7\fry30\frx6\fsp-3\c&H4D5961&\be2}Laugh
 Dialogue: 4,0:20:40.92,0:20:42.72,brush1,,0,0,0,,{\pos(508.5,550.5)\frz277.2\fs150\c&H2E3136&\be2\fad(300,0)}Pret Tycure
-Dialogue: 1,0:20:42.72,0:20:42.76,brush1,,0,0,0,,{\pos(774,498)\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 0,0:20:42.76,0:20:42.80,brush1,,0,0,0,,{\pos(777.615,502.2)\fscx98.75\fscy98.75\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:42.80,0:20:42.84,brush1,,0,0,0,,{\pos(781.44,506.625)\fscx97.42\fscy97.42\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:42.84,0:20:42.88,brush1,,0,0,0,,{\pos(785.37,511.17)\fscx96.06\fscy96.06\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:42.88,0:20:42.92,brush1,,0,0,0,,{\pos(789.315,515.745)\fscx94.7\fscy94.7\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:42.92,0:20:42.97,brush1,,0,0,0,,{\pos(793.245,520.305)\fscx93.34\fscy93.34\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:42.97,0:20:43.01,brush1,,0,0,0,,{\pos(797.1,524.79)\fscx92\fscy92\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.01,0:20:43.05,brush1,,0,0,0,,{\pos(800.925,529.215)\fscx90.68\fscy90.68\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.05,0:20:43.09,brush1,,0,0,0,,{\pos(804.66,533.535)\fscx89.38\fscy89.38\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.09,0:20:43.13,brush1,,0,0,0,,{\pos(808.335,537.795)\fscx88.11\fscy88.11\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.13,0:20:43.18,brush1,,0,0,0,,{\pos(811.905,541.935)\fscx86.88\fscy86.88\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.18,0:20:43.22,brush1,,0,0,0,,{\pos(815.385,545.955)\fscx85.67\fscy85.67\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.22,0:20:43.26,brush1,,0,0,0,,{\pos(818.775,549.885)\fscx84.5\fscy84.5\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.26,0:20:43.30,brush1,,0,0,0,,{\pos(822.09,553.71)\fscx83.35\fscy83.35\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.30,0:20:43.34,brush1,,0,0,0,,{\pos(825.27,557.4)\fscx82.25\fscy82.25\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.34,0:20:43.38,brush1,,0,0,0,,{\pos(828.39,561.015)\fscx81.17\fscy81.17\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.38,0:20:43.43,brush1,,0,0,0,,{\pos(831.405,564.51)\fscx80.13\fscy80.13\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.43,0:20:43.47,brush1,,0,0,0,,{\pos(834.345,567.915)\fscx79.11\fscy79.11\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.47,0:20:43.51,brush1,,0,0,0,,{\pos(837.18,571.2)\fscx78.13\fscy78.13\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.51,0:20:43.55,brush1,,0,0,0,,{\pos(839.94,574.395)\fscx77.17\fscy77.17\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.55,0:20:43.59,brush1,,0,0,0,,{\pos(842.595,577.485)\fscx76.25\fscy76.25\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.59,0:20:43.63,brush1,,0,0,0,,{\pos(845.205,580.485)\fscx75.35\fscy75.35\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.63,0:20:43.68,brush1,,0,0,0,,{\pos(847.68,583.38)\fscx74.49\fscy74.49\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.68,0:20:43.72,brush1,,0,0,0,,{\pos(850.125,586.2)\fscx73.64\fscy73.64\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.72,0:20:43.76,brush1,,0,0,0,,{\pos(852.465,588.915)\fscx72.83\fscy72.83\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.76,0:20:43.80,brush1,,0,0,0,,{\pos(854.76,591.57)\fscx72.04\fscy72.04\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.80,0:20:43.84,brush1,,0,0,0,,{\pos(856.95,594.105)\fscx71.28\fscy71.28\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.84,0:20:43.88,brush1,,0,0,0,,{\pos(859.08,596.58)\fscx70.54\fscy70.54\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.88,0:20:43.93,brush1,,0,0,0,,{\pos(861.135,598.965)\fscx69.83\fscy69.83\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.93,0:20:43.97,brush1,,0,0,0,,{\pos(863.145,601.29)\fscx69.13\fscy69.13\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:43.97,0:20:44.01,brush1,,0,0,0,,{\pos(865.05,603.51)\fscx68.47\fscy68.47\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.01,0:20:44.05,brush1,,0,0,0,,{\pos(866.925,605.685)\fscx67.82\fscy67.82\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.05,0:20:44.09,brush1,,0,0,0,,{\pos(868.725,607.755)\fscx67.2\fscy67.2\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.09,0:20:44.13,brush1,,0,0,0,,{\pos(870.45,609.765)\fscx66.6\fscy66.6\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.13,0:20:44.18,brush1,,0,0,0,,{\pos(872.13,611.715)\fscx66.02\fscy66.02\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.18,0:20:44.22,brush1,,0,0,0,,{\pos(873.75,613.59)\fscx65.46\fscy65.46\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.22,0:20:44.26,brush1,,0,0,0,,{\pos(875.31,615.39)\fscx64.92\fscy64.92\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.26,0:20:44.30,brush1,,0,0,0,,{\pos(876.825,617.13)\fscx64.39\fscy64.39\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.30,0:20:44.34,brush1,,0,0,0,,{\pos(878.25,618.81)\fscx63.9\fscy63.9\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.34,0:20:44.38,brush1,,0,0,0,,{\pos(879.63,620.4)\fscx63.42\fscy63.42\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.38,0:20:44.43,brush1,,0,0,0,,{\pos(880.98,621.975)\fscx62.96\fscy62.96\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.43,0:20:44.47,brush1,,0,0,0,,{\pos(882.255,623.46)\fscx62.52\fscy62.52\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.47,0:20:44.51,brush1,,0,0,0,,{\pos(883.455,624.855)\fscx62.1\fscy62.1\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.51,0:20:44.55,brush1,,0,0,0,,{\pos(884.625,626.205)\fscx61.7\fscy61.7\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.55,0:20:44.59,brush1,,0,0,0,,{\pos(885.72,627.48)\fscx61.32\fscy61.32\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.59,0:20:44.63,brush1,,0,0,0,,{\pos(886.785,628.71)\fscx60.95\fscy60.95\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.63,0:20:44.68,brush1,,0,0,0,,{\pos(887.775,629.865)\fscx60.61\fscy60.61\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.68,0:20:44.72,brush1,,0,0,0,,{\pos(888.72,630.96)\fscx60.28\fscy60.28\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.72,0:20:44.76,brush1,,0,0,0,,{\pos(889.59,631.965)\fscx59.98\fscy59.98\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.76,0:20:44.80,brush1,,0,0,0,,{\pos(890.43,632.94)\fscx59.69\fscy59.69\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.80,0:20:44.84,brush1,,0,0,0,,{\pos(891.195,633.825)\fscx59.42\fscy59.42\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.84,0:20:44.89,brush1,,0,0,0,,{\pos(891.915,634.65)\fscx59.18\fscy59.18\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.89,0:20:44.93,brush1,,0,0,0,,{\pos(892.56,635.415)\fscx58.95\fscy58.95\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.93,0:20:44.97,brush1,,0,0,0,,{\pos(893.13,636.075)\fscx58.75\fscy58.75\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:44.97,0:20:45.01,brush1,,0,0,0,,{\pos(893.655,636.69)\fscx58.57\fscy58.57\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.01,0:20:45.05,brush1,,0,0,0,,{\pos(894.105,637.23)\fscx58.42\fscy58.42\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.05,0:20:45.09,brush1,,0,0,0,,{\pos(894.48,637.65)\fscx58.29\fscy58.29\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.09,0:20:45.14,brush1,,0,0,0,,{\pos(894.78,638.01)\fscx58.18\fscy58.18\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.14,0:20:45.18,brush1,,0,0,0,,{\pos(894.99,638.265)\fscx58.11\fscy58.11\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.18,0:20:45.22,brush1,,0,0,0,,{\pos(895.17,638.445)\fscx58.06\fscy58.06\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.22,0:20:45.26,brush1,,0,0,0,,{\pos(895.17,638.46)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.26,0:20:45.30,brush1,,0,0,0,,{\pos(895.185,638.46)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.30,0:20:45.39,brush1,,0,0,0,,{\pos(895.185,638.475)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.39,0:20:45.51,brush1,,0,0,0,,{\pos(895.185,638.49)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.51,0:20:45.55,brush1,,0,0,0,,{\pos(895.17,638.49)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.55,0:20:45.72,brush1,,0,0,0,,{\pos(895.17,638.505)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.72,0:20:45.76,brush1,,0,0,0,,{\pos(895.17,638.52)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.76,0:20:45.89,brush1,,0,0,0,,{\pos(895.155,638.52)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:45.89,0:20:46.01,brush1,,0,0,0,,{\pos(895.155,638.535)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:46.01,0:20:46.05,brush1,,0,0,0,,{\pos(895.14,638.535)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
-Dialogue: 1,0:20:46.05,0:20:46.09,brush1,,0,0,0,,{\pos(895.14,638.55)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:42.72,0:20:42.76,brush1,,0,0,0,,{\pos(774,498)\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 0,0:20:42.76,0:20:42.80,brush1,,0,0,0,,{\pos(777.615,502.2)\fscx98.75\fscy98.75\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:42.80,0:20:42.84,brush1,,0,0,0,,{\pos(781.44,506.625)\fscx97.42\fscy97.42\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:42.84,0:20:42.88,brush1,,0,0,0,,{\pos(785.37,511.17)\fscx96.06\fscy96.06\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:42.88,0:20:42.92,brush1,,0,0,0,,{\pos(789.315,515.745)\fscx94.7\fscy94.7\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:42.92,0:20:42.97,brush1,,0,0,0,,{\pos(793.245,520.305)\fscx93.34\fscy93.34\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:42.97,0:20:43.01,brush1,,0,0,0,,{\pos(797.1,524.79)\fscx92\fscy92\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.01,0:20:43.05,brush1,,0,0,0,,{\pos(800.925,529.215)\fscx90.68\fscy90.68\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.05,0:20:43.09,brush1,,0,0,0,,{\pos(804.66,533.535)\fscx89.38\fscy89.38\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.09,0:20:43.13,brush1,,0,0,0,,{\pos(808.335,537.795)\fscx88.11\fscy88.11\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.13,0:20:43.18,brush1,,0,0,0,,{\pos(811.905,541.935)\fscx86.88\fscy86.88\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.18,0:20:43.22,brush1,,0,0,0,,{\pos(815.385,545.955)\fscx85.67\fscy85.67\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.22,0:20:43.26,brush1,,0,0,0,,{\pos(818.775,549.885)\fscx84.5\fscy84.5\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.26,0:20:43.30,brush1,,0,0,0,,{\pos(822.09,553.71)\fscx83.35\fscy83.35\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.30,0:20:43.34,brush1,,0,0,0,,{\pos(825.27,557.4)\fscx82.25\fscy82.25\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.34,0:20:43.38,brush1,,0,0,0,,{\pos(828.39,561.015)\fscx81.17\fscy81.17\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.38,0:20:43.43,brush1,,0,0,0,,{\pos(831.405,564.51)\fscx80.13\fscy80.13\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.43,0:20:43.47,brush1,,0,0,0,,{\pos(834.345,567.915)\fscx79.11\fscy79.11\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.47,0:20:43.51,brush1,,0,0,0,,{\pos(837.18,571.2)\fscx78.13\fscy78.13\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.51,0:20:43.55,brush1,,0,0,0,,{\pos(839.94,574.395)\fscx77.17\fscy77.17\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.55,0:20:43.59,brush1,,0,0,0,,{\pos(842.595,577.485)\fscx76.25\fscy76.25\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.59,0:20:43.63,brush1,,0,0,0,,{\pos(845.205,580.485)\fscx75.35\fscy75.35\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.63,0:20:43.68,brush1,,0,0,0,,{\pos(847.68,583.38)\fscx74.49\fscy74.49\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.68,0:20:43.72,brush1,,0,0,0,,{\pos(850.125,586.2)\fscx73.64\fscy73.64\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.72,0:20:43.76,brush1,,0,0,0,,{\pos(852.465,588.915)\fscx72.83\fscy72.83\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.76,0:20:43.80,brush1,,0,0,0,,{\pos(854.76,591.57)\fscx72.04\fscy72.04\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.80,0:20:43.84,brush1,,0,0,0,,{\pos(856.95,594.105)\fscx71.28\fscy71.28\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.84,0:20:43.88,brush1,,0,0,0,,{\pos(859.08,596.58)\fscx70.54\fscy70.54\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.88,0:20:43.93,brush1,,0,0,0,,{\pos(861.135,598.965)\fscx69.83\fscy69.83\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.93,0:20:43.97,brush1,,0,0,0,,{\pos(863.145,601.29)\fscx69.13\fscy69.13\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:43.97,0:20:44.01,brush1,,0,0,0,,{\pos(865.05,603.51)\fscx68.47\fscy68.47\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.01,0:20:44.05,brush1,,0,0,0,,{\pos(866.925,605.685)\fscx67.82\fscy67.82\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.05,0:20:44.09,brush1,,0,0,0,,{\pos(868.725,607.755)\fscx67.2\fscy67.2\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.09,0:20:44.13,brush1,,0,0,0,,{\pos(870.45,609.765)\fscx66.6\fscy66.6\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.13,0:20:44.18,brush1,,0,0,0,,{\pos(872.13,611.715)\fscx66.02\fscy66.02\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.18,0:20:44.22,brush1,,0,0,0,,{\pos(873.75,613.59)\fscx65.46\fscy65.46\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.22,0:20:44.26,brush1,,0,0,0,,{\pos(875.31,615.39)\fscx64.92\fscy64.92\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.26,0:20:44.30,brush1,,0,0,0,,{\pos(876.825,617.13)\fscx64.39\fscy64.39\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.30,0:20:44.34,brush1,,0,0,0,,{\pos(878.25,618.81)\fscx63.9\fscy63.9\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.34,0:20:44.38,brush1,,0,0,0,,{\pos(879.63,620.4)\fscx63.42\fscy63.42\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.38,0:20:44.43,brush1,,0,0,0,,{\pos(880.98,621.975)\fscx62.96\fscy62.96\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.43,0:20:44.47,brush1,,0,0,0,,{\pos(882.255,623.46)\fscx62.52\fscy62.52\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.47,0:20:44.51,brush1,,0,0,0,,{\pos(883.455,624.855)\fscx62.1\fscy62.1\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.51,0:20:44.55,brush1,,0,0,0,,{\pos(884.625,626.205)\fscx61.7\fscy61.7\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.55,0:20:44.59,brush1,,0,0,0,,{\pos(885.72,627.48)\fscx61.32\fscy61.32\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.59,0:20:44.63,brush1,,0,0,0,,{\pos(886.785,628.71)\fscx60.95\fscy60.95\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.63,0:20:44.68,brush1,,0,0,0,,{\pos(887.775,629.865)\fscx60.61\fscy60.61\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.68,0:20:44.72,brush1,,0,0,0,,{\pos(888.72,630.96)\fscx60.28\fscy60.28\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.72,0:20:44.76,brush1,,0,0,0,,{\pos(889.59,631.965)\fscx59.98\fscy59.98\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.76,0:20:44.80,brush1,,0,0,0,,{\pos(890.43,632.94)\fscx59.69\fscy59.69\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.80,0:20:44.84,brush1,,0,0,0,,{\pos(891.195,633.825)\fscx59.42\fscy59.42\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.84,0:20:44.89,brush1,,0,0,0,,{\pos(891.915,634.65)\fscx59.18\fscy59.18\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.89,0:20:44.93,brush1,,0,0,0,,{\pos(892.56,635.415)\fscx58.95\fscy58.95\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.93,0:20:44.97,brush1,,0,0,0,,{\pos(893.13,636.075)\fscx58.75\fscy58.75\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:44.97,0:20:45.01,brush1,,0,0,0,,{\pos(893.655,636.69)\fscx58.57\fscy58.57\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.01,0:20:45.05,brush1,,0,0,0,,{\pos(894.105,637.23)\fscx58.42\fscy58.42\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.05,0:20:45.09,brush1,,0,0,0,,{\pos(894.48,637.65)\fscx58.29\fscy58.29\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.09,0:20:45.14,brush1,,0,0,0,,{\pos(894.78,638.01)\fscx58.18\fscy58.18\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.14,0:20:45.18,brush1,,0,0,0,,{\pos(894.99,638.265)\fscx58.11\fscy58.11\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.18,0:20:45.22,brush1,,0,0,0,,{\pos(895.17,638.445)\fscx58.06\fscy58.06\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.22,0:20:45.26,brush1,,0,0,0,,{\pos(895.17,638.46)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.26,0:20:45.30,brush1,,0,0,0,,{\pos(895.185,638.46)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.30,0:20:45.39,brush1,,0,0,0,,{\pos(895.185,638.475)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.39,0:20:45.51,brush1,,0,0,0,,{\pos(895.185,638.49)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.51,0:20:45.55,brush1,,0,0,0,,{\pos(895.17,638.49)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.55,0:20:45.72,brush1,,0,0,0,,{\pos(895.17,638.505)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.72,0:20:45.76,brush1,,0,0,0,,{\pos(895.17,638.52)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.76,0:20:45.89,brush1,,0,0,0,,{\pos(895.155,638.52)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:45.89,0:20:46.01,brush1,,0,0,0,,{\pos(895.155,638.535)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:46.01,0:20:46.05,brush1,,0,0,0,,{\pos(895.14,638.535)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
+Dialogue: 1,0:20:46.05,0:20:46.09,brush1,,0,0,0,,{\pos(895.14,638.55)\fscx58.05\fscy58.05\frz19.82\fs75\c&H313535&\be2\q2}{TS 2045}Mil Key    Pika Chu\N\NHori Zon     An Us
 Dialogue: 1,0:21:30.97,0:21:31.01,brush2,,0,0,0,,{\pos(901.5,871.5)\fscy130\frz282\fs75\fsp-4.5\c&H432326&\be2}Charm
 Dialogue: 1,0:21:31.01,0:21:31.06,brush2,,0,0,0,,{\pos(901.5,874.23)\fscx100.01\fscy130.01\frz282\fs75\fsp-4.5\c&H432326&\be2}Charm
 Dialogue: 1,0:21:31.06,0:21:31.10,brush2,,0,0,0,,{\pos(901.5,876.96)\fscx100.02\fscy130.02\frz282\fs75\fsp-4.5\c&H432326&\be2}Charm
@@ -899,7 +899,7 @@ Dialogue: 1,0:21:32.77,0:21:32.81,brush2,,0,0,0,,{\pos(887.775,877.755)\fscx100.
 Dialogue: 1,0:21:32.81,0:21:32.85,brush2,,0,0,0,,{\pos(887.775,878.595)\fscx100.37\fscy130.49\frz282\fs75\fsp-4.5\c&H432326&\be2}Charm
 Dialogue: 1,0:21:32.85,0:21:32.89,brush2,,0,0,0,,{\pos(895.485,876.6)\fscx100.35\fscy130.46\frz282\fs75\fsp-4.5\c&H432326&\be2}Charm
 Dialogue: 1,0:21:32.89,0:21:32.93,brush2,,0,0,0,,{\pos(895.485,873.63)\fscx100.35\fscy130.46\frz282\fs75\fsp-4.5\c&H432326&\be2}Charm
-Dialogue: 0,0:02:05.56,0:02:07.89,brush4,,0,0,0,,{\an1\pos(328,822.499)\fscx370\fscy370\fsp-1.5\be2}{\kf19}This anime is\N{\kf59}full of ordinary dialogue\N{\kf46}so that viewers can fully\N{\kf49}enjoy how cute the girls are.
-Dialogue: 0,0:14:01.52,0:14:04.36,brush4,,0,0,0,,{\an1\pos(220,798.499)\fscx370\fscy370\fsp-1.5\be2}{\kf66}So that viewers can\N{\kf79}fully enjoy how cute the girls are,\N{\c&H0A17FD&\kf56}{red}they have removed their masks.
+Dialogue: 0,0:02:05.56,0:02:07.89,brush4,,0,0,0,,{\an1\pos(328,822.499)\fscx370\fscy370\fsp-1.5\be2\q2}{\kf19}This anime is\N{\kf59}full of ordinary dialogue\N{\kf46}so that viewers can fully\N{\kf49}enjoy how cute the girls are.
+Dialogue: 0,0:14:01.52,0:14:04.36,brush4,,0,0,0,,{\an1\pos(220,798.499)\fscx370\fscy370\fsp-1.5\be2\q2}{\kf66}So that viewers can\N{\kf79}fully enjoy how cute the girls are,\N{\c&H0A17FD&\kf56}{red}they have removed their masks.
 Dialogue: 0,0:23:39.94,0:23:42.69,brush4,,0,0,0,,{\pos(957,581.5)\fscx450\fscy450\be2}Preview
-Dialogue: 0,0:23:58.95,0:24:09.97,brush4,,0,0,0,,{\pos(987,247.5)\fscx420\fscy420\be2\a6}A Bath Beyond\NVisit to Asakusa\NSanada Monk-ey
+Dialogue: 0,0:23:58.95,0:24:09.97,brush4,,0,0,0,,{\pos(987,247.5)\fscx420\fscy420\be2\q2\a6}A Bath Beyond\NVisit to Asakusa\NSanada Monk-ey
