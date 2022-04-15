@@ -24,7 +24,7 @@ Style: Sign,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:53.59,0:01:55.59,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
-Dialogue: 1,0:01:53.59,0:01:55.59,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\b1\blur0.9Glasses Girl
+Dialogue: 1,0:01:53.59,0:01:55.59,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\b1\blur0.9}Glasses Girl
 Dialogue: 0,0:09:47.94,0:09:49.94,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:09:47.94,0:09:49.94,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\blur0.9}A Good Day to Daiba
 Dialogue: 0,0:15:14.14,0:15:16.14,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
