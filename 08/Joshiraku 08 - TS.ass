@@ -571,7 +571,7 @@ Dialogue: 0,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\
 Dialogue: 1,0:15:51.43,0:15:53.93,Sign,TS,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx77\fscy70\c&HFEFEFE&\p1\frz348.8\pos(1109.27,239.8)}m -168 -46 l 182 -46 182 43 -168 43{TS: The original sign is off-white, not full white.}
 Dialogue: 2,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx74.6\fscy60\p1\c&H000000&\frz348.8\pos(1109.27,239.8)}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 3,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx73.4\fscy54\p1\c&HFEFEFE&\frz348.8\pos(1109.27,239.8)}m -168 -46 l 182 -46 182 43 -168 43
-Dialogue: 4,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\fscx80\fscy80\frz348.7\fnBrushType-SemiBold\fs59\b0\c&H000000&\blur0.7\pos(1115.13,242.94)}Tetora Bouhatei
+Dialogue: 4,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\fscx80\fscy80\frz348.7\fnBrushType-SemiBold\fs59\b0\c&H000000&\blur0.7\pos(1115.13,242.94)}Bouhatei Tetora
 Dialogue: 0,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8\pos(449.71,592.177)}Rakugo Girls
 Dialogue: 0,0:15:51.43,0:15:53.93,Sign,,0,0,0,midcard,{\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8\pos(449.71,592.177)}Rakugo Girls
 Dialogue: 0,0:16:08.16,0:16:10.16,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720

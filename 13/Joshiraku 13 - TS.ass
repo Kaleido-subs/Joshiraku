@@ -1059,7 +1059,7 @@ Dialogue: 0,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\
 Dialogue: 1,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx77\fscy70\c&HFEFEFE&\p1\frz13.03\pos(321.91,48.14)}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 2,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx74.6\fscy60\p1\c&H000000&\frz13.03\pos(321.91,48.14)}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 3,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx73.4\fscy54\p1\c&HFEFEFE&\frz13.03\pos(321.91,48.14)}m -168 -46 l 182 -46 182 43 -168 43
-Dialogue: 4,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\fscx80\fscy80\fnBrushType-SemiBold\fs59\b0\c&H000000&\blur0.7\frz13.03\pos(327.77,51.28)}Marii Burateii
+Dialogue: 4,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\fscx80\fscy80\fnBrushType-SemiBold\fs59\b0\c&H000000&\blur0.7\frz13.03\pos(327.77,51.28)}Buratei Mariii
 Dialogue: 0,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8\pos(821.71,640.18)}Rakugo Girls
 Dialogue: 0,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8\pos(821.71,640.18)}Rakugo Girls
 Comment: 0,0:14:17.46,0:14:19.96,Sign,,0,0,0,,{TS: Missing character name sign}{Done}

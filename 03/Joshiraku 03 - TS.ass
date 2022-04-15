@@ -41,14 +41,14 @@ Dialogue: 2,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(402.05,714)\fscx466\
 Dialogue: 3,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\blur1.35\an7\p1\c&H102830&\frz16.69\1a&H00&\fscx323\fscy59\pos(157.5,740.25)\fs72}m 0 0 l 150 0 150 150 0 150
 Dialogue: 4,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\blur2\an7\c&H102536&\frz16.69\fscx318\fscy54.5\pos(161.5,741.5)\p1\fs72}m 0 0 l 150 0 150 150 0 150
 Dialogue: 5,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(395.6,715.5)\fscx549\frz15.92\fnPeoni Patterns\fs88\c&H22547B&\blur5\clip(m 162.85 742.5 l 186.43 820.5 643.3 683.78 619.5 604.5)\3c&H103049&}o
-Dialogue: 6,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(403.95,718.95)\frz16.69\fnBrushType-SemiBold\fs80\b0\c&H09151C&\blur1}Kigurumi Haroukitei
+Dialogue: 6,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(403.95,718.95)\frz16.69\fnBrushType-SemiBold\fs80\b0\c&H09151C&\blur1}Haroukitei Kigurumi
 Dialogue: 1,0:09:06.44,0:09:08.94,Sign,,0,0,0,midcard,{\pos(1459.35,835.35)\frz338.3\fnBrushStroke 35\fs101\bord1.4\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.2}Rakugo Girls
 Dialogue: 0,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\blur1.65\an7\p1\c&H121E2E&\frz347.6\fscx349\fscy89\pos(1287,677.25)\fs72}m 0 0 l 150 0 150 150 0 150
 Dialogue: 1,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\blur1.35\an7\p1\c&H1D476A&\frz347.6\fscx335\fscy76\pos(1295.25,688.5)\fs72}m 0 0 l 150 0 150 150 0 150
 Dialogue: 2,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(1519.35,796.95)\fscx466\frz347.6\fnPeoni Patterns\fs108\c&H21537A&\3c&H1E4F75&\blur2\clip(m 1295.125 687.875 l 1271.125 799.5 1763.125 911.125 1788 794.125)}o
 Dialogue: 3,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\blur1.35\an7\p1\c&H0C1F2D&\frz347.6\fscx323\fscy59\1a&H20&\pos(1302,703.5)\fs72}m 0 0 l 150 0 150 150 0 150
 Dialogue: 4,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(1520.55,796.95)\fscx543\frz347.6\fnPeoni Patterns\fs89\c&H21537A&\blur4.05\clip(m 1306.5 709.5 l 1289.375 786.5 1752 888.5 1769.625 810.375)}o
-Dialogue: 5,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(1522.65,802.5)\frz347.6\fnBrushType-SemiBold\fs80\b0\c&H08151B&\blur1}Tetora Bouhatei
+Dialogue: 5,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(1522.65,802.5)\frz347.6\fnBrushType-SemiBold\fs80\b0\c&H08151B&\blur1}Bouhatei Tetora
 Dialogue: 1,0:15:10.38,0:15:12.89,Sign,,0,0,0,midcard,{\pos(292,803)\frz18.5\fnBrushStroke 35\fs101\bord1.4\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.2}Rakugo Girls
 Dialogue: 0,0:08:50.55,0:08:52.67,Sign,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:08:50.55,0:08:52.67,Sign,,0,0,0,,{\an7\pos(108,327)\fnGaramond Premr Pro Smbd Capt\fs81\2a&HFF&\blur1}The conversations in this anime

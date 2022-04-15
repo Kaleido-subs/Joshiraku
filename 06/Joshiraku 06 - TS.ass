@@ -1358,7 +1358,7 @@ Dialogue: 0,0:11:24.75,0:11:28.17,Sign,,0,0,0,,{\pos(908.572,241.716)\fnBrush St
 Dialogue: 0,0:10:42.91,0:10:44.12,Sign,,0,0,0,,{\pos(961.5,436.5)\org(926,480)\frz0.05\frx10.32\fax-0.02\fnCatalogue\fs36\c&HD3DFE4&\1a&H14&\blur1.43}Musashi-Itsukaichi
 Dialogue: 0,0:10:42.91,0:10:44.12,Sign,,0,0,0,,{\pos(960,432)\org(926,480)\frz0.05\frx10.32\fax-0.02\fnCatalogue\fs36\c&H121317&\1a&H14&\blur1.43}Musashi-Itsukaichi
 Dialogue: 0,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(591.887,615.744)\c&HE4E9EF&\blur1.5\p1}m 180 250.5 l 265.5 253.5 262.5 600 172.5 600
-Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(742.091,864.534)\frz88.52\frx2.07\fax0.02\fnBrushType\fs48\c&H0B1115&\blur1.5}Gankyou Kuurubiyuutei
+Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(742.091,864.534)\frz88.52\frx2.07\fax0.02\fnBrushType\fs48\c&H0B1115&\blur1.5}Kuurubiyuutei Gankyou
 Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(777.878,866.034)\frz88.52\frx2.07\fax0.02\fnBrushType\fs27\b0\c&H0B1115&\1a&H28&\blur1.27}Policies as clear as my glasses!
 Dialogue: 0,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(755.1,753.3)\c&HE1EBF1&\blur3\p1}m -219 -270 l -138 -267 -126 192 b -154.5 157.5 -190.5 112.5 -216 84
 Dialogue: 1,0:15:52.72,0:15:56.60,Sign,,0,0,0,,{\pos(537.887,442.944)\frz89.46\fnBrush Hand New\fs78\fsp1.5\c&H0B1115&\blur2.1}SNORE PARTY

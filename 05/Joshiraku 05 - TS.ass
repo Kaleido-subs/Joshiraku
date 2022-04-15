@@ -394,20 +394,20 @@ Dialogue: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\frx12\fnMachine Gu
 Dialogue: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\frx12\fnMachine Gunk\bord4.5\3c&H0664FF&\1a&HFF&\blur0.9\clip(654,936,1260,938)}Skin Arrangers \NDry-T-Zone Morphin'
 Dialogue: 1,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(264,825.499)\fnHeisei Maru Gothic Std-CP W8\fs96\c&H111010&\blur1.2}DRY SKIN
 Dialogue: 0,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(264,825.499)\fnHeisei Maru Gothic Std-CP W8\fs96\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}DRY SKIN
-Dialogue: 1,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(404,913.5)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur1.2}Tetora Bouhatei
-Dialogue: 0,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(404,913.5)\fnHeisei Maru Gothic Std-CP W8\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}Tetora Bouhatei
+Dialogue: 1,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(404,913.5)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur1.2}Bouhatei Tetora
+Dialogue: 0,0:19:09.96,0:19:11.04,Sign,,0,0,0,,{\pos(404,913.5)\fnHeisei Maru Gothic Std-CP W8\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}Bouhatei Tetora
 Dialogue: 1,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1590,825.499)\fnHeisei Maru Gothic Std-CP W8\fs96\c&H111010&\blur1.2}SHARKSKIN
 Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1590,825.499)\fnHeisei Maru Gothic Std-CP W8\fs96\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}SHARKSKIN
-Dialogue: 1,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1503.999,913.5)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur1.2}Kukuru Anrakutei
-Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1503.999,913.5)\fnHeisei Maru Gothic Std-CP W8\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}Kukuru Anrakutei
+Dialogue: 1,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1503.999,913.5)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur1.2}Anrakutei Kukuru
+Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1503.999,913.5)\fnHeisei Maru Gothic Std-CP W8\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}Anrakutei Kukuru
 Dialogue: 1,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\pos(440.499,241.5)\fnHeisei Maru Gothic Std-CP W8\fs96\c&H111010&\blur1.2}SILK SKIN
 Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\pos(440.499,241.5)\fnHeisei Maru Gothic Std-CP W8\fs96\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}SILK SKIN
 Dialogue: 1,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\an6\pos(1626.6,951.101)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur1.2}Kigurumi \NHaroukitei
 Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\an6\pos(1626.6,951.101)\fnHeisei Maru Gothic Std-CP W8\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}Kigurumi \NHaroukitei
 Dialogue: 1,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(705.999,169.5)\fnHeisei Maru Gothic Std-CP W8\fs96\c&H111010&\blur1.2}THIN SKIN
 Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(705.999,169.5)\fnHeisei Maru Gothic Std-CP W8\fs96\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}THIN SKIN
-Dialogue: 1,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(1531.999,799.5)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur1.2}Marii Buratei
-Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(1531.999,799.5)\fnHeisei Maru Gothic Std-CP W8\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}Marii Buratei
+Dialogue: 1,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(1531.999,799.5)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur1.2}Buratei Marii
+Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(1531.999,799.5)\fnHeisei Maru Gothic Std-CP W8\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}Buratei Marii
 Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(862.001,135.5)\fnLivingstone\fs94.5\fsp2.25\c&H03EAFC&\blur1.8\clip(621,93,1107,96)}Skin Cream
 Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(862.001,135.5)\fnLivingstone\fs94.5\fsp2.25\c&H03EAFC&\blur1.8\clip(621,96,1107,99)}Skin Cream
 Dialogue: 2,0:19:52.33,0:19:54.33,Sign,,0,0,0,,{\pos(862.001,135.5)\fnLivingstone\fs94.5\fsp2.25\c&H03E9FC&\blur1.8\clip(621,99,1107,102)}Skin Cream
