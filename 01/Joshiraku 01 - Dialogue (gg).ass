@@ -644,8 +644,8 @@ Dialogue: 0,0:14:43.61,0:14:46.12,block,,0,0,0,,{\pos(1009.5,828)\fscx375\fscy47
 Dialogue: 1,0:14:43.61,0:14:46.12,brush1,,0,0,0,,{\pos(1009.5,571.5)\fscx160\fscy160\frz261.666\fsp-1.5\b0\c&H000000&\3c&H000000&\be2}Buratei {\fsp1.5\b1}M{\fsp-1.5}a{\fsp-6}r{\fsp-9}ii
 Dialogue: 0,0:15:13.06,0:15:15.06,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
 Dialogue: 1,0:15:13.06,0:15:15.06,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Shouting Instruction
-Dialogue: 1,0:16:25.59,0:16:29.01,jp2,,0,0,0,,{\pos(1498.715,285)\fscx170\fscy170\fsp-1.5\c&H000000&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Dog of authority
-Dialogue: 0,0:16:25.59,0:16:29.01,jp2,,0,0,0,,{\pos(1498.715,285)\fscx170\fscy170\fsp-1.5\bord1.5\shad2.25\c&HD7CFC5&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Dog of authority
+Dialogue: 1,0:16:25.55,0:16:29.01,jp2,,0,0,0,,{\pos(1498.715,285)\fscx170\fscy170\fsp-1.5\c&H000000&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Dog of authority
+Dialogue: 0,0:16:25.55,0:16:29.01,jp2,,0,0,0,,{\pos(1498.715,285)\fscx170\fscy170\fsp-1.5\bord1.5\shad2.25\c&HD7CFC5&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Dog of authority
 Dialogue: 1,0:16:26.92,0:16:29.01,jp2,,0,0,0,,{\pos(1716,679.5)\fscx170\fscy170\frz359.952\fsp-1.5\c&H000000&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Yelp of
 Dialogue: 1,0:16:26.92,0:16:29.01,jp2,,0,0,0,,{\pos(1716,769.5)\fscx170\fscy170\frz359.952\fsp-1.5\c&H000000&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}a kicked dog
 Dialogue: 0,0:16:26.92,0:16:29.01,jp2,,0,0,0,,{\pos(1715.46,680.317)\fscx170\fscy170\frz359.952\fsp-1.5\bord1.5\shad2.25\c&HD7CFC5&\3c&HD7CFC5&\4c&HD7CFC5&\blur1.5}Yelp of
