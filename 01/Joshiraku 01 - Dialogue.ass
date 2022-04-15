@@ -53,7 +53,7 @@ Dialogue: 10,0:01:01.04,0:01:03.38,Default,,0,0,0,,Thank you for your continued 
 Dialogue: 10,0:01:19.14,0:01:21.52,Default,,0,0,0,,I learned a lot on stage today.
 Dialogue: 10,0:03:31.52,0:03:33.99,Default,,0,0,0,,If you want to read manga, read manga.
 Dialogue: 10,0:03:33.99,0:03:35.61,Default,,0,0,0,,Adapting it into an anime makes no sense!
-Dialogue: 10,0:03:36.74,0:03:38.41,Default,,0,0,0,,What's this all of a sudden?
+Dialogue: 10,0:03:36.74,0:03:38.41,Default,,0,0,0,,Where'd that come from?
 Dialogue: 10,0:03:38.41,0:03:40.28,Default,,0,0,0,,What're you saying?
 Dialogue: 10,0:03:40.28,0:03:42.87,Default,,0,0,0,,Why take a perfectly fine manga,
 Dialogue: 10,0:03:42.87,0:03:47.92,Default,,0,0,0,,{\q2}where we do little more than talk in this room \Nday in, day out, and make an anime out of it?
@@ -146,11 +146,11 @@ Dialogue: 10,0:07:43.94,0:07:44.86,Default,,0,0,0,,That's it!
 Dialogue: 10,0:07:54.45,0:07:56.54,Default,,0,0,0,,Pyjamas count as "usual clothes"?
 Dialogue: 10,0:07:56.54,0:07:59.54,Default,,0,0,0,,{\q2}Well, they're what you wear most \Noutside of work clothes, right?
 Dialogue: 10,0:07:59.54,0:08:01.04,Default,,0,0,0,,Hey, you're right!
-Dialogue: 10,0:08:01.04,0:08:05.21,Default,,0,0,0,,{\q2}I saw on TV it's fashionable to \Ngo out wearing pyjamas in China.
+Dialogue: 10,0:08:01.04,0:08:05.21,Default,,0,0,0,,{\q2}I saw on TV it's fashionable \Nto go out wearing pyjamas in China.
 Dialogue: 10,0:08:05.21,0:08:06.51,Default,,0,0,0,,What do you mean?
 Dialogue: 10,0:08:06.51,0:08:10.55,Default,,0,0,0,,{\q2}I guess it makes it look like \Nyou're a cool person who lives downtown.
-Dialogue: 10,0:08:10.55,0:08:15.60,Default,,0,0,0,,{\q2}Ah, but didn't they ban it before \Nthe Olympics for being indecent?
-Dialogue: 10,0:08:15.60,0:08:18.64,Default,,0,0,0,,{\q2}Anyway, I think we've found \Nthe ultimate "usual clothes"!
+Dialogue: 10,0:08:10.55,0:08:15.60,Default,,0,0,0,,{\q2}Ah, but didn't they ban it \Nbefore the Olympics for being indecent?
+Dialogue: 10,0:08:15.60,0:08:18.64,Default,,0,0,0,,Anyway, I think we've found the ultimate "usual clothes"!
 Dialogue: 10,0:08:18.64,0:08:24.61,Default,,0,0,0,,{\q2}In other words, "Please wear your usual clothes" \Nis code for "We're having a pyjama party!"
 Dialogue: 10,0:08:24.94,0:08:26.78,Default,,0,0,0,,That's kinda saucy...
 Dialogue: 10,0:08:26.78,0:08:28.57,Default,,0,0,0,,I definitely don't think that's it.
@@ -185,8 +185,15 @@ Dialogue: 10,0:09:23.21,0:09:25.96,Default,,0,0,0,,Even though you can't really 
 Dialogue: 10,0:09:25.96,0:09:27.42,Default,,0,0,0,,Cut it out, guys!
 Dialogue: 10,0:09:27.42,0:09:29.67,Default,,0,0,0,,People are gonna start losing respect for me!
 Dialogue: 10,0:09:29.67,0:09:31.84,Default,,0,0,0,,Can you really lose something you never had?
-Dialogue: 10,0:09:31.84,0:09:35.01,Default,,0,0,0,,{\move(960,1024.001,960,1234.667,2609,2750)\q2}Being naked all the time reminds me of a baseball manga... \Nthat I can't name because of copyright.
-Dialogue: 10,0:09:34.43,0:09:36.06,Default,,0,0,0,,{\move(960,880.001,960,1024.001,0,160)}What kinda reference was that?
+Dialogue: 10,0:09:31.84,0:09:34.47,Default,,0,0,56,,{\q2}Being naked all the time reminds me of a baseball manga... \Nthat I can't name because of copyright.
+Dialogue: 10,0:09:34.47,0:09:34.51,Default,,0,0,-4,,{\q2}Being naked all the time reminds me of a baseball manga... \Nthat I can't name because of copyright.
+Dialogue: 10,0:09:34.51,0:09:34.55,Default,,0,0,-67,,{\q2}Being naked all the time reminds me of a baseball manga... \Nthat I can't name because of copyright.
+Dialogue: 10,0:09:34.55,0:09:34.60,Default,,0,0,-128,,{\q2}Being naked all the time reminds me of a baseball manga... \Nthat I can't name because of copyright.
+Dialogue: 10,0:09:34.43,0:09:34.47,Default,,0,0,181,,What kinda reference was that?
+Dialogue: 10,0:09:34.47,0:09:34.51,Default,,0,0,143,,What kinda reference was that?
+Dialogue: 10,0:09:34.51,0:09:34.55,Default,,0,0,106,,What kinda reference was that?
+Dialogue: 10,0:09:34.55,0:09:34.60,Default,,0,0,69,,What kinda reference was that?
+Dialogue: 10,0:09:34.60,0:09:36.06,Default,,0,0,56,,What kinda reference was that?
 Dialogue: 10,0:09:36.06,0:09:38.68,Default,,0,0,0,,There's no way anybody's gonna get that!
 Dialogue: 10,0:09:38.68,0:09:40.48,Default,,0,0,0,,It's flippin' time!
 Dialogue: 10,0:09:40.48,0:09:43.94,Default,,0,0,0,,It's not like flipping the sheet will show more anyway!
@@ -259,7 +266,7 @@ Dialogue: 10,0:13:10.10,0:13:12.69,Default,,0,0,0,,{\q2}I get what you mean by "
 Dialogue: 10,0:13:12.69,0:13:14.94,Default,,0,0,0,,Because it's what I use to drama-self off.
 Dialogue: 10,0:13:17.69,0:13:20.95,Default,,0,0,0,,{\q2}I'm just dra-mazed you thought \Nthat was worth the setup.
 Dialogue: 10,0:13:20.95,0:13:23.12,Default,,0,0,0,,Look at all these Dalai Drama!
-Dialogue: 10,0:13:24.07,0:13:26.16,Default,,0,0,0,,'Sup, guys?
+Dialogue: 10,0:13:24.07,0:13:26.16,Default,,0,0,0,,'Sup, guys.
 Dialogue: 10,0:13:29.79,0:13:31.54,Default,,0,0,0,,Here comes drama.
 Dialogue: 10,0:13:31.54,0:13:33.25,Default,,0,0,0,,That's the first thing you say to me?
 Dialogue: 10,0:13:33.25,0:13:35.63,Default,,0,0,0,,Hey, the tracksuit look actually really suits you.
@@ -284,7 +291,7 @@ Dialogue: 10,0:14:23.80,0:14:24.64,Default,,0,0,0,,Ordering?
 Dialogue: 10,0:14:27.93,0:14:29.14,Default,,0,0,0,,Ah well.
 Dialogue: 10,0:14:29.14,0:14:34.02,Default,,0,0,0,,Greetings to you!
 Dialogue: 10,0:14:46.82,0:14:49.03,Default,,0,0,0,,"Purr! Purr-purr!"
-Dialogue: 10,0:14:49.95,0:14:53.46,Default,,0,0,0,,{\q2}"C'mon, I don't understand \Nwhat you're tryin' to say!"
+Dialogue: 10,0:14:49.95,0:14:53.46,Default,,0,0,0,,"C'mon, I don't understand what you're tryin' to say!"
 Dialogue: 10,0:14:53.46,0:14:57.00,Default,,0,0,0,,{\q2}"You're pawin' at my knees... \NYou must want something real bad."
 Dialogue: 10,0:14:57.00,0:14:59.21,Default,,0,0,0,,"What on earth could it be?"
 Dialogue: 10,0:14:59.21,0:15:01.42,Default,,0,0,0,,"Purrrr... purrr... "
@@ -294,7 +301,7 @@ Dialogue: 10,0:15:17.48,0:15:19.61,Default,,0,0,0,,Um, this is a tough question,
 Dialogue: 10,0:15:21.28,0:15:22.82,Default,,0,0,0,,Are you guys dog people or cat people?
 Dialogue: 10,0:15:22.82,0:15:24.32,Default,,0,0,0,,Don't ask such dull questions!
 Dialogue: 10,0:15:24.32,0:15:27.82,Default,,0,0,0,,{\q2}The conversations in this anime are \Nwritten to be as inoffensive as possible
-Dialogue: 10,0:15:27.82,0:15:32.33,Default,,0,0,0,,{\q2}so as not to interfere with your \Nenjoyment of viewing cute girls.
+Dialogue: 10,0:15:27.82,0:15:32.33,Default,,0,0,0,,{\q2}so as not to interfere with \Nyour enjoyment of viewing cute girls.
 Dialogue: 10,0:15:32.62,0:15:34.20,Default,,0,0,0,,Ugh, this is so stupid.
 Dialogue: 10,0:15:34.20,0:15:35.71,Default,,0,0,0,,Which is it?
 Dialogue: 10,0:15:35.71,0:15:37.54,Default,,0,0,0,,I like them both.
@@ -317,7 +324,7 @@ Dialogue: 10,0:16:05.57,0:16:06.82,Default,,0,0,0,,Come on, you guys.
 Dialogue: 10,0:16:06.82,0:16:10.24,Default,,0,0,0,,{\q2}A real choice would be something like \Ncrunchy versus smooth peanut bu—
 Dialogue: 10,0:16:10.24,0:16:13.12,Default,,0,0,0,,If I had to choose between cats and dogs...
 Dialogue: 10,0:16:13.12,0:16:15.66,Default,,0,0,0,,Hey! What about sumo-style girls and—
-Dialogue: 10,0:16:15.12,0:16:17.41,Alt,,0,0,0,,I like the sound dogs make more...
+Dialogue: 10,0:16:15.12,0:16:17.41,Alt,,0,0,0,,I like the sound dogs make more.
 Dialogue: 10,0:16:17.41,0:16:18.71,Default,,0,0,0,,Nah, even then it's gotta be cats.
 Dialogue: 10,0:16:18.71,0:16:23.00,Default,,0,0,0,,Dogs get to be in the zodiac and be police officers.
 Dialogue: 10,0:16:23.00,0:16:25.17,Default,,0,0,0,,I feel sorry for cats getting left out.
@@ -397,7 +404,7 @@ Dialogue: 10,0:19:52.17,0:19:53.63,Default,,0,0,0,,"You dumbass!"
 Dialogue: 10,0:19:53.63,0:19:54.26,Default,,0,0,0,,Right?
 Dialogue: 10,0:19:54.26,0:19:55.34,Default,,0,0,0,,I see.
 Dialogue: 10,0:19:55.34,0:19:59.55,Default,,0,0,0,,{\q2}I really don't think people yell \N"you dumbass" at the ocean.
-Dialogue: 10,0:19:59.55,0:20:02.68,Default,,0,0,0,,Oh yeah? Then what {\i1}do{\i0} people yell at the ocean, eh?
+Dialogue: 10,0:19:59.55,0:20:02.68,Default,,0,0,0,,{\q2}Oh, yeah? Then what {\i1}do{\i0} \Npeople yell at the ocean, huh?
 Dialogue: 10,0:20:03.39,0:20:05.39,Default,,0,0,0,,"Catch me if you can!"
 Dialogue: 10,0:20:05.39,0:20:07.77,Default,,0,0,0,,Though that's not at the ocean, per se.
 Dialogue: 10,0:20:07.77,0:20:10.15,Default,,0,0,0,,It has nothing to do with the ocean, really.
@@ -414,7 +421,7 @@ Dialogue: 10,0:20:27.25,0:20:28.67,Default,,0,0,0,,I suppose she's right.
 Dialogue: 10,0:20:28.67,0:20:30.13,Default,,0,0,0,,I can't come up with anything else.
 Dialogue: 10,0:20:30.13,0:20:34.75,Default,,0,0,0,,{\q2}Doesn't it change depending on \Nwhich ocean you're shouting it at?
 Dialogue: 10,0:20:34.75,0:20:35.59,Default,,0,0,0,,How d'you mean?
-Dialogue: 10,0:20:36.34,0:20:41.22,Default,,0,0,0,,{\q2}I think you'd shout different things depending on \Nif you're facing the Sea of Japan or the Pacific Ocean.
+Dialogue: 10,0:20:36.34,0:20:41.22,Default,,0,0,0,,{\q2}I think you'd shout different things depending on \Nwhether you're facing the Sea of Japan or the Pacific Ocean.
 Dialogue: 10,0:20:41.22,0:20:44.81,Default,,0,0,0,,On the Pacific side, there's nobody to shout to.
 Dialogue: 10,0:20:44.81,0:20:48.56,Default,,0,0,0,,{\q2}To shout at King Kamehameha, your voice has to \Ncarry six thousand four hundred kilometres.
 Dialogue: 10,0:20:48.56,0:20:49.48,Default,,0,0,0,,Too far!
@@ -422,16 +429,16 @@ Dialogue: 10,0:20:49.48,0:20:53.06,Default,,0,0,0,,{\q2}"You dumbass" travels at
 Dialogue: 10,0:20:53.40,0:20:55.19,Default,,0,0,0,,How long does it take to arrive?
 Dialogue: 10,0:20:57.24,0:21:00.03,Default,,0,0,0,,Is it quicker to shorten it to "dumbass"?
 Dialogue: 10,0:21:00.03,0:21:04.37,Default,,0,0,0,,Yeah, it definitely gets your point across faster.
-Dialogue: 10,0:21:04.37,0:21:08.83,Default,,0,0,0,,{\q2}The Sea of Japan has stuff that's \Na lot nearer, so you should shout...
+Dialogue: 10,0:21:04.37,0:21:08.83,Default,,0,0,0,,{\q2}The Sea of Japan has stuff \Nthat's a lot nearer, so you should shout...
 Dialogue: 10,0:21:13.88,0:21:15.63,Default,,0,0,0,,I knew she wouldn't think of anything.
 Dialogue: 10,0:21:15.63,0:21:17.63,Default,,0,0,0,,"You dumbass" works perfectly fine.
 Dialogue: 10,0:21:17.63,0:21:20.01,Default,,0,0,0,,Yeah. Just don't read too much into it.
 Dialogue: 10,0:21:20.01,0:21:24.60,Default,,0,0,0,,{\q2}"You dumbass" can cover a fairly wide angle. \NBut don't read too much into it.
-Dialogue: 10,0:21:25.18,0:21:30.98,Default,,0,0,0,,{\q2}The issue with "you dumbass" is that it's so rude, \Nit probably won't solve anything.
-Dialogue: 10,0:21:30.98,0:21:32.06,Default,,0,0,0,,Solve?
+Dialogue: 10,0:21:25.18,0:21:30.98,Default,,0,0,0,,{\q2}The issue with "you dumbass" is that it's so rude, \Nit probably won't resolve anything.
+Dialogue: 10,0:21:30.98,0:21:32.06,Default,,0,0,0,,Resolve?
 Dialogue: 10,0:21:32.06,0:21:33.19,Default,,0,0,0,,I've got it.
 Dialogue: 10,0:21:37.03,0:21:38.65,Default,,0,0,0,,Give it back!
-Dialogue: 10,0:21:38.65,0:21:40.82,Default,,0,0,0,,Yeah, that's it!
+Dialogue: 10,0:21:38.65,0:21:40.82,Default,,0,0,0,,Yeah, that should do the trick!
 Dialogue: 10,0:21:40.82,0:21:43.91,Default,,0,0,0,,You should shout "Give it back!" at the ocean.
 Dialogue: 10,0:21:43.91,0:21:44.66,Default,,0,0,0,,Yes.
 Dialogue: 10,0:21:44.66,0:21:45.45,Default,,0,0,0,,Yeah.
@@ -444,7 +451,7 @@ Dialogue: 10,0:22:06.76,0:22:10.10,Default,,0,0,0,,Give back everyone's money!
 Dialogue: 10,0:23:40.94,0:23:42.86,Default,,0,0,0,,Tetora Bouhatei here.
 Dialogue: 10,0:23:42.86,0:23:46.70,Default,,0,0,0,,Thank you so much for stopping by.
 Dialogue: 10,0:23:47.20,0:23:49.78,Default,,0,0,0,,It sure has been hot and humid lately, eh?
-Dialogue: 10,0:23:49.78,0:23:56.41,Default,,0,0,0,,{\q2}Be careful. If you sleep with the AC on, \Nyou'll get ill, so watch out.
-Dialogue: 10,0:23:57.25,0:23:59.50,Default,,0,0,0,,{\q2}So anyway, here's what's in \Nthe next episode of Rakugo Girls:
+Dialogue: 10,0:23:49.78,0:23:56.41,Default,,0,0,0,,{\q2}Be careful. If you sleep with the AC on, \Nyou'll get ill, so make sure you avoid that.
+Dialogue: 10,0:23:57.25,0:23:59.50,Default,,0,0,0,,{\q2}So anyway, here's what's \Nin the next episode of Rakugo Girls:
 Dialogue: 10,0:24:00.17,0:24:06.55,Default,,0,0,0,,{\q2}"Backstage Wealth", "Tower Trip", \Nand "Girl with a Cold".
 Dialogue: 10,0:24:06.55,0:24:09.05,Default,,0,0,0,,See you there!
