@@ -1052,8 +1052,6 @@ Dialogue: 4,0:07:48.41,0:07:50.91,Sign,,0,0,0,midcard,{\fscx80\fscy80\fnBrushTyp
 Dialogue: 0,0:07:48.41,0:07:50.91,Sign,,0,0,0,midcard,{\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8\pos(818.51,662.58)}Rakugo Girls
 Dialogue: 0,0:07:48.41,0:07:50.91,Sign,,0,0,0,midcard,{\frz338.5\fnBrushStroke 35\fs67\b0\c&H000000&\blur0.8\pos(818.51,662.58)}Rakugo Girls
 Comment: 0,0:07:48.41,0:07:50.91,Sign,,0,0,0,,{TS: Missing name sign.}{Done}
-Dialogue: 0,0:10:52.26,0:10:54.26,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1280 0 1280 720 0 720
-Dialogue: 1,0:10:52.26,0:10:54.26,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.8}The Battle of Shinjuku
 Dialogue: 1,0:08:51.93,0:08:53.93,Sign,TS,0,0,0,,{\fnGaramond Premr Pro Smbd Capt\b600\fs100\blur0.8}Akihabubble
 Dialogue: 0,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx80\fscy80\c&H010000&\p1\frz13.03\pos(321.91,48.14)}m -168 -46 l 182 -46 182 43 -168 43
 Dialogue: 1,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\blur0.7\bord0\shad0\fscx77\fscy70\c&HFEFEFE&\p1\frz13.03\pos(321.91,48.14)}m -168 -46 l 182 -46 182 43 -168 43
