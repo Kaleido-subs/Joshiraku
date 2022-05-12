@@ -12,8 +12,8 @@ PlayResY: 1080
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: JoshirakuBD_07 (Premux).mkv
-Video File: JoshirakuBD_07 (Premux).mkv
+Audio File: JoshirakuBD_07_new (Premux).mkv
+Video File: JoshirakuBD_07_new (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -29,12 +29,12 @@ Dialogue: 0,0:10:12.42,0:10:14.42,Sign,,0,0,0,repeat TS,{\fnPainfresco\c&H000000
 Dialogue: 1,0:10:12.42,0:10:14.42,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\b600\blur0.9}Something Fishy
 Dialogue: 0,0:15:54.22,0:15:56.22,Sign,,0,0,0,repeat TS,{\fnPainfresco\c&H000000&\p1\fs72}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:15:54.22,0:15:56.22,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\b600\blur0.9}Backstage Investigation
-Dialogue: 0,0:23:39.94,0:23:42.69,Sign,,0,0,0,repeat TS,{\pos(877.5,540)\fscx1535\fscy2000\fsp-10.35\c&H1856D9&\blur1.5\fs72}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
+Dialogue: 0,0:23:39.94,0:23:42.69,Sign,,0,0,0,repeat TS,{\pos(878,540)\fscx1535\fscy2000\fsp-10.35\c&H1856D9&\blur1.5\fs72}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:39.94,0:23:42.69,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs216\b600\2a&HFF&\blur0.9}Next Time
-Dialogue: 0,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\pos(877.5,540)\fscx1535\fscy2000\fsp-10.35\c&H1856D9&\blur1.5\fs72}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\pos(283.5,360)\fnConsolas\fs141\2a&HFF&\blur0.9}① {\fnGaramond Premr Pro Smbd Capt\b600}Bag of Gold
-Dialogue: 1,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\pos(283.5,540)\fnConsolas\fs141\2a&HFF&\blur0.9}② {\fnGaramond Premr Pro Smbd Capt\b600}Unsteady
-Dialogue: 1,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\pos(283.5,720)\fnConsolas\fs141\2a&HFF&\blur0.9}③ {\fnGaramond Premr Pro Smbd Capt\b600}Is It Over Yet?
+Dialogue: 0,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\pos(878,540)\fscx1535\fscy2000\fsp-10.35\c&H1856D9&\blur1.5\fs72}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
+Dialogue: 1,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\pos(284,360)\fnConsolas\fs141\2a&HFF&\blur0.9}① {\fnGaramond Premr Pro Smbd Capt\b600}Bag of Gold
+Dialogue: 1,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\pos(284,540)\fnConsolas\fs141\2a&HFF&\blur0.9}② {\fnGaramond Premr Pro Smbd Capt\b600}Unsteady
+Dialogue: 1,0:24:03.96,0:24:09.96,Sign,,0,0,0,repeat TS,{\an4\pos(284,720)\fnConsolas\fs141\2a&HFF&\blur0.9}③ {\fnGaramond Premr Pro Smbd Capt\b600}Is It Over Yet?
 Dialogue: 0,0:08:55.43,0:08:57.93,Sign,,0,0,0,midcard,{\pos(1566,376)\frz352.8\fnBrushStroke 35\fs100\bord2.1\c&H000000&\3c&HE80779&\1a&HFF&\blur6}Rakugo Girls
 Dialogue: 1,0:08:55.43,0:08:57.93,Sign,,0,0,0,midcard,{\pos(1566,376)\frz352.8\fnBrushStroke 35\fs100\c&H000000&\blur1.2}Rakugo Girls
 Dialogue: 0,0:15:20.94,0:15:22.90,Sign,,0,0,0,midcard,{\pos(1464,872)\frz328\fnBrushStroke 35\fs101\bord2.4\3c&HF9F9F9&\1a&HC8&\blur3}Rakugo Girls
