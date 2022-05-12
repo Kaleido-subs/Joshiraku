@@ -24,15 +24,15 @@ Style: Sign,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:44.08,0:01:46.09,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
-Dialogue: 1,0:01:44.08,0:01:46.09,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs225\b600\blur1.35}Bag of Gold
+Dialogue: 1,0:01:44.08,0:01:46.09,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\b600\blur0.9}Bag of Gold
 Dialogue: 0,0:10:46.13,0:10:48.13,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
-Dialogue: 1,0:10:46.13,0:10:48.13,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs225\b600\blur1.35}Unsteady
+Dialogue: 1,0:10:46.13,0:10:48.13,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\b600\blur0.9}Unsteady
 Dialogue: 0,0:16:08.16,0:16:10.16,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
-Dialogue: 1,0:16:08.16,0:16:10.16,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs225\b600\blur1.35}Is It Over Yet?
+Dialogue: 1,0:16:08.16,0:16:10.16,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\b600\blur0.9}Is It Over Yet?
 Dialogue: 0,0:23:39.98,0:23:42.78,Sign,,0,0,0,repeat TS,{\pos(878,540)\fscx1535\fscy2000\fsp-10.35\c&H1856D9&\blur1.5}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:39.98,0:23:42.78,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs216\b600\2a&HFF&\blur0.9}Next Time
 Dialogue: 0,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(878,540)\fscx1535\fscy2000\fsp-10.35\c&H1856D9&\blur1.5}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,360)\fnConsolas\fs141\2a&HFF&\blur0.9}① {\fnGaramond Premr Pro Smbd Capt\b600}Life's Butt a Comedy
+Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,360)\fnConsolas\fs140\blur0.9}① {\fnGaramond Premr Pro Smbd Capt\b600}Life's Butt a Comedy
 Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,540)\fnConsolas\fs141\2a&HFF&\blur0.9}② {\fnGaramond Premr Pro Smbd Capt\b600}The Bear of Ueno
 Dialogue: 1,0:24:02.67,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,720)\fnConsolas\fs141\2a&HFF&\blur0.9}③ {\fnGaramond Premr Pro Smbd Capt\b600}Sleep-Talking
 Dialogue: 0,0:10:10.51,0:10:13.01,Sign,,0,0,0,midcard,{\pos(1237,726)\frz355.1\fnBrushStroke 35\fs93\fsp-3\b0\c&H000000&\blur1.2}Rakugo Girls
@@ -67,22 +67,22 @@ Dialogue: 0,0:03:54.26,0:03:56.34,Sign,,0,0,0,,{\pos(680,44)\fscx325\fscy113\frz
 Dialogue: 2,0:03:54.26,0:03:56.34,Sign,,0,0,0,,{\pos(680,44)\fscx297\fscy83\frz10.6\fnGaramond Premr Pro Smbd Capt\c&H010508&\blur1.5\p1}m 0 0 l 150 0 150 150 0 150
 Dialogue: 0,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\pos(617,523)\fscx2011\fscy2126\fsp-10.35\c&H1856D9&\blur1.5\iclip(m 902 1080 b 903 1029 906 992 911 918 915 840 921 749 927 659 930 605 935 551 938 518 945 447 948 396 953 347 956 315 959 285 962 255 971 212 978 167 989 128 1004 81 1019 36 1041 0 l 1949 -33 1935 1100)}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:03:58.59,0:04:03.93,Sign,,0,0,0,,{\an7\pos(39,36)\fnbrush-tipTerrence trial\fs150\c&HF3FAFE&\blur1.5\iclip(m 902 1080 b 903 1029 906 992 911 918 915 840 921 749 927 659 930 605 935 551 938 518 945 447 948 396 953 347 956 315 959 285 962 255 971 212 978 167 989 128 1004 81 1019 36 1041 0 l 1949 -33 1935 1100)\q2}Live long, live long and prosper. \NMay great wealth await you wherever \Nyou go, be it on unknown soil or under \Nforeign skies. May you always have your \Ndaily bread. Like the long{\fnAirstream ITC\b0}-{\fnbrush-tipTerrence trial\b1}lived king of \NShuringan and his dear wife, Gurindai, \Nand their children, Ponpokoki
-Dialogue: 0,0:04:08.51,0:04:08.56,Sign,,0,0,0,,{=75}{\an2\pos(959.58,1044.36)\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:08.56,0:04:08.60,Sign,,0,0,0,,{=75}{\an2\pos(959.58,961.305)\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:08.60,0:04:08.64,Sign,,0,0,0,,{=75}{\an2\pos(959.58,890.115)\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:08.64,0:04:08.68,Sign,,0,0,0,,{=75}{\an2\pos(959.58,833.505)\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:08.68,0:04:08.72,Sign,,0,0,0,,{=75}{\an2\pos(959.58,795.225)\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:08.72,0:04:09.10,Sign,,0,0,0,,{=75}{\an2\pos(959.565,780.69)\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:09.10,0:04:09.14,Sign,,0,0,0,,{=75}{\an2\pos(1007.4,788.52)\frz-3.82\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:09.14,0:04:09.18,Sign,,0,0,0,,{=75}{\an2\pos(1007.37,788.52)\frz-3.83\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:09.18,0:04:09.22,Sign,,0,0,0,,{=75}{\an2\pos(1048.23,800.79)\frz-7.66\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:09.22,0:04:09.27,Sign,,0,0,0,,{=75}{\an2\pos(1048.23,800.775)\frz-7.66\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:09.27,0:04:09.31,Sign,,0,0,0,,{=75}{\an2\pos(1142.4,829.26)\frz-14.22\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:09.31,0:04:09.35,Sign,,0,0,0,,{=75}{\an2\pos(1142.37,829.245)\frz-14.22\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:09.35,0:04:09.39,Sign,,0,0,0,,{=75}{\an2\pos(1187.955,852.39)\frz-18.01\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:09.39,0:04:09.43,Sign,,0,0,0,,{=75}{\an2\pos(1187.94,852.375)\frz-18.01\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:09.43,0:04:09.52,Sign,,0,0,0,,{=75}{\an2\pos(1218.96,870.84)\frz-20.42\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
-Dialogue: 0,0:04:09.52,0:04:10.14,Sign,,0,0,0,,{=75}{\an2\pos(1249.8,889.92)\frz-22.85\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:08.51,0:04:08.56,Sign,,0,0,0,,{\an2\pos(959.58,1044.36)\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:08.56,0:04:08.60,Sign,,0,0,0,,{\an2\pos(959.58,961.305)\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:08.60,0:04:08.64,Sign,,0,0,0,,{\an2\pos(959.58,890.115)\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:08.64,0:04:08.68,Sign,,0,0,0,,{\an2\pos(959.58,833.505)\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:08.68,0:04:08.72,Sign,,0,0,0,,{\an2\pos(959.58,795.225)\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:08.72,0:04:09.10,Sign,,0,0,0,,{\an2\pos(959.565,780.69)\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:09.10,0:04:09.14,Sign,,0,0,0,,{\an2\pos(1007.4,788.52)\frz-3.82\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:09.14,0:04:09.18,Sign,,0,0,0,,{\an2\pos(1007.37,788.52)\frz-3.83\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:09.18,0:04:09.22,Sign,,0,0,0,,{\an2\pos(1048.23,800.79)\frz-7.66\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:09.22,0:04:09.27,Sign,,0,0,0,,{\an2\pos(1048.23,800.775)\frz-7.66\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:09.27,0:04:09.31,Sign,,0,0,0,,{\an2\pos(1142.4,829.26)\frz-14.22\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:09.31,0:04:09.35,Sign,,0,0,0,,{\an2\pos(1142.37,829.245)\frz-14.22\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:09.35,0:04:09.39,Sign,,0,0,0,,{\an2\pos(1187.955,852.39)\frz-18.01\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:09.39,0:04:09.43,Sign,,0,0,0,,{\an2\pos(1187.94,852.375)\frz-18.01\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:09.43,0:04:09.52,Sign,,0,0,0,,{\an2\pos(1218.96,870.84)\frz-20.42\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
+Dialogue: 0,0:04:09.52,0:04:10.14,Sign,,0,0,0,,{\an2\pos(1249.8,889.92)\frz-22.85\fnAlpha54\fs60\b0\c&H22282B&\blur1.5}New Years' Money
 Dialogue: 0,0:04:12.36,0:04:13.86,Sign,,0,0,0,,{\an2\pos(960,564)\frx10\fnAlpha54\fs24\b0\c&H22282B&\blur1.5}New Years' Money
 Dialogue: 0,0:04:12.36,0:04:13.86,Sign,,0,0,0,,{\an2\pos(256.865,564)\frx10\fax-0.3\fnAlpha54\fs28.5\b0\c&H22282B&\blur1.5}New Years' Money
 Dialogue: 0,0:04:12.36,0:04:13.86,Sign,,0,0,0,,{\an2\pos(615.169,564)\frx10\fax-0.15\fnAlpha54\fs25.5\b0\c&H22282B&\blur1.5}New Years' Money
@@ -110,45 +110,45 @@ Dialogue: 0,0:04:47.09,0:04:47.18,Sign,,0,0,0,,{\an7\pos(403.542,683.534)\frz180
 Dialogue: 0,0:04:47.18,0:04:47.98,Sign,,0,0,0,,{\an7\pos(403.542,683.534)\frz180.4\fnAlpha54\fs21\b0\c&H22282B&\blur1.2}New Years' Money
 Dialogue: 0,0:04:47.26,0:04:47.39,Sign,,0,0,0,,{\an7\pos(1631.151,683.534)\frz179.4\fnAlpha54\fs21\b0\c&H22282B&\blur1.2\iclip(m 1638 669 b 1620 669 1599 672 1584 673.5 1566 676.5 1551 679.5 1539 682.5 1525.5 687 1513.5 691.5 1503 696 l 1545 736.5 1678.5 714 1674 676.5)}New Years' Money
 Dialogue: 0,0:04:47.39,0:04:47.50,Sign,,0,0,0,,{\an7\pos(1631.151,683.534)\frz179.4\fnAlpha54\fs21\b0\c&H22282B&\blur1.2\iclip(m 1648.5 661.5 l 1557 664.5 1551 666 1479 685.5 1506 717 1686 685.5)}New Years' Money
-Dialogue: 0,0:04:52.81,0:04:52.85,Sign,,0,0,0,,{=4}{\pos(183.99,76.005)\fnaugie\fs90\c&H010A10&\blur1.05}Tetora
-Dialogue: 0,0:04:52.81,0:04:52.85,Sign,,0,0,0,,{=3}{\pos(942,126)\fnaugie\fs90\c&H010A10&\blur1.05}Marii
-Dialogue: 0,0:04:52.81,0:04:52.85,Sign,,0,0,0,,{=2}{\pos(1694.28,124.575)\fnaugie\fs90\c&H010A10&\blur1.05}Kigurumi
-Dialogue: 0,0:04:52.81,0:04:52.85,Sign,,0,0,0,,{=1}{\pos(1311.99,126)\fnaugie\fs90\c&H010A10&\blur1.05}Gankyou
-Dialogue: 0,0:04:52.81,0:04:52.85,Sign,,0,0,0,,{=0}{\pos(570,106.005)\fnaugie\fs90\c&H010A10&\blur1.05}Kukuru
-Dialogue: 0,0:04:52.85,0:04:52.89,Sign,,0,0,0,,{=4}{\pos(183.99,53.4)\fnaugie\fs90\c&H010A10&\blur1.05}Tetora
-Dialogue: 0,0:04:52.85,0:04:52.89,Sign,,0,0,0,,{=3}{\pos(942,103.395)\fnaugie\fs90\c&H010A10&\blur1.05}Marii
-Dialogue: 0,0:04:52.85,0:04:52.89,Sign,,0,0,0,,{=2}{\pos(1694.28,101.97)\fnaugie\fs90\c&H010A10&\blur1.05}Kigurumi
-Dialogue: 0,0:04:52.85,0:04:52.89,Sign,,0,0,0,,{=1}{\pos(1311.99,103.395)\fnaugie\fs90\c&H010A10&\blur1.05}Gankyou
-Dialogue: 0,0:04:52.85,0:04:52.89,Sign,,0,0,0,,{=0}{\pos(570,83.4)\fnaugie\fs90\c&H010A10&\blur1.05}Kukuru
-Dialogue: 0,0:04:52.89,0:04:52.93,Sign,,0,0,0,,{=4}{\pos(183.99,28.47)\fnaugie\fs90\c&H010A10&\blur1.05}Tetora
-Dialogue: 0,0:04:52.89,0:04:52.93,Sign,,0,0,0,,{=3}{\pos(941.985,78.465)\fnaugie\fs90\c&H010A10&\blur1.05}Marii
-Dialogue: 0,0:04:52.89,0:04:52.93,Sign,,0,0,0,,{=2}{\pos(1694.265,77.04)\fnaugie\fs90\c&H010A10&\blur1.05}Kigurumi
-Dialogue: 0,0:04:52.89,0:04:52.93,Sign,,0,0,0,,{=1}{\pos(1311.99,78.465)\fnaugie\fs90\c&H010A10&\blur1.05}Gankyou
-Dialogue: 0,0:04:52.89,0:04:52.93,Sign,,0,0,0,,{=0}{\pos(569.985,58.47)\fnaugie\fs90\c&H010A10&\blur1.05}Kukuru
-Dialogue: 0,0:04:52.93,0:04:52.98,Sign,,0,0,0,,{=4}{\pos(184.005,1.56)\fnaugie\fs90\c&H010A10&\blur1.05}Tetora
-Dialogue: 0,0:04:52.93,0:04:52.98,Sign,,0,0,0,,{=3}{\pos(942.015,51.555)\fnaugie\fs90\c&H010A10&\blur1.05}Marii
-Dialogue: 0,0:04:52.93,0:04:52.98,Sign,,0,0,0,,{=2}{\pos(1694.295,50.13)\fnaugie\fs90\c&H010A10&\blur1.05}Kigurumi
-Dialogue: 0,0:04:52.93,0:04:52.98,Sign,,0,0,0,,{=1}{\pos(1312.005,51.555)\fnaugie\fs90\c&H010A10&\blur1.05}Gankyou
-Dialogue: 0,0:04:52.93,0:04:52.98,Sign,,0,0,0,,{=0}{\pos(570.015,31.56)\fnaugie\fs90\c&H010A10&\blur1.05}Kukuru
-Dialogue: 0,0:04:52.98,0:04:53.02,Sign,,0,0,0,,{=3}{\pos(942,23.04)\fnaugie\fs90\c&H010A10&\blur1.05}Marii
-Dialogue: 0,0:04:52.98,0:04:53.02,Sign,,0,0,0,,{=2}{\pos(1694.28,21.615)\fnaugie\fs90\c&H010A10&\blur1.05}Kigurumi
-Dialogue: 0,0:04:52.98,0:04:53.02,Sign,,0,0,0,,{=1}{\pos(1311.99,23.04)\fnaugie\fs90\c&H010A10&\blur1.05}Gankyou
-Dialogue: 0,0:04:52.98,0:04:53.02,Sign,,0,0,0,,{=0}{\pos(570,3.03)\fnaugie\fs90\c&H010A10&\blur1.05}Kukuru
-Dialogue: 0,0:04:53.02,0:04:53.06,Sign,,0,0,0,,{=3}{\pos(942,-6.93)\fnaugie\fs90\c&H010A10&\blur1.05}Marii
-Dialogue: 0,0:04:53.02,0:04:53.06,Sign,,0,0,0,,{=2}{\pos(1694.28,-8.355)\fnaugie\fs90\c&H010A10&\blur1.05}Kigurumi
-Dialogue: 0,0:04:53.02,0:04:53.06,Sign,,0,0,0,,{=1}{\pos(1312.005,-6.93)\fnaugie\fs90\c&H010A10&\blur1.05}Gankyou
-Dialogue: 0,0:04:54.19,0:04:54.23,Sign,,0,0,0,,{=5}{\pos(970.095,1104.03)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
-Dialogue: 0,0:04:54.23,0:04:54.27,Sign,,0,0,0,,{=5}{\pos(970.095,1081.89)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
-Dialogue: 0,0:04:54.27,0:04:54.31,Sign,,0,0,0,,{=5}{\pos(970.08,1061.28)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
-Dialogue: 0,0:04:54.31,0:04:54.35,Sign,,0,0,0,,{=5}{\pos(970.08,1042.23)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
-Dialogue: 0,0:04:54.35,0:04:54.39,Sign,,0,0,0,,{=5}{\pos(970.095,1024.905)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
-Dialogue: 0,0:04:54.39,0:04:54.44,Sign,,0,0,0,,{=5}{\pos(970.08,1009.47)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
-Dialogue: 0,0:04:54.44,0:04:54.48,Sign,,0,0,0,,{=5}{\pos(970.065,996)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
-Dialogue: 0,0:04:54.48,0:04:54.52,Sign,,0,0,0,,{=5}{\pos(970.065,984.54)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
-Dialogue: 0,0:04:54.52,0:04:54.56,Sign,,0,0,0,,{=5}{\pos(970.08,975.405)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
-Dialogue: 0,0:04:54.56,0:04:54.60,Sign,,0,0,0,,{=5}{\pos(970.08,968.64)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
-Dialogue: 0,0:04:54.60,0:04:54.64,Sign,,0,0,0,,{=5}{\pos(970.065,964.455)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
-Dialogue: 0,0:04:54.64,0:04:54.81,Sign,,0,0,0,,{=5}{\pos(970.065,963)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
+Dialogue: 0,0:04:52.81,0:04:52.85,Sign,,0,0,0,,{\pos(183.99,76.005)\fnaugie\fs90\c&H010A10&\blur1.05}Tetora
+Dialogue: 0,0:04:52.81,0:04:52.85,Sign,,0,0,0,,{\pos(942,126)\fnaugie\fs90\c&H010A10&\blur1.05}Marii
+Dialogue: 0,0:04:52.81,0:04:52.85,Sign,,0,0,0,,{\pos(1694.28,124.575)\fnaugie\fs90\c&H010A10&\blur1.05}Kigurumi
+Dialogue: 0,0:04:52.81,0:04:52.85,Sign,,0,0,0,,{\pos(1311.99,126)\fnaugie\fs90\c&H010A10&\blur1.05}Gankyou
+Dialogue: 0,0:04:52.81,0:04:52.85,Sign,,0,0,0,,{\pos(570,106.005)\fnaugie\fs90\c&H010A10&\blur1.05}Kukuru
+Dialogue: 0,0:04:52.85,0:04:52.89,Sign,,0,0,0,,{\pos(183.99,53.4)\fnaugie\fs90\c&H010A10&\blur1.05}Tetora
+Dialogue: 0,0:04:52.85,0:04:52.89,Sign,,0,0,0,,{\pos(942,103.395)\fnaugie\fs90\c&H010A10&\blur1.05}Marii
+Dialogue: 0,0:04:52.85,0:04:52.89,Sign,,0,0,0,,{\pos(1694.28,101.97)\fnaugie\fs90\c&H010A10&\blur1.05}Kigurumi
+Dialogue: 0,0:04:52.85,0:04:52.89,Sign,,0,0,0,,{\pos(1311.99,103.395)\fnaugie\fs90\c&H010A10&\blur1.05}Gankyou
+Dialogue: 0,0:04:52.85,0:04:52.89,Sign,,0,0,0,,{\pos(570,83.4)\fnaugie\fs90\c&H010A10&\blur1.05}Kukuru
+Dialogue: 0,0:04:52.89,0:04:52.93,Sign,,0,0,0,,{\pos(183.99,28.47)\fnaugie\fs90\c&H010A10&\blur1.05}Tetora
+Dialogue: 0,0:04:52.89,0:04:52.93,Sign,,0,0,0,,{\pos(941.985,78.465)\fnaugie\fs90\c&H010A10&\blur1.05}Marii
+Dialogue: 0,0:04:52.89,0:04:52.93,Sign,,0,0,0,,{\pos(1694.265,77.04)\fnaugie\fs90\c&H010A10&\blur1.05}Kigurumi
+Dialogue: 0,0:04:52.89,0:04:52.93,Sign,,0,0,0,,{\pos(1311.99,78.465)\fnaugie\fs90\c&H010A10&\blur1.05}Gankyou
+Dialogue: 0,0:04:52.89,0:04:52.93,Sign,,0,0,0,,{\pos(569.985,58.47)\fnaugie\fs90\c&H010A10&\blur1.05}Kukuru
+Dialogue: 0,0:04:52.93,0:04:52.98,Sign,,0,0,0,,{\pos(184.005,1.56)\fnaugie\fs90\c&H010A10&\blur1.05}Tetora
+Dialogue: 0,0:04:52.93,0:04:52.98,Sign,,0,0,0,,{\pos(942.015,51.555)\fnaugie\fs90\c&H010A10&\blur1.05}Marii
+Dialogue: 0,0:04:52.93,0:04:52.98,Sign,,0,0,0,,{\pos(1694.295,50.13)\fnaugie\fs90\c&H010A10&\blur1.05}Kigurumi
+Dialogue: 0,0:04:52.93,0:04:52.98,Sign,,0,0,0,,{\pos(1312.005,51.555)\fnaugie\fs90\c&H010A10&\blur1.05}Gankyou
+Dialogue: 0,0:04:52.93,0:04:52.98,Sign,,0,0,0,,{\pos(570.015,31.56)\fnaugie\fs90\c&H010A10&\blur1.05}Kukuru
+Dialogue: 0,0:04:52.98,0:04:53.02,Sign,,0,0,0,,{\pos(942,23.04)\fnaugie\fs90\c&H010A10&\blur1.05}Marii
+Dialogue: 0,0:04:52.98,0:04:53.02,Sign,,0,0,0,,{\pos(1694.28,21.615)\fnaugie\fs90\c&H010A10&\blur1.05}Kigurumi
+Dialogue: 0,0:04:52.98,0:04:53.02,Sign,,0,0,0,,{\pos(1311.99,23.04)\fnaugie\fs90\c&H010A10&\blur1.05}Gankyou
+Dialogue: 0,0:04:52.98,0:04:53.02,Sign,,0,0,0,,{\pos(570,3.03)\fnaugie\fs90\c&H010A10&\blur1.05}Kukuru
+Dialogue: 0,0:04:53.02,0:04:53.06,Sign,,0,0,0,,{\pos(942,-6.93)\fnaugie\fs90\c&H010A10&\blur1.05}Marii
+Dialogue: 0,0:04:53.02,0:04:53.06,Sign,,0,0,0,,{\pos(1694.28,-8.355)\fnaugie\fs90\c&H010A10&\blur1.05}Kigurumi
+Dialogue: 0,0:04:53.02,0:04:53.06,Sign,,0,0,0,,{\pos(1312.005,-6.93)\fnaugie\fs90\c&H010A10&\blur1.05}Gankyou
+Dialogue: 0,0:04:54.19,0:04:54.23,Sign,,0,0,0,,{\pos(970.095,1104.03)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
+Dialogue: 0,0:04:54.23,0:04:54.27,Sign,,0,0,0,,{\pos(970.095,1081.89)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
+Dialogue: 0,0:04:54.27,0:04:54.31,Sign,,0,0,0,,{\pos(970.08,1061.28)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
+Dialogue: 0,0:04:54.31,0:04:54.35,Sign,,0,0,0,,{\pos(970.08,1042.23)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
+Dialogue: 0,0:04:54.35,0:04:54.39,Sign,,0,0,0,,{\pos(970.095,1024.905)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
+Dialogue: 0,0:04:54.39,0:04:54.44,Sign,,0,0,0,,{\pos(970.08,1009.47)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
+Dialogue: 0,0:04:54.44,0:04:54.48,Sign,,0,0,0,,{\pos(970.065,996)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
+Dialogue: 0,0:04:54.48,0:04:54.52,Sign,,0,0,0,,{\pos(970.065,984.54)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
+Dialogue: 0,0:04:54.52,0:04:54.56,Sign,,0,0,0,,{\pos(970.08,975.405)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
+Dialogue: 0,0:04:54.56,0:04:54.60,Sign,,0,0,0,,{\pos(970.08,968.64)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
+Dialogue: 0,0:04:54.60,0:04:54.64,Sign,,0,0,0,,{\pos(970.065,964.455)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
+Dialogue: 0,0:04:54.64,0:04:54.81,Sign,,0,0,0,,{\pos(970.065,963)\fnaugie\fs90\c&H010A10&\blur1.2}Loser
 Comment: 0,0:05:14.00,0:05:16.67,Sign,,0,0,0,,{\pos(1251,825)\frz19.24}Missing TL
 Dialogue: 0,0:05:25.30,0:05:29.23,Sign,,0,0,0,,{\an2\pos(87,564)\fax-0.08\fnAlpha54\fs30\b0\c&H22282B&\blur1.2}New Years' Money
 Dialogue: 0,0:05:29.23,0:05:29.73,Sign,,0,0,0,,{\an2\pos(87,564)\fax-0.08\fnAlpha54\fs30\b0\c&H02080B&\blur1.2}N{\c&H050B0E&}e{\c&H080E11&}w{\c&H0B1114&} {\c&H0E1417&}Y{\c&H11171A&}e{\c&H13191C&}a{\c&H161C1F&}r{\c&H191F22&}s{\c&H1C2225&}'{\c&H1F2528&} {\c&H22282B&}Money
@@ -207,13 +207,13 @@ Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\an7\pos(1082,537)\fnGaramond Pr
 Dialogue: 0,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\an7\pos(1173,533)\fnGaramond Premr Pro Smbd Capt\c&HDBE7E8&\blur1.5\p1}m -120 -60 l -58.5 -60 -58.5 -10.5 -120 -10.5
 Dialogue: 1,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\pos(978,494)\fscy110\fnAlegreya Sans Black\fs57\b0\c&H343B3D&\alpha&HD0&\blur4.5}1 {\fs48}Share Certificate
 Dialogue: 2,0:06:48.01,0:06:50.01,Sign,,0,0,0,,{\pos(978,494)\fscy110\fnAlegreya Sans Black\fs57\b0\c&H343B3D&\blur1.65}1 {\fs48}Share Certificate
-Dialogue: 0,0:07:05.45,0:07:05.57,Sign,,0,0,0,,{=77}{\an2\pos(643,962)\fscx103.32\fscy101.34\frz0.2\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
-Dialogue: 0,0:07:05.57,0:07:05.70,Sign,,0,0,0,,{=77}{\an2\pos(699,909)\fscx103.83\fscy101.84\frz0.2\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
-Dialogue: 0,0:07:05.70,0:07:05.82,Sign,,0,0,0,,{=77}{\an2\pos(769,845)\fscx104.43\fscy102.43\frz0.2\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
-Dialogue: 0,0:07:05.82,0:07:05.94,Sign,,0,0,0,,{=77}{\an2\pos(862,878)\fscx103.07\fscy103.07\frz353.7\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
-Dialogue: 0,0:07:05.95,0:07:06.07,Sign,,0,0,0,,{=77}{\an2\pos(918,878)\fscx102\fscy102\frz352.6\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
-Dialogue: 0,0:07:06.07,0:07:06.19,Sign,,0,0,0,,{=77}{\an2\pos(952,885)\fscx101.01\fscy101.01\frz350.4\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
-Dialogue: 0,0:07:06.19,0:07:06.66,Sign,,0,0,0,,{=77}{\an2\pos(978,890)\frz348.8\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
+Dialogue: 0,0:07:05.45,0:07:05.57,Sign,,0,0,0,,{\an2\pos(643,962)\fscx103.32\fscy101.34\frz0.2\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
+Dialogue: 0,0:07:05.57,0:07:05.70,Sign,,0,0,0,,{\an2\pos(699,909)\fscx103.83\fscy101.84\frz0.2\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
+Dialogue: 0,0:07:05.70,0:07:05.82,Sign,,0,0,0,,{\an2\pos(769,845)\fscx104.43\fscy102.43\frz0.2\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
+Dialogue: 0,0:07:05.82,0:07:05.94,Sign,,0,0,0,,{\an2\pos(862,878)\fscx103.07\fscy103.07\frz353.7\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
+Dialogue: 0,0:07:05.95,0:07:06.07,Sign,,0,0,0,,{\an2\pos(918,878)\fscx102\fscy102\frz352.6\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
+Dialogue: 0,0:07:06.07,0:07:06.19,Sign,,0,0,0,,{\an2\pos(952,885)\fscx101.01\fscy101.01\frz350.4\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
+Dialogue: 0,0:07:06.19,0:07:06.66,Sign,,0,0,0,,{\an2\pos(978,890)\frz348.8\fnAlpha54\fs51\b0\c&H141B1F&\blur1.2}New Year's Money
 Dialogue: 0,0:07:06.65,0:07:10.62,Sign,,0,0,0,,{\an2\pos(818,675)\frz357.3\fnAlpha54\fs8.25\b0\c&H141B1F&\blur1.35}New Year's Money
 Dialogue: 0,0:10:48.13,0:10:49.59,Sign,,0,0,0,,{\pos(978,559)\frz0.57\fnAgeo Personal Use Heavy\fs54\fsp4.95\c&H211F23&\blur4.2}Jizodori Shopping Street
 Dialogue: 1,0:10:48.13,0:10:49.59,Sign,,0,0,0,,{\pos(976,556)\frz0.57\fnAgeo Personal Use Heavy\fs54\fsp4.95\c&H313330&\blur1.5}Jizodori Shopping Street
@@ -566,344 +566,298 @@ Dialogue: 3,0:20:03.14,0:20:05.98,Sign,,0,0,0,,{\an7\pos(1033.5,525)\fscx245\fsc
 Dialogue: 4,0:20:03.14,0:20:05.98,Sign,,0,0,0,,{\an7\pos(1017,534)\fscx140\fscy135\fnGaramond Premr Pro Smbd Capt\c&H4A616D&\blur75\clip(m 862.5 1069.5 l 762 1069.5 342 735 348 693 1182.75 98.25 1480.5 704.5)\p1}m -150 -150 b -67 -232 68 -232 150 -150 233 -67 233 68 150 150 69 233 -67 233 -150 150 -232 68 -232 -67 -150 -150
 Dialogue: 5,0:20:03.14,0:20:05.98,Sign,,0,0,0,,{\an4\pos(1038,129)\org(551,92)\frz310.3\frx352\fnCheyenne Hand Bold\fs51\c&H10181B&\1a&HFF&\blur7.5\q2}...{\1a&H00&}I grasped your hot arm \N{\1a&HFF&}....{\1a&H00&}You came out, shaking \N{\1a&HFF&}..{\1a&H00&}    Trembling slightly in your white gown \N{\1a&HFF&}.{\1a&H00&}And I saw your prolonged sadness \N{\1a&HFF&}...{\1a&H00&}In the long corridor \N{\1a&HFF&}..{\1a&H00&}   Where you're walking towards the ring \N{\1a&HFF&}.{\1a&H00&}  You suddenly stopped for no reason \NYou turned around to face me awkwardly \N{\1a&HFF&}.{\1a&H00&}  Showing your fists and smiling a bit lonely \N{\1a&HFF&}...{\1a&H00&} Eventually the ring \N{\1a&HFF&}..{\1a&H00&}And the maelstrom of applause \N{\1a&HFF&}....{\1a&H00&}  Swallowed a single man \N{\1a&HFF&}..{\1a&H00&}(You're the king of Kings) \N{\1a&HFF&}.{\1a&H00&}  Stand! Rise back to your feet again! \N{\1a&HFF&}...{\1a&H00&}Light up the flames of life!
 Dialogue: 6,0:20:03.14,0:20:05.98,Sign,,0,0,0,,{\an4\pos(1038,129)\org(551,92)\frz310.3\frx352\fnCheyenne Hand Bold\fs51\c&H10181B&\1a&HFF&\blur1.05\q2}...{\1a&H00&}I grasped your hot arm \N{\1a&HFF&}....{\1a&H00&}You came out, shaking \N{\1a&HFF&}..{\1a&H00&}    Trembling slightly in your white gown \N{\1a&HFF&}.{\1a&H00&}And I saw your prolonged sadness \N{\1a&HFF&}...{\1a&H00&}In the long corridor \N{\1a&HFF&}..{\1a&H00&}   Where you're walking towards the ring \N{\1a&HFF&}.{\1a&H00&}  You suddenly stopped for no reason \NYou turned around to face me awkwardly \N{\1a&HFF&}.{\1a&H00&}  Showing your fists and smiling a bit lonely \N{\1a&HFF&}...{\1a&H00&} Eventually the ring \N{\1a&HFF&}..{\1a&H00&}And the maelstrom of applause \N{\1a&HFF&}....{\1a&H00&}  Swallowed a single man \N{\1a&HFF&}..{\1a&H00&}(You're the king of Kings) \N{\1a&HFF&}.{\1a&H00&}  Stand! Rise back to your feet again! \N{\1a&HFF&}...{\1a&H00&}Light up the flames of life! {## Song is "Champion" by Alice. Lyrics are taken from Judas' Sora no Otoshimono release and very, very mildly edited. Further editing would probably be a good idea.}
-Dialogue: 2,0:20:10.31,0:20:10.35,Sign,,0,0,0,,{=13}{\an7\pos(-1579.02,-1000.89)\fscx242.7\fscy242.7\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur2.91\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:10.35,0:20:10.39,Sign,,0,0,0,,{=13}{\an7\pos(-912.045,-599.01)\fscx178.8\fscy178.8\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur2.15\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:10.35,0:20:10.39,Sign,,0,0,0,,{=12}{\pos(1902.45,-166.815)\fscx178.8\fscy178.8\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur2.15}DECIDED
-Dialogue: 2,0:20:10.39,0:20:10.43,Sign,,0,0,0,,{=13}{\an7\pos(-522.465,-364.275)\fscx141.48\fscy141.48\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.7\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:10.39,0:20:10.43,Sign,,0,0,0,,{=12}{\pos(1704.6,-22.275)\fscx141.48\fscy141.48\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.7}DECIDED
-Dialogue: 2,0:20:10.43,0:20:10.48,Sign,,0,0,0,,{=13}{\an7\pos(-268.44,-211.005)\fscx117.12\fscy117.12\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.41\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:10.43,0:20:10.48,Sign,,0,0,0,,{=12}{\pos(1575.18,72.105)\fscx117.12\fscy117.12\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.41}DECIDED
-Dialogue: 2,0:20:10.48,0:20:10.52,Sign,,0,0,0,,{=13}{\an7\pos(-90.3,-80.31)\fscx100.02\fscy100.02\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:10.48,0:20:10.52,Sign,,0,0,0,,{=12}{\pos(1484.01,161.445)\fscx100.02\fscy100.02\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
-Dialogue: 2,0:20:10.52,0:20:10.56,Sign,,0,0,0,,{=13}{\an7\pos(-90.405,-121.665)\fscx100.02\fscy100.02\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:10.52,0:20:10.56,Sign,,0,0,0,,{=12}{\pos(1484.055,120.105)\fscx100.02\fscy100.02\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
-Dialogue: 2,0:20:10.56,0:20:10.60,Sign,,0,0,0,,{=13}{\an7\pos(-90.375,-89.43)\fscx100.02\fscy100.02\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:10.56,0:20:10.60,Sign,,0,0,0,,{=12}{\pos(1484.025,152.34)\fscx100.02\fscy100.02\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
-Dialogue: 2,0:20:10.60,0:20:10.64,Sign,,0,0,0,,{=13}{\an7\pos(-90.39,-112.38)\fscx100.02\fscy100.02\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:10.60,0:20:10.64,Sign,,0,0,0,,{=12}{\pos(1484.04,129.39)\fscx100.02\fscy100.02\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
-Dialogue: 2,0:20:10.64,0:20:10.68,Sign,,0,0,0,,{=13}{\an7\pos(-90.33,-98.61)\fscx100.02\fscy100.02\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:10.64,0:20:10.68,Sign,,0,0,0,,{=12}{\pos(1484.025,143.145)\fscx100.02\fscy100.02\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
-Dialogue: 2,0:20:10.68,0:20:10.73,Sign,,0,0,0,,{=13}{\an7\pos(-90.165,-103.14)\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:10.68,0:20:10.73,Sign,,0,0,0,,{=12}{\pos(1483.95,138.6)\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
-Dialogue: 2,0:20:10.73,0:20:10.93,Sign,,0,0,0,,{=13}{\an7\pos(-90.135,-103.125)\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:10.73,0:20:10.93,Sign,,0,0,0,,{=12}{\pos(1483.935,138.6)\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
+Dialogue: 2,0:20:10.31,0:20:10.35,Sign,,0,0,0,,{\an7\pos(-1579.02,-1000.89)\fscx242.7\fscy242.7\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur2.91\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:10.35,0:20:10.39,Sign,,0,0,0,,{\an7\pos(-912.045,-599.01)\fscx178.8\fscy178.8\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur2.15\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:10.35,0:20:10.39,Sign,,0,0,0,,{\pos(1902.45,-166.815)\fscx178.8\fscy178.8\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur2.15}DECIDED
+Dialogue: 2,0:20:10.39,0:20:10.43,Sign,,0,0,0,,{\an7\pos(-522.465,-364.275)\fscx141.48\fscy141.48\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.7\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:10.39,0:20:10.43,Sign,,0,0,0,,{\pos(1704.6,-22.275)\fscx141.48\fscy141.48\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.7}DECIDED
+Dialogue: 2,0:20:10.43,0:20:10.48,Sign,,0,0,0,,{\an7\pos(-268.44,-211.005)\fscx117.12\fscy117.12\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.41\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:10.43,0:20:10.48,Sign,,0,0,0,,{\pos(1575.18,72.105)\fscx117.12\fscy117.12\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.41}DECIDED
+Dialogue: 2,0:20:10.48,0:20:10.52,Sign,,0,0,0,,{\an7\pos(-90.3,-80.31)\fscx100.02\fscy100.02\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:10.48,0:20:10.52,Sign,,0,0,0,,{\pos(1484.01,161.445)\fscx100.02\fscy100.02\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
+Dialogue: 2,0:20:10.52,0:20:10.56,Sign,,0,0,0,,{\an7\pos(-90.405,-121.665)\fscx100.02\fscy100.02\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:10.52,0:20:10.56,Sign,,0,0,0,,{\pos(1484.055,120.105)\fscx100.02\fscy100.02\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
+Dialogue: 2,0:20:10.56,0:20:10.60,Sign,,0,0,0,,{\an7\pos(-90.375,-89.43)\fscx100.02\fscy100.02\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:10.56,0:20:10.60,Sign,,0,0,0,,{\pos(1484.025,152.34)\fscx100.02\fscy100.02\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
+Dialogue: 2,0:20:10.60,0:20:10.64,Sign,,0,0,0,,{\an7\pos(-90.39,-112.38)\fscx100.02\fscy100.02\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:10.60,0:20:10.64,Sign,,0,0,0,,{\pos(1484.04,129.39)\fscx100.02\fscy100.02\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
+Dialogue: 2,0:20:10.64,0:20:10.68,Sign,,0,0,0,,{\an7\pos(-90.33,-98.61)\fscx100.02\fscy100.02\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:10.64,0:20:10.68,Sign,,0,0,0,,{\pos(1484.025,143.145)\fscx100.02\fscy100.02\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
+Dialogue: 2,0:20:10.68,0:20:10.73,Sign,,0,0,0,,{\an7\pos(-90.165,-103.14)\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:10.68,0:20:10.73,Sign,,0,0,0,,{\pos(1483.95,138.6)\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
+Dialogue: 2,0:20:10.73,0:20:10.93,Sign,,0,0,0,,{\an7\pos(-90.135,-103.125)\fnGaramond Premr Pro Smbd Capt\1c&H03086C&\blur1.2\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:10.73,0:20:10.93,Sign,,0,0,0,,{\pos(1483.935,138.6)\frz37.54\fnFx勘亭流江戸文字\fs120\b0\c&H03086C&\3c&H03086B&\blur1.2}DECIDED
 Dialogue: 0,0:20:10.94,0:20:12.81,Sign,,0,0,0,,{\pos(509.595,415.83)\fnCheap Ink killed my Printer\fs135\b0\bord2.25\c&H031C5C&\3c&H031C5C&\blur1.35}June Glooms
 Dialogue: 1,0:20:10.94,0:20:12.81,Sign,,0,0,0,,{\pos(509.595,415.83)\fnCheap Ink killed my Printer\fs135\b0\c&H010518&\4a&HFF&\blur1.35}June Glooms
-Dialogue: 2,0:20:40.51,0:20:40.55,Sign,,0,0,0,,{=17}{\an7\pos(-5076.72,-650.58)\fscx328.59\fscy328.59\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur4.44\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:40.51,0:20:40.55,Sign,,0,0,0,,{=16}{\pos(145.035,-276.18)\fscx328.59\fscy328.59\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur4.44}DECIDED
-Dialogue: 2,0:20:40.55,0:20:40.59,Sign,,0,0,0,,{=17}{\an7\pos(-2958.15,-221.28)\fscx212.48\fscy212.48\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur2.87\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:40.55,0:20:40.59,Sign,,0,0,0,,{=16}{\pos(418.455,20.835)\fscx212.48\fscy212.48\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur2.87}DECIDED
-Dialogue: 2,0:20:40.59,0:20:40.63,Sign,,0,0,0,,{=17}{\an7\pos(-1887.615,-13.395)\fscx154.44\fscy154.44\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur2.08\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:40.59,0:20:40.63,Sign,,0,0,0,,{=16}{\pos(566.67,162.585)\fscx154.44\fscy154.44\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur2.08}DECIDED
-Dialogue: 2,0:20:40.63,0:20:40.67,Sign,,0,0,0,,{=17}{\an7\pos(-1276.41,105.255)\fscx121.31\fscy121.31\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.64\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:40.63,0:20:40.67,Sign,,0,0,0,,{=16}{\pos(651.315,243.48)\fscx121.31\fscy121.31\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.64}DECIDED
-Dialogue: 2,0:20:40.67,0:20:40.71,Sign,,0,0,0,,{=17}{\an7\pos(-883.05,206.145)\fscx99.99\fscy99.99\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:40.67,0:20:40.71,Sign,,0,0,0,,{=16}{\pos(705.855,320.085)\fscx99.99\fscy99.99\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
-Dialogue: 2,0:20:40.71,0:20:40.76,Sign,,0,0,0,,{=17}{\an7\pos(-883.305,163.08)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:40.71,0:20:40.76,Sign,,0,0,0,,{=16}{\pos(705.795,277.02)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
-Dialogue: 2,0:20:40.76,0:20:40.80,Sign,,0,0,0,,{=17}{\an7\pos(-883.23,198.3)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:40.76,0:20:40.80,Sign,,0,0,0,,{=16}{\pos(705.81,312.225)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
-Dialogue: 2,0:20:40.80,0:20:40.84,Sign,,0,0,0,,{=17}{\an7\pos(-883.29,170.94)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:40.80,0:20:40.84,Sign,,0,0,0,,{=16}{\pos(705.795,284.88)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
-Dialogue: 2,0:20:40.84,0:20:40.88,Sign,,0,0,0,,{=17}{\an7\pos(-883.2,190.455)\fscx99.99\fscy99.99\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:40.84,0:20:40.88,Sign,,0,0,0,,{=16}{\pos(705.825,304.395)\fscx99.99\fscy99.99\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
-Dialogue: 2,0:20:40.88,0:20:40.92,Sign,,0,0,0,,{=17}{\an7\pos(-883.35,178.755)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:40.88,0:20:40.92,Sign,,0,0,0,,{=16}{\pos(705.795,292.695)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
-Dialogue: 2,0:20:40.92,0:20:40.96,Sign,,0,0,0,,{=17}{\an7\pos(-883.215,182.625)\fscx99.99\fscy99.99\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:40.92,0:20:40.96,Sign,,0,0,0,,{=16}{\pos(705.81,296.565)\fscx99.99\fscy99.99\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
-Dialogue: 2,0:20:40.96,0:20:41.01,Sign,,0,0,0,,{=17}{\an7\pos(-883.245,182.625)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:40.96,0:20:41.01,Sign,,0,0,0,,{=16}{\pos(705.81,296.565)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
-Dialogue: 2,0:20:41.01,0:20:41.05,Sign,,0,0,0,,{=17}{\an7\pos(-883.29,182.61)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:41.01,0:20:41.09,Sign,,0,0,0,,{=16}{\pos(705.81,296.55)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
-Dialogue: 2,0:20:41.05,0:20:41.21,Sign,,0,0,0,,{=17}{\an7\pos(-883.32,182.61)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
-Dialogue: 2,0:20:41.09,0:20:41.21,Sign,,0,0,0,,{=16}{\pos(705.795,296.55)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
+Dialogue: 2,0:20:40.51,0:20:40.55,Sign,,0,0,0,,{\an7\pos(-5076.72,-650.58)\fscx328.59\fscy328.59\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur4.44\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:40.51,0:20:40.55,Sign,,0,0,0,,{\pos(145.035,-276.18)\fscx328.59\fscy328.59\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur4.44}DECIDED
+Dialogue: 2,0:20:40.55,0:20:40.59,Sign,,0,0,0,,{\an7\pos(-2958.15,-221.28)\fscx212.48\fscy212.48\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur2.87\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:40.55,0:20:40.59,Sign,,0,0,0,,{\pos(418.455,20.835)\fscx212.48\fscy212.48\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur2.87}DECIDED
+Dialogue: 2,0:20:40.59,0:20:40.63,Sign,,0,0,0,,{\an7\pos(-1887.615,-13.395)\fscx154.44\fscy154.44\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur2.08\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:40.59,0:20:40.63,Sign,,0,0,0,,{\pos(566.67,162.585)\fscx154.44\fscy154.44\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur2.08}DECIDED
+Dialogue: 2,0:20:40.63,0:20:40.67,Sign,,0,0,0,,{\an7\pos(-1276.41,105.255)\fscx121.31\fscy121.31\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.64\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:40.63,0:20:40.67,Sign,,0,0,0,,{\pos(651.315,243.48)\fscx121.31\fscy121.31\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.64}DECIDED
+Dialogue: 2,0:20:40.67,0:20:40.71,Sign,,0,0,0,,{\an7\pos(-883.05,206.145)\fscx99.99\fscy99.99\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:40.67,0:20:40.71,Sign,,0,0,0,,{\pos(705.855,320.085)\fscx99.99\fscy99.99\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
+Dialogue: 2,0:20:40.71,0:20:40.76,Sign,,0,0,0,,{\an7\pos(-883.305,163.08)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:40.71,0:20:40.76,Sign,,0,0,0,,{\pos(705.795,277.02)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
+Dialogue: 2,0:20:40.76,0:20:40.80,Sign,,0,0,0,,{\an7\pos(-883.23,198.3)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:40.76,0:20:40.80,Sign,,0,0,0,,{\pos(705.81,312.225)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
+Dialogue: 2,0:20:40.80,0:20:40.84,Sign,,0,0,0,,{\an7\pos(-883.29,170.94)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:40.80,0:20:40.84,Sign,,0,0,0,,{\pos(705.795,284.88)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
+Dialogue: 2,0:20:40.84,0:20:40.88,Sign,,0,0,0,,{\an7\pos(-883.2,190.455)\fscx99.99\fscy99.99\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:40.84,0:20:40.88,Sign,,0,0,0,,{\pos(705.825,304.395)\fscx99.99\fscy99.99\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
+Dialogue: 2,0:20:40.88,0:20:40.92,Sign,,0,0,0,,{\an7\pos(-883.35,178.755)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:40.88,0:20:40.92,Sign,,0,0,0,,{\pos(705.795,292.695)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
+Dialogue: 2,0:20:40.92,0:20:40.96,Sign,,0,0,0,,{\an7\pos(-883.215,182.625)\fscx99.99\fscy99.99\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:40.92,0:20:40.96,Sign,,0,0,0,,{\pos(705.81,296.565)\fscx99.99\fscy99.99\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
+Dialogue: 2,0:20:40.96,0:20:41.01,Sign,,0,0,0,,{\an7\pos(-883.245,182.625)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:40.96,0:20:41.01,Sign,,0,0,0,,{\pos(705.81,296.565)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
+Dialogue: 2,0:20:41.01,0:20:41.05,Sign,,0,0,0,,{\an7\pos(-883.29,182.61)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:41.01,0:20:41.09,Sign,,0,0,0,,{\pos(705.81,296.55)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
+Dialogue: 2,0:20:41.05,0:20:41.21,Sign,,0,0,0,,{\an7\pos(-883.32,182.61)\frz4.766\fnGaramond Premr Pro Smbd Capt\1c&H03086B&\blur1.35\p1}m 1459 471 b 1454 471 1452 467 1450 464 1420 426 1391 387 1362 348 1351 333 1340 319 1329 304 1322 296 1323 293 1331 287 1440 205 1548 123 1657 42 1665 35 1673 29 1682 23 1691 16 1693 16 1699 25 1736 74 1773 123 1811 173 1814 177 1817 181 1821 186 1826 193 1826 196 1818 201 1786 226 1754 250 1721 274 1636 339 1552 403 1467 467 1464 469 1462 471 1459 471 m 1458 464 b 1578 373 1697 283 1816 193 1774 137 1732 81 1690 26 1570 116 1451 206 1332 296 1375 352 1416 408 1458 464
+Dialogue: 2,0:20:41.09,0:20:41.21,Sign,,0,0,0,,{\pos(705.795,296.55)\frz42.5\fnFx勘亭流江戸文字\fs120\b0\c&H03086B&\3c&H03086B&\blur1.35}DECIDED
 Dialogue: 0,0:20:41.21,0:20:43.18,Sign,,0,0,0,,{\pos(922.5,429)\fnCheap Ink killed my Printer\fs135\b0\bord2.25\c&H031C5C&\3c&H031C5C&\blur1.35}September Sorrows
 Dialogue: 1,0:20:41.21,0:20:43.18,Sign,,0,0,0,,{\pos(922.5,429)\fnCheap Ink killed my Printer\fs135\b0\c&H010518&\4a&HFF&\blur1.35}September Sorrows
 Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(1038.4,321)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JAN
 Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(218.4,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
 Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(797.4,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
 Dialogue: 0,0:20:49.02,0:20:50.27,Sign,,0,0,0,,{\pos(1643.4,829.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Snowball fights
-Dialogue: 0,0:20:50.27,0:20:50.31,Sign,,0,0,0,,{=33}{\pos(1070.9,321)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JAN
-Dialogue: 0,0:20:50.27,0:20:50.31,Sign,,0,0,0,,{=32}{\pos(250.9,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
-Dialogue: 0,0:20:50.27,0:20:50.31,Sign,,0,0,0,,{=31}{\pos(829.9,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
-Dialogue: 0,0:20:50.27,0:20:50.31,Sign,,0,0,0,,{=30}{\pos(1675.8,829.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Snowball fights
-Dialogue: 0,0:20:50.31,0:20:50.35,Sign,,0,0,0,,{=33}{\pos(1161.1,321)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JAN
-Dialogue: 0,0:20:50.31,0:20:50.35,Sign,,0,0,0,,{=32}{\pos(341.2,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
-Dialogue: 0,0:20:50.31,0:20:50.35,Sign,,0,0,0,,{=31}{\pos(920.1,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
-Dialogue: 0,0:20:50.31,0:20:50.35,Sign,,0,0,0,,{=30}{\pos(1766.1,829.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Snowball fights
-Dialogue: 0,0:20:50.35,0:20:50.39,Sign,,0,0,0,,{=33}{\pos(1298.8,321)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JAN
-Dialogue: 0,0:20:50.35,0:20:50.39,Sign,,0,0,0,,{=32}{\pos(478.8,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
-Dialogue: 0,0:20:50.35,0:20:50.39,Sign,,0,0,0,,{=31}{\pos(1057.8,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
-Dialogue: 0,0:20:50.35,0:20:50.39,Sign,,0,0,0,,{=30}{\pos(1903.8,829.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Snowball fights
-Dialogue: 0,0:20:50.35,0:20:50.39,Sign,,0,0,0,,{=36}{\pos(87.1,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
-Dialogue: 0,0:20:50.39,0:20:50.43,Sign,,0,0,0,,{=33}{\pos(1473.3,321)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JAN
-Dialogue: 0,0:20:50.39,0:20:50.43,Sign,,0,0,0,,{=32}{\pos(653.3,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
-Dialogue: 0,0:20:50.39,0:20:50.43,Sign,,0,0,0,,{=31}{\pos(1232.3,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
-Dialogue: 0,0:20:50.39,0:20:50.43,Sign,,0,0,0,,{=30}{\pos(2078.2,829.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Snowball fights
-Dialogue: 0,0:20:50.39,0:20:50.43,Sign,,0,0,0,,{=36}{\pos(261.5,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
-Dialogue: 0,0:20:50.43,0:20:50.47,Sign,,0,0,0,,{=33}{\pos(1674.1,321)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JAN
-Dialogue: 0,0:20:50.43,0:20:50.47,Sign,,0,0,0,,{=32}{\pos(854.1,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
-Dialogue: 0,0:20:50.43,0:20:50.47,Sign,,0,0,0,,{=31}{\pos(1433.1,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
-Dialogue: 0,0:20:50.43,0:20:50.47,Sign,,0,0,0,,{=37}{\pos(-104.4,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:50.43,0:20:50.47,Sign,,0,0,0,,{=36}{\pos(462.3,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
-Dialogue: 0,0:20:50.47,0:20:50.52,Sign,,0,0,0,,{=33}{\pos(1890.6,321)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JAN
-Dialogue: 0,0:20:50.47,0:20:50.52,Sign,,0,0,0,,{=32}{\pos(1070.6,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
-Dialogue: 0,0:20:50.47,0:20:50.52,Sign,,0,0,0,,{=31}{\pos(1649.6,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
-Dialogue: 0,0:20:50.47,0:20:50.52,Sign,,0,0,0,,{=37}{\pos(112.2,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:50.47,0:20:50.52,Sign,,0,0,0,,{=36}{\pos(678.8,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
-Dialogue: 0,0:20:50.52,0:20:50.56,Sign,,0,0,0,,{=32}{\pos(1292.3,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
-Dialogue: 0,0:20:50.52,0:20:50.56,Sign,,0,0,0,,{=31}{\pos(1871.3,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
-Dialogue: 0,0:20:50.52,0:20:50.56,Sign,,0,0,0,,{=37}{\pos(333.9,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:50.52,0:20:50.56,Sign,,0,0,0,,{=36}{\pos(900.6,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
-Dialogue: 0,0:20:50.56,0:20:50.60,Sign,,0,0,0,,{=32}{\pos(1508.9,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
-Dialogue: 0,0:20:50.56,0:20:50.60,Sign,,0,0,0,,{=37}{\pos(550.5,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:50.56,0:20:50.60,Sign,,0,0,0,,{=36}{\pos(1117.1,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
-Dialogue: 0,0:20:50.60,0:20:50.64,Sign,,0,0,0,,{=32}{\pos(1709.7,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
-Dialogue: 0,0:20:50.60,0:20:50.64,Sign,,0,0,0,,{=37}{\pos(751.2,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:50.60,0:20:50.64,Sign,,0,0,0,,{=36}{\pos(1317.9,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
-Dialogue: 0,0:20:50.60,0:20:50.64,Sign,,0,0,0,,{=34}{\pos(-139.4,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:50.64,0:20:50.68,Sign,,0,0,0,,{=32}{\pos(1884.1,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
-Dialogue: 0,0:20:50.64,0:20:50.68,Sign,,0,0,0,,{=37}{\pos(925.7,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:50.64,0:20:50.68,Sign,,0,0,0,,{=36}{\pos(1492.3,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
-Dialogue: 0,0:20:50.64,0:20:50.68,Sign,,0,0,0,,{=35}{\pos(-42.2,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:50.64,0:20:50.68,Sign,,0,0,0,,{=34}{\pos(35,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:50.68,0:20:50.72,Sign,,0,0,0,,{=37}{\pos(1063.3,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:50.68,0:20:50.72,Sign,,0,0,0,,{=36}{\pos(1630,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
-Dialogue: 0,0:20:50.68,0:20:50.72,Sign,,0,0,0,,{=35}{\pos(95.4,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:50.68,0:20:50.72,Sign,,0,0,0,,{=34}{\pos(172.7,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:50.72,0:20:50.77,Sign,,0,0,0,,{=37}{\pos(1153.6,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:50.72,0:20:50.77,Sign,,0,0,0,,{=36}{\pos(1720.3,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
-Dialogue: 0,0:20:50.72,0:20:50.77,Sign,,0,0,0,,{=35}{\pos(185.8,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:50.72,0:20:50.77,Sign,,0,0,0,,{=34}{\pos(263,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:50.77,0:20:52.02,Sign,,0,0,0,,{=37}{\pos(1186,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:50.77,0:20:52.02,Sign,,0,0,0,,{=36}{\pos(1752.7,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
-Dialogue: 0,0:20:50.77,0:20:52.02,Sign,,0,0,0,,{=35}{\pos(218.2,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:50.77,0:20:52.02,Sign,,0,0,0,,{=34}{\pos(295.4,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:52.02,0:20:52.06,Sign,,0,0,0,,{=41}{\pos(1218.6,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:52.02,0:20:52.06,Sign,,0,0,0,,{=40}{\pos(1785.2,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
-Dialogue: 0,0:20:52.02,0:20:52.06,Sign,,0,0,0,,{=39}{\pos(250.7,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:52.02,0:20:52.06,Sign,,0,0,0,,{=38}{\pos(327.9,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:52.06,0:20:52.10,Sign,,0,0,0,,{=41}{\pos(1308.9,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:52.06,0:20:52.10,Sign,,0,0,0,,{=40}{\pos(1875.5,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
-Dialogue: 0,0:20:52.06,0:20:52.10,Sign,,0,0,0,,{=39}{\pos(341,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:52.06,0:20:52.10,Sign,,0,0,0,,{=38}{\pos(418.2,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:52.10,0:20:52.14,Sign,,0,0,0,,{=41}{\pos(1446.4,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:52.10,0:20:52.14,Sign,,0,0,0,,{=39}{\pos(478.5,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:52.10,0:20:52.14,Sign,,0,0,0,,{=38}{\pos(555.8,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:52.10,0:20:52.14,Sign,,0,0,0,,{=52}{\pos(37.4,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:52.14,0:20:52.18,Sign,,0,0,0,,{=41}{\pos(1620.9,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:52.14,0:20:52.18,Sign,,0,0,0,,{=39}{\pos(653,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:52.14,0:20:52.18,Sign,,0,0,0,,{=38}{\pos(730.2,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:52.14,0:20:52.18,Sign,,0,0,0,,{=52}{\pos(211.9,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{=41}{\pos(1821.7,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{=39}{\pos(853.8,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{=38}{\pos(931,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{=52}{\pos(412.7,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{=50}{\pos(-4.9,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{=41}{\pos(2038.2,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
-Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{=39}{\pos(1070.4,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{=38}{\pos(1147.6,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{=52}{\pos(629.2,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{=50}{\pos(211.6,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:52.27,0:20:52.31,Sign,,0,0,0,,{=39}{\pos(1292.1,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:52.27,0:20:52.31,Sign,,0,0,0,,{=38}{\pos(1369.3,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:52.27,0:20:52.31,Sign,,0,0,0,,{=52}{\pos(851,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:52.27,0:20:52.31,Sign,,0,0,0,,{=50}{\pos(433.4,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{=39}{\pos(1508.6,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{=38}{\pos(1585.8,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{=53}{\pos(12.7,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{=52}{\pos(1067.5,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{=50}{\pos(649.9,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{=39}{\pos(1709.4,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{=38}{\pos(1786.7,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{=53}{\pos(213.6,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{=52}{\pos(1268.4,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{=50}{\pos(850.7,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{=39}{\pos(1883.9,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
-Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{=38}{\pos(1961.1,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
-Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{=53}{\pos(388,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{=52}{\pos(1442.8,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{=51}{\pos(-43.8,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{=50}{\pos(1025.1,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:52.43,0:20:52.48,Sign,,0,0,0,,{=53}{\pos(525.6,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:52.43,0:20:52.48,Sign,,0,0,0,,{=52}{\pos(1580.4,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:52.43,0:20:52.48,Sign,,0,0,0,,{=51}{\pos(93.9,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:52.43,0:20:52.48,Sign,,0,0,0,,{=50}{\pos(1162.8,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:52.48,0:20:52.52,Sign,,0,0,0,,{=53}{\pos(615.9,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:52.48,0:20:52.52,Sign,,0,0,0,,{=52}{\pos(1670.7,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:52.48,0:20:52.52,Sign,,0,0,0,,{=51}{\pos(184.1,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:52.48,0:20:52.52,Sign,,0,0,0,,{=50}{\pos(1253,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:52.52,0:20:53.77,Sign,,0,0,0,,{=53}{\pos(648.3,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:52.52,0:20:53.77,Sign,,0,0,0,,{=52}{\pos(1703.1,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:52.52,0:20:53.77,Sign,,0,0,0,,{=51}{\pos(216.6,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:52.52,0:20:53.77,Sign,,0,0,0,,{=50}{\pos(1285.5,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:53.77,0:20:53.81,Sign,,0,0,0,,{=57}{\pos(680.8,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:53.77,0:20:53.81,Sign,,0,0,0,,{=56}{\pos(1735.6,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:53.77,0:20:53.81,Sign,,0,0,0,,{=55}{\pos(249,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:53.77,0:20:53.81,Sign,,0,0,0,,{=54}{\pos(1317.9,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:53.81,0:20:53.85,Sign,,0,0,0,,{=57}{\pos(771,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:53.81,0:20:53.85,Sign,,0,0,0,,{=56}{\pos(1825.8,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:53.81,0:20:53.85,Sign,,0,0,0,,{=55}{\pos(339.3,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:53.81,0:20:53.85,Sign,,0,0,0,,{=54}{\pos(1408.2,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{=57}{\pos(908.7,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{=56}{\pos(1963.5,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
-Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{=55}{\pos(476.9,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{=54}{\pos(1545.8,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{=57}{\pos(1083.1,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{=55}{\pos(651.4,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{=54}{\pos(1720.3,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{=63}{\pos(-57.5,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{=57}{\pos(1284,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{=55}{\pos(852.2,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{=54}{\pos(1921.1,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
-Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{=63}{\pos(143.4,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{=57}{\pos(1500.4,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{=55}{\pos(1068.7,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{=66}{\pos(-19.5,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{=63}{\pos(359.8,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{=57}{\pos(1722.3,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{=55}{\pos(1290.5,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{=66}{\pos(202.4,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{=63}{\pos(581.7,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{=57}{\pos(1938.7,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
-Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{=55}{\pos(1507,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{=66}{\pos(418.8,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{=63}{\pos(798.1,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{=55}{\pos(1707.8,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{=66}{\pos(619.7,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{=63}{\pos(999,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=55}{\pos(1882.2,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
-Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=66}{\pos(794.1,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=65}{\pos(-87,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=64}{\pos(-87,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{=63}{\pos(1173.4,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{=67}{\pos(50.2,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{=66}{\pos(931.7,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{=65}{\pos(50.7,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{=64}{\pos(50.7,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{=63}{\pos(1311,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{=67}{\pos(140.6,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{=66}{\pos(1022.1,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{=65}{\pos(141.1,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{=64}{\pos(141.1,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{=63}{\pos(1401.4,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:54.27,0:20:54.31,Sign,,0,0,0,,{=67}{\pos(172.9,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:54.27,0:20:54.35,Sign,,0,0,0,,{=66}{\pos(1054.4,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:54.27,0:20:54.35,Sign,,0,0,0,,{=65}{\pos(173.4,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:54.27,0:20:54.35,Sign,,0,0,0,,{=64}{\pos(173.4,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:54.27,0:20:54.35,Sign,,0,0,0,,{=63}{\pos(1433.7,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:54.31,0:20:55.52,Sign,,0,0,0,,{=67}{\pos(172.9,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:50.27,0:20:50.31,Sign,,0,0,0,,{\pos(1070.9,321)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JAN
+Dialogue: 0,0:20:50.27,0:20:50.31,Sign,,0,0,0,,{\pos(250.9,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
+Dialogue: 0,0:20:50.27,0:20:50.31,Sign,,0,0,0,,{\pos(829.9,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
+Dialogue: 0,0:20:50.27,0:20:50.31,Sign,,0,0,0,,{\pos(1675.8,829.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Snowball fights
+Dialogue: 0,0:20:50.31,0:20:50.35,Sign,,0,0,0,,{\pos(1161.1,321)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JAN
+Dialogue: 0,0:20:50.31,0:20:50.35,Sign,,0,0,0,,{\pos(341.2,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
+Dialogue: 0,0:20:50.31,0:20:50.35,Sign,,0,0,0,,{\pos(920.1,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
+Dialogue: 0,0:20:50.31,0:20:50.35,Sign,,0,0,0,,{\pos(1766.1,829.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Snowball fights
+Dialogue: 0,0:20:50.35,0:20:50.39,Sign,,0,0,0,,{\pos(1298.8,321)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JAN
+Dialogue: 0,0:20:50.35,0:20:50.39,Sign,,0,0,0,,{\pos(478.8,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
+Dialogue: 0,0:20:50.35,0:20:50.39,Sign,,0,0,0,,{\pos(1057.8,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
+Dialogue: 0,0:20:50.35,0:20:50.39,Sign,,0,0,0,,{\pos(1903.8,829.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Snowball fights
+Dialogue: 0,0:20:50.35,0:20:50.39,Sign,,0,0,0,,{\pos(87.1,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
+Dialogue: 0,0:20:50.39,0:20:50.43,Sign,,0,0,0,,{\pos(1473.3,321)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JAN
+Dialogue: 0,0:20:50.39,0:20:50.43,Sign,,0,0,0,,{\pos(653.3,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
+Dialogue: 0,0:20:50.39,0:20:50.43,Sign,,0,0,0,,{\pos(1232.3,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
+Dialogue: 0,0:20:50.39,0:20:50.43,Sign,,0,0,0,,{\pos(2078.2,829.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Snowball fights
+Dialogue: 0,0:20:50.39,0:20:50.43,Sign,,0,0,0,,{\pos(261.5,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
+Dialogue: 0,0:20:50.43,0:20:50.47,Sign,,0,0,0,,{\pos(1674.1,321)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JAN
+Dialogue: 0,0:20:50.43,0:20:50.47,Sign,,0,0,0,,{\pos(854.1,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
+Dialogue: 0,0:20:50.43,0:20:50.47,Sign,,0,0,0,,{\pos(1433.1,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
+Dialogue: 0,0:20:50.43,0:20:50.47,Sign,,0,0,0,,{\pos(-104.4,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:50.43,0:20:50.47,Sign,,0,0,0,,{\pos(462.3,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
+Dialogue: 0,0:20:50.47,0:20:50.52,Sign,,0,0,0,,{\pos(1890.6,321)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JAN
+Dialogue: 0,0:20:50.47,0:20:50.52,Sign,,0,0,0,,{\pos(1070.6,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
+Dialogue: 0,0:20:50.47,0:20:50.52,Sign,,0,0,0,,{\pos(1649.6,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
+Dialogue: 0,0:20:50.47,0:20:50.52,Sign,,0,0,0,,{\pos(112.2,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:50.47,0:20:50.52,Sign,,0,0,0,,{\pos(678.8,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
+Dialogue: 0,0:20:50.52,0:20:50.56,Sign,,0,0,0,,{\pos(1292.3,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
+Dialogue: 0,0:20:50.52,0:20:50.56,Sign,,0,0,0,,{\pos(1871.3,860.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Chocolate
+Dialogue: 0,0:20:50.52,0:20:50.56,Sign,,0,0,0,,{\pos(333.9,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:50.52,0:20:50.56,Sign,,0,0,0,,{\pos(900.6,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
+Dialogue: 0,0:20:50.56,0:20:50.60,Sign,,0,0,0,,{\pos(1508.9,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
+Dialogue: 0,0:20:50.56,0:20:50.60,Sign,,0,0,0,,{\pos(550.5,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:50.56,0:20:50.60,Sign,,0,0,0,,{\pos(1117.1,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
+Dialogue: 0,0:20:50.60,0:20:50.64,Sign,,0,0,0,,{\pos(1709.7,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
+Dialogue: 0,0:20:50.60,0:20:50.64,Sign,,0,0,0,,{\pos(751.2,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:50.60,0:20:50.64,Sign,,0,0,0,,{\pos(1317.9,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
+Dialogue: 0,0:20:50.60,0:20:50.64,Sign,,0,0,0,,{\pos(-139.4,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:50.64,0:20:50.68,Sign,,0,0,0,,{\pos(1884.1,747)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}FEB
+Dialogue: 0,0:20:50.64,0:20:50.68,Sign,,0,0,0,,{\pos(925.7,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:50.64,0:20:50.68,Sign,,0,0,0,,{\pos(1492.3,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
+Dialogue: 0,0:20:50.64,0:20:50.68,Sign,,0,0,0,,{\pos(-42.2,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:50.64,0:20:50.68,Sign,,0,0,0,,{\pos(35,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:50.68,0:20:50.72,Sign,,0,0,0,,{\pos(1063.3,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:50.68,0:20:50.72,Sign,,0,0,0,,{\pos(1630,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
+Dialogue: 0,0:20:50.68,0:20:50.72,Sign,,0,0,0,,{\pos(95.4,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:50.68,0:20:50.72,Sign,,0,0,0,,{\pos(172.7,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:50.72,0:20:50.77,Sign,,0,0,0,,{\pos(1153.6,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:50.72,0:20:50.77,Sign,,0,0,0,,{\pos(1720.3,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
+Dialogue: 0,0:20:50.72,0:20:50.77,Sign,,0,0,0,,{\pos(185.8,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:50.72,0:20:50.77,Sign,,0,0,0,,{\pos(263,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:50.77,0:20:52.02,Sign,,0,0,0,,{\pos(1186,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:50.77,0:20:52.02,Sign,,0,0,0,,{\pos(1752.7,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
+Dialogue: 0,0:20:50.77,0:20:52.02,Sign,,0,0,0,,{\pos(218.2,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:50.77,0:20:52.02,Sign,,0,0,0,,{\pos(295.4,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:52.02,0:20:52.06,Sign,,0,0,0,,{\pos(1218.6,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:52.02,0:20:52.06,Sign,,0,0,0,,{\pos(1785.2,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
+Dialogue: 0,0:20:52.02,0:20:52.06,Sign,,0,0,0,,{\pos(250.7,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:52.02,0:20:52.06,Sign,,0,0,0,,{\pos(327.9,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:52.06,0:20:52.10,Sign,,0,0,0,,{\pos(1308.9,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:52.06,0:20:52.10,Sign,,0,0,0,,{\pos(1875.5,749)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}MAR
+Dialogue: 0,0:20:52.06,0:20:52.10,Sign,,0,0,0,,{\pos(341,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:52.06,0:20:52.10,Sign,,0,0,0,,{\pos(418.2,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:52.10,0:20:52.14,Sign,,0,0,0,,{\pos(1446.4,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:52.10,0:20:52.14,Sign,,0,0,0,,{\pos(478.5,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:52.10,0:20:52.14,Sign,,0,0,0,,{\pos(555.8,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:52.10,0:20:52.14,Sign,,0,0,0,,{\pos(37.4,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:52.14,0:20:52.18,Sign,,0,0,0,,{\pos(1620.9,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:52.14,0:20:52.18,Sign,,0,0,0,,{\pos(653,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:52.14,0:20:52.18,Sign,,0,0,0,,{\pos(730.2,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:52.14,0:20:52.18,Sign,,0,0,0,,{\pos(211.9,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{\pos(1821.7,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{\pos(853.8,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{\pos(931,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{\pos(412.7,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:52.18,0:20:52.23,Sign,,0,0,0,,{\pos(-4.9,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{\pos(2038.2,236.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Cherry Blossoms
+Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{\pos(1070.4,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{\pos(1147.6,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{\pos(629.2,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:52.23,0:20:52.27,Sign,,0,0,0,,{\pos(211.6,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:52.27,0:20:52.31,Sign,,0,0,0,,{\pos(1292.1,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:52.27,0:20:52.31,Sign,,0,0,0,,{\pos(1369.3,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:52.27,0:20:52.31,Sign,,0,0,0,,{\pos(851,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:52.27,0:20:52.31,Sign,,0,0,0,,{\pos(433.4,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{\pos(1508.6,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{\pos(1585.8,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{\pos(12.7,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{\pos(1067.5,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:52.31,0:20:52.35,Sign,,0,0,0,,{\pos(649.9,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{\pos(1709.4,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{\pos(1786.7,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{\pos(213.6,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{\pos(1268.4,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:52.35,0:20:52.39,Sign,,0,0,0,,{\pos(850.7,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{\pos(1883.9,331.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}APR
+Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{\pos(1961.1,838)\fnAgeo Personal Use Heavy\c&HF6FEFD&\blur1.35}School Trips
+Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{\pos(388,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{\pos(1442.8,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{\pos(-43.8,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:52.39,0:20:52.43,Sign,,0,0,0,,{\pos(1025.1,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:52.43,0:20:52.48,Sign,,0,0,0,,{\pos(525.6,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:52.43,0:20:52.48,Sign,,0,0,0,,{\pos(1580.4,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:52.43,0:20:52.48,Sign,,0,0,0,,{\pos(93.9,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:52.43,0:20:52.48,Sign,,0,0,0,,{\pos(1162.8,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:52.48,0:20:52.52,Sign,,0,0,0,,{\pos(615.9,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:52.48,0:20:52.52,Sign,,0,0,0,,{\pos(1670.7,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:52.48,0:20:52.52,Sign,,0,0,0,,{\pos(184.1,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:52.48,0:20:52.52,Sign,,0,0,0,,{\pos(1253,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:52.52,0:20:53.77,Sign,,0,0,0,,{\pos(648.3,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:52.52,0:20:53.77,Sign,,0,0,0,,{\pos(1703.1,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:52.52,0:20:53.77,Sign,,0,0,0,,{\pos(216.6,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:52.52,0:20:53.77,Sign,,0,0,0,,{\pos(1285.5,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:53.77,0:20:53.81,Sign,,0,0,0,,{\pos(680.8,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:53.77,0:20:53.81,Sign,,0,0,0,,{\pos(1735.6,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:53.77,0:20:53.81,Sign,,0,0,0,,{\pos(249,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:53.77,0:20:53.81,Sign,,0,0,0,,{\pos(1317.9,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:53.81,0:20:53.85,Sign,,0,0,0,,{\pos(771,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:53.81,0:20:53.85,Sign,,0,0,0,,{\pos(1825.8,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:53.81,0:20:53.85,Sign,,0,0,0,,{\pos(339.3,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:53.81,0:20:53.85,Sign,,0,0,0,,{\pos(1408.2,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{\pos(908.7,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{\pos(1963.5,316.4)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}JUL
+Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{\pos(476.9,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:53.85,0:20:53.89,Sign,,0,0,0,,{\pos(1545.8,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{\pos(1083.1,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{\pos(651.4,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{\pos(1720.3,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:53.89,0:20:53.94,Sign,,0,0,0,,{\pos(-57.5,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{\pos(1284,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{\pos(852.2,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{\pos(1921.1,836.1)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Ocean
+Dialogue: 0,0:20:53.94,0:20:53.98,Sign,,0,0,0,,{\pos(143.4,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{\pos(1500.4,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{\pos(1068.7,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{\pos(-19.5,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:53.98,0:20:54.02,Sign,,0,0,0,,{\pos(359.8,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{\pos(1722.3,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{\pos(1290.5,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{\pos(202.4,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:54.02,0:20:54.06,Sign,,0,0,0,,{\pos(581.7,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{\pos(1938.7,234.6)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Mountains
+Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{\pos(1507,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{\pos(418.8,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:54.06,0:20:54.10,Sign,,0,0,0,,{\pos(798.1,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{\pos(1707.8,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{\pos(619.7,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:54.10,0:20:54.14,Sign,,0,0,0,,{\pos(999,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{\pos(1882.2,758.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}AUG
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{\pos(794.1,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{\pos(-87,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{\pos(-87,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:54.14,0:20:54.19,Sign,,0,0,0,,{\pos(1173.4,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{\pos(50.2,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{\pos(931.7,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{\pos(50.7,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{\pos(50.7,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:54.19,0:20:54.23,Sign,,0,0,0,,{\pos(1311,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{\pos(140.6,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{\pos(1022.1,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{\pos(141.1,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{\pos(141.1,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:54.23,0:20:54.27,Sign,,0,0,0,,{\pos(1401.4,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:54.27,0:20:54.31,Sign,,0,0,0,,{\pos(172.9,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:54.27,0:20:54.35,Sign,,0,0,0,,{\pos(1054.4,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:54.27,0:20:54.35,Sign,,0,0,0,,{\pos(173.4,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:54.27,0:20:54.35,Sign,,0,0,0,,{\pos(173.4,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:54.27,0:20:54.35,Sign,,0,0,0,,{\pos(1433.7,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:54.31,0:20:55.52,Sign,,0,0,0,,{\pos(172.9,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
 Dialogue: 0,0:20:54.35,0:20:55.52,Sign,,0,0,0,,{\pos(1054.4,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
 Dialogue: 0,0:20:54.35,0:20:55.52,Sign,,0,0,0,,{\pos(173.4,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
 Dialogue: 0,0:20:54.35,0:20:55.52,Sign,,0,0,0,,{\pos(173.4,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
 Dialogue: 0,0:20:54.35,0:20:55.52,Sign,,0,0,0,,{\pos(1433.7,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{=72}{\pos(205.3,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{=71}{\pos(1086.9,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{=70}{\pos(205.8,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{=69}{\pos(205.8,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{=68}{\pos(1466.2,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{=72}{\pos(295.6,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{=71}{\pos(1177.1,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{=70}{\pos(296.1,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{=69}{\pos(296.1,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{=68}{\pos(1556.4,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{=72}{\pos(433.2,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{=71}{\pos(1314.8,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{=70}{\pos(433.8,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{=69}{\pos(433.8,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{=68}{\pos(1694.1,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{=72}{\pos(607.7,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{=71}{\pos(1489.2,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{=70}{\pos(608.2,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{=69}{\pos(608.2,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{=68}{\pos(1868.5,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
-Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{=74}{\pos(138.5,485.8)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
-Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{=72}{\pos(808.5,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{=71}{\pos(1690,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{=70}{\pos(809,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{=69}{\pos(809,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{=74}{\pos(339.3,485.8)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
-Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{=72}{\pos(1025,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{=71}{\pos(1906.5,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
-Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{=70}{\pos(1025.5,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{=69}{\pos(1025.5,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{=74}{\pos(555.8,485.8)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
-Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{=72}{\pos(1246.8,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{=70}{\pos(1247.3,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{=69}{\pos(1247.3,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{=74}{\pos(777.6,485.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
-Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{=72}{\pos(1463.3,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{=70}{\pos(1463.8,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{=69}{\pos(1463.8,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{=74}{\pos(994.1,485.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
-Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{=72}{\pos(1664.1,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{=70}{\pos(1664.7,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{=69}{\pos(1664.7,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{=74}{\pos(1194.9,485.8)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
-Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{=73}{\pos(41.3,852.5)\fnAgeo Personal Use Heavy\c&HF6FEFC&\blur1.35}Christmas
-Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{=72}{\pos(1838.5,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{=70}{\pos(1839,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{=69}{\pos(1839,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{=74}{\pos(1369.3,485.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
-Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{=73}{\pos(215.6,852.5)\fnAgeo Personal Use Heavy\c&HF6FEFC&\blur1.35}Christmas
-Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{=72}{\pos(1976.2,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
-Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{=70}{\pos(1976.7,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
-Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{=69}{\pos(1976.7,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
-Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{=74}{\pos(1507,485.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
-Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{=73}{\pos(353.3,852.5)\fnAgeo Personal Use Heavy\c&HF6FEFC&\blur1.35}Christmas
-Dialogue: 0,0:20:55.98,0:20:56.02,Sign,,0,0,0,,{=74}{\pos(1597.3,485.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
-Dialogue: 0,0:20:55.98,0:20:56.02,Sign,,0,0,0,,{=73}{\pos(443.6,852.5)\fnAgeo Personal Use Heavy\c&HF6FEFC&\blur1.35}Christmas
-Dialogue: 0,0:20:56.02,0:20:57.40,Sign,,0,0,0,,{=74}{\pos(1629.7,485.8)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
-Dialogue: 0,0:20:56.02,0:20:57.40,Sign,,0,0,0,,{=73}{\pos(476,852.5)\fnAgeo Personal Use Heavy\c&HF6FEFC&\blur1.35}Christmas
+Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{\pos(205.3,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{\pos(1086.9,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{\pos(205.8,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{\pos(205.8,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:55.52,0:20:55.56,Sign,,0,0,0,,{\pos(1466.2,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{\pos(295.6,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{\pos(1177.1,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{\pos(296.1,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{\pos(296.1,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:55.56,0:20:55.60,Sign,,0,0,0,,{\pos(1556.4,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{\pos(433.2,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{\pos(1314.8,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{\pos(433.8,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{\pos(433.8,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:55.60,0:20:55.65,Sign,,0,0,0,,{\pos(1694.1,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{\pos(607.7,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{\pos(1489.2,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{\pos(608.2,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{\pos(608.2,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{\pos(1868.5,1045.2)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}Halloween
+Dialogue: 0,0:20:55.65,0:20:55.69,Sign,,0,0,0,,{\pos(138.5,485.8)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
+Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{\pos(808.5,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{\pos(1690,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{\pos(809,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{\pos(809,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:55.69,0:20:55.73,Sign,,0,0,0,,{\pos(339.3,485.8)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
+Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{\pos(1025,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{\pos(1906.5,64)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}OCT
+Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{\pos(1025.5,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{\pos(1025.5,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:55.73,0:20:55.77,Sign,,0,0,0,,{\pos(555.8,485.8)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
+Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{\pos(1246.8,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{\pos(1247.3,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{\pos(1247.3,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:55.77,0:20:55.81,Sign,,0,0,0,,{\pos(777.6,485.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
+Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{\pos(1463.3,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{\pos(1463.8,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{\pos(1463.8,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:55.81,0:20:55.85,Sign,,0,0,0,,{\pos(994.1,485.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
+Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{\pos(1664.1,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{\pos(1664.7,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{\pos(1664.7,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{\pos(1194.9,485.8)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
+Dialogue: 0,0:20:55.85,0:20:55.90,Sign,,0,0,0,,{\pos(41.3,852.5)\fnAgeo Personal Use Heavy\c&HF6FEFC&\blur1.35}Christmas
+Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{\pos(1838.5,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{\pos(1839,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{\pos(1839,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{\pos(1369.3,485.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
+Dialogue: 0,0:20:55.90,0:20:55.94,Sign,,0,0,0,,{\pos(215.6,852.5)\fnAgeo Personal Use Heavy\c&HF6FEFC&\blur1.35}Christmas
+Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{\pos(1976.2,59.5)\fnAgeo Personal Use Heavy\c&HF5FEFE&\blur1.35}NOV
+Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{\pos(1976.7,787.7)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}Baked
+Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{\pos(1976.7,849.3)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}potatoes
+Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{\pos(1507,485.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
+Dialogue: 0,0:20:55.94,0:20:55.98,Sign,,0,0,0,,{\pos(353.3,852.5)\fnAgeo Personal Use Heavy\c&HF6FEFC&\blur1.35}Christmas
+Dialogue: 0,0:20:55.98,0:20:56.02,Sign,,0,0,0,,{\pos(1597.3,485.9)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
+Dialogue: 0,0:20:55.98,0:20:56.02,Sign,,0,0,0,,{\pos(443.6,852.5)\fnAgeo Personal Use Heavy\c&HF6FEFC&\blur1.35}Christmas
+Dialogue: 0,0:20:56.02,0:20:57.40,Sign,,0,0,0,,{\pos(1629.7,485.8)\fnAgeo Personal Use Heavy\c&H000506&\blur1.35}DEC
+Dialogue: 0,0:20:56.02,0:20:57.40,Sign,,0,0,0,,{\pos(476,852.5)\fnAgeo Personal Use Heavy\c&HF6FEFC&\blur1.35}Christmas
 Dialogue: 0,0:21:59.84,0:22:01.84,Sign,,0,0,0,,{\an7\pos(964,296)\fnGaramond Premr Pro Smbd Capt\fs90\b0\c&HEDF5FB&\blur1.5\p1}m -80 -38 l 80 -38 80 38 -80 38
 Dialogue: 1,0:21:59.84,0:22:01.84,Sign,,0,0,0,,{\pos(964,296)\fnBougan Book SSi\fs90\b0\c&H3B444A&\blur1.2}May
 Dialogue: 0,0:21:59.84,0:22:01.84,Sign,,0,0,0,,{\an7\pos(964,724)\fnGaramond Premr Pro Smbd Capt\fs90\b0\c&HEDF5FB&\blur1.5\p1}m -61 -50 l 61 -50 61 50 -61 50
 Dialogue: 1,0:21:59.84,0:22:01.84,Sign,,0,0,0,,{\pos(964,724)\fnBougan Book SSi\fs90\b0\c&H3B444A&\blur1.2}Mon
 Dialogue: 0,0:21:59.84,0:22:01.84,Sign,,0,0,0,,{\an7\pos(964,814)\fnGaramond Premr Pro Smbd Capt\fs90\b0\c&HEDF5FB&\blur1.5\p1}m -113 -30 l 113 -30 113 30 -113 30
 Dialogue: 1,0:21:59.84,0:22:01.84,Sign,,0,0,0,,{\pos(964,814)\fnBougan Book SSi\fs52.5\b0\c&H3B444A&\blur1.2}Very Unlucky Day
-
-[Aegisub Extradata]
-Data: 0,a-mo,e{"uuid"#3A"c8582128-f127-4b97-8d1d-b98099fcf8f5"#2C"originalText"#3A"{\\c&H010A10&\\blur0.7\\fs60\\fnaugie\\pos(380#2C70.67)}Kukuru"}
-Data: 1,a-mo,e{"uuid"#3A"7881d9b2-de28-45ac-912c-f1d8ba8213a7"#2C"originalText"#3A"{\\c&H010A10&\\blur0.7\\fs60\\fnaugie\\pos(874.663#2C84.003)}Gankyou"}
-Data: 2,a-mo,e{"uuid"#3A"31162590-f138-449f-b958-e1a1e01d0a29"#2C"originalText"#3A"{\\c&H010A10&\\blur0.7\\fs60\\fnaugie\\pos(1129.52#2C83.051)}Kigurumi"}
-Data: 3,a-mo,e{"uuid"#3A"1c9efcc7-5dd2-4727-8043-9538c38c78ea"#2C"originalText"#3A"{\\c&H010A10&\\blur0.7\\fs60\\fnaugie\\pos(628#2C84.003)}Marii"}
-Data: 4,a-mo,e{"uuid"#3A"11b4c840-ae57-4893-a097-5e93bbfcba19"#2C"originalText"#3A"{\\blur0.7\\fs60\\c&H010A10&\\fnaugie\\pos(122.663#2C50.67)}Tetora"}
-Data: 5,a-mo,e{"uuid"#3A"1aaec308-07fe-46b0-a2bb-33f94c486c34"#2C"originalText"#3A"{\\c&H010A10&\\blur0.7\\fs60\\fnaugie\\pos(646.714#2C642)}Loser {actual TL#3A \"Bird\"#2C but I feel the lines spoken after in English don't really connect to it well enough to TL it as such}"}
-Data: 12,a-mo,e{"uuid"#3A"aff74cc0-938f-42db-9af8-1e85062fed49"#2C"originalText"#3A"{\\blur0.8\\fscx100\\fscy100\\frz37.54\\pos(989.299#2C92.399)}DECIDED"}
-Data: 13,a-mo,e{"uuid"#3A"907648b4-b4db-46d2-b034-bc05476e56f6"#2C"originalText"#3A"{\\blur0.8\\an7\\1c&H18196D&\\p1\\pos(-60.086#2C-68.749)}{\\an7\\pos(0#2C0)\\1c&H18196D&\\p1}m 972.95 314.05 b 969.12 313.88 967.84 311.57 966.36 309.61 946.81 283.69 927.28 257.75 907.74 231.82 900.43 222.11 893.1 212.41 885.81 202.69 881.62 197.11 881.84 195.62 887.47 191.37 959.76 136.79 1032.05 82.22 1104.34 27.65 1109.92 23.43 1115.49 19.2 1121.08 15 1126.97 10.57 1128.4 10.76 1132.79 16.58 1157.54 49.42 1182.28 82.27 1207.03 115.12 1209.24 118.05 1211.47 120.95 1213.65 123.9 1217.21 128.72 1216.98 130.48 1212.11 134.17 1190.6 150.45 1169.06 166.69 1147.54 182.94 1090.92 225.67 1034.31 268.4 977.69 311.13 975.99 312.41 974.46 314.08 972.95 314.05 m 972.21 308.96 b 1052.07 248.67 1131.4 188.78 1210.95 128.72 1182.78 91.35 1154.8 54.23 1126.77 17.04 1046.87 77.36 967.49 137.29 888.03 197.28 916.3 234.78 944.15 271.73 972.21 308.96{\\p0}"}
-Data: 16,a-mo,e{"uuid"#3A"b5172d2d-b7a8-4c50-b9f8-34a25d5d1ee3"#2C"originalText"#3A"{\\blur0.9\\fscx100\\fscy100\\frz42.5\\pos(470.537#2C197.701)}DECIDED"}
-Data: 17,a-mo,e{"uuid"#3A"8419d87e-4547-48d4-b696-749328619f59"#2C"originalText"#3A"{\\blur0.9\\an7\\1c&H18196D&\\p1\\frz4.766\\pos(-588.881#2C121.739)}{\\an7\\pos(0#2C0)\\1c&H18196D&\\p1}m 972.95 314.05 b 969.12 313.88 967.84 311.57 966.36 309.61 946.81 283.69 927.28 257.75 907.74 231.82 900.43 222.11 893.1 212.41 885.81 202.69 881.62 197.11 881.84 195.62 887.47 191.37 959.76 136.79 1032.05 82.22 1104.34 27.65 1109.92 23.43 1115.49 19.2 1121.08 15 1126.97 10.57 1128.4 10.76 1132.79 16.58 1157.54 49.42 1182.28 82.27 1207.03 115.12 1209.24 118.05 1211.47 120.95 1213.65 123.9 1217.21 128.72 1216.98 130.48 1212.11 134.17 1190.6 150.45 1169.06 166.69 1147.54 182.94 1090.92 225.67 1034.31 268.4 977.69 311.13 975.99 312.41 974.46 314.08 972.95 314.05 m 972.21 308.96 b 1052.07 248.67 1131.4 188.78 1210.95 128.72 1182.78 91.35 1154.8 54.23 1126.77 17.04 1046.87 77.36 967.49 137.29 888.03 197.28 916.3 234.78 944.15 271.73 972.21 308.96{\\p0}"}
-Data: 30,a-mo,e{"uuid"#3A"25cae52e-65f9-4f7c-92dd-75ccbbc24537"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(1095.58#2C552.938)}Snowball fights"}
-Data: 31,a-mo,e{"uuid"#3A"69509e37-3690-4bfc-90f7-0d809e9b3f9c"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(531.602#2C573.946)}Chocolate"}
-Data: 32,a-mo,e{"uuid"#3A"bff7f7eb-34e1-4dad-b4a1-16d7456a9f91"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(145.621#2C498.028)}FEB"}
-Data: 33,a-mo,e{"uuid"#3A"587706fc-12bb-4f05-b9ea-bf9ea597e059"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(692.265#2C213.999)}JAN"}
-Data: 34,a-mo,e{"uuid"#3A"211ab14a-67f4-4e5a-8c4a-54d9e440477b"#2C"originalText"#3A"{\\pos(196.92#2C558.67)\\blur0.9\\c&HF6FEFD&\\fnAgeo Personal Use Heavy}School Trips"}
-Data: 35,a-mo,e{"uuid"#3A"c4f0ada4-ba82-4a7f-abbd-439de24081e7"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(145.448#2C221.252)}APR"}
-Data: 36,a-mo,e{"uuid"#3A"690a81d0-4baa-4ee6-b3e3-5dbada9e1019"#2C"originalText"#3A"{\\pos(1168.46#2C499.33)\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy}MAR"}
-Data: 37,a-mo,e{"uuid"#3A"f2859e96-8b1a-4b52-b8b6-16666ce8ff75"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(790.691#2C157.535)}Cherry Blossoms"}
-Data: 38,a-mo,e{"uuid"#3A"a0d8dbba-0c8e-4eb6-bc82-4ccf564e0708"#2C"originalText"#3A"{\\pos(196.92#2C558.67)\\blur0.9\\c&HF6FEFD&\\fnAgeo Personal Use Heavy}School Trips"}
-Data: 39,a-mo,e{"uuid"#3A"b515b3f1-64a7-4a87-8186-759d64359fc8"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(145.448#2C221.252)}APR"}
-Data: 40,a-mo,e{"uuid"#3A"a497e3b2-c241-41bd-a31c-21067827e5d5"#2C"originalText"#3A"{\\pos(1168.46#2C499.33)\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy}MAR"}
-Data: 41,a-mo,e{"uuid"#3A"8826b181-2cc1-4186-a3c0-e4c1079f4a7a"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(790.691#2C157.535)}Cherry Blossoms"}
-Data: 50,a-mo,e{"uuid"#3A"7a7d531b-14d5-422c-a809-2c5989b07ce9"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(856.996#2C557.386)}Ocean"}
-Data: 51,a-mo,e{"uuid"#3A"40c16b49-f83a-4938-8d42-96ed4e8e6964"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(144.399#2C505.505)}AUG"}
-Data: 52,a-mo,e{"uuid"#3A"9ae3bb84-a524-4fe8-a849-4b9f78b004a1"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(1135.425#2C210.918)}JUL"}
-Data: 53,a-mo,e{"uuid"#3A"64324aa9-1e0f-4b32-ac2a-5731d4dd56a6"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(432.224#2C156.41)}Mountains"}
-Data: 54,a-mo,e{"uuid"#3A"9b237cb6-9df2-444f-b353-955b7049276e"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(856.996#2C557.386)}Ocean"}
-Data: 55,a-mo,e{"uuid"#3A"92e18624-3cc2-4092-8bb0-3584f96ff88b"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(144.399#2C505.505)}AUG"}
-Data: 56,a-mo,e{"uuid"#3A"49b743c3-e3ea-439a-a3f1-b22e7603a681"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(1135.425#2C210.918)}JUL"}
-Data: 57,a-mo,e{"uuid"#3A"92c86d84-8874-4afa-bfd3-5a93092178fa"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(432.224#2C156.41)}Mountains"}
-Data: 63,a-mo,e{"uuid"#3A"27f4a2f8-d509-49ed-b1c1-1327304be719"#2C"originalText"#3A"{\\blur0.9\\c&HF5FEFE&\\fnAgeo Personal Use Heavy\\pos(955.807#2C696.787)}Halloween"}
-Data: 64,a-mo,e{"uuid"#3A"f0a9b5e1-c104-4f35-87b3-2338ec81c915"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(115.595#2C566.2)}potatoes"}
-Data: 65,a-mo,e{"uuid"#3A"663971ee-804a-4d4f-af8f-41f36e8fe45c"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(115.595#2C525.152)}Baked "}
-Data: 66,a-mo,e{"uuid"#3A"24481c31-aedd-4d20-b0e0-5e1137de11d6"#2C"originalText"#3A"{\\blur0.9\\c&HF5FEFE&\\fnAgeo Personal Use Heavy\\pos(702.95#2C42.664)}OCT"}
-Data: 67,a-mo,e{"uuid"#3A"bedd90fd-c055-4177-ba4d-6565bfb5b124"#2C"originalText"#3A"{\\blur0.9\\c&HF5FEFE&\\fnAgeo Personal Use Heavy\\pos(115.247#2C39.675)}NOV"}
-Data: 68,a-mo,e{"uuid"#3A"1e13ff08-3e10-4a7b-b08a-c24bfe26a635"#2C"originalText"#3A"{\\blur0.9\\c&HF5FEFE&\\fnAgeo Personal Use Heavy\\pos(955.807#2C696.787)}Halloween"}
-Data: 69,a-mo,e{"uuid"#3A"50c362f8-6fa7-4806-ac06-a285ce7b9842"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(115.595#2C566.2)}potatoes"}
-Data: 70,a-mo,e{"uuid"#3A"ed6a61a5-5d8c-4c2f-afde-62c68c3726a8"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(115.595#2C525.152)}Baked "}
-Data: 71,a-mo,e{"uuid"#3A"6fcfb7c0-a79e-4157-b55f-fb4721d97a72"#2C"originalText"#3A"{\\blur0.9\\c&HF5FEFE&\\fnAgeo Personal Use Heavy\\pos(702.95#2C42.664)}OCT"}
-Data: 72,a-mo,e{"uuid"#3A"575d24de-275b-451b-9f69-0cdfa006357a"#2C"originalText"#3A"{\\blur0.9\\c&HF5FEFE&\\fnAgeo Personal Use Heavy\\pos(115.247#2C39.675)}NOV"}
-Data: 73,a-mo,e{"uuid"#3A"f84696d8-2107-4408-a5d7-5ed8ec141397"#2C"originalText"#3A"{\\pos(317.34#2C568.33)\\blur0.9\\c&HF6FEFC&\\fnAgeo Personal Use Heavy}Christmas"}
-Data: 74,a-mo,e{"uuid"#3A"07f5a5a3-df18-4885-9c33-9a37a8e0aa13"#2C"originalText"#3A"{\\blur0.9\\c&H000506&\\fnAgeo Personal Use Heavy\\pos(1086.461#2C323.89)}DEC"}
-Data: 75,a-mo,e{"uuid"#3A"cf5063f5-5966-4b7a-8326-e71bb3e38c56"#2C"originalText"#3A"{\\blur1\\c&H22282B&\\fnAlpha54\\pos(639.711#2C520.459)}New Years' Money"}
-Data: 77,a-mo,e{"uuid"#3A"96869fbc-5c85-449a-bda4-0ec5b3c8e162"#2C"originalText"#3A"{\\blur0.8\\fs36\\pos(428#2C641)}New Year's Money"}

@@ -32,7 +32,7 @@ Dialogue: 1,0:15:21.23,0:15:23.23,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro S
 Dialogue: 0,0:23:39.98,0:23:43.23,Sign,,0,0,0,repeat TS,{\pos(878,540)\fscx1535\fscy2000\fsp-10.35\c&H1856D9&\blur1.5}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:39.98,0:23:43.23,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs216\2a&HFF&\blur0.9}Next Time
 Dialogue: 0,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(878,540)\fscx1535\fscy2000\fsp-10.35\c&H1856D9&\blur1.5}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,360)\fnConsolas\fs141\2a&HFF&\blur0.9}① {\fnGaramond Premr Pro Smbd Capt}All Four One
+Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,360)\fnConsolas\fs140\blur0.9}① {\fnGaramond Premr Pro Smbd Capt}All Four One
 Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,540)\fnConsolas\fs141\2a&HFF&\blur0.9}② {\fnGaramond Premr Pro Smbd Capt}Seven Wonders of Musashi
 Dialogue: 1,0:24:00.25,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,720)\fnConsolas\fs141\2a&HFF&\blur0.9}③ {\fnGaramond Premr Pro Smbd Capt}Servant's Revenge
 Dialogue: 1,0:08:36.45,0:08:38.95,Sign,,0,0,0,midcard,{\pos(1432,762)\frz345.6\fnBrushStroke 35\fs100\b0\c&H000000&\blur1.2}Rakugo Girls

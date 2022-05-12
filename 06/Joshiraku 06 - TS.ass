@@ -32,7 +32,7 @@ Dialogue: 1,0:12:01.32,0:12:03.33,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro S
 Dialogue: 0,0:23:39.98,0:23:42.98,Sign,,0,0,0,repeat TS,{\pos(878,540)\fscx1535\fscy2000\fsp-10.35\c&H1856D9&\blur1.5}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:39.98,0:23:42.98,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs216\2a&HFF&\blur0.9}Next Time
 Dialogue: 0,0:24:04.08,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(878,540)\fscx1535\fscy2000\fsp-10.35\c&H1856D9&\blur1.5}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:04.08,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,360)\fnConsolas\fs141\2a&HFF&\blur0.9}① {\fnGaramond Premr Pro Smbd Capt}Delinquents Are Scary
+Dialogue: 1,0:24:04.08,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,360)\fnConsolas\fs140\blur0.9}① {\fnGaramond Premr Pro Smbd Capt}Delinquents Are Scary
 Dialogue: 1,0:24:04.08,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,540)\fnConsolas\fs141\2a&HFF&\blur0.9}② {\fnGaramond Premr Pro Smbd Capt}Something Fishy
 Dialogue: 1,0:24:04.08,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,720)\fnConsolas\fs141\2a&HFF&\blur0.9}③ {\fnGaramond Premr Pro Smbd Capt}Backstage Investigation
 Dialogue: 0,0:10:16.51,0:10:19.01,Sign,,0,0,0,midcard,{\pos(1329,850)\frz23.22\fnBrushStroke 35\fs101\c&H000000&\blur1.2}Rakugo Girls
@@ -647,52 +647,52 @@ Dialogue: 1,0:05:35.19,0:05:35.23,Sign,,0,0,0,,{\pos(232,1090.455)\frz359\fry359
 Dialogue: 0,0:05:36.56,0:05:38.32,Sign,,0,0,0,,{\c&HEBF2F6&\blur1.5\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:05:36.56,0:05:38.32,Sign,,0,0,0,,{\fnGentium Basic\fs216\c&H060C10&\blur1.35\q2}“Red & White”
 Dialogue: 0,0:05:38.32,0:05:39.23,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 1632 135 l 1892 306 1806 735 1611 758 1497 560 1514 339
-Dialogue: 1,0:05:38.32,0:05:41.95,Sign,,0,0,0,,{=6}{\pos(898,241)\frz2\fry2\frx8\fnlaCartoonerie\b0\c&HB43B2A&\blur1.5}Cla{\frz1}tte{\frz0}r{\frz0}
-Dialogue: 0,0:05:38.32,0:05:41.95,Sign,,0,0,0,,{=6}{\pos(898,241)\frz2\fry2\frx8\fnlaCartoonerie\b0\bord1.6\xshad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\4a&H28&\blur1}Cla{\frz1}tte{\frz0}r{\frz0}
+Dialogue: 1,0:05:38.32,0:05:41.95,Sign,,0,0,0,,{\pos(898,241)\frz2\fry2\frx8\fnlaCartoonerie\b0\c&HB43B2A&\blur1.5}Cla{\frz1}tte{\frz0}r{\frz0}
+Dialogue: 0,0:05:38.32,0:05:41.95,Sign,,0,0,0,,{\pos(898,241)\frz2\fry2\frx8\fnlaCartoonerie\b0\bord1.6\xshad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\4a&H28&\blur1}Cla{\frz1}tte{\frz0}r{\frz0}
 Dialogue: 0,0:05:39.23,0:05:41.94,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 320 302 b 360 369 461 417 528 444 464 566 482 792 542 906 498 953 450 1026 444 1077 l 2 1071 2 483 b 35 404 216 414 314 306
-Dialogue: 0,0:05:39.23,0:05:41.94,Sign,,0,0,0,,{\kf0}{\kf20}{\pos(233,713)\fnFOT-RodinNTLGProEB-Kami\c&H151515&\2c&H151515&\2a&HFF&\blur1.27}Someone \N{\kf21}has stolen \N{\kf26}the bunting \N{\kf20}for the \N{\kf30}graduation \N{\kf31}ceremony!{\kf123}
+Dialogue: 0,0:05:39.23,0:05:41.94,Sign,,0,0,0,,{\kf0}{\kf20}{\pos(233,713)\fnFOT-RodinNTLGProEB-Kami\c&H151515&\2a&HFF&\blur1.27}Someone \N{\kf21}has stolen \N{\kf26}the bunting \N{\kf20}for the \N{\kf30}graduation \N{\kf31}ceremony!{\kf123}
 Dialogue: 0,0:05:41.94,0:05:43.57,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 1458 6 l 1910 6 1905 471 b 1866 540 1823 602 1692 648 1617 651 1598 663 1466 572 1433 489 1406 405 1400 290 1400 215 1415 84 1449 14
-Dialogue: 1,0:05:42.03,0:05:43.57,Sign,,0,0,0,,{\pos(1672,308)\fnFOT-TelopMin Pro H vL2\fs108\c&H151515&\2c&H151515&\2a&HFF&\blur1.27\kf34}Bunting?
+Dialogue: 1,0:05:42.03,0:05:43.57,Sign,,0,0,0,,{\pos(1672,308)\fnFOT-TelopMin Pro H vL2\fs108\c&H151515&\2a&HFF&\blur1.27\kf34}Bunting?
 Dialogue: 0,0:05:43.57,0:05:45.07,Sign,,0,0,0,,{\an7\pos(260,778)\c&HEFEFEF&\blur1.5\p1}m -256 -219 b -175 -348 113 -447 236 -217 356 18 306 156 258 297 l -253 297
-Dialogue: 1,0:05:43.57,0:05:45.07,Sign,,0,0,0,,{\kf28}{\pos(260,778)\fnFOT-TelopMin Pro H vL2\fs84\c&H151515&\2c&H151515&\2a&HFF&\blur1.27}You mean, like, \N{\kf31}the red and white \N{\kf20}banners?{\kf71}
+Dialogue: 1,0:05:43.57,0:05:45.07,Sign,,0,0,0,,{\kf28}{\pos(260,778)\fnFOT-TelopMin Pro H vL2\fs84\c&H151515&\2a&HFF&\blur1.27}You mean, like, \N{\kf31}the red and white \N{\kf20}banners?{\kf71}
 Dialogue: 0,0:05:45.07,0:05:46.03,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEEEF&\blur1.5\p1}m 1434 3 l 1910 6 1914 384 b 1845 518 1697 518 1622 614 1608 533 1455 495 1371 360
-Dialogue: 1,0:05:45.07,0:05:46.03,Sign,,0,0,0,,{\pos(1662,268)\fs96\c&H151515&\2c&H151515&\2a&HFF&\blur1.27\kf36}No worries!
+Dialogue: 1,0:05:45.07,0:05:46.03,Sign,,0,0,0,,{\pos(1662,268)\fs96\c&H151515&\2a&HFF&\blur1.27\kf36}No worries!
 Dialogue: 0,0:05:46.03,0:05:47.41,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 3 6 l 504 2 b 497 311 449 405 356 588 l 183 654 3 507
-Dialogue: 1,0:05:46.03,0:05:47.41,Sign,,0,0,0,,{\pos(248,246)\fs90\c&H151515&\2c&H151515&\2a&HFF&\blur1.27\kf40}I got it back!!
-Dialogue: 1,0:05:45.07,0:05:47.41,Sign,,0,0,0,,{=6}{\pos(204,929)\frz18.86\fry2\fnlaCartoonerie\b0\c&H2418F0&\blur1.5}Ooh!
-Dialogue: 0,0:05:45.07,0:05:47.41,Sign,,0,0,0,,{=6}{\pos(204,929)\frz18.86\fry2\frx8\fnlaCartoonerie\b0\bord4\xshad0.01\c&H2318F4&\3c&H020911&\4c&H1C2124&\1a&HC8&\blur1.15}Ooh!
-Dialogue: 1,0:05:45.07,0:05:47.41,Sign,,0,0,0,,{=6}{\pos(1618,917)\frz339.4\fry2\frx8\fnlaCartoonerie\b0\c&H2418F0&\blur1.5}Aah!
-Dialogue: 0,0:05:45.07,0:05:47.41,Sign,,0,0,0,,{=6}{\pos(1618,917)\frz339.4\fry2\frx8\fnlaCartoonerie\b0\bord4\xshad0.01\c&H2318F4&\3c&H020911&\4c&H1C2124&\1a&HC8&\blur1.15}Aah!
+Dialogue: 1,0:05:46.03,0:05:47.41,Sign,,0,0,0,,{\pos(248,246)\fs90\c&H151515&\2a&HFF&\blur1.27\kf40}I got it back!!
+Dialogue: 1,0:05:45.07,0:05:47.41,Sign,,0,0,0,,{\pos(204,929)\frz18.86\fry2\fnlaCartoonerie\b0\c&H2418F0&\blur1.5}Ooh!
+Dialogue: 0,0:05:45.07,0:05:47.41,Sign,,0,0,0,,{\pos(204,929)\frz18.86\fry2\frx8\fnlaCartoonerie\b0\bord4\xshad0.01\c&H2318F4&\3c&H020911&\4c&H1C2124&\1a&HC8&\blur1.15}Ooh!
+Dialogue: 1,0:05:45.07,0:05:47.41,Sign,,0,0,0,,{\pos(1618,917)\frz339.4\fry2\frx8\fnlaCartoonerie\b0\c&H2418F0&\blur1.5}Aah!
+Dialogue: 0,0:05:45.07,0:05:47.41,Sign,,0,0,0,,{\pos(1618,917)\frz339.4\fry2\frx8\fnlaCartoonerie\b0\bord4\xshad0.01\c&H2318F4&\3c&H020911&\4c&H1C2124&\1a&HC8&\blur1.15}Aah!
 Dialogue: 0,0:05:47.41,0:05:49.70,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEDEFEF&\blur1.5\p1}m 1467 3 l 1911 0 1917 501 b 1827 630 1763 660 1620 681 1523 654 1494 618 1424 465 1389 290 1391 155 1460 8
 Dialogue: 0,0:05:49.70,0:05:54.16,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 3 2 l 804 2 b 810 236 660 446 452 552 410 548 366 555 294 585 209 617 81 603 2 579
-Dialogue: 1,0:05:49.74,0:05:54.16,Sign,,0,0,0,,{\kf39}{\pos(284,218)\fnA-OTF Ryumin Pro U-KL-Nobuna\fs84\c&H151515&\2c&H151515&\2a&HFF&\blur1.27}So do I. \N\N{\kf34}{\kf51}I'm sure he\N{\kf58}won't be hard\N{\kf31}to find.{\kf229}
+Dialogue: 1,0:05:49.74,0:05:54.16,Sign,,0,0,0,,{\kf39}{\pos(284,218)\fnA-OTF Ryumin Pro U-KL-Nobuna\fs84\c&H151515&\2a&HFF&\blur1.27}So do I. \N\N{\kf34}{\kf51}I'm sure he\N{\kf58}won't be hard\N{\kf31}to find.{\kf229}
 Dialogue: 0,0:05:54.16,0:05:55.79,Sign,,0,0,0,,{\c&HEBF2F6&\blur1.5\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:05:54.16,0:05:55.79,Sign,,0,0,0,,{\fnGentium Basic\fs216\c&H060C10&\blur1.5\q2}“The Second Button”
 Dialogue: 0,0:05:55.79,0:05:58.63,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 1251 3 l 1911 0 b 1917 174 1946 651 1838 660 1769 615 1628 624 1566 680 1478 582 1404 528 1296 426 1313 323 1287 125 1248 14
 Dialogue: 0,0:05:58.63,0:06:02.55,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 836 149 b 911 165 935 362 936 434 935 618 894 677 851 701 773 665 747 549 744 420 750 312 773 159 833 149
-Dialogue: 1,0:05:58.63,0:06:02.55,Sign,,0,0,0,,{\pos(840,414)\fnFOT-TelopMin Pro H vL2\fs84\c&H151515&\2c&H151515&\2a&HFF&\blur1.27\kf36}Grats!
+Dialogue: 1,0:05:58.63,0:06:02.55,Sign,,0,0,0,,{\pos(840,414)\fnFOT-TelopMin Pro H vL2\fs84\c&H151515&\2a&HFF&\blur1.27\kf36}Grats!
 Dialogue: 0,0:05:59.84,0:06:02.55,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 8 3 l 567 3 b 614 110 639 248 597 399 576 449 534 536 441 576 260 665 68 542 3 414 l 2 15
 Dialogue: 0,0:06:02.55,0:06:04.72,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 1179 3 l 1911 0 1875 540 b 1823 648 1760 669 1653 651 1619 743 1565 755 1497 758 1412 758 1386 720 1352 668 1347 651 1346 623 1320 600 1308 573 1256 575 1209 513 1190 471 1202 443 1226 303 1218 266 1227 284 1200 236 1133 164 1148 93 1173 6
 Dialogue: 0,0:06:04.72,0:06:06.55,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 3 3 l 450 3 b 518 23 614 212 515 324 552 393 611 431 506 552 513 620 498 666 444 689 432 759 399 818 359 834 321 834 287 810 282 855 161 981 53 749 0 786
 Dialogue: 0,0:06:06.55,0:06:11.68,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 1313 0 l 1913 0 1914 786 b 1856 776 1785 783 1698 851 1640 731 1494 717 1410 734 1427 710 1358 597 1287 551 1337 465 1310 321 1250 254 1307 192 1329 83 1298 -1
 Dialogue: 0,0:06:10.35,0:06:11.68,Sign,,0,0,0,,{\an7\pos(256,192)\c&HEFEFEF&\blur1.5\p1}m -250 -190 l 257 -192 b 303 -19 269 54 224 122 158 194 62 249 -27 254 -132 255 -198 225 -255 180
-Dialogue: 1,0:06:10.35,0:06:11.68,Sign,,0,0,0,,{\kf29}{\pos(241,180)\fnA-OTF MidashiMinMA31\fs84\c&H151515&\2c&H151515&\2a&HFF&\blur1.27}The...{\kf25} {\kf22}what?{\kf57}
+Dialogue: 1,0:06:10.35,0:06:11.68,Sign,,0,0,0,,{\kf29}{\pos(241,180)\fnA-OTF MidashiMinMA31\fs84\c&H151515&\2a&HFF&\blur1.27}The...{\kf25} {\kf22}what?{\kf57}
 Dialogue: 0,0:06:11.68,0:06:14.52,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 1914 6 l 1917 504 b 1875 497 1799 554 1782 591 1716 573 1616 602 1578 641 1559 549 1515 441 1434 389 1493 297 1518 171 1445 18 l 1467 -7
-Dialogue: 1,0:06:11.89,0:06:14.52,Sign,,0,0,0,,{\kf29}{\pos(1712,257)\fnFOT-RodinNTLGProEB-Kami\fs84\c&H151515&\2c&H151515&\2a&HFF&\blur1.27}You're so \N\N{\kf17}dirty!{\kf217}
+Dialogue: 1,0:06:11.89,0:06:14.52,Sign,,0,0,0,,{\kf29}{\pos(1712,257)\fnFOT-RodinNTLGProEB-Kami\fs84\c&H151515&\2a&HFF&\blur1.27}You're so \N\N{\kf17}dirty!{\kf217}
 Dialogue: 0,0:06:13.14,0:06:14.52,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 6 3 l 537 2 b 468 84 444 222 489 321 441 357 417 438 414 482 350 488 263 542 228 594 195 564 120 536 69 534 l 2 435
-Dialogue: 0,0:06:13.18,0:06:14.52,Sign,,0,0,0,,{\pos(238,239)\fnFOT-TelopMin Pro H vL2\fs120\c&H151515&\2c&H151515&\2a&HFF&\blur1.27\kf29}The hell?!
-Dialogue: 1,0:06:11.68,0:06:14.52,Sign,,0,0,0,,{=6}{\pos(1282,335)\frz357.4\fry2\frx8\fnlaCartoonerie\b0\c&H5A5AF5&\blur1.5}A{\frz356.74}a{\frz356.08}a{\frz355.42}a{\frz354.76}h{\frz354.1}
-Dialogue: 0,0:06:11.68,0:06:14.52,Sign,,0,0,0,,{=6}{\pos(1282,335)\frz357.4\fry2\frx8\fnlaCartoonerie\b0\bord0.6\xshad0.01\c&H5A5AF5&\4c&H1511B2&\1a&HFE&\3a&HFE&\blur1}A{\frz356.74}a{\frz356.08}a{\frz355.42}a{\frz354.76}h{\frz354.1}
+Dialogue: 0,0:06:13.18,0:06:14.52,Sign,,0,0,0,,{\pos(238,239)\fnFOT-TelopMin Pro H vL2\fs120\c&H151515&\2a&HFF&\blur1.27\kf29}The hell?!
+Dialogue: 1,0:06:11.68,0:06:14.52,Sign,,0,0,0,,{\pos(1282,335)\frz357.4\fry2\frx8\fnlaCartoonerie\b0\c&H5A5AF5&\blur1.5}A{\frz356.74}a{\frz356.08}a{\frz355.42}a{\frz354.76}h{\frz354.1}
+Dialogue: 0,0:06:11.68,0:06:14.52,Sign,,0,0,0,,{\pos(1282,335)\frz357.4\fry2\frx8\fnlaCartoonerie\b0\bord0.6\xshad0.01\c&H5A5AF5&\4c&H1511B2&\1a&HFE&\3a&HFE&\blur1}A{\frz356.74}a{\frz356.08}a{\frz355.42}a{\frz354.76}h{\frz354.1}
 Dialogue: 0,0:06:14.52,0:06:16.23,Sign,,0,0,0,,{\c&HEBF2F6&\blur1.5\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:06:14.52,0:06:16.23,Sign,,0,0,0,,{\fnGentium Basic\fs216\c&H060C10&\blur1.5\q2}“Graduation Photo”
 Dialogue: 0,0:06:17.65,0:06:19.69,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 1916 0 l 1917 560 b 1817 656 1746 678 1548 612 1503 575 1446 536 1413 381 1398 270 1407 105 1473 2
-Dialogue: 1,0:06:17.77,0:06:19.69,Sign,,0,0,0,,{\kf18}{\pos(1686,284)\fnFOT-RodinNTLGProEB-Kami\fs90\c&H151515&\2c&H151515&\2a&HFF&\blur1.27}Is that \N{\kf14}your \N{\kf22}graduation \N{\kf18}photo?{\kf120}
+Dialogue: 1,0:06:17.77,0:06:19.69,Sign,,0,0,0,,{\kf18}{\pos(1686,284)\fnFOT-RodinNTLGProEB-Kami\fs90\c&H151515&\2a&HFF&\blur1.27}Is that \N{\kf14}your \N{\kf22}graduation \N{\kf18}photo?{\kf120}
 Dialogue: 0,0:06:19.69,0:06:21.28,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 2 2 l 474 0 b 521 123 569 342 480 495 342 734 144 680 0 552
-Dialogue: 1,0:06:19.82,0:06:21.28,Sign,,0,0,0,,{\kf25}{\pos(266,306)\fnFOT-RodinNTLGProEB-Kami\fs84\c&H151515&\2c&H151515&\2a&HFF&\blur1.27}Show me \N{\kf17}yours, \N{\kf19}Kukuru!{\kf85}
+Dialogue: 1,0:06:19.82,0:06:21.28,Sign,,0,0,0,,{\kf25}{\pos(266,306)\fnFOT-RodinNTLGProEB-Kami\fs84\c&H151515&\2a&HFF&\blur1.27}Show me \N{\kf17}yours, \N{\kf19}Kukuru!{\kf85}
 Dialogue: 0,0:06:23.07,0:06:24.86,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEEEF&\blur1.5\p1}m 1914 6 l 1917 612 b 1848 693 1668 711 1581 651 1452 482 1376 332 1515 2
-Dialogue: 1,0:06:23.07,0:06:24.86,Sign,,0,0,0,,{\kf25}{\pos(1686,313)\fnFOT-RodinNTLGProEB-Kami\fs81\c&H151515&\2c&H151515&\2a&HFF&\blur1.27}It was \N{\kf39}flu season...{\kf115}
+Dialogue: 1,0:06:23.07,0:06:24.86,Sign,,0,0,0,,{\kf25}{\pos(1686,313)\fnFOT-RodinNTLGProEB-Kami\fs81\c&H151515&\2a&HFF&\blur1.27}It was \N{\kf39}flu season...{\kf115}
 Dialogue: 0,0:06:24.90,0:06:26.03,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 0 5 l 483 0 b 461 147 449 365 462 488 386 497 306 566 264 620 179 572 78 516 0 404
-Dialogue: 1,0:06:24.90,0:06:26.03,Sign,,0,0,0,,{\pos(240,251)\fnFOT-RodinNTLGProEB-Kami\fs108\c&H151515&\2c&H151515&\2a&HFF&\blur1.27\kf26}Retake it!
+Dialogue: 1,0:06:24.90,0:06:26.03,Sign,,0,0,0,,{\pos(240,251)\fnFOT-RodinNTLGProEB-Kami\fs108\c&H151515&\2a&HFF&\blur1.27\kf26}Retake it!
 Dialogue: 0,0:06:26.03,0:06:26.28,Sign,,0,0,0,,{\an7\pos(0,0)\c&HF8FEFE&\blur1.5\p1}m 962 215 l 1152 -1 756 -1
 Dialogue: 0,0:06:26.28,0:06:28.78,Sign,,0,0,0,,{\an7\pos(0,0)\c&HF8FEFE&\blur1.5\p1}m 960 260 l 1155 -1 740 -1
 Dialogue: 0,0:06:26.03,0:06:26.16,Sign,,0,0,0,,{\pos(948.975,-39.715)\frz10\fnBabe Bamboo\fs84\c&H2F2623&\blur1.35}P{\frz368.182}r{\frz366.364}o{\frz364.545}g{\frz362.727}r{\frz360.909}e{\frz359.091}s{\frz357.273}s{\frz355.455}i{\frz353.636}o{\frz351.818}n{\frz-10}
@@ -1043,9 +1043,9 @@ Dialogue: 0,0:07:11.91,0:07:12.28,Sign,,0,0,0,,{\an7\pos(0,-66.15)\fscy130\c&HF2
 Dialogue: 0,0:07:12.28,0:07:13.95,Sign,,0,0,0,,{\c&HEBF2F6&\blur1.5\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:07:12.28,0:07:13.95,Sign,,0,0,0,,{\fnGentium Basic\fs216\c&H060C10&\blur1.5}“Summer Trip”
 Dialogue: 0,0:07:14.16,0:07:15.79,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 899 59 l 918 504 986 540 1203 438 1211 68
-Dialogue: 1,0:07:14.16,0:07:15.79,Sign,,0,0,0,,{\pos(1043.2,205.199)\fnFOT-RodinNTLGProEB-Kami\c&H151515&\2c&H151515&\2a&HFF&\blur1.27\kf32}It's vacay time!
+Dialogue: 1,0:07:14.16,0:07:15.79,Sign,,0,0,0,,{\pos(1043.2,205.199)\fnFOT-RodinNTLGProEB-Kami\c&H151515&\2a&HFF&\blur1.27\kf32}It's vacay time!
 Dialogue: 0,0:07:16.16,0:07:18.46,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 225 63 l 543 63 543 945 225 945
-Dialogue: 1,0:07:16.16,0:07:18.46,Sign,,0,0,0,,{\kf0}{\kf25}{\pos(373.2,467.199)\fnFOT-RodinNTLGProEB-Kami\fs96\c&H151515&\2c&H151515&\2a&HFF&\blur1.27}Let's go \N{\kf30}buy swimsuits!{\kf175}
+Dialogue: 1,0:07:16.16,0:07:18.46,Sign,,0,0,0,,{\kf0}{\kf25}{\pos(373.2,467.199)\fnFOT-RodinNTLGProEB-Kami\fs96\c&H151515&\2a&HFF&\blur1.27}Let's go \N{\kf30}buy swimsuits!{\kf175}
 Dialogue: 0,0:07:23.63,0:07:27.59,Sign,,0,0,0,,{\an7\pos(66.927,15.311)\c&HE8EEF4&\blur1.5\p1}m 596 135 l 654 140 b 648 167 642 224 606 258 588 251 557 191 537 144
 Dialogue: 0,0:07:23.63,0:07:27.59,Sign,,0,0,0,,{\pos(664.582,162.489)\frz11.92\fry14\frx4\fnBabe Bamboo\fs25\c&H2F2623&\blur1.35}P{\frz370.109}r{\frz368.298}o{\frz366.487}g{\frz364.676}r{\frz362.865}e{\frz361.055}s{\frz359.244}s{\frz357.433}i{\frz355.622}o{\frz353.811}n{\frz-8}
 Dialogue: 0,0:07:23.63,0:07:27.59,Sign,,0,0,0,,{\an7\pos(6,-36)\frz358.6\c&HE8EEF4&\blur1.5\p1}m 1299 215 b 1301 245 1298 303 1304 332 l 1401 330 1410 213
@@ -1100,11 +1100,11 @@ Dialogue: 0,0:07:35.98,0:07:37.81,Sign,,0,0,0,,{\pos(968.583,60.321)\frz13\fry-4
 Dialogue: 0,0:07:37.81,0:07:39.40,Sign,,0,0,0,,{\c&HEBF2F6&\blur1.5\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:07:37.81,0:07:39.40,Sign,,0,0,0,,{\fnGentium Basic\fs216\c&H060C10&\blur1.5\q2}“Hot spring”
 Dialogue: 0,0:07:39.65,0:07:42.23,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEEF0&\blur1.5\p1}m 1449 80 l 1875 63 1860 638 1689 614 1659 398 1479 392
-Dialogue: 1,0:07:39.65,0:07:42.23,Sign,,0,0,0,,{\kf40}{\an4\pos(1418.001,206)\fs96\c&H151515&\2c&H151515&\2a&HFF&\blur1.27}Ah{\kf66}{\fscx800}~{\kf4}{\fscx100\fs72}\N\N{\kf55}That hits the spot!{\kf93}
+Dialogue: 1,0:07:39.65,0:07:42.23,Sign,,0,0,0,,{\kf40}{\an4\pos(1418.001,206)\fs96\c&H151515&\2a&HFF&\blur1.27}Ah{\kf66}{\fscx800}~{\kf4}{\fscx100\fs72}\N\N{\kf55}That hits the spot!{\kf93}
 Dialogue: 0,0:07:42.48,0:07:44.11,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 140 794 l 60 735 44 132 312 92 315 345 182 741
-Dialogue: 1,0:07:42.48,0:07:44.11,Sign,,0,0,0,,{\kf0}{\kf43}{\pos(162,363.999)\fs96\c&H151515&\2c&H151515&\2a&HFF&\blur1.27}I'm glad \N{\kf19}we \N{\kf23}went.{\kf78}
+Dialogue: 1,0:07:42.48,0:07:44.11,Sign,,0,0,0,,{\kf0}{\kf43}{\pos(162,363.999)\fs96\c&H151515&\2a&HFF&\blur1.27}I'm glad \N{\kf19}we \N{\kf23}went.{\kf78}
 Dialogue: 0,0:07:44.32,0:07:45.86,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 1260 549 l 1442 366 1499 267 1482 101 1223 98 1170 341
-Dialogue: 1,0:07:44.32,0:07:45.86,Sign,,0,0,0,,{\kf58}{\pos(1341,255.999)\fs96\c&H151515&\2c&H151515&\2a&HFF&\blur1.27}We're in \N{\kf38}heaven.{\kf58}
+Dialogue: 1,0:07:44.32,0:07:45.86,Sign,,0,0,0,,{\kf58}{\pos(1341,255.999)\fs96\c&H151515&\2a&HFF&\blur1.27}We're in \N{\kf38}heaven.{\kf58}
 Dialogue: 0,0:07:46.03,0:07:47.95,Sign,,0,0,0,,{\an7\pos(0,0)\c&HEFEFEF&\blur1.5\p1}m 708 624 l 761 617 816 440 809 236 747 99 681 93 624 257 647 489
 Dialogue: 0,0:07:50.74,0:07:55.62,Sign,,0,0,0,,{\an7\pos(3,1.5)\c&HE8EDF1&\blur1.5\p1}m 735 320 l 762 300 770 273 759 231 717 236 696 267 705 306
 Dialogue: 1,0:07:50.74,0:07:55.62,Sign,,0,0,0,,{\pos(736.851,278.76)\fry10\fnBabe Bamboo\fs30\c&H2F2623&\blur1.35}Intro
@@ -1697,6 +1697,3 @@ Dialogue: 4,0:21:08.71,0:21:09.83,Sign,,0,0,0,,{\an7\pos(410,633)\fscx173\fscy78
 Dialogue: 4,0:21:08.71,0:21:09.83,Sign,,0,0,0,,{\an7\pos(410,633)\fscx173\fscy78\c&H010101&\blur1.5\clip(668,600,671,786)\p1}m 0 0 l 150 0 150 150 0 150
 Dialogue: 5,0:21:08.71,0:21:09.83,Sign,,0,0,0,,{\pos(630,685)\fnLinux Libertine\fs180\1a&HE6&\blur1.5\clip(405,629,660,753)}♇
 Dialogue: 6,0:21:08.71,0:21:09.83,Sign,,0,0,0,,{\pos(535,692)\fnHelvetica Neue\fs60\b0\blur1.2}Pluto
-
-[Aegisub Extradata]
-Data: 6,l0.MoveAlongPath,e{"orgLine"#3A"{\\pos(933#2C241)\\clip(m 694.45 266.91 b 746.64 227.55 1099.91 218.36 1160.82 249.55)}Clatter"#2C"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"a5271316-5c67-4843-b16b-914c55f6e092"}

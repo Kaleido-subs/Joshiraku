@@ -32,7 +32,7 @@ Dialogue: 1,0:15:14.14,0:15:16.14,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro S
 Dialogue: 0,0:23:39.93,0:23:42.69,Sign,,0,0,0,repeat TS,{\pos(878,540)\fscx1535\fscy2000\fsp-10.35\c&H1856D9&\blur1.5}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:39.93,0:23:42.69,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs216\2a&HFF&\blur0.9}Next Time
 Dialogue: 0,0:24:04.21,0:24:10.01,Sign,,0,0,0,repeat TS,{\pos(878,540)\fscx1535\fscy2000\fsp-10.35\c&H1856D9&\blur1.5}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
-Dialogue: 1,0:24:04.21,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,360)\fnConsolas\fs141\2a&HFF&\blur0.9}① {\fnGaramond Premr Pro Smbd Capt}Praise the Girl
+Dialogue: 1,0:24:04.21,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,360)\fnConsolas\fs140\blur0.9}① {\fnGaramond Premr Pro Smbd Capt}Praise the Girl
 Dialogue: 1,0:24:04.21,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,540)\fnConsolas\fs141\2a&HFF&\blur0.9}② {\fnGaramond Premr Pro Smbd Capt}Trendy Town
 Dialogue: 1,0:24:04.21,0:24:10.01,Sign,,0,0,0,repeat TS,{\an4\pos(284,720)\fnConsolas\fs141\2a&HFF&\blur0.9}③ {\fnGaramond Premr Pro Smbd Capt}A Farewell to Glasses
 Dialogue: 0,0:09:02.43,0:09:04.94,Sign,,0,0,0,midcard,{\pos(436,879)\frz28.88\fnBrushStroke 35\fs100\c&H000000&\blur1.2}Rakugo Girls
@@ -353,4 +353,4 @@ Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(814,242)\frz-3.88\fnKozuka 
 Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(844,243)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H242A2B&\blur1.5}a
 Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(871,245)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H242A2B&\blur1.5}l
 Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(557,299)\frz359.4\fnLato\fs27\c&H242A2B&\blur1.35}Dry-T-Zone Morphin' Skin Arrangers
-Dialogue: 0,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\an7\pos(0,-765)\c&HDDE3E7&\p1\fs72}m 220.5 907.5 l 874.5 907.5 874.5 1170 220.5 1170
+Dialogue: 0,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\an7\pos(0,-765)\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1170 220.5 1170
