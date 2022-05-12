@@ -7,7 +7,7 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 PlayResX: 1920
 PlayResY: 1080
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 Video Zoom: 8
 Video Aspect Ratio: c1.77778
 
