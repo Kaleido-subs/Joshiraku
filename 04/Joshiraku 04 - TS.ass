@@ -253,7 +253,7 @@ Dialogue: 1,0:23:59.88,0:23:59.95,Sign,,0,0,0,,{\pos(814,1007)\frz-3.88\fnKozuka
 Dialogue: 1,0:23:59.88,0:23:59.95,Sign,,0,0,0,,{\pos(844,1008)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H1F2428&\blur1.5}a
 Dialogue: 1,0:23:59.88,0:23:59.95,Sign,,0,0,0,,{\pos(871,1010)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H1F2428&\blur1.5}l
 Dialogue: 1,0:23:59.88,0:23:59.95,Sign,,0,0,0,,{\pos(557,1070)\frz359.4\fnLato\fs27\c&H242A2B&\blur1.35}Dry-T-Zone Morphin' Skin Arrangers
-Dialogue: 0,0:23:59.88,0:23:59.95,Sign,,0,0,0,,{\an7\pos(0,0)\fnIwata New Gothic Pro U-Kami\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1080 220.5 1080
+Dialogue: 0,0:23:59.88,0:23:59.95,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1080 220.5 1080
 Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(248,877)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H202625&\blur1.5}A
 Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(286,875)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H202625&\blur1.5}d
 Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(339,873)\frz1.994\fnKozuka Gothic Pro B\fs81\c&H202625&\blur1.5}C
@@ -273,7 +273,7 @@ Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(814,877)\frz-3.88\fnKozuka 
 Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(844,879)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H202625&\blur1.5}a
 Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(871,881)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H202625&\blur1.5}l
 Dialogue: 1,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\pos(557,941)\frz359.4\fnLato\fs27\c&H242A2B&\blur1.35}Dry-T-Zone Morphin' Skin Arrangers
-Dialogue: 0,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\an7\pos(0,-129)\fnIwata New Gothic Pro U-Kami\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1125 220.5 1125
+Dialogue: 0,0:23:59.95,0:24:00.08,Sign,,0,0,0,,{\an7\pos(0,-129)\fnGaramond Premr Pro Smbd Capt\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1125 220.5 1125
 Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(248,722)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H1E2425&\blur1.5}A
 Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(286,720)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H1E2425&\blur1.5}d
 Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(339,718)\frz1.994\fnKozuka Gothic Pro B\fs81\c&H1E2425&\blur1.5}C
@@ -293,7 +293,7 @@ Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(814,722)\frz-3.88\fnKozuka 
 Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(844,723)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H1E2425&\blur1.5}a
 Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(871,725)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H1E2425&\blur1.5}l
 Dialogue: 1,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\pos(557,785)\frz359.4\fnLato\fs27\c&H242A2B&\blur1.35}Dry-T-Zone Morphin' Skin Arrangers
-Dialogue: 0,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\an7\pos(0,-285)\fnIwata New Gothic Pro U-Kami\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1125 220.5 1125
+Dialogue: 0,0:24:00.08,0:24:00.21,Sign,,0,0,0,,{\an7\pos(0,-285)\fnGaramond Premr Pro Smbd Capt\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1125 220.5 1125
 Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(248,558)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H202626&\blur1.5}A
 Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(286,556)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H202626&\blur1.5}d
 Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(339,554)\frz1.994\fnKozuka Gothic Pro B\fs81\c&H202626&\blur1.5}C
@@ -313,7 +313,7 @@ Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(814,558)\frz-3.88\fnKozuka 
 Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(844,559)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H202626&\blur1.5}a
 Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(871,561)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H202626&\blur1.5}l
 Dialogue: 1,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\pos(557,621)\frz359.4\fnLato\fs27\c&H242A2B&\blur1.35}Dry-T-Zone Morphin' Skin Arrangers
-Dialogue: 0,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\an7\pos(0,-449)\fnIwata New Gothic Pro U-Kami\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1125 220.5 1125
+Dialogue: 0,0:24:00.21,0:24:00.33,Sign,,0,0,0,,{\an7\pos(0,-449)\fnGaramond Premr Pro Smbd Capt\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1125 220.5 1125
 Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(248,402)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H212728&\blur1.5}A
 Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(286,400)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H212728&\blur1.5}d
 Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(339,398)\frz1.994\fnKozuka Gothic Pro B\fs81\c&H212728&\blur1.5}C
@@ -333,7 +333,7 @@ Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(814,402)\frz-3.88\fnKozuka 
 Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(844,403)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H212728&\blur1.5}a
 Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(871,405)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H212728&\blur1.5}l
 Dialogue: 1,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\pos(557,464)\frz359.4\fnLato\fs27\c&H242A2B&\blur1.35}Dry-T-Zone Morphin' Skin Arrangers
-Dialogue: 0,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\an7\pos(0,-588)\fnIwata New Gothic Pro U-Kami\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1170 220.5 1170
+Dialogue: 0,0:24:00.33,0:24:00.46,Sign,,0,0,0,,{\an7\pos(0,-588)\fnGaramond Premr Pro Smbd Capt\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1170 220.5 1170
 Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(248,242)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H242A2B&\blur1.5}A
 Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(286,240)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H242A2B&\blur1.5}d
 Dialogue: 1,0:24:00.46,0:24:01.16,Sign,,0,0,0,,{\pos(339,238)\frz1.994\fnKozuka Gothic Pro B\fs81\c&H242A2B&\blur1.5}C

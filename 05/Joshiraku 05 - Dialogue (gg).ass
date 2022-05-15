@@ -562,8 +562,8 @@ Dialogue: 0,0:19:14.04,0:19:14.84,Default,,0,0,0,,{\an1\pos(49.5,244.5)\fnArial 
 Dialogue: 0,0:19:15.25,0:19:16.42,Default,,0,0,0,,{\an1\pos(1192.5,304.5)\fnArial Rounded MT Bold\fs120\bord7.5\shad0\c&H111112&\3c&HD0D3D7&}Big sister skin\N{\fs90}\h\hBuratei Marii
 Dialogue: 0,0:19:38.99,0:19:41.45,Default,,0,0,0,,{\pos(540,306)\fnArial Rounded MT\bord0\shad0\c&HEFF2F9&\be2}{TS 1936}{?}Beauty{the white on the black's torso and forehead are 美}
 Dialogue: 0,0:19:44.12,0:19:45.62,Default,,0,0,0,,{\pos(1090.5,405)\frz304.255\fnH_Kobato_Main\fs45\bord0\shad0\c&H2E2E32&\be2}{TS 1943}Moisturizer
-Dialogue: 0,0:19:53.33,0:19:55.34,Default,,0,0,0,,{\pos(726,159)\fnCantabile\fs135\c&H00CDFB&}{TS 1953}Skin Cream
-Dialogue: 0,0:19:53.33,0:19:55.34,Default,,0,0,0,,{\pos(760.5,654)\fnCantabile\fs75\c&H00CDFB&\be2}{DHA DNA iPS }compound
+Dialogue: 0,0:19:53.33,0:19:55.34,Default,,0,0,0,,{\pos(726,159)\fnLivingstone\fs75\b0\c&H00CDFB&}{TS 1953}Skin Cream
+Dialogue: 0,0:19:53.33,0:19:55.34,Default,,0,0,0,,{\pos(430.5,592)\fnLivingstone\fs75\b0\c&H00CDFB&\be2}{DHA DNA iPS }compound
 Dialogue: 1,0:19:44.12,0:19:45.62,Default,,0,0,0,,{\pos(675,625.5)\frz127.143\fnH_Kobato_Main\fs45\bord0\shad0\c&H2E2E32&\be2}Cellular Revitalizer
 Dialogue: 0,0:01:44.45,0:01:46.46,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
 Dialogue: 0,0:02:58.40,0:03:13.38,block,,0,0,0,,{\pos(1099.5,645)\frz13.661\c&H2D7AA5&\blur3}A

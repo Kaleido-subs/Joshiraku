@@ -23,11 +23,11 @@ Style: Sign,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:43.45,0:01:45.46,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
+Dialogue: 0,0:01:43.45,0:01:45.46,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:01:43.45,0:01:45.46,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\blur0.9}Praise the Girl
-Dialogue: 0,0:08:47.38,0:08:49.38,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
+Dialogue: 0,0:08:47.38,0:08:49.38,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:08:47.38,0:08:49.38,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\blur0.9}Trendy Town
-Dialogue: 0,0:15:21.23,0:15:23.23,Sign,,0,0,0,repeat TS,{\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
+Dialogue: 0,0:15:21.23,0:15:23.23,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:15:21.23,0:15:23.23,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs150\blur0.9}A Farewell to Glasses
 Dialogue: 0,0:23:39.98,0:23:43.23,Sign,,0,0,0,repeat TS,{\pos(878,540)\fscx1535\fscy2000\fsp-10.35\c&H1856D9&\blur1.5}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|{\c&H1856D9&}|{\c&H487901&}|{\c&H101410&}|
 Dialogue: 1,0:23:39.98,0:23:43.23,Sign,,0,0,0,repeat TS,{\fnGaramond Premr Pro Smbd Capt\fs216\2a&HFF&\blur0.9}Next Time
@@ -39,17 +39,17 @@ Dialogue: 1,0:08:36.45,0:08:38.95,Sign,,0,0,0,midcard,{\pos(1432,762)\frz345.6\f
 Dialogue: 1,0:08:36.45,0:08:38.95,Sign,,0,0,0,midcard,{\pos(1432,762)\frz345.6\fnBrushStroke 35\fs100\b0\c&H000000&\blur1.2}Rakugo Girls
 Dialogue: 1,0:15:09.42,0:15:11.93,Sign,,0,0,0,midcard,{\pos(346,842)\frz23.19\fnBrushStroke 35\fs100\b0\c&H000000&\blur1.2}Rakugo Girls
 Dialogue: 1,0:15:09.42,0:15:11.93,Sign,,0,0,0,midcard,{\pos(346,842)\frz23.19\fnBrushStroke 35\fs100\b0\c&H000000&\blur1.2}Rakugo Girls
-Dialogue: 0,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\an7\pos(795,963)\c&HE0E6E8&\blur0.9\clip(m 769.5 799.5 l 789 790.5 796.5 882 801 937.5 801 961.5 765 961.5)\p1}m -24 -1 l 9 -3 8 -25 9 -48 8 -63 8 -75 6 -88 6 -99 5 -111 3 -121 3 -130 3 -139 2 -153 0 -163 -15 -166
+Dialogue: 0,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\an7\pos(795,963)\fnGaramond Premr Pro Smbd Capt\c&HE0E6E8&\blur0.9\clip(m 769.5 799.5 l 789 790.5 796.5 882 801 937.5 801 961.5 765 961.5)\p1}m -24 -1 l 9 -3 8 -25 9 -48 8 -63 8 -75 6 -88 6 -99 5 -111 3 -121 3 -130 3 -139 2 -153 0 -163 -15 -166
 Dialogue: 1,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\pos(791,881)\org(791,950)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs24\c&H424C52&\alpha&H80&\blur7.5\clip(m 769.5 799.5 l 789 790.5 796.5 882 801 937.5 801 961.5 765 961.5)}N \No \N\NR \Nu \Nb \Ns \N!
 Dialogue: 2,0:02:52.15,0:02:53.27,Sign,,0,0,0,,{\pos(791,881)\org(791,950)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs24\c&H424C52&\blur1.2\clip(m 769.5 799.5 l 789 790.5 796.5 882 801 937.5 801 961.5 765 961.5)}N \No \N\NR \Nu \Nb \Ns \N!
-Dialogue: 0,0:02:53.40,0:02:53.48,Sign,,0,0,0,,{\an7\pos(-1,2)\c&HE4EBF0&\blur1.5\clip(m 802.5 907.5 l 801 940.5 801 967.5 826.5 964.5 828 916.5)\p1}m 800 956 l 800 936 798 915 815 915 816 959
-Dialogue: 0,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\an7\pos(0,0)\c&HE3EBF0&\blur1.5\clip(m 788.25 964.125 l 787 930 787.125 886.5 789.5 822 791.125 797.875 793 778.5 823.5 781.5 825 955.5)\p1}m 792 785 l 807 789 824 951 785 956 785 908 788 840 788 804
+Dialogue: 0,0:02:53.40,0:02:53.48,Sign,,0,0,0,,{\an7\pos(-1,2)\fnGaramond Premr Pro Smbd Capt\c&HE4EBF0&\blur1.5\clip(m 802.5 907.5 l 801 940.5 801 967.5 826.5 964.5 828 916.5)\p1}m 800 956 l 800 936 798 915 815 915 816 959
+Dialogue: 0,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HE3EBF0&\blur1.5\clip(m 788.25 964.125 l 787 930 787.125 886.5 789.5 822 791.125 797.875 793 778.5 823.5 781.5 825 955.5)\p1}m 792 785 l 807 789 824 951 785 956 785 908 788 840 788 804
 Dialogue: 1,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\pos(795,875)\org(791,950)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs24\c&H424C52&\alpha&H80&\blur7.5}N \No \N\NR \Nu \Nb \Ns \N!
 Dialogue: 2,0:02:53.48,0:02:53.56,Sign,,0,0,0,,{\pos(795,875)\org(791,950)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs24\c&H424C52&\blur1.2}N \No \N\NR \Nu \Nb \Ns \N!
-Dialogue: 0,0:02:53.56,0:02:53.65,Sign,,0,0,0,,{\an7\pos(0,0)\c&HE4EBF0&\blur1.5\clip(m 780 958.5 l 777 931.5 780 873 780 820.5 783 787.5 817.5 790.5 819 963)\p1}m 783 782 l 809 788 812 956 779 950 777 905 780 860 780 828 780 804
+Dialogue: 0,0:02:53.56,0:02:53.65,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HE4EBF0&\blur1.5\clip(m 780 958.5 l 777 931.5 780 873 780 820.5 783 787.5 817.5 790.5 819 963)\p1}m 783 782 l 809 788 812 956 779 950 777 905 780 860 780 828 780 804
 Dialogue: 1,0:02:53.56,0:02:57.40,Sign,,0,0,0,,{\pos(793,875)\org(791,950)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs24\c&H424C52&\alpha&H80&\blur7.5}N \No \N\NR \Nu \Nb \Ns \N!
 Dialogue: 2,0:02:53.56,0:02:57.40,Sign,,0,0,0,,{\pos(793,875)\org(791,950)\fscx145\fry319.9\frx4.21\fax0.09\fnHanoded\fs24\c&H424C52&\blur1.2}N \No \N\NR \Nu \Nb \Ns \N!
-Dialogue: 0,0:02:53.65,0:02:57.40,Sign,,0,0,0,,{\an7\pos(0,0)\c&HE2E9EE&\blur1.5\p1}m 777 780 l 809 780 821 954 773 948
+Dialogue: 0,0:02:53.65,0:02:57.40,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HE2E9EE&\blur1.5\p1}m 777 780 l 809 780 821 954 773 948
 Dialogue: 0,0:04:36.54,0:04:37.17,Sign,,0,0,0,,{\pos(461,638)\fnHeiseiMinchoW9-AnoHana\fs101\bord4.5\1c&HF3F7F9&\3c&HF3F7F9&\3a&H40&\blur3}Boozing
 Dialogue: 1,0:04:36.54,0:04:37.17,Sign,,0,0,0,,{\pos(461,638)\fnHeiseiMinchoW9-AnoHana\fs101\bord4.5\1c&HF3F7F9&\3c&HF3F7F9&\blur1.2}Boozing
 Dialogue: 2,0:04:36.54,0:04:37.17,Sign,,0,0,0,,{\pos(461,638)\fnHeiseiMinchoW9-AnoHana\fs101\bord4.5\1c&HF3F7F9&\3c&HF3F7F9&\blur1.2}Boozing
@@ -90,7 +90,7 @@ Dialogue: 1,0:11:41.93,0:11:42.01,Sign,,0,0,0,,{\fscx120\fs1200\c&H0000FF&\1a&HD
 Dialogue: 1,0:11:42.09,0:11:42.18,Sign,,0,0,0,,{\fscx120\fs1200\c&H0000FF&\1a&HDC&\blur6}X
 Dialogue: 1,0:11:42.26,0:11:42.34,Sign,,0,0,0,,{\fscx120\fs1200\c&H0000FF&\1a&HDC&\blur6}X
 Dialogue: 1,0:11:42.43,0:11:42.89,Sign,,0,0,0,,{\fscx120\fs1200\c&H0000FF&\1a&HDC&\blur6}X
-Dialogue: 0,0:11:39.80,0:11:42.89,Sign,,0,0,0,,{\p1}m 0 0 l 1920 0 1920 1080 0 1080
+Dialogue: 0,0:11:39.80,0:11:42.89,Sign,,0,0,0,,{\fnGaramond Premr Pro Smbd Capt\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\pos(934,195)\fscx500\fnLucida Handwriting\fs84\i1\1a&H28&\blur9\fad(150,0)\t(100,400,\c&H0F1BBD&\blur7.5)}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
 Dialogue: 0,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\pos(934,195)\fscx500\fnLucida Handwriting\fs84\i1\1a&H28&\blur30\fad(150,0)\t(100,400,\c&H0F1BBD&\blur6)}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
 Dialogue: 1,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\pos(934,195)\fscx500\fnLucida Handwriting\fs84\i1\3c&H060A10&\1a&H28&\fad(150,0)\t(100,400,\c&H0F1BBD&\1a&HC8&\blur4.5\bord3)}—{\fscx100}    Chevrolet Sushi Hell {\fscx500}—
@@ -98,10 +98,10 @@ Dialogue: 2,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\pos(934,195)\fscx500\fnLucida H
 Dialogue: 3,0:12:09.54,0:12:13.25,Sign,,0,0,0,,{\pos(1018,191)\fnGrain\b0\c&H222A2C&\1a&H64&\blur1}gsgsoappldsapibmdlpaiogcs
 Dialogue: 1,0:12:18.34,0:12:20.80,Sign,,0,0,0,,{\pos(1092,862)\fscx95\fscy130\frz4.6\fax0.12\fnGill Sans MT\fs24\c&H333945&\alpha&HC0&\blur6}Custard C{\fs23}hocolate Special
 Dialogue: 2,0:12:18.34,0:12:20.80,Sign,,0,0,0,,{\pos(1092,862)\fscx95\fscy130\frz4.6\fax0.12\fnGill Sans MT\fs24\c&H333945&\blur1.35}Custard C{\fs23}hocolate Special
-Dialogue: 0,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\pos(1428,293)\bord2.4\c&H5B4AE7&\3c&H1700C6&\blur0.6\p1}m 96 155 b 93 146 96 128 98 119 123 110 158 89 171 78 182 66 201 54 213 35 216 29 225 14 224 5 222 -7 221 -27 213 -43 198 -66 182 -81 159 -94 132 -109 105 -117 80 -121 48 -127 11 -130 -24 -129 -58 -124 -79 -121 -112 -111 -136 -105 -165 -91 -189 -76 -201 -64 -225 -48 -237 -25 -243 -16 -249 3 -249 15 -246 60 -226 99 -144 120 -97 132 -1 144 56 132
-Dialogue: 1,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\pos(1428,293)\c&H5B4AE7&\blur1.5\p1}m 96 155 b 93 146 96 128 98 119 123 110 158 89 171 78 182 66 201 54 213 35 216 29 225 14 224 5 222 -7 221 -27 213 -43 198 -66 182 -81 159 -94 132 -109 105 -117 80 -121 48 -127 11 -130 -24 -129 -58 -124 -79 -121 -112 -111 -136 -105 -165 -91 -189 -76 -201 -64 -225 -48 -237 -25 -243 -16 -249 3 -249 15 -246 60 -226 99 -144 120 -97 132 -1 144 56 132
-Dialogue: 2,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\pos(1420,296)\bord3\3c&H1700C6&\blur1.5\p1}m 86 122 b 87 116 90 102 93 98 105 96 138 83 149 74 167 62 185 39 195 26 200 14 206 -9 204 -22 201 -37 188 -51 182 -61 161 -76 137 -88 122 -97 99 -106 69 -109 51 -114 24 -118 -6 -118 -33 -114 -79 -106 -124 -91 -165 -63 -202 -34 -210 -6 -213 14 -213 36 -207 50 -198 62 -189 69 -175 80 -162 84 -90 108 -12 116 63 111
-Dialogue: 3,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\pos(1420,296)\c&HEEE0FA&\blur0.9\p1}m 86 122 b 87 116 90 102 93 98 105 96 138 83 149 74 167 62 185 39 195 26 200 14 206 -9 204 -22 201 -37 188 -51 182 -61 161 -76 137 -88 122 -97 99 -106 69 -109 51 -114 24 -118 -6 -118 -33 -114 -79 -106 -124 -91 -165 -63 -202 -34 -210 -6 -213 14 -213 36 -207 50 -198 62 -189 69 -175 80 -162 84 -90 108 -12 116 63 111
+Dialogue: 0,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\pos(1428,293)\fnGaramond Premr Pro Smbd Capt\bord2.4\c&H5B4AE7&\3c&H1700C6&\blur0.6\p1}m 96 155 b 93 146 96 128 98 119 123 110 158 89 171 78 182 66 201 54 213 35 216 29 225 14 224 5 222 -7 221 -27 213 -43 198 -66 182 -81 159 -94 132 -109 105 -117 80 -121 48 -127 11 -130 -24 -129 -58 -124 -79 -121 -112 -111 -136 -105 -165 -91 -189 -76 -201 -64 -225 -48 -237 -25 -243 -16 -249 3 -249 15 -246 60 -226 99 -144 120 -97 132 -1 144 56 132
+Dialogue: 1,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\pos(1428,293)\fnGaramond Premr Pro Smbd Capt\c&H5B4AE7&\blur1.5\p1}m 96 155 b 93 146 96 128 98 119 123 110 158 89 171 78 182 66 201 54 213 35 216 29 225 14 224 5 222 -7 221 -27 213 -43 198 -66 182 -81 159 -94 132 -109 105 -117 80 -121 48 -127 11 -130 -24 -129 -58 -124 -79 -121 -112 -111 -136 -105 -165 -91 -189 -76 -201 -64 -225 -48 -237 -25 -243 -16 -249 3 -249 15 -246 60 -226 99 -144 120 -97 132 -1 144 56 132
+Dialogue: 2,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\pos(1420,296)\fnGaramond Premr Pro Smbd Capt\bord3\3c&H1700C6&\blur1.5\p1}m 86 122 b 87 116 90 102 93 98 105 96 138 83 149 74 167 62 185 39 195 26 200 14 206 -9 204 -22 201 -37 188 -51 182 -61 161 -76 137 -88 122 -97 99 -106 69 -109 51 -114 24 -118 -6 -118 -33 -114 -79 -106 -124 -91 -165 -63 -202 -34 -210 -6 -213 14 -213 36 -207 50 -198 62 -189 69 -175 80 -162 84 -90 108 -12 116 63 111
+Dialogue: 3,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\an7\pos(1420,296)\fnGaramond Premr Pro Smbd Capt\c&HEEE0FA&\blur0.9\p1}m 86 122 b 87 116 90 102 93 98 105 96 138 83 149 74 167 62 185 39 195 26 200 14 206 -9 204 -22 201 -37 188 -51 182 -61 161 -76 137 -88 122 -97 99 -106 69 -109 51 -114 24 -118 -6 -118 -33 -114 -79 -106 -124 -91 -165 -63 -202 -34 -210 -6 -213 14 -213 36 -207 50 -198 62 -189 69 -175 80 -162 84 -90 108 -12 116 63 111
 Dialogue: 4,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\pos(1416,299)\frz2.821\fnFrom Where You Are\fs60\fsp6\b0\bord3\c&H5B4AEB&\3c&HFFFFFF&\alpha&H80&\blur6}kurīmī {\1a&HFF&\3a&HFF&\t(770,770,\1a&H00&\3a&H80&)}\N-> \N{\1a&HFF&\3a&HFF&\t(1480,1480,\1a&H00&\3a&H80&)}creamy
 Dialogue: 6,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\pos(1416,299)\frz2.821\fnFrom Where You Are\fs60\fsp6\b0\bord1.5\c&H1700C6&\3c&H1700C6&\4a&HFF&\blur0.9}kurīmī {\1a&HFF&\3a&HFF&\t(770,770,\1a&H00&\3a&H00&)}\N-> \N{\1a&HFF&\3a&HFF&\t(1480,1480,\1a&H00&\3a&H00&)}creamy
 Dialogue: 7,0:14:16.71,0:14:19.71,Sign,,0,0,0,,{\pos(1416,299)\frz2.821\fnFrom Where You Are\fs60\fsp6\b0\c&H5B4AEB&\4a&HFF&\blur0.9}kurīmī {\1a&HFF&\3a&HFF&\t(770,770,\1a&H00&\3a&H00&)}\N-> \N{\1a&HFF&\3a&HFF&\t(1480,1480,\1a&H00&\3a&H00&)}creamy
@@ -124,7 +124,7 @@ Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(814,1007)\frz-3.88\fnKozuka
 Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(844,1008)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H1F2428&\blur1.5}a
 Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(871,1010)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H1F2428&\blur1.5}l
 Dialogue: 1,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\pos(557,1070)\frz359.4\fnLato\fs27\c&H242A2B&\blur1.35}Dry-T-Zone Morphin' Skin Arrangers
-Dialogue: 0,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\an7\pos(0,0)\fnIwata New Gothic Pro U-Kami\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1080 220.5 1080
+Dialogue: 0,0:19:00.95,0:19:01.07,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1080 220.5 1080
 Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(248,877)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H202625&\blur1.5}A
 Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(286,875)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H202625&\blur1.5}d
 Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(339,873)\frz1.994\fnKozuka Gothic Pro B\fs81\c&H202625&\blur1.5}C
@@ -144,7 +144,7 @@ Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(814,877)\frz-3.88\fnKozuka 
 Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(844,879)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H202625&\blur1.5}a
 Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(871,881)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H202625&\blur1.5}l
 Dialogue: 1,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\pos(557,941)\frz359.4\fnLato\fs27\c&H242A2B&\blur1.35}Dry-T-Zone Morphin' Skin Arrangers
-Dialogue: 0,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\an7\pos(0,-129)\fnIwata New Gothic Pro U-Kami\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1125 220.5 1125
+Dialogue: 0,0:19:01.07,0:19:01.20,Sign,,0,0,0,,{\an7\pos(0,-129)\fnGaramond Premr Pro Smbd Capt\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1125 220.5 1125
 Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(248,722)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H1E2425&\blur1.5}A
 Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(286,720)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H1E2425&\blur1.5}d
 Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(339,718)\frz1.994\fnKozuka Gothic Pro B\fs81\c&H1E2425&\blur1.5}C
@@ -164,7 +164,7 @@ Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(814,722)\frz-3.88\fnKozuka 
 Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(844,723)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H1E2425&\blur1.5}a
 Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(871,725)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H1E2425&\blur1.5}l
 Dialogue: 1,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\pos(557,785)\frz359.4\fnLato\fs27\c&H242A2B&\blur1.35}Dry-T-Zone Morphin' Skin Arrangers
-Dialogue: 0,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\an7\pos(0,-285)\fnIwata New Gothic Pro U-Kami\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1125 220.5 1125
+Dialogue: 0,0:19:01.20,0:19:01.32,Sign,,0,0,0,,{\an7\pos(0,-285)\fnGaramond Premr Pro Smbd Capt\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1125 220.5 1125
 Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(248,558)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H202626&\blur1.5}A
 Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(286,556)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H202626&\blur1.5}d
 Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(339,554)\frz1.994\fnKozuka Gothic Pro B\fs81\c&H202626&\blur1.5}C
@@ -184,7 +184,7 @@ Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(814,558)\frz-3.88\fnKozuka 
 Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(844,559)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H202626&\blur1.5}a
 Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(871,561)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H202626&\blur1.5}l
 Dialogue: 1,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\pos(557,621)\frz359.4\fnLato\fs27\c&H242A2B&\blur1.35}Dry-T-Zone Morphin' Skin Arrangers
-Dialogue: 0,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\an7\pos(0,-449)\fnIwata New Gothic Pro U-Kami\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1125 220.5 1125
+Dialogue: 0,0:19:01.32,0:19:01.45,Sign,,0,0,0,,{\an7\pos(0,-449)\fnGaramond Premr Pro Smbd Capt\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1125 220.5 1125
 Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(248,402)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H212728&\blur1.5}A
 Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(286,400)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H212728&\blur1.5}d
 Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(339,398)\frz1.994\fnKozuka Gothic Pro B\fs81\c&H212728&\blur1.5}C
@@ -204,7 +204,7 @@ Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(814,402)\frz-3.88\fnKozuka 
 Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(844,403)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H212728&\blur1.5}a
 Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(871,405)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H212728&\blur1.5}l
 Dialogue: 1,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\pos(557,464)\frz359.4\fnLato\fs27\c&H242A2B&\blur1.35}Dry-T-Zone Morphin' Skin Arrangers
-Dialogue: 0,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\an7\pos(0,-588)\fnIwata New Gothic Pro U-Kami\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1170 220.5 1170
+Dialogue: 0,0:19:01.45,0:19:01.57,Sign,,0,0,0,,{\an7\pos(0,-588)\fnGaramond Premr Pro Smbd Capt\fs27\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1170 220.5 1170
 Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(248,242)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H242A2B&\blur1.5}A
 Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(286,240)\frz3.184\fnKozuka Gothic Pro B\fs81\c&H242A2B&\blur1.5}d
 Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(339,238)\frz1.994\fnKozuka Gothic Pro B\fs81\c&H242A2B&\blur1.5}C
@@ -224,7 +224,7 @@ Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(814,242)\frz-3.88\fnKozuka 
 Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(844,243)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H242A2B&\blur1.5}a
 Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(871,245)\frz-3.88\fnKozuka Gothic Pro B\fs81\c&H242A2B&\blur1.5}l
 Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(557,299)\frz359.4\fnLato\fs27\c&H242A2B&\blur1.35}Dry-T-Zone Morphin' Skin Arrangers
-Dialogue: 0,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\an7\pos(0,-765)\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1170 220.5 1170
+Dialogue: 0,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\an7\pos(0,-765)\fnGaramond Premr Pro Smbd Capt\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1170 220.5 1170
 Dialogue: 1,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(970,885)\fnGrain\c&H0A0A0A&\1a&H80&\blur3\fs}AHDHODHODBNHD\NSGONSDOGSDNG
 Comment: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\fnMachine Gunk\frx12\fry0\c&H0311C2&\blur3\fs72}Skin Arrangers \NDry-T-Zone Morphin'
 Comment: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\fnMachine Gunk\frx12\fry0\c&H3030E4&\blur3\fs72}Skin Arrangers \NDry-T-Zone Morphin'
