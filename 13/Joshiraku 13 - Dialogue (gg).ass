@@ -41,62 +41,62 @@ Style: jp2,DaunPenh,90,&H00FFFFFF,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 5,0:01:30.48,0:01:33.95,Default,,0,0,0,,"So, it's time to say goodbye?"
-Dialogue: 5,0:01:33.95,0:01:36.16,Default,,0,0,0,,"Indeed it is."
-Dialogue: 5,0:01:48.18,0:01:50.25,Default,,0,0,0,,So this is the last episode?
-Dialogue: 5,0:01:50.25,0:01:52.55,Default,,0,0,0,,It's time for the new cour.
-Dialogue: 5,0:01:53.51,0:01:56.22,Default,,0,0,0,,The season of encounters and goodbyes.
-Dialogue: 5,0:01:56.67,0:02:00.18,Default,,0,0,0,,We must treasure each and every encounter.
-Dialogue: 5,0:02:00.71,0:02:03.16,Default,,0,0,0,,Each and every one only happens once in a lifetime.
-Dialogue: 5,0:02:03.84,0:02:05.23,Default,,0,0,0,,Once in a lifetime?
-Dialogue: 5,0:02:05.64,0:02:07.06,Default,,0,0,0,,What do you mean by that?
-Dialogue: 5,0:02:07.46,0:02:13.02,Default,,0,0,0,,You might never meet again, so cherish every encounter.
-Dialogue: 5,0:02:13.35,0:02:17.92,Default,,0,0,0,,It's attributed to Sen-no-Rikyuu,\N who established the tea ceremony.
-Dialogue: 5,0:02:19.76,0:02:21.10,Default,,0,0,0,,Excuse me!
-Dialogue: 5,0:02:25.74,0:02:27.71,Default,,0,0,0,,Good morning!
+Dialogue: 5,0:01:33.95,0:01:36.41,Default,,0,0,0,,"Indeed it is."
+Dialogue: 5,0:01:48.18,0:01:50.01,Default,,0,0,0,,So this is the last episode?
+Dialogue: 5,0:01:50.01,0:01:52.80,Default,,0,0,0,,It's time for the new cour.
+Dialogue: 5,0:01:53.51,0:01:56.65,Default,,0,0,0,,The season of encounters and goodbyes.
+Dialogue: 5,0:01:56.65,0:02:00.85,Default,,0,0,0,,We must treasure each and every encounter.
+Dialogue: 5,0:02:00.85,0:02:03.80,Default,,0,0,0,,Each and every one only happens once in a lifetime.
+Dialogue: 5,0:02:03.80,0:02:05.62,Default,,0,0,0,,Once in a lifetime?
+Dialogue: 5,0:02:05.62,0:02:07.45,Default,,0,0,0,,What do you mean by that?
+Dialogue: 5,0:02:07.45,0:02:13.34,Default,,0,0,0,,You might never meet again, so cherish every encounter.
+Dialogue: 5,0:02:13.34,0:02:18.17,Default,,0,0,0,,It's attributed to Sen-no-Rikyuu,\N who established the tea ceremony.
+Dialogue: 5,0:02:19.76,0:02:21.35,Default,,0,0,0,,Excuse me!
+Dialogue: 5,0:02:25.74,0:02:27.96,Default,,0,0,0,,Good morning!
 Dialogue: 5,0:02:29.51,0:02:30.67,Default,,0,0,0,,Who are you?
 Dialogue: 5,0:02:30.67,0:02:34.27,Default,,0,0,0,,The master allowed me to join you for the day!
 Dialogue: 5,0:02:34.27,0:02:38.20,Default,,0,0,0,,Only to hang out, though, not to study!
 Dialogue: 5,0:02:38.20,0:02:39.53,Default,,0,0,0,,This is so cool!
 Dialogue: 5,0:02:39.53,0:02:42.13,Default,,0,0,0,,I'm pleased to make your acquaintances!
 Dialogue: 5,0:02:42.13,0:02:44.24,Default,,0,0,0,,Or as the Brits say, "one, please!"{idk how else to connect this w/Ichigo Mashimaro w/o just putting Anna's name or the show name}
-Dialogue: 5,0:02:44.24,0:02:45.83,Default,,0,0,0,,Ah, what a shining beauty!
-Dialogue: 5,0:02:46.27,0:02:48.42,Default,,0,0,0,,Do you have a boyfriend?
+Dialogue: 5,0:02:44.24,0:02:46.25,Default,,0,0,0,,Ah, what a shining beauty!
+Dialogue: 5,0:02:46.25,0:02:48.42,Default,,0,0,0,,Do you have a boyfriend?
 Dialogue: 5,0:02:48.42,0:02:49.21,Default,,0,0,0,,{\i1}Annoying.
 Dialogue: 5,0:02:49.21,0:02:50.17,Default,,0,0,0,,{\i1}Who's this girl?
-Dialogue: 5,0:02:50.17,0:02:51.27,Default,,0,0,0,,{\i1}Annoying.
+Dialogue: 5,0:02:50.17,0:02:51.61,Default,,0,0,0,,{\i1}Annoying.
 Dialogue: 5,0:02:51.27,0:02:53.92,Default,,0,0,0,,You used to be a real hellraiser, didn't you?
 Dialogue: 5,0:02:53.92,0:02:55.36,Default,,0,0,0,,Stop interrogating us!
-Dialogue: 5,0:02:55.36,0:02:58.11,Default,,0,0,0,,Is it true that you're divorced?
+Dialogue: 5,0:02:55.36,0:02:58.36,Default,,0,0,0,,Is it true that you're divorced?
 Dialogue: 5,0:02:58.91,0:03:02.28,Default,,0,0,0,,Do you like to dress up as a goth-loli in your free time?
 Dialogue: 5,0:03:02.28,0:03:04.21,Default,,0,0,0,,Someone get rid of her please.
 Dialogue: 5,0:03:04.21,0:03:06.85,Default,,0,0,0,,But she's only visiting for today. Just put up with her.
 Dialogue: 5,0:03:06.85,0:03:09.96,Default,,0,0,0,,Nope, I'm a new supporting character!
 Dialogue: 5,0:03:09.96,0:03:12.48,Default,,0,0,0,,We don't need a new supporting character in the last episode!
-Dialogue: 5,0:03:12.48,0:03:13.23,Default,,0,0,0,,You're late!
-Dialogue: 5,0:03:13.23,0:03:14.72,Default,,0,0,0,,Don't ruin our last episode!
-Dialogue: 5,0:03:14.72,0:03:16.47,Default,,0,0,0,,We wanted to end this nicely.
+Dialogue: 5,0:03:12.48,0:03:13.38,Default,,0,0,0,,You're late!
+Dialogue: 5,0:03:13.38,0:03:14.26,Default,,0,0,0,,Don't ruin our last episode!
+Dialogue: 5,0:03:14.72,0:03:16.05,Default,,0,0,0,,We wanted to end this nicely.
 Dialogue: 5,0:03:16.47,0:03:20.39,Default,,0,0,0,,Come on, all's well that ends well.
-Dialogue: 5,0:03:20.39,0:03:23.64,Default,,0,0,0,,This is our last time on screen, so let's just take it easy.
-Dialogue: 5,0:03:24.37,0:03:25.67,Default,,0,0,0,,Well, all right.
+Dialogue: 5,0:03:20.39,0:03:24.32,Default,,0,0,0,,This is our last time on screen, so let's just take it easy.
+Dialogue: 5,0:03:24.32,0:03:25.67,Default,,0,0,0,,Well, all right.
 Dialogue: 5,0:03:25.67,0:03:26.99,Default,,0,0,0,,It's just this once...
 Dialogue: 5,0:03:26.99,0:03:28.94,Default,,0,0,0,,Yeah! That's the once-in-a-lifetime spirit!
-Dialogue: 5,0:03:28.94,0:03:30.86,Default,,0,0,0,,Laugh or cry, it's the last episode!
-Dialogue: 5,0:03:30.86,0:03:32.54,Default,,0,0,0,,Let's treasure this occasion!
-Dialogue: 5,0:03:32.89,0:03:35.06,Default,,0,0,0,,Today was the day I finally got to meet you guys!
-Dialogue: 5,0:03:35.67,0:03:36.36,Default,,0,0,0,,Thank you!
-Dialogue: 5,0:03:36.36,0:03:37.45,Default,,0,0,0,,How annoying!
+Dialogue: 5,0:03:28.94,0:03:30.94,Default,,0,0,0,,Laugh or cry, it's the last episode!
+Dialogue: 5,0:03:30.94,0:03:32.88,Default,,0,0,0,,Let's treasure this occasion!
+Dialogue: 5,0:03:32.88,0:03:35.63,Default,,0,0,0,,Today was the day I finally got to meet you guys!
+Dialogue: 5,0:03:35.63,0:03:36.40,Default,,0,0,0,,Thank you!
+Dialogue: 5,0:03:36.40,0:03:37.45,Default,,0,0,0,,How annoying!
 Dialogue: 5,0:03:37.45,0:03:39.85,Default,,0,0,0,,It's just this once! It's over today!
 Dialogue: 5,0:03:39.85,0:03:43.20,Default,,0,0,0,,By the way, shouldn't you at least introduce yourself?!
 Dialogue: 5,0:03:43.20,0:03:45.38,Default,,0,0,0,,Ah, that's right! Excuse me!
-Dialogue: 5,0:03:45.38,0:03:47.44,Default,,0,0,0,,I'll announce it right away! But first...
-Dialogue: 5,0:03:47.44,0:03:48.83,Default,,0,0,0,,It's the "guess my name" quiz!
-Dialogue: 5,0:03:48.83,0:03:50.12,Default,,0,0,0,,Who knows? Anyone? Bueller?
-Dialogue: 5,0:03:50.12,0:03:52.03,Default,,0,0,0,,She's annoying!
-Dialogue: 5,0:03:52.03,0:03:53.21,Default,,0,0,0,,It's just this once!
-Dialogue: 5,0:03:53.21,0:03:57.05,Default,,0,0,0,,No hands in the air? You make your teacher sad.
+Dialogue: 5,0:03:45.38,0:03:47.29,Default,,0,0,0,,I'll announce it right away! But first...
+Dialogue: 5,0:03:47.29,0:03:48.54,Default,,0,0,0,,It's the "guess my name" quiz!
+Dialogue: 5,0:03:48.83,0:03:49.71,Default,,0,0,0,,Who knows? Anyone? Bueller?
+Dialogue: 5,0:03:50.12,0:03:51.54,Default,,0,0,0,,She's annoying!
+Dialogue: 5,0:03:52.03,0:03:53.42,Default,,0,0,0,,It's just this once!
+Dialogue: 5,0:03:53.42,0:03:57.05,Default,,0,0,0,,No hands in the air? You make your teacher sad.
 Dialogue: 5,0:03:57.05,0:04:00.21,Default,,0,0,0,,Okay then, everyone raise their hands!
-Dialogue: 5,0:04:00.21,0:04:02.04,Default,,0,0,0,,If you know it, paper!
-Dialogue: 5,0:04:02.04,0:04:04.36,Default,,0,0,0,,If you aren't sure, then scissors!
+Dialogue: 5,0:04:00.21,0:04:02.10,Default,,0,0,0,,If you know it, paper!
+Dialogue: 5,0:04:02.10,0:04:04.36,Default,,0,0,0,,If you aren't sure, then scissors!
 Dialogue: 5,0:04:04.36,0:04:06.85,Default,,0,0,0,,If you've got no idea, then rock!
 Dialogue: 5,0:04:06.85,0:04:07.60,Default,,0,0,0,,Who knows?
 Dialogue: 5,0:04:07.60,0:04:09.45,Default,,0,0,0,,This is no classroom! And you're no Kinpachi!
@@ -104,183 +104,183 @@ Dialogue: 5,0:04:09.45,0:04:10.62,Default,,0,0,0,,She's annoying! Seriously anno
 Dialogue: 5,0:04:10.62,0:04:11.50,Default,,0,0,0,,It's just this once...
 Dialogue: 5,0:04:11.50,0:04:13.16,Default,,0,0,0,,Time's up!
 Dialogue: 5,0:04:13.16,0:04:14.75,Default,,0,0,0,,Name yourself already!
-Dialogue: 5,0:04:14.75,0:04:16.31,Default,,0,0,0,,Let me announce it!
+Dialogue: 5,0:04:14.75,0:04:16.56,Default,,0,0,0,,Let me announce it!
 Dialogue: 5,0:04:17.39,0:04:21.34,Default,,0,0,0,,My name is... Iratei Anoingu!{left it uzanu bc it's on screen @0653}{zero fucks}
 Dialogue: 5,0:04:21.34,0:04:22.57,Default,,0,0,0,,Nice to meet you!
 Dialogue: 5,0:04:22.57,0:04:23.37,Default,,0,0,0,,She's annoying!
 Dialogue: 5,0:04:23.37,0:04:24.45,Default,,0,0,0,,It's just this once.
-Dialogue: 5,0:04:24.45,0:04:27.66,Default,,0,0,0,,Is her voice actor seriously ***tani Ryou***?!
+Dialogue: 5,0:04:24.45,0:04:27.21,Default,,0,0,0,,Is her voice actor seriously ***tani Ryou***?!
 Dialogue: 5,0:04:27.66,0:04:28.61,Default,,0,0,0,,She's annoying!
 Dialogue: 5,0:04:28.61,0:04:29.66,Default,,0,0,0,,It's just this once!
-Dialogue: 5,0:04:29.66,0:04:31.54,Default,,0,0,0,,By the way, what are your names?
+Dialogue: 5,0:04:29.66,0:04:31.83,Default,,0,0,0,,By the way, what are your names?
 Dialogue: 5,0:04:31.54,0:04:32.73,Default,,0,0,0,,I'm—
-Dialogue: 5,0:04:32.73,0:04:34.48,Default,,0,0,0,,Wait, wait! Don't say it just yet!
-Dialogue: 5,0:04:34.48,0:04:35.21,Default,,0,0,0,,I'll guess them!
-Dialogue: 5,0:04:35.21,0:04:37.04,Default,,0,0,0,,She's annoying!
-Dialogue: 5,0:04:35.78,0:04:37.04,Alter,,0,0,0,,It's just this once.
-Dialogue: 5,0:04:37.44,0:04:40.49,Default,,0,0,0,,Whatever Rikyuu might have said,
-Dialogue: 5,0:04:40.49,0:04:42.26,Default,,0,0,0,,in most of the cases,
-Dialogue: 5,0:04:43.03,0:04:44.59,Default,,0,0,0,,once is more than enough!
-Dialogue: 5,0:04:44.94,0:04:48.26,Default,,2,2,0,,The saying goes that you should treasure every encounter as something that happens once in a lifetime.
-Dialogue: 5,0:04:48.26,0:04:50.31,Default,,0,0,0,,But in most cases, once in a lifetime is enough.
-Dialogue: 5,0:04:50.75,0:04:54.57,Default,,0,0,0,,Like that ride you waited in line for because you didn't know when it'd be open again...
+Dialogue: 5,0:04:32.73,0:04:34.05,Default,,0,0,0,,Wait, wait! Don't say it just yet!
+Dialogue: 5,0:04:34.48,0:04:35.42,Default,,0,0,0,,I'll guess them!
+Dialogue: 5,0:04:35.42,0:04:37.29,Default,,0,0,0,,She's annoying!
+Dialogue: 5,0:04:35.78,0:04:37.43,Alter,,0,0,0,,It's just this once.
+Dialogue: 5,0:04:37.43,0:04:40.49,Default,,0,0,0,,Whatever Rikyuu might have said,
+Dialogue: 5,0:04:40.49,0:04:42.51,Default,,0,0,0,,in most of the cases,
+Dialogue: 5,0:04:43.03,0:04:44.93,Default,,0,0,0,,once is more than enough!
+Dialogue: 5,0:04:44.93,0:04:48.26,Default,,2,2,0,,The saying goes that you should treasure every encounter as something that happens once in a lifetime.
+Dialogue: 5,0:04:48.26,0:04:50.73,Default,,0,0,0,,But in most cases, once in a lifetime is enough.
+Dialogue: 5,0:04:50.73,0:04:54.57,Default,,0,0,0,,Like that ride you waited in line for because you didn't know when it'd be open again...
 Dialogue: 5,0:04:54.57,0:04:56.48,Default,,0,0,0,,Once is enough.
 Dialogue: 5,0:04:56.48,0:05:00.17,Default,,0,0,0,,Or that pancake you waited in line for because you were in the neighborhood...
 Dialogue: 5,0:05:00.17,0:05:02.15,Default,,0,0,0,,Once is enough.
-Dialogue: 5,0:05:02.15,0:05:04.99,Default,,0,0,0,,And then there's that penpal you finally met after a whole year of exchanges...
-Dialogue: 5,0:05:05.58,0:05:06.96,Default,,0,0,0,,Once is enough.
+Dialogue: 5,0:05:02.15,0:05:05.55,Default,,0,0,0,,And then there's that penpal you finally met after a whole year of exchanges...
+Dialogue: 5,0:05:05.55,0:05:06.96,Default,,0,0,0,,Once is enough.
 Dialogue: 5,0:05:06.96,0:05:08.32,Default,,0,0,0,,Indeed, once is enough!
-Dialogue: 5,0:05:08.32,0:05:09.60,Default,,0,0,0,,Like a certain circus of the sun!
+Dialogue: 5,0:05:08.32,0:05:09.25,Default,,0,0,0,,Like a certain circus of the sun!
 Dialogue: 5,0:05:09.60,0:05:12.46,Default,,0,0,0,,Or rockers who keep singing about simple happiness!
 Dialogue: 5,0:05:12.46,0:05:14.66,Default,,0,0,0,,Or the first, second and final round of world cup prelims!
-Dialogue: 5,0:05:14.66,0:05:16.54,Default,,0,0,0,,Or movies about a space rocket that keeps returning miraculously!
-Dialogue: 5,0:05:16.87,0:05:17.60,Default,,0,0,0,,Or American candies!
-Dialogue: 5,0:05:17.60,0:05:18.56,Default,,0,0,0,,Or Hollywood remakes!
+Dialogue: 5,0:05:14.66,0:05:16.86,Default,,0,0,0,,Or movies about a space rocket that keeps returning miraculously!
+Dialogue: 5,0:05:16.86,0:05:17.60,Default,,0,0,0,,Or American candies!
+Dialogue: 5,0:05:17.60,0:05:18.26,Default,,0,0,0,,Or Hollywood remakes!
 Dialogue: 5,0:05:18.56,0:05:20.08,Default,,0,0,0,,Or high school reunions!
-Dialogue: 5,0:05:20.08,0:05:20.84,Default,,0,0,0,,Or AVs of former celebrities!
+Dialogue: 5,0:05:20.08,0:05:21.12,Default,,0,0,0,,Or AVs of former celebrities!
 Dialogue: 5,0:05:21.12,0:05:23.38,Default,,0,0,0,,Or second seasons and revivals of anime and movies!
 Dialogue: 5,0:05:23.38,0:05:25.06,Default,,0,0,0,,She's annoying! She's too annoying!
 Dialogue: 5,0:05:25.06,0:05:26.29,Default,,0,0,0,,It's just this once...
-Dialogue: 5,0:05:26.29,0:05:29.26,Default,,0,0,0,,But doesn't this "once is enough" business model work perfectly?!
+Dialogue: 5,0:05:26.29,0:05:29.02,Default,,0,0,0,,But doesn't this "once is enough" business model work perfectly?!
 Dialogue: 5,0:05:30.03,0:05:33.12,Default,,0,0,0,,Think of all of those businesses that don't rely on customer retention!
 Dialogue: 5,0:05:33.12,0:05:35.33,Default,,0,0,0,,They're limited time offers...\N Or more like one time offers!
 Dialogue: 5,0:05:35.33,0:05:37.75,Default,,0,0,0,,Like "Catching them once is enough!"
 Dialogue: 5,0:05:37.75,0:05:40.13,Default,,0,0,0,,I've got you now!
-Dialogue: 5,0:05:40.13,0:05:41.82,Default,,0,0,0,,Like used cars...
-Dialogue: 5,0:05:41.82,0:05:44.15,Default,,0,0,0,,Like restaurants at sightseeing spots!
+Dialogue: 5,0:05:40.13,0:05:41.95,Default,,0,0,0,,Like used cars...
+Dialogue: 5,0:05:41.95,0:05:44.15,Default,,0,0,0,,Like restaurants at sightseeing spots!
 Dialogue: 5,0:05:44.15,0:05:46.49,Default,,0,0,0,,Like expensive healthcare products!
 Dialogue: 5,0:05:46.49,0:05:50.04,Default,,0,0,0,,It's not even the buyer, but the seller who thinks so!
 Dialogue: 5,0:05:50.04,0:05:52.66,Default,,0,0,0,,Precisely. Once is enough.
 Dialogue: 5,0:05:52.66,0:05:54.49,Default,,0,0,0,,What?! She changed!
 Dialogue: 5,0:05:54.49,0:05:58.03,Default,,0,0,0,,If I get just one chance, I can mess you all up.
-Dialogue: 5,0:05:58.03,0:05:58.81,Default,,0,0,0,,Now that you mention it,
-Dialogue: 5,0:05:59.09,0:06:03.42,Default,,0,0,0,,Marii's been bullying her even though she's the one who always gets bullied!
-Dialogue: 5,0:06:03.90,0:06:07.51,Default,,0,0,0,,And her strawberry patterned clothes are totally my style!
+Dialogue: 5,0:05:58.03,0:05:59.38,Default,,0,0,0,,Now that you mention it,
+Dialogue: 5,0:05:59.09,0:06:03.88,Default,,0,0,0,,Marii's been bullying her even though she's the one who always gets bullied!
+Dialogue: 5,0:06:03.88,0:06:07.51,Default,,0,0,0,,And her strawberry patterned clothes are totally my style!
 Dialogue: 5,0:06:07.51,0:06:09.04,Default,,0,0,0,,...are totally my style!
-Dialogue: 5,0:06:09.04,0:06:12.16,Default,,0,0,0,,Don't copy me!
-Dialogue: 5,0:06:12.38,0:06:14.60,Default,,0,0,0,,See, character balance destroyed.
+Dialogue: 5,0:06:09.04,0:06:12.38,Default,,0,0,0,,Don't copy me!
+Dialogue: 5,0:06:12.38,0:06:14.87,Default,,0,0,0,,See, character balance destroyed.
 Dialogue: 5,0:06:14.87,0:06:17.95,Default,,0,0,0,,You let a disrupting element in because "it's just this once,"
-Dialogue: 5,0:06:17.95,0:06:21.31,Default,,0,0,0,,just like *** who turned Japan into a complete mess in such a short time!
-Dialogue: 5,0:06:23.07,0:06:25.38,Default,,0,0,0,,Proceeding to destruction phase two.
-Dialogue: 5,0:06:25.38,0:06:26.88,Default,,0,0,0,,A plastic bomb?
-Dialogue: 5,0:06:27.99,0:06:30.96,Default,,0,0,0,,Stop! Now she's copying my style!
-Dialogue: 5,0:06:28.80,0:06:30.96,Alter,,0,0,0,,Now she's copying my style!
-Dialogue: 5,0:06:31.42,0:06:33.62,Default,,0,0,0,,More character balance gone straight to the gutter!
+Dialogue: 5,0:06:17.95,0:06:21.56,Default,,0,0,0,,just like *** who turned Japan into a complete mess in such a short time!
+Dialogue: 5,0:06:22.95,0:06:25.38,Default,,0,0,0,,Proceeding to destruction phase two.
+Dialogue: 5,0:06:25.38,0:06:27.13,Default,,0,0,0,,A plastic bomb?
+Dialogue: 5,0:06:27.99,0:06:31.21,Default,,0,0,0,,Stop! Now she's copying my style!
+Dialogue: 5,0:06:28.80,0:06:31.40,Alter,,0,0,0,,Now she's copying my style!
+Dialogue: 5,0:06:31.40,0:06:33.96,Default,,0,0,0,,More character balance gone straight to the gutter!
 Dialogue: 5,0:06:33.62,0:06:38.07,Default,,0,0,0,,It's true that there are characters who have ruined the balance just by showing up once.
 Dialogue: 5,0:06:38.07,0:06:39.31,Default,,0,0,0,,What's your goal?
-Dialogue: 5,0:06:39.31,0:06:41.92,Default,,0,0,0,,I'll ruin this show and make it reach its end.
+Dialogue: 5,0:06:39.31,0:06:42.17,Default,,0,0,0,,I'll ruin this show and make it reach its end.
 Dialogue: 5,0:06:41.92,0:06:43.83,Default,,0,0,0,,You don't need to! It's ending today anyway!
-Dialogue: 5,0:06:43.83,0:06:46.53,Default,,0,0,0,,The anime "Anoingu-chan" starts next week!
-Dialogue: 5,0:06:57.61,0:06:59.19,Default,,0,0,0,,Who asked for that?!
+Dialogue: 5,0:06:43.83,0:06:46.93,Default,,0,0,0,,The anime "Anoingu-chan" starts next week!
+Dialogue: 5,0:06:57.56,0:06:59.19,Default,,0,0,0,,Who asked for that?!
 Dialogue: 5,0:06:59.19,0:07:00.36,Default,,0,0,0,,You can't have it your way!
 Dialogue: 5,0:07:00.36,0:07:03.14,Default,,0,0,0,,But our balance is already ruined! What can we do?
 Dialogue: 5,0:07:03.14,0:07:04.27,Default,,0,0,0,,There's a way!
-Dialogue: 5,0:07:04.27,0:07:05.54,Default,,0,0,0,,The E**le method!
-Dialogue: 5,0:07:07.37,0:07:09.01,Default,,0,0,0,,We'll add so many new characters
-Dialogue: 5,0:07:09.01,0:07:10.93,Default,,0,0,0,,that no one will be able to figure out the balance or the characters anymore!
-Dialogue: 5,0:07:10.93,0:07:12.49,Default,,0,0,0,,So many new people! This is annoying!
+Dialogue: 5,0:07:04.27,0:07:05.79,Default,,0,0,0,,The E**le method!
+Dialogue: 5,0:07:07.37,0:07:09.08,Default,,0,0,0,,We'll add so many new characters
+Dialogue: 5,0:07:09.08,0:07:10.93,Default,,0,0,0,,that no one will be able to figure out the balance or the characters anymore!
+Dialogue: 5,0:07:10.93,0:07:12.75,Default,,0,0,0,,So many new people! This is annoying!
 Dialogue: 5,0:07:12.75,0:07:14.74,Default,,0,0,0,,What's that? The annoying character is complaining about something being annoying?
-Dialogue: 5,0:07:14.74,0:07:16.22,Default,,0,0,0,,Your character is broken!
-Dialogue: 5,0:07:16.22,0:07:18.45,Default,,0,0,0,,I'll remember this!
-Dialogue: 5,0:07:18.83,0:07:19.89,Default,,0,0,0,,We win!
-Dialogue: 5,0:07:19.89,0:07:23.07,Default,,0,0,0,,Seeing her once is enough.
-Dialogue: 5,0:07:23.96,0:07:27.84,Default,,0,0,0,,How was the girls' rakugo?
-Dialogue: 5,0:07:29.70,0:07:30.88,Default,,0,0,0,,Once is enough.
+Dialogue: 5,0:07:14.74,0:07:16.37,Default,,0,0,0,,Your character is broken!
+Dialogue: 5,0:07:16.37,0:07:18.46,Default,,0,0,0,,I'll remember this!
+Dialogue: 5,0:07:18.82,0:07:19.89,Default,,0,0,0,,We win!
+Dialogue: 5,0:07:19.89,0:07:23.42,Default,,0,0,0,,Seeing her once is enough.
+Dialogue: 5,0:07:23.96,0:07:28.09,Default,,0,0,0,,How was the girls' rakugo?
+Dialogue: 5,0:07:29.68,0:07:31.13,Default,,0,0,0,,Once is enough.
 Dialogue: 5,0:07:31.84,0:07:33.49,Default,,0,0,0,,She was listening to us.
 Dialogue: 5,0:07:33.49,0:07:35.39,Default,,0,0,0,,Once is enough...
 Dialogue: 5,0:07:35.39,0:07:38.43,Default,,0,0,0,,Well, you can't expect children to appreciate the traditional arts.
-Dialogue: 5,0:07:38.43,0:07:42.27,Default,,0,0,0,,I'm sure that when she grows up... when she grows up...
-Dialogue: 5,0:07:43.23,0:07:46.73,Default,,0,0,0,,In the second season, I'll be annoying in 3D!
-Dialogue: 5,0:07:46.73,0:07:48.40,Default,,0,0,0,,You're annoying!
-Dialogue: 5,0:07:55.99,0:07:58.66,Default,,0,0,0,,So, which way is it?
-Dialogue: 5,0:07:58.66,0:08:00.83,Default,,0,0,0,,This way, I think.
+Dialogue: 5,0:07:38.43,0:07:42.52,Default,,0,0,0,,I'm sure that when she grows up... when she grows up...
+Dialogue: 5,0:07:43.03,0:07:47.03,Default,,0,0,0,,In the second season, I'll be annoying in 3D!
+Dialogue: 5,0:07:46.73,0:07:48.65,Default,,0,0,0,,You're annoying!
+Dialogue: 5,0:07:55.99,0:07:58.71,Default,,0,0,0,,So, which way is it?
+Dialogue: 5,0:07:58.71,0:08:01.08,Default,,0,0,0,,This way, I think.
 Dialogue: 5,0:08:10.80,0:08:13.43,Default,,0,0,0,,Huh? We're back on the platform.
 Dialogue: 5,0:08:13.43,0:08:14.68,Default,,0,0,0,,Did we go the wrong way?
-Dialogue: 5,0:08:14.68,0:08:15.97,Default,,0,0,0,,Yeah, look!
-Dialogue: 5,0:08:16.35,0:08:17.89,Default,,0,0,0,,To the left?
-Dialogue: 5,0:08:21.56,0:08:25.15,Default,,0,0,0,,Huh? We {\i1}were{\i0} going the right way...
+Dialogue: 5,0:08:14.68,0:08:16.34,Default,,0,0,0,,Yeah, look!
+Dialogue: 5,0:08:16.34,0:08:18.14,Default,,0,0,0,,To the left?
+Dialogue: 5,0:08:21.56,0:08:25.40,Default,,0,0,0,,Huh? We {\i1}were{\i0} going the right way...
 Dialogue: 5,0:08:28.15,0:08:29.15,Default,,0,0,0,,Um...
 Dialogue: 5,0:08:29.15,0:08:30.98,Default,,0,0,0,,What's going on here?
 Dialogue: 5,0:08:30.98,0:08:32.19,Default,,0,0,0,,I get it!
 Dialogue: 5,0:08:32.19,0:08:34.86,Default,,0,0,0,,It must be the other stairs!
-Dialogue: 5,0:08:34.86,0:08:36.53,Default,,0,0,0,,That's so confusing...
-Dialogue: 5,0:08:42.50,0:08:45.87,Default,,0,0,0,,What?! Now there's no Electric Town exit!
-Dialogue: 5,0:08:54.59,0:08:57.30,Default,,0,0,0,,Just getting out was a challenge in itself...
+Dialogue: 5,0:08:34.86,0:08:36.78,Default,,0,0,0,,That's so confusing...
+Dialogue: 5,0:08:42.50,0:08:46.12,Default,,0,0,0,,What?! Now there's no Electric Town exit!
+Dialogue: 5,0:08:54.64,0:08:57.30,Default,,0,0,0,,Just getting out was a challenge in itself...
 Dialogue: 5,0:08:57.30,0:09:00.76,Default,,0,0,0,,This is the notorious Evil Maze of Akihabara Station.
 Dialogue: 5,0:09:00.76,0:09:05.56,Default,,0,0,0,,It's a maze in space, so if you get lost, you can never get out again.
 Dialogue: 5,0:09:05.56,0:09:08.02,Default,,0,0,0,,Remember when I said I didn't want to come to a place like this?
 Dialogue: 5,0:09:08.02,0:09:09.31,Default,,0,0,0,,"A place like this"?! What do you mean?!
 Dialogue: 5,0:09:09.31,0:09:13.24,Default,,0,0,0,,Akiba is a hot-spot for tourists from all around the world!
-Dialogue: 5,0:09:13.24,0:09:16.74,Default,,0,0,0,,You can find not only stuff like cameras, computers and high-end audio,
-Dialogue: 5,0:09:16.74,0:09:18.70,Default,,0,0,0,,but it's a paradise for hobby, idol, game or anime fans too!
-Dialogue: 5,0:09:18.70,0:09:20.83,Default,,0,0,0,,Akiba's a lot more than you'd ever dream of!
-Dialogue: 5,0:09:21.66,0:09:23.29,Default,,0,0,0,,Gan's enthusiastic...
+Dialogue: 5,0:09:13.24,0:09:16.54,Default,,0,0,0,,You can find not only stuff like cameras, computers and high-end audio,
+Dialogue: 5,0:09:16.54,0:09:18.70,Default,,0,0,0,,but it's a paradise for hobby, idol, game or anime fans too!
+Dialogue: 5,0:09:18.70,0:09:21.42,Default,,0,0,0,,Akiba's a lot more than you'd ever dream of!
+Dialogue: 5,0:09:21.42,0:09:23.29,Default,,0,0,0,,Gan's enthusiastic...
 Dialogue: 5,0:09:23.29,0:09:25.12,Default,,0,0,0,,She's like a fish back in the water,
 Dialogue: 5,0:09:25.12,0:09:26.92,Default,,0,0,0,,or like a fan who got a handshake.
-Dialogue: 5,0:09:26.92,0:09:29.67,Default,,0,0,0,,I didn't know she was so much into it.
-Dialogue: 5,0:09:29.96,0:09:32.50,Default,,0,0,0,,Now that we're here, let's have Gan guide us around!
-Dialogue: 5,0:09:32.92,0:09:34.30,Default,,0,0,0,,Very well!
-Dialogue: 5,0:09:34.30,0:09:35.88,Default,,0,0,0,,Then let's begin with the Rajikan!
-Dialogue: 5,0:09:36.22,0:09:37.01,Default,,0,0,0,,Ajikan?
+Dialogue: 5,0:09:26.92,0:09:30.30,Default,,0,0,0,,I didn't know she was so much into it.
+Dialogue: 5,0:09:29.96,0:09:32.90,Default,,0,0,0,,Now that we're here, let's have Gan guide us around!
+Dialogue: 5,0:09:32.90,0:09:34.30,Default,,0,0,0,,Very well!
+Dialogue: 5,0:09:34.30,0:09:36.21,Default,,0,0,0,,Then let's begin with the Rajikan!
+Dialogue: 5,0:09:36.21,0:09:37.01,Default,,0,0,0,,Ajikan?
 Dialogue: 5,0:09:37.01,0:09:38.26,Default,,0,0,0,,No, the Rajikan!
-Dialogue: 5,0:09:38.26,0:09:39.26,Default,,0,0,0,,That's the slang name for the Radio Hall!
+Dialogue: 5,0:09:38.26,0:09:39.23,Default,,0,0,0,,That's the slang name for the Radio Hall!
 Dialogue: 5,0:09:39.55,0:09:41.93,Default,,0,0,0,,That's where you can see the true depth of
-Dialogue: 5,0:09:41.93,0:09:43.43,Default,,0,0,0,,Deep Akiba!
+Dialogue: 5,0:09:41.93,0:09:43.68,Default,,0,0,0,,Deep Akiba!
 Dialogue: 5,0:09:46.94,0:09:49.56,Default,,0,0,0,,It's undergoing reconstructions.
-Dialogue: 5,0:09:49.56,0:09:52.52,Default,,0,0,0,,Gankyou, you didn't know?
-Dialogue: 5,0:09:53.73,0:09:56.78,Default,,0,0,0,,So much for that depth! This's it!
+Dialogue: 5,0:09:49.56,0:09:52.77,Default,,0,0,0,,Gankyou, you didn't know?
+Dialogue: 5,0:09:53.73,0:09:56.45,Default,,0,0,0,,So much for that depth! This's it!
 Dialogue: 5,0:09:56.78,0:10:00.53,Default,,0,0,0,,Don't worry, there're two more halls!
-Dialogue: 5,0:10:00.53,0:10:02.49,Default,,0,0,0,,It must've been a real shock for her.
-Dialogue: 5,0:10:04.54,0:10:06.00,Default,,0,0,0,,She's being questioned!
+Dialogue: 5,0:10:00.53,0:10:02.74,Default,,0,0,0,,It must've been a real shock for her.
+Dialogue: 5,0:10:04.58,0:10:06.00,Default,,0,0,0,,She's being questioned!
 Dialogue: 5,0:10:06.00,0:10:08.92,Default,,0,0,0,,Yeah, Akiba's famous for that too.
 Dialogue: 5,0:10:08.92,0:10:11.92,Default,,0,0,0,,On a good day you might be stopped every 50 meters.
 Dialogue: 5,0:10:11.92,0:10:14.50,Default,,0,0,0,,That's a bad day then!
 Dialogue: 5,0:10:14.50,0:10:18.05,Default,,0,0,0,,You can be sure to get questioned if you wear a waist pouch.
 Dialogue: 5,0:10:18.05,0:10:18.93,Default,,0,0,0,,Why?
-Dialogue: 5,0:10:18.93,0:10:21.55,Default,,0,0,0,,You can't tell what's inside.
+Dialogue: 5,0:10:18.93,0:10:21.14,Default,,0,0,0,,You can't tell what's inside.
 Dialogue: 5,0:10:21.55,0:10:24.35,Default,,0,0,0,,They're full of hopes and dreams!
-Dialogue: 5,0:10:24.35,0:10:26.31,Default,,0,0,0,,There's nothing suspicious!
-Dialogue: 5,0:10:26.31,0:10:28.77,Default,,0,0,0,,Ah, Gan's done.
+Dialogue: 5,0:10:24.35,0:10:26.52,Default,,0,0,0,,There's nothing suspicious!
+Dialogue: 5,0:10:26.52,0:10:28.77,Default,,0,0,0,,Ah, Gan's done.
 Dialogue: 5,0:10:28.77,0:10:31.15,Default,,0,0,0,,Lucky I didn't have a knife with me...
 Dialogue: 5,0:10:31.15,0:10:34.52,Default,,0,0,0,,Nowadays they can take you in even for a cutter knife.
 Dialogue: 5,0:10:34.52,0:10:36.19,Default,,0,0,0,,Then what about manga artists?
 Dialogue: 5,0:10:36.19,0:10:37.65,Default,,0,0,0,,How would they cut the panels?
 Dialogue: 5,0:10:37.65,0:10:40.49,Default,,0,0,0,,And how could animators make peg holes then?
-Dialogue: 5,0:10:40.49,0:10:42.32,Default,,0,0,0,,They don't work in Akiba.
+Dialogue: 5,0:10:40.49,0:10:42.66,Default,,0,0,0,,They don't work in Akiba.
 Dialogue: 5,0:10:43.74,0:10:44.62,Default,,0,0,0,,This is fun!
 Dialogue: 5,0:10:44.62,0:10:46.66,Default,,0,0,0,,I like to walk around just looking at home electronics.
 Dialogue: 5,0:10:46.66,0:10:50.96,Default,,0,0,0,,Look at these tempura bowls, boiled egg makers or waffle makers...
 Dialogue: 5,0:10:50.96,0:10:52.17,Default,,0,0,0,,Such outlandish things.
 Dialogue: 5,0:10:52.17,0:10:55.96,Default,,0,0,0,,I wonder if rice cookers are still the best sellers.
-Dialogue: 5,0:10:55.96,0:10:57.01,Default,,0,0,0,,Rice cookers?
+Dialogue: 5,0:10:55.96,0:10:57.26,Default,,0,0,0,,Rice cookers?
 Dialogue: 5,0:10:58.01,0:11:02.18,Default,,0,0,0,,For some reason, foreigners buy even 3-4 of them sometimes.
-Dialogue: 5,0:11:02.18,0:11:04.89,Default,,0,0,0,,Japanese rice cooking tech is the best in the world.
+Dialogue: 5,0:11:02.18,0:11:05.52,Default,,0,0,0,,Japanese rice cooking tech is the best in the world.
 Dialogue: 5,0:11:05.18,0:11:07.47,Default,,0,0,0,,Some use a vacuum to enrich the rice,
 Dialogue: 5,0:11:07.47,0:11:08.85,Default,,0,0,0,,or have a bowl made of copper.
-Dialogue: 5,0:11:08.85,0:11:11.40,Default,,0,0,0,,Expensive ones can cost over a hundred thousand.
-Dialogue: 5,0:11:11.40,0:11:15.44,Default,,0,0,0,,A hundred thousand? To cook rice that costs a thousand for two kilograms?{funny, i buy five for that price}
-Dialogue: 5,0:11:15.44,0:11:19.32,Default,,0,0,0,,I heard some shops are selling them a bit cheaper.
-Dialogue: 5,0:11:19.90,0:11:23.07,Default,,0,0,0,,By the way, which shop rules over Akiba?
+Dialogue: 5,0:11:08.85,0:11:11.23,Default,,0,0,0,,Expensive ones can cost over a hundred thousand.
+Dialogue: 5,0:11:11.23,0:11:15.44,Default,,0,0,0,,A hundred thousand? To cook rice that costs a thousand for two kilograms?{funny, i buy five for that price}
+Dialogue: 5,0:11:15.44,0:11:19.66,Default,,0,0,0,,I heard some shops are selling them a bit cheaper.
+Dialogue: 5,0:11:19.66,0:11:23.32,Default,,0,0,0,,By the way, which shop rules over Akiba?
 Dialogue: 5,0:11:25.49,0:11:28.54,Default,,0,0,0,,I heard that LaOX counts as a brand in China.
 Dialogue: 5,0:11:28.54,0:11:31.04,Default,,0,0,0,,A brand? It's just a retail store!
 Dialogue: 5,0:11:31.04,0:11:33.92,Default,,0,0,0,,I don't know which one's at the top,\N but they've got something in common.
-Dialogue: 5,0:11:33.92,0:11:34.71,Default,,0,0,0,,Hm?
-Dialogue: 5,0:11:35.67,0:11:38.09,Default,,0,0,0,,Their advert songs are so catchy you can't get rid of them.
+Dialogue: 5,0:11:33.92,0:11:34.96,Default,,0,0,0,,Hm?
+Dialogue: 5,0:11:35.67,0:11:38.34,Default,,0,0,0,,Their advert songs are so catchy you can't get rid of them.
 Dialogue: 5,0:11:52.44,0:11:56.52,Default,,0,0,0,,{\an8}ikou yo mabushii hikari no sekai
 Dialogue: 5,0:11:52.44,0:11:56.52,Default,,0,0,0,,Let's go to the world of shiny lights
 Dialogue: 5,0:11:56.52,0:12:00.57,Default,,0,0,0,,{\an8}haato no suicchi on ni shite
 Dialogue: 5,0:11:56.52,0:12:00.57,Default,,0,0,0,,Let's turn on our hearts
-Dialogue: 5,0:12:00.57,0:12:04.53,Default,,0,0,0,,{\an8}goran yo dareka ga kimi wo matteru
-Dialogue: 5,0:12:00.57,0:12:04.53,Default,,0,0,0,,Look, someone's waiting for you
-Dialogue: 5,0:12:04.91,0:12:08.20,Default,,0,0,0,,{\an8}onnaji katachi no yume daite
-Dialogue: 5,0:12:04.91,0:12:08.20,Default,,0,0,0,,With a dream just like yours
-Dialogue: 5,0:12:08.66,0:12:09.70,Default,,0,0,0,,Yay!
-Dialogue: 5,0:12:11.54,0:12:14.92,Default,,0,0,0,,Somehow this old bridge calms me down...
-Dialogue: 5,0:12:14.92,0:12:18.59,Default,,0,0,0,,This town is very fast in its vicissitudes.
+Dialogue: 5,0:12:00.57,0:12:04.78,Default,,0,0,0,,{\an8}goran yo dareka ga kimi wo matteru
+Dialogue: 5,0:12:00.57,0:12:04.90,Default,,0,0,0,,Look, someone's waiting for you
+Dialogue: 5,0:12:04.90,0:12:08.45,Default,,0,0,0,,{\an8}onnaji katachi no yume daite
+Dialogue: 5,0:12:04.91,0:12:08.64,Default,,0,0,0,,With a dream just like yours
+Dialogue: 5,0:12:08.64,0:12:09.95,Default,,0,0,0,,Yay!
+Dialogue: 5,0:12:11.54,0:12:14.96,Default,,0,0,0,,Somehow this old bridge calms me down...
+Dialogue: 5,0:12:14.96,0:12:18.59,Default,,0,0,0,,This town is very fast in its vicissitudes.
 Dialogue: 5,0:12:18.59,0:12:23.68,Default,,0,0,0,,Some of those theme songs earlier aren't played anymore.
 Dialogue: 5,0:12:23.68,0:12:27.64,Default,,0,0,0,,There are very few things that last as long as this bridge.
-Dialogue: 5,0:12:27.64,0:12:30.22,Default,,0,0,0,,I'm so tired, although we haven't done anything yet.
-Dialogue: 5,0:12:30.22,0:12:32.85,Default,,0,0,0,,Akihabara is a fearful town indeed.
+Dialogue: 5,0:12:27.64,0:12:30.40,Default,,0,0,0,,I'm so tired, although we haven't done anything yet.
+Dialogue: 5,0:12:30.40,0:12:32.85,Default,,0,0,0,,Akihabara is a fearful town indeed.
 Dialogue: 5,0:12:32.85,0:12:35.44,Default,,0,0,0,,They say you shouldn't fight with an empty stomach,
 Dialogue: 5,0:12:35.44,0:12:37.06,Default,,0,0,0,,so let's grab something to eat!
 Dialogue: 5,0:12:37.06,0:12:39.52,Default,,0,0,0,,Something Akiba-ish would be nice now.
@@ -297,57 +297,57 @@ Dialogue: 5,0:12:59.42,0:13:00.88,Default,,0,0,0,,A drag king cafe.
 Dialogue: 5,0:13:00.88,0:13:02.84,Default,,0,0,0,,Those are more than I could stomach!
 Dialogue: 5,0:13:02.84,0:13:04.97,Default,,0,0,0,,Aren't there any normal places? Like, normal?
 Dialogue: 5,0:13:04.97,0:13:07.59,Default,,0,0,0,,Uh-oh, Marii's lost her patience!
-Dialogue: 5,0:13:07.59,0:13:10.10,Default,,0,0,0,,Akiba's a nice place and kind to people.
+Dialogue: 5,0:13:07.59,0:13:09.69,Default,,0,0,0,,Akiba's a nice place and kind to people.
 Dialogue: 5,0:13:10.10,0:13:12.60,Default,,0,0,0,,Gan's using police lingo after questioning!{*}
-Dialogue: 5,0:13:12.60,0:13:15.81,Default,,0,0,0,,There's a legend in this town.
-Dialogue: 5,0:13:16.31,0:13:20.77,Default,,0,0,0,,Once upon a time there was a boy in the first crisis of his life.
-Dialogue: 5,0:13:21.15,0:13:26.28,Default,,0,0,0,,His path was blocked by a wall he couldn't overcome alone.
+Dialogue: 5,0:13:12.60,0:13:16.29,Default,,0,0,0,,There's a legend in this town.
+Dialogue: 5,0:13:16.29,0:13:21.14,Default,,0,0,0,,Once upon a time there was a boy in the first crisis of his life.
+Dialogue: 5,0:13:21.14,0:13:26.28,Default,,0,0,0,,His path was blocked by a wall he couldn't overcome alone.
 Dialogue: 5,0:13:26.28,0:13:30.49,Default,,0,0,0,,The people who helped him in his distress
-Dialogue: 5,0:13:30.49,0:13:32.91,Default,,0,0,0,,were the people of Akiba through the net.
+Dialogue: 5,0:13:30.49,0:13:32.50,Default,,0,0,0,,were the people of Akiba through the net.
 Dialogue: 5,0:13:32.91,0:13:34.83,Default,,0,0,0,,Isn't that the Train Man?
-Dialogue: 5,0:13:34.83,0:13:37.58,Default,,0,0,0,,Did they divide the royalties?
-Dialogue: 5,0:13:37.58,0:13:39.50,Default,,0,0,0,,That sounds so fishy...
+Dialogue: 5,0:13:34.83,0:13:37.21,Default,,0,0,0,,Did they divide the royalties?
+Dialogue: 5,0:13:37.58,0:13:39.75,Default,,0,0,0,,That sounds so fishy...
 Dialogue: 5,0:13:42.96,0:13:45.22,Default,,0,0,0,,This's such a posh place...
 Dialogue: 5,0:13:45.22,0:13:47.43,Default,,0,0,0,,Is it really okay for us to come here?
-Dialogue: 5,0:13:47.43,0:13:49.43,Default,,0,0,0,,Sure it is! It's open for everyone!
+Dialogue: 5,0:13:47.43,0:13:49.14,Default,,0,0,0,,Sure it is! It's open for everyone!
 Dialogue: 5,0:13:49.43,0:13:53.27,Default,,0,0,0,,But it's a bit too posh, so it doesn't feel Akiba-ish at all.
-Dialogue: 5,0:13:53.27,0:13:54.64,Default,,0,0,0,,Don't worry.
+Dialogue: 5,0:13:53.27,0:13:54.31,Default,,0,0,0,,Don't worry.
 Dialogue: 5,0:13:54.64,0:13:58.85,Default,,0,0,0,,Down there they're organizing an authentic Akiba event.
 Dialogue: 5,0:13:58.85,0:14:00.61,Default,,0,0,0,,An event? What?
-Dialogue: 5,0:14:00.61,0:14:01.86,Default,,0,0,0,,Underground idols.
+Dialogue: 5,0:14:00.61,0:14:02.11,Default,,0,0,0,,Underground idols.
 Dialogue: 5,0:14:02.65,0:14:09.03,Default,,0,0,0,,Guys! Even if you hate me, don't hate Akiba!
-Dialogue: 5,0:14:09.03,0:14:12.95,Default,,0,0,0,,Now please listen! Annoying you for your attention!
-Dialogue: 5,0:14:15.45,0:14:16.66,Default,,0,0,0,,{\an8}Should we get going?
+Dialogue: 5,0:14:09.03,0:14:13.20,Default,,0,0,0,,Now please listen! Annoying you for your attention!
+Dialogue: 5,0:14:15.45,0:14:16.91,Default,,0,0,0,,{\an8}Should we get going?
 Dialogue: 5,0:14:37.68,0:14:42.40,Default,,0,0,0,,Girls, do you like clear or light brown miso for the New Year's dish?
-Dialogue: 5,0:14:42.40,0:14:44.11,Default,,0,0,0,,Don't ask stupid questions!
-Dialogue: 5,0:14:44.65,0:14:49.32,Default,,0,0,0,,This anime is full of ordinary dialogue
-Dialogue: 5,0:14:49.32,0:14:55.79,Default,,0,0,0,,so that viewers can fully enjoy how cute the girls are.
-Dialogue: 5,0:14:56.29,0:14:59.16,Default,,0,0,0,,I've had enough! I can't eat anymore!
-Dialogue: 5,0:14:59.16,0:15:00.12,Default,,0,0,0,,I get that,
-Dialogue: 5,0:15:00.58,0:15:04.21,Default,,0,0,0,,but we've already tried all the ways to eat mochi we could think of.
+Dialogue: 5,0:14:42.40,0:14:44.45,Default,,0,0,0,,Don't ask stupid questions!
+Dialogue: 5,0:14:44.45,0:14:49.32,Default,,0,0,0,,This anime is full of ordinary dialogue
+Dialogue: 5,0:14:49.32,0:14:56.27,Default,,0,0,0,,so that viewers can fully enjoy how cute the girls are.
+Dialogue: 5,0:14:56.27,0:14:59.16,Default,,0,0,0,,I've had enough! I can't eat anymore!
+Dialogue: 5,0:14:59.16,0:15:00.92,Default,,0,0,0,,I get that,
+Dialogue: 5,0:15:00.56,0:15:04.21,Default,,0,0,0,,but we've already tried all the ways to eat mochi we could think of.
 Dialogue: 5,0:15:04.21,0:15:06.92,Default,,0,0,0,,With plain rice we'd have had more options...
-Dialogue: 5,0:15:06.92,0:15:07.55,Default,,0,0,0,,That's it!
-Dialogue: 5,0:15:08.51,0:15:10.76,Default,,0,0,0,,Huh, plain rice? Where'd this come from?
-Dialogue: 5,0:15:10.76,0:15:12.22,Default,,0,0,0,,I made it from mochi.
+Dialogue: 5,0:15:06.92,0:15:07.80,Default,,0,0,0,,That's it!
+Dialogue: 5,0:15:08.51,0:15:10.93,Default,,0,0,0,,Huh, plain rice? Where'd this come from?
+Dialogue: 5,0:15:10.93,0:15:12.22,Default,,0,0,0,,I made it from mochi.
 Dialogue: 5,0:15:12.22,0:15:14.35,Default,,0,0,0,,First you fry the mochi,
 Dialogue: 5,0:15:14.35,0:15:18.64,Default,,0,0,0,,then you break it into tiny, tiny pieces and roll them.
 Dialogue: 5,0:15:18.64,0:15:20.77,Default,,0,0,0,,Serve it in a rice bowl, and it's done.
 Dialogue: 5,0:15:20.77,0:15:22.06,Default,,0,0,0,,Have some!
 Dialogue: 5,0:15:22.06,0:15:23.65,Default,,0,0,0,,Yay, it's rice!
-Dialogue: 5,0:15:23.65,0:15:25.15,Default,,0,0,0,,Eat mochi as mochi!
-Dialogue: 5,0:15:25.52,0:15:28.40,Default,,0,0,0,,Don't pull any cheap tricks, just eat it as it is!
-Dialogue: 5,0:15:28.40,0:15:29.57,Default,,0,0,0,,I get it.
-Dialogue: 5,0:15:30.03,0:15:32.20,Default,,0,0,0,,What Gan's trying to say is...{the following is word-for-word from ep 1}
-Dialogue: 5,0:15:32.66,0:15:35.16,Default,,0,0,0,,You should just read this manga as is.
-Dialogue: 5,0:15:35.16,0:15:36.83,Default,,0,0,0,,Why would anyone want to make an anime adaptation?
+Dialogue: 5,0:15:23.65,0:15:25.36,Default,,0,0,0,,Eat mochi as mochi!
+Dialogue: 5,0:15:25.36,0:15:28.40,Default,,0,0,0,,Don't pull any cheap tricks, just eat it as it is!
+Dialogue: 5,0:15:28.40,0:15:30.01,Default,,0,0,0,,I get it.
+Dialogue: 5,0:15:30.01,0:15:32.64,Default,,0,0,0,,What Gan's trying to say is...{the following is word-for-word from ep 1}
+Dialogue: 5,0:15:32.64,0:15:35.37,Default,,0,0,0,,You should just read this manga as is.
+Dialogue: 5,0:15:35.37,0:15:36.96,Default,,0,0,0,,Why would anyone want to make an anime adaptation?
 Dialogue: 5,0:15:37.62,0:15:39.54,Default,,0,0,0,,What's wrong with you?!
-Dialogue: 5,0:15:39.54,0:15:40.71,Default,,0,0,0,,Why would you say that?!
-Dialogue: 5,0:15:41.37,0:15:43.96,Default,,0,0,0,,This is a dialogue-heavy piece with hardly any action.
+Dialogue: 5,0:15:39.54,0:15:41.33,Default,,0,0,0,,Why would you say that?!
+Dialogue: 5,0:15:41.33,0:15:43.96,Default,,0,0,0,,This is a dialogue-heavy piece with hardly any action.
 Dialogue: 5,0:15:43.96,0:15:46.80,Default,,0,0,0,,Not to mention most of it takes place in a dressing room.
-Dialogue: 5,0:15:46.80,0:15:49.13,Default,,0,0,0,,So why would anyone turn a manga like this into an anime?{until here}
-Dialogue: 5,0:15:49.13,0:15:53.05,Default,,0,0,0,,The same goes for TV broadcasts! Enjoy them as broadcasts!
-Dialogue: 5,0:15:53.05,0:15:55.35,Default,,0,0,0,,Why would you burn them onto discs?
-Dialogue: 5,0:15:56.60,0:16:00.31,Default,,0,0,0,,Is there really a need to turn this dialogue-heavy piece with hardly any action into an anime,
+Dialogue: 5,0:15:46.80,0:15:48.89,Default,,0,0,0,,So why would anyone turn a manga like this into an anime?{until here}
+Dialogue: 5,0:15:48.89,0:15:53.05,Default,,0,0,0,,The same goes for TV broadcasts! Enjoy them as broadcasts!
+Dialogue: 5,0:15:53.05,0:15:55.18,Default,,0,0,0,,Why would you burn them onto discs?
+Dialogue: 5,0:15:56.60,0:16:00.56,Default,,0,0,0,,Is there really a need to turn this dialogue-heavy piece with hardly any action into an anime,
 Dialogue: 5,0:16:00.56,0:16:04.52,Default,,0,0,0,,broadcast it, and then burn it on video discs to sell at a high price?
 Dialogue: 5,0:16:04.52,0:16:05.77,Default,,0,0,0,,That's what you wanted to say, isn't it?
 Dialogue: 5,0:16:05.77,0:16:07.02,Default,,0,0,0,,Stop that!
@@ -360,133 +360,133 @@ Dialogue: 5,0:16:16.53,0:16:20.00,Default,,0,0,0,,May Gan only be shown as rough
 Dialogue: 5,0:16:20.00,0:16:21.20,Default,,0,0,0,,Fix me!
 Dialogue: 5,0:16:21.20,0:16:23.92,Default,,0,0,0,,Then imagine, Kigu, how it would feel if on your wedding reception
 Dialogue: 5,0:16:23.92,0:16:25.75,Default,,0,0,0,,every plate had melon with a slice of ham and nothing else!
-Dialogue: 5,0:16:25.75,0:16:28.13,Default,,0,0,0,,The hors d'oeuvre and the main dish too! Nothing but melon with ham!
-Dialogue: 5,0:16:28.84,0:16:30.59,Default,,0,0,0,,I want to have melon as melon!
+Dialogue: 5,0:16:25.75,0:16:28.88,Default,,0,0,0,,The hors d'oeuvre and the main dish too! Nothing but melon with ham!
+Dialogue: 5,0:16:28.88,0:16:30.59,Default,,0,0,0,,I want to have melon as melon!
 Dialogue: 5,0:16:30.59,0:16:31.05,Default,,0,0,0,,Right?
-Dialogue: 5,0:16:31.05,0:16:33.34,Default,,0,0,0,,But the newlyweds barely eat, right?
+Dialogue: 5,0:16:31.05,0:16:32.89,Default,,0,0,0,,But the newlyweds barely eat, right?
 Dialogue: 5,0:16:33.34,0:16:34.80,Default,,0,0,0,,Think about it, Kigu!
 Dialogue: 5,0:16:34.80,0:16:38.85,Default,,0,0,0,,What if every fruit in your life from now on had a slice of raw ham on it? How would you like that?
 Dialogue: 5,0:16:38.85,0:16:41.98,Default,,0,0,0,,I wanna have my bananas, grapes, oranges, and watermelons as they are!
 Dialogue: 5,0:16:41.98,0:16:44.06,Default,,0,0,0,,Then you understand what I mean, right?
 Dialogue: 5,0:16:44.06,0:16:44.52,Default,,0,0,0,,Yes!
-Dialogue: 5,0:16:44.52,0:16:45.98,Default,,0,0,0,,Gan's right!
-Dialogue: 5,0:16:45.98,0:16:48.61,Default,,0,0,0,,You've been conned by a wicked adult.
-Dialogue: 5,0:16:48.61,0:16:52.57,Default,,0,0,0,,Anyway, my point is: Don't add\N unnecessary things or weird twists!
+Dialogue: 5,0:16:44.52,0:16:46.11,Default,,0,0,0,,Gan's right!
+Dialogue: 5,0:16:46.11,0:16:48.70,Default,,0,0,0,,You've been conned by a wicked adult.
+Dialogue: 5,0:16:48.70,0:16:52.57,Default,,0,0,0,,Anyway, my point is: Don't add\N unnecessary things or weird twists!
 Dialogue: 5,0:16:52.57,0:16:55.53,Default,,0,0,0,,But "adding a little extra" is what's all the rage in the world right now.
-Dialogue: 5,0:16:55.53,0:17:00.16,Default,,0,0,0,,But if you add something extra, won't people say "it ruins the original" or "the original's shit"?
-Dialogue: 5,0:17:00.16,0:17:04.16,Default,,0,0,0,,Well, we all did our best, but were\N all those part Bs really necessary?
-Dialogue: 5,0:17:04.16,0:17:05.54,Default,,0,0,0,,Don't bring that up in the last episode!
-Dialogue: 5,0:17:05.54,0:17:08.46,Default,,0,0,0,,Anyway, what's with the "Extra Ingredients" ranking?
+Dialogue: 5,0:16:55.53,0:16:59.71,Default,,0,0,0,,But if you add something extra, won't people say "it ruins the original" or "the original's shit"?
+Dialogue: 5,0:17:00.16,0:17:04.00,Default,,0,0,0,,Well, we all did our best, but were\N all those part Bs really necessary?
+Dialogue: 5,0:17:04.00,0:17:05.54,Default,,0,0,0,,Don't bring that up in the last episode!
+Dialogue: 5,0:17:05.54,0:17:08.76,Default,,0,0,0,,Anyway, what's with the "Extra Ingredients" ranking?
 Dialogue: 5,0:17:08.46,0:17:10.42,Default,,0,0,0,,More like the "Things That Will Terrify You" ranking!
 Dialogue: 5,0:17:10.42,0:17:12.01,Default,,0,0,0,,The same goes for music!
 Dialogue: 5,0:17:12.01,0:17:14.13,Default,,0,0,0,,If you come to Japan and sing in Japanese,
-Dialogue: 5,0:17:14.13,0:17:16.18,Default,,0,0,0,,it doesn't matter who you are! It'll still be J-pop!
+Dialogue: 5,0:17:14.13,0:17:15.72,Default,,0,0,0,,it doesn't matter who you are! It'll still be J-pop!
 Dialogue: 5,0:17:16.18,0:17:17.30,Default,,0,0,0,,Don't add weird extra stuff to it!
 Dialogue: 5,0:17:17.30,0:17:20.76,Default,,0,0,0,,Don't say that now! What if they pull us from store shelves?!
-Dialogue: 5,0:17:20.76,0:17:21.97,Default,,0,0,0,,Yeah, you nationalist four-eyes!
-Dialogue: 5,0:17:22.27,0:17:24.43,Default,,0,0,0,,Hey, look! Extra entertainers!
+Dialogue: 5,0:17:20.76,0:17:22.06,Default,,0,0,0,,Yeah, you nationalist four-eyes!
+Dialogue: 5,0:17:22.06,0:17:24.43,Default,,0,0,0,,Hey, look! Extra entertainers!
 Dialogue: 5,0:17:24.43,0:17:27.10,Default,,0,0,0,,Yeah, they do add a bit extra! I mean, look at what that guy's wearing!
 Dialogue: 5,0:17:27.10,0:17:28.19,Default,,0,0,0,,Yeah, for sure.
 Dialogue: 5,0:17:28.19,0:17:29.94,Default,,0,0,0,,This's way beyond "a little extra"!
-Dialogue: 5,0:17:29.94,0:17:31.27,Default,,0,0,0,,That's over 9000!{referring to the artist's wig}
-Dialogue: 5,0:17:31.27,0:17:32.36,Default,,0,0,0,,He should perform without it!
+Dialogue: 5,0:17:29.94,0:17:31.45,Default,,0,0,0,,That's over 9000!{referring to the artist's wig}
+Dialogue: 5,0:17:31.45,0:17:32.36,Default,,0,0,0,,He should perform without it!
 Dialogue: 5,0:17:32.36,0:17:33.86,Default,,0,0,0,,You shouldn't force him to...
 Dialogue: 5,0:17:33.86,0:17:35.78,Default,,0,0,0,,Look, a drama!
 Dialogue: 5,0:17:35.78,0:17:37.61,Default,,0,0,0,,They turned that into a movie, didn't they?
-Dialogue: 5,0:17:37.61,0:17:40.24,Default,,0,0,0,,There was an anime too, made in Musashi-Sakai.
+Dialogue: 5,0:17:37.61,0:17:39.96,Default,,0,0,0,,There was an anime too, made in Musashi-Sakai.
 Dialogue: 5,0:17:40.24,0:17:41.49,Default,,0,0,0,,Why can't they just air it on TV?
 Dialogue: 5,0:17:41.49,0:17:43.29,Default,,0,0,0,,Why does it have to be a movie and an anime?!
 Dialogue: 5,0:17:43.29,0:17:45.87,Default,,0,0,0,,Yeah, whenever they make a "The Movie" out of dramas,
 Dialogue: 5,0:17:45.87,0:17:47.71,Default,,0,0,0,,they try to stretch the story out into some sweeping epic,
-Dialogue: 5,0:17:47.71,0:17:49.46,Default,,0,0,0,,but they kill all the original feel with that.
-Dialogue: 5,0:17:49.46,0:17:52.30,Default,,0,0,0,,Yeah, mysterious terrorist organizations and serial killers always show up.
-Dialogue: 5,0:17:52.30,0:17:54.67,Default,,0,0,0,,Yeah, show the drama as a drama!
-Dialogue: 5,0:17:54.67,0:17:55.59,Default,,0,0,0,,That's not entirely right.
+Dialogue: 5,0:17:47.71,0:17:49.72,Default,,0,0,0,,but they kill all the original feel with that.
+Dialogue: 5,0:17:49.46,0:17:52.26,Default,,0,0,0,,Yeah, mysterious terrorist organizations and serial killers always show up.
+Dialogue: 5,0:17:52.26,0:17:54.72,Default,,0,0,0,,Yeah, show the drama as a drama!
+Dialogue: 5,0:17:54.72,0:17:55.59,Default,,0,0,0,,That's not entirely right.
 Dialogue: 5,0:17:55.59,0:17:58.68,Default,,0,0,0,,What if the drama is a manga adaptation?
-Dialogue: 5,0:17:58.68,0:18:01.60,Default,,0,0,0,,Shouldn't you be saying "read the manga as a manga"?
-Dialogue: 5,0:18:01.60,0:18:05.77,Default,,0,0,0,,So if I watch the spin-off and say "watch the movie as a movie,"
+Dialogue: 5,0:17:58.68,0:18:01.39,Default,,0,0,0,,Shouldn't you be saying "read the manga as a manga"?
+Dialogue: 5,0:18:01.39,0:18:05.77,Default,,0,0,0,,So if I watch the spin-off and say "watch the movie as a movie,"
 Dialogue: 5,0:18:05.77,0:18:09.27,Default,,0,0,0,,but behind that movie it'd be "watch the drama as a drama,"
 Dialogue: 5,0:18:09.27,0:18:11.40,Default,,0,0,0,,and behind that drama there's an original manga too...
-Dialogue: 5,0:18:11.40,0:18:13.73,Default,,0,0,0,,It doesn't matter as long as you enjoy it.
-Dialogue: 5,0:18:14.15,0:18:17.32,Default,,0,0,0,,Even if they make an anime out of it, even if they put that on sale,
+Dialogue: 5,0:18:11.40,0:18:14.13,Default,,0,0,0,,It doesn't matter as long as you enjoy it.
+Dialogue: 5,0:18:14.13,0:18:17.32,Default,,0,0,0,,Even if they make an anime out of it, even if they put that on sale,
 Dialogue: 5,0:18:17.32,0:18:19.74,Default,,0,0,0,,it's fine as long as you enjoy it.
-Dialogue: 5,0:18:19.74,0:18:21.95,Default,,0,0,0,,Are you trying to put pressure on people again?
-Dialogue: 5,0:18:22.91,0:18:24.62,Default,,0,0,0,,Why are you dressing the dog up?!
+Dialogue: 5,0:18:19.74,0:18:22.50,Default,,0,0,0,,Are you trying to put pressure on people again?
+Dialogue: 5,0:18:23.00,0:18:24.62,Default,,0,0,0,,Why are you dressing the dog up?!
 Dialogue: 5,0:18:24.62,0:18:26.79,Default,,0,0,0,,Keep the dog as a dog!
-Dialogue: 5,0:18:26.79,0:18:29.46,Default,,0,0,0,,Many people say that, but you know, even dogs feel cold!
-Dialogue: 5,0:18:29.92,0:18:32.54,Default,,0,0,0,,The number one cause of death for dogs in the winter is freezing.
-Dialogue: 5,0:18:32.54,0:18:35.38,Default,,0,0,0,,Not to mention that if your dog wears clothes, it won't cover your room in fur.
-Dialogue: 5,0:18:35.38,0:18:37.30,Default,,0,0,0,,That's wrong! Dogs are best naked!
+Dialogue: 5,0:18:26.79,0:18:29.59,Default,,0,0,0,,Many people say that, but you know, even dogs feel cold!
+Dialogue: 5,0:18:29.90,0:18:32.51,Default,,0,0,0,,The number one cause of death for dogs in the winter is freezing.
+Dialogue: 5,0:18:32.51,0:18:35.59,Default,,0,0,0,,Not to mention that if your dog wears clothes, it won't cover your room in fur.
+Dialogue: 5,0:18:35.59,0:18:37.30,Default,,0,0,0,,That's wrong! Dogs are best naked!
 Dialogue: 5,0:18:37.30,0:18:38.42,Default,,0,0,0,,{\i1}I don't care.
-Dialogue: 5,0:18:38.42,0:18:40.59,Default,,0,0,0,,I'll make this dog a nakedog!
-Dialogue: 5,0:18:40.89,0:18:42.43,Default,,0,0,0,,{\i1}That's a horrible pun!
-Dialogue: 5,0:18:44.06,0:18:47.77,Default,,0,0,0,,{\an8}{gan}No, wait, not that!
-Dialogue: 5,0:18:44.51,0:18:47.31,Default,,0,0,0,,See, even the dog doesn't want to undress.
-Dialogue: 5,0:18:47.31,0:18:52.90,Default,,0,0,0,,It might've just hated that "nakedog" pun.
-Dialogue: 5,0:18:47.77,0:18:50.23,Default,,0,0,0,,{\an8}{gan}Stop, hey, stop!
-Dialogue: 5,0:18:51.73,0:18:52.90,Default,,0,0,0,,{\an8}Stop!
+Dialogue: 5,0:18:38.42,0:18:40.89,Default,,0,0,0,,I'll make this dog a nakedog!
+Dialogue: 5,0:18:40.89,0:18:42.68,Default,,0,0,0,,{\i1}That's a horrible pun!
+Dialogue: 5,0:18:44.06,0:18:47.52,Default,,0,0,0,,{\an8}{gan}No, wait, not that!
+Dialogue: 5,0:18:44.51,0:18:47.52,Default,,0,0,0,,See, even the dog doesn't want to undress.
+Dialogue: 5,0:18:47.52,0:18:53.15,Default,,0,0,0,,It might've just hated that "nakedog" pun.
+Dialogue: 5,0:18:47.52,0:18:50.48,Default,,0,0,0,,{\an8}{gan}Stop, hey, stop!
+Dialogue: 5,0:18:51.73,0:18:53.15,Default,,0,0,0,,{\an8}Stop!
 Dialogue: 5,0:18:54.27,0:18:55.36,Default,,0,0,0,,Dammit!
-Dialogue: 5,0:18:55.36,0:18:56.99,Default,,0,0,0,,Following in my footsteps, are you?
+Dialogue: 5,0:18:55.36,0:18:56.70,Default,,0,0,0,,Following in my footsteps, are you?
 Dialogue: 5,0:18:56.99,0:18:59.03,Default,,0,0,0,,Ah, some fanservice for the last episode.
-Dialogue: 5,0:18:59.03,0:19:01.66,Default,,0,0,0,,You can do whatever you want in the last episode.
+Dialogue: 5,0:18:59.03,0:19:01.33,Default,,0,0,0,,You can do whatever you want in the last episode.
 Dialogue: 5,0:19:01.66,0:19:02.70,Default,,0,0,0,,No, we can't!
 Dialogue: 5,0:19:02.70,0:19:03.62,Default,,0,0,0,,La Nude...{horrible pun on naked (?, ra)}
 Dialogue: 5,0:19:03.62,0:19:05.62,Default,,0,0,0,,Or rather, La Nude Four-eyes!
 Dialogue: 5,0:19:05.62,0:19:08.29,Default,,0,0,0,,Don't say "la nude" like that! It's not French!
 Dialogue: 5,0:19:08.29,0:19:10.71,Default,,0,0,0,,Then how about Birthday Suit Foureyes?
-Dialogue: 5,0:19:10.71,0:19:13.67,Default,,0,0,0,,I doubt she had glasses on when she was born.
-Dialogue: 5,0:19:13.67,0:19:15.17,Default,,0,0,0,,You shouldn't do this, Gan!
-Dialogue: 5,0:19:15.17,0:19:16.63,Default,,0,0,0,,Wh-What do you mean?
-Dialogue: 5,0:19:16.63,0:19:19.01,Default,,0,0,0,,Washbowls should be used as washbowls!
-Dialogue: 5,0:19:19.01,0:19:22.01,Default,,0,0,0,,Don't twist them into hiding your private parts!
-Dialogue: 5,0:19:22.01,0:19:24.85,Default,,0,0,0,,I'm not twisting anything! It's an emergency measure!
-Dialogue: 5,0:19:25.97,0:19:27.06,Default,,0,0,0,,Excuse us!
-Dialogue: 5,0:19:28.06,0:19:30.27,Default,,0,0,0,,That washbowl is made of metal, isn't it?
+Dialogue: 5,0:19:10.71,0:19:13.72,Default,,0,0,0,,I doubt she had glasses on when she was born.
+Dialogue: 5,0:19:13.72,0:19:15.17,Default,,0,0,0,,You shouldn't do this, Gan!
+Dialogue: 5,0:19:15.17,0:19:16.39,Default,,0,0,0,,Wh-What do you mean?
+Dialogue: 5,0:19:16.39,0:19:18.85,Default,,0,0,0,,Washbowls should be used as washbowls!
+Dialogue: 5,0:19:18.85,0:19:21.77,Default,,0,0,0,,Don't twist them into hiding your private parts!
+Dialogue: 5,0:19:21.77,0:19:25.10,Default,,0,0,0,,I'm not twisting anything! It's an emergency measure!
+Dialogue: 5,0:19:25.97,0:19:27.31,Default,,0,0,0,,Excuse us!
+Dialogue: 5,0:19:27.98,0:19:30.27,Default,,0,0,0,,That washbowl is made of metal, isn't it?
 Dialogue: 5,0:19:30.27,0:19:31.39,Default,,0,0,0,,Hand it over!
 Dialogue: 5,0:19:31.39,0:19:33.69,Default,,0,0,0,,What do you want with my washbowl?!
 Dialogue: 5,0:19:33.69,0:19:35.23,Default,,0,0,0,,They're using it for Ospreys!
-Dialogue: 5,0:19:35.23,0:19:38.40,Default,,0,0,0,,Use washbowls as washbowls! We're not at war!
-Dialogue: 5,0:19:38.40,0:19:42.61,Default,,0,0,0,,We can't defend the home front if we reject even washbowls.
-Dialogue: 5,0:19:42.61,0:19:46.20,Default,,0,0,0,,I wonder what's going on outside...
-Dialogue: 5,0:19:49.91,0:19:53.67,Default,,0,0,0,,Those clouds of depression... There's war a-brewin'.
-Dialogue: 5,0:19:53.67,0:19:56.84,Default,,0,0,0,,When did I say anything to anger America?
-Dialogue: 5,0:19:56.84,0:19:59.01,Default,,0,0,0,,I don't think we angered America.
+Dialogue: 5,0:19:35.23,0:19:38.74,Default,,0,0,0,,Use washbowls as washbowls! We're not at war!
+Dialogue: 5,0:19:38.40,0:19:42.37,Default,,0,0,0,,We can't defend the home front if we reject even washbowls.
+Dialogue: 5,0:19:42.37,0:19:46.45,Default,,0,0,0,,I wonder what's going on outside...
+Dialogue: 5,0:19:49.91,0:19:53.80,Default,,0,0,0,,Those clouds of depression... There's war a-brewin'.
+Dialogue: 5,0:19:53.80,0:19:56.63,Default,,0,0,0,,When did I say anything to anger America?
+Dialogue: 5,0:19:56.63,0:19:59.01,Default,,0,0,0,,I don't think we angered America.
 Dialogue: 5,0:19:59.01,0:20:00.92,Default,,0,0,0,,I'm not so sure about that {\i1}other{\i0} guy{kim jong-il, ano kata}, though.
-Dialogue: 5,0:20:00.92,0:20:04.89,Default,,0,0,0,,We shall use the metal of this washbowl for the greater good!
+Dialogue: 5,0:20:00.92,0:20:05.14,Default,,0,0,0,,We shall use the metal of this washbowl for the greater good!
 Dialogue: 5,0:20:06.43,0:20:08.93,Default,,0,0,0,,That's what you get for trying to wear a washbowl.
 Dialogue: 5,0:20:08.93,0:20:11.14,Default,,0,0,0,,But the women's association are no ogres, you know?
-Dialogue: 5,0:20:11.14,0:20:12.94,Default,,0,0,0,,They left this here for you to wear.
-Dialogue: 5,0:20:16.98,0:20:18.40,Default,,0,0,0,,A true drag king beauty!
-Dialogue: 5,0:20:18.40,0:20:21.07,Default,,0,0,0,,I didn't know someone so wonderful was this close to me all the time!
+Dialogue: 5,0:20:11.14,0:20:13.36,Default,,0,0,0,,They left this here for you to wear.
+Dialogue: 5,0:20:16.98,0:20:18.36,Default,,0,0,0,,A true drag king beauty!
+Dialogue: 5,0:20:18.36,0:20:21.07,Default,,0,0,0,,I didn't know someone so wonderful was this close to me all the time!
 Dialogue: 5,0:20:21.07,0:20:22.61,Default,,0,0,0,,So manly! So cool!
-Dialogue: 5,0:20:22.61,0:20:25.70,Default,,0,0,0,,I'm a girl! Treat girls as girls!
-Dialogue: 5,0:20:25.70,0:20:26.95,Default,,0,0,0,,Don't add weird extras!
-Dialogue: 5,0:20:26.95,0:20:28.03,Default,,0,0,0,,But you know...
-Dialogue: 5,0:20:28.53,0:20:30.08,Default,,0,0,0,,What's wrong, Marii?
+Dialogue: 5,0:20:22.61,0:20:25.62,Default,,0,0,0,,I'm a girl! Treat girls as girls!
+Dialogue: 5,0:20:25.62,0:20:26.95,Default,,0,0,0,,Don't add weird extras!
+Dialogue: 5,0:20:26.95,0:20:28.51,Default,,0,0,0,,But you know...
+Dialogue: 5,0:20:28.51,0:20:30.08,Default,,0,0,0,,What's wrong, Marii?
 Dialogue: 5,0:20:30.08,0:20:32.41,Default,,0,0,0,,I thought you suspected {\i1}me{\i0} of being a crossdressing boy!
 Dialogue: 5,0:20:32.41,0:20:33.87,Default,,0,0,0,,Our characters are overlapping!
 Dialogue: 5,0:20:33.87,0:20:36.46,Default,,0,0,0,,Treat crossdressing boys as crossdressing boys!
 Dialogue: 5,0:20:36.46,0:20:38.54,Default,,0,0,0,,Marii finally came out of the closet!
-Dialogue: 5,0:20:38.54,0:20:39.75,Default,,0,0,0,,Marii, you really...
-Dialogue: 5,0:20:39.75,0:20:40.71,Default,,0,0,0,,...were a crossdresser!
-Dialogue: 5,0:20:41.21,0:20:42.13,Default,,0,0,0,,That's not it!
-Dialogue: 5,0:20:42.13,0:20:44.47,Default,,0,0,0,,The problem isn't our genders, it's our characters!
-Dialogue: 5,0:20:46.64,0:20:48.93,Default,,0,0,0,,Treat me as me!
-Dialogue: 5,0:20:48.93,0:20:50.10,Default,,0,0,0,,That's right!
-Dialogue: 5,0:20:50.10,0:20:51.18,Default,,0,0,0,,Marii's...
-Dialogue: 5,0:20:51.68,0:20:53.06,Default,,0,0,0,,neither a girl...
-Dialogue: 5,0:20:53.43,0:20:54.69,Default,,0,0,0,,nor a boy.
-Dialogue: 5,0:20:57.52,0:21:00.15,Default,,0,0,0,,She's a being called Marii.
-Dialogue: 5,0:21:00.69,0:21:02.65,Default,,0,0,0,,What are you so satisfied with?!
-Dialogue: 5,0:21:02.65,0:21:05.15,Default,,0,0,0,,Do you really want to end the show like this?
-Dialogue: 5,0:21:05.78,0:21:08.37,Default,,0,0,0,,Miss Marii{ oneesan}{idk how to handle this}, it's your turn.
-Dialogue: 5,0:21:08.37,0:21:09.70,Default,,0,0,0,,Okay!
-Dialogue: 5,0:21:10.33,0:21:12.08,Default,,0,0,0,,Good luck!
-Dialogue: 5,0:21:32.64,0:21:35.27,Default,,0,0,0,,Please allow me to take the stage before you.
-Dialogue: 5,0:21:45.65,0:21:51.37,Default,,0,0,0,,The world is abuzz with news of the show reaching the end of its run,
+Dialogue: 5,0:20:38.54,0:20:40.05,Default,,0,0,0,,Marii, you really...
+Dialogue: 5,0:20:39.75,0:20:41.19,Default,,0,0,0,,...were a crossdresser!
+Dialogue: 5,0:20:41.19,0:20:41.85,Default,,0,0,0,,That's not it!
+Dialogue: 5,0:20:42.13,0:20:44.72,Default,,0,0,0,,The problem isn't our genders, it's our characters!
+Dialogue: 5,0:20:46.64,0:20:48.81,Default,,0,0,0,,Treat me as me!
+Dialogue: 5,0:20:48.81,0:20:50.10,Default,,0,0,0,,That's right!
+Dialogue: 5,0:20:50.10,0:20:51.66,Default,,0,0,0,,Marii's...
+Dialogue: 5,0:20:51.66,0:20:53.23,Default,,0,0,0,,neither a girl...
+Dialogue: 5,0:20:53.23,0:20:54.94,Default,,0,0,0,,nor a boy.
+Dialogue: 5,0:20:57.52,0:21:00.66,Default,,0,0,0,,She's a being called Marii.
+Dialogue: 5,0:21:00.66,0:21:02.65,Default,,0,0,0,,What are you so satisfied with?!
+Dialogue: 5,0:21:02.65,0:21:05.74,Default,,0,0,0,,Do you really want to end the show like this?
+Dialogue: 5,0:21:05.74,0:21:08.37,Default,,0,0,0,,Miss Marii{ oneesan}{idk how to handle this}, it's your turn.
+Dialogue: 5,0:21:08.37,0:21:10.29,Default,,0,0,0,,Okay!
+Dialogue: 5,0:21:10.29,0:21:12.67,Default,,0,0,0,,Good luck!
+Dialogue: 5,0:21:32.64,0:21:35.65,Default,,0,0,0,,Please allow me to take the stage before you.
+Dialogue: 5,0:21:45.45,0:21:51.37,Default,,0,0,0,,The world is abuzz with news of the show reaching the end of its run,
 Dialogue: 5,0:21:51.37,0:21:56.71,Default,,0,0,0,,but there's an even scarier end that await us: the end of our lives.
 Dialogue: 5,0:21:56.71,0:22:02.25,Default,,0,0,0,,Everything without exception has an end,
-Dialogue: 5,0:22:02.25,0:22:09.97,Default,,0,0,0,,so I think it'd be best to laugh happily until it's time to close the—
+Dialogue: 5,0:22:02.25,0:22:09.98,Default,,0,0,0,,so I think it'd be best to laugh happily until it's time to close the—
 Dialogue: 3,0:22:17.23,0:22:18.77,EDbg,,0,0,0,,A
 Dialogue: 3,0:22:18.77,0:22:20.44,EDbg,,0,0,0,,A
 Dialogue: 3,0:22:20.44,0:22:21.94,EDbg,,0,0,0,,A
