@@ -203,10 +203,10 @@ subs {
             }
         }
 
-        // chapters {
-        //     from(cleanmerge.item())
-        //     chapterMarker("chapter")
-        // }
+        chapters {
+            from(cleanmerge.item())
+            chapterMarker("ncchapter")
+        }
 
         mux {
             title(get("title"))

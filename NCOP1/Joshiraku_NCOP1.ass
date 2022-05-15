@@ -29,6 +29,7 @@ Comment: 7,0:00:00.00,0:00:00.02,OP1,,0,0,0,template char noblank,{\blur0.75}
 Comment: 6,0:00:00.00,0:00:00.02,OP1,,0,0,0,template char noblank,{\bord1.2\1a&H80&\3c!gc(4)!\blur2}
 Comment: 5,0:00:00.00,0:00:00.02,OP1,,0,0,0,template char noblank,{\bord3.6\1a&H80&\blur4}
 Comment: 0,0:00:00.00,0:00:00.02,OP1,,0,0,0,mixin line,{!ln.tag.pos(5,5,0,pos_y())!\fry-80\t(0,200,\fry0)\t(!orgline.duration-400!,!orgline.duration!,\fry270)}
+Comment: 0,0:00:00.00,0:00:00.00,Default,ncchapter,0,0,0,,{Creditless OP1}
 Comment: 0,0:00:02.73,0:00:02.73,Default,,0,0,0,sync,{OPsync — First hard cut}
 Comment: 0,0:00:00.52,0:00:02.73,OP1,eng,0,0,0,kara,Thanks for your continued appreciation!
 Comment: 0,0:00:02.98,0:00:05.44,OP1,eng,0,0,0,kara,For everything so far and all that is to come!
