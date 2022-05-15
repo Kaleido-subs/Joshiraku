@@ -28,446 +28,445 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{OP}
 Comment: 0,0:00:02.73,0:00:02.73,Default,,0,0,0,opsync,{OPsync}
 Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
 Comment: 0,0:09:04.94,0:09:04.94,Default,chapter,0,0,0,,{Part B}
-Comment: 0,0:14:58.87,0:14:58.87,Default,chapter,0,0,0,,{Part C}
+Comment: 0,0:14:58.88,0:14:58.88,Default,chapter,0,0,0,,{Part C}
 Comment: 0,0:22:09.93,0:22:09.93,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:35.33,0:22:35.33,Default,,0,0,0,edsync,{EDsync}
-Comment: 0,0:23:39.93,0:23:39.93,Default,chapter,0,0,0,,{Preview}
-Dialogue: 10,0:01:30.57,0:01:35.61,Default,,0,0,0,,"Don't worry, sir. I'm very aware of that."
-Dialogue: 10,0:01:36.24,0:01:42.07,Default,,0,0,0,,"But if you know how much this plate is worth, \Nwhy are you using it to feed a cat?"
-Dialogue: 10,0:01:42.99,0:01:48.49,Default,,0,0,0,,"Well, if I do this, sometimes I can sell \Nthe cat to a sucker for two ryo." {## The original rakugo story had the guy sell the cat for 3 ryo}
-Dialogue: 10,0:01:49.56,0:01:51.58,Default,,0,0,0,,Thank you for your continued appreciation.
-Dialogue: 10,0:02:08.50,0:02:10.82,Default,,0,0,0,,Man, that's a lotta rain.
-Dialogue: 10,0:02:11.92,0:02:13.73,Default,,0,0,0,,It must suck when your glasses fog up.
-Dialogue: 10,0:02:15.92,0:02:17.24,Default,,0,0,0,,They don't, but thanks.
+Comment: 0,0:23:39.94,0:23:39.94,Default,chapter,0,0,0,,{Preview}
+Dialogue: 10,0:01:30.57,0:01:35.62,Default,,0,0,0,,"Don't worry, sir. I'm very aware of that."
+Dialogue: 10,0:01:36.24,0:01:42.08,Default,,0,0,0,,{\q2}"But if you know how much this plate is worth, \Nwhy are you using it to feed a cat?"
+Dialogue: 10,0:01:43.00,0:01:48.50,Default,,0,0,0,,{\q2}"Well, if I do this, sometimes I can sell \Nthe cat to a sucker for two ryo." {## The original rakugo story had the guy sell the cat for 3 ryo}
+Dialogue: 10,0:01:49.55,0:01:51.59,Default,,0,0,0,,Thank you for your continued appreciation.
+Dialogue: 10,0:02:08.48,0:02:10.82,Default,,0,0,0,,Man, that's a lotta rain.
+Dialogue: 10,0:02:11.90,0:02:13.74,Default,,0,0,0,,It must suck when your glasses fog up.
+Dialogue: 10,0:02:15.91,0:02:17.24,Default,,0,0,0,,They don't, but thanks.
 Dialogue: 10,0:02:17.24,0:02:21.37,Default,,0,0,0,,Really? I thought glasses fogged up in the rain.
-Dialogue: 10,0:02:21.74,0:02:23.89,Default,,0,0,0,,It's really pouring out there.
-Dialogue: 10,0:02:24.83,0:02:26.87,Default,,0,0,0,,Your glasses must steam up something awful.
-Dialogue: 10,0:02:26.87,0:02:27.66,Default,,0,0,0,,They don't!
-Dialogue: 10,0:02:28.00,0:02:29.08,Default,,0,0,0,,Really?
-Dialogue: 10,0:02:30.14,0:02:32.63,Default,,0,0,0,,Whew, it's pissin' down out there.
+Dialogue: 10,0:02:21.75,0:02:23.87,Default,,0,0,0,,It's really pouring out there.
+Dialogue: 10,0:02:24.83,0:02:26.88,Default,,0,0,0,,Your glasses must steam up something awful.
+Dialogue: 10,0:02:26.88,0:02:27.67,Default,,0,0,0,,They don't!
+Dialogue: 10,0:02:28.00,0:02:29.09,Default,,0,0,0,,Really?
+Dialogue: 10,0:02:30.13,0:02:32.63,Default,,0,0,0,,Whew, it's pissin' down out there.
 Dialogue: 10,0:02:33.13,0:02:34.88,Default,,0,0,0,,Must be tough when your glasses fog up!
-Dialogue: 10,0:02:34.88,0:02:35.63,Default,,0,0,0,,They don't!
-Dialogue: 10,0:02:35.63,0:02:35.67,Default,,258,162,23,,{\fscx105\fscy115\1a&H80&\blur3}They don't!
-Dialogue: 11,0:02:35.63,0:02:35.67,Default,,258,162,23,,{\fscx105\fscy115\bord0\blur3}They don't!
-Dialogue: 10,0:02:35.67,0:02:35.71,Default,,315,105,-21,,{\fscx125\fscy135\1a&H80&\blur3}They don't!
-Dialogue: 11,0:02:35.67,0:02:35.71,Default,,315,105,-21,,{\fscx125\fscy135\bord0\blur6}They don't!
-Dialogue: 10,0:02:35.71,0:02:35.76,Default,,320,100,-53,,{\fscx135\fscy145\1a&H80&\blur3}They don't!
-Dialogue: 11,0:02:35.71,0:02:35.76,Default,,320,100,-53,,{\fscx135\fscy145\bord0\blur6}They don't!
-Dialogue: 10,0:02:39.34,0:02:41.09,Default,,0,0,0,,What's gotten you so steamed all of a sudden?!
-Dialogue: 10,0:02:41.09,0:02:42.61,Default,,0,0,0,,Nothing sudden about it.
-Dialogue: 10,0:02:42.61,0:02:44.51,Default,,0,0,0,,I held back for as long as I could, sorry.
-Dialogue: 10,0:02:44.51,0:02:46.63,Default,,0,0,0,,Phew, it's raining cats and dogs!
-Dialogue: 10,0:02:46.63,0:02:48.91,Default,,0,0,0,,Your glasses must be totally foggy.
+Dialogue: 10,0:02:34.88,0:02:35.64,Default,,0,0,0,,They don't!
+Dialogue: 10,0:02:35.64,0:02:35.68,Default,,258,162,23,,{\fscx105\fscy115\1a&H80&\blur3}They don't!
+Dialogue: 11,0:02:35.64,0:02:35.68,Default,,258,162,23,,{\fscx105\fscy115\bord0\blur3}They don't!
+Dialogue: 10,0:02:35.68,0:02:35.72,Default,,315,105,-21,,{\fscx125\fscy135\1a&H80&\blur3}They don't!
+Dialogue: 11,0:02:35.68,0:02:35.72,Default,,315,105,-21,,{\fscx125\fscy135\bord0\blur6}They don't!
+Dialogue: 10,0:02:35.72,0:02:35.76,Default,,320,100,-53,,{\fscx135\fscy145\1a&H80&\blur3}They don't!
+Dialogue: 11,0:02:35.72,0:02:35.76,Default,,320,100,-53,,{\fscx135\fscy145\bord0\blur6}They don't!
+Dialogue: 10,0:02:39.35,0:02:41.10,Default,,0,0,0,,What's gotten you so steamed all of a sudden?!
+Dialogue: 10,0:02:41.10,0:02:42.60,Default,,0,0,0,,Nothing sudden about it.
+Dialogue: 10,0:02:42.60,0:02:44.52,Default,,0,0,0,,I held back for as long as I could, sorry.
+Dialogue: 10,0:02:44.52,0:02:46.65,Default,,0,0,0,,Phew, it's raining cats and dogs!
+Dialogue: 10,0:02:46.65,0:02:48.90,Default,,0,0,0,,Your glasses must be totally foggy.
 Dialogue: 10,0:02:51.73,0:02:54.40,Default,,0,0,0,,That was Kigu! Why'd you hit {\i1}me{\i0}?
-Dialogue: 10,0:02:54.40,0:02:55.18,Default,,0,0,0,,Shut up.
-Dialogue: 10,0:02:55.18,0:02:57.90,Default,,0,0,0,,{\q2}If we're going to talk about glasses, \Nthere's something we have to do.
-Dialogue: 10,0:02:57.90,0:02:59.86,Default,,0,0,0,,Face Sabae
-Dialogue: 10,0:03:00.38,0:03:01.29,Default,,0,0,0,,and bow!
+Dialogue: 10,0:02:54.40,0:02:55.20,Default,,0,0,0,,Shut up.
+Dialogue: 10,0:02:55.20,0:02:57.91,Default,,0,0,0,,{\q2}If we're going to talk about glasses, \Nthere's something we have to do.
+Dialogue: 10,0:02:57.91,0:02:59.87,Default,,0,0,0,,Face Sabae
+Dialogue: 10,0:03:00.37,0:03:01.29,Default,,0,0,0,,and bow!
 Dialogue: 10,0:03:01.29,0:03:03.62,Default,,0,0,0,,Thank you!
-Dialogue: 10,0:03:03.74,0:03:07.12,Default,,0,0,0,,Sabae is Japan's leading producer of glasses.
+Dialogue: 10,0:03:03.75,0:03:07.13,Default,,0,0,0,,Sabae is Japan's leading producer of glasses.
 Dialogue: 10,0:03:08.63,0:03:10.25,Default,,0,0,0,,Alright! You bespectacled bully!
-Dialogue: 10,0:03:10.25,0:03:12.79,Default,,0,0,0,,You've punched me twice now!
-Dialogue: 10,0:03:13.06,0:03:14.59,Default,,0,0,0,,It's time for you to say your pr—
-Dialogue: 11,0:03:14.59,0:03:14.63,Default,,228,192,60,,{\bord0\blur4.5}It's time for you to say your pr—
-Dialogue: 10,0:03:14.59,0:03:14.63,Default,,228,192,60,,{\1a&H80&\blur4.5}It's time for you to say your pr—
-Dialogue: 11,0:03:14.63,0:03:14.67,Default,,196,224,47,,{\bord0\blur3}It's time for you to say your pr—
-Dialogue: 10,0:03:14.63,0:03:14.67,Default,,196,224,47,,{\1a&H80&\blur3}It's time for you to say your pr—
-Dialogue: 10,0:03:14.67,0:03:14.71,Default,,229,191,41,,{\bord0\blur1.5}It's time for you to say your pr—
-Dialogue: 10,0:03:14.67,0:03:14.71,Default,,229,191,41,,{\1a&H80&\blur1.5}It's time for you to say your pr—
-Dialogue: 10,0:03:14.71,0:03:14.75,Default,,208,212,39,,It's time for you to say your pr—
-Dialogue: 10,0:03:14.75,0:03:14.79,Default,,189,231,50,,It's time for you to say your pr—
-Dialogue: 10,0:03:14.79,0:03:14.84,Default,,232,188,51,,It's time for you to say your pr—
+Dialogue: 10,0:03:10.25,0:03:12.80,Default,,0,0,0,,You've punched me twice now!
+Dialogue: 10,0:03:13.05,0:03:14.59,Default,,0,0,0,,It's time for you to say your pr—
+Dialogue: 10,0:03:14.59,0:03:14.63,Default,,228,192,60,,{\bord0\blur4.5}It's time for you to say your pr—
+Dialogue: 9,0:03:14.59,0:03:14.63,Default,,228,192,60,,{\1a&H80&\blur4.5}It's time for you to say your pr—
+Dialogue: 10,0:03:14.63,0:03:14.67,Default,,196,224,47,,{\bord0\blur3}It's time for you to say your pr—
+Dialogue: 9,0:03:14.63,0:03:14.67,Default,,196,224,47,,{\1a&H80&\blur3}It's time for you to say your pr—
+Dialogue: 10,0:03:14.67,0:03:14.72,Default,,229,191,41,,{\bord0\blur1.5}It's time for you to say your pr—
+Dialogue: 9,0:03:14.67,0:03:14.72,Default,,229,191,41,,{\1a&H80&\blur1.5}It's time for you to say your pr—
+Dialogue: 10,0:03:14.72,0:03:14.76,Default,,208,212,39,,It's time for you to say your pr—
+Dialogue: 10,0:03:14.76,0:03:14.80,Default,,189,231,50,,It's time for you to say your pr—
+Dialogue: 10,0:03:14.80,0:03:14.84,Default,,232,188,51,,It's time for you to say your pr—
 Dialogue: 10,0:03:14.84,0:03:14.88,Default,,228,192,39,,It's time for you to say your pr—
 Dialogue: 10,0:03:14.88,0:03:14.92,Default,,225,195,77,,It's time for you to say your pr—
-Dialogue: 10,0:03:14.92,0:03:14.96,Default,,204,216,43,,It's time for you to say your pr—
-Dialogue: 10,0:03:14.96,0:03:15.00,Default,,194,226,39,,It's time for you to say your pr—
-Dialogue: 10,0:03:15.00,0:03:15.04,Default,,230,190,37,,It's time for you to say your pr—
-Dialogue: 10,0:03:15.04,0:03:15.09,Default,,192,228,65,,It's time for you to say your pr—
+Dialogue: 10,0:03:14.92,0:03:14.97,Default,,204,216,43,,It's time for you to say your pr—
+Dialogue: 10,0:03:14.97,0:03:15.01,Default,,194,226,39,,It's time for you to say your pr—
+Dialogue: 10,0:03:15.01,0:03:15.05,Default,,230,190,37,,It's time for you to say your pr—
+Dialogue: 10,0:03:15.05,0:03:15.09,Default,,192,228,65,,It's time for you to say your pr—
 Dialogue: 10,0:03:15.09,0:03:15.13,Default,,202,218,77,,It's time for you to say your pr—
 Dialogue: 10,0:03:15.13,0:03:15.17,Default,,210,210,64,,It's time for you to say your pr—
-Dialogue: 10,0:03:15.17,0:03:15.21,Default,,206,214,41,,It's time for you to say your pr—
-Dialogue: 10,0:03:15.21,0:03:15.25,Default,,219,201,71,,It's time for you to say your pr—
-Dialogue: 10,0:03:19.53,0:03:20.30,Default,,0,0,0,,She's strong!
-Dialogue: 10,0:03:21.28,0:03:25.05,Default,,0,0,0,,{\q2}I must've been overestimating when \NI thought you had improved since last time.
-Dialogue: 10,0:03:25.05,0:03:26.26,Default,,0,0,0,,Bloody hell!
-Dialogue: 10,0:03:26.26,0:03:29.44,Default,,0,0,0,,{\q2}Glasses-wielders aren't meant to \Nbe bruisers. It doesn't suit your kind!
-Dialogue: 10,0:03:30.37,0:03:33.60,Default,,0,0,0,,Nothing equips you for violence as well as glasses do.
-Dialogue: 10,0:03:33.60,0:03:34.23,Default,,0,0,0,,What did you say?
-Dialogue: 10,0:03:34.51,0:03:38.48,Default,,0,0,0,,{\q2}When people are about to punch someone wearing glasses, \Nthere's always a bit of hesitation involved.
-Dialogue: 10,0:03:39.72,0:03:42.35,Default,,0,0,0,,"If I break their glasses, it might hurt them."
-Dialogue: 10,0:03:42.35,0:03:43.95,Default,,0,0,0,,"If I break their glasses, it might hurt {\i1}me{\i0}."
-Dialogue: 10,0:03:44.46,0:03:46.87,Default,,0,0,0,,"It might cost a lot to replace them."
+Dialogue: 10,0:03:15.17,0:03:15.22,Default,,206,214,41,,It's time for you to say your pr—
+Dialogue: 10,0:03:15.22,0:03:15.26,Default,,219,201,71,,It's time for you to say your pr—
+Dialogue: 10,0:03:19.51,0:03:20.30,Default,,0,0,0,,She's strong!
+Dialogue: 10,0:03:21.26,0:03:25.06,Default,,0,0,0,,{\q2}I must've been overestimating when \NI thought you had improved since last time.
+Dialogue: 10,0:03:25.06,0:03:26.27,Default,,0,0,0,,Bloody hell!
+Dialogue: 10,0:03:26.27,0:03:29.44,Default,,0,0,0,,{\q2}Glasses-wielders aren't meant to \Nbe bruisers. It doesn't suit your kind!
+Dialogue: 10,0:03:30.36,0:03:33.61,Default,,0,0,0,,Nothing equips you for violence as well as glasses do.
+Dialogue: 10,0:03:33.61,0:03:34.24,Default,,0,0,0,,What did you say?
+Dialogue: 10,0:03:34.53,0:03:38.49,Default,,0,0,0,,{\q2}When people are about to punch someone wearing glasses, \Nthere's always a bit of hesitation involved.
+Dialogue: 10,0:03:39.74,0:03:42.37,Default,,0,0,0,,"If I break their glasses, it might hurt them."
+Dialogue: 10,0:03:42.37,0:03:43.95,Default,,0,0,0,,"It might hurt {\i1}me{\i0}."
+Dialogue: 10,0:03:44.45,0:03:46.87,Default,,0,0,0,,"It might cost a lot to replace them."
 Dialogue: 10,0:03:46.87,0:03:48.71,Default,,0,0,0,,"Is this morally right?"
-Dialogue: 10,0:03:48.71,0:03:53.83,Default,,0,0,0,,{\q2}All sorts of thoughts flash through their mind, \Ndelaying their punch for a mere moment.
-Dialogue: 10,0:03:53.83,0:03:59.34,Default,,0,0,0,,I see. So that's why my punch was .1 seconds too slow!
-Dialogue: 9,0:03:57.09,0:03:58.84,Default,,-264,684,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 262.5 688.5 l 507 694.5 514.5 681 519 639 253.5 621)}It's time for you to say your pr—
-Dialogue: 9,0:03:58.84,0:03:58.96,Default,,-264,684,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 262.5 688.5 l 526.5 682.5 526.5 663 531 639 253.5 621)}It's time for you to say your pr—
-Dialogue: 9,0:03:58.96,0:03:59.09,Default,,-264,684,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 262.5 688.5 l 531 682.5 531 663 535.5 637.5 253.5 621)}It's time for you to say your pr—
-Dialogue: 9,0:03:59.09,0:03:59.13,Default,,-264,684,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 262.5 688.5 l 525 682.5 525 666 531 637.5 253.5 621)}It's time for you to say your pr—
-Dialogue: 9,0:03:59.13,0:03:59.17,Default,,-264,684,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 262.5 688.5 l 525 682.5 525 666 531 637.5 253.5 621)}It's time for you to say your pr—
-Dialogue: 9,0:03:59.05,0:03:59.09,Default,,-264,684,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 262.5 688.5 l 525 682.5 525 666 531 637.5 253.5 621)}It's time for you to say your pr—
-Dialogue: 9,0:03:59.05,0:03:59.17,Default,,-264,684,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 526.5 687 l 534 684 538.5 648 532.5 636 529.5 663)}It's time for you to say your pr—
-Dialogue: 9,0:03:59.09,0:03:59.17,Default,,-271,691,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 262.5 688.5 l 525 682.5 525 666 531 637.5 253.5 621)}It's time for you to say your pr—
-Dialogue: 9,0:03:59.09,0:03:59.17,Default,,-271,691,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 526.5 687 l 534 684 538.5 648 532.5 636 529.5 663)}It's time for you to say your pr—
-Dialogue: 9,0:03:59.17,0:04:01.09,Default,,-264,684,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 262.5 688.5 l 525 682.5 525 666 531 637.5 253.5 621)}It's time for you to say your pr—
-Dialogue: 9,0:03:59.17,0:04:01.09,Default,,-264,684,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 526.5 687 l 534 684 538.5 648 532.5 636 529.5 663)}It's time for you to say your pr—
-Dialogue: 9,0:04:01.09,0:04:01.22,Default,,-264,684,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 262.5 688.5 l 525 682.5 525 666 531 637.5 253.5 621)}It's time for you to say your pr—
-Dialogue: 9,0:04:01.09,0:04:01.22,Default,,-264,684,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 526.5 687 l 534 684 538.5 648 532.5 636 529.5 663)}It's time for you to say your pr—
-Dialogue: 9,0:04:01.09,0:04:01.13,Default,,-271,691,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 262.5 688.5 l 525 682.5 525 666 531 637.5 253.5 621)}It's time for you to say your pr—
-Dialogue: 9,0:04:01.09,0:04:01.13,Default,,-271,691,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\1a&H80&\3a&HAF&\4a&HE6&\clip(m 526.5 687 l 534 684 538.5 648 532.5 636 529.5 663)}It's time for you to say your pr—
-Dialogue: 9,0:04:01.17,0:04:03.09,Default,,-264,684,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 262.5 688.5 l 525 682.5 525 666 531 637.5 253.5 621)}It's time for you to say your pr—
-Dialogue: 9,0:04:01.17,0:04:03.09,Default,,-264,684,409,,{\org(450,686)\fscx50\fscy50\frz-0.09\frx0.24\3a&H64&\4a&HC8&\clip(m 526.5 687 l 534 684 538.5 648 532.5 636 529.5 663)}It's time for you to say your pr—
-Dialogue: 10,0:03:59.34,0:04:03.09,Default,,0,0,0,,Closer to about ten times that, I'd say.
-Dialogue: 10,0:04:03.55,0:04:05.80,Default,,0,0,0,,So that's why Ushijima is so strong?
-Dialogue: 10,0:04:05.80,0:04:10.02,Default,,0,0,0,,{\q2}Would you slather someone in honey \Nand leave them in the woods like he does?
+Dialogue: 10,0:03:48.71,0:03:53.84,Default,,0,0,0,,{\q2}All sorts of thoughts flash through their mind, \Ndelaying their punch for a mere moment.
+Dialogue: 10,0:03:53.84,0:03:59.34,Default,,0,0,0,,I see. So that's why my punch was .1 seconds too slow!
+Dialogue: 9,0:03:57.09,0:03:58.84,Default,,-264,684,409,,{\fscx50\fscy50\3a&H64&\4a&HC8&\clip(m 263 689 l 507 695 515 681 519 639 254 621)}It's time for you to say your pr—
+Dialogue: 9,0:03:58.84,0:03:58.97,Default,,-264,684,409,,{\fscx50\fscy50\3a&H64&\4a&HC8&\clip(m 263 689 l 527 683 527 663 531 639 254 621)}It's time for you to say your pr—
+Dialogue: 9,0:03:58.97,0:03:59.09,Default,,-264,684,409,,{\fscx50\fscy50\3a&H64&\4a&HC8&\clip(m 263 689 l 531 683 531 663 536 638 254 621)}It's time for you to say your pr—
+Dialogue: 9,0:03:59.09,0:03:59.18,Default,,-264,684,409,,{\fscx50\fscy50\1a&H80&\3a&HAF&\4a&HE6&\clip(m 263 689 l 525 683 525 666 531 638 254 621)}It's time for you to say your pr—
+Dialogue: 10,0:03:59.09,0:03:59.18,Default,,-264,684,409,,{\fscx50\fscy50\1a&H80&\3a&HAF&\4a&HE6&\clip(m 527 687 l 534 684 539 648 533 636 530 663)}It's time for you to say your pr—
+Dialogue: 11,0:03:59.09,0:03:59.18,Default,,-271,691,409,,{\fscx50\fscy50\1a&H80&\3a&HAF&\4a&HE6&\clip(m 263 689 l 525 683 525 666 531 638 254 621)}It's time for you to say your pr—
+Dialogue: 12,0:03:59.09,0:03:59.18,Default,,-271,691,409,,{\fscx50\fscy50\1a&H80&\3a&HAF&\4a&HE6&\clip(m 527 687 l 534 684 539 648 533 636 530 663)}It's time for you to say your pr—
+Dialogue: 9,0:03:59.18,0:04:01.10,Default,,-264,684,409,,{\fscx50\fscy50\3a&H64&\4a&HC8&\clip(m 263 689 l 525 683 525 666 531 638 254 621)}It's time for you to say your pr—
+Dialogue: 10,0:03:59.18,0:04:01.10,Default,,-264,684,409,,{\fscx50\fscy50\3a&H64&\4a&HC8&\clip(m 527 687 l 534 684 539 648 533 636 530 663)}It's time for you to say your pr—
+Dialogue: 11,0:04:01.01,0:04:01.18,Default,,-264,684,409,,{\fscx50\fscy50\1a&H80&\3a&HAF&\4a&HE6&\clip(m 263 689 l 525 683 525 666 531 638 254 621)}It's time for you to say your pr—
+Dialogue: 12,0:04:01.01,0:04:01.18,Default,,-264,684,409,,{\fscx50\fscy50\1a&H80&\3a&HAF&\4a&HE6&\clip(m 527 687 l 534 684 539 648 533 636 530 663)}It's time for you to say your pr—
+Dialogue: 13,0:04:01.10,0:04:01.14,Default,,-271,691,409,,{\fscx50\fscy50\1a&H80&\3a&HAF&\4a&HE6&\clip(m 263 689 l 525 683 525 666 531 638 254 621)}It's time for you to say your pr—
+Dialogue: 14,0:04:01.10,0:04:01.14,Default,,-271,691,409,,{\fscx50\fscy50\1a&H80&\3a&HAF&\4a&HE6&\clip(m 527 687 l 534 684 539 648 533 636 530 663)}It's time for you to say your pr—
+Dialogue: 13,0:04:01.18,0:04:03.10,Default,,-264,684,409,,{\fscx50\fscy50\3a&H64&\4a&HC8&\clip(m 263 689 l 525 683 525 666 531 638 254 621)}It's time for you to say your pr—
+Dialogue: 14,0:04:01.18,0:04:03.10,Default,,-264,684,409,,{\fscx50\fscy50\3a&H64&\4a&HC8&\clip(m 527 687 l 534 684 539 648 533 636 530 663)}It's time for you to say your pr—
+Dialogue: 10,0:03:59.34,0:04:03.10,Default,,0,0,0,,Closer to about ten times that, I'd say.
+Dialogue: 10,0:04:03.56,0:04:05.81,Default,,0,0,0,,So that's why Ushijima is so strong?
+Dialogue: 10,0:04:05.81,0:04:10.02,Default,,0,0,0,,{\q2}Would you slather someone in honey \Nand leave them in the woods like he does?
 Dialogue: 10,0:04:10.02,0:04:11.06,Default,,0,0,0,,Of course not!
-Dialogue: 10,0:04:11.06,0:04:13.53,Default,,0,0,0,,People that wear glasses shouldn't be violent.
-Dialogue: 10,0:04:13.53,0:04:17.88,Default,,0,0,0,,Maybe {\i1}I{\i0} need glasses because I just don't see it!
-Dialogue: 10,0:04:17.88,0:04:19.53,Default,,0,0,0,,Well, what would convince you?
-Dialogue: 10,0:04:19.53,0:04:22.85,Default,,0,0,0,,{\q2}The trope is that when girls take \Ntheir glasses off, they're super cute.
-Dialogue: 10,0:04:22.85,0:04:24.16,Default,,0,0,0,,Take 'em off, Gankyou!
-Dialogue: 10,0:04:29.83,0:04:31.66,Default,,0,0,0,,Where did your eyes go?!
-Dialogue: 10,0:04:31.66,0:04:33.75,Default,,0,0,0,,Jab, jab, hook, straight!
-Dialogue: 10,0:04:33.75,0:04:34.69,Default,,0,0,0,,The finisher...
-Dialogue: 10,0:04:34.69,0:04:36.04,Default,,0,0,0,,Uppercut!
-Dialogue: 10,0:04:38.71,0:04:41.01,Default,,0,0,0,,{\q2}Your power level increases while \Nyou're not wearing glasses!
-Dialogue: 10,0:04:41.72,0:04:44.59,Default,,0,0,0,,The glasses were suppressing her power all along.
-Dialogue: 10,0:04:44.59,0:04:47.09,Default,,0,0,0,,Best keep them on, for all our sakes.
-Dialogue: 10,0:04:47.40,0:04:49.02,Default,,0,0,0,,That's enough already!
-Dialogue: 10,0:04:49.02,0:04:50.95,Default,,0,0,0,,No more of this Bespectacled Bully character.
-Dialogue: 10,0:04:50.95,0:04:54.10,Default,,0,0,0,,I'm not wearing glasses just to play a character.
-Dialogue: 10,0:04:54.10,0:04:56.77,Default,,0,0,0,,Why don't we all try wearing glasses?
-Dialogue: 10,0:04:56.77,0:04:58.77,Default,,0,0,0,,Will that help anything?
-Dialogue: 10,0:04:58.77,0:04:59.86,Default,,0,0,0,,Which pair do you want?
-Dialogue: 10,0:05:01.48,0:05:03.69,Default,,0,0,0,,Wow, she looks clever.
-Dialogue: 10,0:05:03.69,0:05:05.15,Default,,0,0,0,,Very intelligent!
-Dialogue: 10,0:05:07.42,0:05:09.40,Default,,0,0,0,,You look like you're up to something!
-Dialogue: 10,0:05:09.40,0:05:10.66,Default,,0,0,0,,Very sinister.
-Dialogue: 10,0:05:12.81,0:05:14.86,Default,,0,0,0,,A good little minion.
-Dialogue: 10,0:05:14.86,0:05:17.17,Default,,0,0,0,,Very not-protagonist material.
+Dialogue: 10,0:04:11.06,0:04:13.52,Default,,0,0,0,,People that wear glasses shouldn't be violent.
+Dialogue: 10,0:04:13.52,0:04:17.86,Default,,0,0,0,,Maybe {\i1}I{\i0} need glasses because I just don't see it!
+Dialogue: 10,0:04:17.86,0:04:19.53,Default,,0,0,0,,Well, what would convince you?
+Dialogue: 10,0:04:19.53,0:04:22.87,Default,,0,0,0,,{\q2}The trope is that when girls take \Ntheir glasses off, they're super cute.
+Dialogue: 10,0:04:22.87,0:04:24.16,Default,,0,0,0,,Take 'em off, Gankyou!
+Dialogue: 10,0:04:29.83,0:04:31.67,Default,,0,0,0,,Where did your eyes go?!
+Dialogue: 10,0:04:31.67,0:04:33.75,Default,,0,0,0,,Jab, jab, hook, straight!
+Dialogue: 10,0:04:33.75,0:04:34.67,Default,,0,0,0,,The finisher...
+Dialogue: 10,0:04:34.67,0:04:36.05,Default,,0,0,0,,Uppercut!
+Dialogue: 10,0:04:38.72,0:04:41.01,Default,,0,0,0,,{\q2}Your power level increases while \Nyou're not wearing glasses!
+Dialogue: 10,0:04:41.72,0:04:44.60,Default,,0,0,0,,The glasses were suppressing her power all along.
+Dialogue: 10,0:04:44.60,0:04:47.10,Default,,0,0,0,,Best keep them on, for all our sakes.
+Dialogue: 10,0:04:47.39,0:04:49.02,Default,,0,0,0,,That's enough already!
+Dialogue: 10,0:04:49.02,0:04:50.94,Default,,0,0,0,,No more of this Bespectacled Bully character.
+Dialogue: 10,0:04:50.94,0:04:54.11,Default,,0,0,0,,I'm not wearing glasses just to play a character.
+Dialogue: 10,0:04:54.11,0:04:56.78,Default,,0,0,0,,Why don't we all try wearing glasses?
+Dialogue: 10,0:04:56.78,0:04:58.78,Default,,0,0,0,,Will that help anything?
+Dialogue: 10,0:04:58.78,0:04:59.86,Default,,0,0,0,,Which pair do you want?
+Dialogue: 10,0:05:01.49,0:05:03.70,Default,,0,0,0,,Wow, she looks clever.
+Dialogue: 10,0:05:03.70,0:05:05.16,Default,,0,0,0,,Very intelligent!
+Dialogue: 10,0:05:07.41,0:05:09.41,Default,,0,0,0,,You look like you're up to something!
+Dialogue: 10,0:05:09.41,0:05:10.67,Default,,0,0,0,,Very sinister.
+Dialogue: 10,0:05:12.79,0:05:14.88,Default,,0,0,0,,A good little minion.
+Dialogue: 10,0:05:14.88,0:05:17.17,Default,,0,0,0,,Very not-protagonist material.
 Dialogue: 10,0:05:17.17,0:05:18.42,Default,,0,0,0,,Huh?
 Dialogue: 10,0:05:20.63,0:05:22.59,Default,,0,0,0,,Don't copy my style!
-Dialogue: 10,0:05:22.86,0:05:26.08,Default,,0,0,0,,I swear. Glasses aren't toys!
-Dialogue: 10,0:05:26.08,0:05:28.01,Default,,0,0,0,,Not pulling any punches, are ya?
-Dialogue: 10,0:05:28.01,0:05:29.41,Default,,0,0,0,,Please stop it!
-Dialogue: 10,0:05:29.41,0:05:35.34,Default,,0,0,0,,{\q2}We call Gan the Bespectacled Bully, \Nbut she's really the most considerate person around.
-Dialogue: 10,0:05:35.34,0:05:37.35,Default,,0,0,0,,Teto, you don't need to do this.
-Dialogue: 10,0:05:37.35,0:05:38.65,Default,,0,0,0,,Please.
+Dialogue: 10,0:05:22.84,0:05:26.10,Default,,0,0,0,,I swear. Glasses aren't toys!
+Dialogue: 10,0:05:26.10,0:05:28.02,Default,,0,0,0,,Not pulling any punches, are ya?
+Dialogue: 10,0:05:28.02,0:05:29.39,Default,,0,0,0,,Please stop it!
+Dialogue: 10,0:05:29.39,0:05:35.36,Default,,0,0,0,,{\q2}We call Gan the Bespectacled Bully, \Nbut she's really the most considerate person around.
+Dialogue: 10,0:05:35.36,0:05:37.36,Default,,0,0,0,,Teto, you don't need to do this.
+Dialogue: 10,0:05:37.36,0:05:38.65,Default,,0,0,0,,Please.
 Dialogue: 10,0:05:38.65,0:05:39.19,Default,,0,0,0,,I must!
-Dialogue: 10,0:05:39.75,0:05:46.61,Default,,0,0,0,,{\q2}When Gan's at an offline meet-up where \Nmore than half the attendees are wearing glasses,
-Dialogue: 10,0:05:46.61,0:05:50.12,Default,,0,0,0,,she'll remove hers to help balance it out!
-Dialogue: 10,0:05:50.12,0:05:53.74,Default,,0,0,0,,{\q2}Yeah, but isn't it weird when eighty percent \Nof people are wearing glasses?
-Dialogue: 10,0:05:53.74,0:05:57.04,Default,,0,0,0,,{\q2}To be considerate enough to create \Na glasses equilibrium for your surroundings...
+Dialogue: 10,0:05:39.74,0:05:46.62,Default,,0,0,0,,{\q2}When Gan's at an offline meet-up where \Nmore than half the attendees are wearing glasses,
+Dialogue: 10,0:05:46.62,0:05:50.12,Default,,0,0,0,,she'll remove hers to help balance it out!
+Dialogue: 10,0:05:50.12,0:05:53.75,Default,,0,0,0,,{\q2}Yeah, but isn't it weird when eighty percent \Nof people are wearing glasses?
+Dialogue: 10,0:05:53.75,0:05:57.04,Default,,0,0,0,,{\q2}To be considerate enough to create \Na glasses equilibrium for your surroundings...
 Dialogue: 10,0:05:57.04,0:05:58.59,Default,,0,0,0,,Doesn't this move you?
-Dialogue: 10,0:05:58.59,0:05:59.79,Default,,0,0,0,,Not especially?
-Dialogue: 10,0:05:59.79,0:06:03.21,Default,,0,0,0,,{\q2}Isn't it usual for offline meet-ups \Nto have lots of people wearing glasses?
-Dialogue: 10,0:06:03.21,0:06:04.97,Default,,0,0,0,,I don't think it needs balancing.
-Dialogue: 10,0:06:05.30,0:06:07.59,Default,,0,0,0,,Hmm, what if I put it like this?
-Dialogue: 10,0:06:07.59,0:06:11.68,Default,,0,0,0,,{\q2}Isn't it kind of irritating when the comedy teams \NOgi Yahagi and Tokyo 03 are on TV together?
-Dialogue: 10,0:06:11.68,0:06:14.43,Default,,0,0,0,,I see what you mean. Too many glasses.
-Dialogue: 10,0:06:14.43,0:06:19.37,Default,,0,0,0,,I feel like one of Tokyo 03's members should take his off.
-Dialogue: 10,0:06:19.37,0:06:19.94,Default,,0,0,0,,Right?
+Dialogue: 10,0:05:58.59,0:05:59.80,Default,,0,0,0,,Not especially?
+Dialogue: 10,0:05:59.80,0:06:03.22,Default,,0,0,0,,{\q2}Isn't it usual for offline meet-ups \Nto have lots of people wearing glasses?
+Dialogue: 10,0:06:03.22,0:06:04.97,Default,,0,0,0,,I don't think it needs balancing.
+Dialogue: 10,0:06:05.30,0:06:07.60,Default,,0,0,0,,Hmm, what if I put it like this?
+Dialogue: 10,0:06:07.60,0:06:11.68,Default,,0,0,0,,{\q2}Isn't it kind of irritating when the comedy teams \NOgi Yahagi and Tokyo 03 are on TV together?
+Dialogue: 10,0:06:11.68,0:06:14.44,Default,,0,0,0,,I see what you mean. Too many glasses.
+Dialogue: 10,0:06:14.44,0:06:19.36,Default,,0,0,0,,I feel like one of Tokyo 03's members should take his off.
+Dialogue: 10,0:06:19.36,0:06:19.94,Default,,0,0,0,,Right?
 Dialogue: 10,0:06:19.94,0:06:23.65,Default,,0,0,0,,{\q2}Manga where all the brothers \Nwear glasses are also irritating.
 Dialogue: 10,0:06:23.65,0:06:25.20,Default,,0,0,0,,Totally, totally.
 Dialogue: 10,0:06:25.20,0:06:25.82,Default,,0,0,0,,Huh?
-Dialogue: 10,0:06:26.05,0:06:31.28,Default,,0,0,0,,{\q2}Imagine if the server at one of \Nthose meet-ups also wore glasses.
-Dialogue: 10,0:06:31.28,0:06:33.24,Default,,0,0,0,,It'd be awful.
-Dialogue: 10,0:06:33.84,0:06:36.02,Default,,0,0,0,,You wouldn't be able to order hotpot.
-Dialogue: 10,0:06:36.02,0:06:36.92,Default,,0,0,0,,Hotpot?
-Dialogue: 10,0:06:38.01,0:06:39.00,Default,,0,0,0,,{\i1}I win!
-Dialogue: 10,0:06:46.71,0:06:47.38,Default,,0,0,0,,Aight!
-Dialogue: 10,0:06:47.38,0:06:47.42,Default,,174,246,74,,{\frz8.519\c&H000000&\4a&HFF&\blur1.5}Aight!
-Dialogue: 11,0:06:47.38,0:06:47.42,Default,,174,246,74,,{\frz8.519\bord0\4a&HFF&\blur2.4}Aight!
-Dialogue: 10,0:06:47.42,0:06:47.47,Default,,73,347,94,,{\frz8.519\1a&H80&\blur4.5}Aight!
-Dialogue: 11,0:06:47.42,0:06:47.47,Default,,73,347,94,,{\frz8.519\bord0\blur3}Aight!
-Dialogue: 10,0:06:47.47,0:06:47.51,Default,,-56,476,50,,{\frz8.519\1a&H80&\blur1.5}Aight!
-Dialogue: 11,0:06:47.47,0:06:47.51,Default,,-56,476,50,,{\frz8.519\bord0\blur2.4}Aight!
-Dialogue: 10,0:06:47.51,0:06:47.55,Default,,-124,544,-34,,{\frz8.519\1a&H80&\blur1.5}Aight!
-Dialogue: 11,0:06:47.51,0:06:47.55,Default,,-124,544,-34,,{\frz8.519\blur1.2\bord}Aight!
-Dialogue: 10,0:06:49.13,0:06:50.59,Default,,0,0,0,,They won't steam up!
-Dialogue: 10,0:06:51.34,0:06:54.47,Default,,0,0,0,,Trying to steam them up on purpose is a bit mean.
-Dialogue: 10,0:06:54.47,0:06:55.68,Default,,0,0,0,,That's right!
-Dialogue: 10,0:06:55.68,0:06:58.48,Default,,0,0,0,,{\q2}Foggy glasses are the ultimate humiliation \Nfor people that wear glasses!
+Dialogue: 10,0:06:26.03,0:06:31.29,Default,,0,0,0,,{\q2}Imagine if the server at one of \Nthose meet-ups also wore glasses.
+Dialogue: 10,0:06:31.29,0:06:33.25,Default,,0,0,0,,It'd be awful.
+Dialogue: 10,0:06:33.83,0:06:36.00,Default,,0,0,0,,You wouldn't be able to order hotpot.
+Dialogue: 10,0:06:36.00,0:06:36.92,Default,,0,0,0,,Hotpot?
+Dialogue: 10,0:06:38.00,0:06:39.00,Default,,0,0,0,,{\i1}I win!
+Dialogue: 10,0:06:46.72,0:06:47.39,Default,,0,0,0,,Aight!
+Dialogue: 10,0:06:47.39,0:06:47.43,Default,,174,246,74,,{\frz8.5\c&H000000&\4a&HFF&\blur1.5}Aight!
+Dialogue: 11,0:06:47.39,0:06:47.43,Default,,174,246,74,,{\frz8.5\bord0\4a&HFF&\blur2.4}Aight!
+Dialogue: 10,0:06:47.43,0:06:47.47,Default,,73,347,94,,{\frz8.5\1a&H80&\blur4.5}Aight!
+Dialogue: 11,0:06:47.43,0:06:47.47,Default,,73,347,94,,{\frz8.5\bord0\blur3}Aight!
+Dialogue: 10,0:06:47.47,0:06:47.51,Default,,-56,476,50,,{\frz8.5\1a&H80&\blur1.5}Aight!
+Dialogue: 11,0:06:47.47,0:06:47.51,Default,,-56,476,50,,{\frz8.5\bord0\blur2.4}Aight!
+Dialogue: 10,0:06:47.51,0:06:47.55,Default,,-124,544,-34,,{\frz8.5\1a&H80&\blur1.5}Aight!
+Dialogue: 11,0:06:47.51,0:06:47.55,Default,,-124,544,-34,,{\frz8.5\blur1.2\bord}Aight!
+Dialogue: 10,0:06:49.14,0:06:50.60,Default,,0,0,0,,They won't steam up!
+Dialogue: 10,0:06:51.35,0:06:54.48,Default,,0,0,0,,Trying to steam them up on purpose is a bit mean.
+Dialogue: 10,0:06:54.48,0:06:55.69,Default,,0,0,0,,That's right!
+Dialogue: 10,0:06:55.69,0:06:58.48,Default,,0,0,0,,{\q2}Foggy glasses are the ultimate humiliation \Nfor people that wear glasses!
 Dialogue: 10,0:06:58.48,0:06:59.77,Default,,0,0,0,,How would you know?
-Dialogue: 10,0:06:59.77,0:07:01.89,Default,,0,0,0,,And just think about it!
-Dialogue: 10,0:07:01.89,0:07:05.44,Default,,0,0,0,,If a celebrity's glasses fogged up, it'd be a travesty!
+Dialogue: 10,0:06:59.77,0:07:01.90,Default,,0,0,0,,And just think about it!
+Dialogue: 10,0:07:01.90,0:07:05.45,Default,,0,0,0,,If a celebrity's glasses fogged up, it'd be a travesty!
 Dialogue: 10,0:07:05.78,0:07:08.82,Default,,0,0,0,,{\q2}Even that one actor with \Nthe enchanting smile wouldn't be safe!
-Dialogue: 10,0:07:08.82,0:07:09.65,Default,,0,0,0,,What a dated reference!
-Dialogue: 10,0:07:09.65,0:07:13.28,Default,,0,0,0,,{\q2}If his glasses fogged up, he'd just look \Nlike some nerd shopping for doujinshi!
-Dialogue: 10,0:07:13.28,0:07:14.83,Default,,0,0,0,,That's not all.
+Dialogue: 10,0:07:08.82,0:07:09.66,Default,,0,0,0,,What a dated reference!
+Dialogue: 10,0:07:09.66,0:07:13.29,Default,,0,0,0,,{\q2}If his glasses fogged up, he'd just look \Nlike some nerd shopping for doujinshi!
+Dialogue: 10,0:07:13.29,0:07:14.83,Default,,0,0,0,,That's not all.
 Dialogue: 10,0:07:15.33,0:07:18.04,Default,,0,0,0,,I can imagine an even worse scenario.
-Dialogue: 10,0:07:18.39,0:07:20.71,Default,,0,0,0,,Nipple tag!
-Dialogue: 10,0:07:23.39,0:07:24.92,Default,,0,0,0,,Gotcha!
-Dialogue: 10,0:07:39.22,0:07:42.10,Default,,0,0,0,,It'd be the end of the world!
-Dialogue: 10,0:07:42.10,0:07:43.15,Default,,0,0,0,,Nope.
-Dialogue: 10,0:07:46.44,0:07:48.19,Default,,0,0,0,,This is probably a bit much.
-Dialogue: 10,0:08:02.13,0:08:03.69,Default,,0,0,0,,They finally steamed up!
-Dialogue: 10,0:08:03.69,0:08:05.36,Default,,0,0,0,,They're... not...
-Dialogue: 10,0:08:05.36,0:08:06.67,Default,,0,0,0,,They are!
-Dialogue: 10,0:08:07.59,0:08:08.50,Default,,0,0,0,,Okay, now...
-Dialogue: 10,0:08:08.50,0:08:10.13,Default,,0,0,0,,Nipple tag!
-Dialogue: 10,0:08:10.13,0:08:11.13,Default,,0,0,0,,For real?!
-Dialogue: 10,0:08:11.13,0:08:12.26,Default,,0,0,0,,How amusing.
+Dialogue: 10,0:07:18.38,0:07:20.71,Default,,0,0,0,,Nipple tag!
+Dialogue: 10,0:07:23.38,0:07:24.92,Default,,0,0,0,,Gotcha!
+Dialogue: 10,0:07:39.23,0:07:42.11,Default,,0,0,0,,It'd be the end of the world!
+Dialogue: 10,0:07:42.11,0:07:43.15,Default,,0,0,0,,Nope.
+Dialogue: 10,0:07:46.45,0:07:48.20,Default,,0,0,0,,This is probably a bit much.
+Dialogue: 10,0:08:02.13,0:08:03.67,Default,,0,0,0,,They finally steamed up!
+Dialogue: 10,0:08:03.67,0:08:05.34,Default,,0,0,0,,They're... not...
+Dialogue: 10,0:08:05.34,0:08:06.67,Default,,0,0,0,,They are!
+Dialogue: 10,0:08:07.59,0:08:08.51,Default,,0,0,0,,Okay, now...
+Dialogue: 10,0:08:08.51,0:08:10.14,Default,,0,0,0,,Nipple tag!
+Dialogue: 10,0:08:10.14,0:08:11.14,Default,,0,0,0,,For real?!
+Dialogue: 10,0:08:11.14,0:08:12.26,Default,,0,0,0,,How amusing.
 Dialogue: 10,0:08:12.26,0:08:17.18,Default,,0,0,0,,Even with foggy glasses, my aim is unerring!
-Dialogue: 10,0:08:17.18,0:08:17.76,Default,,0,0,0,,There!
-Dialogue: 10,0:08:19.03,0:08:20.02,Default,,0,0,0,,Bullseye!
-Dialogue: 10,0:08:20.88,0:08:21.77,Default,,0,0,0,,Bullseye!
-Dialogue: 10,0:08:22.70,0:08:23.64,Default,,0,0,0,,Bullseye!
-Dialogue: 10,0:08:24.10,0:08:25.90,Default,,0,0,0,,How are you so accurate?
-Dialogue: 10,0:08:26.50,0:08:31.66,Default,,0,0,0,,{\q2}I can sense a slight disturbance \Nin the flow of chi caused by a small bump.
-Dialogue: 10,0:08:31.66,0:08:33.32,Default,,0,0,0,,That's my target!
+Dialogue: 10,0:08:17.18,0:08:17.77,Default,,0,0,0,,There!
+Dialogue: 10,0:08:19.02,0:08:20.02,Default,,0,0,0,,Bullseye!
+Dialogue: 10,0:08:20.90,0:08:21.77,Default,,0,0,0,,Bullseye!
+Dialogue: 10,0:08:22.69,0:08:23.65,Default,,0,0,0,,Bullseye!
+Dialogue: 10,0:08:24.11,0:08:25.90,Default,,0,0,0,,How are you so accurate?
+Dialogue: 10,0:08:26.49,0:08:31.66,Default,,0,0,0,,{\q2}I can sense a slight disturbance \Nin the flow of chi caused by a small bump.
+Dialogue: 10,0:08:31.66,0:08:33.33,Default,,0,0,0,,That's my target!
 Dialogue: 10,0:08:40.04,0:08:41.00,Default,,0,0,0,,I missed!
 Dialogue: 10,0:08:41.00,0:08:42.33,Default,,0,0,0,,I won!
-Dialogue: 10,0:08:42.90,0:08:45.37,Default,,0,0,0,,Looks like I escaped by the skin of my teeth.
-Dialogue: 10,0:08:45.37,0:08:48.63,Default,,0,0,0,,Argh! I can't believe my aim was off!
-Dialogue: 10,0:08:48.89,0:08:51.71,Default,,0,0,0,,Here?
-Dialogue: 10,0:08:53.03,0:08:54.71,Default,,0,0,0,,Not even close.
-Dialogue: 10,0:08:57.01,0:08:58.05,Default,,0,0,0,,Marii...
-Dialogue: 10,0:08:58.05,0:09:00.82,Default,,0,0,0,,She doesn't realise {\i1}she's{\i0} the one being made fun of.
-Dialogue: 10,0:09:00.82,0:09:01.61,Default,,0,0,0,,Right?
-Dialogue: 10,0:09:15.52,0:09:17.84,Default,,0,0,0,,"The Black-Headed Gull" is a weird name for a train.
-Dialogue: 10,0:09:17.84,0:09:22.66,Default,,0,0,0,,{\q2}The proper name is the \N"Tokyo Waterfront New Transit Waterfront Line".
-Dialogue: 10,0:09:22.66,0:09:23.58,Default,,0,0,0,,Awfully long.
-Dialogue: 10,0:09:24.04,0:09:27.54,Default,,0,0,0,,Is a Black-Headed Gull one with a lot of pimples?
-Dialogue: 10,0:09:27.54,0:09:28.58,Default,,0,0,0,,Birds don't get pimples!
-Dialogue: 10,0:09:28.58,0:09:30.54,Default,,0,0,0,,Probably because they moisturise.
-Dialogue: 10,0:09:30.54,0:09:32.89,Default,,0,0,0,,It's a real bird.
-Dialogue: 10,0:09:32.89,0:09:36.15,Default,,0,0,0,,{\q2}Order: Charadriiformes, Family: Laridae, \NGenus: Chroicocephalus, Species: C. ridibundus
-Dialogue: 10,0:09:36.15,0:09:37.09,Default,,0,0,0,,Riding band?
-Dialogue: 10,0:09:39.10,0:09:42.18,Default,,0,0,0,,Motorcycle gangs have been on the decrease recently.
-Dialogue: 10,0:09:42.18,0:09:44.77,Default,,0,0,0,,It's hard to buy a bike in a recession.
-Dialogue: 10,0:09:44.77,0:09:46.56,Default,,0,0,0,,Not to mention the upkeep costs.
-Dialogue: 10,0:09:52.23,0:09:53.11,Default,,0,0,0,,The sea!
-Dialogue: 10,0:09:53.36,0:09:55.09,Default,,0,0,0,,I wanna take a trip.
-Dialogue: 10,0:09:55.09,0:09:57.44,Default,,0,0,0,,Isn't that exactly what we're doing right now?
-Dialogue: 10,0:09:57.44,0:09:59.01,Default,,0,0,0,,She means someplace far away.
-Dialogue: 10,0:09:59.01,0:10:00.32,Default,,0,0,0,,Planning to stow away?
-Dialogue: 10,0:10:00.32,0:10:01.16,Default,,0,0,0,,No!
+Dialogue: 10,0:08:42.92,0:08:45.38,Default,,0,0,0,,Looks like I escaped by the skin of my teeth.
+Dialogue: 10,0:08:45.38,0:08:48.63,Default,,0,0,0,,Argh! I can't believe my aim was off!
+Dialogue: 10,0:08:48.88,0:08:51.72,Default,,0,0,0,,Here?
+Dialogue: 10,0:08:53.01,0:08:54.72,Default,,0,0,0,,Not even close.
+Dialogue: 10,0:08:57.02,0:08:58.06,Default,,0,0,0,,Marii...
+Dialogue: 10,0:08:58.06,0:09:00.81,Default,,0,0,0,,She doesn't realise {\i1}she's{\i0} the one being made fun of.
+Dialogue: 10,0:09:00.81,0:09:01.60,Default,,0,0,0,,Right?
+Dialogue: 10,0:09:15.53,0:09:17.83,Default,,0,0,0,,"The Black-Headed Gull" is a weird name for a train.
+Dialogue: 10,0:09:17.83,0:09:22.67,Default,,0,0,0,,{\q2}The proper name is the \N"Tokyo Waterfront New Transit Waterfront Line".
+Dialogue: 10,0:09:22.67,0:09:23.58,Default,,0,0,0,,Awfully long.
+Dialogue: 10,0:09:24.04,0:09:27.55,Default,,0,0,0,,Is a Black-Headed Gull one with a lot of pimples?
+Dialogue: 10,0:09:27.55,0:09:28.59,Default,,0,0,0,,Birds don't get pimples!
+Dialogue: 10,0:09:28.59,0:09:30.55,Default,,0,0,0,,Probably because they moisturise.
+Dialogue: 10,0:09:30.55,0:09:32.89,Default,,0,0,0,,It's a real bird.
+Dialogue: 10,0:09:32.89,0:09:36.14,Default,,0,0,0,,{\q2}Order: Charadriiformes, Family: Laridae, \NGenus: Chroicocephalus, Species: C. ridibundus
+Dialogue: 10,0:09:36.14,0:09:37.10,Default,,0,0,0,,Riding band?
+Dialogue: 10,0:09:39.10,0:09:42.19,Default,,0,0,0,,Motorcycle gangs have been on the decrease recently.
+Dialogue: 10,0:09:42.19,0:09:44.77,Default,,0,0,0,,It's hard to buy a bike in a recession.
+Dialogue: 10,0:09:44.77,0:09:46.57,Default,,0,0,0,,Not to mention the upkeep costs.
+Dialogue: 10,0:09:52.24,0:09:53.11,Default,,0,0,0,,The sea!
+Dialogue: 10,0:09:53.36,0:09:55.07,Default,,0,0,0,,I wanna take a trip.
+Dialogue: 10,0:09:55.07,0:09:57.45,Default,,0,0,0,,Isn't that exactly what we're doing right now?
+Dialogue: 10,0:09:57.45,0:09:58.99,Default,,0,0,0,,She means someplace far away.
+Dialogue: 10,0:09:58.99,0:10:00.33,Default,,0,0,0,,Planning to stow away?
+Dialogue: 10,0:10:00.33,0:10:01.16,Default,,0,0,0,,No!
 Dialogue: 10,0:10:01.16,0:10:04.04,Default,,0,0,0,,{\q2}Being on a train reminds me of \Nwhen we were starting out.
-Dialogue: 10,0:10:04.04,0:10:06.62,Default,,0,0,0,,Yeah, before they let us perform on stage.
-Dialogue: 10,0:10:07.01,0:10:10.79,Default,,0,0,0,,{\q2}Remember how they used to make us \Npractice our routines on the train?
-Dialogue: 10,0:10:10.79,0:10:13.00,Default,,0,0,0,,Really puts the "train" in training.
+Dialogue: 10,0:10:04.04,0:10:06.63,Default,,0,0,0,,Yeah, before they let us perform on stage.
+Dialogue: 10,0:10:07.00,0:10:10.80,Default,,0,0,0,,{\q2}Remember how they used to make us \Npractice our routines on the train?
+Dialogue: 10,0:10:10.80,0:10:13.01,Default,,0,0,0,,Really puts the "train" in training.
 Dialogue: 10,0:10:13.38,0:10:17.97,Default,,0,0,0,,The worst for me was practising while doing sit-ups.
-Dialogue: 10,0:10:18.24,0:10:20.46,Default,,0,0,0,,Carrying Master's bag...
-Dialogue: 10,0:10:20.46,0:10:22.56,Default,,0,0,0,,Cleaning Master's house...
-Dialogue: 10,0:10:22.56,0:10:24.78,Default,,0,0,0,,Wiping Master's bum because he couldn't—
-Dialogue: 10,0:10:24.78,0:10:26.06,Default,,0,0,0,,What was he, a sumo wrestler?
-Dialogue: 10,0:10:30.71,0:10:35.89,Default,,0,0,0,,{\q2}The worst for me was doing rakugo \Nwhile bungee jumping from the Rainbow Bridge.
-Dialogue: 10,0:10:35.89,0:10:37.32,Default,,0,0,0,,That never happened!
-Dialogue: 10,0:10:37.32,0:10:43.61,Default,,0,0,0,,{\q2}I wonder what lies somewhere \Nover the Rainbow Bridge...
-Dialogue: 10,0:10:45.41,0:10:46.93,Default,,0,0,0,,What's with this bend?
-Dialogue: 10,0:10:47.60,0:10:49.83,Default,,0,0,0,,That's a ridiculous curve.
-Dialogue: 10,0:10:54.63,0:10:56.13,Default,,0,0,0,,What's up, Kukuru?
-Dialogue: 10,0:10:56.13,0:10:57.05,Default,,0,0,0,,I feel sick...
-Dialogue: 10,0:10:57.05,0:10:58.63,Default,,0,0,0,,Sick?!
-Dialogue: 10,0:10:58.96,0:11:00.43,Default,,0,0,0,,Do you get motion sick?
-Dialogue: 10,0:11:00.43,0:11:04.09,Default,,0,0,0,,Not really, but that took me by surprise.
-Dialogue: 10,0:11:04.89,0:11:06.04,Default,,0,0,0,,Want some water?
-Dialogue: 10,0:11:06.04,0:11:07.08,Default,,0,0,0,,No...
-Dialogue: 10,0:11:07.08,0:11:08.27,Default,,0,0,0,,Need some snacks?
-Dialogue: 10,0:11:08.27,0:11:10.89,Default,,0,0,0,,That crap'll just make her feel worse!
-Dialogue: 10,0:11:10.89,0:11:16.15,Default,,0,0,0,,{\q2}When times are tough, sweets are always \Nthere to put a smile on your face!
-Dialogue: 10,0:11:16.15,0:11:18.78,Default,,0,0,0,,If she eats while feeling carsick, she'll throw up.
+Dialogue: 10,0:10:18.22,0:10:20.47,Default,,0,0,0,,Carrying Master's bag...
+Dialogue: 10,0:10:20.47,0:10:22.56,Default,,0,0,0,,Cleaning Master's house...
+Dialogue: 10,0:10:22.56,0:10:24.77,Default,,0,0,0,,Wiping Master's bum because he couldn't—
+Dialogue: 10,0:10:24.77,0:10:26.06,Default,,0,0,0,,What was he, a sumo wrestler?
+Dialogue: 10,0:10:30.69,0:10:35.91,Default,,0,0,0,,{\q2}The worst for me was doing rakugo \Nwhile bungee jumping from the Rainbow Bridge.
+Dialogue: 10,0:10:35.91,0:10:37.32,Default,,0,0,0,,That never happened!
+Dialogue: 10,0:10:37.32,0:10:43.62,Default,,0,0,0,,{\q2}I wonder what lies somewhere \Nover the Rainbow Bridge...
+Dialogue: 10,0:10:45.42,0:10:46.92,Default,,0,0,0,,What's with this bend?
+Dialogue: 10,0:10:47.59,0:10:49.84,Default,,0,0,0,,That's a ridiculous curve.
+Dialogue: 10,0:10:54.63,0:10:56.14,Default,,0,0,0,,What's up, Kukuru?
+Dialogue: 10,0:10:56.14,0:10:57.05,Default,,0,0,0,,I feel sick...
+Dialogue: 10,0:10:57.05,0:10:58.64,Default,,0,0,0,,Sick?!
+Dialogue: 10,0:10:58.97,0:11:00.43,Default,,0,0,0,,Do you get motion sick?
+Dialogue: 10,0:11:00.43,0:11:04.10,Default,,0,0,0,,Not really, but that took me by surprise.
+Dialogue: 10,0:11:04.89,0:11:06.02,Default,,0,0,0,,Want some water?
+Dialogue: 10,0:11:06.02,0:11:07.06,Default,,0,0,0,,No...
+Dialogue: 10,0:11:07.06,0:11:08.27,Default,,0,0,0,,Need some snacks?
+Dialogue: 10,0:11:08.27,0:11:10.90,Default,,0,0,0,,That crap'll just make her feel worse!
+Dialogue: 10,0:11:10.90,0:11:16.16,Default,,0,0,0,,{\q2}When times are tough, sweets are always \Nthere to put a smile on your face!
+Dialogue: 10,0:11:16.16,0:11:18.78,Default,,0,0,0,,If she eats while feeling carsick, she'll throw up.
 Dialogue: 10,0:11:19.74,0:11:20.91,Default,,0,0,0,,...or even if she doesn't eat.
-Dialogue: 10,0:11:20.91,0:11:22.32,Default,,0,0,0,,You can do it, Kukuru!
-Dialogue: 10,0:11:22.32,0:11:23.70,Default,,0,0,0,,You giving her permission?
+Dialogue: 10,0:11:20.91,0:11:22.33,Default,,0,0,0,,You can do it, Kukuru!
+Dialogue: 10,0:11:22.33,0:11:23.70,Default,,0,0,0,,You giving her permission?
 Dialogue: 10,0:11:23.70,0:11:24.41,Default,,0,0,0,,No!
-Dialogue: 10,0:11:24.41,0:11:26.02,Default,,0,0,0,,Just hang in there!
-Dialogue: 10,0:11:26.02,0:11:26.95,Default,,0,0,0,,What's it they say?
-Dialogue: 10,0:11:27.16,0:11:29.46,Default,,0,0,0,,{\q2}Draw a person on your hand \Nand pretend to swallow him?
-Dialogue: 10,0:11:29.46,0:11:31.87,Default,,0,0,0,,Unfortunately, that's barely half a person.
-Dialogue: 10,0:11:31.87,0:11:33.75,Default,,0,0,0,,Whoops, silly me.
-Dialogue: 10,0:11:33.75,0:11:35.88,Default,,0,0,0,,Go back to elementary school!
-Dialogue: 10,0:11:39.34,0:11:40.67,Default,,0,0,0,,What'd you do that for?
-Dialogue: 10,0:11:40.67,0:11:42.47,Default,,0,0,0,,It sounds cute.
-Dialogue: 10,0:11:42.47,0:11:43.30,Default,,0,0,0,,"Berson".
-Dialogue: 10,0:11:46.51,0:11:47.51,Default,,0,0,0,,Herson.
-Dialogue: 10,0:11:47.51,0:11:49.17,Default,,0,0,0,,Whose son?!
-Dialogue: 10,0:11:49.17,0:11:50.14,Default,,0,0,0,,Silly.
-Dialogue: 10,0:11:50.97,0:11:53.94,Default,,0,0,0,,Writing it out gives a different feeling from drawing it.
+Dialogue: 10,0:11:24.41,0:11:26.04,Default,,0,0,0,,Just hang in there!
+Dialogue: 10,0:11:26.04,0:11:26.96,Default,,0,0,0,,What's it they say?
+Dialogue: 10,0:11:27.17,0:11:29.46,Default,,0,0,0,,{\q2}Draw a person on your hand \Nand pretend to swallow him?
+Dialogue: 10,0:11:29.46,0:11:31.88,Default,,0,0,0,,Unfortunately, that's barely half a person.
+Dialogue: 10,0:11:31.88,0:11:33.76,Default,,0,0,0,,Whoops, silly me.
+Dialogue: 10,0:11:33.76,0:11:35.88,Default,,0,0,0,,Go back to elementary school!
+Dialogue: 10,0:11:39.35,0:11:40.68,Default,,0,0,0,,What'd you do that for?
+Dialogue: 10,0:11:40.68,0:11:42.47,Default,,0,0,0,,It sounds cute.
+Dialogue: 10,0:11:42.47,0:11:43.31,Default,,0,0,0,,"Berson".
+Dialogue: 10,0:11:46.52,0:11:47.52,Default,,0,0,0,,Herson.
+Dialogue: 10,0:11:47.52,0:11:49.19,Default,,0,0,0,,Whose son?!
+Dialogue: 10,0:11:49.19,0:11:50.15,Default,,0,0,0,,Silly.
+Dialogue: 10,0:11:50.98,0:11:53.94,Default,,0,0,0,,Writing it out gives a different feeling from drawing it.
 Dialogue: 10,0:11:53.94,0:11:55.44,Default,,0,0,0,,Gestaltzerball!
-Dialogue: 10,0:11:55.44,0:11:56.69,Default,,0,0,0,,Gestaltzer{\i1}fall{\i0}!
-Dialogue: 10,0:11:56.69,0:11:58.15,Default,,0,0,0,,Got it. Look.
-Dialogue: 10,0:12:01.32,0:12:03.28,Default,,0,0,0,,Why criticise her {\i1}now{\i0}?!
-Dialogue: 10,0:12:03.57,0:12:06.99,Default,,0,0,0,,It's fine! Just swallow it, Kukuru!
-Dialogue: 10,0:12:06.99,0:12:08.54,Default,,0,0,0,,Persona non grata will have to do!
+Dialogue: 10,0:11:55.44,0:11:56.70,Default,,0,0,0,,Gestaltzer{\i1}fall{\i0}!
+Dialogue: 10,0:11:56.70,0:11:58.16,Default,,0,0,0,,Got it. Look.
+Dialogue: 10,0:12:01.33,0:12:03.29,Default,,0,0,0,,Why criticise her {\i1}now{\i0}?!
+Dialogue: 10,0:12:03.58,0:12:07.00,Default,,0,0,0,,It's fine! Just swallow it, Kukuru!
+Dialogue: 10,0:12:07.00,0:12:08.54,Default,,0,0,0,,Persona non grata will have to do!
 Dialogue: 10,0:12:08.87,0:12:12.04,Default,,0,0,0,,Is this really fine? It's not what you'd normally do that for.
-Dialogue: 10,0:12:12.04,0:12:15.04,Default,,0,0,0,,This is actually to stop you getting nervous, y'know.
-Dialogue: 10,0:12:15.28,0:12:16.21,Default,,0,0,0,,Really?
-Dialogue: 10,0:12:16.21,0:12:17.85,Default,,0,0,0,,So what should we do?
-Dialogue: 10,0:12:17.85,0:12:19.84,Default,,0,0,0,,I heard something once!
-Dialogue: 10,0:12:19.84,0:12:22.95,Default,,0,0,0,,{\q2}If you train your inner-ear canals, \Nit's supposed to stop you getting sick.
-Dialogue: 10,0:12:22.95,0:12:25.35,Default,,0,0,0,,How do you train those, though?
-Dialogue: 10,0:12:25.35,0:12:28.68,Default,,0,0,0,,Do they even have muscles?
-Dialogue: 10,0:12:28.68,0:12:31.60,Default,,0,0,0,,Apparently, a backwards roll is enough.
+Dialogue: 10,0:12:12.04,0:12:15.05,Default,,0,0,0,,This is actually to stop you getting nervous, y'know.
+Dialogue: 10,0:12:15.30,0:12:16.22,Default,,0,0,0,,Really?
+Dialogue: 10,0:12:16.22,0:12:17.84,Default,,0,0,0,,So what should we do?
+Dialogue: 10,0:12:17.84,0:12:19.84,Default,,0,0,0,,I heard something once!
+Dialogue: 10,0:12:19.84,0:12:22.93,Default,,0,0,0,,{\q2}If you train your inner-ear canals, \Nit's supposed to stop you getting sick.
+Dialogue: 10,0:12:22.93,0:12:25.35,Default,,0,0,0,,How do you train those, though?
+Dialogue: 10,0:12:25.35,0:12:28.69,Default,,0,0,0,,Do they even have muscles?
+Dialogue: 10,0:12:28.69,0:12:31.61,Default,,0,0,0,,Apparently, a backwards roll is enough.
 Dialogue: 10,0:12:32.02,0:12:32.98,Default,,0,0,0,,Like this, and...
-Dialogue: 10,0:12:35.81,0:12:37.85,Default,,0,0,0,,A roll worthy of Mitsuko Mori!
-Dialogue: 10,0:12:37.85,0:12:41.19,Default,,0,0,0,,{\q2}Nobody would be able to tell that you used to \Nbe scared of doing rakugo on the train!
-Dialogue: 10,0:12:41.19,0:12:43.32,Default,,0,0,0,,You've come so far, Teto!
-Dialogue: 10,0:12:43.32,0:12:47.41,Default,,0,0,0,,{\q2}You're amazing... doing a backwards roll \Non the train like it's nothing!
-Dialogue: 10,0:12:48.40,0:12:50.12,Default,,0,0,0,,I guess I {\i1}have{\i0} come a long way.
+Dialogue: 10,0:12:35.82,0:12:37.86,Default,,0,0,0,,A roll worthy of Mitsuko Mori!
+Dialogue: 10,0:12:37.86,0:12:41.20,Default,,0,0,0,,{\q2}Nobody would be able to tell that you used to \Nbe scared of doing rakugo on the train!
+Dialogue: 10,0:12:41.20,0:12:43.33,Default,,0,0,0,,You've come so far, Teto!
+Dialogue: 10,0:12:43.33,0:12:47.41,Default,,0,0,0,,{\q2}You're amazing... doing a backwards roll \Non the train like it's nothing!
+Dialogue: 10,0:12:48.41,0:12:50.12,Default,,0,0,0,,I guess I {\i1}have{\i0} come a long way.
 Dialogue: 10,0:12:50.12,0:12:51.08,Default,,0,0,0,,Alright, big-head!
-Dialogue: 10,0:12:52.09,0:12:55.75,Default,,0,0,0,,Meanwhile, Kukuru's situation got worse!
+Dialogue: 10,0:12:52.08,0:12:55.75,Default,,0,0,0,,Meanwhile, Kukuru's situation got worse!
 Dialogue: 10,0:12:55.75,0:13:00.22,Default,,0,0,0,,A great conflict is brewing inside her body.
-Dialogue: 10,0:13:00.22,0:13:01.46,Default,,0,0,0,,What kind of conflict?
-Dialogue: 10,0:13:01.46,0:13:03.13,Default,,0,0,0,,{\q2}An argument between \Nher stomach and oesophagus?
-Dialogue: 10,0:13:03.53,0:13:05.63,Default,,0,0,0,,Between her food and her stomach acid?
-Dialogue: 10,0:13:05.63,0:13:10.01,Default,,0,0,0,,To return or not to return? That is the question.
-Dialogue: 10,0:13:10.72,0:13:13.31,Default,,0,0,0,,{\q2}You might feel better if you \Nlook out of the window at the scenery!
+Dialogue: 10,0:13:00.22,0:13:01.47,Default,,0,0,0,,What kind of conflict?
+Dialogue: 10,0:13:01.47,0:13:03.14,Default,,0,0,0,,{\q2}An argument between \Nher stomach and oesophagus?
+Dialogue: 10,0:13:03.51,0:13:05.64,Default,,0,0,0,,Between her food and her stomach acid?
+Dialogue: 10,0:13:05.64,0:13:10.02,Default,,0,0,0,,To return or not to return? That is the question.
+Dialogue: 10,0:13:10.73,0:13:13.31,Default,,0,0,0,,{\q2}You might feel better if you \Nlook out of the window at the scenery!
 Dialogue: 10,0:13:13.31,0:13:14.52,Default,,0,0,0,,Good idea!
-Dialogue: 10,0:13:14.84,0:13:17.44,Default,,0,0,0,,Look! You can see the Statue of Liberty.
-Dialogue: 10,0:13:18.46,0:13:20.82,Default,,0,0,0,,It's so big!
-Dialogue: 10,0:13:21.44,0:13:23.19,Default,,0,0,0,,That's freedom for ya.
-Dialogue: 10,0:13:23.19,0:13:26.81,Default,,0,0,0,,It's eleven metres tall and weighs nine tons.
-Dialogue: 10,0:13:27.72,0:13:29.58,Default,,0,0,0,,Over there's the Odaiba Fuji TV building.
-Dialogue: 10,0:13:45.92,0:13:47.80,Default,,0,0,0,,That's a big Ferris wheel!
-Dialogue: 10,0:13:57.32,0:14:00.27,Default,,0,0,0,,This is bad. Her contents are about to breach!
-Dialogue: 10,0:14:00.27,0:14:02.71,Default,,0,0,0,,Nothing for it. We may as well join her.
-Dialogue: 10,0:14:02.71,0:14:05.11,Default,,0,0,0,,What are we gonna do if you get sick too?
-Dialogue: 10,0:14:05.37,0:14:07.36,Default,,0,0,0,,It's... no use...
-Dialogue: 10,0:14:07.36,0:14:08.66,Default,,0,0,0,,I'm so, so sorry...
-Dialogue: 10,0:14:09.17,0:14:11.95,Default,,0,0,0,,I tried... but it was no good...
-Dialogue: 10,0:14:12.72,0:14:15.31,Default,,0,0,0,,Should we get off? We should, right?
-Dialogue: 10,0:14:15.31,0:14:16.37,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:13:14.86,0:13:17.44,Default,,0,0,0,,Look! You can see the Statue of Liberty.
+Dialogue: 10,0:13:18.44,0:13:20.82,Default,,0,0,0,,It's so big!
+Dialogue: 10,0:13:21.45,0:13:23.20,Default,,0,0,0,,That's freedom for ya.
+Dialogue: 10,0:13:23.20,0:13:26.83,Default,,0,0,0,,It's eleven metres tall and weighs nine tons.
+Dialogue: 10,0:13:27.70,0:13:29.58,Default,,0,0,0,,Over there's the Odaiba Fuji TV building.
+Dialogue: 10,0:13:45.93,0:13:47.81,Default,,0,0,0,,That's a big Ferris wheel!
+Dialogue: 10,0:13:57.32,0:14:00.28,Default,,0,0,0,,This is bad. Her contents are about to breach!
+Dialogue: 10,0:14:00.28,0:14:02.70,Default,,0,0,0,,Nothing for it. We may as well join her.
+Dialogue: 10,0:14:02.70,0:14:05.12,Default,,0,0,0,,What are we gonna do if you get sick too?
+Dialogue: 10,0:14:05.37,0:14:07.37,Default,,0,0,0,,It's... no use...
+Dialogue: 10,0:14:07.37,0:14:08.66,Default,,0,0,0,,I'm so, so sorry...
+Dialogue: 10,0:14:09.16,0:14:11.96,Default,,0,0,0,,I tried... but it was no good...
+Dialogue: 10,0:14:12.71,0:14:15.29,Default,,0,0,0,,Should we get off? We should, right?
+Dialogue: 10,0:14:15.29,0:14:16.38,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:14:23.63,0:14:24.76,Default,,0,0,0,,Are you okay?
 Dialogue: 10,0:14:25.09,0:14:26.80,Default,,0,0,0,,Getting off fixed it!
-Dialogue: 10,0:14:26.80,0:14:27.59,Default,,0,0,0,,That was quick!
-Dialogue: 10,0:14:27.59,0:14:29.21,Default,,0,0,0,,Phew, that's good!
-Dialogue: 10,0:14:29.68,0:14:31.76,Default,,0,0,0,,Um... where are we?
-Dialogue: 10,0:14:53.08,0:14:54.20,Default,,0,0,0,,Let's go home.
-Dialogue: 10,0:14:54.78,0:14:55.95,Default,,0,0,0,,Yup.
-Dialogue: 10,0:14:59.37,0:15:03.83,Default,,0,0,0,,{\q2}"That little scamp stole the boss's sweets? \NWhat a cheeky blighter!"
-Dialogue: 10,0:15:03.83,0:15:05.95,Default,,0,0,0,,"What happened next?"
-Dialogue: 10,0:15:05.95,0:15:09.58,Default,,0,0,0,,"They turned into pieces of the moon."
-Dialogue: 10,0:15:10.54,0:15:12.70,Default,,0,0,0,,Thank you for your continued appreciation.
-Dialogue: 10,0:15:21.62,0:15:22.63,Default,,0,0,0,,Beautiful.
-Dialogue: 10,0:15:29.33,0:15:31.66,Default,,0,0,0,,Why are we watching this in the dressing room?
-Dialogue: 10,0:15:32.27,0:15:33.95,Default,,0,0,0,,Because it was too cloudy outside.
-Dialogue: 10,0:15:33.95,0:15:36.64,Default,,0,0,0,,You can't really see much out there right now.
-Dialogue: 10,0:15:36.64,0:15:39.33,Default,,0,0,0,,It's the 15th. It's meant to be a full moon.
+Dialogue: 10,0:14:26.80,0:14:27.60,Default,,0,0,0,,That was quick!
+Dialogue: 10,0:14:27.60,0:14:29.22,Default,,0,0,0,,Phew, that's good!
+Dialogue: 10,0:14:29.68,0:14:31.77,Default,,0,0,0,,Um... where are we?
+Dialogue: 10,0:14:53.08,0:14:54.21,Default,,0,0,0,,Let's go home.
+Dialogue: 10,0:14:54.79,0:14:55.96,Default,,0,0,0,,Yup.
+Dialogue: 10,0:14:59.38,0:15:03.84,Default,,0,0,0,,{\q2}"That little scamp stole the boss's sweets? \NWhat a cheeky blighter!"
+Dialogue: 10,0:15:03.84,0:15:05.97,Default,,0,0,0,,"What happened next?"
+Dialogue: 10,0:15:05.97,0:15:09.60,Default,,0,0,0,,"They turned into pieces of the moon."
+Dialogue: 10,0:15:10.56,0:15:12.68,Default,,0,0,0,,Thank you for your continued appreciation.
+Dialogue: 10,0:15:21.61,0:15:22.61,Default,,0,0,0,,Beautiful.
+Dialogue: 10,0:15:29.32,0:15:31.66,Default,,0,0,0,,Why are we watching this in the dressing room?
+Dialogue: 10,0:15:32.29,0:15:33.95,Default,,0,0,0,,Because it was too cloudy outside.
+Dialogue: 10,0:15:33.95,0:15:36.62,Default,,0,0,0,,You can't really see much out there right now.
+Dialogue: 10,0:15:36.62,0:15:39.33,Default,,0,0,0,,It's the 15th. It's meant to be a full moon.
 Dialogue: 10,0:15:39.33,0:15:42.17,Default,,0,0,0,,Anybody got a pane of glass I can smash?
-Dialogue: 10,0:15:42.91,0:15:43.38,Default,,0,0,0,,Why?
-Dialogue: 10,0:15:43.38,0:15:45.32,Default,,0,0,0,,I'm gonna stick it to The Man!
-Dialogue: 10,0:15:45.32,0:15:46.44,Default,,0,0,0,,Marii.
+Dialogue: 10,0:15:42.92,0:15:43.38,Default,,0,0,0,,Why?
+Dialogue: 10,0:15:43.38,0:15:45.34,Default,,0,0,0,,I'm gonna stick it to The Man!
+Dialogue: 10,0:15:45.34,0:15:46.43,Default,,0,0,0,,Marii.
 Dialogue: 10,0:15:47.05,0:15:50.26,Default,,0,0,0,,{\q2}"The 15th" and the rock song \N"A Night at 15" are unrelated.
-Dialogue: 10,0:15:51.38,0:15:52.88,Default,,0,0,0,,You've gotta be kidding me!
-Dialogue: 10,0:15:52.88,0:15:55.37,Default,,0,0,0,,Sometimes I feel like I never want to grow up.
-Dialogue: 10,0:15:55.37,0:15:57.47,Default,,0,0,0,,Let's get back to watching the moon.
-Dialogue: 10,0:16:11.86,0:16:13.61,Default,,0,0,0,,I don't see the rabbit.
-Dialogue: 10,0:16:14.53,0:16:16.47,Default,,0,0,0,,There's meant to be a bunny in the moon!
-Dialogue: 10,0:16:16.47,0:16:18.58,Default,,0,0,0,,Yeah, I don't see it either.
-Dialogue: 10,0:16:18.58,0:16:20.41,Default,,0,0,0,,This is what rabbits look like.
-Dialogue: 10,0:16:22.27,0:16:23.00,Default,,0,0,0,,That's so scary!
-Dialogue: 10,0:16:23.00,0:16:24.53,Default,,0,0,0,,Bunnies don't look like that!
-Dialogue: 10,0:16:24.53,0:16:27.00,Default,,0,0,0,,They're cute, like this li'l guy.
-Dialogue: 10,0:16:27.00,0:16:30.96,Default,,0,0,0,,{\q2}Moon viewing parties are really \Njust an excuse to eat sweets.
-Dialogue: 10,0:16:30.96,0:16:32.78,Default,,0,0,0,,Not particularly exciting.
-Dialogue: 10,0:16:32.78,0:16:35.87,Default,,0,0,0,,I mean, you can eat anything associated with the moon.
-Dialogue: 10,0:16:35.87,0:16:37.51,Default,,0,0,0,,What about ra-moon noodles?
+Dialogue: 10,0:15:51.39,0:15:52.89,Default,,0,0,0,,You've gotta be kidding me!
+Dialogue: 10,0:15:52.89,0:15:55.35,Default,,0,0,0,,Sometimes I feel like I never want to grow up.
+Dialogue: 10,0:15:55.35,0:15:57.48,Default,,0,0,0,,Let's get back to watching the moon.
+Dialogue: 10,0:16:11.87,0:16:13.62,Default,,0,0,0,,I don't see the rabbit.
+Dialogue: 10,0:16:14.54,0:16:16.46,Default,,0,0,0,,There's meant to be a bunny in the moon!
+Dialogue: 10,0:16:16.46,0:16:18.58,Default,,0,0,0,,Yeah, I don't see it either.
+Dialogue: 10,0:16:18.58,0:16:20.42,Default,,0,0,0,,This is what rabbits look like.
+Dialogue: 10,0:16:22.25,0:16:23.00,Default,,0,0,0,,That's so scary!
+Dialogue: 10,0:16:23.00,0:16:24.55,Default,,0,0,0,,Bunnies don't look like that!
+Dialogue: 10,0:16:24.55,0:16:27.01,Default,,0,0,0,,They're cute, like this li'l guy.
+Dialogue: 10,0:16:27.01,0:16:30.97,Default,,0,0,0,,{\q2}Moon viewing parties are really \Njust an excuse to eat sweets.
+Dialogue: 10,0:16:30.97,0:16:32.76,Default,,0,0,0,,Not particularly exciting.
+Dialogue: 10,0:16:32.76,0:16:35.85,Default,,0,0,0,,I mean, you can eat anything associated with the moon.
+Dialogue: 10,0:16:35.85,0:16:37.52,Default,,0,0,0,,What about ra-moon noodles?
 Dialogue: 10,0:16:43.73,0:16:44.94,Default,,0,0,0,,This isn't very exciting!
-Dialogue: 10,0:16:46.21,0:16:47.88,Default,,0,0,0,,What's that? Gonna tie us up?
-Dialogue: 10,0:16:47.88,0:16:48.52,Default,,0,0,0,,Nope.
-Dialogue: 10,0:16:49.32,0:16:54.52,Default,,0,0,0,,{\q2}In southern Kyushu and Okinawa, \Nthey play tug-of-war to celebrate the full moon.
-Dialogue: 10,0:16:56.19,0:16:57.82,Default,,0,0,0,,This isn't exciting either.
-Dialogue: 10,0:16:57.82,0:16:58.89,Default,,0,0,0,,In that case...
-Dialogue: 10,0:16:58.89,0:17:01.04,Default,,0,0,0,,Let's praise the moon?
-Dialogue: 10,0:17:01.04,0:17:05.04,Default,,0,0,0,,Don doko-doko-doko don doko-doko-doko...
-Dialogue: 10,0:17:05.04,0:17:09.34,Default,,0,0,0,,{\an8}Don doko-doko-doko don doko-doko-doko...
-Dialogue: 10,0:17:09.34,0:17:13.26,Default,,0,0,0,,{\an8\t(0,500,\3c&H40DEF6&\bord2.1\shad0)\t(500,1000,\3c&HC105F1&)\t(1000,1500,\3c&H125F08&)\t(1500,2000,\3c&HEE9215&)\t(2000,2500,\3c&H40DEF6&)\t(2500,3000,\3c&HC105F1&)\t(3000,3500,\3c&H125F08&)\t(3500,4000,\3c&HEE9215&)}Don doko-doko-doko don doko-doko-doko...
-Dialogue: 10,0:17:05.29,0:17:06.29,Default,,0,0,0,,Mighty moon!
-Dialogue: 10,0:17:06.29,0:17:07.21,Default,,0,0,0,,You're amazing!
+Dialogue: 10,0:16:46.19,0:16:47.86,Default,,0,0,0,,What's that? Gonna tie us up?
+Dialogue: 10,0:16:47.86,0:16:48.53,Default,,0,0,0,,Nope.
+Dialogue: 10,0:16:49.32,0:16:54.53,Default,,0,0,0,,{\q2}In southern Kyushu and Okinawa, \Nthey play tug-of-war to celebrate the full moon.
+Dialogue: 10,0:16:56.20,0:16:57.83,Default,,0,0,0,,This isn't exciting either.
+Dialogue: 10,0:16:57.83,0:16:58.87,Default,,0,0,0,,In that case...
+Dialogue: 10,0:16:58.87,0:17:01.04,Default,,0,0,0,,Let's praise the moon?
+Dialogue: 10,0:17:01.04,0:17:05.05,Default,,0,0,0,,Don doko-doko-doko don doko-doko-doko...
+Dialogue: 10,0:17:05.05,0:17:09.34,Default,,0,0,0,,{\an8}Don doko-doko-doko don doko-doko-doko...
+Dialogue: 9,0:17:09.34,0:17:13.26,Default,,0,0,0,,{\an8\1a&HDC&\t(0,500,\3c&H40DEF6&\bord2.1\shad0\blur4)\t(500,1000,\3c&HC105F1&)\t(1000,1500,\3c&H125F08&)\t(1500,2000,\3c&HEE9215&)\t(2000,2500,\3c&H40DEF6&)\t(2500,3000,\3c&HC105F1&)\t(3000,3500,\3c&H125F08&)\t(3500,4000,\3c&HEE9215&)}Don doko-doko-doko don doko-doko-doko...
+Dialogue: 10,0:17:09.34,0:17:13.26,Default,,0,0,0,,{\an8\bord0\shad0\blur0.6}Don doko-doko-doko don doko-doko-doko...
+Dialogue: 10,0:17:05.30,0:17:06.30,Default,,0,0,0,,Mighty moon!
+Dialogue: 10,0:17:06.30,0:17:07.21,Default,,0,0,0,,You're amazing!
 Dialogue: 10,0:17:07.21,0:17:09.42,Default,,0,0,0,,Glory to thee, mighty moon!
-Dialogue: 10,0:17:09.96,0:17:11.00,Default,,0,0,0,,Shut up!
-Dialogue: 10,0:17:11.00,0:17:13.26,Default,,0,0,0,,You can watch without all that buzz!
-Dialogue: 10,0:17:16.55,0:17:18.74,Default,,0,0,0,,Still doesn't look like a bunny.
-Dialogue: 10,0:17:19.68,0:17:23.35,Default,,0,0,0,,I guess if you don't see it, you don't see it.
-Dialogue: 10,0:17:23.85,0:17:28.15,Default,,0,0,0,,Apparently, people in other countries \Nsee different things.
-Dialogue: 10,0:17:28.48,0:17:30.67,Default,,0,0,0,,An old woman with a book?!
-Dialogue: 10,0:17:30.67,0:17:32.57,Default,,0,0,0,,A girl with a bucket?!
-Dialogue: 10,0:17:32.94,0:17:37.53,Default,,0,0,0,,{\q2}To me, it looks like a shut-in whose mom \Nbought him the latest edition of Shounen Jump.
-Dialogue: 10,0:17:39.90,0:17:41.62,Default,,0,0,0,,I don't... see it!
+Dialogue: 10,0:17:09.97,0:17:11.01,Default,,0,0,0,,Shut up!
+Dialogue: 10,0:17:11.01,0:17:13.26,Default,,0,0,0,,You can watch without all that buzz!
+Dialogue: 10,0:17:16.56,0:17:18.73,Default,,0,0,0,,Still doesn't look like a bunny.
+Dialogue: 10,0:17:19.69,0:17:23.36,Default,,0,0,0,,I guess if you don't see it, you don't see it.
+Dialogue: 10,0:17:23.86,0:17:28.15,Default,,0,0,0,,{\q2}Apparently, people in other countries \Nsee different things.
+Dialogue: 10,0:17:28.49,0:17:30.65,Default,,0,0,0,,An old woman with a book?!
+Dialogue: 10,0:17:30.65,0:17:32.57,Default,,0,0,0,,A girl with a bucket?!
+Dialogue: 10,0:17:32.95,0:17:37.54,Default,,0,0,0,,{\q2}To me, it looks like a shut-in whose mom \Nbought him the latest edition of Shounen Jump.
+Dialogue: 10,0:17:39.91,0:17:41.62,Default,,0,0,0,,I don't... see it!
 Dialogue: 10,0:17:41.62,0:17:44.50,Default,,0,0,0,,Ooh, now that you mention it, I think I see it.
-Dialogue: 10,0:17:44.50,0:17:45.16,Default,,0,0,0,,Right?
-Dialogue: 10,0:17:45.16,0:17:47.79,Default,,0,0,0,,There are no shut-ins on the moon!
-Dialogue: 10,0:17:48.08,0:17:49.46,Default,,0,0,0,,I see...
-Dialogue: 10,0:17:49.46,0:17:53.13,Default,,0,0,0,,{\q2}A pervert sniffing someone's butt \Nat an impossible angle.
-Dialogue: 10,0:17:53.80,0:17:54.92,Default,,0,0,0,,I see it, I see it.
-Dialogue: 10,0:17:54.92,0:17:56.59,Default,,0,0,0,,I don't... see it!
-Dialogue: 10,0:17:56.59,0:17:59.18,Default,,0,0,0,,Everybody sees different things.
+Dialogue: 10,0:17:44.50,0:17:45.17,Default,,0,0,0,,Right?
+Dialogue: 10,0:17:45.17,0:17:47.80,Default,,0,0,0,,There are no shut-ins on the moon!
+Dialogue: 10,0:17:48.09,0:17:49.46,Default,,0,0,0,,I see...
+Dialogue: 10,0:17:49.46,0:17:53.14,Default,,0,0,0,,{\q2}A pervert sniffing someone's butt \Nat an impossible angle.
+Dialogue: 10,0:17:53.80,0:17:54.93,Default,,0,0,0,,I see it, I see it.
+Dialogue: 10,0:17:54.93,0:17:56.60,Default,,0,0,0,,I don't... see it!
+Dialogue: 10,0:17:56.60,0:17:59.18,Default,,0,0,0,,Everybody sees different things.
 Dialogue: 10,0:17:59.73,0:18:01.39,Default,,0,0,0,,What does this look like to you?
-Dialogue: 10,0:18:01.39,0:18:03.14,Default,,0,0,0,,Don't Rorschach Test me!
-Dialogue: 10,0:18:03.38,0:18:09.77,Default,,0,0,0,,{\q2}Everybody's got their own way of seeing things. \NI guess that's the instigator behind war.
-Dialogue: 10,0:18:09.77,0:18:16.49,Default,,0,0,0,,{\q2}We could achieve world peace if everybody tried \Ntheir best to understand other countries.
-Dialogue: 10,0:18:16.49,0:18:18.09,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:18:18.09,0:18:21.87,Default,,0,0,0,,{\q2}Even the countries who see a pervert \Nsniffing someone's butt.
+Dialogue: 10,0:18:01.39,0:18:03.15,Default,,0,0,0,,Don't Rorschach Test me!
+Dialogue: 10,0:18:03.40,0:18:09.78,Default,,0,0,0,,{\q2}Everybody's got their own way of seeing things. \NI guess that's the instigator behind war.
+Dialogue: 10,0:18:09.78,0:18:16.49,Default,,0,0,0,,{\q2}We could achieve world peace if everybody tried \Ntheir best to understand other countries.
+Dialogue: 10,0:18:16.49,0:18:18.08,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:18:18.08,0:18:21.87,Default,,0,0,0,,{\q2}Even the countries who see a pervert \Nsniffing someone's butt.
 Dialogue: 10,0:18:21.87,0:18:23.87,Default,,0,0,0,,That's not a country, that's just you!
-Dialogue: 10,0:18:24.16,0:18:27.00,Default,,0,0,0,,There are some things you just can't help sniffing.
-Dialogue: 10,0:18:27.00,0:18:30.65,Default,,0,0,0,,Yeah. Like glasses just after you take them off.
-Dialogue: 10,0:18:31.54,0:18:33.85,Default,,0,0,0,,Your hairbrush after brushing.
-Dialogue: 10,0:18:34.65,0:18:36.98,Default,,0,0,0,,Between a stuffed toy's legs.
-Dialogue: 10,0:18:38.14,0:18:39.30,Default,,0,0,0,,Talk about perverted!
-Dialogue: 10,0:18:39.30,0:18:40.22,Default,,0,0,0,,Shut up!
-Dialogue: 10,0:18:40.22,0:18:43.68,Default,,0,0,0,,It must be a pretty big rabbit.
-Dialogue: 10,0:18:43.68,0:18:48.66,Default,,0,0,0,,How many metres tall must it be to be visible from earth?
-Dialogue: 10,0:18:48.66,0:18:51.23,Default,,0,0,0,,Metres? More like kilometres.
-Dialogue: 10,0:18:51.23,0:18:55.44,Default,,0,0,0,,The diameter of the moon is 3,474 kilometres.
-Dialogue: 10,0:18:55.44,0:18:58.27,Default,,0,0,0,,I can't imagine how big the rabbit would be.
-Dialogue: 10,0:18:58.27,0:19:02.95,Default,,0,0,0,,The diameter of Tokyo Dome is 244 metres, so...
-Dialogue: 10,0:19:07.59,0:19:08.00,Default,,0,0,0,,Hello?
-Dialogue: 10,0:19:08.36,0:19:12.92,Default,,0,0,0,,{\q2}Why is it always Tokyo Dome when people \Nare making size comparisons?
-Dialogue: 10,0:19:12.92,0:19:14.52,Default,,0,0,0,,I guess it's easy to understand.
-Dialogue: 10,0:19:14.52,0:19:17.42,Default,,0,0,0,,But what if you've never been there?
-Dialogue: 10,0:19:18.57,0:19:19.52,Default,,0,0,0,,What is it?
-Dialogue: 10,0:19:19.52,0:19:22.18,Default,,0,0,0,,Master's lost his rabbit.
+Dialogue: 10,0:18:24.17,0:18:27.00,Default,,0,0,0,,There are some things you just can't help sniffing.
+Dialogue: 10,0:18:27.00,0:18:30.63,Default,,0,0,0,,Yeah. Like glasses just after you take them off.
+Dialogue: 10,0:18:31.55,0:18:33.84,Default,,0,0,0,,Your hairbrush after brushing.
+Dialogue: 10,0:18:34.63,0:18:36.97,Default,,0,0,0,,Between a stuffed toy's legs.
+Dialogue: 10,0:18:38.14,0:18:39.31,Default,,0,0,0,,Talk about perverted!
+Dialogue: 10,0:18:39.31,0:18:40.22,Default,,0,0,0,,Shut up!
+Dialogue: 10,0:18:40.22,0:18:43.69,Default,,0,0,0,,It must be a pretty big rabbit.
+Dialogue: 10,0:18:43.69,0:18:48.65,Default,,0,0,0,,How many metres tall must it be to be visible from earth?
+Dialogue: 10,0:18:48.65,0:18:51.23,Default,,0,0,0,,Metres? More like kilometres.
+Dialogue: 10,0:18:51.23,0:18:55.45,Default,,0,0,0,,The diameter of the moon is 3,474 kilometres.
+Dialogue: 10,0:18:55.45,0:18:58.28,Default,,0,0,0,,I can't imagine how big the rabbit would be.
+Dialogue: 10,0:18:58.28,0:19:02.95,Default,,0,0,0,,The diameter of Tokyo Dome is 244 metres, so...
+Dialogue: 10,0:19:07.58,0:19:08.00,Default,,0,0,0,,Hello?
+Dialogue: 10,0:19:08.38,0:19:12.92,Default,,0,0,0,,{\q2}Why is it always Tokyo Dome when people \Nare making size comparisons?
+Dialogue: 10,0:19:12.92,0:19:14.51,Default,,0,0,0,,I guess it's easy to understand.
+Dialogue: 10,0:19:14.51,0:19:17.43,Default,,0,0,0,,But what if you've never been there?
+Dialogue: 10,0:19:18.55,0:19:19.51,Default,,0,0,0,,What is it?
+Dialogue: 10,0:19:19.51,0:19:22.18,Default,,0,0,0,,Master's lost his rabbit.
 Dialogue: 10,0:19:22.18,0:19:24.43,Default,,0,0,0,,He asked us to keep an eye out for it.
-Dialogue: 10,0:19:24.71,0:19:25.83,Default,,0,0,0,,His rabbit?
-Dialogue: 10,0:19:25.83,0:19:27.20,Default,,0,0,0,,Unbelievable.
-Dialogue: 10,0:19:40.31,0:19:41.53,Default,,0,0,0,,Master's rabbit!
-Dialogue: 10,0:19:41.53,0:19:42.54,Default,,0,0,0,,Humongous!
-Dialogue: 10,0:19:47.08,0:19:48.41,Default,,0,0,0,,A r-rabbit!
-Dialogue: 10,0:19:48.41,0:19:49.68,Default,,0,0,0,,No doubt about it, a rabbit!
-Dialogue: 10,0:19:49.68,0:19:51.71,Default,,0,0,0,,A rabbit!
+Dialogue: 10,0:19:24.73,0:19:25.81,Default,,0,0,0,,His rabbit?
+Dialogue: 10,0:19:25.81,0:19:27.19,Default,,0,0,0,,Unbelievable.
+Dialogue: 10,0:19:40.33,0:19:41.54,Default,,0,0,0,,Master's rabbit!
+Dialogue: 10,0:19:41.54,0:19:42.54,Default,,0,0,0,,Humongous!
+Dialogue: 10,0:19:47.08,0:19:48.42,Default,,0,0,0,,A r-rabbit!
+Dialogue: 10,0:19:48.42,0:19:49.67,Default,,0,0,0,,No doubt about it, a rabbit!
+Dialogue: 10,0:19:49.67,0:19:51.71,Default,,0,0,0,,A rabbit!
 Dialogue: 10,0:19:51.71,0:19:54.71,Default,,0,0,0,,{\q2}A pervert sniffing someone's butt \Nat an impossible angle.
-Dialogue: 10,0:19:56.74,0:19:57.59,Default,,0,0,0,,It's strong!
-Dialogue: 10,0:20:06.48,0:20:09.50,Default,,0,0,0,,We have to calm this bunny lord down somehow!
-Dialogue: 10,0:20:09.50,0:20:11.64,Default,,0,0,0,,A feast! Let's hold a feast!
-Dialogue: 10,0:20:19.22,0:20:21.11,Default,,0,0,0,,What the hell is this?
-Dialogue: 10,0:20:21.11,0:20:23.28,Default,,0,0,0,,Master's gotta be inside.
-Dialogue: 10,0:20:23.94,0:20:26.99,Default,,0,0,0,,How are we gonna get it to go home?
-Dialogue: 10,0:20:26.99,0:20:29.87,Default,,0,0,0,,Let's sing a song that'll make it homesick!
-Dialogue: 10,0:20:30.75,0:20:37.86,Default,,0,0,0,,{\an8\fnYoung forever\fs66\fad(200,200)}That mountain where we chased rabbits
-Dialogue: 10,0:20:37.92,0:20:41.13,Default,,0,0,0,,{\an8\fnYoung forever\fs66\fad(200,0)}That river where we caught{\fscx160}-
-Dialogue: 10,0:20:41.13,0:20:41.17,Default,,176,244,-22,,{\an8\frz8.803\fnYoung forever\fs66}That river where we caught{\fscx160}-
-Dialogue: 10,0:20:41.17,0:20:41.21,Default,,176,244,51,,{\an8\frz8.803\fnYoung forever\fs66}That river where we caught{\fscx160}-
-Dialogue: 10,0:20:41.21,0:20:41.26,Default,,168,252,-76,,{\an8\frz4.361\fnYoung forever\fs66}That river where we caught{\fscx160}-
+Dialogue: 10,0:19:56.76,0:19:57.59,Default,,0,0,0,,It's strong!
+Dialogue: 10,0:20:06.48,0:20:09.48,Default,,0,0,0,,We have to calm this bunny lord down somehow!
+Dialogue: 10,0:20:09.48,0:20:11.65,Default,,0,0,0,,A feast! Let's hold a feast!
+Dialogue: 10,0:20:19.24,0:20:21.12,Default,,0,0,0,,What the hell is this?
+Dialogue: 10,0:20:21.12,0:20:23.29,Default,,0,0,0,,Master's gotta be inside.
+Dialogue: 10,0:20:23.95,0:20:27.00,Default,,0,0,0,,How are we gonna get it to go home?
+Dialogue: 10,0:20:27.00,0:20:29.88,Default,,0,0,0,,Let's sing a song that'll make it homesick!
+Dialogue: 10,0:20:30.75,0:20:37.84,Default,,0,0,0,,{\an8\fnYoung forever\fs66\fad(200,200)}That mountain where we chased rabbits
+Dialogue: 10,0:20:37.92,0:20:41.14,Default,,0,0,0,,{\an8\fnYoung forever\fs66\fad(200,0)}That river where we caught{\fscx160}-
+Dialogue: 10,0:20:41.14,0:20:41.18,Default,,176,244,-22,,{\an8\frz8.803\fnYoung forever\fs66}That river where we caught{\fscx160}-
+Dialogue: 10,0:20:41.18,0:20:41.22,Default,,176,244,51,,{\an8\frz8.803\fnYoung forever\fs66}That river where we caught{\fscx160}-
+Dialogue: 10,0:20:41.22,0:20:41.26,Default,,168,252,-76,,{\an8\frz4.361\fnYoung forever\fs66}That river where we caught{\fscx160}-
 Dialogue: 10,0:20:41.26,0:20:41.30,Default,,168,252,-52,,{\an8\frz4.361\fnYoung forever\fs66}That river where we caught{\fscx160}-
-Dialogue: 10,0:20:41.67,0:20:42.55,Default,,0,0,0,,Why?!
-Dialogue: 10,0:20:42.55,0:20:45.38,Default,,0,0,0,,I guess it didn't like the rabbit chasing.
-Dialogue: 10,0:20:45.38,0:20:48.14,Default,,0,0,0,,As punishment, we'll all do ten bunny hops!
-Dialogue: 10,0:20:54.75,0:20:55.81,Default,,0,0,0,,That just fuelled its anger!
-Dialogue: 10,0:20:55.81,0:20:58.48,Default,,0,0,0,,What would make the bunny lord happy?
-Dialogue: 10,0:20:58.48,0:21:01.36,Default,,0,0,0,,I've got it! Rabbits die if they get too lonely!
+Dialogue: 10,0:20:41.68,0:20:42.55,Default,,0,0,0,,Why?!
+Dialogue: 10,0:20:42.55,0:20:45.39,Default,,0,0,0,,I guess it didn't like the rabbit chasing.
+Dialogue: 10,0:20:45.39,0:20:48.14,Default,,0,0,0,,As punishment, we'll all do ten bunny hops!
+Dialogue: 10,0:20:54.73,0:20:55.82,Default,,0,0,0,,That just fuelled its anger!
+Dialogue: 10,0:20:55.82,0:20:58.49,Default,,0,0,0,,What would make the bunny lord happy?
+Dialogue: 10,0:20:58.49,0:21:01.36,Default,,0,0,0,,I've got it! Rabbits die if they get too lonely!
 Dialogue: 10,0:21:01.36,0:21:03.07,Default,,0,0,0,,Let's all be bunnies!
-Dialogue: 10,0:21:03.85,0:21:05.53,Default,,0,0,0,,Here you go, Lord Bunny.
-Dialogue: 10,0:21:06.25,0:21:08.02,Default,,0,0,0,,How's that feel?
-Dialogue: 10,0:21:08.02,0:21:09.95,Default,,0,0,0,,Are you hot?
-Dialogue: 10,0:21:09.95,0:21:11.62,Default,,0,0,0,,Let me scratch that.
-Dialogue: 10,0:21:13.18,0:21:15.08,Default,,0,0,0,,How was that?
-Dialogue: 10,0:21:18.79,0:21:19.75,Default,,0,0,0,,Why?
-Dialogue: 10,0:21:19.75,0:21:22.26,Default,,0,0,0,,Does this rabbit die if it's {\i1}not{\i0} left alone?
-Dialogue: 10,0:21:22.26,0:21:25.55,Default,,0,0,0,,The only way to fight it is as its natural enemy: a tortoise!
+Dialogue: 10,0:21:03.87,0:21:05.54,Default,,0,0,0,,Here you go, Lord Bunny.
+Dialogue: 10,0:21:06.24,0:21:08.04,Default,,0,0,0,,How's that feel?
+Dialogue: 10,0:21:08.04,0:21:09.96,Default,,0,0,0,,Are you hot?
+Dialogue: 10,0:21:09.96,0:21:11.63,Default,,0,0,0,,Let me scratch that.
+Dialogue: 10,0:21:13.17,0:21:15.09,Default,,0,0,0,,How was that?
+Dialogue: 10,0:21:18.80,0:21:19.76,Default,,0,0,0,,Why?
+Dialogue: 10,0:21:19.76,0:21:22.26,Default,,0,0,0,,Does this rabbit die if it's {\i1}not{\i0} left alone?
+Dialogue: 10,0:21:22.26,0:21:25.56,Default,,0,0,0,,The only way to fight it is as its natural enemy: a tortoise!
 Dialogue: 10,0:21:28.60,0:21:29.64,Default,,0,0,0,,That was useless.
 Dialogue: 10,0:21:29.94,0:21:33.52,Default,,0,0,0,,Brutes like this only respond to authority.
-Dialogue: 10,0:21:33.90,0:21:38.80,Default,,0,0,0,,{\q2}Grovel at the feet of Princess Kaguya, \Nthe moon's most powerful denizen!
-Dialogue: 10,0:21:49.77,0:21:51.52,Default,,0,0,0,,It carried her off.
-Dialogue: 10,0:21:51.52,0:21:53.29,Default,,0,0,0,,That's Princess Kaguya for you.
-Dialogue: 10,0:21:53.29,0:21:55.07,Default,,0,0,0,,Off they go, back to the moon.
-Dialogue: 10,0:21:58.21,0:22:00.29,Default,,0,0,0,,Hey, look at the moon.
-Dialogue: 10,0:22:01.21,0:22:04.73,Default,,0,0,0,,It looks like Marii's getting her butt sniffed.
-Dialogue: 10,0:23:40.83,0:23:42.69,Default,,0,0,0,,Buratei Marii here.
-Dialogue: 10,0:23:42.95,0:23:46.61,Default,,0,0,0,,How have you been, esteemed guests?
-Dialogue: 10,0:23:46.61,0:23:50.07,Default,,0,0,0,,The whaddyacallems, cumulonimbus clouds?
-Dialogue: 10,0:23:50.07,0:23:56.44,Default,,0,0,0,,{\q2}When I see them piling up and up and up, \NI know it's summer.
-Dialogue: 10,0:23:56.74,0:23:59.87,Default,,0,0,0,,I wonder if Laputa's hidden inside?
-Dialogue: 10,0:24:00.65,0:24:04.21,Default,,0,0,0,,Here's what's in the fifth episode of Joshiraku:
-Dialogue: 10,0:24:04.63,0:24:09.02,Default,,0,0,0,,{\q2}"Praise the Girl", "Trendy Town", \Nand "A Farewell to Glasses".
+Dialogue: 10,0:21:33.90,0:21:38.82,Default,,0,0,0,,{\q2}Grovel at the feet of Princess Kaguya, \Nthe moon's most powerful denizen!
+Dialogue: 10,0:21:49.79,0:21:51.54,Default,,0,0,0,,It carried her off.
+Dialogue: 10,0:21:51.54,0:21:53.29,Default,,0,0,0,,That's Princess Kaguya for you.
+Dialogue: 10,0:21:53.29,0:21:55.09,Default,,0,0,0,,Off they go, back to the moon.
+Dialogue: 10,0:21:58.21,0:22:00.30,Default,,0,0,0,,Hey, look at the moon.
+Dialogue: 10,0:22:01.22,0:22:04.72,Default,,0,0,0,,It looks like Marii's getting her butt sniffed.
+Dialogue: 10,0:23:40.82,0:23:42.69,Default,,0,0,0,,Buratei Marii here.
+Dialogue: 10,0:23:42.94,0:23:46.61,Default,,0,0,0,,How have you been, esteemed guests?
+Dialogue: 10,0:23:46.61,0:23:50.08,Default,,0,0,0,,The whaddyacallems, cumulonimbus clouds?
+Dialogue: 10,0:23:50.08,0:23:56.46,Default,,0,0,0,,{\q2}When I see them piling up and up and up, \NI know it's summer.
+Dialogue: 10,0:23:56.75,0:23:59.88,Default,,0,0,0,,I wonder if Laputa's hidden inside?
+Dialogue: 10,0:24:00.67,0:24:04.21,Default,,0,0,0,,Here's what's in the fifth episode of Joshiraku:
+Dialogue: 10,0:24:04.63,0:24:09.01,Default,,0,0,0,,{\q2}"Praise the Girl", "Trendy Town", \Nand "A Farewell to Glasses".

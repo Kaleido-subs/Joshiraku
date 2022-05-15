@@ -13,8 +13,8 @@ Title: Kaleido
 Export Filters: Actor/Linebreak Remover
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: JoshirakuBD_13 (Premux).mkv
-Video File: JoshirakuBD_13 (Premux).mkv
+Audio File: JoshirakuBD_13_new (Premux).mkv
+Video File: JoshirakuBD_13_new (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -26,12 +26,12 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{OP}
-Comment: 0,0:00:02.73,0:00:02.73,Default,,0,0,0,opsync,{OP}
+Comment: 0,0:00:02.73,0:00:02.73,Default,,0,0,0,opsync,{OPsync — First hard cut}
 Comment: 0,0:01:29.99,0:01:29.99,Default,chapter,0,0,0,,{Part A}
 Comment: 0,0:07:50.91,0:07:50.91,Default,chapter,0,0,0,,{Part B}
 Comment: 0,0:14:19.96,0:14:19.96,Default,chapter,0,0,0,,{Part C}
 Comment: 0,0:22:09.98,0:22:09.98,Default,chapter,0,0,0,,{ED}
-Comment: 0,0:22:35.38,0:22:35.38,Default,,0,0,0,edsync,{ED}
+Comment: 0,0:22:35.38,0:22:35.38,Default,,0,0,0,edsync,{EDsync — First hard cut}
 Dialogue: 10,0:01:30.53,0:01:33.99,Default,,0,0,0,,"So, I guess this is goodbye."
 Dialogue: 10,0:01:33.99,0:01:36.20,Default,,0,0,0,,"I guess it is."
 Dialogue: 10,0:01:48.05,0:01:50.26,Default,,0,0,0,,So, this is the last episode.
@@ -389,7 +389,7 @@ Dialogue: 10,0:18:38.43,0:18:40.60,Default,,0,0,0,,Dogs should be naked! Mutt na
 Dialogue: 10,0:18:40.60,0:18:42.43,Default,,0,0,0,,{\i1}Who let you make those pawful jokes?!
 Dialogue: 10,0:18:44.39,0:18:47.06,Default,,0,0,0,,Look, the dog hated being nude after all.
 Dialogue: 10,0:18:44.39,0:18:47.06,Default,,0,0,0,,{\an8}No, wait! Stop!
-Dialogue: 10,0:18:47.06,0:18:49.98,Default,,0,0,0,,{\q2}I don't think it cared one way or another.
+Dialogue: 10,0:18:47.06,0:18:49.98,Default,,0,0,0,,I don't think it cared one way or another.
 Dialogue: 10,0:18:49.98,0:18:51.94,Default,,0,0,0,,I think it's just tough on bad puns.
 Dialogue: 10,0:18:51.94,0:18:52.90,Default,,0,0,0,,Stop!
 Dialogue: 10,0:18:54.24,0:18:55.36,Default,,0,0,0,,Gah, dammit!
