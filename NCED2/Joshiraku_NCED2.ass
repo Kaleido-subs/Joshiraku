@@ -556,10 +556,10 @@ Comment: 0,0:00:08.86,0:00:10.32,ED1,eng,0,0,0,intro,May great wealth await you 
 Comment: 0,0:00:10.32,0:00:11.87,ED1,eng,0,0,0,intro,Be it on unknown soil or under foreign skies
 Comment: 0,0:00:11.87,0:00:13.33,ED1,eng,0,0,0,intro,May you always have your daily bread!
 Comment: 0,0:00:13.33,0:00:14.87,ED1,eng,0,0,0,intro,And always be brimming full of life
-Comment: 0,0:00:14.87,0:00:17.87,ED1,eng,0,0,0,intro,{\move(960,1045.001,2310,1045.001,2600,3000)}Like the long-lived king of Paipo, Shuringan
-Comment: 0,0:00:19.00,0:00:20.83,ED1,eng,0,0,0,intro,{\move(-450,1045.001,960,1045.001,0,300)}And his dear wife, Gurindai
+Comment: 0,0:00:14.87,0:00:17.87,ED1,eng,0,0,0,intro,{\move(960,1045,2310,1045,2600,3000)}Like the long-lived king of Paipo, Shuringan
+Comment: 0,0:00:19.00,0:00:20.83,ED1,eng,0,0,0,intro,{\move(-450,1045,960,1045,0,300)}And his dear wife, Gurindai
 Comment: 0,0:00:20.83,0:00:23.00,ED1,eng,0,0,0,intro,And their children, Ponpokoki and Ponpokona
-Comment: 0,0:00:23.00,0:00:25.38,ED1,eng,0,0,0,intro,{\move(960,1045.001,1045.001,1045.001,1980,2380)\fad(0,400)}Who lived a long and blessed life
+Comment: 0,0:00:23.00,0:00:25.38,ED1,eng,0,0,0,intro,{\move(960,1045,1045,1045,1980,2380)\fad(0,400)}Who lived a long and blessed life
 Comment: 0,0:00:37.52,0:00:40.10,ED1,eng eng_centre fade,0,0,0,kara,Someone who smiles a lot
 Comment: 0,0:00:40.35,0:00:43.19,ED1,eng eng_centre fade,0,0,0,kara,And a traditional Japanese coat
 Comment: 0,0:00:43.48,0:00:44.98,ED1,eng eng_centre fade,0,0,0,kara,What do they share in common?
@@ -592,10 +592,10 @@ Comment: 0,0:00:08.86,0:00:10.32,ED1,rom,0,0,0,intro,{\pos(960,982)\fs51}kaijari
 Comment: 0,0:00:10.32,0:00:11.87,ED1,rom,0,0,0,intro,{\pos(960,982)\fs51}unraimatsu fuuraimatsu
 Comment: 0,0:00:11.87,0:00:13.33,ED1,rom,0,0,0,intro,{\pos(960,982)\fs51}kuuneru tokoro ni sumu tokoro
 Comment: 0,0:00:13.33,0:00:14.87,ED1,rom,0,0,0,intro,{\pos(960,982)\fs51}yaburakouji no burakouji
-Comment: 0,0:00:14.87,0:00:17.87,ED1,rom,0,0,0,intro,{\move(960,982.001,2310,982.001,2600,3000)\fs51}paipo paipo paipo no shuringan
-Comment: 0,0:00:19.00,0:00:20.83,ED1,rom,0,0,0,intro,{\move(-450,982.001,960,982.001,0,300)\fs51}shuringan no gurindai
+Comment: 0,0:00:14.87,0:00:17.87,ED1,rom,0,0,0,intro,{\move(960,982,2310,982,2600,3000)\fs51}paipo paipo paipo no shuringan
+Comment: 0,0:00:19.00,0:00:20.83,ED1,rom,0,0,0,intro,{\move(-450,982,960,982,0,300)\fs51}shuringan no gurindai
 Comment: 0,0:00:20.83,0:00:23.00,ED1,rom,0,0,0,intro,{\pos(960,982)\fs51}guurindai no ponpokopi no ponpokona no
-Comment: 0,0:00:23.00,0:00:25.38,ED1,rom,0,0,0,intro,{\move(960,982.001,1045.001,990,1980,2380)\fs51\fad(0,400)}choukyuumei no chousuke
+Comment: 0,0:00:23.00,0:00:25.38,ED1,rom,0,0,0,intro,{\move(960,982,1045,990,1980,2380)\fs51\fad(0,400)}choukyuumei no chousuke
 Comment: 0,0:00:28.22,0:00:31.43,ED1,rom rom_centre nofadeout,0,0,0,kara,choi to ojikan itadakimasu
 Comment: 0,0:00:34.18,0:00:35.85,ED1,rom rom_left nofadeout,0,0,0,kara,goseichou kudasai
 Comment: 0,0:00:35.85,0:00:37.52,ED1,rom rom_centre nofadein,0,0,0,kara,totonoimashita
@@ -623,9 +623,8 @@ Comment: 0,0:01:21.52,0:01:22.48,ED1,rom rom_outroright fade,0,0,0,kara,egao
 Comment: 0,0:01:22.35,0:01:23.27,ED1,rom rom_outroleft fade,0,0,0,kara,egao
 Comment: 0,0:01:23.10,0:01:23.90,ED1,rom rom_outroright fade,0,0,0,kara,egao
 Comment: 0,0:01:23.81,0:01:26.77,ED1,rom rom_centre fade,0,0,0,kara,warau kado ni wa fuku kitaru
-Dialogue: 0,0:01:26.61,0:01:29.99,Ep13ED_Fin,,0,0,0,,{\pos(929,966)\fscx351\fscy198\fnBrushType-SemiBold\fs106.5\bord5.25\c&HF9FEFB&\3c&HF9FEFB&\1a&HFF&\blur1.35\fad(232,0)\t(187,232,\1a&H00&)}Fin
-Dialogue: 1,0:01:26.61,0:01:29.99,Ep13ED_Fin,,0,0,0,,{\pos(929,966)\fscx351\fscy198\fnBrushType-SemiBold\fs106.5\c&H181818&\4a&HFF&\blur1.35\fad(232,0)}Fin
-Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:01:26.61,0:01:29.99,Ep13ED_Fin,,0,0,0,,{\pos(960,966)\fscx351\fscy198\fnBrushType-SemiBold\fs107\bord5.25\c&HF9FEFB&\3c&HF9FEFB&\1a&HFF&\blur1.35\fad(232,0)\t(187,232,\1a&H00&)}Fin
+Dialogue: 1,0:01:26.61,0:01:29.99,Ep13ED_Fin,,0,0,0,,{\pos(960,966)\fscx351\fscy198\fnBrushType-SemiBold\fs107\c&H181818&\4a&HFF&\blur1.35\fad(232,0)}Fin
 Dialogue: 2,0:00:07.27,0:00:07.36,ED1,eng tracked,0,0,0,fx,{\pos(960,1045)\blur0.65\1a&HFE&\3a&HFE&\xshad0.01}Live long, live long and prosper
 Dialogue: 1,0:00:07.27,0:00:07.36,ED1,eng tracked,0,0,0,fx,{\pos(960,1045)\4c&H000000&\1a&HFE&\3a&HFE&\xshad0.01\bord3\blur1.275}Live long, live long and prosper
 Dialogue: 0,0:00:07.27,0:00:07.36,ED1,eng tracked,0,0,0,fx,{\pos(960,1045)\4a&HA0&\1a&HFE&\3a&HFE&\xshad0.01\bord1.5\blur9}Live long, live long and prosper
