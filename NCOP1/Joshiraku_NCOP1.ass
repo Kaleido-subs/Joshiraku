@@ -19,8 +19,8 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Sign,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: OP1,Merienda One,72,&H00FFFFFF,&H1EFFFFFF,&H00007FFF,&H00000000,0,0,0,0,100,100,1.99999,0,1,0,0,1,53,53,41,1
+Style: OPSign,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -89,159 +89,159 @@ Comment: 0,0:01:15.26,0:01:16.56,OP1,rom,0,0,0,kara,gokuraku da
 Comment: 0,0:01:16.56,0:01:17.72,OP1,rom,0,0,0,kara,gokuraku da
 Comment: 0,0:01:17.72,0:01:19.05,OP1,rom,0,0,0,kara,arayotto
 Comment: 0,0:01:19.05,0:01:20.77,OP1,rom,0,0,0,kara,gokuraku joudo ring
-Dialogue: 1,0:00:05.81,0:00:08.44,Sign,logo,0,0,0,,{\move(1054.001,312,1435.001,312,0,1120)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35\clip(m 1672.5 390 l 1167 441 b 1228.5 309 1183.5 238.5 1165.5 198 l 1672.5 244.5)}Rakugo Girls
-Dialogue: 1,0:00:05.81,0:00:08.44,Sign,logo,0,0,0,,{\move(1054.001,312,1435.001,312,0,1120)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35\clip(m 1672.5 390 l 1167 441 b 1228.5 309 1183.5 238.5 1165.5 198 l 1672.5 244.5)}Rakugo Girls
-Dialogue: 0,0:00:05.81,0:00:08.44,Sign,logo,0,0,0,,{\move(1054.001,312,1435.001,312,0,1120)\fnBrushStroke 35\fs100.5\blur13.5\clip(m 1672.5 400.5 l 1147.5 474 b 1228.5 366 1213.5 267 1150.5 174 l 1672.5 238.5)}Rakugo Girls
-Dialogue: 0,0:00:05.81,0:00:08.44,Sign,logo,0,0,0,,{\move(1054.001,312,1435.001,312,0,1120)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1672.5 400.5 l 1147.5 474 b 1228.5 366 1213.5 267 1150.5 174 l 1672.5 238.5)}Rakugo Girls
-Dialogue: 0,0:00:05.81,0:00:08.44,Sign,logo,0,0,0,,{\move(1054.001,312,1435.001,312,0,1120)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1672.5 400.5 l 1147.5 474 b 1228.5 366 1213.5 267 1150.5 174 l 1672.5 238.5)}Rakugo Girls
-Dialogue: 0,0:00:05.81,0:00:08.44,Sign,logo,0,0,0,,{\move(1054.001,312,1435.001,312,0,1120)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1672.5 400.5 l 1147.5 474 b 1228.5 366 1213.5 267 1150.5 174 l 1672.5 238.5)}Rakugo Girls
-Dialogue: 1,0:00:10.94,0:00:14.45,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35}Rakugo Girls
-Dialogue: 1,0:00:10.94,0:00:14.45,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35}Rakugo Girls
-Dialogue: 0,0:00:10.94,0:00:14.45,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\blur13.5}Rakugo Girls
-Dialogue: 0,0:00:10.94,0:00:14.45,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\blur19.5}Rakugo Girls
-Dialogue: 0,0:00:10.94,0:00:14.45,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\blur19.5}Rakugo Girls
-Dialogue: 0,0:00:10.94,0:00:14.45,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\blur19.5}Rakugo Girls
-Dialogue: 1,0:00:14.45,0:00:14.53,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35\clip(m 1403.92 264.92 b 1407.27 317.27 1414.69 368.73 1423.5 399 l 1044 381 1045.5 243)}Rakugo Girls
-Dialogue: 1,0:00:14.45,0:00:14.53,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35\clip(m 1403.92 264.92 b 1407.27 317.27 1414.69 368.73 1423.5 399 l 1044 381 1045.5 243)}Rakugo Girls
-Dialogue: 0,0:00:14.45,0:00:14.53,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\blur13.5\clip(m 1403.92 264.92 b 1407.27 317.27 1414.69 368.73 1423.5 399 l 1044 381 1045.5 243)}Rakugo Girls
-Dialogue: 0,0:00:14.45,0:00:14.53,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1403.92 264.92 b 1407.27 317.27 1414.69 368.73 1423.5 399 l 1044 381 1045.5 243)}Rakugo Girls
-Dialogue: 0,0:00:14.45,0:00:14.53,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1403.92 264.92 b 1407.27 317.27 1414.69 368.73 1423.5 399 l 1044 381 1045.5 243)}Rakugo Girls
-Dialogue: 0,0:00:14.45,0:00:14.53,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1403.92 264.92 b 1407.27 317.27 1414.69 368.73 1423.5 399 l 1044 381 1045.5 243)}Rakugo Girls
-Dialogue: 1,0:00:14.53,0:00:14.61,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35\clip(m 1183.5 246 b 1188.33 280.67 1193.78 315.56 1207.5 344.72 1213.5 337.5 1221.78 326.78 1229.83 309.61 1235.44 316.5 1231.5 351 1233.61 364.94 l 1044 381 1045.5 243)}Rakugo Girls
-Dialogue: 1,0:00:14.53,0:00:14.61,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35\clip(m 1183.5 246 b 1188.33 280.67 1193.78 315.56 1207.5 344.72 1213.5 337.5 1221.78 326.78 1229.83 309.61 1235.44 316.5 1231.5 351 1233.61 364.94 l 1044 381 1045.5 243)}Rakugo Girls
-Dialogue: 0,0:00:14.53,0:00:14.61,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\blur13.5\clip(m 1183.5 246 b 1188.33 280.67 1193.78 315.56 1207.5 344.72 1213.5 337.5 1221.78 326.78 1229.83 309.61 1235.44 316.5 1231.5 351 1233.61 364.94 l 1044 381 1045.5 243)}Rakugo Girls
-Dialogue: 0,0:00:14.53,0:00:14.61,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1183.5 246 b 1188.33 280.67 1193.78 315.56 1207.5 344.72 1213.5 337.5 1221.78 326.78 1229.83 309.61 1235.44 316.5 1231.5 351 1233.61 364.94 l 1044 381 1045.5 243)}Rakugo Girls
-Dialogue: 0,0:00:14.53,0:00:14.61,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1183.5 246 b 1188.33 280.67 1193.78 315.56 1207.5 344.72 1213.5 337.5 1221.78 326.78 1229.83 309.61 1235.44 316.5 1231.5 351 1233.61 364.94 l 1044 381 1045.5 243)}Rakugo Girls
-Dialogue: 0,0:00:14.53,0:00:14.61,Sign,logo,0,0,0,,{\pos(1273.5,312)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1183.5 246 b 1188.33 280.67 1193.78 315.56 1207.5 344.72 1213.5 337.5 1221.78 326.78 1229.83 309.61 1235.44 316.5 1231.5 351 1233.61 364.94 l 1044 381 1045.5 243)}Rakugo Girls
-Dialogue: 0,0:00:18.08,0:00:19.58,Sign,nameplates,0,0,0,,{\an7\pos(582.9,87.6)\fscx90\fscy159\frz341.7\c&H12181C&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 1,0:00:18.08,0:00:19.58,Sign,nameplates,0,0,0,,{\an7\pos(582.9,87.6)\fscx84.5\fscy135.5\frz341.7\c&HFAFFFF&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 2,0:00:18.08,0:00:19.58,Sign,nameplates,0,0,0,,{\an7\pos(582.9,87.6)\fscx80\fscy115\frz341.7\c&H12181C&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 3,0:00:18.08,0:00:19.58,Sign,nameplates,0,0,0,,{\an7\pos(582.9,87.6)\fscx78\fscy107\frz341.7\c&HFAFFFF&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 4,0:00:18.08,0:00:19.58,Sign,nameplates,0,0,0,,{\pos(588.795,87.525)\frz342.2\fnHanglatter\fs96\c&H121718&\blur1.13}Buratei Marii
-Dialogue: 0,0:00:21.29,0:00:22.41,Sign,nameplates,0,0,0,,{\an7\pos(1441.41,120.6)\fscx90\fscy159\frz9.908\c&H0C1A1A&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 1,0:00:21.29,0:00:22.41,Sign,nameplates,0,0,0,,{\an7\pos(1441.41,120.6)\fscx84.5\fscy135.5\frz9.908\c&HF9FEFE&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 2,0:00:21.29,0:00:22.41,Sign,nameplates,0,0,0,,{\an7\pos(1441.41,120.6)\fscx80\fscy115\frz9.908\c&H0C1A1A&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 3,0:00:21.29,0:00:22.41,Sign,nameplates,0,0,0,,{\an7\pos(1441.41,120.6)\fscx78\fscy107\frz9.908\c&HF9FEFE&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 4,0:00:21.29,0:00:22.41,Sign,nameplates,0,0,0,,{\pos(1446.6,118.965)\frz9.774\fnHanglatter\fs90\c&H050807&\blur1.13}Bouhatei Tetora
-Dialogue: 0,0:00:25.88,0:00:25.92,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\iclip(m 945 105.75 l 828 265.5 612 192 b 610.875 187.75 605.625 179.125 607.5 174.75 609.375 171.625 612.375 154 617.25 143.25 623.25 106.375 632.875 73.75 648.75 52.5 658.75 38.25 671.875 25.5 685.5 16.5 l 735.75 -14.25 891 3 996.625 111 814.75 402.625 441.625 165.625 b 401.5 82.375 377.875 88.375 354.375 62.5 l 360 129.75 846.75 573)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 1,0:00:25.88,0:00:25.92,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\iclip(m 945 105.75 l 828 265.5 612 192 b 610.875 187.75 605.625 179.125 607.5 174.75 609.375 171.625 612.375 154 617.25 143.25 623.25 106.375 632.875 73.75 648.75 52.5 658.75 38.25 671.875 25.5 685.5 16.5 l 735.75 -14.25 891 3 996.625 111 814.75 402.625 441.625 165.625 b 401.5 82.375 377.875 88.375 354.375 62.5 l 360 129.75 846.75 573)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 2,0:00:25.88,0:00:25.92,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\iclip(m 945 105.75 l 828 265.5 612 192 b 610.875 187.75 605.625 179.125 607.5 174.75 609.375 171.625 612.375 154 617.25 143.25 623.25 106.375 632.875 73.75 648.75 52.5 658.75 38.25 671.875 25.5 685.5 16.5 l 735.75 -14.25 891 3 996.625 111 814.75 402.625 441.625 165.625 b 401.5 82.375 377.875 88.375 354.375 62.5 l 360 129.75 846.75 573)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 3,0:00:25.88,0:00:25.92,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\iclip(m 945 105.75 l 828 265.5 612 192 b 610.875 187.75 605.625 179.125 607.5 174.75 609.375 171.625 612.375 154 617.25 143.25 623.25 106.375 632.875 73.75 648.75 52.5 658.75 38.25 671.875 25.5 685.5 16.5 l 735.75 -14.25 891 3 996.625 111 814.75 402.625 441.625 165.625 b 401.5 82.375 377.875 88.375 354.375 62.5 l 360 129.75 846.75 573)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 4,0:00:25.88,0:00:25.92,Sign,nameplates,0,0,0,masked,{\pos(582.6,31.545)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 945 105.75 l 828 265.5 612 192 b 610.875 187.75 605.625 179.125 607.5 174.75 609.375 171.625 612.375 154 617.25 143.25 623.25 106.375 632.875 73.75 648.75 52.5 658.75 38.25 671.875 25.5 685.5 16.5 l 735.75 -14.25 891 3 996.625 111 814.75 402.625 441.625 165.625 b 401.5 82.375 377.875 88.375 354.375 62.5 l 360 129.75 846.75 573)}Haroukitei
-Dialogue: 4,0:00:25.88,0:00:25.92,Sign,nameplates,0,0,0,masked,{\pos(697.47,120.69)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 945 105.75 l 828 265.5 612 192 b 610.875 187.75 605.625 179.125 607.5 174.75 609.375 171.625 612.375 154 617.25 143.25 623.25 106.375 632.875 73.75 648.75 52.5 658.75 38.25 671.875 25.5 685.5 16.5 l 735.75 -14.25 891 3 996.625 111 814.75 402.625 441.625 165.625 b 401.5 82.375 377.875 88.375 354.375 62.5 l 360 129.75 846.75 573)}Kigurumi
-Dialogue: 0,0:00:25.92,0:00:25.96,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\iclip(m 662.125 207.25 l 580.75 117.625 b 573.375 103.375 575.5 96 582 89.125 l 704.875 -43.75 1386 112.75 1323.25 361.375 443.25 197.125 419.125 127.375 b 415.375 116.125 411.625 112.375 406.875 107.125 l 350.625 67 368.625 137.125)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 1,0:00:25.92,0:00:25.96,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\iclip(m 662.125 207.25 l 580.75 117.625 b 573.375 103.375 575.5 96 582 89.125 l 704.875 -43.75 1386 112.75 1323.25 361.375 443.25 197.125 419.125 127.375 b 415.375 116.125 411.625 112.375 406.875 107.125 l 350.625 67 368.625 137.125)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 2,0:00:25.92,0:00:25.96,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\iclip(m 662.125 207.25 l 580.75 117.625 b 573.375 103.375 575.5 96 582 89.125 l 704.875 -43.75 1386 112.75 1323.25 361.375 443.25 197.125 419.125 127.375 b 415.375 116.125 411.625 112.375 406.875 107.125 l 350.625 67 368.625 137.125)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 3,0:00:25.92,0:00:25.96,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\iclip(m 662.125 207.25 l 577 112.375 b 573.375 103.375 575.5 96 582 89.125 l 704.875 -43.75 1386 112.75 1323.25 361.375 443.25 197.125 419.125 127.375 b 415.375 116.125 411.625 112.375 406.875 107.125 l 350.625 67 368.625 137.125)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 4,0:00:25.92,0:00:25.96,Sign,nameplates,0,0,0,masked,{\pos(582.6,31.545)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 662.125 207.25 l 580.75 117.625 b 573.375 103.375 575.5 96 582 89.125 l 704.875 -43.75 1386 112.75 1323.25 361.375 443.25 197.125 419.125 127.375 b 415.375 116.125 411.625 112.375 406.875 107.125 l 350.625 67 368.625 137.125)}Haroukitei
-Dialogue: 0,0:00:25.96,0:00:26.01,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\iclip(m 342.25 163.75 l 689.625 236.875 559.875 47.125 b 556.75 36.75 556.875 27.25 561.625 20.125 l 657.625 -56.875 993.625 54.375 885.375 156.625 751 235.875 404.125 133.5 391.5 78.75 342 41.25)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 1,0:00:25.96,0:00:26.01,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\iclip(m 342.25 163.75 l 689.625 236.875 559.875 47.125 b 556.75 36.75 556.875 27.25 561.625 20.125 l 657.625 -56.875 993.625 54.375 885.375 156.625 751 235.875 404.125 133.5 391.5 78.75 342 41.25)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 2,0:00:25.96,0:00:26.01,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\iclip(m 342.25 163.75 l 689.625 236.875 559.875 47.125 b 556.75 36.75 556.875 27.25 561.625 20.125 l 657.625 -56.875 993.625 54.375 885.375 156.625 751 235.875 404.125 133.5 391.5 78.75 342 41.25)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 3,0:00:25.96,0:00:26.01,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\iclip(m 342.25 163.75 l 689.625 236.875 559.875 47.125 b 556.75 36.75 556.875 27.25 561.625 20.125 l 657.625 -56.875 993.625 54.375 885.375 156.625 751 235.875 404.125 133.5 391.5 78.75 342 41.25)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 4,0:00:25.96,0:00:26.01,Sign,nameplates,0,0,0,masked,{\pos(582.6,31.545)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 342.25 163.75 l 689.625 236.875 559.875 47.125 b 556.75 36.75 556.875 27.25 561.625 20.125 l 657.625 -56.875 993.625 54.375 885.375 156.625 751 235.875 404.125 133.5 391.5 78.75 342 41.25)}Haroukitei
-Dialogue: 4,0:00:25.96,0:00:26.01,Sign,nameplates,0,0,0,masked,{\pos(697.47,120.69)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 342.25 163.75 l 689.625 236.875 559.875 47.125 b 556.75 36.75 556.875 27.25 561.625 20.125 l 657.625 -56.875 993.625 54.375 885.375 156.625 751 235.875 404.125 133.5 391.5 78.75 342 41.25)}Kigurumi
-Dialogue: 0,0:00:26.01,0:00:26.05,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\iclip(m 961.75 57.625 l 854.625 129.375 678.25 203.875 b 664.75 203.125 654.375 198.625 648.75 192.75 l 546.375 -12.75 950.5 -5.625)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 1,0:00:26.01,0:00:26.05,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\iclip(m 961.75 57.625 l 854.625 129.375 678.25 203.875 b 664.75 203.125 654.375 198.625 648.75 192.75 l 546.375 -12.75 950.5 -5.625)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 2,0:00:26.01,0:00:26.05,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\iclip(m 961.75 57.625 l 854.625 129.375 678.25 203.875 b 664.75 203.125 654.375 198.625 648.75 192.75 l 546.375 -12.75 950.5 -5.625)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 3,0:00:26.01,0:00:26.05,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\iclip(m 961.75 57.625 l 854.625 129.375 678.25 203.875 b 664.75 203.125 654.375 198.625 648.75 192.75 l 546.375 -12.75 950.5 -5.625)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 4,0:00:26.01,0:00:26.05,Sign,nameplates,0,0,0,masked,{\pos(582.6,31.545)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 961.75 57.625 l 854.625 129.375 678.25 203.875 b 664.75 203.125 654.375 198.625 648.75 192.75 l 546.375 -12.75 950.5 -5.625)}Haroukitei
-Dialogue: 4,0:00:26.01,0:00:26.05,Sign,nameplates,0,0,0,masked,{\pos(697.47,120.69)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 961.75 57.625 l 854.625 129.375 678.25 203.875 b 664.75 203.125 654.375 198.625 648.75 192.75 l 546.375 -12.75 950.5 -5.625)}Kigurumi
-Dialogue: 0,0:00:26.05,0:00:26.09,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\iclip(m 932.5 43.125 l 815.25 94 631.75 146.875 b 614.625 147.25 608.625 139.375 602.125 130.75 l 547.75 -30.375 947.25 -28.375)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 1,0:00:26.05,0:00:26.09,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\iclip(m 932.5 43.125 l 815.25 94 631.75 146.875 b 614.625 147.25 608.625 139.375 602.125 130.75 l 547.75 -30.375 947.25 -28.375)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 2,0:00:26.05,0:00:26.09,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\iclip(m 932.5 43.125 l 815.25 94 631.75 146.875 b 614.625 147.25 608.625 139.375 602.125 130.75 l 547.75 -30.375 947.25 -28.375)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 3,0:00:26.05,0:00:26.09,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\iclip(m 932.5 43.125 l 815.25 94 631.75 146.875 b 614.625 147.25 608.625 139.375 602.125 130.75 l 547.75 -30.375 947.25 -28.375)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 4,0:00:26.05,0:00:26.09,Sign,nameplates,0,0,0,masked,{\pos(582.6,31.545)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 932.5 43.125 l 815.25 94 631.75 146.875 b 614.625 147.25 608.625 139.375 602.125 130.75 l 547.75 -30.375 947.25 -28.375)}Haroukitei
-Dialogue: 4,0:00:26.05,0:00:26.09,Sign,nameplates,0,0,0,masked,{\pos(697.47,120.69)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 932.5 43.125 l 815.25 94 631.75 146.875 b 614.625 147.25 608.625 139.375 602.125 130.75 l 547.75 -30.375 947.25 -28.375)}Kigurumi
-Dialogue: 0,0:00:26.09,0:00:26.13,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\iclip(m 965.125 -8.125 l 586.875 66.375 b 570 62.625 571.375 55.875 565.375 47.125 l 548.5 -43.375)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 1,0:00:26.09,0:00:26.13,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\iclip(m 965.125 -8.125 l 586.875 66.375 b 570 62.625 571.375 55.875 565.375 47.125 l 548.5 -43.375)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 2,0:00:26.09,0:00:26.13,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\iclip(m 965.125 -8.125 l 586.875 66.375 b 570 62.625 571.375 55.875 565.375 47.125 l 548.5 -43.375)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 3,0:00:26.09,0:00:26.13,Sign,nameplates,0,0,0,masked,{\an7\pos(627.69,76.665)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\iclip(m 965.125 -8.125 l 586.875 66.375 b 570 62.625 571.375 55.875 565.375 47.125 l 548.5 -43.375)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 4,0:00:26.09,0:00:26.13,Sign,nameplates,0,0,0,masked,{\pos(582.6,31.545)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 965.125 -8.125 l 586.875 66.375 b 570 62.625 571.375 55.875 565.375 47.125 l 548.5 -43.375)}Haroukitei
-Dialogue: 4,0:00:26.09,0:00:26.13,Sign,nameplates,0,0,0,masked,{\pos(697.47,120.69)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13}Kigurumi
-Dialogue: 0,0:00:26.13,0:00:27.38,Sign,nameplates,0,0,0,,{\an7\pos(627.69,76.665)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 1,0:00:26.13,0:00:27.38,Sign,nameplates,0,0,0,,{\an7\pos(627.69,76.665)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 2,0:00:26.13,0:00:27.38,Sign,nameplates,0,0,0,,{\an7\pos(627.69,76.665)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 3,0:00:26.13,0:00:27.38,Sign,nameplates,0,0,0,,{\an7\pos(627.69,76.665)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 4,0:00:26.13,0:00:27.38,Sign,nameplates,0,0,0,,{\pos(582.6,31.545)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13}Haroukitei
-Dialogue: 4,0:00:26.13,0:00:27.38,Sign,nameplates,0,0,0,,{\pos(697.47,120.69)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13}Kigurumi
-Dialogue: 0,0:00:29.21,0:00:29.96,Sign,nameplates,0,0,0,,{\an7\pos(1483.905,113.505)\fscx90\fscy159\frz10.2\c&H0B161C&\blur1.2\iclip(m 1314.15 253 b 1327.24 218.47 1359.19 192.1 1405.23 211.5 l 1444.33 142.18 b 1453.88 137.12 1460.43 128.2 1492.12 147.75 l 1597.83 204.48)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 1,0:00:29.21,0:00:29.96,Sign,nameplates,0,0,0,,{\an7\pos(1483.905,113.505)\fscx84.5\fscy135.5\frz10.2\c&HF9FEFE&\blur1.2\iclip(m 1314.15 253 b 1327.24 218.47 1359.19 192.1 1405.23 211.5 l 1444.33 142.18 b 1453.88 137.12 1460.43 128.2 1492.12 147.75 l 1597.83 204.48)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 2,0:00:29.21,0:00:29.96,Sign,nameplates,0,0,0,,{\an7\pos(1483.905,113.505)\fscx80\fscy115\frz10.2\c&H0B161C&\blur1.2\iclip(m 1314.15 253 b 1327.24 218.47 1359.19 192.1 1405.23 211.5 l 1444.33 142.18 b 1453.88 137.12 1460.43 128.2 1492.12 147.75 l 1597.83 204.48)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 3,0:00:29.21,0:00:29.96,Sign,nameplates,0,0,0,,{\an7\pos(1483.905,113.505)\fscx78\fscy107\frz10.2\c&HF9FEFE&\blur1.2\iclip(m 1314.15 253 b 1327.24 218.47 1359.19 192.1 1405.23 211.5 l 1444.33 142.18 b 1453.88 137.12 1460.43 128.2 1492.12 147.75 l 1597.83 204.48)\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 4,0:00:29.21,0:00:29.96,Sign,nameplates,0,0,0,,{\pos(1449.89,82.64)\frz10.2\fnHanglatter\fs84\c&H0D1111&\blur1.13}Kuurubiyuutei
-Dialogue: 4,0:00:29.21,0:00:29.96,Sign,nameplates,0,0,0,,{\pos(1580.76,122.59)\frz10.2\fnHanglatter\fs84\c&H0D1111&\blur1.13\iclip(m 1314.15 253 b 1327.24 218.47 1359.19 192.1 1405.23 211.5 l 1444.33 142.18 b 1453.88 137.12 1460.43 128.2 1492.12 147.75 l 1597.83 204.48)}Gankyou
-Dialogue: 0,0:00:31.30,0:00:32.59,Sign,nameplates,0,0,0,,{\an7\pos(657.3,89.1)\fscx90\fscy159\frz342\c&H181B1D&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 1,0:00:31.30,0:00:32.59,Sign,nameplates,0,0,0,,{\an7\pos(657.3,89.1)\fscx84.5\fscy135.5\frz342\c&HFAFFFD&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 2,0:00:31.30,0:00:32.59,Sign,nameplates,0,0,0,,{\an7\pos(657.3,89.1)\fscx80\fscy115\frz342\c&H181B1D&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 3,0:00:31.30,0:00:32.59,Sign,nameplates,0,0,0,,{\an7\pos(657.3,89.1)\fscx78\fscy107\frz342\c&HFAFFFD&\blur1.2\p1}m -252 -69 l 273 -69 273 64.5 -252 64.5
-Dialogue: 4,0:00:31.30,0:00:32.59,Sign,nameplates,0,0,0,,{\pos(619.46,36.67)\frz343.2\fnHanglatter\fs84\c&H111414&\blur1.13}Anrakutei
-Dialogue: 4,0:00:31.30,0:00:32.59,Sign,nameplates,0,0,0,,{\pos(738.91,138.12)\frz340.9\fnHanglatter\fs84\c&H111414&\blur1.13}Kukuru
-Dialogue: 0,0:00:26.71,0:00:27.38,Sign,textbubble,0,0,0,,{\pos(175.5,733.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:26.71,0:00:27.38,Sign,textbubble,0,0,0,,{\pos(175.5,733.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:26.71,0:00:27.38,Sign,textbubble,0,0,0,,{\pos(178.5,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Fine.
-Dialogue: 0,0:00:26.71,0:00:27.38,Sign,textbubble,0,0,0,,{\pos(1728,733.5)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:26.71,0:00:27.38,Sign,textbubble,0,0,0,,{\pos(1728,733.5)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:26.71,0:00:27.38,Sign,textbubble,0,0,0,,{\pos(1731,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Here goes!
-Dialogue: 0,0:00:29.42,0:00:29.46,Sign,textbubble,0,0,0,,{\pos(1002,928.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:29.42,0:00:29.46,Sign,textbubble,0,0,0,,{\pos(1002,928.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:29.42,0:00:29.46,Sign,textbubble,0,0,0,,{\pos(1002,913.5)\fnCC Astro City\fs27\c&H000000&\blur0.97}Literally how?
-Dialogue: 0,0:00:29.46,0:00:29.50,Sign,textbubble,0,0,0,,{\pos(1002,765)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:29.46,0:00:29.50,Sign,textbubble,0,0,0,,{\pos(1002,765)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:29.46,0:00:29.50,Sign,textbubble,0,0,0,,{\pos(1002,745.5)\fnCC Astro City\fs27\c&H000000&\blur0.97}Literally how?
-Dialogue: 0,0:00:29.50,0:00:29.96,Sign,textbubble,0,0,0,,{\pos(1002,682.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:29.50,0:00:29.96,Sign,textbubble,0,0,0,,{\pos(1002,682.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:29.50,0:00:29.96,Sign,textbubble,0,0,0,,{\pos(1002,664.5)\fnCC Astro City\fs27\c&H000000&\blur0.97}Literally how?
-Dialogue: 0,0:00:29.42,0:00:29.46,Sign,textbubble,0,0,0,,{\pos(1690.5,928.5)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:29.42,0:00:29.46,Sign,textbubble,0,0,0,,{\pos(1690.5,928.5)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:29.42,0:00:29.46,Sign,textbubble,0,0,0,,{\pos(1693.5,910.5)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?
-Dialogue: 0,0:00:29.46,0:00:29.50,Sign,textbubble,0,0,0,,{\pos(1690.5,765)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:29.46,0:00:29.50,Sign,textbubble,0,0,0,,{\pos(1690.5,765)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:29.46,0:00:29.50,Sign,textbubble,0,0,0,,{\pos(1693.5,745.5)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?
-Dialogue: 0,0:00:29.50,0:00:29.96,Sign,textbubble,0,0,0,,{\pos(1690.5,682.5)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:29.50,0:00:29.96,Sign,textbubble,0,0,0,,{\pos(1690.5,682.5)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:29.50,0:00:29.96,Sign,textbubble,0,0,0,,{\pos(1693.5,664.5)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?
-Dialogue: 0,0:00:31.88,0:00:31.92,Sign,textbubble,0,0,0,,{\pos(66,1110)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:31.88,0:00:31.92,Sign,textbubble,0,0,0,,{\pos(66,1110)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:31.88,0:00:31.92,Sign,textbubble,0,0,0,,{\pos(66,1081.5)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?!
-Dialogue: 0,0:00:31.92,0:00:31.97,Sign,textbubble,0,0,0,,{\pos(145.5,918)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:31.92,0:00:31.97,Sign,textbubble,0,0,0,,{\pos(145.5,918)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:31.92,0:00:31.97,Sign,textbubble,0,0,0,,{\pos(145.5,900)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?!
-Dialogue: 0,0:00:31.97,0:00:32.01,Sign,textbubble,0,0,0,,{\pos(168,793.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:31.97,0:00:32.01,Sign,textbubble,0,0,0,,{\pos(168,793.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:31.97,0:00:32.01,Sign,textbubble,0,0,0,,{\pos(168,774)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?!
-Dialogue: 0,0:00:32.01,0:00:32.59,Sign,textbubble,0,0,0,,{\pos(198,733.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:32.01,0:00:32.59,Sign,textbubble,0,0,0,,{\pos(198,733.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:32.01,0:00:32.59,Sign,textbubble,0,0,0,,{\pos(196.5,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?!
-Dialogue: 0,0:00:31.88,0:00:31.92,Sign,textbubble,0,0,0,,{\pos(1842,1110)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:31.88,0:00:31.92,Sign,textbubble,0,0,0,,{\pos(1842,1110)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:31.88,0:00:31.92,Sign,textbubble,0,0,0,,{\pos(1848,1081.5)\fnCC Astro City\fs27\c&H000000&\blur0.97}Whatever \Nyou say.
-Dialogue: 0,0:00:31.92,0:00:31.97,Sign,textbubble,0,0,0,,{\pos(1792.5,918)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:31.92,0:00:31.97,Sign,textbubble,0,0,0,,{\pos(1792.5,918)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:31.92,0:00:31.97,Sign,textbubble,0,0,0,,{\pos(1801.5,900)\fnCC Astro City\fs27\c&H000000&\blur0.97}Whatever \Nyou say.
-Dialogue: 0,0:00:31.97,0:00:32.01,Sign,textbubble,0,0,0,,{\pos(1756.5,793.5)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:31.97,0:00:32.01,Sign,textbubble,0,0,0,,{\pos(1756.5,793.5)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:31.97,0:00:32.01,Sign,textbubble,0,0,0,,{\pos(1759.5,774)\fnCC Astro City\fs27\c&H000000&\blur0.97}Whatever \Nyou say.
-Dialogue: 0,0:00:32.01,0:00:32.59,Sign,textbubble,0,0,0,,{\pos(1728,733.5)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:32.01,0:00:32.59,Sign,textbubble,0,0,0,,{\pos(1728,733.5)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:32.01,0:00:32.59,Sign,textbubble,0,0,0,,{\pos(1732.5,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Whatever \Nyou say.
-Dialogue: 0,0:00:59.45,0:01:00.16,Sign,textbubble,0,0,0,,{\pos(175.5,733.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:59.45,0:01:00.16,Sign,textbubble,0,0,0,,{\pos(175.5,733.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:59.45,0:01:00.16,Sign,textbubble,0,0,0,,{\pos(177,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Indeed.
-Dialogue: 0,0:00:59.45,0:01:00.16,Sign,textbubble,0,0,0,,{\pos(1728,733.5)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:00:59.45,0:01:00.16,Sign,textbubble,0,0,0,,{\pos(1728,733.5)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:00:59.45,0:01:00.16,Sign,textbubble,0,0,0,,{\pos(1732.5,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Yup! Yup!
-Dialogue: 0,0:01:02.38,0:01:02.75,Sign,textbubble,0,0,0,,{\pos(181.5,642)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:01:02.38,0:01:02.75,Sign,textbubble,0,0,0,,{\pos(181.5,642)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:01:02.38,0:01:02.75,Sign,textbubble,0,0,0,,{\pos(184.5,621)\fnCC Astro City\fs27\c&H000000&\blur0.97}Yeah!
-Dialogue: 0,0:01:02.38,0:01:02.75,Sign,textbubble,0,0,0,,{\pos(1728,642)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:01:02.38,0:01:02.75,Sign,textbubble,0,0,0,,{\pos(1728,642)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:01:02.38,0:01:02.75,Sign,textbubble,0,0,0,,{\pos(1732.5,621)\fnCC Astro City\fs27\c&H000000&\blur0.97}Hurrah!
-Dialogue: 0,0:01:09.50,0:01:10.21,Sign,textbubble,0,0,0,,{\pos(175.5,733.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:01:09.50,0:01:10.21,Sign,textbubble,0,0,0,,{\pos(175.5,733.5)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:01:09.50,0:01:10.21,Sign,textbubble,0,0,0,,{\pos(177,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Indeed.
-Dialogue: 0,0:01:09.50,0:01:10.21,Sign,textbubble,0,0,0,,{\pos(1728,733.5)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
-Dialogue: 1,0:01:09.50,0:01:10.21,Sign,textbubble,0,0,0,,{\pos(1728,733.5)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
-Dialogue: 2,0:01:09.50,0:01:10.21,Sign,textbubble,0,0,0,,{\pos(1732.5,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Show 'em!
+Dialogue: 1,0:00:05.81,0:00:08.44,OPSign,logo,0,0,0,,{\move(1054,312,1435,312,0,1120)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35\clip(m 1673 390 l 1167 441 b 1229 309 1184 239 1166 198 l 1673 245)}Rakugo Girls
+Dialogue: 1,0:00:05.81,0:00:08.44,OPSign,logo,0,0,0,,{\move(1054,312,1435,312,0,1120)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35\clip(m 1673 390 l 1167 441 b 1229 309 1184 239 1166 198 l 1673 245)}Rakugo Girls
+Dialogue: 0,0:00:05.81,0:00:08.44,OPSign,logo,0,0,0,,{\move(1054,312,1435,312,0,1120)\fnBrushStroke 35\fs100.5\blur13.5\clip(m 1673 401 l 1148 474 b 1229 366 1214 267 1151 174 l 1673 239)}Rakugo Girls
+Dialogue: 0,0:00:05.81,0:00:08.44,OPSign,logo,0,0,0,,{\move(1054,312,1435,312,0,1120)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1673 401 l 1148 474 b 1229 366 1214 267 1151 174 l 1673 239)}Rakugo Girls
+Dialogue: 0,0:00:05.81,0:00:08.44,OPSign,logo,0,0,0,,{\move(1054,312,1435,312,0,1120)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1673 401 l 1148 474 b 1229 366 1214 267 1151 174 l 1673 239)}Rakugo Girls
+Dialogue: 0,0:00:05.81,0:00:08.44,OPSign,logo,0,0,0,,{\move(1054,312,1435,312,0,1120)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1673 401 l 1148 474 b 1229 366 1214 267 1151 174 l 1673 239)}Rakugo Girls
+Dialogue: 1,0:00:10.94,0:00:14.45,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35}Rakugo Girls
+Dialogue: 1,0:00:10.94,0:00:14.45,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35}Rakugo Girls
+Dialogue: 0,0:00:10.94,0:00:14.45,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\blur13.5}Rakugo Girls
+Dialogue: 0,0:00:10.94,0:00:14.45,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\blur19.5}Rakugo Girls
+Dialogue: 0,0:00:10.94,0:00:14.45,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\blur19.5}Rakugo Girls
+Dialogue: 0,0:00:10.94,0:00:14.45,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\blur19.5}Rakugo Girls
+Dialogue: 1,0:00:14.45,0:00:14.53,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35\clip(m 1404 265 b 1407 317 1415 369 1424 399 l 1044 381 1046 243)}Rakugo Girls
+Dialogue: 1,0:00:14.45,0:00:14.53,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35\clip(m 1404 265 b 1407 317 1415 369 1424 399 l 1044 381 1046 243)}Rakugo Girls
+Dialogue: 0,0:00:14.45,0:00:14.53,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\blur13.5\clip(m 1404 265 b 1407 317 1415 369 1424 399 l 1044 381 1046 243)}Rakugo Girls
+Dialogue: 0,0:00:14.45,0:00:14.53,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1404 265 b 1407 317 1415 369 1424 399 l 1044 381 1046 243)}Rakugo Girls
+Dialogue: 0,0:00:14.45,0:00:14.53,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1404 265 b 1407 317 1415 369 1424 399 l 1044 381 1046 243)}Rakugo Girls
+Dialogue: 0,0:00:14.45,0:00:14.53,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1404 265 b 1407 317 1415 369 1424 399 l 1044 381 1046 243)}Rakugo Girls
+Dialogue: 1,0:00:14.53,0:00:14.61,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35\clip(m 1184 246 b 1188 281 1194 316 1208 345 1214 338 1222 327 1230 310 1235 317 1232 351 1234 365 l 1044 381 1046 243)}Rakugo Girls
+Dialogue: 1,0:00:14.53,0:00:14.61,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\c&H000000&\blur1.35\clip(m 1184 246 b 1188 281 1194 316 1208 345 1214 338 1222 327 1230 310 1235 317 1232 351 1234 365 l 1044 381 1046 243)}Rakugo Girls
+Dialogue: 0,0:00:14.53,0:00:14.61,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\blur13.5\clip(m 1184 246 b 1188 281 1194 316 1208 345 1214 338 1222 327 1230 310 1235 317 1232 351 1234 365 l 1044 381 1046 243)}Rakugo Girls
+Dialogue: 0,0:00:14.53,0:00:14.61,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1184 246 b 1188 281 1194 316 1208 345 1214 338 1222 327 1230 310 1235 317 1232 351 1234 365 l 1044 381 1046 243)}Rakugo Girls
+Dialogue: 0,0:00:14.53,0:00:14.61,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1184 246 b 1188 281 1194 316 1208 345 1214 338 1222 327 1230 310 1235 317 1232 351 1234 365 l 1044 381 1046 243)}Rakugo Girls
+Dialogue: 0,0:00:14.53,0:00:14.61,OPSign,logo,0,0,0,,{\pos(1274,312)\fnBrushStroke 35\fs100.5\blur19.5\clip(m 1184 246 b 1188 281 1194 316 1208 345 1214 338 1222 327 1230 310 1235 317 1232 351 1234 365 l 1044 381 1046 243)}Rakugo Girls
+Dialogue: 0,0:00:18.08,0:00:19.58,OPSign,nameplates,0,0,0,,{\an7\pos(583,88)\fscx90\fscy159\frz341.7\c&H12181C&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 1,0:00:18.08,0:00:19.58,OPSign,nameplates,0,0,0,,{\an7\pos(583,88)\fscx84.5\fscy135.5\frz341.7\c&HFAFFFF&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 2,0:00:18.08,0:00:19.58,OPSign,nameplates,0,0,0,,{\an7\pos(583,88)\fscx80\fscy115\frz341.7\c&H12181C&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 3,0:00:18.08,0:00:19.58,OPSign,nameplates,0,0,0,,{\an7\pos(583,88)\fscx78\fscy107\frz341.7\c&HFAFFFF&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 4,0:00:18.08,0:00:19.58,OPSign,nameplates,0,0,0,,{\pos(589,88)\frz342.2\fnHanglatter\fs96\c&H121718&\blur1.13}Buratei Marii
+Dialogue: 0,0:00:21.29,0:00:22.41,OPSign,nameplates,0,0,0,,{\an7\pos(1441,121)\fscx90\fscy159\frz9.908\c&H0C1A1A&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 1,0:00:21.29,0:00:22.41,OPSign,nameplates,0,0,0,,{\an7\pos(1441,121)\fscx84.5\fscy135.5\frz9.908\c&HF9FEFE&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 2,0:00:21.29,0:00:22.41,OPSign,nameplates,0,0,0,,{\an7\pos(1441,121)\fscx80\fscy115\frz9.908\c&H0C1A1A&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 3,0:00:21.29,0:00:22.41,OPSign,nameplates,0,0,0,,{\an7\pos(1441,121)\fscx78\fscy107\frz9.908\c&HF9FEFE&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 4,0:00:21.29,0:00:22.41,OPSign,nameplates,0,0,0,,{\pos(1447,119)\frz9.774\fnHanglatter\fs90\c&H050807&\blur1.13}Bouhatei Tetora
+Dialogue: 0,0:00:25.88,0:00:25.92,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\iclip(m 945 106 l 828 266 612 192 b 611 188 606 179 608 175 609 172 612 154 617 143 623 106 633 74 649 53 659 38 672 26 686 17 l 736 -14 891 3 997 111 815 403 442 166 b 402 82 378 88 354 63 l 360 130 847 573)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 1,0:00:25.88,0:00:25.92,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\iclip(m 945 106 l 828 266 612 192 b 611 188 606 179 608 175 609 172 612 154 617 143 623 106 633 74 649 53 659 38 672 26 686 17 l 736 -14 891 3 997 111 815 403 442 166 b 402 82 378 88 354 63 l 360 130 847 573)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 2,0:00:25.88,0:00:25.92,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\iclip(m 945 106 l 828 266 612 192 b 611 188 606 179 608 175 609 172 612 154 617 143 623 106 633 74 649 53 659 38 672 26 686 17 l 736 -14 891 3 997 111 815 403 442 166 b 402 82 378 88 354 63 l 360 130 847 573)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 3,0:00:25.88,0:00:25.92,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\iclip(m 945 106 l 828 266 612 192 b 611 188 606 179 608 175 609 172 612 154 617 143 623 106 633 74 649 53 659 38 672 26 686 17 l 736 -14 891 3 997 111 815 403 442 166 b 402 82 378 88 354 63 l 360 130 847 573)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 4,0:00:25.88,0:00:25.92,OPSign,nameplates,0,0,0,masked,{\pos(583,32)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 945 106 l 828 266 612 192 b 611 188 606 179 608 175 609 172 612 154 617 143 623 106 633 74 649 53 659 38 672 26 686 17 l 736 -14 891 3 997 111 815 403 442 166 b 402 82 378 88 354 63 l 360 130 847 573)}Haroukitei
+Dialogue: 4,0:00:25.88,0:00:25.92,OPSign,nameplates,0,0,0,masked,{\pos(697,121)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 945 106 l 828 266 612 192 b 611 188 606 179 608 175 609 172 612 154 617 143 623 106 633 74 649 53 659 38 672 26 686 17 l 736 -14 891 3 997 111 815 403 442 166 b 402 82 378 88 354 63 l 360 130 847 573)}Kigurumi
+Dialogue: 0,0:00:25.92,0:00:25.96,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\iclip(m 662 207 l 581 118 b 573 103 576 96 582 89 l 705 -44 1386 113 1323 361 443 197 419 127 b 415 116 412 112 407 107 l 351 67 369 137)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 1,0:00:25.92,0:00:25.96,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\iclip(m 662 207 l 581 118 b 573 103 576 96 582 89 l 705 -44 1386 113 1323 361 443 197 419 127 b 415 116 412 112 407 107 l 351 67 369 137)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 2,0:00:25.92,0:00:25.96,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\iclip(m 662 207 l 581 118 b 573 103 576 96 582 89 l 705 -44 1386 113 1323 361 443 197 419 127 b 415 116 412 112 407 107 l 351 67 369 137)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 3,0:00:25.92,0:00:25.96,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\iclip(m 662 207 l 577 112 b 573 103 576 96 582 89 l 705 -44 1386 113 1323 361 443 197 419 127 b 415 116 412 112 407 107 l 351 67 369 137)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 4,0:00:25.92,0:00:25.96,OPSign,nameplates,0,0,0,masked,{\pos(583,32)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 662 207 l 581 118 b 573 103 576 96 582 89 l 705 -44 1386 113 1323 361 443 197 419 127 b 415 116 412 112 407 107 l 351 67 369 137)}Haroukitei
+Dialogue: 0,0:00:25.96,0:00:26.01,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\iclip(m 342 164 l 690 237 560 47 b 557 37 557 27 562 20 l 658 -57 994 54 885 157 751 236 404 134 392 79 342 41)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 1,0:00:25.96,0:00:26.01,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\iclip(m 342 164 l 690 237 560 47 b 557 37 557 27 562 20 l 658 -57 994 54 885 157 751 236 404 134 392 79 342 41)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 2,0:00:25.96,0:00:26.01,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\iclip(m 342 164 l 690 237 560 47 b 557 37 557 27 562 20 l 658 -57 994 54 885 157 751 236 404 134 392 79 342 41)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 3,0:00:25.96,0:00:26.01,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\iclip(m 342 164 l 690 237 560 47 b 557 37 557 27 562 20 l 658 -57 994 54 885 157 751 236 404 134 392 79 342 41)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 4,0:00:25.96,0:00:26.01,OPSign,nameplates,0,0,0,masked,{\pos(583,32)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 342 164 l 690 237 560 47 b 557 37 557 27 562 20 l 658 -57 994 54 885 157 751 236 404 134 392 79 342 41)}Haroukitei
+Dialogue: 4,0:00:25.96,0:00:26.01,OPSign,nameplates,0,0,0,masked,{\pos(697,121)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 342 164 l 690 237 560 47 b 557 37 557 27 562 20 l 658 -57 994 54 885 157 751 236 404 134 392 79 342 41)}Kigurumi
+Dialogue: 0,0:00:26.01,0:00:26.05,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\iclip(m 962 58 l 855 129 678 204 b 665 203 654 199 649 193 l 546 -13 951 -6)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 1,0:00:26.01,0:00:26.05,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\iclip(m 962 58 l 855 129 678 204 b 665 203 654 199 649 193 l 546 -13 951 -6)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 2,0:00:26.01,0:00:26.05,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\iclip(m 962 58 l 855 129 678 204 b 665 203 654 199 649 193 l 546 -13 951 -6)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 3,0:00:26.01,0:00:26.05,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\iclip(m 962 58 l 855 129 678 204 b 665 203 654 199 649 193 l 546 -13 951 -6)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 4,0:00:26.01,0:00:26.05,OPSign,nameplates,0,0,0,masked,{\pos(583,32)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 962 58 l 855 129 678 204 b 665 203 654 199 649 193 l 546 -13 951 -6)}Haroukitei
+Dialogue: 4,0:00:26.01,0:00:26.05,OPSign,nameplates,0,0,0,masked,{\pos(697,121)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 962 58 l 855 129 678 204 b 665 203 654 199 649 193 l 546 -13 951 -6)}Kigurumi
+Dialogue: 0,0:00:26.05,0:00:26.09,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\iclip(m 933 43 l 815 94 632 147 b 615 147 609 139 602 131 l 548 -30 947 -28)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 1,0:00:26.05,0:00:26.09,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\iclip(m 933 43 l 815 94 632 147 b 615 147 609 139 602 131 l 548 -30 947 -28)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 2,0:00:26.05,0:00:26.09,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\iclip(m 933 43 l 815 94 632 147 b 615 147 609 139 602 131 l 548 -30 947 -28)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 3,0:00:26.05,0:00:26.09,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\iclip(m 933 43 l 815 94 632 147 b 615 147 609 139 602 131 l 548 -30 947 -28)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 4,0:00:26.05,0:00:26.09,OPSign,nameplates,0,0,0,masked,{\pos(583,32)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 933 43 l 815 94 632 147 b 615 147 609 139 602 131 l 548 -30 947 -28)}Haroukitei
+Dialogue: 4,0:00:26.05,0:00:26.09,OPSign,nameplates,0,0,0,masked,{\pos(697,121)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 933 43 l 815 94 632 147 b 615 147 609 139 602 131 l 548 -30 947 -28)}Kigurumi
+Dialogue: 0,0:00:26.09,0:00:26.13,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\iclip(m 965 -8 l 587 66 b 570 63 571 56 565 47 l 549 -43)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 1,0:00:26.09,0:00:26.13,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\iclip(m 965 -8 l 587 66 b 570 63 571 56 565 47 l 549 -43)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 2,0:00:26.09,0:00:26.13,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\iclip(m 965 -8 l 587 66 b 570 63 571 56 565 47 l 549 -43)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 3,0:00:26.09,0:00:26.13,OPSign,nameplates,0,0,0,masked,{\an7\pos(628,77)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\iclip(m 965 -8 l 587 66 b 570 63 571 56 565 47 l 549 -43)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 4,0:00:26.09,0:00:26.13,OPSign,nameplates,0,0,0,masked,{\pos(583,32)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13\iclip(m 965 -8 l 587 66 b 570 63 571 56 565 47 l 549 -43)}Haroukitei
+Dialogue: 4,0:00:26.09,0:00:26.13,OPSign,nameplates,0,0,0,masked,{\pos(697,121)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13}Kigurumi
+Dialogue: 0,0:00:26.13,0:00:27.38,OPSign,nameplates,0,0,0,,{\an7\pos(628,77)\fscx90\fscy159\frz345.9\c&H141814&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 1,0:00:26.13,0:00:27.38,OPSign,nameplates,0,0,0,,{\an7\pos(628,77)\fscx84.5\fscy135.5\frz345.9\c&HF9FEFE&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 2,0:00:26.13,0:00:27.38,OPSign,nameplates,0,0,0,,{\an7\pos(628,77)\fscx80\fscy115\frz345.9\c&H141814&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 3,0:00:26.13,0:00:27.38,OPSign,nameplates,0,0,0,,{\an7\pos(628,77)\fscx78\fscy107\frz345.9\c&HF8FEFE&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 4,0:00:26.13,0:00:27.38,OPSign,nameplates,0,0,0,,{\pos(583,32)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13}Haroukitei
+Dialogue: 4,0:00:26.13,0:00:27.38,OPSign,nameplates,0,0,0,,{\pos(697,121)\frz345.8\fnHanglatter\fs84\c&H101515&\blur1.13}Kigurumi
+Dialogue: 0,0:00:29.21,0:00:29.96,OPSign,nameplates,0,0,0,,{\an7\pos(1484,114)\fscx90\fscy159\frz10.2\c&H0B161C&\blur1.2\iclip(m 1314 253 b 1327 218 1359 192 1405 212 l 1444 142 b 1454 137 1460 128 1492 148 l 1598 204)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 1,0:00:29.21,0:00:29.96,OPSign,nameplates,0,0,0,,{\an7\pos(1484,114)\fscx84.5\fscy135.5\frz10.2\c&HF9FEFE&\blur1.2\iclip(m 1314 253 b 1327 218 1359 192 1405 212 l 1444 142 b 1454 137 1460 128 1492 148 l 1598 204)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 2,0:00:29.21,0:00:29.96,OPSign,nameplates,0,0,0,,{\an7\pos(1484,114)\fscx80\fscy115\frz10.2\c&H0B161C&\blur1.2\iclip(m 1314 253 b 1327 218 1359 192 1405 212 l 1444 142 b 1454 137 1460 128 1492 148 l 1598 204)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 3,0:00:29.21,0:00:29.96,OPSign,nameplates,0,0,0,,{\an7\pos(1484,114)\fscx78\fscy107\frz10.2\c&HF9FEFE&\blur1.2\iclip(m 1314 253 b 1327 218 1359 192 1405 212 l 1444 142 b 1454 137 1460 128 1492 148 l 1598 204)\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 4,0:00:29.21,0:00:29.96,OPSign,nameplates,0,0,0,,{\pos(1450,83)\frz10.2\fnHanglatter\fs84\c&H0D1111&\blur1.13}Kuurubiyuutei
+Dialogue: 4,0:00:29.21,0:00:29.96,OPSign,nameplates,0,0,0,,{\pos(1581,123)\frz10.2\fnHanglatter\fs84\c&H0D1111&\blur1.13\iclip(m 1314 253 b 1327 218 1359 192 1405 212 l 1444 142 b 1454 137 1460 128 1492 148 l 1598 204)}Gankyou
+Dialogue: 0,0:00:31.30,0:00:32.59,OPSign,nameplates,0,0,0,,{\an7\pos(657,89)\fscx90\fscy159\frz342\c&H181B1D&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 1,0:00:31.30,0:00:32.59,OPSign,nameplates,0,0,0,,{\an7\pos(657,89)\fscx84.5\fscy135.5\frz342\c&HFAFFFD&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 2,0:00:31.30,0:00:32.59,OPSign,nameplates,0,0,0,,{\an7\pos(657,89)\fscx80\fscy115\frz342\c&H181B1D&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 3,0:00:31.30,0:00:32.59,OPSign,nameplates,0,0,0,,{\an7\pos(657,89)\fscx78\fscy107\frz342\c&HFAFFFD&\blur1.2\p1}m -252 -69 l 273 -69 273 65 -252 65
+Dialogue: 4,0:00:31.30,0:00:32.59,OPSign,nameplates,0,0,0,,{\pos(619,37)\frz343.2\fnHanglatter\fs84\c&H111414&\blur1.13}Anrakutei
+Dialogue: 4,0:00:31.30,0:00:32.59,OPSign,nameplates,0,0,0,,{\pos(739,138)\frz340.9\fnHanglatter\fs84\c&H111414&\blur1.13}Kukuru
+Dialogue: 0,0:00:26.71,0:00:27.38,OPSign,textbubble,0,0,0,,{\pos(176,734)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:26.71,0:00:27.38,OPSign,textbubble,0,0,0,,{\pos(176,734)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:26.71,0:00:27.38,OPSign,textbubble,0,0,0,,{\pos(179,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Fine.
+Dialogue: 0,0:00:26.71,0:00:27.38,OPSign,textbubble,0,0,0,,{\pos(1728,734)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:26.71,0:00:27.38,OPSign,textbubble,0,0,0,,{\pos(1728,734)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:26.71,0:00:27.38,OPSign,textbubble,0,0,0,,{\pos(1731,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Here goes!
+Dialogue: 0,0:00:29.42,0:00:29.46,OPSign,textbubble,0,0,0,,{\pos(1002,929)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:29.42,0:00:29.46,OPSign,textbubble,0,0,0,,{\pos(1002,929)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:29.42,0:00:29.46,OPSign,textbubble,0,0,0,,{\pos(1002,914)\fnCC Astro City\fs27\c&H000000&\blur0.97}Literally how?
+Dialogue: 0,0:00:29.46,0:00:29.50,OPSign,textbubble,0,0,0,,{\pos(1002,765)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:29.46,0:00:29.50,OPSign,textbubble,0,0,0,,{\pos(1002,765)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:29.46,0:00:29.50,OPSign,textbubble,0,0,0,,{\pos(1002,746)\fnCC Astro City\fs27\c&H000000&\blur0.97}Literally how?
+Dialogue: 0,0:00:29.50,0:00:29.96,OPSign,textbubble,0,0,0,,{\pos(1002,683)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:29.50,0:00:29.96,OPSign,textbubble,0,0,0,,{\pos(1002,683)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:29.50,0:00:29.96,OPSign,textbubble,0,0,0,,{\pos(1002,665)\fnCC Astro City\fs27\c&H000000&\blur0.97}Literally how?
+Dialogue: 0,0:00:29.42,0:00:29.46,OPSign,textbubble,0,0,0,,{\pos(1691,929)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:29.42,0:00:29.46,OPSign,textbubble,0,0,0,,{\pos(1691,929)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:29.42,0:00:29.46,OPSign,textbubble,0,0,0,,{\pos(1694,911)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?
+Dialogue: 0,0:00:29.46,0:00:29.50,OPSign,textbubble,0,0,0,,{\pos(1691,765)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:29.46,0:00:29.50,OPSign,textbubble,0,0,0,,{\pos(1691,765)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:29.46,0:00:29.50,OPSign,textbubble,0,0,0,,{\pos(1694,746)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?
+Dialogue: 0,0:00:29.50,0:00:29.96,OPSign,textbubble,0,0,0,,{\pos(1691,683)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:29.50,0:00:29.96,OPSign,textbubble,0,0,0,,{\pos(1691,683)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:29.50,0:00:29.96,OPSign,textbubble,0,0,0,,{\pos(1694,665)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?
+Dialogue: 0,0:00:31.88,0:00:31.92,OPSign,textbubble,0,0,0,,{\pos(66,1110)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:31.88,0:00:31.92,OPSign,textbubble,0,0,0,,{\pos(66,1110)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:31.88,0:00:31.92,OPSign,textbubble,0,0,0,,{\pos(66,1082)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?!
+Dialogue: 0,0:00:31.92,0:00:31.97,OPSign,textbubble,0,0,0,,{\pos(146,918)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:31.92,0:00:31.97,OPSign,textbubble,0,0,0,,{\pos(146,918)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:31.92,0:00:31.97,OPSign,textbubble,0,0,0,,{\pos(146,900)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?!
+Dialogue: 0,0:00:31.97,0:00:32.01,OPSign,textbubble,0,0,0,,{\pos(168,794)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:31.97,0:00:32.01,OPSign,textbubble,0,0,0,,{\pos(168,794)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:31.97,0:00:32.01,OPSign,textbubble,0,0,0,,{\pos(168,774)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?!
+Dialogue: 0,0:00:32.01,0:00:32.59,OPSign,textbubble,0,0,0,,{\pos(198,734)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:32.01,0:00:32.59,OPSign,textbubble,0,0,0,,{\pos(198,734)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:32.01,0:00:32.59,OPSign,textbubble,0,0,0,,{\pos(197,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Really?!
+Dialogue: 0,0:00:31.88,0:00:31.92,OPSign,textbubble,0,0,0,,{\pos(1842,1110)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:31.88,0:00:31.92,OPSign,textbubble,0,0,0,,{\pos(1842,1110)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:31.88,0:00:31.92,OPSign,textbubble,0,0,0,,{\pos(1848,1082)\fnCC Astro City\fs27\c&H000000&\blur0.97}Whatever \Nyou say.
+Dialogue: 0,0:00:31.92,0:00:31.97,OPSign,textbubble,0,0,0,,{\pos(1793,918)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:31.92,0:00:31.97,OPSign,textbubble,0,0,0,,{\pos(1793,918)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:31.92,0:00:31.97,OPSign,textbubble,0,0,0,,{\pos(1802,900)\fnCC Astro City\fs27\c&H000000&\blur0.97}Whatever \Nyou say.
+Dialogue: 0,0:00:31.97,0:00:32.01,OPSign,textbubble,0,0,0,,{\pos(1757,794)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:31.97,0:00:32.01,OPSign,textbubble,0,0,0,,{\pos(1757,794)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:31.97,0:00:32.01,OPSign,textbubble,0,0,0,,{\pos(1760,774)\fnCC Astro City\fs27\c&H000000&\blur0.97}Whatever \Nyou say.
+Dialogue: 0,0:00:32.01,0:00:32.59,OPSign,textbubble,0,0,0,,{\pos(1728,734)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:32.01,0:00:32.59,OPSign,textbubble,0,0,0,,{\pos(1728,734)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:32.01,0:00:32.59,OPSign,textbubble,0,0,0,,{\pos(1733,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Whatever \Nyou say.
+Dialogue: 0,0:00:59.45,0:01:00.16,OPSign,textbubble,0,0,0,,{\pos(176,734)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:59.45,0:01:00.16,OPSign,textbubble,0,0,0,,{\pos(176,734)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:59.45,0:01:00.16,OPSign,textbubble,0,0,0,,{\pos(177,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Indeed.
+Dialogue: 0,0:00:59.45,0:01:00.16,OPSign,textbubble,0,0,0,,{\pos(1728,734)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:00:59.45,0:01:00.16,OPSign,textbubble,0,0,0,,{\pos(1728,734)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:00:59.45,0:01:00.16,OPSign,textbubble,0,0,0,,{\pos(1733,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Yup! Yup!
+Dialogue: 0,0:01:02.38,0:01:02.75,OPSign,textbubble,0,0,0,,{\pos(182,642)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:01:02.38,0:01:02.75,OPSign,textbubble,0,0,0,,{\pos(182,642)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:01:02.38,0:01:02.75,OPSign,textbubble,0,0,0,,{\pos(185,621)\fnCC Astro City\fs27\c&H000000&\blur0.97}Yeah!
+Dialogue: 0,0:01:02.38,0:01:02.75,OPSign,textbubble,0,0,0,,{\pos(1728,642)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:01:02.38,0:01:02.75,OPSign,textbubble,0,0,0,,{\pos(1728,642)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:01:02.38,0:01:02.75,OPSign,textbubble,0,0,0,,{\pos(1733,621)\fnCC Astro City\fs27\c&H000000&\blur0.97}Hurrah!
+Dialogue: 0,0:01:09.50,0:01:10.21,OPSign,textbubble,0,0,0,,{\pos(176,734)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:01:09.50,0:01:10.21,OPSign,textbubble,0,0,0,,{\pos(176,734)\fry180\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:01:09.50,0:01:10.21,OPSign,textbubble,0,0,0,,{\pos(177,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Indeed.
+Dialogue: 0,0:01:09.50,0:01:10.21,OPSign,textbubble,0,0,0,,{\pos(1728,734)\fnsolid-speech-bubbles-paul-tos\fs300\bord3\xshad0.015\c&H000000&\1a&HFE&\3a&HFE&\blur1.05}A
+Dialogue: 1,0:01:09.50,0:01:10.21,OPSign,textbubble,0,0,0,,{\pos(1728,734)\fnsolid-speech-bubbles-paul-tos\fs300\4a&HFF&\blur1.05}A
+Dialogue: 2,0:01:09.50,0:01:10.21,OPSign,textbubble,0,0,0,,{\pos(1733,714)\fnCC Astro City\fs27\c&H000000&\blur0.97}Show 'em!
 Dialogue: 7,0:00:00.52,0:00:02.73,OP1,eng,0,0,0,fx,{\blur0.75\an5\pos(67.54,1003.00)\fry-80\t(0,200,\fry0)\t(1810,2210,\fry270)}T
 Dialogue: 6,0:00:00.52,0:00:02.73,OP1,eng,0,0,0,fx,{\bord1.2\1a&H80&\3c&H000000&\blur2\an5\pos(67.54,1003.00)\fry-80\t(0,200,\fry0)\t(1810,2210,\fry270)}T
 Dialogue: 5,0:00:00.52,0:00:02.73,OP1,eng,0,0,0,fx,{\bord3.6\1a&H80&\blur4\an5\pos(67.54,1003.00)\fry-80\t(0,200,\fry0)\t(1810,2210,\fry270)}T
