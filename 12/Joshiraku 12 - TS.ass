@@ -439,7 +439,7 @@ Dialogue: 0,0:01:29.99,0:01:33.20,Sign,,0,0,0,,{\an7\pos(-492,-264)\fnGaramond P
 Dialogue: 0,0:01:29.99,0:01:33.20,Sign,,0,0,0,,{\an7\pos(-492,-264)\fnGaramond Premr Pro Smbd Capt\1c&HA2E1F1&\p1}m 1605 831 b 1602 828 1599 830 1596 829 1594 828 1591 833 1590 827 1590 824 1587 828 1585 828 1583 829 1581 834 1578 831 1576 829 1576 822 1578 820 1581 817 1580 816 1577 813 1589 816 1600 817 1610 815 1613 814 1616 817 1619 813 1624 814 1630 814 1636 814 1645 816 1653 823 1658 830 1660 833 1659 838 1655 837 1649 835 1642 837 1637 834 1631 831 1625 835 1620 835 1613 836 1610 833 1605 831
 Dialogue: 0,0:01:29.99,0:01:33.20,Sign,,0,0,0,,{\an7\pos(-492,-264)\fnGaramond Premr Pro Smbd Capt\1c&H8DD8EA&\p1}m 1954 701 b 1954 701 1952 701 1953 699 1953 699 1954 698 1954 699 1955 699 1955 699 1955 700 1956 701 1955 701 1954 701
 Dialogue: 0,0:01:29.99,0:01:33.20,Sign,,0,504,0,,{\pos(957,513)\fscx196\fscy193\frz10\fax0.06\fnGentium\fs83\b1\c&H30464C&\blur1.5}Happy New Year
-Dialogue: 1,0:15:47.89,0:15:50.85,Sign,,0,0,0,,{\pos(950,480)\fax0.15\fn123Marker\b1\c&H1B2023&\blur1.2}T{\fax0.16}o {\fax0.17}s{\fax0.18}av{\fax0.19}e{\fax0.2} e{\fax0.21}l{\fax0.22}ec{\fax0.23}tr{\fax0.24}i{\fax0.25}ci{\fax0.26}t{\fax0.27}y,{\fax0.28}{TS: These lines look neither centered with each other nor to the paper. To center with the paper, the lines should be shifted slightly to the left.}{I am not sure exactly but I pushed the text a bit to left}
+Dialogue: 1,0:15:47.89,0:15:50.85,Sign,,0,0,0,,{\pos(950,480)\fax0.15\fn123Marker\b1\c&H1B2023&\blur1.2}T{\fax0.16}o {\fax0.17}s{\fax0.18}av{\fax0.19}e{\fax0.2} e{\fax0.21}l{\fax0.22}ec{\fax0.23}tr{\fax0.24}i{\fax0.25}ci{\fax0.26}t{\fax0.27}y,{\fax0.28}
 Dialogue: 1,0:15:47.89,0:15:50.85,Sign,,0,0,0,,{\pos(948,552)\fax0.15\fn123Marker\b1\c&H1B2023&\blur1.2}w{\fax0.16}e{\fax0.17}'{\fax0.18}r{\fax0.19}e{\fax0.2} {\fax0.21}d{\fax0.22}re{\fax0.23}s{\fax0.24}s{\fax0.25}i{\fax0.26}n{\fax0.27}g{\fax0.28}
 Dialogue: 1,0:15:47.89,0:15:50.85,Sign,,0,0,0,,{\pos(963,624)\fax0.15\fn123Marker\b1\c&H1B2023&\blur1.2}i{\fax0.16}n {\fax0.17}ac{\fax0.18}c{\fax0.19}or{\fax0.2}da{\fax0.21}n{\fax0.22}ce{\fax0.23} w{\fax0.24}it{\fax0.25}h{\fax0.26} t{\fax0.27}he{\fax0.28}
 Dialogue: 1,0:15:47.89,0:15:50.85,Sign,,0,0,0,,{\pos(966,696)\fax0.15\fn123Marker\b1\c&H1B2023&\blur1.2}"{\fax0.16}Co{\fax0.17}ol{\fax0.18} {\fax0.19}Bi{\fax0.2}z{\fax0.21}" {\fax0.22}in{\fax0.23}i{\fax0.24}ti{\fax0.25}a{\fax0.26}ti{\fax0.27}ve{\fax0.28}.
@@ -984,20 +984,20 @@ Dialogue: 0,0:15:47.89,0:15:50.85,Sign,AI Sign,0,0,0,,{\an7\pos(-482,-271)\fnGar
 Dialogue: 0,0:15:47.89,0:15:50.85,Sign,AI Sign,0,0,0,,{\an7\pos(-482,-271)\fnGaramond Premr Pro Smbd Capt\1c&HBAC1C7&\p1}m 1351 937 b 1351 936 1352 935 1352 935 1353 935 1354 936 1354 937 1354 938 1353 938 1353 939 1352 938 1352 938 1351 937
 Dialogue: 0,0:15:47.89,0:15:50.85,Sign,AI Sign,0,0,0,,{\an7\pos(-482,-271)\fnGaramond Premr Pro Smbd Capt\1c&H858B90&\p1}m 1475 510 b 1473 508 1469 506 1475 504 1475 506 1475 508 1475 510
 Dialogue: 0,0:15:47.89,0:15:50.85,Sign,AI Sign,0,0,0,,{\an7\pos(-482,-271)\fnGaramond Premr Pro Smbd Capt\1c&H959BA0&\p1}m 1445 654 b 1445 652 1444 650 1446 648 1447 651 1446 653 1445 654
-Comment: 0,0:06:07.47,0:06:08.05,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:06:08.05,0:06:12.26,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:06:13.72,0:06:21.94,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:06:26.94,0:06:29.95,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:06:30.41,0:06:43.96,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:06:45.59,0:06:49.01,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:06:57.60,0:06:58.02,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:07:03.02,0:07:05.94,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:07:13.82,0:07:20.54,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:07:20.54,0:07:25.42,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:07:25.42,0:07:33.14,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:07:33.93,0:07:37.39,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:07:39.77,0:07:40.35,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:07:53.95,0:07:58.66,Sign,TS.ms,0,0,0,,Happy New Year{TS.ms: Missing sign: 賀正}
-Comment: 0,0:19:17.42,0:19:20.76,Sign,TS.ms,0,0,0,,Clockwise{TS.ms: Missing sign. 時計回り}
-Comment: 0,0:19:17.63,0:19:26.31,Sign,TS.ms,0,0,0,,Special price on tombstones{TS.ms: Missing sign. 墓石特価}
-Comment: 0,0:19:18.92,0:19:26.31,Sign,TS.ms,0,0,0,,Turn back if you value your life{TS.ms: Missing sign. 命がほしくば / 今、来た道を / もどるべし}
+Comment: 0,0:06:07.47,0:06:08.05,Sign,,0,0,0,,Happy New Year{賀正}
+Comment: 0,0:06:08.05,0:06:12.26,Sign,,0,0,0,,Happy New Year
+Comment: 0,0:06:13.72,0:06:21.94,Sign,,0,0,0,,Happy New Year
+Comment: 0,0:06:26.94,0:06:29.95,Sign,,0,0,0,,Happy New Year
+Comment: 0,0:06:30.41,0:06:43.96,Sign,,0,0,0,,Happy New Year
+Comment: 0,0:06:45.59,0:06:49.01,Sign,,0,0,0,,Happy New Year
+Comment: 0,0:06:57.60,0:06:58.02,Sign,,0,0,0,,Happy New Year
+Comment: 0,0:07:03.02,0:07:05.94,Sign,,0,0,0,,Happy New Year
+Comment: 0,0:07:13.82,0:07:20.54,Sign,,0,0,0,,Happy New Year
+Comment: 0,0:07:20.54,0:07:25.42,Sign,,0,0,0,,Happy New Year
+Comment: 0,0:07:25.42,0:07:33.14,Sign,,0,0,0,,Happy New Year
+Comment: 0,0:07:33.93,0:07:37.39,Sign,,0,0,0,,Happy New Year
+Comment: 0,0:07:39.77,0:07:40.35,Sign,,0,0,0,,Happy New Year
+Comment: 0,0:07:53.95,0:07:58.66,Sign,,0,0,0,,Happy New Year
+Comment: 0,0:19:17.42,0:19:20.76,Sign,,0,0,0,,Clockwise{時計回り}
+Comment: 0,0:19:17.63,0:19:26.31,Sign,,0,0,0,,Special price on tombstones{墓石特価}
+Comment: 0,0:19:18.92,0:19:26.31,Sign,,0,0,0,,Turn back if you value your life{命がほしくば / 今、来た道を / もどるべし}

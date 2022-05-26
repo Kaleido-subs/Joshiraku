@@ -226,11 +226,11 @@ Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(871,245)\frz-3.88\fnKozuka 
 Dialogue: 1,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\pos(557,299)\frz359.4\fnLato\fs27\c&H242A2B&\blur1.35}Dry-T-Zone Morphin' Skin Arrangers
 Dialogue: 0,0:19:01.57,0:19:02.91,Sign,,0,0,0,,{\an7\pos(0,-765)\fnGaramond Premr Pro Smbd Capt\c&HDDE3E7&\p1}m 220.5 907.5 l 874.5 907.5 874.5 1170 220.5 1170
 Dialogue: 1,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(970,885)\fnGrain\c&H0A0A0A&\1a&H80&\blur3\fs}AHDHODHODBNHD\NSGONSDOGSDNG
-Comment: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\fnMachine Gunk\frx12\fry0\c&H0311C2&\blur3\fs72}Skin Arrangers \NDry-T-Zone Morphin'
-Comment: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\fnMachine Gunk\frx12\fry0\c&H3030E4&\blur3\fs72}Skin Arrangers \NDry-T-Zone Morphin'
-Comment: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\fnMachine Gunk\frx12\fry0\c&H0D0E96&\blur3\fs72}Skin Arrangers \NDry-T-Zone Morphin'
-Comment: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\fnMachine Gunk\frx12\fry0\c&HFFFFFF&\1a&HFF&\bord4.5\3c&H0BEAFF&\blur2\fs72}Skin Arrangers \NDry-T-Zone Morphin'
-Comment: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\fnMachine Gunk\frx12\fry0\c&HFFFFFF&\1a&HFF&\bord4.5\3c&H0661FF&\blur2\fs72}Skin Arrangers \NDry-T-Zone Morphin'
+Comment: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\fnMachine Gunk\frx12\fry0\c&H0311C2&\blur3}Skin Arrangers \NDry-T-Zone Morphin'
+Comment: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\fnMachine Gunk\frx12\fry0\c&H3030E4&\blur3}Skin Arrangers \NDry-T-Zone Morphin'
+Comment: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\fnMachine Gunk\frx12\fry0\c&H0D0E96&\blur3}Skin Arrangers \NDry-T-Zone Morphin'
+Comment: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\fnMachine Gunk\frx12\fry0\c&HFFFFFF&\1a&HFF&\bord4.5\3c&H0BEAFF&\blur2}Skin Arrangers \NDry-T-Zone Morphin'
+Comment: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\fnMachine Gunk\frx12\fry0\c&HFFFFFF&\1a&HFF&\bord4.5\3c&H0661FF&\blur2}Skin Arrangers \NDry-T-Zone Morphin'
 Dialogue: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\frx12\fnMachine Gunk\c&H0412C3&\blur3\clip(659,806,1256,807)}Skin Arrangers \NDry-T-Zone Morphin'
 Dialogue: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\frx12\fnMachine Gunk\c&H0512C4&\blur3\clip(659,807,1256,809)}Skin Arrangers \NDry-T-Zone Morphin'
 Dialogue: 0,0:19:03.70,0:19:06.16,Sign,,0,0,0,,{\pos(960,870)\frx12\fnMachine Gunk\c&H0613C4&\blur3\clip(659,809,1256,810)}Skin Arrangers \NDry-T-Zone Morphin'

@@ -1100,7 +1100,7 @@ Dialogue: 0,0:07:35.98,0:07:37.81,Sign,,0,0,0,,{\pos(968.583,60.321)\frz13\fry-4
 Dialogue: 0,0:07:37.81,0:07:39.40,Sign,,0,0,0,,{\fnGaramond Premr Pro Smbd Capt\c&HEBF2F6&\blur1.5\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:07:37.81,0:07:39.40,Sign,,0,0,0,,{\fnGentium Basic\fs216\c&H060C10&\blur1.5\q2}“Hot spring”
 Dialogue: 0,0:07:39.65,0:07:42.23,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEFEEF0&\blur1.5\p1}m 1449 80 l 1875 63 1860 638 1689 614 1659 398 1479 392
-Dialogue: 1,0:07:39.65,0:07:42.23,Sign,,0,0,0,,{\kf40}{\an4\pos(1418.001,206)\fs96\c&H151515&\2a&HFF&\blur1.27}Ah{\kf66}{\fscx800}~{\kf4}{\fscx100\fs72}\N\N{\kf55}That hits the spot!{\kf93}
+Dialogue: 1,0:07:39.65,0:07:42.23,Sign,,0,0,0,,{\kf40}{\an4\pos(1418.001,206)\fs96\c&H151515&\2a&HFF&\blur1.27}Ah{\kf66}{\fscx800}~{\kf4}{\fscx100}\N\N{\kf55}That hits the spot!{\kf93}
 Dialogue: 0,0:07:42.48,0:07:44.11,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEFEFEF&\blur1.5\p1}m 140 794 l 60 735 44 132 312 92 315 345 182 741
 Dialogue: 1,0:07:42.48,0:07:44.11,Sign,,0,0,0,,{\kf0}{\kf43}{\pos(162,363.999)\fs96\c&H151515&\2a&HFF&\blur1.27}I'm glad \N{\kf19}we \N{\kf23}went.{\kf78}
 Dialogue: 0,0:07:44.32,0:07:45.86,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEFEFEF&\blur1.5\p1}m 1260 549 l 1442 366 1499 267 1482 101 1223 98 1170 341

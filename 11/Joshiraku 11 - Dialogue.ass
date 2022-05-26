@@ -338,7 +338,7 @@ Dialogue: 10,0:15:43.80,0:15:45.97,Default,,0,0,0,,This is useless once Christma
 Dialogue: 10,0:15:45.97,0:15:46.80,Default,,0,0,0,,Aw...
 Dialogue: 10,0:15:47.68,0:15:48.80,Default,,0,0,0,,Sweet chestnuts.
 Dialogue: 10,0:15:48.80,0:15:50.14,Default,,0,0,0,,Ah, they're from me!
-Dialogue: 10,0:15:50.43,0:15:52.93,Default,,0,0,0,,"Christmas" and "chestnut" both start with "ch".{Might wanna meme here? idk last word is too short}{## Already done with the TS}
+Dialogue: 10,0:15:50.43,0:15:52.93,Default,,0,0,0,,"Christmas" and "chestnut" both start with "ch".
 Dialogue: 10,0:15:52.93,0:15:54.22,Default,,0,0,0,,What about the rest?!
 Dialogue: 10,0:15:54.22,0:15:57.90,Default,,0,0,0,,{\q2}Nice idea, but somehow I'm struggling \Nto be pleased with this.
 Dialogue: 10,0:15:57.90,0:15:59.86,Default,,0,0,0,,There was a 1000 yen limit...
@@ -390,7 +390,7 @@ Dialogue: 10,0:17:59.39,0:18:01.10,Default,,0,0,0,,Time for our Christmas party!
 Dialogue: 10,0:18:01.10,0:18:03.98,Default,,0,0,0,,Party?! Like this? Are you being serious right now?
 Dialogue: 10,0:18:03.98,0:18:05.86,Default,,0,0,0,,Agh, these branches are so annoying!
 Dialogue: 10,0:18:03.98,0:18:05.86,Default,,0,0,0,,{\an8\q2}Are you listening to me? You forgot to say \N"I'm so sorry everyone"! Say it! I wanna hear you say it!
-Dialogue: 10,0:18:06.73,0:18:07.90,Default,,0,0,0,,It's pitch black!{I can't really make it out}
+Dialogue: 10,0:18:06.73,0:18:07.90,Default,,0,0,0,,It's pitch black!
 Dialogue: 10,0:18:08.53,0:18:10.28,Default,,0,0,0,,Starless and Bible black...
 Dialogue: 10,0:18:10.28,0:18:13.24,Default,,0,0,0,,Darkness, surrounded by branches.
 Dialogue: 10,0:18:13.24,0:18:15.16,Default,,0,0,0,,What on Earth are we gonna do?

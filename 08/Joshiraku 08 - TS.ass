@@ -351,15 +351,15 @@ Dialogue: 0,0:14:32.35,0:14:33.56,Sign,,0,0,0,,{\an7\pos(1388,641)\fnGaramond Pr
 Dialogue: 0,0:14:32.35,0:14:33.56,Sign,,0,0,0,,{\an7\pos(1388,641)\fnGaramond Premr Pro Smbd Capt\c&H98B6C5&\blur1.5\clip(1340,692,1436,693)\p1}m -34 -78 l 17 -81 23 45 -22 51 -22 -33
 Dialogue: 0,0:14:32.35,0:14:33.56,Sign,,0,0,0,,{\an7\pos(1388,641)\fnGaramond Premr Pro Smbd Capt\c&H98B6C5&\blur1.5\clip(1340,693,1436,695)\p1}m -34 -78 l 17 -81 23 45 -22 51 -22 -33
 Dialogue: 0,0:14:32.35,0:14:33.56,Sign,,0,0,0,,{\an7\pos(1388,641)\fnGaramond Premr Pro Smbd Capt\c&H97B6C5&\blur1.5\clip(1340,695,1436,696)\p1}m -34 -78 l 17 -81 23 45 -22 51 -22 -33
-Dialogue: 1,0:14:32.35,0:14:33.56,Sign,,0,0,0,,{\pos(1388,654)\frz1.2\fnSylfaen\fs25.5\c&H6C7480&\alpha&HB0&\blur7.5}Compendium \Nof Law {## I've gotta think of a not-shit edit for this}{TLC: This is the Compendium of Laws containing the Six Codes: https://en.wikipedia.org/wiki/Six_Codes https://jisho.org/search/%E5%85%AD%E6%B3%95%E5%85%A8%E6%9B%B8}
-Dialogue: 2,0:14:32.35,0:14:33.56,Sign,,0,0,0,,{\pos(1388,654)\frz1.2\fnSylfaen\fs25.5\c&H1B1D21&\blur1.5}Compendium \Nof Law
+Dialogue: 1,0:14:32.35,0:14:33.56,Sign,,0,0,0,,{\pos(1388,654)\frz1.2\fnSylfaen\fs25.5\c&H6C7480&\alpha&HB0&\blur7.5}Compendium \Nof Laws
+Dialogue: 2,0:14:32.35,0:14:33.56,Sign,,0,0,0,,{\pos(1388,654)\frz1.2\fnSylfaen\fs25.5\c&H1B1D21&\blur1.5}Compendium \Nof Laws
 Dialogue: 1,0:14:52.25,0:14:54.21,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\blur6\p1}m 857 308 l 857 407 1307 221 b 1320 213 1322 192 1322 182 l 1319 149 b 1319 135 1310 117 1293 125 l 900 276 875 290
 Dialogue: 2,0:14:52.25,0:14:54.21,Sign,,0,0,0,,{\an7\pos(1233,278)\fscx30\fscy20\fnGaramond Premr Pro Smbd Capt\c&HFCFCE9&\blur15\p1}m -150 -150 b -67 -232 68 -232 150 -150 233 -67 233 68 150 150 69 233 -67 233 -150 150 -232 68 -232 -67 -150 -150
 Dialogue: 3,0:14:52.25,0:14:54.21,Sign,,0,0,0,,{\pos(1104,251)\frz23.81\fax-0.45\fnNyala\b0\c&H34311B&\alpha&HC0&\blur10.5}T{\fs71.91}u{\fs71.82}r{\fs71.73}t{\fs71.64}l{\fs71.56}e{\fs71.47} {\fs71.39}a{\fs71.3}n{\fs71.2}d{\fs71.11} {\fs71.03}G{\fs70.94}i{\fs70.86}n{\fs70.77}s{\fs70.68}e{\fs70.59}n{\fs70.5}g
 Dialogue: 4,0:14:52.25,0:14:54.21,Sign,,0,0,0,,{\pos(1104,251)\frz23.81\fax-0.45\fnNyala\b0\c&H34311B&\blur1.35}T{\fs71.91}u{\fs71.82}r{\fs71.73}t{\fs71.64}l{\fs71.56}e{\fs71.47} {\fs71.39}a{\fs71.3}n{\fs71.2}d{\fs71.11} {\fs71.03}G{\fs70.94}i{\fs70.86}n{\fs70.77}s{\fs70.68}e{\fs70.59}n{\fs70.5}g
 Dialogue: 1,0:14:52.25,0:14:54.21,Sign,,0,0,0,,{\an7\pos(1133,725)\fnGaramond Premr Pro Smbd Capt\c&H327909&\blur4.5\p1}m -144 2 l -139 -72 -127 -94 -105 -117 66 -204 108 -198 104 -115 92 -106 41 -73 -133 12
 Dialogue: 2,0:14:52.25,0:14:54.21,Sign,,0,0,0,,{\pos(1136,614)\frz26.2\fax-0.53\fnNyala\fs90\b0\c&HEDF4C4&\alpha&HA0&\blur10.5}Mukian
-Dialogue: 3,0:14:52.25,0:14:54.21,Sign,,0,0,0,,{\pos(1136,614)\frz26.2\fax-0.53\fnNyala\fs90\b0\c&HEDF4C4&\blur1.35}Mukian{the bottom sign reads the same (無機庵), I don't see a reason to TS it}
+Dialogue: 3,0:14:52.25,0:14:54.21,Sign,,0,0,0,,{\pos(1136,614)\frz26.2\fax-0.53\fnNyala\fs90\b0\c&HEDF4C4&\blur1.35}Mukian
 Dialogue: 0,0:15:47.72,0:15:51.43,Sign,,0,0,0,,{\pos(684,647)\fnAgeo Personal Use Heavy\fs36\fsp4.5\c&H313330&\blur4.5}Jizodori Shopping Street
 Dialogue: 1,0:15:47.72,0:15:51.43,Sign,,0,0,0,,{\pos(682,644)\fnAgeo Personal Use Heavy\fs36\fsp4.5\c&H313330&\blur1.5}Jizodori Shopping Street
 Dialogue: 2,0:15:47.72,0:15:51.43,Sign,,0,0,0,,{\pos(680,642)\fnAgeo Personal Use Heavy\fs36\fsp4.5\bord0.75\c&H3821E4&\3c&H3821E4&\blur3.75}Jizodori Shopping Street

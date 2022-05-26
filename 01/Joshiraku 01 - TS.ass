@@ -365,11 +365,11 @@ Dialogue: 0,0:16:33.01,0:16:33.88,Sign,,0,0,0,,{\pos(703.5,537.45)\fnGaramond Pr
 Dialogue: 1,0:16:33.01,0:16:33.88,Sign,,0,0,0,,{\pos(702,535.95)\fnGaramond Premr Pro Smbd Capt\fs48\b600\bord2.1\shad0.015\xshad2.1\yshad3\4c&HFFFFFF&\1a&HFE&\3a&HFE&\4a&HB4&\blur1.5}Scaredy-Cat
 Dialogue: 2,0:16:33.01,0:16:33.88,Sign,,0,0,0,,{\pos(703.5,537.45)\fnGaramond Premr Pro Smbd Capt\fs48\b600\shad0.015\4c&H0C1521&\1a&HFE&\4a&H28&\blur1.13}Scaredy-Cat
 Dialogue: 2,0:16:33.01,0:16:33.88,Sign,,0,0,0,,{\pos(703.5,537.45)\fnGaramond Premr Pro Smbd Capt\fs48\b600\shad0.015\4c&H0C1521&\1a&HFE&\4a&H28&\blur1.13}Scaredy-Cat
-Comment: 0,0:06:50.18,0:06:55.18,Sign,,0,0,0,,{\an7\pos(986,110)\p1\fnGaramond Premr Pro Smbd Capt\c&HA39CB7&\fs72}m -698 -108 l 692 -108 692 120 -698 120
-Comment: 0,0:06:50.18,0:06:55.18,Sign,,0,0,0,,{\an7\pos(986,110)\p1\fnGaramond Premr Pro Smbd Capt\c&HA29AB7&\fs72}m -698 -108 l 692 -108 692 120 -698 120
-Comment: 0,0:06:50.18,0:06:55.18,Sign,,0,0,0,,{\an7\pos(986,110)\p1\fnGaramond Premr Pro Smbd Capt\c&HDDDBF0&\fs72}m -698 -108 l 692 -108 692 120 -698 120
-Comment: 0,0:06:50.18,0:06:55.18,Sign,,0,0,0,,{\an7\pos(986,110)\p1\fnGaramond Premr Pro Smbd Capt\c&HA29AB7&\fs72}m -698 -108 l 692 -108 692 120 -698 120
-Comment: 0,0:06:50.18,0:06:55.18,Sign,,0,0,0,,{\an7\pos(986,110)\p1\fnGaramond Premr Pro Smbd Capt\c&HA39CB7&\fs72}m -698 -108 l 692 -108 692 120 -698 120
+Comment: 0,0:06:50.18,0:06:55.18,Sign,,0,0,0,,{\an7\pos(986,110)\p1\fnGaramond Premr Pro Smbd Capt\c&HA39CB7&}m -698 -108 l 692 -108 692 120 -698 120
+Comment: 0,0:06:50.18,0:06:55.18,Sign,,0,0,0,,{\an7\pos(986,110)\p1\fnGaramond Premr Pro Smbd Capt\c&HA29AB7&}m -698 -108 l 692 -108 692 120 -698 120
+Comment: 0,0:06:50.18,0:06:55.18,Sign,,0,0,0,,{\an7\pos(986,110)\p1\fnGaramond Premr Pro Smbd Capt\c&HDDDBF0&}m -698 -108 l 692 -108 692 120 -698 120
+Comment: 0,0:06:50.18,0:06:55.18,Sign,,0,0,0,,{\an7\pos(986,110)\p1\fnGaramond Premr Pro Smbd Capt\c&HA29AB7&}m -698 -108 l 692 -108 692 120 -698 120
+Comment: 0,0:06:50.18,0:06:55.18,Sign,,0,0,0,,{\an7\pos(986,110)\p1\fnGaramond Premr Pro Smbd Capt\c&HA39CB7&}m -698 -108 l 692 -108 692 120 -698 120
 Dialogue: 0,0:06:50.18,0:06:50.22,Sign,,0,0,0,,{\an7\pos(986,110)\fnGaramond Premr Pro Smbd Capt\b1\c&HA39CB7&\blur2\clip(284,-1,289,233)\p1}m -698 -108 l 692 -108 692 120 -698 120
 Dialogue: 0,0:06:50.22,0:06:50.26,Sign,,0,0,0,,{\an7\pos(947.51,110)\fnGaramond Premr Pro Smbd Capt\b1\c&HA39CB7&\blur2\clip(245.51,-1,250.51,233)\p1}m -698 -108 l 692 -108 692 120 -698 120
 Dialogue: 0,0:06:50.26,0:06:50.30,Sign,,0,0,0,,{\an7\pos(906.93,110)\fnGaramond Premr Pro Smbd Capt\b1\c&HA39CB7&\blur2\clip(204.93,-1,209.93,233)\p1}m -698 -108 l 692 -108 692 120 -698 120

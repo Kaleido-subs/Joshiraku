@@ -615,6 +615,3 @@ Dialogue: 10,0:23:54.58,0:23:57.92,Default,,0,0,0,,Better to stay indoors and st
 Dialogue: 10,0:23:58.21,0:24:01.21,Default,,0,0,0,,Winter is the season of hibernation.
 Dialogue: 10,0:24:01.54,0:24:03.96,Default,,0,0,0,,Rakugo Girls episode 8 includes:
 Dialogue: 10,0:24:04.30,0:24:09.22,Default,,0,0,0,,"Bag of Gold", "Unsteady", and "Is It Over Yet?"
-
-[Aegisub Extradata]
-Data: 0,a-mo,e{"uuid"#3A"aa078675-41cc-41de-82d7-cd7c759f7791"#2C"originalText"#3A"{\\pos(642.72#2C681.64)}We've all been infected! {TO-DO(?)#3A track to actual movement rather than random}{ST#3A Yes. It's distracting and hard to read otherwise.}{#23#23 I can't get this to track nicely#2C since I can't into mocha. @gsk?}"}
