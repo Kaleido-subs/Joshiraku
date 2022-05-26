@@ -203,6 +203,21 @@ subs {
             }
         }
 
+        val alt_track by task<Merge> {
+            from(get("ncsubs_alt"))
+
+            includeExtraData(false)
+            includeProjectGarbage(false)
+
+            scriptInfo {
+                title = get("group_alt_new").get()
+                originalScript = get("group_alt_old").get()
+                updatedBy = get("group").get()
+                updateDetails = get("alt_updated_details").get()
+                scaledBorderAndShadow = true
+            }
+        }
+
         chapters {
             from(cleanmerge.item())
             chapterMarker("ncchapter")
@@ -234,7 +249,18 @@ subs {
                 }
             }
 
-            // chapters(chapters.item()) { lang("eng") }
+            // Alt gg track
+            from(alt_track.item()) {
+                tracks {
+                    lang("eng")
+                    name(get("group_alt"))
+                    default(false)
+                    forced(false)
+                    compression(CompressionType.ZLIB)
+                }
+            }
+
+            chapters(chapters.item()) { lang("eng") }
 
             skipUnusedFonts(true)
 
@@ -243,7 +269,11 @@ subs {
             }
 
             attach(get("fonts")) {
-                includeExtensions("ttf", "otf")
+                includeExtensions("ttf", "otf", "ttc")
+            }
+
+            attach(get("fonts_alt")) {
+                includeExtensions("ttf", "otf", "ttc")
             }
 
             out(get("muxout"))
