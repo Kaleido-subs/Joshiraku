@@ -1106,12 +1106,13 @@ Dialogue: 0,0:07:35.98,0:07:37.81,Sign,,0,0,0,,{\pos(968.583,60.321)\frz13\fry-4
 Dialogue: 0,0:07:37.81,0:07:39.40,Sign,,0,0,0,,{\fnGaramond Premr Pro Smbd Capt\c&HEBF2F6&\blur1.5\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:07:37.81,0:07:39.40,Sign,,0,0,0,,{\fnGentium Basic\fs216\c&H060C10&\blur1.5\q2}“Hot spring”
 Dialogue: 0,0:07:39.65,0:07:42.23,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEFEEF0&\blur1.5\p1}m 1449 80 l 1875 63 1860 638 1689 614 1659 398 1479 392
-Dialogue: 1,0:07:39.65,0:07:42.23,Sign,,0,0,0,,{\kf40}{\an4\pos(1418.001,206)\fs96\c&H151515&\2a&HFF&\blur1.27}Ah{\kf66}{\fscx800}~{\kf4}{\fscx100}\N\N{\kf55}That hits the spot!{\kf93}
+Dialogue: 1,0:07:39.65,0:07:42.23,Sign,,0,0,0,,{\kf40}{\an4\pos(1418.001,206)\fs96\c&H151515&\2a&HFF&\blur1.27}Ah{\kf66}{\fscx800}~{\kf4}{\fscx100\fs72}\N\N{\kf55}That hits the spot!{\kf93}
 Dialogue: 0,0:07:42.48,0:07:44.11,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEFEFEF&\blur1.5\p1}m 140 794 l 60 735 44 132 312 92 315 345 182 741
 Dialogue: 1,0:07:42.48,0:07:44.11,Sign,,0,0,0,,{\kf0}{\kf43}{\pos(162,363.999)\fs96\c&H151515&\2a&HFF&\blur1.27}I'm glad \N{\kf19}we \N{\kf23}went.{\kf78}
 Dialogue: 0,0:07:44.32,0:07:45.86,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEFEFEF&\blur1.5\p1}m 1260 549 l 1442 366 1499 267 1482 101 1223 98 1170 341
 Dialogue: 1,0:07:44.32,0:07:45.86,Sign,,0,0,0,,{\kf58}{\pos(1341,255.999)\fs96\c&H151515&\2a&HFF&\blur1.27}We're in \N{\kf38}heaven.{\kf58}
 Dialogue: 0,0:07:46.03,0:07:47.95,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEFEFEF&\blur1.5\p1}m 708 624 l 761 617 816 440 809 236 747 99 681 93 624 257 647 489
+Dialogue: 1,0:07:46.03,0:07:47.95,Sign,,0,0,0,,{\pos(750.67,353)\clip(m 712 52 b 750 58 774 98 788 122 816 174 825 230 830 270 836 300 838 359 837 388 834 418 833 458 822 513 l 808 561 817 570 797 583 770 626 b 753 637 727 644 702 630 672 599 635 530 625 468 614 440 593 342 616 260 624 157 667 74 691 56)\kf0}{\kf22}{\fnFOT-ManyoKoin Std B vL2\c&H151515&\2c&H151515&\2a&HFF&\blur1.25}Hehehehe\N{\kf26}hehehehehe\N{\kf21}hehehehehe\N{\kf26}hehehehehe\N{\kf24}hehehehehe\N{\kf26}hehehehehe\N{\kf21}hehehehehe\N{\kf26}hehehehehe
 Dialogue: 0,0:07:50.74,0:07:55.62,Sign,,0,0,0,,{\an7\pos(3,1.5)\fnGaramond Premr Pro Smbd Capt\c&HE8EDF1&\blur1.5\p1}m 735 320 l 762 300 770 273 759 231 717 236 696 267 705 306
 Dialogue: 1,0:07:50.74,0:07:55.62,Sign,,0,0,0,,{\pos(736.851,278.76)\fry10\fnBabe Bamboo\fs30\c&H2F2623&\blur1.35}Intro
 Dialogue: 0,0:07:55.62,0:07:55.74,Sign,,0,0,0,,{\an7\pos(-1.5,-10.5)\fnGaramond Premr Pro Smbd Capt\c&HE8EDF1&\blur1.5\p1}m 735 320 l 762 300 770 273 759 231 717 236 696 267 705 306
@@ -1186,31 +1187,29 @@ Dialogue: 0,0:08:06.63,0:08:06.67,Sign,,0,0,0,,{\an7\pos(0,26.16)\fnGaramond Pre
 Dialogue: 1,0:08:06.63,0:08:06.67,Sign,,0,0,0,,{\pos(987.78,-28.44)\frz357.7\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
 Dialogue: 0,0:08:06.67,0:08:06.71,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HE8EEF4&\blur1.5\p1}m 687 197 l 1269 242 1302 -30 675 -33
 Dialogue: 1,0:08:06.67,0:08:06.71,Sign,,0,0,0,,{\pos(987.78,-54.6)\frz357.7\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
-Dialogue: 1,0:08:06.71,0:08:06.76,Sign,,0,0,0,,{\pos(961.38,-4.965)\frz357.8\fry6\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
+Dialogue: 1,0:08:06.71,0:08:06.76,Sign,,0,0,0,,{\pos(961,-5)\frz357.8\fry6\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
 Dialogue: 0,0:08:06.71,0:08:06.80,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
-Dialogue: 1,0:08:06.76,0:08:06.80,Sign,,0,0,0,,{\pos(961.38,-25.965)\frz357.8\fry6\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
-Dialogue: 1,0:08:06.80,0:08:06.84,Sign,,0,0,0,,{\pos(961.38,-43.965)\frz357.8\fry6\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
-Dialogue: 0,0:08:06.80,0:08:06.84,Sign,,0,0,0,,{\an7\pos(7.5,-28.999)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
-Dialogue: 1,0:08:06.84,0:08:06.88,Sign,,0,0,0,,{\pos(917.28,-6.135)\frz357.8\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
-Dialogue: 0,0:08:06.84,0:08:06.92,Sign,,0,0,0,,{\an7\pos(-16.5,-11)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
-Dialogue: 1,0:08:06.88,0:08:06.92,Sign,,0,0,0,,{\pos(918.78,-19.635)\frz357.8\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
-Dialogue: 1,0:08:06.92,0:08:06.96,Sign,,0,0,0,,{\pos(918.78,-33.135)\frz357.8\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
-Dialogue: 0,0:08:06.92,0:08:06.96,Sign,,0,0,0,,{\an7\pos(-40.5,-18.5)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
-Dialogue: 1,0:08:06.96,0:08:07.01,Sign,,0,0,0,,{\pos(877.08,-12.165)\frz357.8\fry356\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
-Dialogue: 0,0:08:06.96,0:08:07.05,Sign,,0,0,0,,{\an7\pos(-46.5,1.001)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
-Dialogue: 1,0:08:07.01,0:08:07.05,Sign,,0,0,0,,{\pos(877.08,-24.165)\frz357.8\fry356\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
-Dialogue: 1,0:08:07.05,0:08:07.09,Sign,,0,0,0,,{\pos(877.08,-34.665)\frz357.8\fry356\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
-Dialogue: 0,0:08:07.05,0:08:07.09,Sign,,0,0,0,,{\an7\pos(-46.5,-15.5)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
-Dialogue: 1,0:08:07.09,0:08:07.13,Sign,,0,0,0,,{\pos(877.08,-42.165)\frz357.8\fry356\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
-Dialogue: 0,0:08:07.09,0:08:07.13,Sign,,0,0,0,,{\an7\pos(-46.5,-30.499)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
-Dialogue: 1,0:08:07.13,0:08:07.17,Sign,,0,0,0,,{\pos(877.08,-48.165)\frz357.8\fry356\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
-Dialogue: 0,0:08:07.13,0:08:07.17,Sign,,0,0,0,,{\an7\pos(-46.5,-43.999)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
-Dialogue: 1,0:08:07.17,0:08:07.21,Sign,,0,0,0,,{\pos(877.08,-54.165)\frz357.8\fry356\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
-Dialogue: 0,0:08:07.17,0:08:07.21,Sign,,0,0,0,,{\an7\pos(-46.5,-54.499)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
-Dialogue: 1,0:08:07.21,0:08:07.26,Sign,,0,0,0,,{\pos(877.08,-61.665)\frz357.8\fry356\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
-Dialogue: 0,0:08:07.21,0:08:07.26,Sign,,0,0,0,,{\an7\pos(-46.5,-61.999)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
-Dialogue: 0,0:08:07.26,0:08:07.30,Sign,,0,0,0,,{\an7\pos(-46.5,-67.999)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
-Dialogue: 0,0:08:07.30,0:08:08.55,Sign,,0,0,0,,{\an7\pos(-46.5,-85.999)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
+Dialogue: 1,0:08:06.76,0:08:06.80,Sign,,0,0,0,,{\pos(961,-26)\frz357.8\fry6\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
+Dialogue: 1,0:08:06.80,0:08:06.84,Sign,,0,0,0,,{\pos(961,-44)\frz357.8\fry6\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
+Dialogue: 0,0:08:06.80,0:08:06.84,Sign,,0,0,0,,{\an7\pos(8,-29)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
+Dialogue: 1,0:08:06.84,0:08:06.88,Sign,,0,0,0,,{\pos(917,-6)\frz357.8\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
+Dialogue: 0,0:08:06.84,0:08:06.92,Sign,,0,0,0,,{\an7\pos(-16,-11)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
+Dialogue: 1,0:08:06.88,0:08:06.92,Sign,,0,0,0,,{\pos(916,-23)\frz357.8\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
+Dialogue: 1,0:08:06.92,0:08:06.96,Sign,,0,0,0,,{\pos(916,-36)\frz357.8\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
+Dialogue: 0,0:08:06.92,0:08:06.96,Sign,,0,0,0,,{\an7\pos(-40,-18)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
+Dialogue: 1,0:08:06.96,0:08:07.01,Sign,,0,0,0,,{\pos(873,-12)\frz357.8\fry356\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
+Dialogue: 0,0:08:06.96,0:08:07.05,Sign,,0,0,0,,{\an7\pos(-46,1)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
+Dialogue: 1,0:08:07.01,0:08:07.05,Sign,,0,0,0,,{\pos(872,-24)\frz357.8\fry356\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
+Dialogue: 1,0:08:07.05,0:08:07.09,Sign,,0,0,0,,{\pos(871,-38)\frz357.8\fry356\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
+Dialogue: 0,0:08:07.05,0:08:07.09,Sign,,0,0,0,,{\an7\pos(-46,-15)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
+Dialogue: 1,0:08:07.09,0:08:07.13,Sign,,0,0,0,,{\pos(872,-48)\frz357.8\fry356\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
+Dialogue: 0,0:08:07.09,0:08:07.13,Sign,,0,0,0,,{\an7\pos(-46,-30)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
+Dialogue: 1,0:08:07.13,0:08:07.17,Sign,,0,0,0,,{\pos(872,-55)\frz357.8\fry356\frx2\fnBabe Bamboo\fs192\c&H2F2623&\blur1.35}Punchline
+Dialogue: 0,0:08:07.13,0:08:07.17,Sign,,0,0,0,,{\an7\pos(-46,-44)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
+Dialogue: 0,0:08:07.17,0:08:07.21,Sign,,0,0,0,,{\an7\pos(-46,-54)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
+Dialogue: 0,0:08:07.21,0:08:07.26,Sign,,0,0,0,,{\an7\pos(-46,-62)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
+Dialogue: 0,0:08:07.26,0:08:07.30,Sign,,0,0,0,,{\an7\pos(-46,-68)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
+Dialogue: 0,0:08:07.30,0:08:08.55,Sign,,0,0,0,,{\an7\pos(-46,-86)\fnGaramond Premr Pro Smbd Capt\c&HE9EEEE&\blur1.5\p1}m 641 273 l 1206 300 1248 -42 650 -30
 Dialogue: 0,0:08:08.55,0:08:10.80,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HE9EEF4&\blur1.5\p1}m 1511 198 b 1532 176 1566 125 1560 107 1542 98 1482 132 1442 164 1457 173 1470 192 1505 200
 Dialogue: 1,0:08:08.55,0:08:10.80,Sign,,0,0,0,,{\pos(1505.994,138.396)\frz28\fry320\frx26\fnBabe Bamboo\fs33\c&H2F2623&\blur1.35}P{\frz27.545}r{\frz27.091}o{\frz26.636}g{\frz26.182}r{\frz25.727}e{\frz25.273}s{\frz24.818}s{\frz24.364}i{\frz23.909}o{\frz23.455}n{\frz23}
 Dialogue: 0,0:08:10.80,0:08:10.93,Sign,,0,0,0,,{\an7\pos(12,-13.5)\fnGaramond Premr Pro Smbd Capt\c&HE9EEF4&\blur1.5\p1}m 1511 198 b 1532 176 1566 125 1560 107 1542 98 1482 132 1442 164 1457 173 1470 192 1505 200
