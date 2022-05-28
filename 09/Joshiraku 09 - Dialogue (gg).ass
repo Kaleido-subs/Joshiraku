@@ -13,8 +13,8 @@ Video Aspect Ratio: c1.77778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../09/JoshirakuBD_09_new (Premux).mkv
-Video File: ../09/JoshirakuBD_09_new (Premux).mkv
+Audio File: JoshirakuBD_09_new (Premux).mkv
+Video File: JoshirakuBD_09_new (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -39,439 +39,415 @@ Style: jp2,DaunPenh,90,&H00FFFFFF,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:45.81,0:02:49.69,brush1,,0,0,0,,{\fnLinux Libertine G\bord9\be2\fs97.5\frz313.1\pos(1468.8,184.8)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}{\3c&HDBDBE8&\c&H342A43&}Ticket
-Dialogue: 0,0:02:45.81,0:02:49.69,brush1,,0,0,0,,{\fnLinux Libertine G\bord4.5\be2\fs60\frz313.1\pos(1094.4,153.6)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}{\3c&HDBDBE8&\c&H342A43&}Price
-Dialogue: 0,0:05:17.96,0:05:18.96,brush1,,0,0,0,,{\be3\frz353\fnH_Kobato_Main\c&H181514&\pos(736.8,158.4)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}{TS 0517}ass pictures
-Dialogue: 0,0:05:17.96,0:05:18.96,brush1,,0,0,0,,{\be3\fs60\fnH_Kobato_Main\c&H181514&\pos(844.8,391.2)\u1\frz352.1\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}Ass flash Marii
-Dialogue: 0,0:05:17.96,0:05:18.96,brush1,,0,0,0,,{\be3\fs60\fnH_Kobato_Main\c&H181514&\u1\pos(696,650.4)\frz351.2\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}Marii's ass
-Dialogue: 0,0:05:17.96,0:05:18.96,brush1,,0,0,0,,{\be3\fs60\fnH_Kobato_Main\c&H181514&\u1\frz349.3\pos(1056,993.6)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}The shame of the female rakugo community
-Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\be2\fs67.5\fnArial\b0\c&HE7DACA&\pos(960,266.4)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}Trends
-Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\be3\fnH_Kobato_Main\c&H1D1A18&\pos(907.2,408)\4a&HC8&\3c&H202255&\4c&H333CBA&\fs75\3a&H32&\2a&H00&}#ass
-Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\be2\fs39\fnH_Kobato_Main\c&H1D1A18&\pos(1017.6,460.8)\fsp4.5\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}Promoted
-Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\be2\fs60\fnH_Kobato_Main\c&H1D1A18&\pos(909.6,547.2)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}Marii
-Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\be2\fs67.5\fnH_Kobato_Main\c&H1D1A18&\pos(830.4,799.2)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}ass
-Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\be2\fs60\fnH_Kobato_Main\c&H1D1A18&\pos(1020,1056)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}Mongolian spot
-Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\be2\fs60\fnH_Kobato_Main\c&H1D1A18&\pos(1060.8,883.2)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}ass flash bot
-Dialogue: 0,0:09:54.32,0:09:55.82,brush1,,0,0,0,,{0954 all threads are about marii's ass\shad1.5\3c&H202255&\4c&H333CBA&\4a&HC8&\bord4.5\fnDINNeuzeitGrotesk-Light\fs75\3a&H32&\2a&H00&}
-Dialogue: 0,0:10:45.24,0:10:46.12,brush1,,0,0,0,,{ \fs105\be2\shad4.5\fnboomerang monkey\fsp7.5\3c&H6291B5&\c&H343835&\frz10.93\pos(679.2,328.8)\4a&HC8&\4c&H333CBA&\3a&H32&\2a&H00&}Standing Bar
-Dialogue: 0,0:10:45.24,0:10:46.12,brush1,,0,0,0,,{\fs195\be2\shad4.5\fnboomerang monkey\fsp7.5\3c&H6291B5&\c&H343835&\frz10.93\pos(1152,417.6)\4a&HC8&\4c&H333CBA&\3a&H32&\2a&H00&}Fuuta
-Dialogue: 1,0:02:45.81,0:02:49.69,brush1,,0,0,0,,{\fnLinux Libertine G\be5\fs97.5\frz313.1\pos(1468.8,184.8)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}{\3c&HDBDBE8&\c&H342A43&}Ticket
-Dialogue: 1,0:02:45.81,0:02:49.69,brush1,,0,0,0,,{\fnLinux Libertine G\be5\fs60\frz313.1\pos(1094.4,153.6)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}{\3c&HDBDBE8&\c&H342A43&}Price
-Dialogue: 1,0:08:08.71,0:08:08.80,brush1,,0,0,0,,{\be2\fs105\frz11.28\fnCandara\c&H181411&\3c&HB0C5AD&\pos(547.2,609.6)\4a&HC8&\4c&H333CBA&\3a&H32&\2a&H00&}{TS 0808}Yearly pass
-Dialogue: 1,0:08:08.71,0:08:08.80,brush1,,0,0,0,,{\an1\be2\frz10.22\fnAd Hoc\b0\c&H06080A&\pos(387.6,1189.8)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}Name:      {\fs60}Anrakutei    Kukuru \N{\fs45}Gender:          {\fs60}Male        {\u1}Female{\u0}
-Dialogue: 1,0:08:08.80,0:08:08.88,brush1,,0,0,0,,{\be2\fs105\frz11.28\fnCandara\c&H181411&\3c&HB0C5AD&\pos(540,432)\4a&HC8&\4c&H333CBA&\3a&H32&\2a&H00&}{TS 0808}Yearly pass
-Dialogue: 1,0:08:08.80,0:08:08.88,brush1,,0,0,0,,{\an1\be2\frz10.22\fnAd Hoc\b0\c&H06080A&\pos(380.4,1012.2)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}Name:      {\fs60}Anrakutei    Kukuru \N{\fs45}Gender:          {\fs60}Male        {\u1}Female{\u0}
-Dialogue: 1,0:08:08.88,0:08:10.05,brush1,,0,0,0,,{\be2\fs105\frz11.28\fnCandara\c&H181411&\3c&HB0C5AD&\pos(542.4,360)\4a&HC8&\4c&H333CBA&\3a&H32&\2a&H00&}{TS 0808}Yearly pass
-Dialogue: 1,0:08:08.88,0:08:10.05,brush1,,0,0,0,,{\an1\be2\frz10.22\fnAd Hoc\b0\c&H06080A&\pos(382.8,940.2)\4a&HC8&\3c&H202255&\4c&H333CBA&\3a&H32&\2a&H00&}Name:      {\fs60}Anrakutei    Kukuru \N{\fs45}Gender:          {\fs60}Male        {\u1}Female{\u0}
-Dialogue: 5,0:23:55.87,0:23:59.78,Default,,0,0,0,,{}In the end, without any change, I still can't eat them all.
-Dialogue: 5,0:24:00.38,0:24:03.67,Default,,0,0,0,,{}Next time, on Joshiraku:
-Dialogue: 5,0:06:32.70,0:06:34.58,Alter,,0,0,0,,{}{overlap}Jeez.
+Dialogue: 5,0:01:31.02,0:01:34.36,Default,,0,0,0,,I'm going with the South Pole, then!
+Dialogue: 5,0:01:34.36,0:01:38.82,Default,,0,0,0,,That's a cool stick indeed.{idk, it's just the punchline...}
+Dialogue: 5,0:01:38.82,0:01:41.45,Default,,0,0,0,,Thank you kindly for your attention.
+Dialogue: 5,0:01:45.12,0:01:47.37,Default,,0,0,0,,There's a crisis a-brewin'...
+Dialogue: 5,0:01:47.37,0:01:49.08,Default,,0,0,0,,Huh? Why?
+Dialogue: 5,0:01:49.08,0:01:52.59,Default,,0,0,0,,It's school holidays, but there were hardly any kids in the audience!
+Dialogue: 5,0:01:52.59,0:01:53.96,Default,,0,0,0,,That's true.
+Dialogue: 5,0:01:53.96,0:01:57.51,Default,,0,0,0,,Rakugo isn't really aimed at kids, though.
+Dialogue: 5,0:01:57.51,0:01:59.43,Default,,0,0,0,,But it's the school holidays!
+Dialogue: 5,0:01:59.43,0:02:03.35,Default,,0,0,0,,Every amusement park, every tourist spot, and all the popular hangouts are filled with kids!
+Dialogue: 5,0:02:03.35,0:02:05.72,Default,,0,0,0,,They're doing everything they can to attract children!
+Dialogue: 5,0:02:05.72,0:02:09.85,Default,,0,0,0,,We gotta do something to attract them as well!
+Dialogue: 5,0:02:09.85,0:02:11.40,Default,,0,0,0,,Kigu's kiguing!
+Dialogue: 5,0:02:11.40,0:02:13.36,Default,,0,0,0,,Yeah! Kigu's kiguing for sure!
+Dialogue: 5,0:02:15.15,0:02:16.53,Default,,0,0,0,,Kigu's gigging!
+Dialogue: 5,0:02:16.53,0:02:18.61,Default,,0,0,0,,Yeah! Kigu's gigging for sure!
+Dialogue: 5,0:02:20.32,0:02:22.20,Default,,0,0,0,,Thank you!
+Dialogue: 5,0:02:22.20,0:02:23.62,Default,,0,0,0,,Kigu's gifting!
+Dialogue: 5,0:02:23.62,0:02:25.66,Default,,0,0,0,,Yeah! Kigu's gifting for sure!
+Dialogue: 5,0:02:30.71,0:02:32.25,Default,,0,0,0,,Kigu's giving!
+Dialogue: 5,0:02:32.25,0:02:34.21,Default,,0,0,0,,Yeah! Kigu's giving for sure!
+Dialogue: 5,0:02:36.21,0:02:39.18,Default,,0,0,0,,The point is, we won't attract any kids this way!
+Dialogue: 5,0:02:39.18,0:02:41.68,Default,,0,0,0,,Then what? Should we do some kind of Happy Meal thing?
+Dialogue: 5,0:02:43.43,0:02:45.81,Default,,0,0,0,,Kids love Happy Meals.
+Dialogue: 5,0:02:45.81,0:02:49.69,Default,,0,0,0,,Then why don't we include something extra with the ticket?
+Dialogue: 5,0:02:49.69,0:02:52.94,Default,,0,0,0,,We can't really do anything big, but how about trading cards?
+Dialogue: 5,0:02:52.94,0:02:53.73,Default,,0,0,0,,That sounds good.
+Dialogue: 5,0:02:53.73,0:02:56.28,Default,,0,0,0,,We can give out multiple kinds so people can collect them.
+Dialogue: 5,0:02:56.28,0:03:00.82,Default,,0,0,0,,And if you're able to collect a certain combination, you can claim an extra rare card.
+Dialogue: 5,0:03:00.82,0:03:02.16,Default,,0,0,0,,Didn't cellphone games do that already?
+Dialogue: 5,0:03:02.16,0:03:04.62,Default,,0,0,0,,Then, if you collect them all, you can get a bonus extra!{is this different to 33?}
+Dialogue: 5,0:03:04.62,0:03:05.66,Default,,0,0,0,,That's what anime collectors' editions are for.
+Dialogue: 5,0:03:05.66,0:03:06.49,Default,,0,0,0,,Maybe a meet & greet?
+Dialogue: 5,0:03:06.49,0:03:08.95,Default,,0,0,0,,You better hope enough people turn up.
+Dialogue: 5,0:03:08.95,0:03:12.75,Default,,0,0,0,,But we're trying to target children here, not just anyone.
+Dialogue: 5,0:03:12.75,0:03:15.00,Default,,0,0,0,,What do children like?
+Dialogue: 5,0:03:15.00,0:03:16.42,Default,,0,0,0,,Round things!
+Dialogue: 5,0:03:16.42,0:03:19.34,Default,,0,0,0,,They say children like round things!
+Dialogue: 5,0:03:30.81,0:03:32.35,Default,,0,0,0,,Not {\i1}that{\fscx140\i0} {\fscx100}kind of child!
+Dialogue: 5,0:03:32.35,0:03:35.44,Default,,0,0,0,,Well, I've already taken measures of my own.
+Dialogue: 5,0:03:35.44,0:03:36.77,Default,,0,0,0,,Your glasses?
+Dialogue: 5,0:03:36.77,0:03:39.28,Default,,0,0,0,,Children like round characters, right?
+Dialogue: 5,0:03:39.28,0:03:42.86,Default,,0,0,0,,Let's just add round things to our costumes!
+Dialogue: 5,0:03:45.32,0:03:47.53,Default,,0,0,0,,There's already been a ton of characters like that.
+Dialogue: 5,0:03:47.53,0:03:51.25,Default,,0,0,0,,I put circles on my kimono.
+Dialogue: 5,0:03:51.25,0:03:55.00,Default,,0,0,0,,The circles consist of even smaller circles,
+Dialogue: 5,0:03:55.00,0:03:58.34,Default,,0,0,0,,and those circles in turn consist of smaller circles still,
+Dialogue: 5,0:03:58.34,0:04:01.51,Default,,0,0,0,,forming an infinite mandala.
+Dialogue: 5,0:04:01.51,0:04:02.93,Default,,0,0,0,,That'd only scare them away!
+Dialogue: 5,0:04:02.93,0:04:04.93,Default,,0,0,0,,What's wrong with scaring them?
+Dialogue: 5,0:04:04.93,0:04:06.39,Default,,0,0,0,,If you scare them, they won't come!
+Dialogue: 5,0:04:06.39,0:04:10.10,Default,,0,0,0,,Let's see... I'll make myself round!
+Dialogue: 5,0:04:10.10,0:04:13.06,Default,,0,0,0,,I just need to eat and eat until I'm practically spherical!
+Dialogue: 5,0:04:13.85,0:04:14.77,Default,,0,0,0,,Yuck.{missing line, check}
+Dialogue: 5,0:04:14.77,0:04:17.15,Default,,0,0,0,,You really don't have to go that far.
+Dialogue: 5,0:04:18.73,0:04:20.48,Default,,0,0,0,,Can I have a little?
+Dialogue: 5,0:04:20.48,0:04:21.65,Default,,0,0,0,,Sure, go on!
+Dialogue: 5,0:04:21.65,0:04:23.74,Default,,0,0,0,,You can all have some. There's plenty to go round.
+Dialogue: 5,0:04:27.95,0:04:29.37,Default,,0,0,0,,Don't let her fool you!
+Dialogue: 5,0:04:29.37,0:04:32.29,Default,,0,0,0,,She's the kind who doesn't get fat no matter how much she eats!
+Dialogue: 5,0:04:33.25,0:04:37.17,Default,,0,0,0,,While we put on weight, she'll just dodge all the calories and remain slim!
+Dialogue: 5,0:04:37.17,0:04:38.25,Default,,0,0,0,,That's terrible!
+Dialogue: 5,0:04:38.25,0:04:40.13,Default,,0,0,0,,We can't let our guard down for one minute!
+Dialogue: 5,0:04:40.13,0:04:42.59,Default,,0,0,0,,Do you have any ideas, Marii?
+Dialogue: 5,0:04:42.59,0:04:45.43,Default,,0,0,0,,I'm not gonna suck up to brats.
+Dialogue: 5,0:04:45.43,0:04:47.64,Default,,0,0,0,,But Marii, surely you...
+Dialogue: 5,0:04:49.26,0:04:51.97,Default,,0,0,0,,Stop that! I don't have a Mongolian spot!
+Dialogue: 5,0:05:04.90,0:05:06.36,Default,,0,0,0,,That's enough of that.
+Dialogue: 5,0:05:06.36,0:05:09.24,Default,,0,0,0,,The kids are gonna love you, Marii!
+Dialogue: 5,0:05:09.24,0:05:12.20,Default,,0,0,0,,But how are we going to show her butt in the theater?
+Dialogue: 5,0:05:12.20,0:05:13.79,Default,,0,0,0,,Easier said than done.
+Dialogue: 5,0:05:13.79,0:05:15.50,Default,,0,0,0,,It's showing your butt, after all!
+Dialogue: 5,0:05:15.50,0:05:21.05,Default,,0,0,0,,If you screw up, you'll be labeled an ass flasher for decades!
+Dialogue: 5,0:05:21.05,0:05:24.97,Default,,0,0,0,,We'd forever be remembered as an ass flashing anime!
+Dialogue: 5,0:05:24.97,0:05:26.51,Default,,0,0,0,,Ass anime?
+Dialogue: 5,0:05:26.51,0:05:29.22,Default,,0,0,0,,Are you prepared for that?
+Dialogue: 5,0:05:29.22,0:05:30.64,Default,,0,0,0,,I never was!
+Dialogue: 5,0:05:32.10,0:05:34.39,Default,,0,0,0,,If you really want to go to such lengths, I won't stop you.
+Dialogue: 5,0:05:34.39,0:05:35.23,Default,,0,0,0,,Do as you wish.
+Dialogue: 5,0:05:35.23,0:05:37.44,Default,,0,0,0,,I told you I'm not gonna flash my ass!
+Dialogue: 5,0:05:37.44,0:05:38.90,Default,,0,0,0,,But...
+Dialogue: 5,0:05:39.44,0:05:41.65,Default,,0,0,0,,If you don't show your butt,
+Dialogue: 5,0:05:41.65,0:05:43.86,Default,,0,0,0,,the kids won't come to see us!
+Dialogue: 5,0:05:44.94,0:05:48.66,Default,,0,0,0,,The only thing we can do is put your ass on display.
+Dialogue: 5,0:05:48.66,0:05:50.62,Default,,0,0,0,,You'll do it for us, right?
+Dialogue: 5,0:05:50.62,0:05:52.12,Default,,0,0,0,,Wait a moment!
+Dialogue: 5,0:05:52.12,0:05:53.91,Default,,0,0,0,,Surely there are all kinds of things we can do!
+Dialogue: 5,0:05:53.91,0:05:55.12,Default,,0,0,0,,We're just trying to attract kids, after all!
+Dialogue: 5,0:05:55.12,0:05:55.83,Default,,0,0,0,,No...
+Dialogue: 5,0:05:55.83,0:05:56.50,Default,,0,0,0,,We can't...
+Dialogue: 5,0:05:56.50,0:05:58.21,Default,,0,0,0,,Showing off your ass to the world...
+Dialogue: 5,0:05:58.21,0:05:59.46,Default,,0,0,0,,is our sole remaining option.
+Dialogue: 5,0:05:59.46,0:06:00.92,Default,,0,0,0,,We have no choice!
+Dialogue: 5,0:06:00.92,0:06:03.34,Default,,0,0,0,,You're not seeing the big picture!
+Dialogue: 5,0:06:03.34,0:06:07.84,Default,,0,0,0,,It's narrow reasoning like this that results in family suicides!
+Dialogue: 5,0:06:07.84,0:06:10.14,Default,,0,0,0,,This matter has already been decided. Let it go.
+Dialogue: 5,0:06:10.14,0:06:11.60,Default,,0,0,0,,Who decided it?!
+Dialogue: 5,0:06:11.60,0:06:14.47,Default,,0,0,0,,Let's all visit D**ney Land and Sea before the end!
+Dialogue: 5,0:06:14.47,0:06:17.98,Default,,0,0,0,,And we can stay at the 'Costa and eat French food at Club **!
+Dialogue: 5,0:06:17.98,0:06:18.98,Default,,0,0,0,,Then...
+Dialogue: 5,0:06:18.98,0:06:20.06,Default,,0,0,0,,Show your butt!
+Dialogue: 5,0:06:20.06,0:06:21.73,Default,,0,0,0,,You're talking nonsense!
+Dialogue: 5,0:06:21.73,0:06:23.65,Default,,0,0,0,,Marii, listen to what we're saying!
+Dialogue: 5,0:06:23.65,0:06:25.11,Default,,0,0,0,,You're not a child anymore!
+Dialogue: 5,0:06:25.11,0:06:27.95,Default,,0,0,0,,I don't need some butthurt kid to tell me that!
+Dialogue: 5,0:06:27.95,0:06:30.49,Default,,0,0,0,,You're the butthurt one!
+Dialogue: 5,0:06:30.49,0:06:31.66,Default,,0,0,0,,O-Oh, right!
+Dialogue: 5,0:06:31.66,0:06:34.58,Default,,0,0,0,,Wait, quit making me say stuff like that!
+Dialogue: 5,0:06:32.70,0:06:34.58,Alter,,0,0,0,,{overlap}Jeez.
+Dialogue: 5,0:06:34.58,0:06:36.33,Default,,0,0,0,,Just shut up already and show your butt!
+Dialogue: 5,0:06:36.33,0:06:38.37,Default,,0,0,0,,Girls! Catch her!
+Dialogue: 5,0:06:38.37,0:06:39.50,Default,,0,0,0,,Stop!
+Dialogue: 5,0:06:41.21,0:06:44.96,Default,,0,0,0,,Oh my God! It's evidence of child abuse!
+Dialogue: 5,0:06:44.96,0:06:46.84,Default,,0,0,0,,Look, a foreigner.
+Dialogue: 5,0:06:46.84,0:06:47.97,Default,,0,0,0,,Child abuse?
+Dialogue: 5,0:06:47.97,0:06:50.22,Default,,0,0,0,,What's he talking about? That's a Mongolian spot...
+Dialogue: 5,0:06:50.22,0:06:52.09,Default,,0,0,0,,Ah, I've heard about this before.
+Dialogue: 5,0:06:52.09,0:06:55.06,Default,,0,0,0,,Mongolian spots are a condition endemic to Asian people,
+Dialogue: 5,0:06:55.06,0:06:59.64,Default,,0,0,0,,so Western doctors that are unfamiliar with the sight can mistake it for signs of child abuse.
+Dialogue: 5,0:06:59.64,0:07:01.27,Default,,0,0,0,,Barbarian Japanese!
+Dialogue: 5,0:07:01.27,0:07:04.44,Default,,0,0,0,,I'll protect this girl!
+Dialogue: 5,0:07:04.44,0:07:05.86,Default,,0,0,0,,Let go of me!
+Dialogue: 5,0:07:05.86,0:07:06.94,Default,,0,0,0,,He took her away.
+Dialogue: 5,0:07:09.90,0:07:12.20,Default,,0,0,0,,Girls, let's sing for Marii!
+Dialogue: 5,0:07:12.20,0:07:20.21,Default,,0,0,0,,The girl who was ashamed of her bruised behind
+Dialogue: 5,0:07:20.21,0:07:29.13,Default,,0,0,0,,was taken away by a foreigner.
+Dialogue: 5,0:07:44.69,0:07:49.03,Default,,0,0,0,,Do you think maybe the kids aren't coming because foreigners took them away?
+Dialogue: 5,0:07:49.03,0:07:50.07,Default,,0,0,0,,Could well be.
+Dialogue: 5,0:07:50.07,0:07:50.90,Default,,0,0,0,,Makes sense.
+Dialogue: 5,0:07:50.90,0:07:52.40,Default,,0,0,0,,That's terrible!
+Dialogue: 5,0:07:58.79,0:08:00.37,Default,,0,0,0,,We're lucky the weather's clear!
+Dialogue: 5,0:08:00.37,0:08:02.58,Default,,0,0,0,,This is perfect zoo weather!
+Dialogue: 5,0:08:02.58,0:08:04.71,Default,,0,0,0,,It's been so long since I last came to the zoo.
+Dialogue: 5,0:08:04.71,0:08:06.08,Default,,0,0,0,,Two or three years even.
+Dialogue: 5,0:08:06.08,0:08:09.25,Default,,0,0,0,,Oh? I've got a yearly pass.
+Dialogue: 5,0:08:09.25,0:08:11.26,Default,,0,0,0,,Wow, really?
+Dialogue: 5,0:08:11.26,0:08:13.55,Default,,0,0,0,,When I get tired of humans,
+Dialogue: 5,0:08:13.55,0:08:16.93,Default,,0,0,0,,watching animals who don't talk helps me relax.
+Dialogue: 5,0:08:16.93,0:08:19.81,Default,,0,0,0,,Should we go see the panda or the polar bear first?
+Dialogue: 5,0:08:19.81,0:08:21.14,Default,,0,0,0,,If we see everything in order,
+Dialogue: 5,0:08:21.14,0:08:25.35,Default,,0,0,0,,I'd get bored at the birds or the small animals' corner and want to go home.
 Dialogue: 5,0:08:22.23,0:08:23.89,Alter,,0,0,0,,{\a6}{overlap}Birds?
-Dialogue: 5,0:01:31.02,0:01:34.36,Default,,0,0,0,,{}I'm going with the South Pole, then!
-Dialogue: 5,0:01:34.36,0:01:38.82,Default,,0,0,0,,{}That's a cool stick indeed.{idk, it's just the punchline...}
-Dialogue: 5,0:01:38.82,0:01:41.45,Default,,0,0,0,,{}Thank you kindly for your attention.
-Dialogue: 5,0:01:45.12,0:01:47.37,Default,,0,0,0,,{}There's a crisis a-brewin'...
-Dialogue: 5,0:01:47.37,0:01:49.08,Default,,0,0,0,,{}Huh? Why?
-Dialogue: 5,0:01:49.08,0:01:52.59,Default,,0,0,0,,{}It's school holidays, but there were hardly any kids in the audience!
-Dialogue: 5,0:01:52.59,0:01:53.96,Default,,0,0,0,,{}That's true.
-Dialogue: 5,0:01:53.96,0:01:57.51,Default,,0,0,0,,{}Rakugo isn't really aimed at kids, though.
-Dialogue: 5,0:01:57.51,0:01:59.43,Default,,0,0,0,,{}But it's the school holidays!
-Dialogue: 5,0:01:59.43,0:02:03.35,Default,,0,0,0,,{}Every amusement park, every tourist spot, and all the popular hangouts are filled with kids!
-Dialogue: 5,0:02:03.35,0:02:05.72,Default,,0,0,0,,{}They're doing everything they can to attract children!
-Dialogue: 5,0:02:05.72,0:02:09.85,Default,,0,0,0,,{}We gotta do something to attract them as well!
-Dialogue: 5,0:02:09.85,0:02:11.40,Default,,0,0,0,,{}Kigu's kiguing!
-Dialogue: 5,0:02:11.40,0:02:13.36,Default,,0,0,0,,{}Yeah! Kigu's kiguing for sure!
-Dialogue: 5,0:02:15.15,0:02:16.53,Default,,0,0,0,,{}Kigu's gigging!
-Dialogue: 5,0:02:16.53,0:02:18.61,Default,,0,0,0,,{}Yeah! Kigu's gigging for sure!
-Dialogue: 5,0:02:20.32,0:02:22.20,Default,,0,0,0,,{}Thank you!
-Dialogue: 5,0:02:22.20,0:02:23.62,Default,,0,0,0,,{}Kigu's gifting!
-Dialogue: 5,0:02:23.62,0:02:25.66,Default,,0,0,0,,{}Yeah! Kigu's gifting for sure!
-Dialogue: 5,0:02:30.71,0:02:32.25,Default,,0,0,0,,{}Kigu's giving!
-Dialogue: 5,0:02:32.25,0:02:34.21,Default,,0,0,0,,{}Yeah! Kigu's giving for sure!
-Dialogue: 5,0:02:36.21,0:02:39.18,Default,,0,0,0,,{}The point is, we won't attract any kids this way!
-Dialogue: 5,0:02:39.18,0:02:41.68,Default,,0,0,0,,{}Then what? Should we do some kind of Happy Meal thing?
-Dialogue: 5,0:02:43.43,0:02:45.81,Default,,0,0,0,,{}Kids love Happy Meals.
-Dialogue: 5,0:02:45.81,0:02:49.69,Default,,0,0,0,,{}Then why don't we include something extra with the ticket?
-Dialogue: 5,0:02:49.69,0:02:52.94,Default,,0,0,0,,{}We can't really do anything big, but how about trading cards?
-Dialogue: 5,0:02:52.94,0:02:53.73,Default,,0,0,0,,{}That sounds good.
-Dialogue: 5,0:02:53.73,0:02:56.28,Default,,0,0,0,,{}We can give out multiple kinds so people can collect them.
-Dialogue: 5,0:02:56.28,0:03:00.82,Default,,0,0,0,,{}And if you're able to collect a certain combination, you can claim an extra rare card.
-Dialogue: 5,0:03:00.82,0:03:02.16,Default,,0,0,0,,{}Didn't cellphone games do that already?
-Dialogue: 5,0:03:02.16,0:03:04.62,Default,,0,0,0,,{}Then, if you collect them all, you can get a bonus extra!{is this different to 33?}
-Dialogue: 5,0:03:04.62,0:03:05.66,Default,,0,0,0,,{}That's what anime collectors' editions are for.
-Dialogue: 5,0:03:05.66,0:03:06.49,Default,,0,0,0,,{}Maybe a meet & greet?
-Dialogue: 5,0:03:06.49,0:03:08.95,Default,,0,0,0,,{}You better hope enough people turn up.
-Dialogue: 5,0:03:08.95,0:03:12.75,Default,,0,0,0,,{}But we're trying to target children here, not just anyone.
-Dialogue: 5,0:03:12.75,0:03:15.00,Default,,0,0,0,,{}What do children like?
-Dialogue: 5,0:03:15.00,0:03:16.42,Default,,0,0,0,,{}Round things!
-Dialogue: 5,0:03:16.42,0:03:19.34,Default,,0,0,0,,{}They say children like round things!
-Dialogue: 5,0:03:30.81,0:03:32.35,Default,,0,0,0,,{}Not {\i1}that{\i0\fscx140} {\fscx100}kind of child!
-Dialogue: 5,0:03:32.35,0:03:35.44,Default,,0,0,0,,{}Well, I've already taken measures of my own.
-Dialogue: 5,0:03:35.44,0:03:36.77,Default,,0,0,0,,{}Your glasses?
-Dialogue: 5,0:03:36.77,0:03:39.28,Default,,0,0,0,,{}Children like round characters, right?
-Dialogue: 5,0:03:39.28,0:03:42.86,Default,,0,0,0,,{}Let's just add round things to our costumes!
-Dialogue: 5,0:03:45.32,0:03:47.53,Default,,0,0,0,,{}There's already been a ton of characters like that.
-Dialogue: 5,0:03:47.53,0:03:51.25,Default,,0,0,0,,{}I put circles on my kimono.
-Dialogue: 5,0:03:51.25,0:03:55.00,Default,,0,0,0,,{}The circles consist of even smaller circles,
-Dialogue: 5,0:03:55.00,0:03:58.34,Default,,0,0,0,,{}and those circles in turn consist of smaller circles still,
-Dialogue: 5,0:03:58.34,0:04:01.51,Default,,0,0,0,,{}forming an infinite mandala.
-Dialogue: 5,0:04:01.51,0:04:02.93,Default,,0,0,0,,{}That'd only scare them away!
-Dialogue: 5,0:04:02.93,0:04:04.93,Default,,0,0,0,,{}What's wrong with scaring them?
-Dialogue: 5,0:04:04.93,0:04:06.39,Default,,0,0,0,,{}If you scare them, they won't come!
-Dialogue: 5,0:04:06.39,0:04:10.10,Default,,0,0,0,,{}Let's see... I'll make myself round!
-Dialogue: 5,0:04:10.10,0:04:13.06,Default,,0,0,0,,{}I just need to eat and eat until I'm practically spherical!
-Dialogue: 5,0:04:13.85,0:04:14.77,Default,,0,0,0,,{}Yuck.{missing line, check}
-Dialogue: 5,0:04:14.77,0:04:17.15,Default,,0,0,0,,{}You really don't have to go that far.
-Dialogue: 5,0:04:18.73,0:04:20.48,Default,,0,0,0,,{}Can I have a little?
-Dialogue: 5,0:04:20.48,0:04:21.65,Default,,0,0,0,,{}Sure, go on!
-Dialogue: 5,0:04:21.65,0:04:23.74,Default,,0,0,0,,{}You can all have some. There's plenty to go round.
-Dialogue: 5,0:04:27.95,0:04:29.37,Default,,0,0,0,,{}Don't let her fool you!
-Dialogue: 5,0:04:29.37,0:04:32.29,Default,,0,0,0,,{}She's the kind who doesn't get fat no matter how much she eats!
-Dialogue: 5,0:04:33.25,0:04:37.17,Default,,0,0,0,,{}While we put on weight, she'll just dodge all the calories and remain slim!
-Dialogue: 5,0:04:37.17,0:04:38.25,Default,,0,0,0,,{}That's terrible!
-Dialogue: 5,0:04:38.25,0:04:40.13,Default,,0,0,0,,{}We can't let our guard down for one minute!
-Dialogue: 5,0:04:40.13,0:04:42.59,Default,,0,0,0,,{}Do you have any ideas, Marii?
-Dialogue: 5,0:04:42.59,0:04:45.43,Default,,0,0,0,,{}I'm not gonna suck up to brats.
-Dialogue: 5,0:04:45.43,0:04:47.64,Default,,0,0,0,,{}But Marii, surely you...
-Dialogue: 5,0:04:49.26,0:04:51.97,Default,,0,0,0,,{}Stop that! I don't have a Mongolian spot!
-Dialogue: 5,0:05:04.90,0:05:06.36,Default,,0,0,0,,{}That's enough of that.
-Dialogue: 5,0:05:06.36,0:05:09.24,Default,,0,0,0,,{}The kids are gonna love you, Marii!
-Dialogue: 5,0:05:09.24,0:05:12.20,Default,,0,0,0,,{}But how are we going to show her butt in the theater?
-Dialogue: 5,0:05:12.20,0:05:13.79,Default,,0,0,0,,{}Easier said than done.
-Dialogue: 5,0:05:13.79,0:05:15.50,Default,,0,0,0,,{}It's showing your butt, after all!
-Dialogue: 5,0:05:15.50,0:05:21.05,Default,,0,0,0,,{}If you screw up, you'll be labeled an ass flasher for decades!
-Dialogue: 5,0:05:21.05,0:05:24.97,Default,,0,0,0,,{}We'd forever be remembered as an ass flashing anime!
-Dialogue: 5,0:05:24.97,0:05:26.51,Default,,0,0,0,,{}Ass anime?
-Dialogue: 5,0:05:26.51,0:05:29.22,Default,,0,0,0,,{}Are you prepared for that?
-Dialogue: 5,0:05:29.22,0:05:30.64,Default,,0,0,0,,{}I never was!
-Dialogue: 5,0:05:32.10,0:05:34.39,Default,,0,0,0,,{}If you really want to go to such lengths, I won't stop you.
-Dialogue: 5,0:05:34.39,0:05:35.23,Default,,0,0,0,,{}Do as you wish.
-Dialogue: 5,0:05:35.23,0:05:37.44,Default,,0,0,0,,{}I told you I'm not gonna flash my ass!
-Dialogue: 5,0:05:37.44,0:05:38.90,Default,,0,0,0,,{}But...
-Dialogue: 5,0:05:39.44,0:05:41.65,Default,,0,0,0,,{}If you don't show your butt,
-Dialogue: 5,0:05:41.65,0:05:43.86,Default,,0,0,0,,{}the kids won't come to see us!
-Dialogue: 5,0:05:44.94,0:05:48.66,Default,,0,0,0,,{}The only thing we can do is put your ass on display.
-Dialogue: 5,0:05:48.66,0:05:50.62,Default,,0,0,0,,{}You'll do it for us, right?
-Dialogue: 5,0:05:50.62,0:05:52.12,Default,,0,0,0,,{}Wait a moment!
-Dialogue: 5,0:05:52.12,0:05:53.91,Default,,0,0,0,,{}Surely there are all kinds of things we can do!
-Dialogue: 5,0:05:53.91,0:05:55.12,Default,,0,0,0,,{}We're just trying to attract kids, after all!
-Dialogue: 5,0:05:55.12,0:05:55.83,Default,,0,0,0,,{}No...
-Dialogue: 5,0:05:55.83,0:05:56.50,Default,,0,0,0,,{}We can't...
-Dialogue: 5,0:05:56.50,0:05:58.21,Default,,0,0,0,,{}Showing off your ass to the world...
-Dialogue: 5,0:05:58.21,0:05:59.46,Default,,0,0,0,,{}is our sole remaining option.
-Dialogue: 5,0:05:59.46,0:06:00.92,Default,,0,0,0,,{}We have no choice!
-Dialogue: 5,0:06:00.92,0:06:03.34,Default,,0,0,0,,{}You're not seeing the big picture!
-Dialogue: 5,0:06:03.34,0:06:07.84,Default,,0,0,0,,{}It's narrow reasoning like this that results in family suicides!
-Dialogue: 5,0:06:07.84,0:06:10.14,Default,,0,0,0,,{}This matter has already been decided. Let it go.
-Dialogue: 5,0:06:10.14,0:06:11.60,Default,,0,0,0,,{}Who decided it?!
-Dialogue: 5,0:06:11.60,0:06:14.47,Default,,0,0,0,,{}Let's all visit D**ney Land and Sea before the end!
-Dialogue: 5,0:06:14.47,0:06:17.98,Default,,0,0,0,,{}And we can stay at the 'Costa and eat French food at Club **!
-Dialogue: 5,0:06:17.98,0:06:18.98,Default,,0,0,0,,{}Then...
-Dialogue: 5,0:06:18.98,0:06:20.06,Default,,0,0,0,,{}Show your butt!
-Dialogue: 5,0:06:20.06,0:06:21.73,Default,,0,0,0,,{}You're talking nonsense!
-Dialogue: 5,0:06:21.73,0:06:23.65,Default,,0,0,0,,{}Marii, listen to what we're saying!
-Dialogue: 5,0:06:23.65,0:06:25.11,Default,,0,0,0,,{}You're not a child anymore!
-Dialogue: 5,0:06:25.11,0:06:27.95,Default,,0,0,0,,{}I don't need some butthurt kid to tell me that!
-Dialogue: 5,0:06:27.95,0:06:30.49,Default,,0,0,0,,{}You're the butthurt one!
-Dialogue: 5,0:06:30.49,0:06:31.66,Default,,0,0,0,,{}O-Oh, right!
-Dialogue: 5,0:06:31.66,0:06:34.58,Default,,0,0,0,,{}Wait, quit making me say stuff like that!
-Dialogue: 5,0:06:34.58,0:06:36.33,Default,,0,0,0,,{}Just shut up already and show your butt!
-Dialogue: 5,0:06:36.33,0:06:38.37,Default,,0,0,0,,{}Girls! Catch her!
-Dialogue: 5,0:06:38.37,0:06:39.50,Default,,0,0,0,,{}Stop!
-Dialogue: 5,0:06:41.21,0:06:44.96,Default,,0,0,0,,{}Oh my God! It's evidence of child abuse!
-Dialogue: 5,0:06:44.96,0:06:46.84,Default,,0,0,0,,{}Look, a foreigner.
-Dialogue: 5,0:06:46.84,0:06:47.97,Default,,0,0,0,,{}Child abuse?
-Dialogue: 5,0:06:47.97,0:06:50.22,Default,,0,0,0,,{}What's he talking about? That's a Mongolian spot...
-Dialogue: 5,0:06:50.22,0:06:52.09,Default,,0,0,0,,{}Ah, I've heard about this before.
-Dialogue: 5,0:06:52.09,0:06:55.06,Default,,0,0,0,,{}Mongolian spots are a condition endemic to Asian people,
-Dialogue: 5,0:06:55.06,0:06:59.64,Default,,0,0,0,,{}so Western doctors that are unfamiliar with the sight can mistake it for signs of child abuse.
-Dialogue: 5,0:06:59.64,0:07:01.27,Default,,0,0,0,,{}Barbarian Japanese!
-Dialogue: 5,0:07:01.27,0:07:04.44,Default,,0,0,0,,{}I'll protect this girl!
-Dialogue: 5,0:07:04.44,0:07:05.86,Default,,0,0,0,,{}Let go of me!
-Dialogue: 5,0:07:05.86,0:07:06.94,Default,,0,0,0,,{}He took her away.
-Dialogue: 5,0:07:09.90,0:07:12.20,Default,,0,0,0,,{}Girls, let's sing for Marii!
-Dialogue: 5,0:07:12.20,0:07:20.21,Default,,0,0,0,,{}The girl who was ashamed of her bruised behind
-Dialogue: 5,0:07:20.21,0:07:29.13,Default,,0,0,0,,{}was taken away by a foreigner.
-Dialogue: 5,0:07:44.69,0:07:49.03,Default,,0,0,0,,{}Do you think maybe the kids aren't coming because foreigners took them away?
-Dialogue: 5,0:07:49.03,0:07:50.07,Default,,0,0,0,,{}Could well be.
-Dialogue: 5,0:07:50.07,0:07:50.90,Default,,0,0,0,,{}Makes sense.
-Dialogue: 5,0:07:50.90,0:07:52.40,Default,,0,0,0,,{}That's terrible!
-Dialogue: 5,0:07:58.79,0:08:00.37,Default,,0,0,0,,{}We're lucky the weather's clear!
-Dialogue: 5,0:08:00.37,0:08:02.58,Default,,0,0,0,,{}This is perfect zoo weather!
-Dialogue: 5,0:08:02.58,0:08:04.71,Default,,0,0,0,,{}It's been so long since I last came to the zoo.
-Dialogue: 5,0:08:04.71,0:08:06.08,Default,,0,0,0,,{}Two or three years even.
-Dialogue: 5,0:08:06.08,0:08:09.25,Default,,0,0,0,,{}Oh? I've got a yearly pass.
-Dialogue: 5,0:08:09.25,0:08:11.26,Default,,0,0,0,,{}Wow, really?
-Dialogue: 5,0:08:11.26,0:08:13.55,Default,,0,0,0,,{}When I get tired of humans,
-Dialogue: 5,0:08:13.55,0:08:16.93,Default,,0,0,0,,{}watching animals who don't talk helps me relax.
-Dialogue: 5,0:08:16.93,0:08:19.81,Default,,0,0,0,,{}Should we go see the panda or the polar bear first?
-Dialogue: 5,0:08:19.81,0:08:21.14,Default,,0,0,0,,{}If we see everything in order,
-Dialogue: 5,0:08:21.14,0:08:25.35,Default,,0,0,0,,{}I'd get bored at the birds or the small animals' corner and want to go home.
-Dialogue: 5,0:08:25.35,0:08:27.61,Default,,0,0,0,,{}Look, there aren't any flamingos!
-Dialogue: 5,0:08:27.61,0:08:30.53,Default,,0,0,0,,{}Flamingos are the stars of zoos!
-Dialogue: 5,0:08:30.53,0:08:33.15,Default,,0,0,0,,{}We'd waste time taking photos and stuff,
-Dialogue: 5,0:08:33.15,0:08:35.53,Default,,0,0,0,,{}then just run around in a hurry later!
-Dialogue: 5,0:08:35.53,0:08:38.53,Default,,0,0,0,,{}Yeah, everyone loves how elegant they are.
-Dialogue: 5,0:08:38.53,0:08:40.74,Default,,0,0,0,,{}Everything about them feels so unusual.
-Dialogue: 5,0:08:40.74,0:08:43.62,Default,,0,0,0,,{}But why do they always put flamingos at the entrance?
-Dialogue: 5,0:08:43.62,0:08:48.46,Default,,0,0,0,,{}Flamingos stand on one leg to minimize heat loss from the cool water.
-Dialogue: 5,0:08:48.46,0:08:51.17,Default,,0,0,0,,{}The entrance always has very little shade.
-Dialogue: 5,0:08:51.17,0:08:52.88,Default,,0,0,0,,{}Are they elderly bathing in the sun or what?!
-Dialogue: 5,0:08:56.68,0:08:57.93,Default,,0,0,0,,{}It's the panda!
-Dialogue: 5,0:08:57.93,0:08:59.60,Default,,0,0,0,,{}Starting with the panda is like
-Dialogue: 5,0:08:59.60,0:09:02.06,Default,,0,0,0,,{}eating a whole meal starting with the meat,
-Dialogue: 5,0:09:02.06,0:09:05.98,Default,,0,0,0,,{}or announcing election results starting with first place.
-Dialogue: 5,0:09:05.98,0:09:07.85,Default,,0,0,0,,{}Nothing less from the Ueno Zoo.
-Dialogue: 5,0:09:07.85,0:09:10.11,Default,,0,0,0,,{}They brought out the big guns right away.
-Dialogue: 5,0:09:10.11,0:09:13.40,Default,,0,0,0,,{}They're confident enough that the zoo's not all about the panda.
-Dialogue: 5,0:09:13.40,0:09:15.95,Default,,0,0,0,,{}They may be just naive enough to think
-Dialogue: 5,0:09:15.95,0:09:20.03,Default,,0,0,0,,{}that if people bought the ticket already, they'll want to see more.
-Dialogue: 5,0:09:20.03,0:09:22.04,Default,,0,0,0,,{}Aren't you reading a bit too much into it?
-Dialogue: 5,0:09:22.04,0:09:24.04,Default,,0,0,0,,{}But no matter what, the panda's the panda!
-Dialogue: 5,0:09:24.04,0:09:25.50,Default,,0,0,0,,{}We've gotta check it out!
-Dialogue: 5,0:09:28.04,0:09:30.38,Default,,0,0,0,,{}It's not moving!
-Dialogue: 5,0:09:30.38,0:09:33.88,Default,,0,0,0,,{}Zoo animals do that.
-Dialogue: 5,0:09:33.88,0:09:37.34,Default,,0,0,0,,{}Well, they don't have to worry about their daily bread.
-Dialogue: 5,0:09:37.34,0:09:39.05,Default,,0,0,0,,{}I'd love a life like that.
-Dialogue: 5,0:09:39.05,0:09:42.35,Default,,0,0,0,,{}Their love life gets covered on the net though.
-Dialogue: 5,0:09:42.35,0:09:42.97,Default,,0,0,0,,{}You serious?!
-Dialogue: 5,0:09:42.97,0:09:46.44,Default,,0,0,0,,{}Thousands and thousands of people watching your private life!
-Dialogue: 5,0:09:46.44,0:09:48.81,Default,,0,0,0,,{}Imagine everyone knowing about it except for you!
-Dialogue: 5,0:09:48.81,0:09:50.36,Default,,0,0,0,,{}How dreadful!
-Dialogue: 5,0:09:50.36,0:09:54.32,Default,,0,0,0,,{}What makes it to the net can never be taken down.
-Dialogue: 5,0:09:54.32,0:09:56.49,Default,,0,0,0,,{}People may even start trolling or white knighting you.
-Dialogue: 5,0:09:56.49,0:09:58.78,Default,,0,0,0,,{}The data may haunt you for all your life.
-Dialogue: 5,0:09:58.78,0:09:59.78,Default,,0,0,0,,{}The net's so scary!
-Dialogue: 5,0:09:59.78,0:10:02.08,Default,,0,0,0,,{}We must be careful!
-Dialogue: 5,0:10:02.08,0:10:04.79,Default,,0,0,0,,{}Anyway, aren't pandas cute?
-Dialogue: 5,0:10:04.79,0:10:07.66,Default,,0,0,0,,{}Loving pandas totally fits your cute personality!
-Dialogue: 5,0:10:07.66,0:10:09.12,Default,,0,0,0,,{}I love pandas!
-Dialogue: 5,0:10:09.12,0:10:11.79,Default,,0,0,0,,{}Seriously, I don't give a fuck about pandas.
-Dialogue: 5,0:10:11.79,0:10:13.84,Default,,0,0,0,,{}Their eyes are damn creepy too.
-Dialogue: 5,0:10:13.84,0:10:16.55,Default,,0,0,0,,{}So you all like the giant panda?
-Dialogue: 5,0:10:16.55,0:10:19.30,Default,,0,0,0,,{}Is there anyone who doesn't?
-Dialogue: 5,0:10:19.30,0:10:23.06,Default,,0,0,0,,{}Please remember the lesser panda too every now and then.
-Dialogue: 5,0:10:23.06,0:10:27.56,Default,,0,0,0,,{}Right, that small brown thing was called a panda first,
-Dialogue: 5,0:10:27.56,0:10:29.81,Default,,0,0,0,,{}but when the giant panda was discovered,
-Dialogue: 5,0:10:29.81,0:10:32.61,Default,,0,0,0,,{}the poor thing got labelled "lesser."
-Dialogue: 5,0:10:32.61,0:10:34.44,Default,,0,0,0,,{}It's called that in Japanese?
-Dialogue: 5,0:10:34.44,0:10:36.23,Default,,0,0,0,,{}The English word "lesser" is borrowed.{lol she explains it's less->lesser...}
-Dialogue: 5,0:10:36.23,0:10:39.03,Default,,0,0,0,,{}It means "not so much" or "smaller."
-Dialogue: 5,0:10:39.03,0:10:41.20,Default,,0,0,0,,{}It's tough to be compared like that.
-Dialogue: 5,0:10:41.20,0:10:45.24,Default,,0,0,0,,{}At least call it the red panda or the standing panda...
-Dialogue: 5,0:10:45.95,0:10:48.21,Default,,0,0,0,,{}Not everyone's standing straight!{*}
-Dialogue: 5,0:10:48.21,0:10:49.83,Default,,0,0,0,,{}And the giant panda can stand up too.
-Dialogue: 5,0:10:49.83,0:10:51.96,Default,,0,0,0,,{}That's an even lesser chance!{*}
-Dialogue: 5,0:10:51.96,0:10:56.21,Default,,0,0,0,,{}How come no one complains about the Chinese word for them? That means "big cat bear."
-Dialogue: 5,0:10:56.96,0:10:58.34,Default,,0,0,0,,{}It's not a cat, no matter how you look at it!
-Dialogue: 5,0:10:58.34,0:10:59.13,Default,,0,0,0,,{}It's a bear!
-Dialogue: 5,0:10:59.13,0:11:02.93,Default,,0,0,0,,{}But some people call that blue and round one a cat too.
-Dialogue: 5,0:11:02.93,0:11:05.72,Default,,0,0,0,,{}He's not a cat, just a cat-form robot!
-Dialogue: 5,0:11:05.72,0:11:11.19,Default,,0,0,0,,{}Bear, cat, robot, it doesn't change its popularity.
-Dialogue: 5,0:11:11.19,0:11:12.52,Default,,0,0,0,,{}Bears are so scary!
-Dialogue: 5,0:11:12.52,0:11:14.98,Default,,0,0,0,,{}Brown bears are smart and tenacious.
-Dialogue: 5,0:11:14.98,0:11:17.44,Default,,0,0,0,,{}I've heard stories that they destroyed whole villages!
-Dialogue: 5,0:11:17.44,0:11:21.82,Default,,0,0,0,,{}Speaking of scary, gorillas throw crap at people.
-Dialogue: 5,0:11:23.57,0:11:27.58,Default,,0,0,0,,{}Wait, wasn't there another crap alert too?
-Dialogue: 5,0:11:27.58,0:11:28.83,Default,,0,0,15,,{}It was at the hippo.
-Dialogue: 5,0:11:28.83,0:11:31.75,Default,,0,0,0,,{}It throws crap around with its tail.
-Dialogue: 5,0:11:31.75,0:11:33.67,Default,,0,0,0,,{}Camels spit.
-Dialogue: 5,0:11:33.67,0:11:35.38,Default,,0,0,0,,{}That's some weird fetish!
-Dialogue: 5,0:11:35.38,0:11:38.17,Default,,0,0,0,,{}What's your favorite animal, Kukuru?
-Dialogue: 5,0:11:38.17,0:11:39.84,Default,,0,0,0,,{}Wait, let me guess!
-Dialogue: 5,0:11:39.84,0:11:41.38,Default,,0,0,0,,{}I'd say it's the giraffe!
-Dialogue: 5,0:11:41.38,0:11:43.22,Default,,0,0,0,,{}I like giraffes.
-Dialogue: 5,0:11:43.22,0:11:45.60,Default,,0,0,0,,{}It's long tongue is so creepy-cute!
-Dialogue: 5,0:11:45.60,0:11:49.52,Default,,0,0,0,,{}Yours should be the specter lemur. Fits you well.
-Dialogue: 5,0:11:49.52,0:11:51.14,Default,,0,0,0,,{}Is that a grade school nickname or what?!
-Dialogue: 5,0:11:51.14,0:11:53.90,Default,,0,0,0,,{}Just because I'm bespectacled, they'd call me specter lemur...
-Dialogue: 5,0:11:53.90,0:11:55.56,Default,,0,0,0,,{}Spectacled bear... Spectacled caiman...
-Dialogue: 5,0:11:55.56,0:11:57.23,Default,,0,0,0,,{}Spectacled owl... Spectacled flying fox!{she says fish, but that's called "stargazer" in english}
-Dialogue: 5,0:11:57.23,0:11:58.40,Default,,0,0,0,,{}I get fed up with it!
-Dialogue: 5,0:11:58.40,0:11:59.57,Default,,0,0,0,,{}Sorry.
-Dialogue: 5,0:11:59.57,0:12:01.19,Default,,0,0,0,,{}I like polar bears.
-Dialogue: 5,0:12:01.19,0:12:03.95,Default,,0,0,0,,{}It's gotten attention for its cafe recently.
-Dialogue: 5,0:12:03.95,0:12:06.58,Default,,0,0,0,,{}When they're little, they're so cute!
-Dialogue: 5,0:12:06.58,0:12:07.78,Default,,0,0,0,,{}Like stuffed toys!
-Dialogue: 5,0:12:07.78,0:12:09.04,Default,,0,0,0,,{}And you, Marii?
-Dialogue: 5,0:12:09.04,0:12:12.16,Default,,0,0,0,,{}Koalas, I guess? Nothing special.
-Dialogue: 5,0:12:12.16,0:12:14.37,Default,,0,0,0,,{}That's surprisingly normal.
-Dialogue: 5,0:12:14.37,0:12:15.92,Default,,0,0,0,,{}I thought you'd say the kangaroo.
-Dialogue: 5,0:12:15.92,0:12:16.67,Default,,0,0,0,,{}Why?
-Dialogue: 5,0:12:16.67,0:12:18.59,Default,,0,0,0,,{}I thought you'd feel close to it.
-Dialogue: 5,0:12:18.59,0:12:21.09,Default,,0,0,0,,{}It looks just like you when lying down.
-Dialogue: 5,0:12:21.09,0:12:22.26,Default,,0,0,0,,{}Are you calling me an old fart?!
-Dialogue: 5,0:12:22.26,0:12:25.01,Default,,0,0,0,,{}Yeah, Marii's no old fart!
-Dialogue: 5,0:12:25.01,0:12:26.39,Default,,0,0,0,,{}She's a kid.
-Dialogue: 5,0:12:26.39,0:12:29.35,Default,,0,0,0,,{}What do you like then, Kukuru?
-Dialogue: 5,0:12:29.35,0:12:31.39,Default,,0,0,0,,{}Naked mole rat.
-Dialogue: 5,0:12:34.06,0:12:35.94,Default,,0,0,0,,{}Creepy! Ugly!
-Dialogue: 5,0:12:35.94,0:12:37.52,Default,,0,0,0,,{}Naked mole rats.
-Dialogue: 5,0:12:37.52,0:12:40.53,Default,,0,0,0,,{}They're unusual for having a queen.
-Dialogue: 5,0:12:40.53,0:12:43.82,Default,,0,0,0,,{}Their society consists of the queen and a number of males,
-Dialogue: 5,0:12:43.82,0:12:47.53,Default,,0,0,0,,{}who are worker rats just like worker bees and build their village.
-Dialogue: 5,0:12:47.53,0:12:48.95,Default,,0,0,0,,{}And you like this?
-Dialogue: 5,0:12:48.95,0:12:52.08,Default,,0,0,0,,{}Yeah. They live so long even though they're rats.
-Dialogue: 5,0:12:52.08,0:12:53.50,Default,,0,0,0,,{}They don't get cancer either.
-Dialogue: 5,0:12:54.83,0:12:58.04,Default,,0,0,0,,{}They say there aren't any revolts against the queen
-Dialogue: 5,0:12:58.04,0:13:01.63,Default,,0,0,0,,{}because she covers the others in her urine.
-Dialogue: 5,0:13:01.63,0:13:02.84,Default,,0,0,0,,{}Her urine?!
-Dialogue: 5,0:13:02.84,0:13:05.05,Default,,0,0,0,,{}No one would want to revolt then...
-Dialogue: 5,0:13:05.05,0:13:06.80,Default,,0,0,0,,{}Humans would be the same.
-Dialogue: 5,0:13:06.80,0:13:08.72,Default,,0,0,0,,{}Some people would even be happy about it.
-Dialogue: 5,0:13:08.72,0:13:11.72,Default,,0,0,0,,{}I could've lived without knowing that.
-Dialogue: 5,0:13:11.72,0:13:15.31,Default,,0,0,0,,{}I know animal trivia too!
-Dialogue: 5,0:13:15.31,0:13:17.60,Default,,0,0,0,,{}The polar bear's skin is black!
-Dialogue: 5,0:13:17.60,0:13:20.02,Default,,0,0,0,,{}That doesn't look like it at all!
-Dialogue: 5,0:13:20.02,0:13:23.53,Default,,0,0,0,,{}Its fur isn't white either! It's transparent!
-Dialogue: 5,0:13:23.53,0:13:25.07,Default,,0,0,0,,{}Then what, it should be called the invisible bear?
-Dialogue: 5,0:13:25.07,0:13:26.53,Default,,0,0,0,,{}It isn't cute at all!
-Dialogue: 5,0:13:26.53,0:13:29.32,Default,,0,0,0,,{}Giraffes use their own backs as pillows when they sleep.
-Dialogue: 5,0:13:33.08,0:13:36.87,Default,,0,0,0,,{}Elephants walk at 40 kilometers an hour. Surprisingly fast.
-Dialogue: 5,0:13:38.79,0:13:39.63,Default,,0,0,0,,{}Elephants...
-Dialogue: 5,0:13:40.63,0:13:41.59,Default,,0,0,0,,{}What's wrong?
-Dialogue: 5,0:13:42.59,0:13:44.46,Default,,0,0,0,,{}Faithful Elephants...
-Dialogue: 5,0:13:44.46,0:13:47.47,Default,,0,0,0,,{}Stop it! Don't mention that book!
-Dialogue: 5,0:13:47.47,0:13:49.47,Default,,0,0,0,,{}Just hearing the title makes me cry!
-Dialogue: 5,0:13:49.47,0:13:50.72,Default,,0,0,0,,{}Damn war!
-Dialogue: 5,0:13:51.56,0:13:52.93,Default,,0,0,0,,{}Gon, the little fox...
-Dialogue: 5,0:13:54.89,0:13:58.14,Default,,0,0,0,,{}Stop it, seriously! Don't make me remember!
-Dialogue: 5,0:13:58.14,0:14:00.06,Default,,0,0,0,,{}The Happy Prince...
-Dialogue: 5,0:14:00.06,0:14:03.40,Default,,0,0,0,,{}Little swallow, why didn't you fly south?!
-Dialogue: 5,0:14:03.40,0:14:04.36,Default,,0,0,0,,{}Tarou and Jirou!
-Dialogue: 5,0:14:04.36,0:14:06.15,Default,,0,0,0,,{}South Pole! Reunion!
-Dialogue: 5,0:14:06.15,0:14:07.32,Default,,0,0,0,,{}That was so good!
-Dialogue: 5,0:14:07.32,0:14:08.78,Default,,0,0,0,,{}Milo...{chatran in jp}
-Dialogue: 5,0:14:12.08,0:14:13.20,Default,,0,0,0,,{}Hachiko...
-Dialogue: 5,0:14:13.87,0:14:15.91,Default,,0,0,0,,{}Hachi!
-Dialogue: 5,0:14:19.88,0:14:21.29,Default,,0,0,0,,{}We walked around quite a lot.
-Dialogue: 5,0:14:21.29,0:14:23.13,Default,,0,0,0,,{}But we couldn't see it all.
-Dialogue: 5,0:14:23.13,0:14:27.34,Default,,0,0,0,,{}There were quite a few animals I didn't know or saw for the first time.
-Dialogue: 5,0:14:27.34,0:14:29.30,Default,,0,0,0,,{}Let's come again.
-Dialogue: 5,0:14:31.18,0:14:32.26,Default,,0,0,0,,{}Pimo...
-Dialogue: 5,0:14:32.26,0:14:34.43,Default,,0,0,0,,{}Pimo? What's that?
-Dialogue: 5,0:14:34.43,0:14:37.60,Default,,0,0,0,,{}Everyone's seen it at least once,
-Dialogue: 5,0:14:37.60,0:14:40.69,Default,,0,0,0,,{}but no one knows how it was born or got its name.
-Dialogue: 5,0:14:40.69,0:14:42.27,Default,,0,0,0,,{}Did we really see that animal?
-Dialogue: 5,0:14:43.73,0:14:45.40,Default,,0,0,0,,{}Where?
-Dialogue: 5,0:15:14.10,0:15:17.22,Default,,0,0,0,,{}Don't sleep on the job!
-Dialogue: 5,0:15:17.22,0:15:19.94,Default,,0,0,0,,{}What if the Master catches you?
-Dialogue: 5,0:15:19.94,0:15:21.23,Default,,0,0,0,,{}You're the one who's sleeping.
-Dialogue: 5,0:15:21.23,0:15:25.23,Default,,0,0,0,,{}Why does the Japanese idiom for "sound asleep" literally mean "night boat on Shirakawa"?
-Dialogue: 5,0:15:25.23,0:15:29.07,Default,,0,0,0,,{}Shirakawa isn't a river, it's a place in Kyoto.
-Dialogue: 5,0:15:29.07,0:15:32.66,Default,,0,0,0,,{}Once, a guy who claimed to have seen it all was asked "how was Shirakawa?"
-Dialogue: 5,0:15:32.66,0:15:39.20,Default,,0,0,0,,{}He lied, "I passed by it on a boat, but I was asleep so I didn't see anything." That's why.
-Dialogue: 5,0:15:39.20,0:15:41.83,Default,,0,0,0,,{}Originally, it referred to someone who acts in a know-it-all manner.
-Dialogue: 5,0:15:42.54,0:15:43.96,Default,,0,0,0,,{}At least, that's what I read on the Internet.
-Dialogue: 5,0:15:43.96,0:15:45.00,Default,,0,0,0,,{}The Internet's amazing!
-Dialogue: 5,0:15:45.00,0:15:47.96,Default,,0,0,0,,{}"Idle one's life away" and "slovenly" both have "sleep" in them.
-Dialogue: 5,0:15:47.96,0:15:51.42,Default,,0,0,0,,{}Society is so dismissive about sleeping.
-Dialogue: 5,0:15:51.42,0:15:53.51,Default,,0,0,0,,{}But they also say "kids who sleep well grow up big and strong."
-Dialogue: 5,0:15:53.51,0:15:55.39,Default,,0,0,0,,{}Only children are allowed to sleep.
-Dialogue: 5,0:15:55.39,0:15:57.26,Default,,0,0,0,,{}Adults cannot.
-Dialogue: 5,0:15:57.26,0:15:59.89,Default,,0,0,0,,{}That's no good.
-Dialogue: 5,0:15:59.89,0:16:02.73,Default,,0,0,0,,{}It's okay to sleep...
-Dialogue: 5,0:16:02.73,0:16:05.48,Default,,0,0,0,,{}They say "sleep and let fortune strike you."
-Dialogue: 5,0:16:05.48,0:16:07.69,Default,,0,0,0,,{}That's my personal motto.
-Dialogue: 5,0:16:07.69,0:16:11.99,Default,,0,0,0,,{}It's not often that she actually quotes a proverb correctly.
-Dialogue: 5,0:16:11.99,0:16:13.41,Default,,0,0,0,,{}Maybe she can only do it in her sleep.
-Dialogue: 5,0:16:13.41,0:16:17.37,Default,,0,0,0,,{}If only we could just sleep and let good fortune come to us.
-Dialogue: 5,0:16:18.66,0:16:21.33,Default,,0,0,0,,{}I can't eat another bite!
-Dialogue: 5,0:16:21.33,0:16:22.79,Default,,0,0,0,,{}She sure is hitting the sleeptalking clichés.
-Dialogue: 5,0:16:24.37,0:16:26.25,Default,,0,0,0,,{}One of your fans sent this.
-Dialogue: 5,0:16:27.71,0:16:28.50,Default,,0,0,0,,{}It happened!
-Dialogue: 5,0:16:28.50,0:16:30.05,Default,,0,0,0,,{}Fortune smiles upon us!
-Dialogue: 5,0:16:30.05,0:16:31.72,Default,,0,0,0,,{}Marii, Marii!
-Dialogue: 5,0:16:31.72,0:16:34.84,Default,,0,0,0,,{}Quiet. Don't wake her just yet.
-Dialogue: 5,0:16:34.84,0:16:36.76,Default,,0,0,0,,{}Let's dig in!
-Dialogue: 5,0:16:38.89,0:16:39.85,Default,,0,0,0,,{}It's so good...
-Dialogue: 5,0:16:39.85,0:16:40.77,Default,,0,0,0,,{}Yummy!
-Dialogue: 5,0:16:40.77,0:16:42.23,Default,,0,0,0,,{}These taste great.
-Dialogue: 5,0:16:43.02,0:16:45.98,Default,,0,0,0,,{}Hey, slow down! We shouldn't eat them all.
-Dialogue: 5,0:16:45.98,0:16:48.11,Default,,0,0,0,,{}You're eating the last one.
-Dialogue: 5,0:16:51.44,0:16:53.32,Default,,0,0,0,,{}Did anything lucky happen?
-Dialogue: 5,0:16:53.32,0:16:56.28,Default,,0,0,0,,{}No, nothing...
-Dialogue: 5,0:16:56.28,0:16:57.74,Default,,0,0,0,,{}Really?
-Dialogue: 5,0:16:57.74,0:16:59.16,Default,,0,0,0,,{}R-Really.
-Dialogue: 5,0:16:59.16,0:17:00.33,Default,,0,0,0,,{}Of course not!
-Dialogue: 5,0:17:00.33,0:17:03.08,Default,,0,0,0,,{}Life would be far too easy if fortune just came to us as we slept.
-Dialogue: 5,0:17:03.08,0:17:05.17,Default,,0,0,0,,{}Feel free to snooze a bit longer.
-Dialogue: 5,0:17:05.54,0:17:07.13,Default,,0,0,0,,{}She's out like a light.
-Dialogue: 5,0:17:08.42,0:17:10.80,Default,,0,0,0,,{}We're gonna be famous!
-Dialogue: 5,0:17:10.80,0:17:12.17,Default,,0,0,0,,{}What are you talking about?
-Dialogue: 5,0:17:13.76,0:17:15.18,Default,,0,0,0,,{}Are you free tomorrow?
-Dialogue: 5,0:17:15.18,0:17:18.09,Default,,0,0,0,,{}We're filming a commercial and we need five more people.
-Dialogue: 5,0:17:18.09,0:17:19.93,Default,,0,0,0,,{}Are any of you interested?
-Dialogue: 5,0:17:19.93,0:17:21.89,Default,,0,0,0,,{}Me!
-Dialogue: 5,0:17:21.89,0:17:23.64,Default,,0,0,0,,{}Okay, then you five it is.
-Dialogue: 5,0:17:23.64,0:17:25.81,Default,,0,0,0,,{}I'll call you with the details later.
-Dialogue: 5,0:17:26.90,0:17:29.27,Default,,0,0,0,,{}We don't need a sixth one.
-Dialogue: 5,0:17:35.90,0:17:36.78,Default,,0,0,0,,{}It...
-Dialogue: 5,0:17:36.78,0:17:38.99,Default,,0,0,0,,{}happened again...
-Dialogue: 5,0:17:39.57,0:17:43.29,Default,,0,0,0,,{}Fortune strikes when Marii sleeps!
-Dialogue: 5,0:17:49.25,0:17:52.21,Default,,0,0,0,,{}No, nothing happened...
-Dialogue: 5,0:17:52.21,0:17:53.67,Default,,0,0,0,,{}Really?
-Dialogue: 5,0:17:53.67,0:17:55.76,Default,,0,0,0,,{}R-Really.
-Dialogue: 5,0:17:55.76,0:17:56.97,Default,,0,0,0,,{}Of course not!
-Dialogue: 5,0:18:01.14,0:18:03.18,Default,,0,0,0,,{}That nap sure was refreshing!
-Dialogue: 5,0:18:15.90,0:18:16.69,Default,,0,0,0,,{}What?!
-Dialogue: 5,0:18:16.69,0:18:19.36,Default,,0,0,0,,{}Don't be fooled. She's fast asleep.
-Dialogue: 5,0:18:19.36,0:18:21.91,Default,,0,0,0,,{}That's true, but...
-Dialogue: 5,0:18:23.37,0:18:27.50,Default,,0,0,0,,{}So many cats... I'm in purr-adise!
-Dialogue: 5,0:18:33.88,0:18:35.84,Default,,0,0,0,,{}Omigosh, they're so cute!
-Dialogue: 5,0:18:39.76,0:18:41.72,Default,,0,0,0,,{}These kittens are adorable!
-Dialogue: 5,0:18:46.77,0:18:49.64,Default,,0,0,0,,{}Fare-meow!
-Dialogue: 5,0:18:51.56,0:18:53.36,Default,,0,0,0,,{}What's that racket?
-Dialogue: 5,0:18:53.36,0:18:56.19,Default,,0,0,0,,{}Huh? You all look so kind and peaceful.
-Dialogue: 5,0:18:56.19,0:18:57.78,Default,,0,0,0,,{}Shit, she's awake.
-Dialogue: 5,0:18:59.15,0:19:01.74,Default,,0,0,0,,{}Why are you glaring all of a sudden?
-Dialogue: 5,0:19:10.12,0:19:11.58,Default,,0,0,0,,{}Where'd you learn to do that?!
-Dialogue: 5,0:19:11.58,0:19:14.09,Default,,0,0,0,,{}The water feels so nice...
-Dialogue: 5,0:19:14.09,0:19:16.55,Default,,0,0,0,,{}I love hot springs...{"I love fanservice scenes..."}
-Dialogue: 5,0:19:22.93,0:19:25.93,Default,,0,0,0,,{}Huh? You all look so flushed and full of life.
-Dialogue: 5,0:19:25.93,0:19:26.93,Default,,0,0,0,,{}Shit, she's awake.
-Dialogue: 5,0:19:26.93,0:19:29.64,Default,,0,0,0,,{}Why do you look so clammy and dead all of a sudden?
-Dialogue: 5,0:19:40.65,0:19:42.20,Default,,0,0,0,,{}Chloroform?!
-Dialogue: 5,0:19:42.20,0:19:45.53,Default,,0,0,0,,{}Oh look, I won a beauty contest...
-Dialogue: 5,0:19:53.04,0:19:56.00,Default,,0,0,0,,{}The principal's giving a speech!
-Dialogue: 5,0:19:56.00,0:19:57.42,Default,,0,0,0,,{}Here's some warm milk before bed!
-Dialogue: 5,0:19:58.21,0:19:59.34,Default,,0,0,0,,{}Have some lamb!
-Dialogue: 5,0:20:00.17,0:20:03.51,Default,,0,0,0,,{}Good evening. I'm Morimoto Reo.
-Dialogue: 5,0:20:04.14,0:20:06.10,Default,,0,0,0,,{}I'm not sleepy anymore!
-Dialogue: 5,0:20:09.06,0:20:11.43,Default,,0,0,0,,{}Someone make her fall asleep!
-Dialogue: 5,0:20:11.43,0:20:14.02,Default,,0,0,0,,{}It won't be that easy.
-Dialogue: 5,0:20:15.98,0:20:19.94,Default,,0,0,0,,{}I wish we'd win the lottery...
-Dialogue: 5,0:20:19.94,0:20:22.36,Default,,0,0,0,,{}Sleeptalk when you're sleeping!
-Dialogue: 5,0:20:24.49,0:20:25.82,Default,,0,0,0,,{}That was so close!
-Dialogue: 5,0:20:25.82,0:20:28.49,Default,,0,0,0,,{}Just a moment later and it would've been sleeptalking!
-Dialogue: 5,0:20:28.49,0:20:31.45,Default,,0,0,0,,{}This time, you'd better say something grand and opulent!
-Dialogue: 5,0:20:33.33,0:20:37.09,Default,,0,0,0,,{}The wife of an Arabian prince?
-Dialogue: 5,0:20:37.09,0:20:41.17,Default,,0,0,0,,{}I'm Zouebi bin Sultan al Tequila.
-Dialogue: 5,0:20:41.17,0:20:43.30,Default,,0,0,0,,{}I can have up to five wives.
-Dialogue: 5,0:20:43.30,0:20:45.26,Default,,0,0,0,,{}Me!
-Dialogue: 5,0:20:45.26,0:20:48.35,Default,,0,0,0,,{}Then consider this our provisional engagement.
-Dialogue: 5,0:20:49.14,0:20:51.35,Default,,0,0,0,,{}I don't need a sixth one.
-Dialogue: 5,0:20:54.39,0:20:56.06,Default,,0,0,0,,{}Don't you think...
-Dialogue: 5,0:20:56.06,0:20:59.40,Default,,0,0,0,,{}...we're a bit too lucky for our own good?{aren't there a bit too many convenient coincidences}
-Dialogue: 5,0:21:00.94,0:21:03.82,Default,,0,0,0,,{}I'm a national idol...
-Dialogue: 5,0:21:04.86,0:21:07.41,Default,,0,0,0,,{}The CM we made was a huge success.
-Dialogue: 5,0:21:07.41,0:21:10.03,Default,,0,0,0,,{}Momokuro need five more people.
-Dialogue: 5,0:21:10.03,0:21:12.50,Default,,0,0,0,,{}It's okay!
-Dialogue: 5,0:21:17.79,0:21:19.38,Default,,0,0,0,,{}Next up, we go on tour!
-Dialogue: 5,0:21:19.38,0:21:21.09,Default,,0,0,0,,{}Let's make it a huge success...
-Dialogue: 5,0:21:21.09,0:21:22.59,Default,,0,0,0,,{}Win the elections...
-Dialogue: 5,0:21:22.59,0:21:25.17,Default,,0,0,0,,{}And launch our own solo careers!
-Dialogue: 5,0:21:32.14,0:21:36.77,Default,,0,0,0,,{}It really does feel like we've been far too lucky.
-Dialogue: 5,0:21:36.77,0:21:37.94,Default,,0,0,0,,{}Yeah.
-Dialogue: 5,0:21:39.11,0:21:40.86,Default,,0,0,0,,{}What if...
-Dialogue: 5,0:21:40.86,0:21:42.86,Default,,0,0,0,,{}we're all just...
-Dialogue: 5,0:21:42.86,0:21:47.61,Default,,0,0,0,,{}part of Marii's dream?
-Dialogue: 5,0:21:56.41,0:22:00.96,Default,,0,0,0,,{}The world ends.
-Dialogue: 5,0:23:42.09,0:23:43.77,Default,,0,0,0,,{}I'm Bouhatei Tetora.
-Dialogue: 5,0:23:43.77,0:23:49.20,Default,,0,0,0,,{}3 cucumbers at 98 yen or 5 cucumbers at 120 yen, which is the better deal I wonder?
-Dialogue: 5,0:23:49.36,0:23:52.30,Default,,0,0,0,,{}As much as I love cucumbers, there's no way that I'd be able to eat them all...
-Dialogue: 5,0:23:52.53,0:23:55.57,Default,,0,0,0,,{}Even if I keep them in the fridge, \Nthey'll just become pliant.
-Dialogue: 5,0:24:03.67,0:24:09.84,Default,,0,0,0,,{}Pumpkin Band, Battle of Shinjuku and Cavity Shore will be performed.
+Dialogue: 5,0:08:25.35,0:08:27.61,Default,,0,0,0,,Look, there aren't any flamingos!
+Dialogue: 5,0:08:27.61,0:08:30.53,Default,,0,0,0,,Flamingos are the stars of zoos!
+Dialogue: 5,0:08:30.53,0:08:33.15,Default,,0,0,0,,We'd waste time taking photos and stuff,
+Dialogue: 5,0:08:33.15,0:08:35.53,Default,,0,0,0,,then just run around in a hurry later!
+Dialogue: 5,0:08:35.53,0:08:38.53,Default,,0,0,0,,Yeah, everyone loves how elegant they are.
+Dialogue: 5,0:08:38.53,0:08:40.74,Default,,0,0,0,,Everything about them feels so unusual.
+Dialogue: 5,0:08:40.74,0:08:43.62,Default,,0,0,0,,But why do they always put flamingos at the entrance?
+Dialogue: 5,0:08:43.62,0:08:48.46,Default,,0,0,0,,Flamingos stand on one leg to minimize heat loss from the cool water.
+Dialogue: 5,0:08:48.46,0:08:51.17,Default,,0,0,0,,The entrance always has very little shade.
+Dialogue: 5,0:08:51.17,0:08:52.88,Default,,0,0,0,,Are they elderly bathing in the sun or what?!
+Dialogue: 5,0:08:56.68,0:08:57.93,Default,,0,0,0,,It's the panda!
+Dialogue: 5,0:08:57.93,0:08:59.60,Default,,0,0,0,,Starting with the panda is like
+Dialogue: 5,0:08:59.60,0:09:02.06,Default,,0,0,0,,eating a whole meal starting with the meat,
+Dialogue: 5,0:09:02.06,0:09:05.98,Default,,0,0,0,,or announcing election results starting with first place.
+Dialogue: 5,0:09:05.98,0:09:07.85,Default,,0,0,0,,Nothing less from the Ueno Zoo.
+Dialogue: 5,0:09:07.85,0:09:10.11,Default,,0,0,0,,They brought out the big guns right away.
+Dialogue: 5,0:09:10.11,0:09:13.40,Default,,0,0,0,,They're confident enough that the zoo's not all about the panda.
+Dialogue: 5,0:09:13.40,0:09:15.95,Default,,0,0,0,,They may be just naive enough to think
+Dialogue: 5,0:09:15.95,0:09:20.03,Default,,0,0,0,,that if people bought the ticket already, they'll want to see more.
+Dialogue: 5,0:09:20.03,0:09:22.04,Default,,0,0,0,,Aren't you reading a bit too much into it?
+Dialogue: 5,0:09:22.04,0:09:24.04,Default,,0,0,0,,But no matter what, the panda's the panda!
+Dialogue: 5,0:09:24.04,0:09:25.50,Default,,0,0,0,,We've gotta check it out!
+Dialogue: 5,0:09:28.04,0:09:30.38,Default,,0,0,0,,It's not moving!
+Dialogue: 5,0:09:30.38,0:09:33.88,Default,,0,0,0,,Zoo animals do that.
+Dialogue: 5,0:09:33.88,0:09:37.34,Default,,0,0,0,,Well, they don't have to worry about their daily bread.
+Dialogue: 5,0:09:37.34,0:09:39.05,Default,,0,0,0,,I'd love a life like that.
+Dialogue: 5,0:09:39.05,0:09:42.35,Default,,0,0,0,,Their love life gets covered on the net though.
+Dialogue: 5,0:09:42.35,0:09:42.97,Default,,0,0,0,,You serious?!
+Dialogue: 5,0:09:42.97,0:09:46.44,Default,,0,0,0,,Thousands and thousands of people watching your private life!
+Dialogue: 5,0:09:46.44,0:09:48.81,Default,,0,0,0,,Imagine everyone knowing about it except for you!
+Dialogue: 5,0:09:48.81,0:09:50.36,Default,,0,0,0,,How dreadful!
+Dialogue: 5,0:09:50.36,0:09:54.32,Default,,0,0,0,,What makes it to the net can never be taken down.
+Dialogue: 5,0:09:54.32,0:09:56.49,Default,,0,0,0,,People may even start trolling or white knighting you.
+Dialogue: 5,0:09:56.49,0:09:58.78,Default,,0,0,0,,The data may haunt you for all your life.
+Dialogue: 5,0:09:58.78,0:09:59.78,Default,,0,0,0,,The net's so scary!
+Dialogue: 5,0:09:59.78,0:10:02.08,Default,,0,0,0,,We must be careful!
+Dialogue: 5,0:10:02.08,0:10:04.79,Default,,0,0,0,,Anyway, aren't pandas cute?
+Dialogue: 5,0:10:04.79,0:10:07.66,Default,,0,0,0,,Loving pandas totally fits your cute personality!
+Dialogue: 5,0:10:07.66,0:10:09.12,Default,,0,0,0,,I love pandas!
+Dialogue: 5,0:10:09.12,0:10:11.79,Default,,0,0,0,,Seriously, I don't give a fuck about pandas.
+Dialogue: 5,0:10:11.79,0:10:13.84,Default,,0,0,0,,Their eyes are damn creepy too.
+Dialogue: 5,0:10:13.84,0:10:16.55,Default,,0,0,0,,So you all like the giant panda?
+Dialogue: 5,0:10:16.55,0:10:19.30,Default,,0,0,0,,Is there anyone who doesn't?
+Dialogue: 5,0:10:19.30,0:10:23.06,Default,,0,0,0,,Please remember the lesser panda too every now and then.
+Dialogue: 5,0:10:23.06,0:10:27.56,Default,,0,0,0,,Right, that small brown thing was called a panda first,
+Dialogue: 5,0:10:27.56,0:10:29.81,Default,,0,0,0,,but when the giant panda was discovered,
+Dialogue: 5,0:10:29.81,0:10:32.61,Default,,0,0,0,,the poor thing got labelled "lesser."
+Dialogue: 5,0:10:32.61,0:10:34.44,Default,,0,0,0,,It's called that in Japanese?
+Dialogue: 5,0:10:34.44,0:10:36.23,Default,,0,0,0,,The English word "lesser" is borrowed.{lol she explains it's less->lesser...}
+Dialogue: 5,0:10:36.23,0:10:39.03,Default,,0,0,0,,It means "not so much" or "smaller."
+Dialogue: 5,0:10:39.03,0:10:41.20,Default,,0,0,0,,It's tough to be compared like that.
+Dialogue: 5,0:10:41.20,0:10:45.24,Default,,0,0,0,,At least call it the red panda or the standing panda...
+Dialogue: 5,0:10:45.95,0:10:48.21,Default,,0,0,0,,Not everyone's standing straight!{*}
+Dialogue: 5,0:10:48.21,0:10:49.83,Default,,0,0,0,,And the giant panda can stand up too.
+Dialogue: 5,0:10:49.83,0:10:51.96,Default,,0,0,0,,That's an even lesser chance!{*}
+Dialogue: 5,0:10:51.96,0:10:56.21,Default,,0,0,0,,How come no one complains about the Chinese word for them? That means "big cat bear."
+Dialogue: 5,0:10:56.96,0:10:58.34,Default,,0,0,0,,It's not a cat, no matter how you look at it!
+Dialogue: 5,0:10:58.34,0:10:59.13,Default,,0,0,0,,It's a bear!
+Dialogue: 5,0:10:59.13,0:11:02.93,Default,,0,0,0,,But some people call that blue and round one a cat too.
+Dialogue: 5,0:11:02.93,0:11:05.72,Default,,0,0,0,,He's not a cat, just a cat-form robot!
+Dialogue: 5,0:11:05.72,0:11:11.19,Default,,0,0,0,,Bear, cat, robot, it doesn't change its popularity.
+Dialogue: 5,0:11:11.19,0:11:12.52,Default,,0,0,0,,Bears are so scary!
+Dialogue: 5,0:11:12.52,0:11:14.98,Default,,0,0,0,,Brown bears are smart and tenacious.
+Dialogue: 5,0:11:14.98,0:11:17.44,Default,,0,0,0,,I've heard stories that they destroyed whole villages!
+Dialogue: 5,0:11:17.44,0:11:21.82,Default,,0,0,0,,Speaking of scary, gorillas throw crap at people.
+Dialogue: 5,0:11:23.57,0:11:27.58,Default,,0,0,0,,Wait, wasn't there another crap alert too?
+Dialogue: 5,0:11:27.58,0:11:28.83,Default,,0,0,15,,It was at the hippo.
+Dialogue: 5,0:11:28.83,0:11:31.75,Default,,0,0,0,,It throws crap around with its tail.
+Dialogue: 5,0:11:31.75,0:11:33.67,Default,,0,0,0,,Camels spit.
+Dialogue: 5,0:11:33.67,0:11:35.38,Default,,0,0,0,,That's some weird fetish!
+Dialogue: 5,0:11:35.38,0:11:38.17,Default,,0,0,0,,What's your favorite animal, Kukuru?
+Dialogue: 5,0:11:38.17,0:11:39.84,Default,,0,0,0,,Wait, let me guess!
+Dialogue: 5,0:11:39.84,0:11:41.38,Default,,0,0,0,,I'd say it's the giraffe!
+Dialogue: 5,0:11:41.38,0:11:43.22,Default,,0,0,0,,I like giraffes.
+Dialogue: 5,0:11:43.22,0:11:45.60,Default,,0,0,0,,It's long tongue is so creepy-cute!
+Dialogue: 5,0:11:45.60,0:11:49.52,Default,,0,0,0,,Yours should be the specter lemur. Fits you well.
+Dialogue: 5,0:11:49.52,0:11:51.14,Default,,0,0,0,,Is that a grade school nickname or what?!
+Dialogue: 5,0:11:51.14,0:11:53.90,Default,,0,0,0,,Just because I'm bespectacled, they'd call me specter lemur...
+Dialogue: 5,0:11:53.90,0:11:55.56,Default,,0,0,0,,Spectacled bear... Spectacled caiman...
+Dialogue: 5,0:11:55.56,0:11:57.23,Default,,0,0,0,,Spectacled owl... Spectacled flying fox!{she says fish, but that's called "stargazer" in english}
+Dialogue: 5,0:11:57.23,0:11:58.40,Default,,0,0,0,,I get fed up with it!
+Dialogue: 5,0:11:58.40,0:11:59.57,Default,,0,0,0,,Sorry.
+Dialogue: 5,0:11:59.57,0:12:01.19,Default,,0,0,0,,I like polar bears.
+Dialogue: 5,0:12:01.19,0:12:03.95,Default,,0,0,0,,It's gotten attention for its cafe recently.
+Dialogue: 5,0:12:03.95,0:12:06.58,Default,,0,0,0,,When they're little, they're so cute!
+Dialogue: 5,0:12:06.58,0:12:07.78,Default,,0,0,0,,Like stuffed toys!
+Dialogue: 5,0:12:07.78,0:12:09.04,Default,,0,0,0,,And you, Marii?
+Dialogue: 5,0:12:09.04,0:12:12.16,Default,,0,0,0,,Koalas, I guess? Nothing special.
+Dialogue: 5,0:12:12.16,0:12:14.37,Default,,0,0,0,,That's surprisingly normal.
+Dialogue: 5,0:12:14.37,0:12:15.92,Default,,0,0,0,,I thought you'd say the kangaroo.
+Dialogue: 5,0:12:15.92,0:12:16.67,Default,,0,0,0,,Why?
+Dialogue: 5,0:12:16.67,0:12:18.59,Default,,0,0,0,,I thought you'd feel close to it.
+Dialogue: 5,0:12:18.59,0:12:21.09,Default,,0,0,0,,It looks just like you when lying down.
+Dialogue: 5,0:12:21.09,0:12:22.26,Default,,0,0,0,,Are you calling me an old fart?!
+Dialogue: 5,0:12:22.26,0:12:25.01,Default,,0,0,0,,Yeah, Marii's no old fart!
+Dialogue: 5,0:12:25.01,0:12:26.39,Default,,0,0,0,,She's a kid.
+Dialogue: 5,0:12:26.39,0:12:29.35,Default,,0,0,0,,What do you like then, Kukuru?
+Dialogue: 5,0:12:29.35,0:12:31.39,Default,,0,0,0,,Naked mole rat.
+Dialogue: 5,0:12:34.06,0:12:35.94,Default,,0,0,0,,Creepy! Ugly!
+Dialogue: 5,0:12:35.94,0:12:37.52,Default,,0,0,0,,Naked mole rats.
+Dialogue: 5,0:12:37.52,0:12:40.53,Default,,0,0,0,,They're unusual for having a queen.
+Dialogue: 5,0:12:40.53,0:12:43.82,Default,,0,0,0,,Their society consists of the queen and a number of males,
+Dialogue: 5,0:12:43.82,0:12:47.53,Default,,0,0,0,,who are worker rats just like worker bees and build their village.
+Dialogue: 5,0:12:47.53,0:12:48.95,Default,,0,0,0,,And you like this?
+Dialogue: 5,0:12:48.95,0:12:52.08,Default,,0,0,0,,Yeah. They live so long even though they're rats.
+Dialogue: 5,0:12:52.08,0:12:53.50,Default,,0,0,0,,They don't get cancer either.
+Dialogue: 5,0:12:54.83,0:12:58.04,Default,,0,0,0,,They say there aren't any revolts against the queen
+Dialogue: 5,0:12:58.04,0:13:01.63,Default,,0,0,0,,because she covers the others in her urine.
+Dialogue: 5,0:13:01.63,0:13:02.84,Default,,0,0,0,,Her urine?!
+Dialogue: 5,0:13:02.84,0:13:05.05,Default,,0,0,0,,No one would want to revolt then...
+Dialogue: 5,0:13:05.05,0:13:06.80,Default,,0,0,0,,Humans would be the same.
+Dialogue: 5,0:13:06.80,0:13:08.72,Default,,0,0,0,,Some people would even be happy about it.
+Dialogue: 5,0:13:08.72,0:13:11.72,Default,,0,0,0,,I could've lived without knowing that.
+Dialogue: 5,0:13:11.72,0:13:15.31,Default,,0,0,0,,I know animal trivia too!
+Dialogue: 5,0:13:15.31,0:13:17.60,Default,,0,0,0,,The polar bear's skin is black!
+Dialogue: 5,0:13:17.60,0:13:20.02,Default,,0,0,0,,That doesn't look like it at all!
+Dialogue: 5,0:13:20.02,0:13:23.53,Default,,0,0,0,,Its fur isn't white either! It's transparent!
+Dialogue: 5,0:13:23.53,0:13:25.07,Default,,0,0,0,,Then what, it should be called the invisible bear?
+Dialogue: 5,0:13:25.07,0:13:26.53,Default,,0,0,0,,It isn't cute at all!
+Dialogue: 5,0:13:26.53,0:13:29.32,Default,,0,0,0,,Giraffes use their own backs as pillows when they sleep.
+Dialogue: 5,0:13:33.08,0:13:36.87,Default,,0,0,0,,Elephants walk at 40 kilometers an hour. Surprisingly fast.
+Dialogue: 5,0:13:38.79,0:13:39.63,Default,,0,0,0,,Elephants...
+Dialogue: 5,0:13:40.63,0:13:41.59,Default,,0,0,0,,What's wrong?
+Dialogue: 5,0:13:42.59,0:13:44.46,Default,,0,0,0,,Faithful Elephants...
+Dialogue: 5,0:13:44.46,0:13:47.47,Default,,0,0,0,,Stop it! Don't mention that book!
+Dialogue: 5,0:13:47.47,0:13:49.47,Default,,0,0,0,,Just hearing the title makes me cry!
+Dialogue: 5,0:13:49.47,0:13:50.72,Default,,0,0,0,,Damn war!
+Dialogue: 5,0:13:51.56,0:13:52.93,Default,,0,0,0,,Gon, the little fox...
+Dialogue: 5,0:13:54.89,0:13:58.14,Default,,0,0,0,,Stop it, seriously! Don't make me remember!
+Dialogue: 5,0:13:58.14,0:14:00.06,Default,,0,0,0,,The Happy Prince...
+Dialogue: 5,0:14:00.06,0:14:03.40,Default,,0,0,0,,Little swallow, why didn't you fly south?!
+Dialogue: 5,0:14:03.40,0:14:04.36,Default,,0,0,0,,Tarou and Jirou!
+Dialogue: 5,0:14:04.36,0:14:06.15,Default,,0,0,0,,South Pole! Reunion!
+Dialogue: 5,0:14:06.15,0:14:07.32,Default,,0,0,0,,That was so good!
+Dialogue: 5,0:14:07.32,0:14:08.78,Default,,0,0,0,,Milo...{chatran in jp}
+Dialogue: 5,0:14:12.08,0:14:13.20,Default,,0,0,0,,Hachiko...
+Dialogue: 5,0:14:13.87,0:14:15.91,Default,,0,0,0,,Hachi!
+Dialogue: 5,0:14:19.88,0:14:21.29,Default,,0,0,0,,We walked around quite a lot.
+Dialogue: 5,0:14:21.29,0:14:23.13,Default,,0,0,0,,But we couldn't see it all.
+Dialogue: 5,0:14:23.13,0:14:27.34,Default,,0,0,0,,There were quite a few animals I didn't know or saw for the first time.
+Dialogue: 5,0:14:27.34,0:14:29.30,Default,,0,0,0,,Let's come again.
+Dialogue: 5,0:14:31.18,0:14:32.26,Default,,0,0,0,,Pimo...
+Dialogue: 5,0:14:32.26,0:14:34.43,Default,,0,0,0,,Pimo? What's that?
+Dialogue: 5,0:14:34.43,0:14:37.60,Default,,0,0,0,,Everyone's seen it at least once,
+Dialogue: 5,0:14:37.60,0:14:40.69,Default,,0,0,0,,but no one knows how it was born or got its name.
+Dialogue: 5,0:14:40.69,0:14:42.27,Default,,0,0,0,,Did we really see that animal?
+Dialogue: 5,0:14:43.73,0:14:45.40,Default,,0,0,0,,Where?
+Dialogue: 5,0:15:14.10,0:15:17.22,Default,,0,0,0,,Don't sleep on the job!
+Dialogue: 5,0:15:17.22,0:15:19.94,Default,,0,0,0,,What if the Master catches you?
+Dialogue: 5,0:15:19.94,0:15:21.23,Default,,0,0,0,,You're the one who's sleeping.
+Dialogue: 5,0:15:21.23,0:15:25.23,Default,,0,0,0,,Why does the Japanese idiom for "sound asleep" literally mean "night boat on Shirakawa"?
+Dialogue: 5,0:15:25.23,0:15:29.07,Default,,0,0,0,,Shirakawa isn't a river, it's a place in Kyoto.
+Dialogue: 5,0:15:29.07,0:15:32.66,Default,,0,0,0,,Once, a guy who claimed to have seen it all was asked "how was Shirakawa?"
+Dialogue: 5,0:15:32.66,0:15:39.20,Default,,0,0,0,,He lied, "I passed by it on a boat, but I was asleep so I didn't see anything." That's why.
+Dialogue: 5,0:15:39.20,0:15:41.83,Default,,0,0,0,,Originally, it referred to someone who acts in a know-it-all manner.
+Dialogue: 5,0:15:42.54,0:15:43.96,Default,,0,0,0,,At least, that's what I read on the Internet.
+Dialogue: 5,0:15:43.96,0:15:45.00,Default,,0,0,0,,The Internet's amazing!
+Dialogue: 5,0:15:45.00,0:15:47.96,Default,,0,0,0,,"Idle one's life away" and "slovenly" both have "sleep" in them.
+Dialogue: 5,0:15:47.96,0:15:51.42,Default,,0,0,0,,Society is so dismissive about sleeping.
+Dialogue: 5,0:15:51.42,0:15:53.51,Default,,0,0,0,,But they also say "kids who sleep well grow up big and strong."
+Dialogue: 5,0:15:53.51,0:15:55.39,Default,,0,0,0,,Only children are allowed to sleep.
+Dialogue: 5,0:15:55.39,0:15:57.26,Default,,0,0,0,,Adults cannot.
+Dialogue: 5,0:15:57.26,0:15:59.89,Default,,0,0,0,,That's no good.
+Dialogue: 5,0:15:59.89,0:16:02.73,Default,,0,0,0,,It's okay to sleep...
+Dialogue: 5,0:16:02.73,0:16:05.48,Default,,0,0,0,,They say "sleep and let fortune strike you."
+Dialogue: 5,0:16:05.48,0:16:07.69,Default,,0,0,0,,That's my personal motto.
+Dialogue: 5,0:16:07.69,0:16:11.99,Default,,0,0,0,,It's not often that she actually quotes a proverb correctly.
+Dialogue: 5,0:16:11.99,0:16:13.41,Default,,0,0,0,,Maybe she can only do it in her sleep.
+Dialogue: 5,0:16:13.41,0:16:17.37,Default,,0,0,0,,If only we could just sleep and let good fortune come to us.
+Dialogue: 5,0:16:18.66,0:16:21.33,Default,,0,0,0,,I can't eat another bite!
+Dialogue: 5,0:16:21.33,0:16:22.79,Default,,0,0,0,,She sure is hitting the sleeptalking clichés.
+Dialogue: 5,0:16:24.37,0:16:26.25,Default,,0,0,0,,One of your fans sent this.
+Dialogue: 5,0:16:27.71,0:16:28.50,Default,,0,0,0,,It happened!
+Dialogue: 5,0:16:28.50,0:16:30.05,Default,,0,0,0,,Fortune smiles upon us!
+Dialogue: 5,0:16:30.05,0:16:31.72,Default,,0,0,0,,Marii, Marii!
+Dialogue: 5,0:16:31.72,0:16:34.84,Default,,0,0,0,,Quiet. Don't wake her just yet.
+Dialogue: 5,0:16:34.84,0:16:36.76,Default,,0,0,0,,Let's dig in!
+Dialogue: 5,0:16:38.89,0:16:39.85,Default,,0,0,0,,It's so good...
+Dialogue: 5,0:16:39.85,0:16:40.77,Default,,0,0,0,,Yummy!
+Dialogue: 5,0:16:40.77,0:16:42.23,Default,,0,0,0,,These taste great.
+Dialogue: 5,0:16:43.02,0:16:45.98,Default,,0,0,0,,Hey, slow down! We shouldn't eat them all.
+Dialogue: 5,0:16:45.98,0:16:48.11,Default,,0,0,0,,You're eating the last one.
+Dialogue: 5,0:16:51.44,0:16:53.32,Default,,0,0,0,,Did anything lucky happen?
+Dialogue: 5,0:16:53.32,0:16:56.28,Default,,0,0,0,,No, nothing...
+Dialogue: 5,0:16:56.28,0:16:57.74,Default,,0,0,0,,Really?
+Dialogue: 5,0:16:57.74,0:16:59.16,Default,,0,0,0,,R-Really.
+Dialogue: 5,0:16:59.16,0:17:00.33,Default,,0,0,0,,Of course not!
+Dialogue: 5,0:17:00.33,0:17:03.08,Default,,0,0,0,,Life would be far too easy if fortune just came to us as we slept.
+Dialogue: 5,0:17:03.08,0:17:05.17,Default,,0,0,0,,Feel free to snooze a bit longer.
+Dialogue: 5,0:17:05.54,0:17:07.13,Default,,0,0,0,,She's out like a light.
+Dialogue: 5,0:17:08.42,0:17:10.80,Default,,0,0,0,,We're gonna be famous!
+Dialogue: 5,0:17:10.80,0:17:12.17,Default,,0,0,0,,What are you talking about?
+Dialogue: 5,0:17:13.76,0:17:15.18,Default,,0,0,0,,Are you free tomorrow?
+Dialogue: 5,0:17:15.18,0:17:18.09,Default,,0,0,0,,We're filming a commercial and we need five more people.
+Dialogue: 5,0:17:18.09,0:17:19.93,Default,,0,0,0,,Are any of you interested?
+Dialogue: 5,0:17:19.93,0:17:21.89,Default,,0,0,0,,Me!
+Dialogue: 5,0:17:21.89,0:17:23.64,Default,,0,0,0,,Okay, then you five it is.
+Dialogue: 5,0:17:23.64,0:17:25.81,Default,,0,0,0,,I'll call you with the details later.
+Dialogue: 5,0:17:26.90,0:17:29.27,Default,,0,0,0,,We don't need a sixth one.
+Dialogue: 5,0:17:35.90,0:17:36.78,Default,,0,0,0,,It...
+Dialogue: 5,0:17:36.78,0:17:38.99,Default,,0,0,0,,happened again...
+Dialogue: 5,0:17:39.57,0:17:43.29,Default,,0,0,0,,Fortune strikes when Marii sleeps!
+Dialogue: 5,0:17:49.25,0:17:52.21,Default,,0,0,0,,No, nothing happened...
+Dialogue: 5,0:17:52.21,0:17:53.67,Default,,0,0,0,,Really?
+Dialogue: 5,0:17:53.67,0:17:55.76,Default,,0,0,0,,R-Really.
+Dialogue: 5,0:17:55.76,0:17:56.97,Default,,0,0,0,,Of course not!
+Dialogue: 5,0:18:01.14,0:18:03.18,Default,,0,0,0,,That nap sure was refreshing!
+Dialogue: 5,0:18:15.90,0:18:16.69,Default,,0,0,0,,What?!
+Dialogue: 5,0:18:16.69,0:18:19.36,Default,,0,0,0,,Don't be fooled. She's fast asleep.
+Dialogue: 5,0:18:19.36,0:18:21.91,Default,,0,0,0,,That's true, but...
+Dialogue: 5,0:18:23.37,0:18:27.50,Default,,0,0,0,,So many cats... I'm in purr-adise!
+Dialogue: 5,0:18:33.88,0:18:35.84,Default,,0,0,0,,Omigosh, they're so cute!
+Dialogue: 5,0:18:39.76,0:18:41.72,Default,,0,0,0,,These kittens are adorable!
+Dialogue: 5,0:18:46.77,0:18:49.64,Default,,0,0,0,,Fare-meow!
+Dialogue: 5,0:18:51.56,0:18:53.36,Default,,0,0,0,,What's that racket?
+Dialogue: 5,0:18:53.36,0:18:56.19,Default,,0,0,0,,Huh? You all look so kind and peaceful.
+Dialogue: 5,0:18:56.19,0:18:57.78,Default,,0,0,0,,Shit, she's awake.
+Dialogue: 5,0:18:59.15,0:19:01.74,Default,,0,0,0,,Why are you glaring all of a sudden?
+Dialogue: 5,0:19:10.12,0:19:11.58,Default,,0,0,0,,Where'd you learn to do that?!
+Dialogue: 5,0:19:11.58,0:19:14.09,Default,,0,0,0,,The water feels so nice...
+Dialogue: 5,0:19:14.09,0:19:16.55,Default,,0,0,0,,I love hot springs...{"I love fanservice scenes..."}
+Dialogue: 5,0:19:22.93,0:19:25.93,Default,,0,0,0,,Huh? You all look so flushed and full of life.
+Dialogue: 5,0:19:25.93,0:19:26.93,Default,,0,0,0,,Shit, she's awake.
+Dialogue: 5,0:19:26.93,0:19:29.64,Default,,0,0,0,,Why do you look so clammy and dead all of a sudden?
+Dialogue: 5,0:19:40.65,0:19:42.20,Default,,0,0,0,,Chloroform?!
+Dialogue: 5,0:19:42.20,0:19:45.53,Default,,0,0,0,,Oh look, I won a beauty contest...
+Dialogue: 5,0:19:53.04,0:19:56.00,Default,,0,0,0,,The principal's giving a speech!
+Dialogue: 5,0:19:56.00,0:19:57.42,Default,,0,0,0,,Here's some warm milk before bed!
+Dialogue: 5,0:19:58.21,0:19:59.34,Default,,0,0,0,,Have some lamb!
+Dialogue: 5,0:20:00.17,0:20:03.51,Default,,0,0,0,,Good evening. I'm Morimoto Reo.
+Dialogue: 5,0:20:04.14,0:20:06.10,Default,,0,0,0,,I'm not sleepy anymore!
+Dialogue: 5,0:20:09.06,0:20:11.43,Default,,0,0,0,,Someone make her fall asleep!
+Dialogue: 5,0:20:11.43,0:20:14.02,Default,,0,0,0,,It won't be that easy.
+Dialogue: 5,0:20:15.98,0:20:19.94,Default,,0,0,0,,I wish we'd win the lottery...
+Dialogue: 5,0:20:19.94,0:20:22.36,Default,,0,0,0,,Sleeptalk when you're sleeping!
+Dialogue: 5,0:20:24.49,0:20:25.82,Default,,0,0,0,,That was so close!
+Dialogue: 5,0:20:25.82,0:20:28.49,Default,,0,0,0,,Just a moment later and it would've been sleeptalking!
+Dialogue: 5,0:20:28.49,0:20:31.45,Default,,0,0,0,,This time, you'd better say something grand and opulent!
+Dialogue: 5,0:20:33.33,0:20:37.09,Default,,0,0,0,,The wife of an Arabian prince?
+Dialogue: 5,0:20:37.09,0:20:41.17,Default,,0,0,0,,I'm Zouebi bin Sultan al Tequila.
+Dialogue: 5,0:20:41.17,0:20:43.30,Default,,0,0,0,,I can have up to five wives.
+Dialogue: 5,0:20:43.30,0:20:45.26,Default,,0,0,0,,Me!
+Dialogue: 5,0:20:45.26,0:20:48.35,Default,,0,0,0,,Then consider this our provisional engagement.
+Dialogue: 5,0:20:49.14,0:20:51.35,Default,,0,0,0,,I don't need a sixth one.
+Dialogue: 5,0:20:54.39,0:20:56.06,Default,,0,0,0,,Don't you think...
+Dialogue: 5,0:20:56.06,0:20:59.40,Default,,0,0,0,,...we're a bit too lucky for our own good?{aren't there a bit too many convenient coincidences}
+Dialogue: 5,0:21:00.94,0:21:03.82,Default,,0,0,0,,I'm a national idol...
+Dialogue: 5,0:21:04.86,0:21:07.41,Default,,0,0,0,,The CM we made was a huge success.
+Dialogue: 5,0:21:07.41,0:21:10.03,Default,,0,0,0,,Momokuro need five more people.
+Dialogue: 5,0:21:10.03,0:21:12.50,Default,,0,0,0,,It's okay!
+Dialogue: 5,0:21:17.79,0:21:19.38,Default,,0,0,0,,Next up, we go on tour!
+Dialogue: 5,0:21:19.38,0:21:21.09,Default,,0,0,0,,Let's make it a huge success...
+Dialogue: 5,0:21:21.09,0:21:22.59,Default,,0,0,0,,Win the elections...
+Dialogue: 5,0:21:22.59,0:21:25.17,Default,,0,0,0,,And launch our own solo careers!
+Dialogue: 5,0:21:32.14,0:21:36.77,Default,,0,0,0,,It really does feel like we've been far too lucky.
+Dialogue: 5,0:21:36.77,0:21:37.94,Default,,0,0,0,,Yeah.
+Dialogue: 5,0:21:39.11,0:21:40.86,Default,,0,0,0,,What if...
+Dialogue: 5,0:21:40.86,0:21:42.86,Default,,0,0,0,,we're all just...
+Dialogue: 5,0:21:42.86,0:21:47.61,Default,,0,0,0,,part of Marii's dream?
+Dialogue: 5,0:21:56.41,0:22:00.96,Default,,0,0,0,,The world ends.
+Dialogue: 5,0:23:42.09,0:23:43.77,Default,,0,0,0,,I'm Bouhatei Tetora.
+Dialogue: 5,0:23:43.77,0:23:49.20,Default,,0,0,0,,3 cucumbers at 98 yen or 5 cucumbers at 120 yen, which is the better deal I wonder?
+Dialogue: 5,0:23:49.36,0:23:52.30,Default,,0,0,0,,As much as I love cucumbers, there's no way that I'd be able to eat them all...
+Dialogue: 5,0:23:52.53,0:23:55.57,Default,,0,0,0,,Even if I keep them in the fridge, \Nthey'll just become pliant.
+Dialogue: 5,0:23:55.87,0:23:59.78,Default,,0,0,0,,In the end, without any change, I still can't eat them all.
+Dialogue: 5,0:24:00.38,0:24:03.67,Default,,0,0,0,,Next time, on Joshiraku:
+Dialogue: 5,0:24:03.67,0:24:09.84,Default,,0,0,0,,Pumpkin Band, Battle of Shinjuku and Cavity Shore will be performed.
 Dialogue: 3,0:22:18.19,0:22:19.73,EDbg,,0,0,0,,A
 Dialogue: 3,0:22:19.73,0:22:21.40,EDbg,,0,0,0,,A
 Dialogue: 3,0:22:21.40,0:22:22.90,EDbg,,0,0,0,,A
@@ -563,7 +539,7 @@ Dialogue: 0,0:00:30.96,0:00:32.84,OPdown,,0,0,0,,{\fsp-1.5}The stakes are high, 
 Dialogue: 0,0:00:32.84,0:00:33.59,OPdown,,0,0,0,,{\fsp-1.5}(really?)
 Dialogue: 0,0:00:33.59,0:00:37.51,OPdown,,0,0,0,,{\fsp-1.5}I don{\fsp-15}'{\fsp-1.5}t really see how that{\fsp-15}'{\fsp-1.5}s related
 Dialogue: 0,0:00:37.51,0:00:42.68,OPdown,,0,0,0,,{\fsp-1.5}See, this looks like it{\fsp-15}'{\fsp-1.5}s gonna be fun
-Dialogue: 0,0:00:41.85,0:00:43.64,OPdown,,0,0,0,,{\fsp-1.5}{\an3}(see, see?)
+Dialogue: 0,0:00:41.85,0:00:43.64,OPdown,,0,0,0,,{\an3\fsp-1.5}(see, see?)
 Dialogue: 0,0:00:42.68,0:00:46.94,OPdown,,0,0,0,,{\fsp-1.5}Or am I just seeing things?
 Dialogue: 0,0:00:46.94,0:00:49.69,OPdown,,0,0,0,,{\fsp-1.5}I don{\fsp-15}'{\fsp-1.5}t even care
 Dialogue: 0,0:00:49.69,0:00:52.69,OPdown,,0,0,0,,{\fsp-1.5}Come on, everyone
@@ -594,7 +570,7 @@ Dialogue: 1,0:00:30.96,0:00:32.84,OPup,,0,0,0,,{\fsp-1.5}ichi kake bachi ka de s
 Dialogue: 1,0:00:32.84,0:00:33.59,OPup,,0,0,0,,{\fsp-1.5}(sou kai)
 Dialogue: 1,0:00:33.59,0:00:37.51,OPup,,0,0,0,,{\fsp-1.5}hanashi no tsunagari ga miemasen ne
 Dialogue: 1,0:00:37.51,0:00:42.68,OPup,,0,0,0,,{\fsp-1.5}oya omoshiroku narisou na yokan wa
-Dialogue: 1,0:00:41.85,0:00:43.64,OPup,,0,0,0,,{\fsp-1.5}{\an3}(oya oya desu)
+Dialogue: 1,0:00:41.85,0:00:43.64,OPup,,0,0,0,,{\an3\fsp-1.5}(oya oya desu)
 Dialogue: 1,0:00:42.68,0:00:46.94,OPup,,0,0,0,,{\fsp-1.5}me no sakkaku desu ka
 Dialogue: 1,0:00:46.94,0:00:49.69,OPup,,0,0,0,,{\fsp-1.5}iya soredemo kamawanai
 Dialogue: 1,0:00:49.69,0:00:52.69,OPup,,0,0,0,,{\fsp-1.5}hai minna
@@ -610,67 +586,91 @@ Dialogue: 1,0:01:13.59,0:01:16.26,OPup,,0,0,0,,{\fsp-1.5}osaki mo shiroki gokura
 Dialogue: 1,0:01:16.26,0:01:18.59,OPup,,0,0,0,,{\fsp-1.5}gokuraku da gokuraku da
 Dialogue: 1,0:01:18.59,0:01:21.76,OPup,,0,0,0,,{\fsp-1.5}arayotto gokuraku joudo ringu
 Dialogue: 1,0:01:21.76,0:01:24.06,OPup,,0,0,0,,{\fsp-1.5}chin-ton chin-ton-shan
-Dialogue: 0,0:01:41.95,0:01:43.95,block,,0,0,0,,{\fscx380\fscy380\be2\pos(960,990)\bord3\3c&H030303&\c&H030303&}A\NA\NA\NA
-Dialogue: 0,0:02:20.32,0:02:22.12,block,,0,0,0,,{\fnH_Kobato_Main\b1\bord3\be2\shad0\c&H1B08B6&\3c&HDFDEE5&\pos(1405.2,76.2)}Red Feather
-Dialogue: 0,0:02:22.12,0:02:25.66,block,,0,0,0,,{\fnH_Kobato_Main\b1\bord3\be2\shad0\c&H07050B&\3c&H404041&\pos(1405.2,76.2)}Red Feather
+Dialogue: 0,0:01:41.95,0:01:43.95,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
+Dialogue: 0,0:02:20.32,0:02:22.12,block,,0,0,0,,{\pos(1405.2,76.2)\fnH_Kobato_Main\b1\bord3\c&H1B08B6&\3c&HDFDEE5&\be2}Red Feather
+Dialogue: 0,0:02:22.12,0:02:25.66,block,,0,0,0,,{\pos(1405.2,76.2)\fnH_Kobato_Main\b1\bord3\c&H07050B&\3c&H404041&\be2}Red Feather
 Dialogue: 0,0:05:09.24,0:05:12.20,block,,0,0,0,,{\pos(1142.4,705.6)\fscx108\fscy453\c&HD7E2EC&}A
-Dialogue: 1,0:07:54.91,0:07:58.16,block,,0,0,0,,{\be2\fnArial Narrow\bord0\shad0\b1\c&H7655BC&\pos(928.8,649.8)}U e n o {Zoo}
-Dialogue: 0,0:07:54.91,0:07:58.16,block,,0,0,0,,{\be2\fnArial Narrow\bord3\shad0\b1\c&H7655BC&\3c&HF1F6DB&\pos(928.8,649.8)}U e n o {Zoo}
-Dialogue: 0,0:08:08.63,0:08:08.71,block,,0,0,0,,{\fscx833\fscy294\c&H45AD43&\pos(580.8,906.3)\clip(m 798 714 l 382.5 801 399 909 753 822 795 789)}A
-Dialogue: 1,0:08:08.63,0:08:08.71,block,,0,0,0,,{\be2\fs105\shad0\bord0\frz11.28\fnCandara\b1\c&H181411&\3c&HB0C5AD&\pos(597.6,837.6)}{TS 0808}Yearly pass
-Dialogue: 0,0:08:08.71,0:08:08.80,block,,0,0,0,,{\fscx833\fscy294\c&H45AD43&\pos(530.4,678.3)\clip(m 757.5 501 l 342 588 358.5 696 712.5 609 754.5 576)}A
-Dialogue: 0,0:08:08.71,0:08:08.80,block,,0,0,0,,{\be2\an1\frz10.55\fscx1485\fscy202\c&HE8F4E8&\pos(321.6,1209.6)}A
-Dialogue: 0,0:08:08.80,0:08:08.88,block,,0,0,0,,{\fscx833\fscy294\c&H45AD43&\pos(523.2,500.7)\clip(m 745.5 321 l 330 408 346.5 516 700.5 429 742.5 396)}A
-Dialogue: 0,0:08:08.80,0:08:08.88,block,,0,0,0,,{\be2\an1\frz10.55\fscx1485\fscy202\c&HE8F4E8&\pos(314.4,1032)}A
-Dialogue: 0,0:08:08.88,0:08:10.05,block,,0,0,0,,{\pos(525.6,428.7)\fscx833\fscy294\clip(m 741 253.5 l 325.5 340.5 342 448.5 696 361.5 738 328.5)\c&H45AD43&}A
-Dialogue: 0,0:08:08.88,0:08:10.05,block,,0,0,0,,{\be2\an1\frz10.55\fscx1485\fscy202\c&HE8F4E8&\pos(316.8,960)}A
-Dialogue: 0,0:08:52.88,0:08:54.88,block,,0,0,0,,{\fscx380\fscy380\be2\pos(960,990)\bord3\3c&H030303&\c&H030303&}A\NA\NA\NA
-Dialogue: 0,0:10:45.24,0:10:46.12,block,,0,0,0,,{\fscx252\fscy168\pos(1713.6,148.8)\clip(m 1767 63 l 1666.5 126 1701 160.5 1801.5 108)}A
-Dialogue: 0,0:15:12.09,0:15:14.10,block,,0,0,0,,{\fscx380\fscy380\be2\pos(960,990)\bord3\3c&H030303&\c&H030303&}A\NA\NA\NA
+Dialogue: 1,0:07:54.91,0:07:58.16,block,,0,0,0,,{\pos(928.8,649.8)\fnArial Narrow\b1\c&H7655BC&\be2}U e n o {Zoo}
+Dialogue: 0,0:07:54.91,0:07:58.16,block,,0,0,0,,{\pos(928.8,649.8)\fnArial Narrow\b1\bord3\c&H7655BC&\3c&HF1F6DB&\be2}U e n o {Zoo}
+Dialogue: 0,0:08:08.63,0:08:08.71,block,,0,0,0,,{\pos(580.8,906.3)\fscx833\fscy294\c&H45AD43&\clip(m 798 714 l 382.5 801 399 909 753 822 795 789)}A
+Dialogue: 1,0:08:08.63,0:08:08.71,block,,0,0,0,,{\pos(597.6,837.6)\frz11.28\fnCandara\fs105\b1\c&H181411&\3c&HB0C5AD&\be2}{TS 0808}Yearly pass
+Dialogue: 0,0:08:08.71,0:08:08.80,block,,0,0,0,,{\pos(530.4,678.3)\fscx833\fscy294\c&H45AD43&\clip(m 757.5 501 l 342 588 358.5 696 712.5 609 754.5 576)}A
+Dialogue: 0,0:08:08.71,0:08:08.80,block,,0,0,0,,{\an1\pos(321.6,1209.6)\fscx1485\fscy202\frz10.55\c&HE8F4E8&\be2}A
+Dialogue: 0,0:08:08.80,0:08:08.88,block,,0,0,0,,{\pos(523.2,500.7)\fscx833\fscy294\c&H45AD43&\clip(m 745.5 321 l 330 408 346.5 516 700.5 429 742.5 396)}A
+Dialogue: 0,0:08:08.80,0:08:08.88,block,,0,0,0,,{\an1\pos(314.4,1032)\fscx1485\fscy202\frz10.55\c&HE8F4E8&\be2}A
+Dialogue: 0,0:08:08.88,0:08:10.05,block,,0,0,0,,{\pos(525.6,428.7)\fscx833\fscy294\c&H45AD43&\clip(m 741 253.5 l 325.5 340.5 342 448.5 696 361.5 738 328.5)}A
+Dialogue: 0,0:08:08.88,0:08:10.05,block,,0,0,0,,{\an1\pos(316.8,960)\fscx1485\fscy202\frz10.55\c&HE8F4E8&\be2}A
+Dialogue: 0,0:08:52.88,0:08:54.88,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
+Dialogue: 0,0:10:45.24,0:10:46.12,block,,0,0,0,,{\pos(1713.6,148.8)\fscx252\fscy168\clip(m 1767 63 l 1666.5 126 1701 160.5 1801.5 108)}A
+Dialogue: 0,0:15:12.09,0:15:14.10,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
 Dialogue: 0,0:15:42.54,0:15:45.00,block,,0,0,0,,{\an1\pos(196.8,312)\fscx257\fscy531\c&H5A52E6&}A
 Dialogue: 0,0:15:42.54,0:15:45.00,block,,0,0,0,,{\an1\pos(967.2,1080)\fscx325\fscy1519\c&H45B4E6&}A
-Dialogue: 0,0:15:42.54,0:15:45.00,block,,0,0,0,,{\an1\pos(103.2,1084.8)\fscx285\fscy1087\clip(m 279 967.5 l 261 1042.5 246 1083 63 1078.5 82.5 399 310.5 406.5)\c&H42AFE3&}A
-Dialogue: 0,0:15:45.25,0:15:47.96,block,,0,0,0,,{\an1\c&H4231D9&\be2\pos(636,1017.9)\fscx349\fscy1584}A
-Dialogue: 0,0:15:46.88,0:15:47.96,block,,0,0,0,,{\an1\c&H42AEE2&\be2\pos(259.2,967.2)\fscx332\fscy1242}A
-Dialogue: 0,0:23:40.98,0:23:43.77,block,,0,0,0,,{\an9\fscx182\fscy1406\c&H1E4DCD&\pos(1063.833,104.1)}A
-Dialogue: 0,0:23:40.98,0:23:43.77,block,,0,0,0,,{\an9\fscx182\fscy1406\c&H111712&\pos(957,100.5)}A
-Dialogue: 0,0:24:03.67,0:24:11.01,block,,0,0,0,,{\an9\fscx182\fscy1506\c&H1E4DCD&\pos(1388.1,104.1)}A
-Dialogue: 0,0:24:03.67,0:24:11.01,block,,0,0,0,,{\an9\fscx182\fscy1506\c&H1E4DCD&\pos(738.6,108.6)}A
-Dialogue: 0,0:24:03.67,0:24:11.01,block,,0,0,0,,{\an9\fscx182\fscy1506\c&H1E4DCD&\pos(1063.833,104.1)}A
-Dialogue: 0,0:24:03.67,0:24:11.01,block,,0,0,0,,{\an9\fscx182\fscy1506\c&H111712&\pos(1282.5,106.5)}A
-Dialogue: 0,0:24:03.67,0:24:11.01,block,,0,0,0,,{\an9\fscx182\fscy1506\c&H111712&\pos(957,100.5)}A
-Dialogue: 0,0:24:03.67,0:24:11.01,block,,0,0,0,,{\an9\fscx182\fscy1506\c&H111712&\pos(631.5,108)}A
-Dialogue: 0,0:01:41.95,0:01:43.95,brush1,,0,0,0,,{\fsp-1.5\b0\fscx370\fscy370\be2\pos(960,610.5)}Buttoufu
-Dialogue: 0,0:05:09.24,0:05:12.20,brush1,,0,0,0,,{\fs37.5\be2\c&H06080A&\frz270\pos(1127.7,573.3)}Buratei Marii
-Dialogue: 0,0:08:52.88,0:08:54.88,brush1,,0,0,0,,{\fsp-1.5\b0\fscx370\fscy370\be2\pos(960,610.5)}The Bear of Ueno
-Dialogue: 0,0:10:45.24,0:10:46.12,brush1,,0,0,0,,{ \fs45\be2\bord0\shad0\b1\fsp4.5\3c&H6291B5&\c&H343835&\frz12.8\pos(424.8,912)}Everyone drink standing steady!
-Dialogue: 0,0:10:45.24,0:10:46.12,brush1,,0,0,0,,{\be2\fs40.5\frz13.92\pos(1034.4,795.9)\c&HF0EEEA&}Down here
-Dialogue: 0,0:10:45.24,0:10:46.12,brush1,,0,0,0,,{\be2\fnH_Valkyria_ED\c&H15150A&\pos(1737.6,136.8)\frz26\fsp3}Booze
-Dialogue: 0,0:10:56.92,0:10:59.13,brush1,,0,0,0,,{\be2\fs90\c&H090602&\bord0\pos(1634.4,706.8)}{TS 1057}Panda\NBig Cat Bear
-Dialogue: 1,0:11:21.82,0:11:23.57,brush1,,0,0,0,,{\fs105\be3\bord0\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\pos(1168.8,88.8)}Watch out for crap
-Dialogue: 0,0:11:21.82,0:11:23.57,brush1,,0,0,0,,{\fs105\be5\bord6\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\pos(1168.8,88.8)}Watch out for crap
-Dialogue: 1,0:11:21.82,0:11:23.57,brush1,,0,0,0,,{\fs195\be5\bord0\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\pos(1164,396)}Danger!
-Dialogue: 0,0:11:21.82,0:11:23.57,brush1,,0,0,0,,{\fs195\be6\bord6.75\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\pos(1164,396)}Danger!
-Dialogue: 1,0:11:21.82,0:11:23.57,brush1,,0,0,0,,{\fs67.5\be5\bord0\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\pos(1185.6,801.6)}The gorilla throws crap
-Dialogue: 0,0:11:21.82,0:11:23.57,brush1,,0,0,0,,{\fs67.5\be6\bord5.25\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\pos(1185.6,801.6)}The gorilla throws crap
-Dialogue: 1,0:11:27.54,0:11:28.83,brush1,,0,0,0,,{\fad(0,200)\fs120\be5\bord0\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\pos(933.6,102.3)}Warning!
-Dialogue: 0,0:11:27.54,0:11:28.83,brush1,,0,0,0,,{\fad(0,200)\fs120\be5\bord4.5\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\pos(933.6,102.3)}Warning!
-Dialogue: 1,0:11:27.54,0:11:28.83,brush1,,0,0,0,,{\fad(0,200)\fs67.5\be3\bord0\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\frz1.123\pos(957.6,993.6)}The hippo throws crap\Naround with its tail!
-Dialogue: 0,0:11:27.54,0:11:28.83,brush1,,0,0,0,,{\fad(0,200)\fs67.5\be3\bord3\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\frz1.123\pos(957.6,993.6)}The hippo throws crap\Naround with its tail!
-Dialogue: 1,0:11:33.63,0:11:35.38,brush1,,0,0,0,,{\fs67.5\be3\bord0\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\pos(974.4,1056)\frz359.6}Watch out for camel spit
-Dialogue: 0,0:11:33.63,0:11:35.38,brush1,,0,0,0,,{\fs67.5\be3\bord3\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\pos(974.4,1056)\frz359.6}Watch out for camel spit
-Dialogue: 1,0:11:33.63,0:11:35.38,brush1,,0,0,0,,{\fs195\be5\bord0\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\pos(976.8,1005.6)}Warning!
-Dialogue: 0,0:11:33.63,0:11:35.38,brush1,,0,0,0,,{\fs195\be8\bord6\fnSalernomi J\b1\c&H0D0526&\3c&HD2D0D7&\pos(976.8,1005.6)}Warning!
-Dialogue: 0,0:12:01.19,0:12:03.95,brush1,,0,0,0,,{\be2\fs195\bord0\fnKozuka Gothic Pr6N H\b1\c&H0E1215&\pos(962.4,134.4)}{TS 1201}Bears have five fingers{\i1}!!!{\i0}
-Dialogue: 0,0:15:12.09,0:15:14.10,brush1,,0,0,0,,{\fsp-1.5\b0\fscx370\fscy370\be2\pos(960,610.5)}Sleeptalk
-Dialogue: 0,0:15:28.74,0:15:33.78,brush1,,0,0,0,,{\fad(500,500)\be5\frz270\c&H0D0C17&\bord1.5\3c&H4F37DB&\move(1411.2,580.8,1269.6,583.2)}{TS 1529}{right}I went to Shirakawa in the capital.
-Dialogue: 0,0:15:28.74,0:15:33.78,brush1,,0,0,0,,{\fad(500,500)\be5\frz270\c&H0D0C17&\bord1.5\3c&H4F37DB&\move(1212,585.6,1087.2,588)}Oh?
-Dialogue: 0,0:15:33.37,0:15:39.20,brush1,,0,0,0,,{\fad(500,0)\be5\frz270\c&H0D0C17&\bord1.5\3c&H4F37DB&\move(1248,684,1248,816)}I was asleep.
-Dialogue: 0,0:15:33.37,0:15:39.20,brush1,,0,0,0,,{\fad(500,0)\be5\frz270\c&H0D0C17&\bord1.5\3c&H4F37DB&\move(616.8,672,616.8,804)}Don't lie.
-Dialogue: 0,0:15:42.54,0:15:45.00,brush1,,0,0,0,,{\be2\fs120\fsp30\c&H0D0C17&\frz270\pos(213.6,144)}{TS 1543}{top left}Web
-Dialogue: 0,0:15:42.54,0:15:45.00,brush1,,0,0,0,,{\be2\fs120\fsp30\c&H0D0C17&\frz270\pos(136.8,811.2)}Google
-Dialogue: 0,0:15:42.54,0:15:45.00,brush1,,0,0,0,,{\be2\fs120\fsp30\c&H0D0C17&\frz270\pos(1008,657.6)}Wikipedia
-Dialogue: 0,0:15:45.25,0:15:47.96,brush1,,0,0,0,,{\be2\fs90\fsp\c&H0D0C17&\frz270\pos(698.4,542.4)}Idle one's life away
-Dialogue: 0,0:15:46.88,0:15:47.96,brush1,,0,0,0,,{\be2\fs120\fsp15\c&H0D0C17&\frz270\pos(304.8,597.6)}Slovenly
-Dialogue: 0,0:23:40.98,0:23:43.77,brush4,,0,0,0,,{\be2\fscx450\fscy450\pos(957,581.5)}Preview
-Dialogue: 0,0:24:03.67,0:24:11.01,brush4,,0,0,0,,{\be2\fscx420\fscy420\a6\pos(987,247.5)}Pumpkin Band\NBattle of Shinjuku\NCavity Shore
+Dialogue: 0,0:15:42.54,0:15:45.00,block,,0,0,0,,{\an1\pos(103.2,1084.8)\fscx285\fscy1087\c&H42AFE3&\clip(m 279 967.5 l 261 1042.5 246 1083 63 1078.5 82.5 399 310.5 406.5)}A
+Dialogue: 0,0:15:45.25,0:15:47.96,block,,0,0,0,,{\an1\pos(636,1017.9)\fscx349\fscy1584\c&H4231D9&\be2}A
+Dialogue: 0,0:15:46.88,0:15:47.96,block,,0,0,0,,{\an1\pos(259.2,967.2)\fscx332\fscy1242\c&H42AEE2&\be2}A
+Dialogue: 0,0:23:40.98,0:23:43.77,block,,0,0,0,,{\an9\pos(1063.833,104.1)\fscx182\fscy1406\c&H1E4DCD&}A
+Dialogue: 0,0:23:40.98,0:23:43.77,block,,0,0,0,,{\an9\pos(957,100.5)\fscx182\fscy1406\c&H111712&}A
+Dialogue: 0,0:24:03.67,0:24:11.01,block,,0,0,0,,{\an9\pos(1388.1,104.1)\fscx182\fscy1506\c&H1E4DCD&}A
+Dialogue: 0,0:24:03.67,0:24:11.01,block,,0,0,0,,{\an9\pos(738.6,108.6)\fscx182\fscy1506\c&H1E4DCD&}A
+Dialogue: 0,0:24:03.67,0:24:11.01,block,,0,0,0,,{\an9\pos(1063.833,104.1)\fscx182\fscy1506\c&H1E4DCD&}A
+Dialogue: 0,0:24:03.67,0:24:11.01,block,,0,0,0,,{\an9\pos(1282.5,106.5)\fscx182\fscy1506\c&H111712&}A
+Dialogue: 0,0:24:03.67,0:24:11.01,block,,0,0,0,,{\an9\pos(957,100.5)\fscx182\fscy1506\c&H111712&}A
+Dialogue: 0,0:24:03.67,0:24:11.01,block,,0,0,0,,{\an9\pos(631.5,108)\fscx182\fscy1506\c&H111712&}A
+Dialogue: 0,0:02:45.81,0:02:49.69,brush1,,0,0,0,,{\pos(1468.8,184.8)\frz313.1\fnLinux Libertine G\fs97.5\bord9\c&H342A43&\3c&HDBDBE8&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}Ticket
+Dialogue: 0,0:02:45.81,0:02:49.69,brush1,,0,0,0,,{\pos(1094.4,153.6)\frz313.1\fnLinux Libertine G\fs60\bord4.5\c&H342A43&\3c&HDBDBE8&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}Price
+Dialogue: 0,0:05:17.96,0:05:18.96,brush1,,0,0,0,,{\pos(736.8,158.4)\frz353\fnH_Kobato_Main\c&H181514&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be3}{TS 0517}ass pictures
+Dialogue: 0,0:05:17.96,0:05:18.96,brush1,,0,0,0,,{\pos(844.8,391.2)\frz352.1\fnH_Kobato_Main\fs60\u1\c&H181514&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be3}Ass flash Marii
+Dialogue: 0,0:05:17.96,0:05:18.96,brush1,,0,0,0,,{\pos(696,650.4)\frz351.2\fnH_Kobato_Main\fs60\u1\c&H181514&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be3}Marii's ass
+Dialogue: 0,0:05:17.96,0:05:18.96,brush1,,0,0,0,,{\pos(1056,993.6)\frz349.3\fnH_Kobato_Main\fs60\u1\c&H181514&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be3}The shame of the female rakugo community
+Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\pos(960,266.4)\fnArial\fs67.5\b0\c&HE7DACA&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}Trends
+Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\pos(907.2,408)\fnH_Kobato_Main\fs75\c&H1D1A18&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be3}#ass
+Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\pos(1017.6,460.8)\fnH_Kobato_Main\fs39\fsp4.5\c&H1D1A18&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}Promoted
+Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\pos(909.6,547.2)\fnH_Kobato_Main\fs60\c&H1D1A18&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}Marii
+Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\pos(830.4,799.2)\fnH_Kobato_Main\fs67.5\c&H1D1A18&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}ass
+Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\pos(1020,1056)\fnH_Kobato_Main\fs60\c&H1D1A18&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}Mongolian spot
+Dialogue: 0,0:05:18.96,0:05:19.96,brush1,,0,0,0,,{\pos(1060.8,883.2)\fnH_Kobato_Main\fs60\c&H1D1A18&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}ass flash bot
+Comment: 0,0:09:54.32,0:09:55.82,brush1,,0,0,0,,{0954 all threads are about marii's ass}
+Dialogue: 0,0:10:45.24,0:10:46.12,brush1,,0,0,0,,{\pos(679.2,328.8)\frz10.93\fnboomerang monkey\fs105\fsp7.5\shad4.5\c&H343835&\3c&H6291B5&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}Standing Bar
+Dialogue: 0,0:10:45.24,0:10:46.12,brush1,,0,0,0,,{\pos(1152,417.6)\frz10.93\fnboomerang monkey\fs195\fsp7.5\shad4.5\c&H343835&\3c&H6291B5&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}Fuuta
+Dialogue: 1,0:02:45.81,0:02:49.69,brush1,,0,0,0,,{\pos(1468.8,184.8)\frz313.1\fnLinux Libertine G\fs97.5\c&H342A43&\3c&HDBDBE8&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be5}Ticket
+Dialogue: 1,0:02:45.81,0:02:49.69,brush1,,0,0,0,,{\pos(1094.4,153.6)\frz313.1\fnLinux Libertine G\fs60\c&H342A43&\3c&HDBDBE8&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be5}Price
+Dialogue: 1,0:08:08.71,0:08:08.80,brush1,,0,0,0,,{\pos(547.2,609.6)\frz11.28\fnCandara\fs105\c&H181411&\3c&HB0C5AD&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}{TS 0808}Yearly pass
+Dialogue: 1,0:08:08.71,0:08:08.80,brush1,,0,0,0,,{\an1\pos(387.6,1189.8)\frz10.22\fnAd Hoc\b0\c&H06080A&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}Name:      {\fs60}Anrakutei    Kukuru \N{\fs45}Gender:          {\fs60}Male        {\u1}Female{\u0}
+Dialogue: 1,0:08:08.80,0:08:08.88,brush1,,0,0,0,,{\pos(540,432)\frz11.28\fnCandara\fs105\c&H181411&\3c&HB0C5AD&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}{TS 0808}Yearly pass
+Dialogue: 1,0:08:08.80,0:08:08.88,brush1,,0,0,0,,{\an1\pos(380.4,1012.2)\frz10.22\fnAd Hoc\b0\c&H06080A&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}Name:      {\fs60}Anrakutei    Kukuru \N{\fs45}Gender:          {\fs60}Male        {\u1}Female{\u0}
+Dialogue: 1,0:08:08.88,0:08:10.05,brush1,,0,0,0,,{\pos(542.4,360)\frz11.28\fnCandara\fs105\c&H181411&\3c&HB0C5AD&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}{TS 0808}Yearly pass
+Dialogue: 1,0:08:08.88,0:08:10.05,brush1,,0,0,0,,{\an1\pos(382.8,940.2)\frz10.22\fnAd Hoc\b0\c&H06080A&\3c&H202255&\4c&H333CBA&\2a&H00&\3a&H32&\4a&HC8&\be2}Name:      {\fs60}Anrakutei    Kukuru \N{\fs45}Gender:          {\fs60}Male        {\u1}Female{\u0}
+Dialogue: 0,0:01:41.95,0:01:43.95,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Buttoufu
+Dialogue: 0,0:05:09.24,0:05:12.20,brush1,,0,0,0,,{\pos(1127.7,573.3)\frz270\fs37.5\c&H06080A&\be2}Buratei Marii
+Dialogue: 0,0:08:52.88,0:08:54.88,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}The Bear of Ueno
+Dialogue: 0,0:10:45.24,0:10:46.12,brush1,,0,0,0,,{\pos(424.8,912)\frz12.8\fsp4.5\c&H343835&\3c&H6291B5&\be2}Everyone drink standing steady!
+Dialogue: 0,0:10:45.24,0:10:46.12,brush1,,0,0,0,,{\pos(1034.4,795.9)\frz13.92\fs40.5\c&HF0EEEA&\be2}Down here
+Dialogue: 0,0:10:45.24,0:10:46.12,brush1,,0,0,0,,{\pos(1737.6,136.8)\frz26\fnH_Valkyria_ED\fsp3\c&H15150A&\be2}Booze
+Dialogue: 0,0:10:56.92,0:10:59.13,brush1,,0,0,0,,{\pos(1634.4,706.8)\fs90\c&H090602&\be2}{TS 1057}Panda\NBig Cat Bear
+Dialogue: 1,0:11:21.82,0:11:23.57,brush1,,0,0,0,,{\pos(1168.8,88.8)\fnSalernomi J\fs105\c&H0D0526&\3c&HD2D0D7&\be3}Watch out for crap
+Dialogue: 0,0:11:21.82,0:11:23.57,brush1,,0,0,0,,{\pos(1168.8,88.8)\fnSalernomi J\fs105\bord6\c&H0D0526&\3c&HD2D0D7&\be5}Watch out for crap
+Dialogue: 1,0:11:21.82,0:11:23.57,brush1,,0,0,0,,{\pos(1164,396)\fnSalernomi J\fs195\c&H0D0526&\3c&HD2D0D7&\be5}Danger!
+Dialogue: 0,0:11:21.82,0:11:23.57,brush1,,0,0,0,,{\pos(1164,396)\fnSalernomi J\fs195\bord6.75\c&H0D0526&\3c&HD2D0D7&\be6}Danger!
+Dialogue: 1,0:11:21.82,0:11:23.57,brush1,,0,0,0,,{\pos(1185.6,801.6)\fnSalernomi J\fs67.5\c&H0D0526&\3c&HD2D0D7&\be5}The gorilla throws crap
+Dialogue: 0,0:11:21.82,0:11:23.57,brush1,,0,0,0,,{\pos(1185.6,801.6)\fnSalernomi J\fs67.5\bord5.25\c&H0D0526&\3c&HD2D0D7&\be6}The gorilla throws crap
+Dialogue: 1,0:11:27.54,0:11:28.83,brush1,,0,0,0,,{\pos(933.6,102.3)\fnSalernomi J\fs120\c&H0D0526&\3c&HD2D0D7&\be5\fad(0,200)}Warning!
+Dialogue: 0,0:11:27.54,0:11:28.83,brush1,,0,0,0,,{\pos(933.6,102.3)\fnSalernomi J\fs120\bord4.5\c&H0D0526&\3c&HD2D0D7&\be5\fad(0,200)}Warning!
+Dialogue: 1,0:11:27.54,0:11:28.83,brush1,,0,0,0,,{\pos(957.6,993.6)\frz1.123\fnSalernomi J\fs67.5\c&H0D0526&\3c&HD2D0D7&\be3\fad(0,200)}The hippo throws crap\Naround with its tail!
+Dialogue: 0,0:11:27.54,0:11:28.83,brush1,,0,0,0,,{\pos(957.6,993.6)\frz1.123\fnSalernomi J\fs67.5\bord3\c&H0D0526&\3c&HD2D0D7&\be3\fad(0,200)}The hippo throws crap\Naround with its tail!
+Dialogue: 1,0:11:33.63,0:11:35.38,brush1,,0,0,0,,{\pos(974.4,1056)\frz359.6\fnSalernomi J\fs67.5\c&H0D0526&\3c&HD2D0D7&\be3}Watch out for camel spit
+Dialogue: 0,0:11:33.63,0:11:35.38,brush1,,0,0,0,,{\pos(974.4,1056)\frz359.6\fnSalernomi J\fs67.5\bord3\c&H0D0526&\3c&HD2D0D7&\be3}Watch out for camel spit
+Dialogue: 1,0:11:33.63,0:11:35.38,brush1,,0,0,0,,{\pos(976.8,1005.6)\fnSalernomi J\fs195\c&H0D0526&\3c&HD2D0D7&\be5}Warning!
+Dialogue: 0,0:11:33.63,0:11:35.38,brush1,,0,0,0,,{\pos(976.8,1005.6)\fnSalernomi J\fs195\bord6\c&H0D0526&\3c&HD2D0D7&\be8}Warning!
+Dialogue: 0,0:12:01.19,0:12:03.95,brush1,,0,0,0,,{\pos(962.4,134.4)\fnKozuka Gothic Pr6N H\fs195\c&H0E1215&\be2}{TS 1201}Bears have five fingers{\i1}!!!{\i0}
+Dialogue: 0,0:15:12.09,0:15:14.10,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Sleeptalk
+Dialogue: 0,0:15:28.74,0:15:33.78,brush1,,0,0,0,,{\move(1411.2,580.8,1269.6,583.2)\frz270\bord1.5\c&H0D0C17&\3c&H4F37DB&\be5\fad(500,500)}{TS 1529}{right}I went to Shirakawa in the capital.
+Dialogue: 0,0:15:28.74,0:15:33.78,brush1,,0,0,0,,{\move(1212,585.6,1087.2,588)\frz270\bord1.5\c&H0D0C17&\3c&H4F37DB&\be5\fad(500,500)}Oh?
+Dialogue: 0,0:15:33.37,0:15:39.20,brush1,,0,0,0,,{\move(1248,684,1248,816)\frz270\bord1.5\c&H0D0C17&\3c&H4F37DB&\be5\fad(500,0)}I was asleep.
+Dialogue: 0,0:15:33.37,0:15:39.20,brush1,,0,0,0,,{\move(616.8,672,616.8,804)\frz270\bord1.5\c&H0D0C17&\3c&H4F37DB&\be5\fad(500,0)}Don't lie.
+Dialogue: 0,0:15:42.54,0:15:45.00,brush1,,0,0,0,,{\pos(213.6,144)\frz270\fs120\fsp30\c&H0D0C17&\be2}{TS 1543}{top left}Web
+Dialogue: 0,0:15:42.54,0:15:45.00,brush1,,0,0,0,,{\pos(136.8,811.2)\frz270\fs120\fsp30\c&H0D0C17&\be2}Google
+Dialogue: 0,0:15:42.54,0:15:45.00,brush1,,0,0,0,,{\pos(1008,657.6)\frz270\fs120\fsp30\c&H0D0C17&\be2}Wikipedia
+Dialogue: 0,0:15:45.25,0:15:47.96,brush1,,0,0,0,,{\pos(698.4,542.4)\frz270\fs90\c&H0D0C17&\be2\fsp}Idle one's life away
+Dialogue: 0,0:15:46.88,0:15:47.96,brush1,,0,0,0,,{\pos(304.8,597.6)\frz270\fs120\fsp15\c&H0D0C17&\be2}Slovenly
+Dialogue: 0,0:23:40.98,0:23:43.77,brush4,,0,0,0,,{\pos(957,581.5)\fscx450\fscy450\be2}Preview
+Dialogue: 0,0:24:03.67,0:24:11.01,brush4,,0,0,0,,{\pos(987,247.5)\fscx420\fscy420\be2\a6}Pumpkin Band\NBattle of Shinjuku\NCavity Shore
