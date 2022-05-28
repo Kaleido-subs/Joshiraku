@@ -124,7 +124,7 @@ Dialogue: 10,0:06:19.94,0:06:25.36,Default,,0,0,0,,Sorry for changing the topic,
 Dialogue: 10,0:06:25.36,0:06:26.20,Default,,0,0,0,,Invited?
 Dialogue: 10,0:06:26.20,0:06:28.87,Default,,0,0,0,,This is actually on topic.
 Dialogue: 10,0:06:28.87,0:06:30.87,Default,,0,0,0,,Look at this.
-Dialogue: 10,0:06:30.87,0:06:33.96,Default,,0,0,0,,"Dress casually."
+Dialogue: 10,0:06:30.87,0:06:33.96,Default,,0,0,0,,"Please dress casually."
 Dialogue: 10,0:06:34.71,0:06:40.04,Default,,0,0,0,,Casually.
 Dialogue: 10,0:06:40.04,0:06:42.76,Default,,0,0,0,,How casual is casual?
 Dialogue: 10,0:06:42.76,0:06:44.63,Default,,0,0,0,,Casual is so difficult.
@@ -817,29 +817,28 @@ Dialogue: 1,0:10:33.90,0:10:35.16,freehand1,,0,0,0,,{\pos(942,483)\frz270\c&H2B3
 Dialogue: 0,0:17:00.87,0:17:10.97,freehand1,,0,0,0,,{\pos(805.5,745.5)\fscx55\fscy55\c&HC6EFDD&\be2\q2}I'm looking for \Nthis kitten
 Dialogue: 0,0:18:39.47,0:18:40.43,freehand1,,0,0,0,,{\pos(1521.855,779.357)\fscx500\fscy500\fsp-1.5\b1\c&H04080A&\be2}Big
 Dialogue: 0,0:18:40.43,0:18:43.39,freehand1,,0,0,0,,{\pos(874.285,786.643)\frz4.24\b1\c&H2D2E30&\be2}Big {also lol up there in the right corner}
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(246,153)\frz12.21\fax-0.1\c&H525659&\be2}Kou{\frz8.7}○{\frz9.2}sha
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(400.5,133.5)\frz5.188\fax-0.05\c&H525659&\be2}100th
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(636,136.5)\frz356.941\fsp-3\c&H525659&\be2}anniversary {\frz-6}party
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(190.5,267)\fscx80\fscy80\frz12.21\fax-0.2\c&H525659&\be2}Date and time:
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(447,229.5)\fscx80\fscy80\frz4.02\fax-0.1\c&H525659&\be2}△th of {\frz2}○、
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(594,231)\fscx80\fscy80\frz356.039\c&H525659&\be2}8 PM
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(196.5,340.5)\fscx80\fscy80\frz13.974\fax-0.2\c&H525659&\be2}Place:
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(325.5,318)\fscx80\fscy80\frz9.254\fax-0.05\c&H525659&\be2}Kou○sha
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(154.5,387)\fscx80\fscy80\frz11.909\fax-0.2\c&H525659&\be2}corporation
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(336,354)\fscx80\fscy80\frz9.547\fax-0.1\c&H525659&\be2}building
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(118.5,435)\fscx80\fscy80\frz14.921\fax-0.2\c&H525659&\be2}12th floor
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(315,396)\fscx80\fscy80\frz9.003\fax-0.1\c&H525659&\be2} underground
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(217.5,541.5)\fscx80\fscy80\frz12.755\fax-0.2\c&H525659&\be2} Please bring
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(363,516)\fscx80\fscy80\frz5.834\fax-0.05\c&H525659&\be2}this
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(445.5,510)\fscx80\fscy80\frz3\fsp-1.5\c&H525659&\be2}invit
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(531,510)\fscx80\fscy80\frz-3\fsp-1.5\c&H525659&\be2}ation
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(616.5,519)\fscx80\fscy80\frz-8\c&H525659&\be2}with
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(682.5,531)\fscx80\fscy80\frz-12\c&H525659&\be2}you
-Dialogue: 0,0:06:28.87,0:06:29.12,jp1,,0,0,0,,{\pos(180,622.5)\fscx80\fscy80\frz12.755\fax-0.2\c&H525659&\be2} Come in
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(310.5,597)\fscx80\fscy80\frz9.257\fax-0.1\c&H525659&\be2} casual
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(415.5,583.5)\fscx80\fscy80\frz5.658\fax-0.05\c&H525659&\be2}wear
-Dialogue: 0,0:06:28.87,0:06:29.24,jp1,,0,0,0,,{\pos(180,622.5)\fscx80\fscy80\frz12.755\fax-0.2\c&H525659&\be2\iclip(m 117 637.5 b 147 612 169.5 588 199.5 601.5 223.5 589.5 172.5 678 165 705)} Come in
-Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(180,622.5)\fscx80\fscy80\frz12.755\fax-0.2\c&H525659&\be2\iclip(m 117 637.5 b 144 612 169.5 588 199.5 601.5 223.5 589.5 172.5 678 165 705)} Come in
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(246,166)\frz12.21\fax-0.1\c&H525659&\be2\fad(0,100)}Kou{\frz8.7}○{\frz9.2}sha
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(400.5,146.5)\frz5.188\fax-0.05\c&H525659&\be2\fad(0,100)}100th
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(636,149.5)\frz356.941\fsp-3\c&H525659&\be2\fad(0,100)}anniversary {\frz-6}party
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(190.5,267)\fscx80\fscy80\frz12.21\fax-0.2\c&H525659&\be2\fad(0,100)}Date and time:
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(447,229.5)\fscx80\fscy80\frz4.02\fax-0.1\c&H525659&\be2\fad(0,100)}△th of {\frz2}○、
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(594,231)\fscx80\fscy80\frz356.039\c&H525659&\be2\fad(0,100)}8 PM
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(196.5,340.5)\fscx80\fscy80\frz13.974\fax-0.2\c&H525659&\be2\fad(0,100)}Place:
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(325.5,318)\fscx80\fscy80\frz9.254\fax-0.05\c&H525659&\be2\fad(0,100)}Kou○sha
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(154.5,387)\fscx80\fscy80\frz11.909\fax-0.2\c&H525659&\be2\fad(0,100)}corporation
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(336,354)\fscx80\fscy80\frz9.547\fax-0.1\c&H525659&\be2\fad(0,100)}building
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(118.5,435)\fscx80\fscy80\frz14.921\fax-0.2\c&H525659&\be2\fad(0,100)}12th floor
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(315,396)\fscx80\fscy80\frz9.003\fax-0.1\c&H525659&\be2\fad(0,100)} underground
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(217.5,541.5)\fscx80\fscy80\frz12.755\fax-0.2\c&H525659&\be2\fad(0,100)} Please bring
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(363,516)\fscx80\fscy80\frz5.834\fax-0.05\c&H525659&\be2\fad(0,100)}this
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(445.5,510)\fscx80\fscy80\frz3\fsp-1.5\c&H525659&\be2\fad(0,100)}invit
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(531,510)\fscx80\fscy80\frz-3\fsp-1.5\c&H525659&\be2\fad(0,100)}ation
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(616.5,519)\fscx80\fscy80\frz-8\c&H525659&\be2\fad(0,100)}with
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(682.5,531)\fscx80\fscy80\frz-12\c&H525659&\be2\fad(0,100)}you
+Dialogue: 0,0:06:28.87,0:06:29.12,jp1,,0,0,0,,{\pos(180,622.5)\fscx80\fscy80\frz12.755\fax-0.2\c&H525659&\be2} Please
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(282.5,603)\fscx80\fscy80\frz9.257\fax-0.1\c&H525659&\be2\fad(0,100)}dress
+Dialogue: 0,0:06:28.87,0:06:29.70,jp1,,0,0,0,,{\pos(407.5,587.5)\fscx80\fscy80\frz5.658\fax-0.05\c&H525659&\be2\fad(0,100)}casually
+Dialogue: 0,0:06:29.12,0:06:29.70,jp1,,0,0,0,,{\pos(180,622.5)\fscx80\fscy80\frz12.755\fax-0.2\c&H525659&\be2\fad(0,100)\iclip(m 122 641.5 b 149 614 169.5 588 199.5 601.5 238.5 611.5 172.5 678 165 705)} Please
 Dialogue: 1,0:10:35.16,0:10:36.66,jp1,,0,0,0,,{\pos(916.5,486)\fscx60\fscy70\frz270\fsp-3\c&H2B3137&\be2\q2}Tokyo Metropolitan Ordinance\NRegarding the Healthy\NDevelopment of Youths
 Dialogue: 0,0:17:17.93,0:17:18.89,jp1,,0,0,0,,{\pos(1671,964.5)\fscx500\fscy500\fsp-1.5\c&H04080A&\be2}Dog
 Dialogue: 0,0:17:26.28,0:17:29.24,jp1,,0,0,0,,{\pos(169.5,393)\fscx185\fscy185\fsp-1.5\c&H010506&\be2}Do{\alpha&HFF&}w
