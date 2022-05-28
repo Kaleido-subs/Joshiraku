@@ -91,7 +91,7 @@ Dialogue: 5,0:03:38.61,0:03:40.58,Default,,0,0,0,,Too true.
 Dialogue: 5,0:03:43.24,0:03:44.78,Default,,0,0,0,,Really?
 Dialogue: 5,0:03:44.78,0:03:48.37,Default,,0,0,0,,But isn't one syllable cutting it a bit thin?
 Dialogue: 5,0:03:48.37,0:03:52.00,Default,,0,0,0,,What are you talking about? More doesn't necessarily mean better.
-Dialogue: 5,0:03:52.00,0:03:56.34,Default,,0,0,0,,A certain someone with a two-syllable name works a lot harder than that five-syllable guy.
+Dialogue: 5,0:03:52.00,0:03:56.34,Default,,0,0,0,,A certain someone with a two-syllable name works a lot harder than that six-syllable guy.
 Dialogue: 5,0:03:56.34,0:03:58.59,Default,,0,0,0,,Yeah, that's actually a good argument.
 Dialogue: 5,0:03:58.59,0:04:00.80,Default,,0,0,0,,Don't forget Jugemu, who had a very long name,{datte}
 Dialogue: 5,0:04:00.80,0:04:03.93,Default,,0,0,0,,but never did anything much besides hitting other people's children.
@@ -264,11 +264,11 @@ Dialogue: 5,0:12:55.62,0:12:58.34,Default,,0,0,0,,It shows the same face no matt
 Dialogue: 5,0:12:58.34,0:13:00.84,Default,,0,0,0,,It's always your face no matter how much you cut off.
 Dialogue: 5,0:13:02.30,0:13:04.76,Default,,0,0,0,,It's always Kukuru's face no matter how much you cut off.
 Dialogue: 5,0:13:06.72,0:13:09.35,Default,,0,0,0,,Doesn't sound like sweets.
-Dialogue: 5,0:13:11.97,0:13:15.89,Default,,0,0,0,,Now for today's main event, the Thorn Protector.
+Dialogue: 5,0:13:11.97,0:13:15.89,Default,,0,0,0,,Now for today's main event, the Thorn Puller.
 Dialogue: 5,0:13:15.89,0:13:18.56,Default,,0,0,0,,Once a servant swallowed a thorn,
 Dialogue: 5,0:13:18.56,0:13:24.32,Default,,0,0,0,,but a charm from this temple saved her.
 Dialogue: 5,0:13:24.32,0:13:28.99,Default,,0,0,0,,If you pour water on it, you can use it to cleanse a part of your body.
-Dialogue: 5,0:13:28.99,0:13:31.16,Default,,0,0,0,,That's not the Thorn Protector,
+Dialogue: 5,0:13:28.99,0:13:31.16,Default,,0,0,0,,That's not the Thorn Puller,
 Dialogue: 5,0:13:31.16,0:13:32.70,Default,,0,0,0,,but the Washer Kannon.
 Dialogue: 5,0:13:32.70,0:13:33.66,Default,,0,0,0,,Really?
 Dialogue: 5,0:13:33.66,0:13:36.12,Default,,0,0,0,,Many people make that mistake.
@@ -289,7 +289,7 @@ Dialogue: 5,0:14:09.82,0:14:15.14,Default,,0,0,0,,Don't be so mean, Marii.
 Dialogue: 5,0:14:15.14,0:14:17.96,Default,,0,0,0,,Don't fall, Marii.
 Dialogue: 5,0:14:17.96,0:14:20.00,Default,,0,0,0,,The weather's so nice today!
 Dialogue: 5,0:14:20.00,0:14:21.46,Default,,0,0,0,,I'm so happy!
-Dialogue: 5,0:14:21.46,0:14:25.43,Default,,0,0,0,,The Thorn Protector's blessing is truly astounding!
+Dialogue: 5,0:14:21.46,0:14:25.43,Default,,0,0,0,,The Thorn Puller's blessing is truly astounding!
 Dialogue: 5,0:14:27.42,0:14:29.51,Default,,0,0,0,,I'll pour it on my boobs!
 Dialogue: 5,0:14:29.51,0:14:30.76,Default,,0,0,0,,My ass!
 Dialogue: 5,0:14:30.76,0:14:32.35,Default,,0,0,0,,See, it bothered you...
@@ -300,7 +300,7 @@ Dialogue: 5,0:14:40.15,0:14:41.86,Default,,0,0,0,,Yeah...
 Dialogue: 5,0:14:41.86,0:14:44.61,Default,,0,0,0,,Why did only Gankyou get blessed?
 Dialogue: 5,0:14:46.82,0:14:48.78,Default,,0,0,0,,Get real.
 Dialogue: 5,0:14:49.61,0:14:52.25,Default,,0,0,0,,You're all so naive!
-Dialogue: 5,0:14:55.99,0:15:00.46,Default,,0,0,0,,I didn't think it'd be this much fun.
+Dialogue: 5,0:14:55.99,0:15:00.46,Default,,0,0,0,,I didn't think it'd be this much fun, \Nbut I feel like I aged a couple of years.
 Dialogue: 5,0:15:00.46,0:15:03.63,Default,,0,0,0,,I sort of feel we didn't raise our girl power, but rather our hag power.
 Dialogue: 5,0:15:03.63,0:15:07.80,Default,,0,0,0,,Oh well, they say eating soft-shelled turtle gives you softer skin.
 Dialogue: 5,0:15:07.80,0:15:11.89,Default,,0,0,0,,But isn't it inevitable that we age and go all wrinkly?
@@ -578,7 +578,7 @@ Dialogue: 0,0:13:21.57,0:13:22.94,block,,0,0,0,,{\pos(1132.8,856.8)\fscx724\fscy
 Dialogue: 0,0:14:32.35,0:14:33.56,block,,0,0,0,,{\pos(1384.5,688.5)\fscx201\fscy207\c&H98B5C2&}A
 Dialogue: 0,0:14:52.24,0:14:54.20,block,,0,0,0,,{\pos(1123.2,781.8)\fscx907\fscy510\frz0.72\c&H348312&\clip(m 1170 511.5 l 991.5 639 990 744 1099.5 700.5 1233 615 1243.5 526.5)}A
 Dialogue: 0,0:14:52.24,0:14:54.20,block,,0,0,0,,{\pos(1124.7,952.8)\fscx851\fscy241\frz23.5\c&HFDFCF4&\be2\clip(m 1309.5 700.5 l 1321.5 856.5 897 1065 889.5 912)}A
-Dialogue: 0,0:15:47.71,0:15:51.43,block,,0,0,0,,{\pos(678.3,885.6)\fnAd Hoc\fs45\bord3\c&H1B231D&\3c&H838383&\be2}Thorn Protector hall entrance
+Dialogue: 0,0:15:47.71,0:15:51.43,block,,0,0,0,,{\pos(678.3,885.6)\fnAd Hoc\fs45\bord3\c&H1B231D&\3c&H838383&\be2}Thorn Puller hall entrance
 Dialogue: 0,0:15:51.43,0:15:53.93,block,,0,0,0,,{\pos(1552.8,961.5)\fscx213\fscy850\frz349.3}A
 Dialogue: 0,0:16:08.15,0:16:10.15,block,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 0,0:16:28.84,0:16:31.80,block,,0,0,0,,{\pos(969,849)\fscx438\fscy1006\c&HEDF4FA&\clip(m 733.5 693 l 1098 688.5 1092 769.5 726 777)}A
@@ -615,7 +615,7 @@ Dialogue: 0,0:15:51.43,0:15:53.93,brush1,,0,0,0,,{\pos(1629.6,719.1)\frz78.59\fs
 Dialogue: 0,0:16:08.15,0:16:10.15,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Is It Over Yet
 Dialogue: 0,0:20:10.39,0:20:10.93,brush1,,0,0,0,,{\pos(1074.3,832.5)\frz35.84\fs105\c&H050064&\be2\fad(300,0)}Decided
 Dialogue: 0,0:20:40.63,0:20:41.21,brush1,,0,0,0,,{\pos(1175.1,813.3)\frz41.12\fs105\c&H050064&\be2\fad(300,0)}Decided
-Dialogue: 0,0:13:36.12,0:13:38.79,brush2,,0,0,0,,{\an7\pos(176.4,49.8)\fnCandara\fs105\b0\bord7.5\c&H080702&\3c&HE5E6E5&\be2}Thorn\N\h    Protector
+Dialogue: 0,0:13:36.12,0:13:38.79,brush2,,0,0,0,,{\an7\pos(176.4,49.8)\fnCandara\fs105\b0\bord7.5\c&H080702&\3c&HE5E6E5&\be2}Thorn\N\h    Puller
 Dialogue: 0,0:13:36.12,0:13:38.79,brush2,,0,0,0,,{\an7\pos(1297.5,664.5)\fnCandara\fs75\b0\bord6\c&H080702&\3c&HE5E6E5&\be2}*This  image   idol   is\Nwithheld from public\Nview,   so   it   cannot\Nbe displayed.
 Dialogue: 0,0:14:52.24,0:14:54.20,brush2,,0,0,0,,{\pos(1128,978.3)\frz25.02\fry18\frx342\fnArno Pro\fs150\b0\i1\c&HE01E6C&\be2}Mukian
 Dialogue: 0,0:15:47.71,0:15:51.43,brush2,,0,0,0,,{\pos(686.4,655.2)\fs67.5\shad4.5\c&H7152E3&\3c&H313040&\4c&H313040&\be2}Sugamo Protector's Shopping Street
