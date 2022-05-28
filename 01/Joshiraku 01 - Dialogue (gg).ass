@@ -354,7 +354,7 @@ Dialogue: 10,0:17:08.63,0:17:11.76,Default,,0,0,0,,I'll bring him next time to h
 Dialogue: 10,0:17:14.01,0:17:14.97,Default,,0,0,0,,Are you sure?
 Dialogue: 10,0:17:18.89,0:17:21.02,Default,,0,0,0,,Anyway, I hate the character for "dog."
 Dialogue: 10,0:17:21.02,0:17:22.19,Default,,0,0,0,,Why?
-Dialogue: 10,0:17:24.11,0:17:26.28,Default,,0,0,0,,Whenever I feel upset, I forget
+Dialogue: 10,0:17:22.19,0:17:26.28,Default,,0,0,0,,Whenever I feel upset, I forget
 Dialogue: 10,0:17:26.28,0:17:29.24,Default,,600,-300,53,,{\q2}{When I'm emotionally disturbed}where I'm supposed to \Nput the last stroke!
 Dialogue: 10,0:17:29.24,0:17:30.20,Default,,0,0,0,,I don't!
 Dialogue: 10,0:17:30.20,0:17:32.03,Default,,0,0,0,,Oh? Well then,
