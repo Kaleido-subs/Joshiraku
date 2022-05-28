@@ -31,7 +31,7 @@ Comment: 5,0:00:00.00,0:00:00.02,OP1,,0,0,0,template char noblank,{\bord3.6\1a&H
 Comment: 0,0:00:00.00,0:00:00.02,OP1,,0,0,0,mixin line,{!ln.tag.pos(5,5,0,pos_y())!\fry-80\t(0,200,\fry0)\t(!orgline.duration-400!,!orgline.duration!,\fry270)}
 Comment: 0,0:00:00.00,0:00:00.00,Default,ncchapter,0,0,0,,{Creditless OP1}
 Comment: 0,0:00:02.73,0:00:02.73,Default,,0,0,0,sync,{OPsync — First hard cut}
-Comment: 0,0:00:00.52,0:00:02.73,OP1,eng,0,0,0,kara,Thanks for your continued appreciation!
+Comment: 0,0:00:00.52,0:00:02.73,OP1,eng,0,0,0,kara,Thanks for your continued patronage!
 Comment: 0,0:00:02.98,0:00:05.44,OP1,eng,0,0,0,kara,For everything so far and all that is to come!
 Comment: 0,0:00:05.69,0:00:08.06,OP1,eng,0,0,0,kara,Twing-twang, twing-twang-twang
 Comment: 0,0:00:08.32,0:00:10.82,OP1,eng,0,0,0,kara,Twing-twang, twing-twang-twang
@@ -55,7 +55,7 @@ Comment: 0,0:01:01.20,0:01:02.58,OP1,eng,0,0,0,kara,Ladies first!
 Comment: 0,0:01:02.62,0:01:05.17,OP1,eng,0,0,0,kara,Thanks for everything so far and all that is to come!
 Comment: 0,0:01:05.25,0:01:07.71,OP1,eng,0,0,0,kara,Let's put the backstage front and centre
 Comment: 0,0:01:07.71,0:01:10.22,OP1,eng,0,0,0,kara,Who cares if it's all just pointless chitchat?
-Comment: 0,0:01:10.21,0:01:12.80,OP1,eng,0,0,0,kara,Thanks for your continued appreciation!
+Comment: 0,0:01:10.21,0:01:12.80,OP1,eng,0,0,0,kara,Thanks for your continued patronage!
 Comment: 0,0:01:12.80,0:01:15.26,OP1,eng,0,0,0,kara,The bright future is paradise
 Comment: 0,0:01:15.26,0:01:16.56,OP1,eng,0,0,0,kara,Paradise!
 Comment: 0,0:01:16.56,0:01:17.72,OP1,eng,0,0,0,kara,Paradise!
