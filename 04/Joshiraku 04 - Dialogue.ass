@@ -60,12 +60,12 @@ Dialogue: 10,0:02:44.52,0:02:46.65,Default,,0,0,0,,Phew, it's raining cats and d
 Dialogue: 10,0:02:46.65,0:02:48.90,Default,,0,0,0,,Your glasses must be totally foggy.
 Dialogue: 10,0:02:51.73,0:02:54.40,Default,,0,0,0,,That was Kigu! Why'd you hit {\i1}me{\i0}?
 Dialogue: 10,0:02:54.40,0:02:55.20,Default,,0,0,0,,Shut up.
-Dialogue: 10,0:02:55.20,0:02:57.91,Default,,0,0,0,,{\q2}If we're going to talk about glasses, \Nthere's something we have to do.
-Dialogue: 10,0:02:57.91,0:02:59.87,Default,,0,0,0,,Face Sabae
+Dialogue: 10,0:02:55.20,0:02:57.91,Default,,0,0,0,,{\q2}If we're going to talk about glasses, \Nwe must follow tradition.
+Dialogue: 10,0:02:57.91,0:02:59.87,Default,,0,0,0,,Face Sabae,
 Dialogue: 10,0:03:00.37,0:03:01.29,Default,,0,0,0,,and bow!
 Dialogue: 10,0:03:01.29,0:03:03.62,Default,,0,0,0,,Thank you!
 Dialogue: 10,0:03:03.75,0:03:07.13,Default,,0,0,0,,Sabae is Japan's leading producer of glasses.
-Dialogue: 10,0:03:08.63,0:03:10.25,Default,,0,0,0,,Alright! You bespectacled bully!
+Dialogue: 10,0:03:08.63,0:03:10.25,Default,,0,0,0,,All right! You bespectacled bully!
 Dialogue: 10,0:03:10.25,0:03:12.80,Default,,0,0,0,,You've punched me twice now!
 Dialogue: 10,0:03:13.05,0:03:14.59,Default,,0,0,0,,It's time for you to say your pr—
 Dialogue: 10,0:03:14.59,0:03:14.63,Default,,228,192,60,,{\bord0\blur4.5}It's time for you to say your pr—
@@ -90,16 +90,16 @@ Dialogue: 10,0:03:15.22,0:03:15.26,Default,,219,201,71,,It's time for you to say
 Dialogue: 10,0:03:19.51,0:03:20.30,Default,,0,0,0,,She's strong!
 Dialogue: 10,0:03:21.26,0:03:25.06,Default,,0,0,0,,{\q2}I must've been overestimating when \NI thought you had improved since last time.
 Dialogue: 10,0:03:25.06,0:03:26.27,Default,,0,0,0,,Bloody hell!
-Dialogue: 10,0:03:26.27,0:03:29.44,Default,,0,0,0,,{\q2}Glasses-wielders aren't meant to \Nbe bruisers. It doesn't suit your kind!
+Dialogue: 10,0:03:26.27,0:03:29.44,Default,,0,0,0,,{\q2}Glasses-wielders aren't meant to be bruisers. \NIt doesn't suit your kind!
 Dialogue: 10,0:03:30.36,0:03:33.61,Default,,0,0,0,,Nothing equips you for violence as well as glasses do.
 Dialogue: 10,0:03:33.61,0:03:34.24,Default,,0,0,0,,What did you say?
-Dialogue: 10,0:03:34.53,0:03:38.49,Default,,0,0,0,,{\q2}When people are about to punch someone wearing glasses, \Nthere's always a bit of hesitation involved.
+Dialogue: 10,0:03:34.53,0:03:38.49,Default,,0,0,0,,{\q2}When people are about to punch someone wearing glasses, \Nthere's always a moment of hesitation.
 Dialogue: 10,0:03:39.74,0:03:42.37,Default,,0,0,0,,"If I break their glasses, it might hurt them."
 Dialogue: 10,0:03:42.37,0:03:43.95,Default,,0,0,0,,"It might hurt {\i1}me{\i0}."
 Dialogue: 10,0:03:44.45,0:03:46.87,Default,,0,0,0,,"It might cost a lot to replace them."
 Dialogue: 10,0:03:46.87,0:03:48.71,Default,,0,0,0,,"Is this morally right?"
 Dialogue: 10,0:03:48.71,0:03:53.84,Default,,0,0,0,,{\q2}All sorts of thoughts flash through their mind, \Ndelaying their punch for a mere moment.
-Dialogue: 10,0:03:53.84,0:03:59.34,Default,,0,0,0,,I see. So that's why my punch was .1 seconds too slow!
+Dialogue: 10,0:03:53.84,0:03:59.34,Default,,0,0,0,,{\q2}I see. So that's why my punch \Nwas a fraction of a second too slow!
 Dialogue: 9,0:03:57.09,0:03:58.84,Default,,-264,684,409,,{\fscx50\fscy50\3a&H64&\4a&HC8&\clip(m 263 689 l 507 695 515 681 519 639 254 621)}It's time for you to say your pr—
 Dialogue: 9,0:03:58.84,0:03:58.97,Default,,-264,684,409,,{\fscx50\fscy50\3a&H64&\4a&HC8&\clip(m 263 689 l 527 683 527 663 531 639 254 621)}It's time for you to say your pr—
 Dialogue: 9,0:03:58.97,0:03:59.09,Default,,-264,684,409,,{\fscx50\fscy50\3a&H64&\4a&HC8&\clip(m 263 689 l 531 683 531 663 536 638 254 621)}It's time for you to say your pr—
@@ -115,7 +115,7 @@ Dialogue: 13,0:04:01.10,0:04:01.14,Default,,-271,691,409,,{\fscx50\fscy50\1a&H80
 Dialogue: 14,0:04:01.10,0:04:01.14,Default,,-271,691,409,,{\fscx50\fscy50\1a&H80&\3a&HAF&\4a&HE6&\clip(m 527 687 l 534 684 539 648 533 636 530 663)}It's time for you to say your pr—
 Dialogue: 13,0:04:01.18,0:04:03.10,Default,,-264,684,409,,{\fscx50\fscy50\3a&H64&\4a&HC8&\clip(m 263 689 l 525 683 525 666 531 638 254 621)}It's time for you to say your pr—
 Dialogue: 14,0:04:01.18,0:04:03.10,Default,,-264,684,409,,{\fscx50\fscy50\3a&H64&\4a&HC8&\clip(m 527 687 l 534 684 539 648 533 636 530 663)}It's time for you to say your pr—
-Dialogue: 10,0:03:59.34,0:04:03.10,Default,,0,0,0,,Closer to about ten times that, I'd say.
+Dialogue: 10,0:03:59.34,0:04:03.10,Default,,0,0,0,,A fraction? That was a whole second.
 Dialogue: 10,0:04:03.56,0:04:05.81,Default,,0,0,0,,So that's why Ushijima is so strong?
 Dialogue: 10,0:04:05.81,0:04:10.02,Default,,0,0,0,,{\q2}Would you slather someone in honey \Nand leave them in the woods like he does?
 Dialogue: 10,0:04:10.02,0:04:11.06,Default,,0,0,0,,Of course not!
@@ -128,7 +128,7 @@ Dialogue: 10,0:04:29.83,0:04:31.67,Default,,0,0,0,,Where did your eyes go?!
 Dialogue: 10,0:04:31.67,0:04:33.75,Default,,0,0,0,,Jab, jab, hook, straight!
 Dialogue: 10,0:04:33.75,0:04:34.67,Default,,0,0,0,,The finisher...
 Dialogue: 10,0:04:34.67,0:04:36.05,Default,,0,0,0,,Uppercut!
-Dialogue: 10,0:04:38.72,0:04:41.01,Default,,0,0,0,,{\q2}Your power level increases while \Nyou're not wearing glasses!
+Dialogue: 10,0:04:38.72,0:04:41.01,Default,,0,0,0,,{\q2}Your power level increases \Nwhen you're not wearing glasses!
 Dialogue: 10,0:04:41.72,0:04:44.60,Default,,0,0,0,,The glasses were suppressing her power all along.
 Dialogue: 10,0:04:44.60,0:04:47.10,Default,,0,0,0,,Best keep them on, for all our sakes.
 Dialogue: 10,0:04:47.39,0:04:49.02,Default,,0,0,0,,That's enough already!
@@ -174,19 +174,19 @@ Dialogue: 10,0:06:33.83,0:06:36.00,Default,,0,0,0,,You wouldn't be able to order
 Dialogue: 10,0:06:36.00,0:06:36.92,Default,,0,0,0,,Hotpot?
 Dialogue: 10,0:06:38.00,0:06:39.00,Default,,0,0,0,,{\i1}I win!
 Dialogue: 10,0:06:46.72,0:06:47.39,Default,,0,0,0,,Aight!
-Dialogue: 10,0:06:47.39,0:06:47.43,Default,,174,246,74,,{\frz8.5\c&H000000&\4a&HFF&\blur1.5}Aight!
-Dialogue: 11,0:06:47.39,0:06:47.43,Default,,174,246,74,,{\frz8.5\bord0\4a&HFF&\blur2.4}Aight!
-Dialogue: 10,0:06:47.43,0:06:47.47,Default,,73,347,94,,{\frz8.5\1a&H80&\blur4.5}Aight!
-Dialogue: 11,0:06:47.43,0:06:47.47,Default,,73,347,94,,{\frz8.5\bord0\blur3}Aight!
-Dialogue: 10,0:06:47.47,0:06:47.51,Default,,-56,476,50,,{\frz8.5\1a&H80&\blur1.5}Aight!
-Dialogue: 11,0:06:47.47,0:06:47.51,Default,,-56,476,50,,{\frz8.5\bord0\blur2.4}Aight!
-Dialogue: 10,0:06:47.51,0:06:47.55,Default,,-124,544,-34,,{\frz8.5\1a&H80&\blur1.5}Aight!
-Dialogue: 11,0:06:47.51,0:06:47.55,Default,,-124,544,-34,,{\frz8.5\blur1.2\bord}Aight!
+Dialogue: 10,0:06:47.39,0:06:47.43,Default,,174,246,74,,{\frz9\c&H000000&\4a&HFF&\blur1.5}Aight!
+Dialogue: 11,0:06:47.39,0:06:47.43,Default,,174,246,74,,{\frz9\bord0\4a&HFF&\blur2.4}Aight!
+Dialogue: 10,0:06:47.43,0:06:47.47,Default,,73,347,94,,{\frz9\1a&H80&\blur4.5}Aight!
+Dialogue: 11,0:06:47.43,0:06:47.47,Default,,73,347,94,,{\frz9\bord0\blur3}Aight!
+Dialogue: 10,0:06:47.47,0:06:47.51,Default,,-56,476,50,,{\frz9\1a&H80&\blur1.5}Aight!
+Dialogue: 11,0:06:47.47,0:06:47.51,Default,,-56,476,50,,{\frz9\bord0\blur2.4}Aight!
+Dialogue: 10,0:06:47.51,0:06:47.55,Default,,-124,544,-34,,{\frz9\1a&H80&\blur1.5}Aight!
+Dialogue: 11,0:06:47.51,0:06:47.55,Default,,-124,544,-34,,{\frz9\blur1.2\bord}Aight!
 Dialogue: 10,0:06:49.14,0:06:50.60,Default,,0,0,0,,They won't steam up!
 Dialogue: 10,0:06:51.35,0:06:54.48,Default,,0,0,0,,Trying to steam them up on purpose is a bit mean.
 Dialogue: 10,0:06:54.48,0:06:55.69,Default,,0,0,0,,That's right!
 Dialogue: 10,0:06:55.69,0:06:58.48,Default,,0,0,0,,{\q2}Foggy glasses are the ultimate humiliation \Nfor people that wear glasses!
-Dialogue: 10,0:06:58.48,0:06:59.77,Default,,0,0,0,,How would you know?
+Dialogue: 10,0:06:58.48,0:06:59.77,Default,,0,0,0,,And you'd know because?
 Dialogue: 10,0:06:59.77,0:07:01.90,Default,,0,0,0,,And just think about it!
 Dialogue: 10,0:07:01.90,0:07:05.45,Default,,0,0,0,,If a celebrity's glasses fogged up, it'd be a travesty!
 Dialogue: 10,0:07:05.78,0:07:08.82,Default,,0,0,0,,{\q2}Even that one actor with \Nthe enchanting smile wouldn't be safe!
@@ -221,7 +221,7 @@ Dialogue: 10,0:08:45.38,0:08:48.63,Default,,0,0,0,,Argh! I can't believe my aim 
 Dialogue: 10,0:08:48.88,0:08:51.72,Default,,0,0,0,,Here?
 Dialogue: 10,0:08:53.01,0:08:54.72,Default,,0,0,0,,Not even close.
 Dialogue: 10,0:08:57.02,0:08:58.06,Default,,0,0,0,,Marii...
-Dialogue: 10,0:08:58.06,0:09:00.81,Default,,0,0,0,,She doesn't realise {\i1}she's{\i0} the one being made fun of.
+Dialogue: 10,0:08:58.06,0:09:00.81,Default,,0,0,0,,She doesn't realise {\i1}she's{\i0} the one being toyed with.
 Dialogue: 10,0:09:00.81,0:09:01.60,Default,,0,0,0,,Right?
 Dialogue: 10,0:09:15.53,0:09:17.83,Default,,0,0,0,,"The Black-Headed Gull" is a weird name for a train.
 Dialogue: 10,0:09:17.83,0:09:22.67,Default,,0,0,0,,{\q2}The proper name is the \N"Tokyo Waterfront New Transit Waterfront Line".
@@ -250,7 +250,7 @@ Dialogue: 10,0:10:18.22,0:10:20.47,Default,,0,0,0,,Carrying Master's bag...
 Dialogue: 10,0:10:20.47,0:10:22.56,Default,,0,0,0,,Cleaning Master's house...
 Dialogue: 10,0:10:22.56,0:10:24.77,Default,,0,0,0,,Wiping Master's bum because he couldn't—
 Dialogue: 10,0:10:24.77,0:10:26.06,Default,,0,0,0,,What was he, a sumo wrestler?
-Dialogue: 10,0:10:30.69,0:10:35.91,Default,,0,0,0,,{\q2}The worst for me was doing rakugo \Nwhile bungee jumping from the Rainbow Bridge.
+Dialogue: 10,0:10:30.69,0:10:35.91,Default,,0,0,0,,{\q2}The worst for me was doing rakugo \Nwhile bungee jumping off the Rainbow Bridge.
 Dialogue: 10,0:10:35.91,0:10:37.32,Default,,0,0,0,,That never happened!
 Dialogue: 10,0:10:37.32,0:10:43.62,Default,,0,0,0,,{\q2}I wonder what lies somewhere \Nover the Rainbow Bridge...
 Dialogue: 10,0:10:45.42,0:10:46.92,Default,,0,0,0,,What's with this bend?
@@ -300,12 +300,12 @@ Dialogue: 10,0:12:25.35,0:12:28.69,Default,,0,0,0,,Do they even have muscles?
 Dialogue: 10,0:12:28.69,0:12:31.61,Default,,0,0,0,,Apparently, a backwards roll is enough.
 Dialogue: 10,0:12:32.02,0:12:32.98,Default,,0,0,0,,Like this, and...
 Dialogue: 10,0:12:35.82,0:12:37.86,Default,,0,0,0,,A roll worthy of Mitsuko Mori!
-Dialogue: 10,0:12:37.86,0:12:41.20,Default,,0,0,0,,{\q2}Nobody would be able to tell that you used to \Nbe scared of doing rakugo on the train!
+Dialogue: 10,0:12:37.86,0:12:41.20,Default,,0,0,0,,{\q2}Nobody would be able to tell that you \Nused to be scared of doing rakugo on the train!
 Dialogue: 10,0:12:41.20,0:12:43.33,Default,,0,0,0,,You've come so far, Teto!
 Dialogue: 10,0:12:43.33,0:12:47.41,Default,,0,0,0,,{\q2}You're amazing... doing a backwards roll \Non the train like it's nothing!
 Dialogue: 10,0:12:48.41,0:12:50.12,Default,,0,0,0,,I guess I {\i1}have{\i0} come a long way.
-Dialogue: 10,0:12:50.12,0:12:51.08,Default,,0,0,0,,Alright, big-head!
-Dialogue: 10,0:12:52.08,0:12:55.75,Default,,0,0,0,,Meanwhile, Kukuru's situation got worse!
+Dialogue: 10,0:12:50.12,0:12:51.08,Default,,0,0,0,,All right, big-head!
+Dialogue: 10,0:12:52.08,0:12:55.75,Default,,0,0,0,,Meanwhile, Kukuru's situation got even worse!
 Dialogue: 10,0:12:55.75,0:13:00.22,Default,,0,0,0,,A great conflict is brewing inside her body.
 Dialogue: 10,0:13:00.22,0:13:01.47,Default,,0,0,0,,What kind of conflict?
 Dialogue: 10,0:13:01.47,0:13:03.14,Default,,0,0,0,,{\q2}An argument between \Nher stomach and oesophagus?
@@ -320,7 +320,7 @@ Dialogue: 10,0:13:23.20,0:13:26.83,Default,,0,0,0,,It's eleven metres tall and w
 Dialogue: 10,0:13:27.70,0:13:29.58,Default,,0,0,0,,Over there's the Odaiba Fuji TV building.
 Dialogue: 10,0:13:45.93,0:13:47.81,Default,,0,0,0,,That's a big Ferris wheel!
 Dialogue: 10,0:13:57.32,0:14:00.28,Default,,0,0,0,,This is bad. Her contents are about to breach!
-Dialogue: 10,0:14:00.28,0:14:02.70,Default,,0,0,0,,Nothing for it. We may as well join her.
+Dialogue: 10,0:14:00.28,0:14:02.70,Default,,0,0,0,,Nothing for it. We may as well join her!
 Dialogue: 10,0:14:02.70,0:14:05.12,Default,,0,0,0,,What are we gonna do if you get sick too?
 Dialogue: 10,0:14:05.37,0:14:07.37,Default,,0,0,0,,It's... no use...
 Dialogue: 10,0:14:07.37,0:14:08.66,Default,,0,0,0,,I'm so, so sorry...
@@ -334,12 +334,12 @@ Dialogue: 10,0:14:27.60,0:14:29.22,Default,,0,0,0,,Phew, that's good!
 Dialogue: 10,0:14:29.68,0:14:31.77,Default,,0,0,0,,Um... where are we?
 Dialogue: 10,0:14:53.08,0:14:54.21,Default,,0,0,0,,Let's go home.
 Dialogue: 10,0:14:54.79,0:14:55.96,Default,,0,0,0,,Yup.
-Dialogue: 10,0:14:59.38,0:15:03.84,Default,,0,0,0,,{\q2}"That little scamp stole the boss's sweets? \NWhat a cheeky blighter!"
+Dialogue: 10,0:14:59.38,0:15:03.84,Default,,0,0,0,,{\q2}"That little scamp stole the boss's moonflakes? \NWhat a cheeky blighter!"
 Dialogue: 10,0:15:03.84,0:15:05.97,Default,,0,0,0,,"What happened next?"
 Dialogue: 10,0:15:05.97,0:15:09.60,Default,,0,0,0,,"They turned into pieces of the moon."
 Dialogue: 10,0:15:10.56,0:15:12.68,Default,,0,0,0,,Thank you for your continued patronage.
 Dialogue: 10,0:15:21.61,0:15:22.61,Default,,0,0,0,,Beautiful.
-Dialogue: 10,0:15:29.32,0:15:31.66,Default,,0,0,0,,Why are we watching this in the dressing room?
+Dialogue: 10,0:15:29.32,0:15:31.66,Default,,0,0,0,,{\q2}Remind me, why are we watching this \Nin the dressing room?
 Dialogue: 10,0:15:32.29,0:15:33.95,Default,,0,0,0,,Because it was too cloudy outside.
 Dialogue: 10,0:15:33.95,0:15:36.62,Default,,0,0,0,,You can't really see much out there right now.
 Dialogue: 10,0:15:36.62,0:15:39.33,Default,,0,0,0,,It's the 15th. It's meant to be a full moon.
@@ -359,7 +359,7 @@ Dialogue: 10,0:16:22.25,0:16:23.00,Default,,0,0,0,,That's so scary!
 Dialogue: 10,0:16:23.00,0:16:24.55,Default,,0,0,0,,Bunnies don't look like that!
 Dialogue: 10,0:16:24.55,0:16:27.01,Default,,0,0,0,,They're cute, like this li'l guy.
 Dialogue: 10,0:16:27.01,0:16:30.97,Default,,0,0,0,,{\q2}Moon viewing parties are really \Njust an excuse to eat sweets.
-Dialogue: 10,0:16:30.97,0:16:32.76,Default,,0,0,0,,Not particularly exciting.
+Dialogue: 10,0:16:30.97,0:16:32.76,Default,,0,0,0,,Not particularly thrilling.
 Dialogue: 10,0:16:32.76,0:16:35.85,Default,,0,0,0,,I mean, you can eat anything associated with the moon.
 Dialogue: 10,0:16:35.85,0:16:37.52,Default,,0,0,0,,What about ra-moon noodles?
 Dialogue: 10,0:16:43.73,0:16:44.94,Default,,0,0,0,,This isn't very exciting!
@@ -427,7 +427,7 @@ Dialogue: 10,0:19:47.08,0:19:48.42,Default,,0,0,0,,A r-rabbit!
 Dialogue: 10,0:19:48.42,0:19:49.67,Default,,0,0,0,,No doubt about it, a rabbit!
 Dialogue: 10,0:19:49.67,0:19:51.71,Default,,0,0,0,,A rabbit!
 Dialogue: 10,0:19:51.71,0:19:54.71,Default,,0,0,0,,{\q2}A pervert sniffing someone's butt \Nat an impossible angle.
-Dialogue: 10,0:19:56.76,0:19:57.59,Default,,0,0,0,,It's strong!
+Dialogue: 10,0:19:56.76,0:19:57.59,Default,,0,0,0,,Holy crap!
 Dialogue: 10,0:20:06.48,0:20:09.48,Default,,0,0,0,,We have to calm this bunny lord down somehow!
 Dialogue: 10,0:20:09.48,0:20:11.65,Default,,0,0,0,,A feast! Let's hold a feast!
 Dialogue: 10,0:20:19.24,0:20:21.12,Default,,0,0,0,,What the hell is this?
