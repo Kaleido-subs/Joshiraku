@@ -37,557 +37,557 @@ Style: jp2,DaunPenh,90,&H00FFFFFF,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:01:31.36,0:01:33.99,Default,,0,0,0,,"I can't eat anymore!"
-Dialogue: 10,0:01:33.99,0:01:36.78,Default,,0,0,0,,"If you can't eat, you should have a drink!"
-Dialogue: 10,0:01:39.12,0:01:41.41,Default,,0,0,0,,"Thanks for the meal."
-Dialogue: 10,0:01:41.41,0:01:43.08,Default,,0,0,0,,Thank you kindly for your attention.
-Dialogue: 10,0:01:55.09,0:01:58.80,Default,,0,0,0,,What's more important, me? Or rakugo?
-Dialogue: 10,0:02:01.35,0:02:02.31,Default,,0,0,0,,Don't ask stupi—
-Dialogue: 10,0:02:02.31,0:02:04.14,Default,,0,0,0,,You are, of course!
-Dialogue: 10,0:02:04.14,0:02:05.39,Default,,0,0,0,,Compared to you...
-Dialogue: 10,0:02:05.39,0:02:06.31,Default,,0,0,0,,...rakugo means nothing!
-Dialogue: 10,0:02:06.31,0:02:08.48,Default,,0,0,0,,Come on, don't say that!
-Dialogue: 10,0:02:08.48,0:02:09.73,Default,,0,0,0,,Both are important!
-Dialogue: 10,0:02:09.73,0:02:10.65,Default,,0,0,0,,But...
-Dialogue: 10,0:02:10.65,0:02:11.48,Default,,0,0,0,,But?
-Dialogue: 10,0:02:11.48,0:02:14.98,Default,,0,0,0,,When I asked her for a bite, she wouldn't give me one.
-Dialogue: 10,0:02:15.57,0:02:19.70,Default,,0,0,0,,When I complimented her outfit and said that I wanted one just like it,
-Dialogue: 10,0:02:19.70,0:02:21.91,Default,,0,0,0,,she wouldn't tell me where she bought it from.
-Dialogue: 10,0:02:21.91,0:02:24.95,Default,,0,0,0,,She promised to introduce me to a guy,
-Dialogue: 10,0:02:24.95,0:02:28.62,Default,,0,0,0,,but then she called off the party because\N everyone else was already going out with someone!
-Dialogue: 10,0:02:28.62,0:02:29.58,Default,,0,0,0,,Oh, shut up!
-Dialogue: 10,0:02:29.58,0:02:31.33,Default,,0,0,0,,This isn't about choosing between you or rakugo!
-Dialogue: 10,0:02:31.33,0:02:32.29,Default,,0,0,0,,You're just whining!
-Dialogue: 10,0:02:32.29,0:02:35.34,Default,,0,0,0,,So rakugo really is more important!
-Dialogue: 10,0:02:35.34,0:02:38.55,Default,,0,0,0,,I'll kill rakugo, then die!
-Dialogue: 10,0:02:38.55,0:02:40.39,Default,,0,0,0,,A forced double-suicide with rakugo?
-Dialogue: 10,0:02:40.39,0:02:43.10,Default,,0,0,0,,Doesn't that mean rakugo really is more important?
-Dialogue: 10,0:02:48.94,0:02:51.69,Default,,0,0,0,,Hey! Let's focus on birth instead of suicide!
-Dialogue: 10,0:02:51.69,0:02:54.27,Default,,0,0,0,,Let's all celebrate together!
-Dialogue: 10,0:02:54.27,0:02:55.94,Default,,0,0,0,,A Christmas party!
-Dialogue: 10,0:02:55.94,0:02:56.65,Default,,0,0,0,,Sounds good.
-Dialogue: 10,0:02:56.65,0:02:58.40,Default,,0,0,0,,Let's do it!
-Dialogue: 10,0:03:00.24,0:03:04.24,Default,,0,0,0,,The writers aren't even trying to match the season.
-Dialogue: 10,0:03:04.24,0:03:06.62,Default,,0,0,0,,As they say, "Time and tide wait for no man."
-Dialogue: 10,0:03:06.62,0:03:09.91,Default,,0,0,0,,The real question is whether they're trying to match the broadcast or the sales.
-Dialogue: 10,0:03:09.91,0:03:12.21,Default,,0,0,0,,Yeah, don't worry about minor details like that.
-Dialogue: 10,0:03:12.21,0:03:13.38,Default,,0,0,0,,It's not minor!
-Dialogue: 10,0:03:13.38,0:03:18.09,Default,,0,0,0,,By the way, who are you gonna spend the real Christmas with?
-Dialogue: 10,0:03:18.09,0:03:19.97,Default,,0,0,0,,With E**zou.
-Dialogue: 10,0:03:19.97,0:03:23.18,Default,,0,0,0,,E**zou.
-Dialogue: 10,0:03:23.18,0:03:26.18,Default,,0,0,0,,Oh? Figures we'd all pick E**zou.
-Dialogue: 10,0:03:26.18,0:03:27.72,Default,,0,0,0,,At least try to lie!
-Dialogue: 10,0:03:27.72,0:03:30.98,Default,,0,0,0,,He's a kabuki actor. He's got the biggest share in my heart.
-Dialogue: 10,0:03:30.98,0:03:32.02,Default,,0,0,0,,No he doesn't!
-Dialogue: 10,0:03:32.77,0:03:35.31,Default,,0,0,0,,But anyway, even if we were to hold a Christmas party,
-Dialogue: 10,0:03:35.31,0:03:38.99,Default,,0,0,0,,I wouldn't be able to get in the mood. The world's in an economic crisis.
-Dialogue: 10,0:03:38.99,0:03:41.49,Default,,0,0,0,,It's not just E**zou.
-Dialogue: 10,0:03:41.49,0:03:44.28,Default,,0,0,0,,If we fail to act in indulgenge and don't do our share of spending, things won't get better.
-Dialogue: 10,0:03:44.28,0:03:47.20,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:03:47.20,0:03:52.29,Default,,0,0,0,,During a crisis, everyone spends less, so the whole situation just gets worse and worse.
-Dialogue: 10,0:03:52.29,0:03:56.50,Default,,0,0,0,,The trick is to buy so much crap that you can say you've had more than your fair share.
-Dialogue: 10,0:03:56.50,0:03:58.71,Default,,0,0,0,,That oughta make the economic situation better.
-Dialogue: 10,0:03:58.71,0:04:02.68,Default,,0,0,0,,Freelancers especially should spend a lion's share!
-Dialogue: 10,0:04:02.68,0:04:05.72,Default,,0,0,0,,I won't say names, but if you've gotten rich from drawing manga,
-Dialogue: 10,0:04:05.72,0:04:08.72,Default,,0,0,0,,then don't buy a cheap corner store parcel! Spend your fair share!
-Dialogue: 10,0:04:08.72,0:04:13.73,Default,,0,0,0,,So, in order to have a merry Christmas, we need to act in indulgence?
-Dialogue: 10,0:04:13.73,0:04:17.30,Default,,0,0,0,,Meaning doing something like going overboard on your honeymoon and buying all the first class cabins
-Dialogue: 10,0:04:17.30,0:04:19.61,Default,,0,0,0,, on a cruise ship, or buying a huge diamond for your bride.
-Dialogue: 10,0:04:19.61,0:04:22.99,Default,,0,0,0,,Actors should hide some extra in their underwear too.
-Dialogue: 10,0:04:22.99,0:04:23.99,Default,,0,0,0,,That's not right.
-Dialogue: 10,0:04:23.99,0:04:26.37,Default,,0,0,0,,What three things show a kabuki actor's tension?
-Dialogue: 10,0:04:27.58,0:04:30.16,Default,,0,0,0,,Tenses? Act, acting, acted?
-Dialogue: 10,0:04:30.16,0:04:30.91,Default,,0,0,0,,No.
-Dialogue: 10,0:04:30.91,0:04:32.91,Default,,0,0,0,,Being dead drunk. On tequila. Also, national treasure.{ebizou pun}
-Dialogue: 10,0:04:32.91,0:04:34.04,Default,,0,0,0,,No!
-Dialogue: 10,0:04:34.04,0:04:35.58,Default,,0,0,0,,I know!
-Dialogue: 10,0:04:35.58,0:04:37.54,Default,,0,0,0,,Consume, gamble, and buy.
-Dialogue: 10,0:04:37.54,0:04:39.55,Default,,0,0,0,,You mean booze, black jack, and hookers?
-Dialogue: 10,0:04:39.55,0:04:43.88,Default,,0,0,0,,No. Overconsume, gamble with your life, and buy help.{you're a genius}{lol}
-Dialogue: 10,0:04:43.88,0:04:46.05,Default,,0,0,0,,A dead-in-the-wool kabuki actor!
-Dialogue: 10,0:04:46.05,0:04:47.09,Default,,0,0,0,,Are you serious?!
-Dialogue: 10,0:04:47.09,0:04:49.76,Default,,0,0,0,,So that's why people go to church on Christmas.
-Dialogue: 10,0:04:49.76,0:04:52.23,Default,,0,0,0,,The Father listens to your problems.
-Dialogue: 10,0:04:52.23,0:04:54.02,Default,,0,0,0,,That's a whole different story!
-Dialogue: 10,0:04:54.02,0:04:58.06,Default,,0,0,0,,Even if you feel that you're useless and you've hit rock bottom...
-Dialogue: 10,0:04:58.06,0:05:01.69,Default,,0,0,0,,"It's all right. You're a wonderful person!"
-Dialogue: 10,0:05:01.69,0:05:03.28,Default,,0,0,0,,They sing odes to you.
-Dialogue: 10,0:05:03.28,0:05:05.40,Default,,0,0,0,,So that's why they sing odes and hymns at church!
-Dialogue: 10,0:05:05.40,0:05:06.74,Default,,0,0,0,,I think you're getting it all wrong.
-Dialogue: 10,0:05:07.95,0:05:12.37,Default,,0,0,0,,Let's sing an ode about Kukuru to cheer her up!
-Dialogue: 10,0:05:12.37,0:05:15.37,Default,,0,0,0,,It's...
-Dialogue: 10,0:05:16.62,0:05:20.38,Default,,0,0,0,,It's all right!
-Dialogue: 10,0:05:20.38,0:05:22.84,Default,,0,0,0,,It was supposed to be an ode, not a musical!
-Dialogue: 10,0:05:20.92,0:05:28.76,Alter,,0,0,0,,You're wonderful!
-Dialogue: 10,0:05:22.84,0:05:38.52,Default,,0,0,0,,{from background}It's all right! It's all right!
-Dialogue: 10,0:05:28.76,0:05:30.35,Alter,,0,0,0,,They were here before!
-Dialogue: 10,0:05:34.35,0:05:37.31,Alter,,0,0,0,,{gankyou in background}You're wonderful!
-Dialogue: 10,0:05:38.52,0:05:43.65,Default,,0,0,0,,It's all right! It's all—
-Dialogue: 10,0:05:40.15,0:05:43.65,Alter,,0,0,0,,How dare you disturb my song!
-Dialogue: 10,0:05:43.65,0:05:46.20,Default,,0,0,0,,You ruined our wonderful ode!
-Dialogue: 10,0:05:46.20,0:05:49.91,Default,,0,0,0,,I'm sorry. I'll start again.
-Dialogue: 10,0:05:49.91,0:05:51.91,Default,,0,0,0,,It's okay...
-Dialogue: 10,0:05:51.91,0:05:54.20,Default,,0,0,0,,You're all just making fun of me!
-Dialogue: 10,0:05:54.20,0:05:55.12,Default,,0,0,0,,Kukuru!
-Dialogue: 10,0:06:01.21,0:06:04.67,Default,,0,0,0,,What's this Rubens-style painting doing here?
-Dialogue: 10,0:06:09.64,0:06:14.14,Default,,0,0,0,,Patrasche, I've had enough...
-Dialogue: 10,0:06:28.99,0:06:32.87,Default,,0,0,0,,It was then that a Christmas miracle happened.
-Dialogue: 10,0:06:41.21,0:06:46.34,Default,,0,0,0,,High spirits descended upon Kukuru.
-Dialogue: 10,0:06:46.34,0:06:48.72,Default,,0,0,0,,High spirits? Not holy?
-Dialogue: 10,0:06:48.72,0:06:51.43,Default,,0,0,0,,Yeah, she sure is in high spirits now.
-Dialogue: 10,0:06:51.43,0:06:53.76,Default,,0,0,0,,A true miracle from 34th Street, Shinjuku!
-Dialogue: 10,0:06:53.76,0:06:56.56,Default,,0,0,0,,Now we can sing odes together with her!
-Dialogue: 10,0:06:56.56,0:07:01.73,Default,,0,0,0,,It's all right!
-Dialogue: 10,0:07:04.36,0:07:06.36,Default,,0,0,0,,This is chaos!
-Dialogue: 10,0:07:06.36,0:07:08.44,Default,,0,0,0,,You should sing too, Marii!
-Dialogue: 10,0:07:09.36,0:07:12.28,Default,,0,0,0,,I'd rather not.
-Dialogue: 10,0:07:24.71,0:07:26.92,Default,,0,0,0,,It's all right!
-Dialogue: 10,0:07:26.92,0:07:29.09,Default,,0,0,0,,Do you think Marii is...
-Dialogue: 10,0:07:29.09,0:07:29.55,Default,,0,0,0,,...tone dea—
-Dialogue: 10,0:07:35.81,0:07:38.39,Default,,0,0,0,,It was then that a miracle happened.
-Dialogue: 10,0:07:43.19,0:07:45.40,Default,,0,0,0,,Marii's spirits fell.
-Dialogue: 10,0:07:46.11,0:07:48.32,Default,,0,0,0,,Her spirits have fallen! She's in low spirits!
-Dialogue: 10,0:07:48.32,0:07:50.61,Default,,0,0,0,,Fallen spirits? So she's a demon?
-Dialogue: 10,0:07:50.61,0:07:52.86,Default,,0,0,0,,Fallen angels are demons...
-Dialogue: 10,0:07:52.86,0:07:56.24,Default,,0,0,0,,We must purge the demon! Call an exorcist!
-Dialogue: 10,0:07:56.24,0:07:59.00,Default,,0,0,0,,I came when I heard that a demon causes you great suffering.
-Dialogue: 10,0:08:03.75,0:08:06.63,Default,,0,0,0,,A real demon emerged.
-Dialogue: 10,0:08:06.63,0:08:12.97,Default,,0,0,0,,Even this year, the fight between high and low spirits continues.
-Dialogue: 10,0:08:12.97,0:08:16.68,Default,,0,0,0,,We must exorcise demons!
-Dialogue: 10,0:08:16.68,0:08:18.93,Default,,0,0,0,,But how...
-Dialogue: 10,0:08:18.93,0:08:21.02,Default,,0,0,0,,There's a way!
-Dialogue: 10,0:08:24.35,0:08:27.86,Default,,0,0,0,,Rubbing her boobs will purge the demon!
-Dialogue: 10,0:08:27.86,0:08:31.32,Default,,0,0,0,,And if you use that rubbed photo as your wallpaper, you'll be blessed with happiness!
-Dialogue: 10,0:08:31.32,0:08:32.70,Default,,0,0,0,,When I did this,
-Dialogue: 10,0:08:32.70,0:08:34.32,Default,,0,0,0,,I became happy!
-Dialogue: 10,0:08:34.32,0:08:35.91,Default,,0,0,0,,You should try too!
-Dialogue: 10,0:08:35.91,0:08:37.45,Default,,0,0,0,,No you shouldn't!
-Dialogue: 10,0:08:50.76,0:08:53.63,Default,,0,0,0,,Is this the fabled Harajuku?
-Dialogue: 10,0:08:53.63,0:08:56.93,Default,,0,0,0,,I hardly leave the house except to buy groceries,
-Dialogue: 10,0:08:56.93,0:08:58.80,Default,,0,0,0,,so when I go to a place like this, I get so nervous...
-Dialogue: 10,0:08:58.80,0:08:59.93,Default,,0,0,0,,Me too.
-Dialogue: 10,0:08:59.93,0:09:02.64,Default,,0,0,0,,People from the countryside are invisible to them.
-Dialogue: 10,0:09:02.64,0:09:04.85,Default,,0,0,0,,Don't worry, we're humans all the same!
-Dialogue: 10,0:09:04.85,0:09:08.02,Default,,0,0,0,,Yeah! Just look down the road!
-Dialogue: 10,0:09:08.02,0:09:10.19,Default,,0,0,0,,That's some human garb—{age}{from castle in the sky}
-Dialogue: 10,0:09:10.82,0:09:12.65,Default,,0,0,0,,Get a grip, Marii!
-Dialogue: 10,0:09:12.65,0:09:14.53,Default,,0,0,0,,Don't reveal your power level.
-Dialogue: 10,0:09:14.53,0:09:16.20,Default,,0,0,0,,This is hipster town.
-Dialogue: 10,0:09:16.20,0:09:17.70,Default,,0,0,0,,You have to be kidding me!
-Dialogue: 10,0:09:17.70,0:09:20.70,Default,,0,0,0,,Miyazaki is the best! No one can argue with that!
-Dialogue: 10,0:09:20.70,0:09:24.62,Default,,0,0,0,,Yeah, I guess the father plays in his own league, but I'm not sure about ***.{his son}
-Dialogue: 10,0:09:24.62,0:09:28.25,Default,,0,0,0,,But he only got really famous with Nausicaa.
-Dialogue: 10,0:09:28.25,0:09:32.21,Default,,0,0,0,,Yeah, no one knows Cagliostro or Go, Panda...
-Dialogue: 10,0:09:32.21,0:09:35.42,Default,,0,0,0,,What do you think about Howl's? Nobody really knows ***.{tales from earthsea}
-Dialogue: 10,0:09:35.42,0:09:36.59,Default,,0,0,0,,Dunno...
-Dialogue: 10,0:09:36.59,0:09:39.47,Default,,0,0,0,,That reminds me, we have to go to a talent shop!
-Dialogue: 10,0:09:39.47,0:09:41.93,Default,,0,0,0,,You mean the idols'?
-Dialogue: 10,0:09:41.93,0:09:45.23,Default,,0,0,0,,Yeah, like Kunichan's and Mashi's, or Tacchan's pickled veggie shop.{idk, these idols are known widely by their "chan" names, what do?}{im nuking the dash to make it a single name}
-Dialogue: 10,0:09:45.23,0:09:48.94,Default,,0,0,0,,But it's the Bamboo Dancers that define Harajuku!
-Dialogue: 10,0:09:48.94,0:09:50.69,Default,,0,0,0,,What age are you even living in?
-Dialogue: 10,0:09:50.69,0:09:51.73,Default,,0,0,0,,They've been gone since forever.
-Dialogue: 10,0:09:54.65,0:09:57.36,Default,,0,0,0,,My Harajuku debut is up in flames...
-Dialogue: 10,0:09:57.36,0:09:59.62,Default,,0,0,0,,You're better off this way.
-Dialogue: 10,0:09:59.62,0:10:03.70,Default,,0,0,0,,Let's have fun now that we're here.
-Dialogue: 10,0:10:03.70,0:10:06.91,Default,,0,0,0,,There are interesting shops in Back-Hara'.{as in, back-street}
-Dialogue: 10,0:10:06.91,0:10:08.37,Default,,0,0,0,,Back-Hara'?
-Dialogue: 10,0:10:08.37,0:10:10.92,Default,,0,0,0,,Back-Harajuku. Shortened as Back-Hara'.
-Dialogue: 10,0:10:10.92,0:10:15.01,Default,,0,0,0,,Hold on. Who's calling it the back?
-Dialogue: 10,0:10:15.01,0:10:17.47,Default,,0,0,0,,Everyone...
-Dialogue: 10,0:10:17.47,0:10:19.97,Default,,0,0,0,,Back-Hara', huh?
-Dialogue: 10,0:10:19.97,0:10:21.72,Default,,0,0,0,,You see, the word "back" is usually associated with
-Dialogue: 10,0:10:21.72,0:10:25.18,Default,,0,0,0,,"back-door enrollment" or "backside" or "backstreet."
-Dialogue: 10,0:10:25.18,0:10:27.56,Default,,0,0,0,,You know, generally something with a bad meaning. You know that, right?
-Dialogue: 10,0:10:28.35,0:10:30.27,Default,,0,0,0,,Like "backstabbing" or "backhander."{i know it's BrE, but i need "back"}
-Dialogue: 10,0:10:30.27,0:10:31.48,Default,,0,0,0,,Or "backdoor trojan."{ura-saito, lit the unofficial website of usually schools run by students where they are free to say whatever}{i actually considered putting "backstreet boys" here}{conflicts a bit with the animation...}
-Dialogue: 10,0:10:31.48,0:10:32.82,Default,,0,0,0,,Or have a  "backlog"!
-Dialogue: 10,0:10:34.23,0:10:40.28,Default,,0,0,0,,How many animators had to take a bullet train to deliver the SR tapes from the offices out in the sticks?!
-Dialogue: 10,0:10:40.95,0:10:47.25,Default,,0,0,0,,Well, since it's a Harajuku that is no longer part of ordinary Harajuku, how about Top-Hara'? Or Toppara.
-Dialogue: 10,0:10:47.25,0:10:50.62,Default,,0,0,0,,That's good! We shouldn't call it Back-Hara'!
-Dialogue: 10,0:10:50.62,0:10:52.71,Default,,0,0,0,,It's Top-Hara', you hear?
-Dialogue: 10,0:11:00.22,0:11:01.97,Default,,0,0,0,,That's what I expected of Back-Hara'...
-Dialogue: 10,0:11:02.93,0:11:04.81,Default,,0,0,0,,I mean Top-Hara'!
-Dialogue: 10,0:11:05.10,0:11:07.89,Default,,0,0,0,,Blue girls are the majority here.
-Dialogue: 10,0:11:07.89,0:11:08.73,Default,,0,0,0,,Blue?
-Dialogue: 10,0:11:08.73,0:11:11.15,Default,,0,0,0,,It's a way of classifying fashion magazines.
-Dialogue: 10,0:11:11.15,0:11:13.56,Default,,0,0,0,,Magazines featuring girls like them have blue designs.
-Dialogue: 10,0:11:13.56,0:11:18.24,Default,,0,0,0,,Magazines with more ladylike or mature fashion are called red for a similar reason.
-Dialogue: 10,0:11:18.24,0:11:22.70,Default,,0,0,0,,Huh? Blue mags? Red mags? Yellow paper?
-Dialogue: 10,0:11:22.70,0:11:24.66,Default,,0,0,0,,That sounds like a tongue-twister.
-Dialogue: 10,0:11:24.66,0:11:30.00,Default,,0,0,0,,You know, like that Harajuku-ish idol. What was her name... Lucky... Pamu-pamu?
-Dialogue: 10,0:11:30.00,0:11:34.71,Default,,0,0,0,,Like the cute cat cured the queued Cuban cube?
-Dialogue: 10,0:11:34.71,0:11:38.34,Default,,0,0,0,,Then how about singing Sammy sung songs on sinking sand?{or any other "s"/"sh" singing-related t.twister}
-Dialogue: 10,0:11:38.34,0:11:40.13,Default,,0,0,0,,Bus bucksaw blast!{bus gas blast}
-Dialogue: 10,0:11:40.84,0:11:43.01,Default,,0,0,0,,Buck buskaw bast?
-Dialogue: 10,0:11:43.51,0:11:47.89,Default,,0,0,0,,The trick is to say it like, "busback soyblast."{bus vinegar blast}
-Dialogue: 10,0:11:47.89,0:11:49.85,Default,,0,0,0,,A soy blast in the back of a bus?
-Dialogue: 10,0:11:51.56,0:11:54.10,Default,,0,0,0,,Busback soyblast...
-Dialogue: 10,0:11:54.10,0:11:56.15,Default,,0,0,0,,Bus bucksaw blast...
-Dialogue: 10,0:11:56.15,0:11:58.11,Default,,0,0,0,,Bus bucksaw blast! It works!
-Dialogue: 10,0:11:58.11,0:12:02.82,Default,,0,0,0,,But imagine what'd happen if you did it like that...
-Dialogue: 10,0:12:09.45,0:12:11.58,Default,,0,0,0,,Busback soyblast.
-Dialogue: 10,0:12:11.58,0:12:14.25,Default,,0,0,0,,Burnt soy almost smells like vinegar!{i made this up}
-Dialogue: 10,0:12:15.29,0:12:17.04,Default,,0,0,0,,Yeah, it's not nice.
-Dialogue: 10,0:12:17.04,0:12:19.38,Default,,0,0,0,,Feels like I'm in a darkroom.{darkrooms have a vinegary smell}
-Dialogue: 10,0:12:19.38,0:12:21.80,Default,,0,0,0,,Let's eat crepes!
-Dialogue: 10,0:12:21.80,0:12:25.09,Default,,0,0,0,,Huh? Crepes? Like what Harajuku's famous for?
-Dialogue: 10,0:12:25.09,0:12:27.43,Default,,0,0,0,,Sure, Harajuku is famous for them,
-Dialogue: 10,0:12:27.43,0:12:29.64,Default,,0,0,0,,but it's been a while since I had any.
-Dialogue: 10,0:12:30.60,0:12:33.02,Default,,0,0,0,,The basic kind is choco-banana, right?
-Dialogue: 10,0:12:33.02,0:12:35.10,Default,,0,0,0,,There are lots of other yummy flavors too!
-Dialogue: 10,0:12:35.65,0:12:38.77,Default,,0,0,0,,What? Mango? Almond jelly?
-Dialogue: 10,0:12:38.77,0:12:41.53,Default,,0,0,0,,Red beans with soy flour? Salty caramel?
-Dialogue: 10,0:12:41.53,0:12:43.20,Default,,0,0,0,,It's a mere crepe!
-Dialogue: 10,0:12:43.20,0:12:44.99,Default,,0,0,0,,It's just flour, water and eggs!
-Dialogue: 10,0:12:44.99,0:12:46.66,Default,,0,0,0,,Behold the purity of octopus{squid, tehe} balls!
-Dialogue: 10,0:12:46.66,0:12:55.29,Default,,0,0,0,,{\an1\move(210,1005,-1950,1005,3151,8630)\q2}Strawberry custard with extra whipped cream, a medium-sized brownie, chocolate spray and a maple syrup caramel sauce rollup!{feel free to make this a four-liner for the heck of it}
-Dialogue: 10,0:12:56.13,0:12:58.54,Default,,0,0,0,,Kigu recited the resurrection spell!
-Dialogue: 10,0:12:58.54,0:12:59.96,Default,,0,0,0,,What? What language was that?
-Dialogue: 10,0:12:59.96,0:13:02.01,Default,,0,0,0,,It's just strawberry with chocolate.
-Dialogue: 10,0:13:02.01,0:13:03.30,Default,,0,0,0,,Then say so!
-Dialogue: 10,0:13:03.30,0:13:06.47,Default,,0,0,0,,Also a shot of topping and a shot.{chotto toppingu dattari shotto dattari}{idk what "shot" refers to}
-Dialogue: 10,0:13:06.47,0:13:07.34,Default,,0,0,0,,A shot?{apparently neither does kukuru}
-Dialogue: 10,0:13:08.26,0:13:10.51,Default,,0,0,0,,It's a mere crepe! Why are there so many choices?!
-Dialogue: 10,0:13:10.51,0:13:11.89,Default,,0,0,0,,Ordering is a pain in the butt!
-Dialogue: 10,0:13:11.89,0:13:14.85,Default,,0,0,0,,Other people will laugh when they see me despairing!
-Dialogue: 10,0:13:14.85,0:13:16.69,Default,,0,0,0,,So lame!
-Dialogue: 10,0:13:16.69,0:13:18.23,Default,,0,0,0,,A plain crepe, please.
-Dialogue: 10,0:13:18.23,0:13:19.69,Default,,0,0,0,,Plain?
-Dialogue: 10,0:13:19.69,0:13:22.15,Default,,0,0,0,,Is that like how when you order pizza delivered,
-Dialogue: 10,0:13:22.15,0:13:25.32,Default,,0,0,0,,you could pick a half-and-half one or a quartered family pizza as well,
-Dialogue: 10,0:13:25.32,0:13:27.99,Default,,0,0,0,,but you go with a simple cheese pizza?
-Dialogue: 10,0:13:27.99,0:13:30.37,Default,,0,0,0,,A hero! A hero is among us!
-Dialogue: 10,0:13:30.95,0:13:33.83,Default,,0,0,0,,It's been a while since I had a crepe.
-Dialogue: 10,0:13:33.83,0:13:37.88,Default,,0,0,0,,I guess. Not like it's a big occasion.
-Dialogue: 10,0:13:38.79,0:13:42.34,Default,,0,0,0,,Could it be you've never eaten crepe before, Marii?
-Dialogue: 10,0:13:42.34,0:13:46.51,Default,,0,0,0,,I feel like my life's gonna change if I eat this!
-Dialogue: 10,0:13:46.51,0:13:47.97,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:13:47.97,0:13:50.68,Default,,0,0,0,,Is it such an epochal event?
-Dialogue: 10,0:13:50.68,0:13:52.06,Default,,0,0,0,,No!
-Dialogue: 10,0:13:52.06,0:13:55.93,Default,,0,0,0,,It's just so embarrassing to eat this in public...
-Dialogue: 10,0:13:56.39,0:13:59.77,Default,,0,0,0,,You know, it's like going to a festival,
-Dialogue: 10,0:13:59.77,0:14:02.32,Default,,0,0,0,,or waiting an hour to buy donuts,
-Dialogue: 10,0:14:02.32,0:14:04.65,Default,,0,0,0,,or buying a mascot character's goods,
-Dialogue: 10,0:14:04.65,0:14:06.82,Default,,0,0,0,,or waiting for foreign celebrities at the airport...
-Dialogue: 10,0:14:06.82,0:14:09.11,Default,,0,0,0,,It feels like a big deal for me.
-Dialogue: 10,0:14:09.11,0:14:11.45,Default,,0,0,0,,Don't puff it up like that.
-Dialogue: 10,0:14:11.45,0:14:13.70,Default,,0,0,0,,Yeah, we're all eating it.
-Dialogue: 10,0:14:13.70,0:14:17.16,Default,,0,0,0,,Why is that hill in Kunitachi "Creamy's"?! It pisses me off!
-Dialogue: 10,0:14:17.16,0:14:21.50,Default,,0,0,0,,Tell me, is it Creamy? Or Krimii? Or Kriimi?
-Dialogue: 10,0:14:21.50,0:14:22.88,Default,,0,0,0,,That pisses me off.
-Dialogue: 10,0:14:22.88,0:14:26.09,Default,,0,0,0,,What's the big deal, Marii? It's just flour!
-Dialogue: 10,0:14:26.09,0:14:29.26,Default,,0,0,0,,Yeah! Consider it a sweet fried squid!
-Dialogue: 10,0:14:29.26,0:14:31.01,Default,,0,0,0,,Osaka's famous specialty!
-Dialogue: 10,0:14:31.01,0:14:33.68,Default,,0,0,0,,Fried squid...
-Dialogue: 10,0:14:34.31,0:14:36.43,Default,,0,0,0,,Mix squid with flour, then fry it...
-Dialogue: 10,0:14:36.43,0:14:38.39,Default,,0,0,0,,Add soy sauce and eat.
-Dialogue: 10,0:14:39.31,0:14:41.90,Default,,0,0,0,,You'll be fine.
-Dialogue: 10,0:14:45.65,0:14:47.69,Default,,0,0,0,,No, it's just not the same!
-Dialogue: 10,0:14:47.69,0:14:52.28,Default,,0,0,0,,Fried squid comes on a {food }plate! They wouldn't wrap it in a lame piece of paper.
-Dialogue: 10,0:14:52.28,0:14:58.29,Default,,0,0,0,,Happily spending 500 or 600 yen on this thing is like spending 3000 on a simple ramen!
-Dialogue: 10,0:14:58.29,0:14:59.25,Default,,0,0,0,,The value is totally off!
-Dialogue: 10,0:14:59.25,0:15:02.42,Default,,0,0,0,,It's weird the moment you've gotta eat it standing in a crowd!
-Dialogue: 10,0:15:02.42,0:15:03.46,Default,,0,0,0,,It's bad manners!
-Dialogue: 10,0:15:03.46,0:15:05.38,Default,,0,0,0,,Don't you think so?
-Dialogue: 10,0:15:05.38,0:15:07.05,Default,,0,0,0,,Shut up and eat!
-Dialogue: 10,0:15:12.97,0:15:15.18,Default,,0,0,0,,And now for the weather forecast.
-Dialogue: 10,0:15:15.18,0:15:18.43,Default,,0,0,0,,Today's pressure pattern will shift to one typical of winter,
-Dialogue: 10,0:15:18.43,0:15:20.73,Default,,0,0,0,,and the air will become dry.
-Dialogue: 10,0:15:20.73,0:15:22.23,Default,,0,0,0,,Continuing with the regional—
-Dialogue: 10,0:15:25.86,0:15:27.69,Default,,0,0,0,,It really is very dry.
-Dialogue: 10,0:15:27.69,0:15:31.28,Default,,0,0,0,,My fingers dry out, and my skin cracks painfully.
-Dialogue: 10,0:15:31.28,0:15:33.95,Default,,0,0,0,,But if your skin cracks,
-Dialogue: 10,0:15:33.95,0:15:35.91,Default,,0,0,0,,you can't have anything at your fingertips!
-Dialogue: 10,0:15:35.91,0:15:36.74,Default,,0,0,0,,Huh?
-Dialogue: 10,0:15:36.74,0:15:39.41,Default,,0,0,0,,Young performers are all poor, so if they couldn't have
-Dialogue: 10,0:15:39.41,0:15:41.96,Default,,0,0,0,,fire at their fingertips, for example, they'd be in trouble!
-Dialogue: 10,0:15:41.96,0:15:44.84,Default,,0,0,0,,I hope you know that's a metaphor.
-Dialogue: 10,0:15:44.84,0:15:47.00,Default,,0,0,0,,It's their last lifeline!
-Dialogue: 10,0:15:47.80,0:15:50.76,Default,,0,0,0,,The scariest part is that she actually seems serious.
-Dialogue: 10,0:15:50.76,0:15:53.22,Default,,0,0,0,,Well, if you literally had fire at your fingertips...
-Dialogue: 10,0:15:56.97,0:16:00.31,Default,,0,0,0,,You could make a living out of showing it off.{the human torch!}
-Dialogue: 10,0:16:00.31,0:16:02.77,Default,,0,0,0,,You'd have secure income! A get-out-of-poverty-free card!{i enjoy monopoly how about you}
-Dialogue: 10,0:16:04.56,0:16:09.11,Default,,0,0,0,,Anyway, my skin is so dry that it cracks. Like paper.
-Dialogue: 10,0:16:09.11,0:16:10.24,Default,,0,0,0,,That must be hard for you.
-Dialogue: 10,0:16:11.86,0:16:14.28,Default,,0,0,0,,I'm so envious! Your skin is as soft as silk!{anything better?}{silk works fine imo}
-Dialogue: 10,0:16:14.28,0:16:17.28,Default,,0,0,0,,Please, stop poking me!
-Dialogue: 10,0:16:17.28,0:16:20.37,Default,,0,0,0,,Lucky her... My skin is dry and rough, like a shark's.
-Dialogue: 10,0:16:20.37,0:16:22.87,Default,,0,0,0,,Yeah, I can even grate things on it!
-Dialogue: 10,0:16:22.87,0:16:24.79,Default,,0,0,0,,That hurts! Stop grating wasabi on my skin!
-Dialogue: 10,0:16:24.79,0:16:27.71,Default,,0,0,0,,But if you grate wasabi on shark skin, it ends up smooth and full of aroma!
-Dialogue: 10,0:16:28.30,0:16:29.76,Default,,0,0,0,,Paper skin.
-Dialogue: 10,0:16:30.13,0:16:31.84,Default,,0,0,0,,Silky skin.
-Dialogue: 10,0:16:31.84,0:16:33.68,Default,,0,0,0,,Shark skin.
-Dialogue: 10,0:16:33.68,0:16:37.89,Default,,0,0,0,,It's nice that you all have your own unique style of skin.
-Dialogue: 10,0:16:37.89,0:16:39.77,Default,,0,0,0,,I wonder what I am, then?
-Dialogue: 10,0:16:41.10,0:16:43.60,Default,,0,0,0,,Well, I'd say you're...
-Dialogue: 10,0:16:44.27,0:16:46.19,Default,,0,0,0,,Like a bigger sister?{anego-hada, lit "big sister skin" isn't an actual skin, more like a personality}
-Dialogue: 10,0:16:47.69,0:16:51.40,Default,,0,0,0,,You talk like one, that's for sure.
-Dialogue: 10,0:16:51.40,0:16:53.40,Default,,0,0,0,,So I have sister skin?{i had to stuff this misunderstanding in here somehow...}
-Dialogue: 10,0:16:54.28,0:16:57.03,Default,,0,0,0,,But what kind of skin is that?
-Dialogue: 10,0:16:57.03,0:17:03.54,Default,,0,0,0,,Is it clean? Or dry? Or soft? Or rough?
-Dialogue: 10,0:17:03.54,0:17:05.37,Default,,0,0,0,,No, it's not a kind of ski—
-Dialogue: 10,0:17:05.37,0:17:06.96,Default,,0,0,0,,Well, I'd say it's...
-Dialogue: 10,0:17:06.96,0:17:09.75,Default,,0,0,0,,like a girl with a dragon tattoo.{my shoutout}
-Dialogue: 10,0:17:09.75,0:17:13.05,Default,,0,0,0,,Dragon as in the Kurikara dragon god,
-Dialogue: 10,0:17:13.05,0:17:14.68,Default,,0,0,0,,and by tattoo I mean an Eastern-style tattoo.
-Dialogue: 10,0:17:15.76,0:17:19.22,Default,,0,0,0,,How do you know so much about tattoos, Teto?
-Dialogue: 10,0:17:19.22,0:17:21.97,Default,,0,0,0,,Could it be that you have one on your ankle, just like you-know-who?{sakai noriko. idk why the reference}
-Dialogue: 10,0:17:23.48,0:17:25.23,Default,,0,0,0,,Let's not talk about that now.
-Dialogue: 10,0:17:25.23,0:17:26.48,Default,,0,0,0,,Let me etch it into you!
-Dialogue: 10,0:17:26.48,0:17:28.11,Default,,0,0,0,,Let me etch it into you as an amateur!
-Dialogue: 10,0:17:28.11,0:17:29.86,Default,,0,0,0,,Let me etch it into you with harsh brutality, just like during middle school
-Dialogue: 10,0:17:29.86,0:17:31.69,Default,,0,0,0,,when I accidentally stabbed my hand with a mechanical pencil,
-Dialogue: 10,0:17:31.69,0:17:33.15,Default,,0,0,0,,the lead broke and the mark's still there to this day!
-Dialogue: 10,0:17:34.36,0:17:36.70,Default,,0,0,0,,Don't you want to have big sister skin for real?
-Dialogue: 10,0:17:36.70,0:17:38.28,Default,,0,0,0,,I don't! Stop!
-Dialogue: 10,0:17:39.41,0:17:41.24,Default,,0,0,0,,Gan, stop it already.
-Dialogue: 10,0:17:41.24,0:17:43.45,Default,,0,0,0,,She's already got a mark of her own.
-Dialogue: 10,0:17:44.41,0:17:46.12,Default,,0,0,0,,That's different!
-Dialogue: 10,0:17:46.12,0:17:50.75,Default,,0,0,0,,If she had tattoos, she couldn't go to her favorite bathhouses like the Oedo Spa,
-Dialogue: 10,0:17:50.75,0:17:56.55,Default,,0,0,0,,the Hakone Yunessun, the Marine Spa Atami, or the Hawaiians' Spa Resort.
-Dialogue: 10,0:17:56.55,0:17:59.51,Default,,0,0,0,,She couldn't become a public servant in Osaka either.
-Dialogue: 10,0:17:59.51,0:18:02.60,Default,,0,0,0,,But this is so childish. It's not like a big sister at all.
-Dialogue: 10,0:18:02.60,0:18:06.06,Default,,0,0,0,,Then let's draw something in paint, so it can be washed off.
-Dialogue: 10,0:18:06.77,0:18:09.02,Default,,0,0,0,,But what kind of drawing would be big sister-ish?
-Dialogue: 10,0:18:09.02,0:18:11.98,Default,,0,0,0,,Why not just draw a big sister to keep it simple?
-Dialogue: 10,0:18:13.65,0:18:16.40,Default,,0,0,0,,That's more like a hag than a big sister.
-Dialogue: 10,0:18:16.40,0:18:17.65,Default,,0,0,0,,I guess this'll do.
-Dialogue: 10,0:18:17.65,0:18:21.45,Default,,0,0,0,,Don't draw stupid things on me just because I can't see them!
-Dialogue: 10,0:18:21.45,0:18:23.54,Default,,0,0,0,,Then how should a drawing of a big sister look?
-Dialogue: 10,0:18:23.54,0:18:27.00,Default,,0,0,0,,Let's see, when I think of a big sister, I imagine...
-Dialogue: 10,0:18:31.75,0:18:35.26,Default,,0,0,0,,I don't think the Afghan hound belongs there. Nor does Hiroshima's seal.
-Dialogue: 10,0:18:35.26,0:18:36.26,Default,,0,0,0,,Really?
-Dialogue: 10,0:18:36.26,0:18:39.01,Default,,0,0,0,,Anyway, just try drawing A***mi.
-Dialogue: 10,0:18:40.51,0:18:42.39,Default,,0,0,0,,That's a hag too!
-Dialogue: 10,0:18:42.39,0:18:44.72,Default,,0,0,0,,That's such a mean thing to say to A***mi.
-Dialogue: 10,0:18:44.72,0:18:48.06,Default,,0,0,0,,I'm good at drawing, so let me try!
-Dialogue: 10,0:18:48.89,0:18:53.90,Default,,0,0,0,,{\i1}You react, you lose.
-Dialogue: 10,0:18:56.40,0:19:01.45,Default,,0,0,0,,But now that we've got so many kinds of skin here, is there something we can do?
-Dialogue: 10,0:19:10.96,0:19:12.04,Default,,0,0,0,,Paper{lit dry} skin!
-Dialogue: 10,0:19:12.71,0:19:14.04,Default,,0,0,0,,Shark skin!
-Dialogue: 10,0:19:14.04,0:19:15.25,Default,,0,0,0,,Silky skin!
-Dialogue: 10,0:19:15.25,0:19:16.42,Default,,0,0,0,,Big sister skin!
-Dialogue: 10,0:19:16.42,0:19:20.13,Default,,0,0,0,,Together, we are the Skin Arrangers!{stock phrase pls}
-Dialogue: 10,0:19:33.61,0:19:34.52,Default,,0,0,0,,What?!
-Dialogue: 10,0:19:35.40,0:19:36.78,Default,,0,0,0,,Cream?!
-Dialogue: 10,0:19:36.78,0:19:38.99,Default,,0,0,0,,I'll smear it on thick!
-Dialogue: 10,0:19:55.34,0:19:57.71,Default,,0,0,0,,I see, it's a skin care product ad!
-Dialogue: 10,0:19:57.71,0:19:59.46,Default,,0,0,0,,You came up with this?
-Dialogue: 10,0:20:00.17,0:20:02.38,Default,,0,0,0,,You're a genius under your skin!
-Dialogue: 10,0:20:04.05,0:20:06.10,Default,,0,0,0,,But superhero squads are always five—
-Dialogue: 10,0:20:06.10,0:20:08.14,Default,,0,0,0,,And Genius Skin over there makes five!
-Dialogue: 10,0:20:08.14,0:20:09.31,Default,,0,0,0,,Let me join too!
-Dialogue: 10,0:20:10.68,0:20:12.94,Default,,0,0,0,,But there's nothing special about your skin...
-Dialogue: 10,0:20:12.94,0:20:15.48,Default,,0,0,0,,You could be the glasses-wearing enemy soldier.
-Dialogue: 10,0:20:15.48,0:20:17.11,Default,,0,0,0,,Yeah, that could work.
-Dialogue: 10,0:20:17.11,0:20:20.07,Default,,0,0,0,,Yep, if we had to squeeze her in the cast somehow, we'd do that.
-Dialogue: 10,0:20:20.07,0:20:22.24,Default,,0,0,0,,Oh, shut up!{*}
-Dialogue: 10,0:20:28.70,0:20:30.08,Default,,0,0,0,,Like a goose!
-Dialogue: 10,0:20:31.33,0:20:33.12,Default,,0,0,0,,See, you can do it if you try!
-Dialogue: 10,0:20:33.12,0:20:34.88,Default,,0,0,0,,Now you're one of us too!
-Dialogue: 10,0:20:36.42,0:20:38.17,Default,,0,0,0,,Her goosebumps are gone! She's back to normal!
-Dialogue: 10,0:20:38.17,0:20:39.67,Default,,0,0,0,,That won't do.
-Dialogue: 10,0:20:39.67,0:20:43.01,Default,,0,0,0,,Without distinctive skin, you can't join our squad.
-Dialogue: 10,0:20:43.01,0:20:47.05,Default,,0,0,0,,But... I can't keep up those goosebumps all the time...
-Dialogue: 10,0:20:47.05,0:20:50.89,Default,,0,0,0,,You must! That's your job as a Skin Arranger!
-Dialogue: 10,0:20:50.89,0:20:53.44,Default,,0,0,0,,Let's get together enough creepy things to give her goosebumps for a lifetime!
-Dialogue: 10,0:20:54.52,0:20:56.35,Default,,0,0,0,,The liquefied rotten veggies in the fridge,
-Dialogue: 10,0:20:56.48,0:20:57.94,Default,,0,0,0,,the sound of nails on a chalkboard,
-Dialogue: 10,0:20:58.06,0:21:00.15,Default,,0,0,0,,the results of a Google image search for "bugs"...
-Dialogue: 10,0:21:03.99,0:21:07.37,Default,,0,0,0,,With that terrifying visage, you must be one of the enemy's monsters!
-Dialogue: 10,0:21:07.37,0:21:08.45,Default,,0,0,0,,And whose fault is that?!
-Dialogue: 10,0:21:08.45,0:21:12.37,Default,,0,0,0,,In the first place, surely there are ways to give me goosebumps not from horror, but from emotion!
-Dialogue: 10,0:21:12.37,0:21:14.16,Default,,0,0,0,,Like a Susan Boyle song or something! {lmfao}
-Dialogue: 10,0:21:15.58,0:21:19.88,Default,,0,0,0,,There's only one way we know to move someone to goosebumps...
-Dialogue: 10,0:21:21.09,0:21:23.17,Default,,0,0,0,,This is it.
-Dialogue: 10,0:21:29.76,0:21:31.64,Default,,0,0,0,,Congratulations on your graduation!
-Dialogue: 10,0:21:32.97,0:21:34.73,Default,,0,0,0,,Congratulations on your graduation!
-Dialogue: 10,0:21:34.73,0:21:35.85,Default,,0,0,0,,I'm so moved!
-Dialogue: 10,0:21:36.81,0:21:37.56,Default,,0,0,0,,Hey...
-Dialogue: 10,0:21:37.56,0:21:39.98,Default,,0,0,0,,This really does give me goosebumps!
-Dialogue: 10,0:21:47.41,0:21:50.62,Default,,0,0,0,,Hey! Hey! What do you mean I'm graduating?!
-Dialogue: 10,0:21:50.62,0:21:52.74,Default,,0,0,0,,We'll still be friends, even after you graduate!
-Dialogue: 10,0:21:52.74,0:21:54.37,Default,,0,0,0,,We'll never forget you, Gan!
-Dialogue: 10,0:21:54.37,0:21:55.83,Default,,0,0,0,,But why am I graduating?!
-Dialogue: 10,0:21:55.83,0:21:58.25,Default,,0,0,0,,Let's go out to eat sometime, okay?
-Dialogue: 10,0:21:58.25,0:21:59.08,Default,,0,0,0,,Take care!
-Dialogue: 10,0:21:59.08,0:22:00.09,Default,,0,0,0,,Hey! {\alpha&HFF&}Hey! {\i1}Hey!{\i0}{zwill: alpha time please :3}
-Dialogue: 10,0:22:00.09,0:22:01.09,Default,,0,0,0,,Hey! Hey! {\i1\alpha&HFF&}Hey!{\i0}{zwill: alpha time please :3}
-Dialogue: 10,0:22:01.09,0:22:02.46,Default,,0,0,0,,Hey! Hey! {\i1}Hey!{\i0}{zwill: alpha time please :3}
-Dialogue: 10,0:22:02.46,0:22:07.30,Default,,0,0,0,,Though we can't go with her, we'll all work extra hard in her place!
-Dialogue: 10,0:22:07.30,0:22:10.97,Default,,0,0,0,,Hey! What do you mean... I'm graduating?!
-Dialogue: 10,0:23:42.31,0:23:44.23,Default,,0,0,0,,I'm Haroukitei Kigurumi!
-Dialogue: 10,0:23:44.23,0:23:46.78,Default,,0,0,0,,How are you all doing?
-Dialogue: 10,0:23:47.90,0:23:50.90,Default,,0,0,0,,Do you pity the puppy that stands soaked in the rain?
-Dialogue: 10,0:23:50.90,0:23:53.45,Default,,0,0,0,,Or do you pet it?
-Dialogue: 10,0:23:53.45,0:23:57.08,Default,,0,0,0,,I'd pity it {\i1}and{\fscx140\i0} {\fscx100}pet it!
-Dialogue: 10,0:23:57.08,0:24:01.25,Default,,0,0,0,,Thanks to your support, we present the splendid sixth performance of Joshiraku:
-Dialogue: 10,0:24:02.12,0:24:07.50,Default,,0,0,0,,Four Wows{from: three vows}, Musashi Scenery and The Servant's Vengeance.
-Dialogue: 10,0:24:07.50,0:24:10.09,Default,,0,0,0,,I'm looking forward to seeing you again!
-Dialogue: 3,0:22:18.19,0:22:42.42,EDbg,,0,0,0,,A
-Dialogue: 3,0:22:46.84,0:23:01.61,EDbg,,0,0,0,,{\c&H171717&}A
-Dialogue: 4,0:22:18.19,0:22:19.73,EDdown,,0,0,0,,Live long, live long and prosper
-Dialogue: 4,0:22:19.73,0:22:21.40,EDdown,,0,0,0,,May great wealth await you wherever you go
-Dialogue: 4,0:22:21.40,0:22:22.90,EDdown,,0,0,0,,Even in different lands and under different skies
-Dialogue: 4,0:22:22.90,0:22:24.32,EDdown,,0,0,0,,May you always have your daily bread
-Dialogue: 4,0:22:24.32,0:22:25.78,EDdown,,0,0,0,,And always be brimming full of life
-Dialogue: 4,0:22:25.78,0:22:29.11,EDdown,,0,0,0,,Like the long-lived king Shuringan
-Dialogue: 4,0:22:30.12,0:22:31.83,EDdown,,0,0,0,,And his dear wife Gurindai
-Dialogue: 4,0:22:31.83,0:22:34.16,EDdown,,0,0,0,,And their children Ponpokopi and Ponpokona
-Dialogue: 4,0:22:34.16,0:22:36.41,EDdown,,0,0,0,,Live a long and blessed life
-Dialogue: 4,0:22:39.21,0:22:42.42,EDdown,,0,0,0,,Let me have a bit of your time
-Dialogue: 4,0:22:45.05,0:22:46.84,EDdown,,0,960,0,,Please listen closely
-Dialogue: 4,0:22:46.84,0:22:48.51,EDdown,,0,0,0,,We're ready
-Dialogue: 4,0:22:48.51,0:22:51.22,EDdown,,0,0,0,,You write it "laughing"
-Dialogue: 4,0:22:51.22,0:22:54.22,EDdown,,0,0,0,,You read it "let's party"
-Dialogue: 4,0:22:54.22,0:22:57.27,EDdown,,0,0,0,,And the point of it is, the point of it is...
-Dialogue: 4,0:22:57.27,0:23:00.44,EDdown,,0,0,0,,That everyone will be happy!
-Dialogue: 4,0:23:00.44,0:23:01.61,EDdown,,0,0,0,,Thank you kindly for your attention
-Dialogue: 4,0:23:01.65,0:23:04.48,EDdown,,0,960,0,,Laugh, laugh, hey, let's laugh
-Dialogue: 4,0:23:04.48,0:23:07.40,EDdown,,0,960,0,,Life may be hard, but let's laugh
-Dialogue: 4,0:23:07.40,0:23:08.95,EDdown,,0,960,0,,Laugh (yeah yeah)
-Dialogue: 4,0:23:08.95,0:23:10.45,EDdown,,960,0,0,,If you cry, you lose
-Dialogue: 4,0:23:10.45,0:23:13.70,EDdown,,960,0,0,,So just laugh until your sides ache
-Dialogue: 4,0:23:13.70,0:23:16.66,EDdown,,0,960,0,,Life may have its ups and downs,
-Dialogue: 4,0:23:16.66,0:23:19.41,EDdown,,0,960,0,,But great Japanese can get over it
-Dialogue: 4,0:23:19.41,0:23:22.71,EDdown,,0,960,0,,Laugh, whatever time may bring
-Dialogue: 4,0:23:22.71,0:23:25.80,EDdown,,0,960,0,,Laugh until you run out of breath
-Dialogue: 4,0:23:28.72,0:23:31.72,EDdown,,0,0,0,,Who cares where you are? Just laugh
-Dialogue: 4,0:23:31.72,0:23:34.72,EDdown,,0,0,0,,Smile (smile), smile (smile)
-Dialogue: 4,0:23:34.72,0:23:37.52,EDdown,,0,0,0,,Smile and the world will smile back at you
-Dialogue: 5,0:22:18.19,0:22:19.73,EDup,,0,0,0,,jugemu jugemu gokou no surikire
-Dialogue: 5,0:22:19.73,0:22:21.40,EDup,,0,0,0,,kaijari suigyo no suigyou matsu
-Dialogue: 5,0:22:21.40,0:22:22.90,EDup,,0,0,0,,unrai matsu fuurai matsu
-Dialogue: 5,0:22:22.90,0:22:24.32,EDup,,0,0,0,,kuuneru tokoro ni sumu tokoro
-Dialogue: 5,0:22:24.32,0:22:25.78,EDup,,0,0,0,,yaburakouji no burakouji
-Dialogue: 5,0:22:25.78,0:22:29.11,EDup,,0,0,0,,paipo paipo paipo no shuuringan
-Dialogue: 5,0:22:30.12,0:22:31.83,EDup,,0,0,0,,shuuringan no guurindai
-Dialogue: 5,0:22:31.83,0:22:34.16,EDup,,0,0,0,,guurindai no ponpokopi no ponpokona no
-Dialogue: 5,0:22:34.16,0:22:36.41,EDup,,0,0,0,,choukyuumei chousuke
-Dialogue: 5,0:22:39.21,0:22:42.42,EDup,,0,0,0,,choi to jikan itadakimasu
-Dialogue: 5,0:22:45.05,0:22:46.84,EDup,,0,960,0,,goseichou kudasai
-Dialogue: 5,0:22:46.84,0:22:48.51,EDup,,0,0,0,,totonoimashita
-Dialogue: 5,0:22:48.51,0:22:51.22,EDup,,0,0,0,,warau koto to kakemashite
-Dialogue: 5,0:22:51.22,0:22:54.22,EDup,,0,0,0,,omatsuri yarou zo tokemasu
-Dialogue: 5,0:22:54.22,0:22:57.27,EDup,,0,0,0,,sono kokoro wa sono kokoro wa
-Dialogue: 5,0:22:57.27,0:23:00.44,EDup,,0,0,0,,dochira mo happi ni naru deshou
-Dialogue: 5,0:23:00.44,0:23:01.61,EDup,,0,0,0,,oato ga yoroshii you de
-Dialogue: 5,0:23:01.65,0:23:04.48,EDup,,0,960,0,,waraou waraou sa waraimashou
-Dialogue: 5,0:23:04.48,0:23:07.40,EDup,,0,960,0,,konna jidai koso waraimashou
-Dialogue: 5,0:23:07.40,0:23:08.95,EDup,,0,960,0,,waraou (soiya soiya)
-Dialogue: 5,0:23:08.95,0:23:10.45,EDup,,960,0,0,,naitara make da
-Dialogue: 5,0:23:10.45,0:23:13.70,EDup,,960,0,0,,yakekuso waraimashou
-Dialogue: 5,0:23:13.70,0:23:16.66,EDup,,0,960,0,,haranbanjou sui mo amai mo
-Dialogue: 5,0:23:16.66,0:23:19.41,EDup,,0,960,0,,norikoeta appare nipponjin
-Dialogue: 5,0:23:19.41,0:23:22.71,EDup,,0,960,0,,waraou donna toki de mo
-Dialogue: 5,0:23:22.71,0:23:25.80,EDup,,0,960,0,,nanikuso waraimashou
-Dialogue: 5,0:23:28.72,0:23:31.72,EDup,,0,0,0,,kuuki nante yomazu ni warattoke
-Dialogue: 5,0:23:31.72,0:23:34.72,EDup,,0,0,0,,egao (egao) egao (egao)
-Dialogue: 5,0:23:34.72,0:23:37.52,EDup,,0,0,0,,warau kado ni wa fuku kitaru
-Dialogue: 0,0:00:01.05,0:00:03.82,OPdown,,0,0,0,,{\fsp-1.5}Thank you kindly for your attention
-Dialogue: 0,0:00:03.82,0:00:06.68,OPdown,,0,0,0,,{\fsp-1.5}I hope to have it again and again
-Dialogue: 0,0:00:06.68,0:00:11.99,OPdown,,0,0,0,,{\fsp-1.5}Twing-twang twing-twang-twong
-Dialogue: 0,0:00:11.99,0:00:14.50,OPdown,,0,0,0,,{\fsp-1.5}The theater{\fsp-15}'{\fsp-1.5}s full
-Dialogue: 0,0:00:18.15,0:00:20.65,OPdown,,0,0,0,,{\fsp-1.5}Mysteries are fun
-Dialogue: 0,0:00:20.65,0:00:23.46,OPdown,,0,0,0,,{\fsp-1.5}Tricks are fun as well
-Dialogue: 0,0:00:23.46,0:00:27.71,OPdown,,0,0,0,,{\fsp-1.5}We can solve girly problems by throwing dice
-Dialogue: 0,0:00:27.71,0:00:28.39,OPdown,,0,0,0,,{\fsp-1.5}(really?)
-Dialogue: 0,0:00:28.39,0:00:30.28,OPdown,,0,0,0,,{\fsp-1.5}It{\fsp-15}'{\fsp-1.5}s not one nor six, but nine
-Dialogue: 0,0:00:30.28,0:00:31.01,OPdown,,0,0,0,,{\fsp-1.5}(really?)
-Dialogue: 0,0:00:31.01,0:00:32.88,OPdown,,0,0,0,,{\fsp-1.5}The stakes are high, but you can get a sign
-Dialogue: 0,0:00:32.88,0:00:33.66,OPdown,,0,0,0,,{\fsp-1.5}(really?)
-Dialogue: 0,0:00:33.66,0:00:37.58,OPdown,,0,0,0,,{\fsp-1.5}I don{\fsp-15}'{\fsp-1.5}t really see how that{\fsp-15}'{\fsp-1.5}s related
-Dialogue: 0,0:00:37.58,0:00:42.74,OPdown,,0,0,0,,{\fsp-1.5}See, this looks like it{\fsp-15}'{\fsp-1.5}s gonna be fun
-Dialogue: 0,0:00:41.89,0:00:43.68,OPdown,,0,0,0,,{\an3\fsp-1.5}(see, see?)
-Dialogue: 0,0:00:42.74,0:00:47.01,OPdown,,0,0,0,,{\fsp-1.5}Or am I just seeing things?
-Dialogue: 0,0:00:47.01,0:00:49.76,OPdown,,0,0,0,,{\fsp-1.5}I don{\fsp-15}'{\fsp-1.5}t even care
-Dialogue: 0,0:00:49.76,0:00:52.74,OPdown,,0,0,0,,{\fsp-1.5}Come on, everyone
-Dialogue: 0,0:00:52.74,0:00:54.89,OPdown,,0,0,0,,{\fsp-1.5}Let{\fsp-15}'{\fsp-1.5}s spin!
-Dialogue: 0,0:00:56.20,0:00:58.46,OPdown,,0,0,0,,{\fsp-1.5}Front and back, let{\fsp-15}'{\fsp-1.5}s just turn it around
-Dialogue: 0,0:00:58.46,0:01:01.23,OPdown,,0,0,0,,{\fsp-1.5}You can turn the story upside down too
-Dialogue: 0,0:01:01.23,0:01:03.82,OPdown,,0,0,0,,{\fsp-1.5}Let{\fsp-15}'{\fsp-1.5}s go on, ladies first
-Dialogue: 0,0:01:03.82,0:01:05.92,OPdown,,0,0,0,,{\fsp-1.5}I hope to see you around again and again
-Dialogue: 0,0:01:05.92,0:01:08.81,OPdown,,0,0,0,,{\fsp-1.5}The backstage is the main stage
-Dialogue: 0,0:01:08.81,0:01:11.28,OPdown,,0,0,0,,{\fsp-1.5}That{\fsp-15}'{\fsp-1.5}s where we can chat idly
-Dialogue: 0,0:01:11.28,0:01:13.64,OPdown,,0,0,0,,{\fsp-1.5}Thank you kindly for your attention
-Dialogue: 0,0:01:13.64,0:01:16.33,OPdown,,0,0,0,,{\fsp-1.5}I hope it was a good comedy
-Dialogue: 0,0:01:16.33,0:01:18.66,OPdown,,0,0,0,,{\fsp-1.5}A comedy, a comedy
-Dialogue: 0,0:01:18.66,0:01:21.81,OPdown,,0,0,0,,{\fsp-1.5}A comedy from the comedy heaven
-Dialogue: 0,0:01:21.81,0:01:24.13,OPdown,,0,0,0,,{\fsp-1.5}Twing-twang twing-twang-twong
-Dialogue: 1,0:00:01.05,0:00:03.82,OPup,,0,0,0,,{\fsp-1.5}oato ga mata yoroshikute
-Dialogue: 1,0:00:03.82,0:00:06.68,OPup,,0,0,0,,{\fsp-1.5}osaki mo mae mo yoroshiku ne
-Dialogue: 1,0:00:06.68,0:00:11.99,OPup,,0,0,0,,{\fsp-1.5}chin-ton chin-ton-shan
-Dialogue: 1,0:00:11.99,0:00:14.50,OPup,,0,0,0,,{\fsp-1.5}jounai manjou
-Dialogue: 1,0:00:18.15,0:00:20.65,OPup,,0,0,0,,{\fsp-1.5}nazotoki dokidoki shinan
-Dialogue: 1,0:00:20.65,0:00:23.46,OPup,,0,0,0,,{\fsp-1.5}shikake ga ariari desu
-Dialogue: 1,0:00:23.46,0:00:27.71,OPup,,0,0,0,,{\fsp-1.5}joshiteki onayami wa sugoroku sai wo futte
-Dialogue: 1,0:00:27.71,0:00:28.39,OPup,,0,0,0,,{\fsp-1.5}(hai hai)
-Dialogue: 1,0:00:28.39,0:00:30.28,OPup,,0,0,0,,{\fsp-1.5}ichi de mo roku de mo nai
-Dialogue: 1,0:00:30.28,0:00:31.01,OPup,,0,0,0,,{\fsp-1.5}(sou kai)
-Dialogue: 1,0:00:31.01,0:00:32.88,OPup,,0,0,0,,{\fsp-1.5}ichi kake bachi ka de sain
-Dialogue: 1,0:00:32.88,0:00:33.66,OPup,,0,0,0,,{\fsp-1.5}(sou kai)
-Dialogue: 1,0:00:33.66,0:00:37.58,OPup,,0,0,0,,{\fsp-1.5}hanashi no tsunagari ga miemasen ne
-Dialogue: 1,0:00:37.58,0:00:42.74,OPup,,0,0,0,,{\fsp-1.5}oya omoshiroku narisou na yokan wa
-Dialogue: 1,0:00:41.89,0:00:43.68,OPup,,0,0,0,,{\an3\fsp-1.5}(oya oya desu)
-Dialogue: 1,0:00:42.74,0:00:47.01,OPup,,0,0,0,,{\fsp-1.5}me no sakkaku desu ka
-Dialogue: 1,0:00:47.01,0:00:49.76,OPup,,0,0,0,,{\fsp-1.5}iya soredemo kamawanai
-Dialogue: 1,0:00:49.76,0:00:52.74,OPup,,0,0,0,,{\fsp-1.5}hai minna
-Dialogue: 1,0:00:52.74,0:00:54.89,OPup,,0,0,0,,{\fsp-1.5}mawatte
-Dialogue: 1,0:00:56.20,0:00:58.46,OPup,,0,0,0,,{\fsp-1.5}omote mo ura uragaeshite
-Dialogue: 1,0:00:58.46,0:01:01.23,OPup,,0,0,0,,{\fsp-1.5}dondengaeshi mo yoshiyoshi
-Dialogue: 1,0:01:01.23,0:01:03.82,OPup,,0,0,0,,{\fsp-1.5}osaki ni ikou saa douzo
-Dialogue: 1,0:01:03.82,0:01:05.92,OPup,,0,0,0,,{\fsp-1.5}osaki mo mae mo yoroshiku ne
-Dialogue: 1,0:01:05.92,0:01:08.81,OPup,,0,0,0,,{\fsp-1.5}ura butai ga hare butai de
-Dialogue: 1,0:01:08.81,0:01:11.28,OPup,,0,0,0,,{\fsp-1.5}muda uchibanashi mo yokayoka
-Dialogue: 1,0:01:11.28,0:01:13.64,OPup,,0,0,0,,{\fsp-1.5}oato ga mata yoroshikute
-Dialogue: 1,0:01:13.64,0:01:16.33,OPup,,0,0,0,,{\fsp-1.5}osaki mo shiroki gokuraku da
-Dialogue: 1,0:01:16.33,0:01:18.66,OPup,,0,0,0,,{\fsp-1.5}gokuraku da gokuraku da
-Dialogue: 1,0:01:18.66,0:01:21.81,OPup,,0,0,0,,{\fsp-1.5}arayotto gokuraku joudou ringu
-Dialogue: 1,0:01:21.81,0:01:24.13,OPup,,0,0,0,,{\fsp-1.5}chin-ton chin-ton-shan
-Dialogue: 0,0:02:53.15,0:02:58.40,Default,,0,0,0,,{\pos(891,772.5)\fnH_Valkyria_ED\fs30\i1\bord6\shad0\c&H343840&\3c&HE3EAF2&\be2}Don't rub
-Dialogue: 0,0:12:02.82,0:12:03.74,Default,,0,0,0,,{\pos(925.5,759)\frz343.479\fry20\frx4\fs150\bord0\shad0\blur2.25}{TS 1202}Sushi
-Dialogue: 0,0:12:03.74,0:12:03.82,Default,,0,0,0,,{\pos(925.5,759)\frz343.479\fry20\frx4\fs150\bord0\shad0\blur2.25\clip(m 916.5 738 l 919.5 684 939 670.5 940.5 616.5 787.5 583.5 751.5 717)}{TS 1202}Sushi
-Dialogue: 0,0:12:09.54,0:12:14.25,Default,,0,0,0,,{\pos(939,292.5)\fnSmudger LET\fs225\b0\shad0\c&H0B1F9A&\3c&H0B1428&\be3\fad(700,0)}{TS 1209}Busback Soyblast
-Dialogue: 0,0:15:15.43,0:15:18.43,Default,,0,0,0,,{\pos(966,894)\fnH_Kobato_Main\bord6\c&HEAE8E6&\3c&H4E1C0A&\be2}{TS 1515}Nation-wide dry-conditions advisory
-Dialogue: 0,0:19:02.07,0:19:02.20,Default,,0,0,0,,{\an8\pos(553.5,960)\fscy120\fnArno Pro\fsp3\bord0\shad0\c&H242729&\be2}{TS 1900}CM plan{\fs30}\NDry Squad: Skin Arranger!
-Dialogue: 0,0:19:02.20,0:19:02.32,Default,,0,0,0,,{\an8\pos(550.5,820.5)\fscy120\fnArno Pro\fsp3\bord0\shad0\c&H242729&\be2}{TS 1900}CM plan{\fs30}\NDry Squad: Skin Arranger!
-Dialogue: 0,0:19:02.32,0:19:02.45,Default,,0,0,0,,{\an8\pos(547.5,673.5)\fscy120\fnArno Pro\fsp3\bord0\shad0\c&H242729&\be2}{TS 1900}CM plan{\fs30}\NDry Squad: Skin Arranger!
-Dialogue: 0,0:19:02.45,0:19:02.57,Default,,0,0,0,,{\an8\pos(546,540)\fscy120\fnArno Pro\fsp3\bord0\shad0\c&H242729&\be2}{TS 1900}CM plan{\fs30}\NDry Squad: Skin Arranger!
-Dialogue: 0,0:19:02.57,0:19:03.91,Default,,0,0,0,,{\an8\pos(549,403.5)\fscy120\fnArno Pro\fsp3\bord0\shad0\c&H242729&\be2}{TS 1900}CM plan{\fs30}\NDry Squad: Skin Arranger!
-Dialogue: 0,0:19:04.70,0:19:07.16,Default,,0,0,0,,{\pos(960,0)\be2\a6}Dry Squad\NSkin Arranger
-Dialogue: 0,0:19:10.96,0:19:12.04,Default,,0,0,0,,{\an1\pos(64.5,990)\fnArial Rounded MT Bold\fs120\bord7.5\shad0\c&H111112&\3c&HD0D3D7&}{TS 1910}Paper skin\N{\fs90}\h\hBouhatei Tetora
-Dialogue: 0,0:19:12.83,0:19:13.63,Default,,0,0,0,,{\an1\pos(1210.5,970.5)\fnArial Rounded MT Bold\fs120\bord7.5\shad0\c&H111112&\3c&HD0D3D7&}Shark skin\N{\fs90}Anrakutei Kukuru
-Dialogue: 0,0:19:14.04,0:19:14.84,Default,,0,0,0,,{\an1\pos(49.5,244.5)\fnArial Rounded MT Bold\fs120\bord7.5\shad0\c&H111112&\3c&HD0D3D7&}Silky skin\N{\fs90}Haroukitei Kigurumi
-Dialogue: 0,0:19:15.25,0:19:16.42,Default,,0,0,0,,{\an1\pos(1192.5,304.5)\fnArial Rounded MT Bold\fs120\bord7.5\shad0\c&H111112&\3c&HD0D3D7&}Big sister skin\N{\fs90}\h\hBuratei Marii
-Dialogue: 0,0:19:38.99,0:19:41.45,Default,,0,0,0,,{\pos(540,306)\fnArial Rounded MT\bord0\shad0\c&HEFF2F9&\be2}{TS 1936}{?}Beauty{the white on the black's torso and forehead are 美}
-Dialogue: 0,0:19:44.12,0:19:45.62,Default,,0,0,0,,{\pos(1090.5,405)\frz304.255\fnH_Kobato_Main\fs45\bord0\shad0\c&H2E2E32&\be2}{TS 1943}Moisturizer
-Dialogue: 0,0:19:53.33,0:19:55.34,Default,,0,0,0,,{\pos(726,159)\fnLivingstone\fs75\b0\c&H00CDFB&}{TS 1953}Skin Cream
-Dialogue: 0,0:19:53.33,0:19:55.34,Default,,0,0,0,,{\pos(430.5,592)\fnLivingstone\fs75\b0\c&H00CDFB&\be2}{DHA DNA iPS }compound
-Dialogue: 1,0:19:44.12,0:19:45.62,Default,,0,0,0,,{\pos(675,625.5)\frz127.143\fnH_Kobato_Main\fs45\bord0\shad0\c&H2E2E32&\be2}Cellular Revitalizer
-Dialogue: 0,0:01:44.45,0:01:46.46,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
-Dialogue: 0,0:02:58.40,0:03:13.38,block,,0,0,0,,{\pos(1099.5,645)\frz13.661\c&H2D7AA5&\blur3}A
-Dialogue: 0,0:03:33.23,0:03:38.99,block,,0,0,0,,{\pos(820.5,660)\fscx416.25\fscy1193.75\frz359.371\c&H404447&\fad(200,0)\clip(m 744 589.5 l 744 658.5 787.5 663 846 649.5 922.5 645 928.5 99 745.5 15)}A
-Dialogue: 0,0:03:44.28,0:03:52.29,block,,0,0,0,,{\pos(219,934.5)\fscx247.5\fscy147.5\frz13.661\c&H2D7AA5&\blur3}A
-Dialogue: 0,0:08:48.38,0:08:50.38,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
-Dialogue: 0,0:15:22.23,0:15:24.23,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
-Dialogue: 0,0:19:44.12,0:19:45.62,block,,0,0,0,,{\pos(1110,535.5)\fscx285\fscy420\c&HEAEFF7&\clip(m 1057.5 268.5 l 1101 289.5 1141.5 325.5 1180.5 403.5 1197 540 1086 523.5 1027.5 280.5)}A
-Dialogue: 0,0:19:44.12,0:19:45.62,block,,0,0,0,,{\pos(712.5,778.5)\fscx276.25\fscy522.5\frz13.99\c&HEAEFF7&\clip(m 711 588 l 645 507 585 483 520.5 489 666 780 814.5 720 780 640.5)}A
-Dialogue: 0,0:23:40.98,0:23:44.23,block,,0,0,0,,{\an9\pos(1066.833,104.1)\fscx182\fscy1406\c&H1A57D9&}A
-Dialogue: 0,0:23:40.98,0:23:44.23,block,,0,0,0,,{\an9\pos(960,100.5)\fscx182\fscy1406\c&H111612&}A
-Dialogue: 0,0:24:01.25,0:24:11.01,block,,0,0,0,,{\an9\pos(1391.1,104.1)\fscx182\fscy1506\c&H1A57D9&}A
-Dialogue: 0,0:24:01.25,0:24:11.01,block,,0,0,0,,{\an9\pos(741.6,108.6)\fscx182\fscy1506\c&H1A57D9&}A
-Dialogue: 0,0:24:01.25,0:24:11.01,block,,0,0,0,,{\an9\pos(1066.833,104.1)\fscx182\fscy1506\c&H1A57D9&}A
-Dialogue: 0,0:24:01.25,0:24:11.01,block,,0,0,0,,{\an9\pos(1285.5,106.5)\fscx182\fscy1506\c&H111612&}A
-Dialogue: 0,0:24:01.25,0:24:11.01,block,,0,0,0,,{\an9\pos(960,100.5)\fscx182\fscy1506\c&H111612&}A
-Dialogue: 0,0:24:01.25,0:24:11.01,block,,0,0,0,,{\an9\pos(634.5,108)\fscx182\fscy1506\c&H111612&}A
-Dialogue: 0,0:01:44.45,0:01:46.46,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Praise the Girl
-Dialogue: 0,0:02:58.40,0:03:13.38,brush1,,0,0,0,,{\pos(1093.5,633)\frz13.172\fs34.5\c&H0D3345&\be2}{TS 0301}{on the wooden plate}Piles{as in, hemorrhoids}{it repeats around 0350}
-Dialogue: 0,0:03:44.28,0:03:52.29,brush1,,0,0,0,,{\pos(219,924)\frz13.172\fs60\c&H0D3345&\be2}{TS 0301}{on the wooden plate}Piles{as in, hemorrhoids}{it repeats around 0350}
-Dialogue: 0,0:08:48.38,0:08:50.38,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Stylish Little Town{...}
-Dialogue: 0,0:15:22.23,0:15:24.23,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Farewell to Glasses
-Dialogue: 1,0:03:33.23,0:03:38.99,brush2,,0,0,0,,{\pos(762,355.5)\frz267.29\fry12\frx4\fs81\c&HA4A7AB&\be2\fad(200,0)}{TS 0332}{株価大暴落}Share Prices\NPlummet
-Dialogue: 0,0:08:44.42,0:08:48.38,brush2,,0,0,0,,{\pos(1114.5,201)\fnColaborate-Bold\fs51\fsp-3\b0\c&H545155&\3c&H545155&\be2}{TS 0843}Harajuku Station
-Dialogue: 0,0:12:19.34,0:12:21.80,brush2,,0,0,0,,{\pos(1093.5,882)\frz4.967\fnH_Kobato_Main\fs30\c&H383940&\3c&H383940&\be2}{TS 1220}Custard Choco Special
-Dialogue: 0,0:23:40.98,0:23:44.23,brush4,,0,0,0,,{\pos(957,581.5)\fscx450\fscy450\be2}Preview
-Dialogue: 0,0:24:01.25,0:24:11.01,brush4,,0,0,0,,{\pos(987,247.5)\fscx420\fscy420\be2\a6}Four Wows\NMusashi Scenery\NThe Servant's Vengeance
+Dialogue: 10,0:01:30.36,0:01:32.99,Default,,0,0,0,,"I can't eat anymore!"
+Dialogue: 10,0:01:32.99,0:01:35.78,Default,,0,0,0,,"If you can't eat, you should have a drink!"
+Dialogue: 10,0:01:38.12,0:01:40.41,Default,,0,0,0,,"Thanks for the meal."
+Dialogue: 10,0:01:40.41,0:01:42.08,Default,,0,0,0,,Thank you kindly for your attention.
+Dialogue: 10,0:01:54.09,0:01:57.81,Default,,0,0,0,,What's more important, me? Or rakugo?
+Dialogue: 10,0:02:00.35,0:02:01.31,Default,,0,0,0,,Don't ask stupi—
+Dialogue: 10,0:02:01.31,0:02:03.14,Default,,0,0,0,,You are, of course!
+Dialogue: 10,0:02:03.14,0:02:04.40,Default,,0,0,0,,Compared to you...
+Dialogue: 10,0:02:04.40,0:02:05.31,Default,,0,0,0,,...rakugo means nothing!
+Dialogue: 10,0:02:05.31,0:02:07.48,Default,,0,0,0,,Come on, don't say that!
+Dialogue: 10,0:02:07.48,0:02:08.73,Default,,0,0,0,,Both are important!
+Dialogue: 10,0:02:08.73,0:02:09.65,Default,,0,0,0,,But...
+Dialogue: 10,0:02:09.65,0:02:10.49,Default,,0,0,0,,But?
+Dialogue: 10,0:02:10.49,0:02:13.99,Default,,0,0,0,,When I asked her for a bite, she wouldn't give me one.
+Dialogue: 10,0:02:14.57,0:02:18.70,Default,,0,0,0,,When I complimented her outfit and said that I wanted one just like it,
+Dialogue: 10,0:02:18.70,0:02:20.91,Default,,0,0,0,,she wouldn't tell me where she bought it from.
+Dialogue: 10,0:02:20.91,0:02:23.96,Default,,0,0,0,,She promised to introduce me to a guy,
+Dialogue: 10,0:02:23.96,0:02:27.63,Default,,0,0,0,,but then she called off the party because\N everyone else was already going out with someone!
+Dialogue: 10,0:02:27.63,0:02:28.59,Default,,0,0,0,,Oh, shut up!
+Dialogue: 10,0:02:28.59,0:02:30.34,Default,,0,0,0,,This isn't about choosing between you or rakugo!
+Dialogue: 10,0:02:30.34,0:02:31.30,Default,,0,0,0,,You're just whining!
+Dialogue: 10,0:02:31.30,0:02:34.34,Default,,0,0,0,,So rakugo really is more important!
+Dialogue: 10,0:02:34.34,0:02:37.55,Default,,0,0,0,,I'll kill rakugo, then die!
+Dialogue: 10,0:02:37.55,0:02:39.39,Default,,0,0,0,,A forced double-suicide with rakugo?
+Dialogue: 10,0:02:39.39,0:02:42.10,Default,,0,0,0,,Doesn't that mean rakugo really is more important?
+Dialogue: 10,0:02:47.94,0:02:50.69,Default,,0,0,0,,Hey! Let's focus on birth instead of suicide!
+Dialogue: 10,0:02:50.69,0:02:53.28,Default,,0,0,0,,Let's all celebrate together!
+Dialogue: 10,0:02:53.28,0:02:54.95,Default,,0,0,0,,A Christmas party!
+Dialogue: 10,0:02:54.95,0:02:55.66,Default,,0,0,0,,Sounds good.
+Dialogue: 10,0:02:55.66,0:02:57.41,Default,,0,0,0,,Let's do it!
+Dialogue: 10,0:02:59.24,0:03:03.25,Default,,0,0,0,,The writers aren't even trying to match the season.
+Dialogue: 10,0:03:03.25,0:03:05.62,Default,,0,0,0,,As they say, "Time and tide wait for no man."
+Dialogue: 10,0:03:05.62,0:03:08.92,Default,,0,0,0,,The real question is whether they're trying to match the broadcast or the sales.
+Dialogue: 10,0:03:08.92,0:03:11.21,Default,,0,0,0,,Yeah, don't worry about minor details like that.
+Dialogue: 10,0:03:11.21,0:03:12.38,Default,,0,0,0,,It's not minor!
+Dialogue: 10,0:03:12.38,0:03:17.09,Default,,0,0,0,,By the way, who are you gonna spend the real Christmas with?
+Dialogue: 10,0:03:17.09,0:03:18.97,Default,,0,0,0,,With E**zou.
+Dialogue: 10,0:03:18.97,0:03:22.18,Default,,0,0,0,,E**zou.
+Dialogue: 10,0:03:22.18,0:03:25.18,Default,,0,0,0,,Oh? Figures we'd all pick E**zou.
+Dialogue: 10,0:03:25.18,0:03:26.73,Default,,0,0,0,,At least try to lie!
+Dialogue: 10,0:03:26.73,0:03:29.98,Default,,0,0,0,,He's a kabuki actor. He's got the biggest share in my heart.
+Dialogue: 10,0:03:29.98,0:03:31.02,Default,,0,0,0,,No he doesn't!
+Dialogue: 10,0:03:31.77,0:03:34.32,Default,,0,0,0,,But anyway, even if we were to hold a Christmas party,
+Dialogue: 10,0:03:34.32,0:03:37.99,Default,,0,0,0,,I wouldn't be able to get in the mood. The world's in an economic crisis.
+Dialogue: 10,0:03:37.99,0:03:40.49,Default,,0,0,0,,It's not just E**zou.
+Dialogue: 10,0:03:40.49,0:03:43.29,Default,,0,0,0,,If we fail to act in indulgenge and don't do our share of spending, things won't get better.
+Dialogue: 10,0:03:43.29,0:03:46.21,Default,,0,0,0,,What do you mean?
+Dialogue: 10,0:03:46.21,0:03:51.29,Default,,0,0,0,,During a crisis, everyone spends less, so the whole situation just gets worse and worse.
+Dialogue: 10,0:03:51.29,0:03:55.51,Default,,0,0,0,,The trick is to buy so much crap that you can say you've had more than your fair share.
+Dialogue: 10,0:03:55.51,0:03:57.72,Default,,0,0,0,,That oughta make the economic situation better.
+Dialogue: 10,0:03:57.72,0:04:01.68,Default,,0,0,0,,Freelancers especially should spend a lion's share!
+Dialogue: 10,0:04:01.68,0:04:04.72,Default,,0,0,0,,I won't say names, but if you've gotten rich from drawing manga,
+Dialogue: 10,0:04:04.72,0:04:07.73,Default,,0,0,0,,then don't buy a cheap corner store parcel! Spend your fair share!
+Dialogue: 10,0:04:07.73,0:04:12.73,Default,,0,0,0,,So, in order to have a merry Christmas, we need to act in indulgence?
+Dialogue: 10,0:04:12.73,0:04:16.32,Default,,0,0,0,,Meaning doing something like going overboard on your honeymoon and buying all the first class cabins
+Dialogue: 10,0:04:16.32,0:04:18.61,Default,,0,0,0,, on a cruise ship, or buying a huge diamond for your bride.
+Dialogue: 10,0:04:18.61,0:04:21.99,Default,,0,0,0,,Actors should hide some extra in their underwear too.
+Dialogue: 10,0:04:21.99,0:04:22.99,Default,,0,0,0,,That's not right.
+Dialogue: 10,0:04:22.99,0:04:25.37,Default,,0,0,0,,What three things show a kabuki actor's tension?
+Dialogue: 10,0:04:26.58,0:04:29.17,Default,,0,0,0,,Tenses? Act, acting, acted?
+Dialogue: 10,0:04:29.17,0:04:29.92,Default,,0,0,0,,No.
+Dialogue: 10,0:04:29.92,0:04:31.92,Default,,0,0,0,,Being dead drunk. On tequila. Also, national treasure.{ebizou pun}
+Dialogue: 10,0:04:31.92,0:04:33.04,Default,,0,0,0,,No!
+Dialogue: 10,0:04:33.04,0:04:34.59,Default,,0,0,0,,I know!
+Dialogue: 10,0:04:34.59,0:04:36.55,Default,,0,0,0,,Consume, gamble, and buy.
+Dialogue: 10,0:04:36.55,0:04:38.55,Default,,0,0,0,,You mean booze, black jack, and hookers?
+Dialogue: 10,0:04:38.55,0:04:42.89,Default,,0,0,0,,No. Overconsume, gamble with your life, and buy help.{you're a genius}{lol}
+Dialogue: 10,0:04:42.89,0:04:45.06,Default,,0,0,0,,A dead-in-the-wool kabuki actor!
+Dialogue: 10,0:04:45.06,0:04:46.10,Default,,0,0,0,,Are you serious?!
+Dialogue: 10,0:04:46.10,0:04:48.77,Default,,0,0,0,,So that's why people go to church on Christmas.
+Dialogue: 10,0:04:48.77,0:04:51.23,Default,,0,0,0,,The Father listens to your problems.
+Dialogue: 10,0:04:51.23,0:04:53.02,Default,,0,0,0,,That's a whole different story!
+Dialogue: 10,0:04:53.02,0:04:57.07,Default,,0,0,0,,Even if you feel that you're useless and you've hit rock bottom...
+Dialogue: 10,0:04:57.07,0:05:00.70,Default,,0,0,0,,"It's all right. You're a wonderful person!"
+Dialogue: 10,0:05:00.70,0:05:02.28,Default,,0,0,0,,They sing odes to you.
+Dialogue: 10,0:05:02.28,0:05:04.41,Default,,0,0,0,,So that's why they sing odes and hymns at church!
+Dialogue: 10,0:05:04.41,0:05:05.74,Default,,0,0,0,,I think you're getting it all wrong.
+Dialogue: 10,0:05:06.95,0:05:11.37,Default,,0,0,0,,Let's sing an ode about Kukuru to cheer her up!
+Dialogue: 10,0:05:11.37,0:05:14.38,Default,,0,0,0,,It's...
+Dialogue: 10,0:05:15.63,0:05:19.38,Default,,0,0,0,,It's all right!
+Dialogue: 10,0:05:19.38,0:05:21.84,Default,,0,0,0,,It was supposed to be an ode, not a musical!
+Dialogue: 10,0:05:19.92,0:05:27.77,Alter,,0,0,0,,You're wonderful!
+Dialogue: 10,0:05:21.84,0:05:37.53,Default,,0,0,0,,{from background}It's all right! It's all right!
+Dialogue: 10,0:05:27.77,0:05:29.35,Alter,,0,0,0,,They were here before!
+Dialogue: 10,0:05:33.35,0:05:36.32,Alter,,0,0,0,,{gankyou in background}You're wonderful!
+Dialogue: 10,0:05:37.53,0:05:42.66,Default,,0,0,0,,It's all right! It's all—
+Dialogue: 10,0:05:39.15,0:05:42.66,Alter,,0,0,0,,How dare you disturb my song!
+Dialogue: 10,0:05:42.66,0:05:45.20,Default,,0,0,0,,You ruined our wonderful ode!
+Dialogue: 10,0:05:45.20,0:05:48.91,Default,,0,0,0,,I'm sorry. I'll start again.
+Dialogue: 10,0:05:48.91,0:05:50.91,Default,,0,0,0,,It's okay...
+Dialogue: 10,0:05:50.91,0:05:53.21,Default,,0,0,0,,You're all just making fun of me!
+Dialogue: 10,0:05:53.21,0:05:54.13,Default,,0,0,0,,Kukuru!
+Dialogue: 10,0:06:00.21,0:06:03.68,Default,,0,0,0,,What's this Rubens-style painting doing here?
+Dialogue: 10,0:06:08.64,0:06:13.14,Default,,0,0,0,,Patrasche, I've had enough...
+Dialogue: 10,0:06:27.99,0:06:31.87,Default,,0,0,0,,It was then that a Christmas miracle happened.
+Dialogue: 10,0:06:40.21,0:06:45.34,Default,,0,0,0,,High spirits descended upon Kukuru.
+Dialogue: 10,0:06:45.34,0:06:47.72,Default,,0,0,0,,High spirits? Not holy?
+Dialogue: 10,0:06:47.72,0:06:50.43,Default,,0,0,0,,Yeah, she sure is in high spirits now.
+Dialogue: 10,0:06:50.43,0:06:52.77,Default,,0,0,0,,A true miracle from 34th Street, Shinjuku!
+Dialogue: 10,0:06:52.77,0:06:55.56,Default,,0,0,0,,Now we can sing odes together with her!
+Dialogue: 10,0:06:55.56,0:07:00.73,Default,,0,0,0,,It's all right!
+Dialogue: 10,0:07:03.36,0:07:05.36,Default,,0,0,0,,This is chaos!
+Dialogue: 10,0:07:05.36,0:07:07.45,Default,,0,0,0,,You should sing too, Marii!
+Dialogue: 10,0:07:08.37,0:07:11.29,Default,,0,0,0,,I'd rather not.
+Dialogue: 10,0:07:23.71,0:07:25.93,Default,,0,0,0,,It's all right!
+Dialogue: 10,0:07:25.93,0:07:28.09,Default,,0,0,0,,Do you think Marii is...
+Dialogue: 10,0:07:28.09,0:07:28.55,Default,,0,0,0,,...tone dea—
+Dialogue: 10,0:07:34.81,0:07:37.40,Default,,0,0,0,,It was then that a miracle happened.
+Dialogue: 10,0:07:42.19,0:07:44.40,Default,,0,0,0,,Marii's spirits fell.
+Dialogue: 10,0:07:45.11,0:07:47.32,Default,,0,0,0,,Her spirits have fallen! She's in low spirits!
+Dialogue: 10,0:07:47.32,0:07:49.62,Default,,0,0,0,,Fallen spirits? So she's a demon?
+Dialogue: 10,0:07:49.62,0:07:51.87,Default,,0,0,0,,Fallen angels are demons...
+Dialogue: 10,0:07:51.87,0:07:55.25,Default,,0,0,0,,We must purge the demon! Call an exorcist!
+Dialogue: 10,0:07:55.25,0:07:58.00,Default,,0,0,0,,I came when I heard that a demon causes you great suffering.
+Dialogue: 10,0:08:02.75,0:08:05.63,Default,,0,0,0,,A real demon emerged.
+Dialogue: 10,0:08:05.63,0:08:11.97,Default,,0,0,0,,Even this year, the fight between high and low spirits continues.
+Dialogue: 10,0:08:11.97,0:08:15.68,Default,,0,0,0,,We must exorcise demons!
+Dialogue: 10,0:08:15.68,0:08:17.94,Default,,0,0,0,,But how...
+Dialogue: 10,0:08:17.94,0:08:20.02,Default,,0,0,0,,There's a way!
+Dialogue: 10,0:08:23.36,0:08:26.86,Default,,0,0,0,,Rubbing her boobs will purge the demon!
+Dialogue: 10,0:08:26.86,0:08:30.32,Default,,0,0,0,,And if you use that rubbed photo as your wallpaper, you'll be blessed with happiness!
+Dialogue: 10,0:08:30.32,0:08:31.70,Default,,0,0,0,,When I did this,
+Dialogue: 10,0:08:31.70,0:08:33.33,Default,,0,0,0,,I became happy!
+Dialogue: 10,0:08:33.33,0:08:34.91,Default,,0,0,0,,You should try too!
+Dialogue: 10,0:08:34.91,0:08:36.45,Default,,0,0,0,,No you shouldn't!
+Dialogue: 10,0:08:49.76,0:08:52.64,Default,,0,0,0,,Is this the fabled Harajuku?
+Dialogue: 10,0:08:52.64,0:08:55.93,Default,,0,0,0,,I hardly leave the house except to buy groceries,
+Dialogue: 10,0:08:55.93,0:08:57.81,Default,,0,0,0,,so when I go to a place like this, I get so nervous...
+Dialogue: 10,0:08:57.81,0:08:58.93,Default,,0,0,0,,Me too.
+Dialogue: 10,0:08:58.93,0:09:01.65,Default,,0,0,0,,People from the countryside are invisible to them.
+Dialogue: 10,0:09:01.65,0:09:03.86,Default,,0,0,0,,Don't worry, we're humans all the same!
+Dialogue: 10,0:09:03.86,0:09:07.03,Default,,0,0,0,,Yeah! Just look down the road!
+Dialogue: 10,0:09:07.03,0:09:09.20,Default,,0,0,0,,That's some human garb—{age}{from castle in the sky}
+Dialogue: 10,0:09:09.82,0:09:11.66,Default,,0,0,0,,Get a grip, Marii!
+Dialogue: 10,0:09:11.66,0:09:13.53,Default,,0,0,0,,Don't reveal your power level.
+Dialogue: 10,0:09:13.53,0:09:15.20,Default,,0,0,0,,This is hipster town.
+Dialogue: 10,0:09:15.20,0:09:16.70,Default,,0,0,0,,You have to be kidding me!
+Dialogue: 10,0:09:16.70,0:09:19.71,Default,,0,0,0,,Miyazaki is the best! No one can argue with that!
+Dialogue: 10,0:09:19.71,0:09:23.63,Default,,0,0,0,,Yeah, I guess the father plays in his own league, but I'm not sure about ***.{his son}
+Dialogue: 10,0:09:23.63,0:09:27.25,Default,,0,0,0,,But he only got really famous with Nausicaa.
+Dialogue: 10,0:09:27.25,0:09:31.22,Default,,0,0,0,,Yeah, no one knows Cagliostro or Go, Panda...
+Dialogue: 10,0:09:31.22,0:09:34.43,Default,,0,0,0,,What do you think about Howl's? Nobody really knows ***.{tales from earthsea}
+Dialogue: 10,0:09:34.43,0:09:35.60,Default,,0,0,0,,Dunno...
+Dialogue: 10,0:09:35.60,0:09:38.47,Default,,0,0,0,,That reminds me, we have to go to a talent shop!
+Dialogue: 10,0:09:38.47,0:09:40.94,Default,,0,0,0,,You mean the idols'?
+Dialogue: 10,0:09:40.94,0:09:44.23,Default,,0,0,0,,Yeah, like Kunichan's and Mashi's, or Tacchan's pickled veggie shop.{idk, these idols are known widely by their "chan" names, what do?}{im nuking the dash to make it a single name}
+Dialogue: 10,0:09:44.23,0:09:47.94,Default,,0,0,0,,But it's the Bamboo Dancers that define Harajuku!
+Dialogue: 10,0:09:47.94,0:09:49.69,Default,,0,0,0,,What age are you even living in?
+Dialogue: 10,0:09:49.69,0:09:50.74,Default,,0,0,0,,They've been gone since forever.
+Dialogue: 10,0:09:53.66,0:09:56.37,Default,,0,0,0,,My Harajuku debut is up in flames...
+Dialogue: 10,0:09:56.37,0:09:58.62,Default,,0,0,0,,You're better off this way.
+Dialogue: 10,0:09:58.62,0:10:02.71,Default,,0,0,0,,Let's have fun now that we're here.
+Dialogue: 10,0:10:02.71,0:10:05.92,Default,,0,0,0,,There are interesting shops in Back-Hara'.{as in, back-street}
+Dialogue: 10,0:10:05.92,0:10:07.38,Default,,0,0,0,,Back-Hara'?
+Dialogue: 10,0:10:07.38,0:10:09.92,Default,,0,0,0,,Back-Harajuku. Shortened as Back-Hara'.
+Dialogue: 10,0:10:09.92,0:10:14.01,Default,,0,0,0,,Hold on. Who's calling it the back?
+Dialogue: 10,0:10:14.01,0:10:16.47,Default,,0,0,0,,Everyone...
+Dialogue: 10,0:10:16.47,0:10:18.97,Default,,0,0,0,,Back-Hara', huh?
+Dialogue: 10,0:10:18.97,0:10:20.72,Default,,0,0,0,,You see, the word "back" is usually associated with
+Dialogue: 10,0:10:20.72,0:10:24.19,Default,,0,0,0,,"back-door enrollment" or "backside" or "backstreet."
+Dialogue: 10,0:10:24.19,0:10:26.56,Default,,0,0,0,,You know, generally something with a bad meaning. You know that, right?
+Dialogue: 10,0:10:27.36,0:10:29.28,Default,,0,0,0,,Like "backstabbing" or "backhander."{i know it's BrE, but i need "back"}
+Dialogue: 10,0:10:29.28,0:10:30.48,Default,,0,0,0,,Or "backdoor trojan."{ura-saito, lit the unofficial website of usually schools run by students where they are free to say whatever}{i actually considered putting "backstreet boys" here}{conflicts a bit with the animation...}
+Dialogue: 10,0:10:30.48,0:10:31.82,Default,,0,0,0,,Or have a  "backlog"!
+Dialogue: 10,0:10:33.24,0:10:39.29,Default,,0,0,0,,How many animators had to take a bullet train to deliver the SR tapes from the offices out in the sticks?!
+Dialogue: 10,0:10:39.95,0:10:46.25,Default,,0,0,0,,Well, since it's a Harajuku that is no longer part of ordinary Harajuku, how about Top-Hara'? Or Toppara.
+Dialogue: 10,0:10:46.25,0:10:49.63,Default,,0,0,0,,That's good! We shouldn't call it Back-Hara'!
+Dialogue: 10,0:10:49.63,0:10:51.71,Default,,0,0,0,,It's Top-Hara', you hear?
+Dialogue: 10,0:10:59.22,0:11:00.97,Default,,0,0,0,,That's what I expected of Back-Hara'...
+Dialogue: 10,0:11:01.93,0:11:03.81,Default,,0,0,0,,I mean Top-Hara'!
+Dialogue: 10,0:11:04.10,0:11:06.90,Default,,0,0,0,,Blue girls are the majority here.
+Dialogue: 10,0:11:06.90,0:11:07.73,Default,,0,0,0,,Blue?
+Dialogue: 10,0:11:07.73,0:11:10.15,Default,,0,0,0,,It's a way of classifying fashion magazines.
+Dialogue: 10,0:11:10.15,0:11:12.57,Default,,0,0,0,,Magazines featuring girls like them have blue designs.
+Dialogue: 10,0:11:12.57,0:11:17.24,Default,,0,0,0,,Magazines with more ladylike or mature fashion are called red for a similar reason.
+Dialogue: 10,0:11:17.24,0:11:21.70,Default,,0,0,0,,Huh? Blue mags? Red mags? Yellow paper?
+Dialogue: 10,0:11:21.70,0:11:23.66,Default,,0,0,0,,That sounds like a tongue-twister.
+Dialogue: 10,0:11:23.66,0:11:29.00,Default,,0,0,0,,You know, like that Harajuku-ish idol. What was her name... Lucky... Pamu-pamu?
+Dialogue: 10,0:11:29.00,0:11:33.71,Default,,0,0,0,,Like the cute cat cured the queued Cuban cube?
+Dialogue: 10,0:11:33.71,0:11:37.34,Default,,0,0,0,,Then how about singing Sammy sung songs on sinking sand?{or any other "s"/"sh" singing-related t.twister}
+Dialogue: 10,0:11:37.34,0:11:39.14,Default,,0,0,0,,Bus bucksaw blast!{bus gas blast}
+Dialogue: 10,0:11:39.85,0:11:42.01,Default,,0,0,0,,Buck buskaw bast?
+Dialogue: 10,0:11:42.51,0:11:46.89,Default,,0,0,0,,The trick is to say it like, "busback soyblast."{bus vinegar blast}
+Dialogue: 10,0:11:46.89,0:11:48.85,Default,,0,0,0,,A soy blast in the back of a bus?
+Dialogue: 10,0:11:50.56,0:11:53.11,Default,,0,0,0,,Busback soyblast...
+Dialogue: 10,0:11:53.11,0:11:55.15,Default,,0,0,0,,Bus bucksaw blast...
+Dialogue: 10,0:11:55.15,0:11:57.11,Default,,0,0,0,,Bus bucksaw blast! It works!
+Dialogue: 10,0:11:57.11,0:12:01.83,Default,,0,0,0,,But imagine what'd happen if you did it like that...
+Dialogue: 10,0:12:08.46,0:12:10.58,Default,,0,0,0,,Busback soyblast.
+Dialogue: 10,0:12:10.58,0:12:13.25,Default,,0,0,0,,Burnt soy almost smells like vinegar!{i made this up}
+Dialogue: 10,0:12:14.30,0:12:16.05,Default,,0,0,0,,Yeah, it's not nice.
+Dialogue: 10,0:12:16.05,0:12:18.38,Default,,0,0,0,,Feels like I'm in a darkroom.{darkrooms have a vinegary smell}
+Dialogue: 10,0:12:18.38,0:12:20.80,Default,,0,0,0,,Let's eat crepes!
+Dialogue: 10,0:12:20.80,0:12:24.10,Default,,0,0,0,,Huh? Crepes? Like what Harajuku's famous for?
+Dialogue: 10,0:12:24.10,0:12:26.43,Default,,0,0,0,,Sure, Harajuku is famous for them,
+Dialogue: 10,0:12:26.43,0:12:28.64,Default,,0,0,0,,but it's been a while since I had any.
+Dialogue: 10,0:12:29.60,0:12:32.02,Default,,0,0,0,,The basic kind is choco-banana, right?
+Dialogue: 10,0:12:32.02,0:12:34.11,Default,,0,0,0,,There are lots of other yummy flavors too!
+Dialogue: 10,0:12:34.65,0:12:37.78,Default,,0,0,0,,What? Mango? Almond jelly?
+Dialogue: 10,0:12:37.78,0:12:40.53,Default,,0,0,0,,Red beans with soy flour? Salty caramel?
+Dialogue: 10,0:12:40.53,0:12:42.20,Default,,0,0,0,,It's a mere crepe!
+Dialogue: 10,0:12:42.20,0:12:43.99,Default,,0,0,0,,It's just flour, water and eggs!
+Dialogue: 10,0:12:43.99,0:12:45.66,Default,,0,0,0,,Behold the purity of octopus{squid, tehe} balls!
+Dialogue: 10,0:12:45.66,0:12:54.29,Default,,0,0,0,,{\an1\move(210,1005,-1950,1005,3151,8630)\q2}Strawberry custard with extra whipped cream, a medium-sized brownie, chocolate spray and a maple syrup caramel sauce rollup!{feel free to make this a four-liner for the heck of it}
+Dialogue: 10,0:12:55.13,0:12:57.55,Default,,0,0,0,,Kigu recited the resurrection spell!
+Dialogue: 10,0:12:57.55,0:12:58.97,Default,,0,0,0,,What? What language was that?
+Dialogue: 10,0:12:58.97,0:13:01.01,Default,,0,0,0,,It's just strawberry with chocolate.
+Dialogue: 10,0:13:01.01,0:13:02.30,Default,,0,0,0,,Then say so!
+Dialogue: 10,0:13:02.30,0:13:05.47,Default,,0,0,0,,Also a shot of topping and a shot.{chotto toppingu dattari shotto dattari}{idk what "shot" refers to}
+Dialogue: 10,0:13:05.47,0:13:06.35,Default,,0,0,0,,A shot?{apparently neither does kukuru}
+Dialogue: 10,0:13:07.27,0:13:09.52,Default,,0,0,0,,It's a mere crepe! Why are there so many choices?!
+Dialogue: 10,0:13:09.52,0:13:10.89,Default,,0,0,0,,Ordering is a pain in the butt!
+Dialogue: 10,0:13:10.89,0:13:13.86,Default,,0,0,0,,Other people will laugh when they see me despairing!
+Dialogue: 10,0:13:13.86,0:13:15.69,Default,,0,0,0,,So lame!
+Dialogue: 10,0:13:15.69,0:13:17.23,Default,,0,0,0,,A plain crepe, please.
+Dialogue: 10,0:13:17.23,0:13:18.69,Default,,0,0,0,,Plain?
+Dialogue: 10,0:13:18.69,0:13:21.16,Default,,0,0,0,,Is that like how when you order pizza delivered,
+Dialogue: 10,0:13:21.16,0:13:24.32,Default,,0,0,0,,you could pick a half-and-half one or a quartered family pizza as well,
+Dialogue: 10,0:13:24.32,0:13:26.99,Default,,0,0,0,,but you go with a simple cheese pizza?
+Dialogue: 10,0:13:26.99,0:13:29.37,Default,,0,0,0,,A hero! A hero is among us!
+Dialogue: 10,0:13:29.96,0:13:32.83,Default,,0,0,0,,It's been a while since I had a crepe.
+Dialogue: 10,0:13:32.83,0:13:36.88,Default,,0,0,0,,I guess. Not like it's a big occasion.
+Dialogue: 10,0:13:37.80,0:13:41.34,Default,,0,0,0,,Could it be you've never eaten crepe before, Marii?
+Dialogue: 10,0:13:41.34,0:13:45.51,Default,,0,0,0,,I feel like my life's gonna change if I eat this!
+Dialogue: 10,0:13:45.51,0:13:46.97,Default,,0,0,0,,What do you mean?
+Dialogue: 10,0:13:46.97,0:13:49.68,Default,,0,0,0,,Is it such an epochal event?
+Dialogue: 10,0:13:49.68,0:13:51.06,Default,,0,0,0,,No!
+Dialogue: 10,0:13:51.06,0:13:54.94,Default,,0,0,0,,It's just so embarrassing to eat this in public...
+Dialogue: 10,0:13:55.40,0:13:58.78,Default,,0,0,0,,You know, it's like going to a festival,
+Dialogue: 10,0:13:58.78,0:14:01.32,Default,,0,0,0,,or waiting an hour to buy donuts,
+Dialogue: 10,0:14:01.32,0:14:03.66,Default,,0,0,0,,or buying a mascot character's goods,
+Dialogue: 10,0:14:03.66,0:14:05.82,Default,,0,0,0,,or waiting for foreign celebrities at the airport...
+Dialogue: 10,0:14:05.82,0:14:08.12,Default,,0,0,0,,It feels like a big deal for me.
+Dialogue: 10,0:14:08.12,0:14:10.45,Default,,0,0,0,,Don't puff it up like that.
+Dialogue: 10,0:14:10.45,0:14:12.71,Default,,0,0,0,,Yeah, we're all eating it.
+Dialogue: 10,0:14:12.71,0:14:16.17,Default,,0,0,0,,Why is that hill in Kunitachi "Creamy's"?! It pisses me off!
+Dialogue: 10,0:14:16.17,0:14:20.51,Default,,0,0,0,,Tell me, is it Creamy? Or Krimii? Or Kriimi?
+Dialogue: 10,0:14:20.51,0:14:21.88,Default,,0,0,0,,That pisses me off.
+Dialogue: 10,0:14:21.88,0:14:25.09,Default,,0,0,0,,What's the big deal, Marii? It's just flour!
+Dialogue: 10,0:14:25.09,0:14:28.26,Default,,0,0,0,,Yeah! Consider it a sweet fried squid!
+Dialogue: 10,0:14:28.26,0:14:30.02,Default,,0,0,0,,Osaka's famous specialty!
+Dialogue: 10,0:14:30.02,0:14:32.68,Default,,0,0,0,,Fried squid...
+Dialogue: 10,0:14:33.31,0:14:35.44,Default,,0,0,0,,Mix squid with flour, then fry it...
+Dialogue: 10,0:14:35.44,0:14:37.40,Default,,0,0,0,,Add soy sauce and eat.
+Dialogue: 10,0:14:38.32,0:14:40.90,Default,,0,0,0,,You'll be fine.
+Dialogue: 10,0:14:44.66,0:14:46.70,Default,,0,0,0,,No, it's just not the same!
+Dialogue: 10,0:14:46.70,0:14:51.29,Default,,0,0,0,,Fried squid comes on a {food }plate! They wouldn't wrap it in a lame piece of paper.
+Dialogue: 10,0:14:51.29,0:14:57.29,Default,,0,0,0,,Happily spending 500 or 600 yen on this thing is like spending 3000 on a simple ramen!
+Dialogue: 10,0:14:57.29,0:14:58.25,Default,,0,0,0,,The value is totally off!
+Dialogue: 10,0:14:58.25,0:15:01.42,Default,,0,0,0,,It's weird the moment you've gotta eat it standing in a crowd!
+Dialogue: 10,0:15:01.42,0:15:02.46,Default,,0,0,0,,It's bad manners!
+Dialogue: 10,0:15:02.46,0:15:04.38,Default,,0,0,0,,Don't you think so?
+Dialogue: 10,0:15:04.38,0:15:06.05,Default,,0,0,0,,Shut up and eat!
+Dialogue: 10,0:15:11.97,0:15:14.18,Default,,0,0,0,,And now for the weather forecast.
+Dialogue: 10,0:15:14.18,0:15:17.44,Default,,0,0,0,,Today's pressure pattern will shift to one typical of winter,
+Dialogue: 10,0:15:17.44,0:15:19.73,Default,,0,0,0,,and the air will become dry.
+Dialogue: 10,0:15:19.73,0:15:21.23,Default,,0,0,0,,Continuing with the regional—
+Dialogue: 10,0:15:24.86,0:15:26.70,Default,,0,0,0,,It really is very dry.
+Dialogue: 10,0:15:26.70,0:15:30.28,Default,,0,0,0,,My fingers dry out, and my skin cracks painfully.
+Dialogue: 10,0:15:30.28,0:15:32.95,Default,,0,0,0,,But if your skin cracks,
+Dialogue: 10,0:15:32.95,0:15:34.91,Default,,0,0,0,,you can't have anything at your fingertips!
+Dialogue: 10,0:15:34.91,0:15:35.75,Default,,0,0,0,,Huh?
+Dialogue: 10,0:15:35.75,0:15:38.42,Default,,0,0,0,,Young performers are all poor, so if they couldn't have
+Dialogue: 10,0:15:38.42,0:15:40.96,Default,,0,0,0,,fire at their fingertips, for example, they'd be in trouble!
+Dialogue: 10,0:15:40.96,0:15:43.84,Default,,0,0,0,,I hope you know that's a metaphor.
+Dialogue: 10,0:15:43.84,0:15:46.01,Default,,0,0,0,,It's their last lifeline!
+Dialogue: 10,0:15:46.80,0:15:49.76,Default,,0,0,0,,The scariest part is that she actually seems serious.
+Dialogue: 10,0:15:49.76,0:15:52.22,Default,,0,0,0,,Well, if you literally had fire at your fingertips...
+Dialogue: 10,0:15:55.98,0:15:59.31,Default,,0,0,0,,You could make a living out of showing it off.{the human torch!}
+Dialogue: 10,0:15:59.31,0:16:01.77,Default,,0,0,0,,You'd have secure income! A get-out-of-poverty-free card!{i enjoy monopoly how about you}
+Dialogue: 10,0:16:03.57,0:16:08.11,Default,,0,0,0,,Anyway, my skin is so dry that it cracks. Like paper.
+Dialogue: 10,0:16:08.11,0:16:09.24,Default,,0,0,0,,That must be hard for you.
+Dialogue: 10,0:16:10.87,0:16:13.29,Default,,0,0,0,,I'm so envious! Your skin is as soft as silk!{anything better?}{silk works fine imo}
+Dialogue: 10,0:16:13.29,0:16:16.29,Default,,0,0,0,,Please, stop poking me!
+Dialogue: 10,0:16:16.29,0:16:19.37,Default,,0,0,0,,Lucky her... My skin is dry and rough, like a shark's.
+Dialogue: 10,0:16:19.37,0:16:21.88,Default,,0,0,0,,Yeah, I can even grate things on it!
+Dialogue: 10,0:16:21.88,0:16:23.80,Default,,0,0,0,,That hurts! Stop grating wasabi on my skin!
+Dialogue: 10,0:16:23.80,0:16:26.72,Default,,0,0,0,,But if you grate wasabi on shark skin, it ends up smooth and full of aroma!
+Dialogue: 10,0:16:27.30,0:16:28.76,Default,,0,0,0,,Paper skin.
+Dialogue: 10,0:16:29.13,0:16:30.84,Default,,0,0,0,,Silky skin.
+Dialogue: 10,0:16:30.84,0:16:32.68,Default,,0,0,0,,Shark skin.
+Dialogue: 10,0:16:32.68,0:16:36.89,Default,,0,0,0,,It's nice that you all have your own unique style of skin.
+Dialogue: 10,0:16:36.89,0:16:38.77,Default,,0,0,0,,I wonder what I am, then?
+Dialogue: 10,0:16:40.10,0:16:42.61,Default,,0,0,0,,Well, I'd say you're...
+Dialogue: 10,0:16:43.27,0:16:45.19,Default,,0,0,0,,Like a bigger sister?{anego-hada, lit "big sister skin" isn't an actual skin, more like a personality}
+Dialogue: 10,0:16:46.69,0:16:50.41,Default,,0,0,0,,You talk like one, that's for sure.
+Dialogue: 10,0:16:50.41,0:16:52.41,Default,,0,0,0,,So I have sister skin?{i had to stuff this misunderstanding in here somehow...}
+Dialogue: 10,0:16:53.28,0:16:56.04,Default,,0,0,0,,But what kind of skin is that?
+Dialogue: 10,0:16:56.04,0:17:02.54,Default,,0,0,0,,Is it clean? Or dry? Or soft? Or rough?
+Dialogue: 10,0:17:02.54,0:17:04.38,Default,,0,0,0,,No, it's not a kind of ski—
+Dialogue: 10,0:17:04.38,0:17:05.96,Default,,0,0,0,,Well, I'd say it's...
+Dialogue: 10,0:17:05.96,0:17:08.76,Default,,0,0,0,,like a girl with a dragon tattoo.{my shoutout}
+Dialogue: 10,0:17:08.76,0:17:12.05,Default,,0,0,0,,Dragon as in the Kurikara dragon god,
+Dialogue: 10,0:17:12.05,0:17:13.68,Default,,0,0,0,,and by tattoo I mean an Eastern-style tattoo.
+Dialogue: 10,0:17:14.76,0:17:18.23,Default,,0,0,0,,How do you know so much about tattoos, Teto?
+Dialogue: 10,0:17:18.23,0:17:20.98,Default,,0,0,0,,Could it be that you have one on your ankle, just like you-know-who?{sakai noriko. idk why the reference}
+Dialogue: 10,0:17:22.48,0:17:24.23,Default,,0,0,0,,Let's not talk about that now.
+Dialogue: 10,0:17:24.23,0:17:25.48,Default,,0,0,0,,Let me etch it into you!
+Dialogue: 10,0:17:25.48,0:17:27.11,Default,,0,0,0,,Let me etch it into you as an amateur!
+Dialogue: 10,0:17:27.11,0:17:28.86,Default,,0,0,0,,Let me etch it into you with harsh brutality, just like during middle school
+Dialogue: 10,0:17:28.86,0:17:30.70,Default,,0,0,0,,when I accidentally stabbed my hand with a mechanical pencil,
+Dialogue: 10,0:17:30.70,0:17:32.16,Default,,0,0,0,,the lead broke and the mark's still there to this day!
+Dialogue: 10,0:17:33.37,0:17:35.70,Default,,0,0,0,,Don't you want to have big sister skin for real?
+Dialogue: 10,0:17:35.70,0:17:37.29,Default,,0,0,0,,I don't! Stop!
+Dialogue: 10,0:17:38.41,0:17:40.25,Default,,0,0,0,,Gan, stop it already.
+Dialogue: 10,0:17:40.25,0:17:42.46,Default,,0,0,0,,She's already got a mark of her own.
+Dialogue: 10,0:17:43.42,0:17:45.13,Default,,0,0,0,,That's different!
+Dialogue: 10,0:17:45.13,0:17:49.76,Default,,0,0,0,,If she had tattoos, she couldn't go to her favorite bathhouses like the Oedo Spa,
+Dialogue: 10,0:17:49.76,0:17:55.55,Default,,0,0,0,,the Hakone Yunessun, the Marine Spa Atami, or the Hawaiians' Spa Resort.
+Dialogue: 10,0:17:55.55,0:17:58.52,Default,,0,0,0,,She couldn't become a public servant in Osaka either.
+Dialogue: 10,0:17:58.52,0:18:01.60,Default,,0,0,0,,But this is so childish. It's not like a big sister at all.
+Dialogue: 10,0:18:01.60,0:18:05.06,Default,,0,0,0,,Then let's draw something in paint, so it can be washed off.
+Dialogue: 10,0:18:05.77,0:18:08.03,Default,,0,0,0,,But what kind of drawing would be big sister-ish?
+Dialogue: 10,0:18:08.03,0:18:10.99,Default,,0,0,0,,Why not just draw a big sister to keep it simple?
+Dialogue: 10,0:18:12.65,0:18:15.41,Default,,0,0,0,,That's more like a hag than a big sister.
+Dialogue: 10,0:18:15.41,0:18:16.66,Default,,0,0,0,,I guess this'll do.
+Dialogue: 10,0:18:16.66,0:18:20.45,Default,,0,0,0,,Don't draw stupid things on me just because I can't see them!
+Dialogue: 10,0:18:20.45,0:18:22.54,Default,,0,0,0,,Then how should a drawing of a big sister look?
+Dialogue: 10,0:18:22.54,0:18:26.00,Default,,0,0,0,,Let's see, when I think of a big sister, I imagine...
+Dialogue: 10,0:18:30.76,0:18:34.26,Default,,0,0,0,,I don't think the Afghan hound belongs there. Nor does Hiroshima's seal.
+Dialogue: 10,0:18:34.26,0:18:35.26,Default,,0,0,0,,Really?
+Dialogue: 10,0:18:35.26,0:18:38.01,Default,,0,0,0,,Anyway, just try drawing A***mi.
+Dialogue: 10,0:18:39.51,0:18:41.39,Default,,0,0,0,,That's a hag too!
+Dialogue: 10,0:18:41.39,0:18:43.73,Default,,0,0,0,,That's such a mean thing to say to A***mi.
+Dialogue: 10,0:18:43.73,0:18:47.06,Default,,0,0,0,,I'm good at drawing, so let me try!
+Dialogue: 10,0:18:47.90,0:18:52.90,Default,,0,0,0,,{\i1}You react, you lose.
+Dialogue: 10,0:18:55.41,0:19:00.45,Default,,0,0,0,,But now that we've got so many kinds of skin here, is there something we can do?
+Dialogue: 10,0:19:09.96,0:19:11.05,Default,,0,0,0,,Paper{lit dry} skin!
+Dialogue: 10,0:19:11.71,0:19:13.05,Default,,0,0,0,,Shark skin!
+Dialogue: 10,0:19:13.05,0:19:14.26,Default,,0,0,0,,Silky skin!
+Dialogue: 10,0:19:14.26,0:19:15.43,Default,,0,0,0,,Big sister skin!
+Dialogue: 10,0:19:15.43,0:19:19.14,Default,,0,0,0,,Together, we are the Skin Arrangers!{stock phrase pls}
+Dialogue: 10,0:19:32.61,0:19:33.53,Default,,0,0,0,,What?!
+Dialogue: 10,0:19:34.40,0:19:35.78,Default,,0,0,0,,Cream?!
+Dialogue: 10,0:19:35.78,0:19:37.99,Default,,0,0,0,,I'll smear it on thick!
+Dialogue: 10,0:19:54.34,0:19:56.72,Default,,0,0,0,,I see, it's a skin care product ad!
+Dialogue: 10,0:19:56.72,0:19:58.47,Default,,0,0,0,,You came up with this?
+Dialogue: 10,0:19:59.18,0:20:01.39,Default,,0,0,0,,You're a genius under your skin!
+Dialogue: 10,0:20:03.06,0:20:05.10,Default,,0,0,0,,But superhero squads are always five—
+Dialogue: 10,0:20:05.10,0:20:07.14,Default,,0,0,0,,And Genius Skin over there makes five!
+Dialogue: 10,0:20:07.14,0:20:08.31,Default,,0,0,0,,Let me join too!
+Dialogue: 10,0:20:09.69,0:20:11.94,Default,,0,0,0,,But there's nothing special about your skin...
+Dialogue: 10,0:20:11.94,0:20:14.48,Default,,0,0,0,,You could be the glasses-wearing enemy soldier.
+Dialogue: 10,0:20:14.48,0:20:16.11,Default,,0,0,0,,Yeah, that could work.
+Dialogue: 10,0:20:16.11,0:20:19.07,Default,,0,0,0,,Yep, if we had to squeeze her in the cast somehow, we'd do that.
+Dialogue: 10,0:20:19.07,0:20:21.24,Default,,0,0,0,,Oh, shut up!{*}
+Dialogue: 10,0:20:27.71,0:20:29.08,Default,,0,0,0,,Like a goose!
+Dialogue: 10,0:20:30.33,0:20:32.13,Default,,0,0,0,,See, you can do it if you try!
+Dialogue: 10,0:20:32.13,0:20:33.88,Default,,0,0,0,,Now you're one of us too!
+Dialogue: 10,0:20:35.42,0:20:37.17,Default,,0,0,0,,Her goosebumps are gone! She's back to normal!
+Dialogue: 10,0:20:37.17,0:20:38.68,Default,,0,0,0,,That won't do.
+Dialogue: 10,0:20:38.68,0:20:42.01,Default,,0,0,0,,Without distinctive skin, you can't join our squad.
+Dialogue: 10,0:20:42.01,0:20:46.06,Default,,0,0,0,,But... I can't keep up those goosebumps all the time...
+Dialogue: 10,0:20:46.06,0:20:49.90,Default,,0,0,0,,You must! That's your job as a Skin Arranger!
+Dialogue: 10,0:20:49.90,0:20:52.44,Default,,0,0,0,,Let's get together enough creepy things to give her goosebumps for a lifetime!
+Dialogue: 10,0:20:53.52,0:20:55.36,Default,,0,0,0,,The liquefied rotten veggies in the fridge,
+Dialogue: 10,0:20:55.48,0:20:56.94,Default,,0,0,0,,the sound of nails on a chalkboard,
+Dialogue: 10,0:20:57.07,0:20:59.15,Default,,0,0,0,,the results of a Google image search for "bugs"...
+Dialogue: 10,0:21:02.99,0:21:06.37,Default,,0,0,0,,With that terrifying visage, you must be one of the enemy's monsters!
+Dialogue: 10,0:21:06.37,0:21:07.45,Default,,0,0,0,,And whose fault is that?!
+Dialogue: 10,0:21:07.45,0:21:11.37,Default,,0,0,0,,In the first place, surely there are ways to give me goosebumps not from horror, but from emotion!
+Dialogue: 10,0:21:11.37,0:21:13.17,Default,,0,0,0,,Like a Susan Boyle song or something! {lmfao}
+Dialogue: 10,0:21:14.59,0:21:18.88,Default,,0,0,0,,There's only one way we know to move someone to goosebumps...
+Dialogue: 10,0:21:20.09,0:21:22.18,Default,,0,0,0,,This is it.
+Dialogue: 10,0:21:28.77,0:21:30.64,Default,,0,0,0,,Congratulations on your graduation!
+Dialogue: 10,0:21:31.98,0:21:33.73,Default,,0,0,0,,Congratulations on your graduation!
+Dialogue: 10,0:21:33.73,0:21:34.86,Default,,0,0,0,,I'm so moved!
+Dialogue: 10,0:21:35.82,0:21:36.57,Default,,0,0,0,,Hey...
+Dialogue: 10,0:21:36.57,0:21:38.99,Default,,0,0,0,,This really does give me goosebumps!
+Dialogue: 10,0:21:46.41,0:21:49.62,Default,,0,0,0,,Hey! Hey! What do you mean I'm graduating?!
+Dialogue: 10,0:21:49.62,0:21:51.75,Default,,0,0,0,,We'll still be friends, even after you graduate!
+Dialogue: 10,0:21:51.75,0:21:53.38,Default,,0,0,0,,We'll never forget you, Gan!
+Dialogue: 10,0:21:53.38,0:21:54.83,Default,,0,0,0,,But why am I graduating?!
+Dialogue: 10,0:21:54.83,0:21:57.25,Default,,0,0,0,,Let's go out to eat sometime, okay?
+Dialogue: 10,0:21:57.25,0:21:58.09,Default,,0,0,0,,Take care!
+Dialogue: 10,0:21:58.09,0:21:59.09,Default,,0,0,0,,Hey! {\alpha&HFF&}Hey! {\i1}Hey!{\i0}{zwill: alpha time please :3}
+Dialogue: 10,0:21:59.09,0:22:00.09,Default,,0,0,0,,Hey! Hey! {\i1\alpha&HFF&}Hey!{\i0}{zwill: alpha time please :3}
+Dialogue: 10,0:22:00.09,0:22:01.47,Default,,0,0,0,,Hey! Hey! {\i1}Hey!{\i0}{zwill: alpha time please :3}
+Dialogue: 10,0:22:01.47,0:22:06.30,Default,,0,0,0,,Though we can't go with her, we'll all work extra hard in her place!
+Dialogue: 10,0:22:06.30,0:22:09.98,Default,,0,0,0,,Hey! What do you mean... I'm graduating?!
+Dialogue: 10,0:23:41.32,0:23:43.23,Default,,0,0,0,,I'm Haroukitei Kigurumi!
+Dialogue: 10,0:23:43.23,0:23:45.78,Default,,0,0,0,,How are you all doing?
+Dialogue: 10,0:23:46.91,0:23:49.91,Default,,0,0,0,,Do you pity the puppy that stands soaked in the rain?
+Dialogue: 10,0:23:49.91,0:23:52.45,Default,,0,0,0,,Or do you pet it?
+Dialogue: 10,0:23:52.45,0:23:56.08,Default,,0,0,0,,I'd pity it {\i1}and{\fscx140\i0} {\fscx100}pet it!
+Dialogue: 10,0:23:56.08,0:24:00.25,Default,,0,0,0,,Thanks to your support, we present the splendid sixth performance of Joshiraku:
+Dialogue: 10,0:24:01.13,0:24:06.51,Default,,0,0,0,,Four Wows{from: three vows}, Musashi Scenery and The Servant's Vengeance.
+Dialogue: 10,0:24:06.51,0:24:09.09,Default,,0,0,0,,I'm looking forward to seeing you again!
+Dialogue: 3,0:22:17.19,0:22:41.42,EDbg,,0,0,0,,A
+Dialogue: 3,0:22:45.84,0:23:00.61,EDbg,,0,0,0,,{\c&H171717&}A
+Dialogue: 4,0:22:17.19,0:22:18.73,EDdown,,0,0,0,,Live long, live long and prosper
+Dialogue: 4,0:22:18.73,0:22:20.40,EDdown,,0,0,0,,May great wealth await you wherever you go
+Dialogue: 4,0:22:20.40,0:22:21.90,EDdown,,0,0,0,,Even in different lands and under different skies
+Dialogue: 4,0:22:21.90,0:22:23.32,EDdown,,0,0,0,,May you always have your daily bread
+Dialogue: 4,0:22:23.32,0:22:24.78,EDdown,,0,0,0,,And always be brimming full of life
+Dialogue: 4,0:22:24.78,0:22:28.12,EDdown,,0,0,0,,Like the long-lived king Shuringan
+Dialogue: 4,0:22:29.12,0:22:30.83,EDdown,,0,0,0,,And his dear wife Gurindai
+Dialogue: 4,0:22:30.83,0:22:33.16,EDdown,,0,0,0,,And their children Ponpokopi and Ponpokona
+Dialogue: 4,0:22:33.16,0:22:35.42,EDdown,,0,0,0,,Live a long and blessed life
+Dialogue: 4,0:22:38.21,0:22:41.42,EDdown,,0,0,0,,Let me have a bit of your time
+Dialogue: 4,0:22:44.05,0:22:45.84,EDdown,,0,960,0,,Please listen closely
+Dialogue: 4,0:22:45.84,0:22:47.51,EDdown,,0,0,0,,We're ready
+Dialogue: 4,0:22:47.51,0:22:50.22,EDdown,,0,0,0,,You write it "laughing"
+Dialogue: 4,0:22:50.22,0:22:53.23,EDdown,,0,0,0,,You read it "let's party"
+Dialogue: 4,0:22:53.23,0:22:56.27,EDdown,,0,0,0,,And the point of it is, the point of it is...
+Dialogue: 4,0:22:56.27,0:22:59.44,EDdown,,0,0,0,,That everyone will be happy!
+Dialogue: 4,0:22:59.44,0:23:00.61,EDdown,,0,0,0,,Thank you kindly for your attention
+Dialogue: 4,0:23:00.65,0:23:03.49,EDdown,,0,960,0,,Laugh, laugh, hey, let's laugh
+Dialogue: 4,0:23:03.49,0:23:06.41,EDdown,,0,960,0,,Life may be hard, but let's laugh
+Dialogue: 4,0:23:06.41,0:23:07.95,EDdown,,0,960,0,,Laugh (yeah yeah)
+Dialogue: 4,0:23:07.95,0:23:09.45,EDdown,,960,0,0,,If you cry, you lose
+Dialogue: 4,0:23:09.45,0:23:12.70,EDdown,,960,0,0,,So just laugh until your sides ache
+Dialogue: 4,0:23:12.70,0:23:15.67,EDdown,,0,960,0,,Life may have its ups and downs,
+Dialogue: 4,0:23:15.67,0:23:18.42,EDdown,,0,960,0,,But great Japanese can get over it
+Dialogue: 4,0:23:18.42,0:23:21.71,EDdown,,0,960,0,,Laugh, whatever time may bring
+Dialogue: 4,0:23:21.71,0:23:24.80,EDdown,,0,960,0,,Laugh until you run out of breath
+Dialogue: 4,0:23:27.72,0:23:30.72,EDdown,,0,0,0,,Who cares where you are? Just laugh
+Dialogue: 4,0:23:30.72,0:23:33.73,EDdown,,0,0,0,,Smile (smile), smile (smile)
+Dialogue: 4,0:23:33.73,0:23:36.52,EDdown,,0,0,0,,Smile and the world will smile back at you
+Dialogue: 5,0:22:17.19,0:22:18.73,EDup,,0,0,0,,jugemu jugemu gokou no surikire
+Dialogue: 5,0:22:18.73,0:22:20.40,EDup,,0,0,0,,kaijari suigyo no suigyou matsu
+Dialogue: 5,0:22:20.40,0:22:21.90,EDup,,0,0,0,,unrai matsu fuurai matsu
+Dialogue: 5,0:22:21.90,0:22:23.32,EDup,,0,0,0,,kuuneru tokoro ni sumu tokoro
+Dialogue: 5,0:22:23.32,0:22:24.78,EDup,,0,0,0,,yaburakouji no burakouji
+Dialogue: 5,0:22:24.78,0:22:28.12,EDup,,0,0,0,,paipo paipo paipo no shuuringan
+Dialogue: 5,0:22:29.12,0:22:30.83,EDup,,0,0,0,,shuuringan no guurindai
+Dialogue: 5,0:22:30.83,0:22:33.16,EDup,,0,0,0,,guurindai no ponpokopi no ponpokona no
+Dialogue: 5,0:22:33.16,0:22:35.42,EDup,,0,0,0,,choukyuumei chousuke
+Dialogue: 5,0:22:38.21,0:22:41.42,EDup,,0,0,0,,choi to jikan itadakimasu
+Dialogue: 5,0:22:44.05,0:22:45.84,EDup,,0,960,0,,goseichou kudasai
+Dialogue: 5,0:22:45.84,0:22:47.51,EDup,,0,0,0,,totonoimashita
+Dialogue: 5,0:22:47.51,0:22:50.22,EDup,,0,0,0,,warau koto to kakemashite
+Dialogue: 5,0:22:50.22,0:22:53.23,EDup,,0,0,0,,omatsuri yarou zo tokemasu
+Dialogue: 5,0:22:53.23,0:22:56.27,EDup,,0,0,0,,sono kokoro wa sono kokoro wa
+Dialogue: 5,0:22:56.27,0:22:59.44,EDup,,0,0,0,,dochira mo happi ni naru deshou
+Dialogue: 5,0:22:59.44,0:23:00.61,EDup,,0,0,0,,oato ga yoroshii you de
+Dialogue: 5,0:23:00.65,0:23:03.49,EDup,,0,960,0,,waraou waraou sa waraimashou
+Dialogue: 5,0:23:03.49,0:23:06.41,EDup,,0,960,0,,konna jidai koso waraimashou
+Dialogue: 5,0:23:06.41,0:23:07.95,EDup,,0,960,0,,waraou (soiya soiya)
+Dialogue: 5,0:23:07.95,0:23:09.45,EDup,,960,0,0,,naitara make da
+Dialogue: 5,0:23:09.45,0:23:12.70,EDup,,960,0,0,,yakekuso waraimashou
+Dialogue: 5,0:23:12.70,0:23:15.67,EDup,,0,960,0,,haranbanjou sui mo amai mo
+Dialogue: 5,0:23:15.67,0:23:18.42,EDup,,0,960,0,,norikoeta appare nipponjin
+Dialogue: 5,0:23:18.42,0:23:21.71,EDup,,0,960,0,,waraou donna toki de mo
+Dialogue: 5,0:23:21.71,0:23:24.80,EDup,,0,960,0,,nanikuso waraimashou
+Dialogue: 5,0:23:27.72,0:23:30.72,EDup,,0,0,0,,kuuki nante yomazu ni warattoke
+Dialogue: 5,0:23:30.72,0:23:33.73,EDup,,0,0,0,,egao (egao) egao (egao)
+Dialogue: 5,0:23:33.73,0:23:36.52,EDup,,0,0,0,,warau kado ni wa fuku kitaru
+Dialogue: 0,0:00:00.06,0:00:02.82,OPdown,,0,0,0,,{\fsp-1.5}Thank you kindly for your attention
+Dialogue: 0,0:00:02.82,0:00:05.69,OPdown,,0,0,0,,{\fsp-1.5}I hope to have it again and again
+Dialogue: 0,0:00:05.69,0:00:10.99,OPdown,,0,0,0,,{\fsp-1.5}Twing-twang twing-twang-twong
+Dialogue: 0,0:00:10.99,0:00:13.49,OPdown,,0,0,0,,{\fsp-1.5}The theater{\fsp-15}'{\fsp-1.5}s full
+Dialogue: 0,0:00:17.16,0:00:19.67,OPdown,,0,0,0,,{\fsp-1.5}Mysteries are fun
+Dialogue: 0,0:00:19.67,0:00:22.46,OPdown,,0,0,0,,{\fsp-1.5}Tricks are fun as well
+Dialogue: 0,0:00:22.46,0:00:26.71,OPdown,,0,0,0,,{\fsp-1.5}We can solve girly problems by throwing dice
+Dialogue: 0,0:00:26.71,0:00:27.38,OPdown,,0,0,0,,{\fsp-1.5}(really?)
+Dialogue: 0,0:00:27.38,0:00:29.26,OPdown,,0,0,0,,{\fsp-1.5}It{\fsp-15}'{\fsp-1.5}s not one nor six, but nine
+Dialogue: 0,0:00:29.26,0:00:30.01,OPdown,,0,0,0,,{\fsp-1.5}(really?)
+Dialogue: 0,0:00:30.01,0:00:31.89,OPdown,,0,0,0,,{\fsp-1.5}The stakes are high, but you can get a sign
+Dialogue: 0,0:00:31.89,0:00:32.68,OPdown,,0,0,0,,{\fsp-1.5}(really?)
+Dialogue: 0,0:00:32.68,0:00:36.60,OPdown,,0,0,0,,{\fsp-1.5}I don{\fsp-15}'{\fsp-1.5}t really see how that{\fsp-15}'{\fsp-1.5}s related
+Dialogue: 0,0:00:36.60,0:00:41.73,OPdown,,0,0,0,,{\fsp-1.5}See, this looks like it{\fsp-15}'{\fsp-1.5}s gonna be fun
+Dialogue: 0,0:00:40.90,0:00:42.69,OPdown,,0,0,0,,{\an3\fsp-1.5}(see, see?)
+Dialogue: 0,0:00:41.73,0:00:46.03,OPdown,,0,0,0,,{\fsp-1.5}Or am I just seeing things?
+Dialogue: 0,0:00:46.03,0:00:48.78,OPdown,,0,0,0,,{\fsp-1.5}I don{\fsp-15}'{\fsp-1.5}t even care
+Dialogue: 0,0:00:48.78,0:00:51.74,OPdown,,0,0,0,,{\fsp-1.5}Come on, everyone
+Dialogue: 0,0:00:51.74,0:00:53.91,OPdown,,0,0,0,,{\fsp-1.5}Let{\fsp-15}'{\fsp-1.5}s spin!
+Dialogue: 0,0:00:55.20,0:00:57.45,OPdown,,0,0,0,,{\fsp-1.5}Front and back, let{\fsp-15}'{\fsp-1.5}s just turn it around
+Dialogue: 0,0:00:57.45,0:01:00.25,OPdown,,0,0,0,,{\fsp-1.5}You can turn the story upside down too
+Dialogue: 0,0:01:00.25,0:01:02.83,OPdown,,0,0,0,,{\fsp-1.5}Let{\fsp-15}'{\fsp-1.5}s go on, ladies first
+Dialogue: 0,0:01:02.83,0:01:04.92,OPdown,,0,0,0,,{\fsp-1.5}I hope to see you around again and again
+Dialogue: 0,0:01:04.92,0:01:07.80,OPdown,,0,0,0,,{\fsp-1.5}The backstage is the main stage
+Dialogue: 0,0:01:07.80,0:01:10.26,OPdown,,0,0,0,,{\fsp-1.5}That{\fsp-15}'{\fsp-1.5}s where we can chat idly
+Dialogue: 0,0:01:10.26,0:01:12.64,OPdown,,0,0,0,,{\fsp-1.5}Thank you kindly for your attention
+Dialogue: 0,0:01:12.64,0:01:15.35,OPdown,,0,0,0,,{\fsp-1.5}I hope it was a good comedy
+Dialogue: 0,0:01:15.35,0:01:17.64,OPdown,,0,0,0,,{\fsp-1.5}A comedy, a comedy
+Dialogue: 0,0:01:17.64,0:01:20.81,OPdown,,0,0,0,,{\fsp-1.5}A comedy from the comedy heaven
+Dialogue: 0,0:01:20.81,0:01:23.15,OPdown,,0,0,0,,{\fsp-1.5}Twing-twang twing-twang-twong
+Dialogue: 1,0:00:00.06,0:00:02.82,OPup,,0,0,0,,{\fsp-1.5}oato ga mata yoroshikute
+Dialogue: 1,0:00:02.82,0:00:05.69,OPup,,0,0,0,,{\fsp-1.5}osaki mo mae mo yoroshiku ne
+Dialogue: 1,0:00:05.69,0:00:10.99,OPup,,0,0,0,,{\fsp-1.5}chin-ton chin-ton-shan
+Dialogue: 1,0:00:10.99,0:00:13.49,OPup,,0,0,0,,{\fsp-1.5}jounai manjou
+Dialogue: 1,0:00:17.16,0:00:19.67,OPup,,0,0,0,,{\fsp-1.5}nazotoki dokidoki shinan
+Dialogue: 1,0:00:19.67,0:00:22.46,OPup,,0,0,0,,{\fsp-1.5}shikake ga ariari desu
+Dialogue: 1,0:00:22.46,0:00:26.71,OPup,,0,0,0,,{\fsp-1.5}joshiteki onayami wa sugoroku sai wo futte
+Dialogue: 1,0:00:26.71,0:00:27.38,OPup,,0,0,0,,{\fsp-1.5}(hai hai)
+Dialogue: 1,0:00:27.38,0:00:29.26,OPup,,0,0,0,,{\fsp-1.5}ichi de mo roku de mo nai
+Dialogue: 1,0:00:29.26,0:00:30.01,OPup,,0,0,0,,{\fsp-1.5}(sou kai)
+Dialogue: 1,0:00:30.01,0:00:31.89,OPup,,0,0,0,,{\fsp-1.5}ichi kake bachi ka de sain
+Dialogue: 1,0:00:31.89,0:00:32.68,OPup,,0,0,0,,{\fsp-1.5}(sou kai)
+Dialogue: 1,0:00:32.68,0:00:36.60,OPup,,0,0,0,,{\fsp-1.5}hanashi no tsunagari ga miemasen ne
+Dialogue: 1,0:00:36.60,0:00:41.73,OPup,,0,0,0,,{\fsp-1.5}oya omoshiroku narisou na yokan wa
+Dialogue: 1,0:00:40.90,0:00:42.69,OPup,,0,0,0,,{\an3\fsp-1.5}(oya oya desu)
+Dialogue: 1,0:00:41.73,0:00:46.03,OPup,,0,0,0,,{\fsp-1.5}me no sakkaku desu ka
+Dialogue: 1,0:00:46.03,0:00:48.78,OPup,,0,0,0,,{\fsp-1.5}iya soredemo kamawanai
+Dialogue: 1,0:00:48.78,0:00:51.74,OPup,,0,0,0,,{\fsp-1.5}hai minna
+Dialogue: 1,0:00:51.74,0:00:53.91,OPup,,0,0,0,,{\fsp-1.5}mawatte
+Dialogue: 1,0:00:55.20,0:00:57.45,OPup,,0,0,0,,{\fsp-1.5}omote mo ura uragaeshite
+Dialogue: 1,0:00:57.45,0:01:00.25,OPup,,0,0,0,,{\fsp-1.5}dondengaeshi mo yoshiyoshi
+Dialogue: 1,0:01:00.25,0:01:02.83,OPup,,0,0,0,,{\fsp-1.5}osaki ni ikou saa douzo
+Dialogue: 1,0:01:02.83,0:01:04.92,OPup,,0,0,0,,{\fsp-1.5}osaki mo mae mo yoroshiku ne
+Dialogue: 1,0:01:04.92,0:01:07.80,OPup,,0,0,0,,{\fsp-1.5}ura butai ga hare butai de
+Dialogue: 1,0:01:07.80,0:01:10.26,OPup,,0,0,0,,{\fsp-1.5}muda uchibanashi mo yokayoka
+Dialogue: 1,0:01:10.26,0:01:12.64,OPup,,0,0,0,,{\fsp-1.5}oato ga mata yoroshikute
+Dialogue: 1,0:01:12.64,0:01:15.35,OPup,,0,0,0,,{\fsp-1.5}osaki mo shiroki gokuraku da
+Dialogue: 1,0:01:15.35,0:01:17.64,OPup,,0,0,0,,{\fsp-1.5}gokuraku da gokuraku da
+Dialogue: 1,0:01:17.64,0:01:20.81,OPup,,0,0,0,,{\fsp-1.5}arayotto gokuraku joudou ringu
+Dialogue: 1,0:01:20.81,0:01:23.15,OPup,,0,0,0,,{\fsp-1.5}chin-ton chin-ton-shan
+Dialogue: 0,0:02:52.15,0:02:57.41,Default,,0,0,0,,{\pos(891,772.5)\fnH_Valkyria_ED\fs30\i1\bord6\shad0\c&H343840&\3c&HE3EAF2&\be2}Don't rub
+Dialogue: 0,0:12:01.83,0:12:02.74,Default,,0,0,0,,{\pos(925.5,759)\frz343.479\fry20\frx4\fs150\bord0\shad0\blur2.25}{TS 1202}Sushi
+Dialogue: 0,0:12:02.74,0:12:02.83,Default,,0,0,0,,{\pos(925.5,759)\frz343.479\fry20\frx4\fs150\bord0\shad0\blur2.25\clip(m 916.5 738 l 919.5 684 939 670.5 940.5 616.5 787.5 583.5 751.5 717)}{TS 1202}Sushi
+Dialogue: 0,0:12:08.54,0:12:13.25,Default,,0,0,0,,{\pos(939,292.5)\fnSmudger LET\fs225\b0\shad0\c&H0B1F9A&\3c&H0B1428&\be3\fad(700,0)}{TS 1209}Busback Soyblast
+Dialogue: 0,0:15:14.43,0:15:17.44,Default,,0,0,0,,{\pos(966,894)\fnH_Kobato_Main\bord6\c&HEAE8E6&\3c&H4E1C0A&\be2}{TS 1515}Nation-wide dry-conditions advisory
+Dialogue: 0,0:19:01.08,0:19:01.20,Default,,0,0,0,,{\an8\pos(553.5,960)\fscy120\fnArno Pro\fsp3\bord0\shad0\c&H242729&\be2}{TS 1900}CM plan{\fs30}\NDry Squad: Skin Arranger!
+Dialogue: 0,0:19:01.20,0:19:01.33,Default,,0,0,0,,{\an8\pos(550.5,820.5)\fscy120\fnArno Pro\fsp3\bord0\shad0\c&H242729&\be2}{TS 1900}CM plan{\fs30}\NDry Squad: Skin Arranger!
+Dialogue: 0,0:19:01.33,0:19:01.45,Default,,0,0,0,,{\an8\pos(547.5,673.5)\fscy120\fnArno Pro\fsp3\bord0\shad0\c&H242729&\be2}{TS 1900}CM plan{\fs30}\NDry Squad: Skin Arranger!
+Dialogue: 0,0:19:01.45,0:19:01.58,Default,,0,0,0,,{\an8\pos(546,540)\fscy120\fnArno Pro\fsp3\bord0\shad0\c&H242729&\be2}{TS 1900}CM plan{\fs30}\NDry Squad: Skin Arranger!
+Dialogue: 0,0:19:01.58,0:19:02.91,Default,,0,0,0,,{\an8\pos(549,403.5)\fscy120\fnArno Pro\fsp3\bord0\shad0\c&H242729&\be2}{TS 1900}CM plan{\fs30}\NDry Squad: Skin Arranger!
+Dialogue: 0,0:19:03.71,0:19:06.17,Default,,0,0,0,,{\pos(960,0)\be2\a6}Dry Squad\NSkin Arranger
+Dialogue: 0,0:19:09.96,0:19:11.05,Default,,0,0,0,,{\an1\pos(64.5,990)\fnArial Rounded MT Bold\fs120\bord7.5\shad0\c&H111112&\3c&HD0D3D7&}{TS 1910}Paper skin\N{\fs90}\h\hBouhatei Tetora
+Dialogue: 0,0:19:11.84,0:19:12.63,Default,,0,0,0,,{\an1\pos(1210.5,970.5)\fnArial Rounded MT Bold\fs120\bord7.5\shad0\c&H111112&\3c&HD0D3D7&}Shark skin\N{\fs90}Anrakutei Kukuru
+Dialogue: 0,0:19:13.05,0:19:13.84,Default,,0,0,0,,{\an1\pos(49.5,244.5)\fnArial Rounded MT Bold\fs120\bord7.5\shad0\c&H111112&\3c&HD0D3D7&}Silky skin\N{\fs90}Haroukitei Kigurumi
+Dialogue: 0,0:19:14.26,0:19:15.43,Default,,0,0,0,,{\an1\pos(1192.5,304.5)\fnArial Rounded MT Bold\fs120\bord7.5\shad0\c&H111112&\3c&HD0D3D7&}Big sister skin\N{\fs90}\h\hBuratei Marii
+Dialogue: 0,0:19:37.99,0:19:40.45,Default,,0,0,0,,{\pos(540,306)\fnArial Rounded MT\bord0\shad0\c&HEFF2F9&\be2}{TS 1936}{?}Beauty{the white on the black's torso and forehead are 美}
+Dialogue: 0,0:19:43.12,0:19:44.62,Default,,0,0,0,,{\pos(1090.5,405)\frz304.255\fnH_Kobato_Main\fs45\bord0\shad0\c&H2E2E32&\be2}{TS 1943}Moisturizer
+Dialogue: 0,0:19:52.34,0:19:54.34,Default,,0,0,0,,{\pos(726,159)\fnLivingstone\fs75\b0\c&H00CDFB&}{TS 1953}Skin Cream
+Dialogue: 0,0:19:52.34,0:19:54.34,Default,,0,0,0,,{\pos(430.5,592)\fnLivingstone\fs75\b0\c&H00CDFB&\be2}{DHA DNA iPS }compound
+Dialogue: 1,0:19:43.12,0:19:44.62,Default,,0,0,0,,{\pos(675,625.5)\frz127.143\fnH_Kobato_Main\fs45\bord0\shad0\c&H2E2E32&\be2}Cellular Revitalizer
+Dialogue: 0,0:01:43.46,0:01:45.46,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
+Dialogue: 0,0:02:57.41,0:03:12.38,block,,0,0,0,,{\pos(1099.5,645)\frz13.661\c&H2D7AA5&\blur3}A
+Dialogue: 0,0:03:32.23,0:03:37.99,block,,0,0,0,,{\pos(820.5,660)\fscx416.25\fscy1193.75\frz359.371\c&H404447&\fad(200,0)\clip(m 744 589.5 l 744 658.5 787.5 663 846 649.5 922.5 645 928.5 99 745.5 15)}A
+Dialogue: 0,0:03:43.29,0:03:51.29,block,,0,0,0,,{\pos(219,934.5)\fscx247.5\fscy147.5\frz13.661\c&H2D7AA5&\blur3}A
+Dialogue: 0,0:08:47.38,0:08:49.38,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
+Dialogue: 0,0:15:21.23,0:15:23.24,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
+Dialogue: 0,0:19:43.12,0:19:44.62,block,,0,0,0,,{\pos(1110,535.5)\fscx285\fscy420\c&HEAEFF7&\clip(m 1057.5 268.5 l 1101 289.5 1141.5 325.5 1180.5 403.5 1197 540 1086 523.5 1027.5 280.5)}A
+Dialogue: 0,0:19:43.12,0:19:44.62,block,,0,0,0,,{\pos(712.5,778.5)\fscx276.25\fscy522.5\frz13.99\c&HEAEFF7&\clip(m 711 588 l 645 507 585 483 520.5 489 666 780 814.5 720 780 640.5)}A
+Dialogue: 0,0:23:39.98,0:23:43.23,block,,0,0,0,,{\an9\pos(1066.833,104.1)\fscx182\fscy1406\c&H1A57D9&}A
+Dialogue: 0,0:23:39.98,0:23:43.23,block,,0,0,0,,{\an9\pos(960,100.5)\fscx182\fscy1406\c&H111612&}A
+Dialogue: 0,0:24:00.25,0:24:10.01,block,,0,0,0,,{\an9\pos(1391.1,104.1)\fscx182\fscy1506\c&H1A57D9&}A
+Dialogue: 0,0:24:00.25,0:24:10.01,block,,0,0,0,,{\an9\pos(741.6,108.6)\fscx182\fscy1506\c&H1A57D9&}A
+Dialogue: 0,0:24:00.25,0:24:10.01,block,,0,0,0,,{\an9\pos(1066.833,104.1)\fscx182\fscy1506\c&H1A57D9&}A
+Dialogue: 0,0:24:00.25,0:24:10.01,block,,0,0,0,,{\an9\pos(1285.5,106.5)\fscx182\fscy1506\c&H111612&}A
+Dialogue: 0,0:24:00.25,0:24:10.01,block,,0,0,0,,{\an9\pos(960,100.5)\fscx182\fscy1506\c&H111612&}A
+Dialogue: 0,0:24:00.25,0:24:10.01,block,,0,0,0,,{\an9\pos(634.5,108)\fscx182\fscy1506\c&H111612&}A
+Dialogue: 0,0:01:43.46,0:01:45.46,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Praise the Girl
+Dialogue: 0,0:02:57.41,0:03:12.38,brush1,,0,0,0,,{\pos(1093.5,633)\frz13.172\fs34.5\c&H0D3345&\be2}{TS 0301}{on the wooden plate}Piles{as in, hemorrhoids}{it repeats around 0350}
+Dialogue: 0,0:03:43.29,0:03:51.29,brush1,,0,0,0,,{\pos(219,924)\frz13.172\fs60\c&H0D3345&\be2}{TS 0301}{on the wooden plate}Piles{as in, hemorrhoids}{it repeats around 0350}
+Dialogue: 0,0:08:47.38,0:08:49.38,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Stylish Little Town{...}
+Dialogue: 0,0:15:21.23,0:15:23.24,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Farewell to Glasses
+Dialogue: 1,0:03:32.23,0:03:37.99,brush2,,0,0,0,,{\pos(762,355.5)\frz267.29\fry12\frx4\fs81\c&HA4A7AB&\be2\fad(200,0)}{TS 0332}{株価大暴落}Share Prices\NPlummet
+Dialogue: 0,0:08:43.42,0:08:47.38,brush2,,0,0,0,,{\pos(1114.5,201)\fnColaborate-Bold\fs51\fsp-3\b0\c&H545155&\3c&H545155&\be2}{TS 0843}Harajuku Station
+Dialogue: 0,0:12:18.34,0:12:20.80,brush2,,0,0,0,,{\pos(1093.5,882)\frz4.967\fnH_Kobato_Main\fs30\c&H383940&\3c&H383940&\be2}{TS 1220}Custard Choco Special
+Dialogue: 0,0:23:39.98,0:23:43.23,brush4,,0,0,0,,{\pos(957,581.5)\fscx450\fscy450\be2}Preview
+Dialogue: 0,0:24:00.25,0:24:10.01,brush4,,0,0,0,,{\pos(987,247.5)\fscx420\fscy420\be2\a6}Four Wows\NMusashi Scenery\NThe Servant's Vengeance
