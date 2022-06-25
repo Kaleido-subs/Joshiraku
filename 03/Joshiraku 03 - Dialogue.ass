@@ -58,8 +58,8 @@ Dialogue: 10,0:02:20.41,0:02:21.62,Default,,0,0,0,,{\an8\fad(0,200)}Huh?
 Dialogue: 10,0:02:20.41,0:02:21.62,Default,,34,366,0,,{\an4\fad(0,200)}Huh?
 Dialogue: 10,0:02:20.41,0:02:21.62,Default,,348,52,0,,{\an6\fad(0,200)}Huh?
 Dialogue: 10,0:02:20.41,0:02:21.62,Default,,0,0,0,,Huh?
-Dialogue: 10,0:02:21.62,0:02:24.00,Default,,0,0,0,,Delivery for you, Miss Marii!
-Dialogue: 10,0:02:28.04,0:02:31.76,Default,,0,0,0,,{\q2}Marii's the type of woman who \Ngets chocolate from other women.
+Dialogue: 10,0:02:21.62,0:02:24.00,Default,,0,0,0,,Delivery for one Miss Marii!
+Dialogue: 10,0:02:28.04,0:02:31.76,Default,,0,0,0,,{\q2}Marii's the type of woman \Nwho gets chocolate from other women.
 Dialogue: 10,0:02:31.76,0:02:34.30,Default,,0,0,0,,There's a Marii at every all-girls school.
 Dialogue: 10,0:02:34.30,0:02:36.76,Default,,0,0,0,,{\q2}I dunno if you'd call them dominant \Nor tomboys or what.
 Dialogue: 10,0:02:36.76,0:02:39.06,Default,,0,0,0,,{\q2}That doesn't account for getting \Nso many gifts, though.
@@ -72,11 +72,11 @@ Dialogue: 10,0:02:53.07,0:02:55.86,Default,,0,0,0,,Yeah, Marii doesn't look like
 Dialogue: 10,0:02:55.86,0:02:56.70,Default,,0,0,0,,Aw, Kigu!
 Dialogue: 10,0:02:56.70,0:02:59.03,Default,,0,0,0,,He's obviously taken a lot of care with his disguise.
 Dialogue: 10,0:02:59.24,0:03:00.91,Default,,0,0,0,,She's right.
-Dialogue: 10,0:03:00.91,0:03:02.83,Default,,0,0,0,,We shouldn't have said Marii looks like a boy.
+Dialogue: 10,0:03:00.91,0:03:02.83,Default,,0,0,0,,We shouldn't have said you look like a boy.
 Dialogue: 10,0:03:02.83,0:03:03.91,Default,,0,0,0,,Wait just a moment!
-Dialogue: 10,0:03:04.25,0:03:08.00,Default,,0,0,0,,{\q2}I'd rather you thought I was a boy than \Nyou thought I was a boy dressed as a girl!
+Dialogue: 10,0:03:04.25,0:03:08.00,Default,,0,0,0,,{\q2}I'd rather you thought I was a boy \Nthan that I was a boy dressed as a girl!
 Dialogue: 10,0:03:08.00,0:03:10.67,Default,,0,0,0,,I'm not a dude, and I'm not a cross-dresser!
-Dialogue: 10,0:03:10.67,0:03:13.97,Default,,0,0,0,,{\q2}Once you realise he's a boy, \Nit all starts to make sense.
+Dialogue: 10,0:03:10.67,0:03:13.97,Default,,0,0,0,,{\q2}Once you realise he's a boy, \Nall the puzzle pieces fall into place.
 Dialogue: 10,0:03:13.97,0:03:15.51,Default,,0,0,0,,The way he speaks is so aggressive.
 Dialogue: 10,0:03:15.51,0:03:18.14,Default,,0,0,0,,This is just how Tokyoites talk!
 Dialogue: 10,0:03:18.14,0:03:19.35,Default,,0,0,0,,You jerk!
@@ -85,7 +85,7 @@ Dialogue: 10,0:03:21.35,0:03:24.14,Default,,0,0,0,,{\q2}Did you don this Tokyoit
 Dialogue: 10,0:03:24.14,0:03:26.19,Default,,0,0,0,,I didn't don anything!
 Dialogue: 10,0:03:26.19,0:03:27.85,Default,,0,0,0,,Aren't we being a little cruel?
 Dialogue: 10,0:03:27.85,0:03:28.90,Default,,0,0,0,,Aw, Tetora!
-Dialogue: 10,0:03:28.90,0:03:33.11,Default,,0,0,0,,{\q2}Even if Marii is a boy, that doesn't mean \NI'm going to treat him any differently.
+Dialogue: 10,0:03:28.90,0:03:33.11,Default,,0,0,0,,{\q2}Even if Marii's a boy, that doesn't mean \NI'm going to treat him any differently.
 Dialogue: 10,0:03:33.78,0:03:37.20,Default,,0,0,0,,Marii is still Marii. That hasn't changed.
 Dialogue: 10,0:03:37.20,0:03:38.16,Default,,0,0,0,,Ugh, come on.
 Dialogue: 10,0:03:38.49,0:03:39.82,Default,,0,0,0,,You're right.
@@ -118,22 +118,22 @@ Dialogue: 10,0:04:05.52,0:04:07.19,Default,,0,0,0,,We don't doubt you.
 Dialogue: 10,0:04:07.19,0:04:09.40,Default,,0,0,0,,{\q2}If that's all you have to say, \Nyou've left me no choice.
 Dialogue: 10,0:04:09.40,0:04:11.94,Default,,0,0,0,,I'll prove once and for all that I'm a girl!
 Dialogue: 10,0:04:11.94,0:04:12.61,Default,,0,0,0,,Behold!
-Dialogue: 10,0:04:12.61,0:04:15.19,Default,,0,0,0,,Undressing like that is pretty masculine.
+Dialogue: 10,0:04:12.61,0:04:15.19,Default,,0,0,0,,Undressing like that is pretty masculine!
 Dialogue: 10,0:04:15.19,0:04:18.32,Default,,0,0,0,,{\q2}Yeah, a lady would never undress \Nout of the blue like that.
-Dialogue: 10,0:04:18.32,0:04:21.24,Default,,0,0,0,,{\q2}Then what's it gonna take to prove \Nto you that I'm a woman?
+Dialogue: 10,0:04:18.32,0:04:21.24,Default,,0,0,0,,{\q2}Then what's it gonna take \Nto prove to you that I'm a woman?
 Dialogue: 10,0:04:21.24,0:04:23.66,Default,,0,0,0,,How about showing us some ladylike behaviour?
 Dialogue: 10,0:04:23.91,0:04:25.75,Default,,0,0,0,,Ladylike behaviour?
 Dialogue: 10,0:04:29.87,0:04:31.79,Default,,0,0,0,,What kind of behaviour counts as ladylike?
 Dialogue: 10,0:04:31.79,0:04:33.75,Default,,0,0,0,,Hmm... For example...
 Dialogue: 10,0:04:33.75,0:04:35.25,Default,,0,0,0,,How about sitting like a lady?
 Dialogue: 10,0:04:39.47,0:04:40.64,Default,,0,0,0,,You can do it!
-Dialogue: 10,0:04:40.64,0:04:43.18,Default,,0,0,0,,Even {\i1}you{\i0} can sit in a ladylike way!
+Dialogue: 10,0:04:40.64,0:04:43.18,Default,,0,0,0,,Even {\i1}you{\i0} can sit like a lady!
 Dialogue: 10,0:04:43.18,0:04:44.60,Default,,0,0,0,,I-I know I can!
 Dialogue: 10,0:04:47.60,0:04:48.89,Default,,0,0,0,,There, I did it!
 Dialogue: 10,0:04:48.89,0:04:51.23,Default,,0,0,0,,Will you just admit I'm a girl already?
 Dialogue: 10,0:04:56.32,0:04:59.53,Default,,0,0,0,,{\q2}The inner thigh contains \Na great deal of potential energy.
 Dialogue: 10,0:04:59.53,0:05:01.36,Default,,0,0,0,,Seems like that was a little much.
-Dialogue: 10,0:05:01.36,0:05:04.41,Default,,0,0,0,,{\q2}Maybe sitting like a lady was \Ntoo high for the first hurdle?
+Dialogue: 10,0:05:01.36,0:05:04.41,Default,,0,0,0,,{\q2}Maybe sitting like a lady \Nwas too high for the first hurdle?
 Dialogue: 10,0:05:05.41,0:05:09.04,Default,,0,0,0,,Why don't we start with standing like a lady?
 Dialogue: 10,0:05:09.04,0:05:11.08,Default,,0,0,0,,Knees together, heels apart.
 Dialogue: 10,0:05:11.54,0:05:13.50,Default,,0,0,0,,Big toes pointing inward.
@@ -175,7 +175,7 @@ Dialogue: 10,0:06:21.03,0:06:21.07,Default,,0,0,21,,{\frx286}Like being quick to
 Dialogue: 10,0:06:21.90,0:06:22.95,Default,,0,0,0,,{\move(960,1024,2100,1024,640,860)}Cooking!
 Dialogue: 10,0:06:22.74,0:06:22.78,Default,,0,0,-44,,Piece o' cake!
 Dialogue: 10,0:06:22.78,0:06:23.40,Default,,0,0,0,,Piece o' cake!
-Dialogue: 10,0:06:23.70,0:06:26.45,Default,,0,0,0,,I'll stir up somethin' up for y'all scumbags!
+Dialogue: 10,0:06:23.70,0:06:26.45,Default,,0,0,0,,I'll stir up somethin' for y'all scumbags!
 Dialogue: 10,0:06:26.45,0:06:27.49,Default,,0,0,0,,{\move(960,1024,1859,1024,920,1030)}Entertaining guests.
 Dialogue: 10,0:06:27.70,0:06:28.95,Default,,0,0,0,,{\an8}Say "ho"!
 Dialogue: 10,0:06:30.12,0:06:31.45,Default,,0,0,0,,{\an8}Say "ho"!
@@ -187,9 +187,9 @@ Dialogue: 10,0:06:40.88,0:06:43.80,Default,,0,0,0,,Okay, okay. That I can do.
 Dialogue: 10,0:06:47.22,0:06:48.80,Default,,0,0,0,,Something's happening!
 Dialogue: 10,0:06:48.80,0:06:49.72,Default,,0,0,0,,A long time ago...
 Dialogue: 10,0:06:49.72,0:06:50.68,Default,,0,0,0,,He's got something!
-Dialogue: 10,0:06:51.06,0:06:52.60,Default,,0,0,0,,...in the third year of elementary school,
+Dialogue: 10,0:06:51.06,0:06:52.60,Default,,0,0,0,,...in my third year of elementary school,
 Dialogue: 10,0:06:53.02,0:06:57.40,Default,,0,0,0,,Hisamochi put eraser shavings in my school lunch.
-Dialogue: 10,0:06:57.40,0:06:59.07,Default,,0,0,0,,I'll never forgive him.
+Dialogue: 10,0:06:57.40,0:06:59.07,Default,,0,0,0,,I'll never forget.
 Dialogue: 10,0:06:59.07,0:07:00.78,Default,,0,0,0,,That's it! Keep going!
 Dialogue: 10,0:07:00.78,0:07:06.03,Default,,0,0,0,,{\q2}When I was in kindergarten, \NI was cast as a fairy in the school play.
 Dialogue: 10,0:07:06.03,0:07:09.16,Default,,0,0,0,,{\q2}But on the day of the performance, \NI had a fever and had to stay home.
@@ -197,7 +197,7 @@ Dialogue: 10,0:07:09.16,0:07:10.70,Default,,0,0,0,,Always the same story.
 Dialogue: 10,0:07:10.70,0:07:12.70,Default,,0,0,0,,Always a victim of bad luck.
 Dialogue: 10,0:07:12.70,0:07:15.33,Default,,0,0,0,,I wanted to be a fairy, dammit!
 Dialogue: 10,0:07:15.33,0:07:18.58,Default,,0,0,0,,{\q2}This is less like feminine complaining \Nand more like drunken muttering.
-Dialogue: 10,0:07:18.58,0:07:23.30,Default,,0,0,0,,{\q2}He's harping on about past incidents alright, \Nbut he seems more like an old guy in a pub.
+Dialogue: 10,0:07:18.58,0:07:23.30,Default,,0,0,0,,{\q2}He's harping on about past incidents all right, \Nbut he seems more like an old guy in a pub.
 Dialogue: 10,0:07:24.30,0:07:26.26,Default,,0,0,0,,Everyone is so rude.
 Dialogue: 10,0:07:26.26,0:07:28.76,Default,,0,0,0,,Nobody understands me.
 Dialogue: 10,0:07:29.76,0:07:32.26,Default,,0,0,0,,I judge the defendant just about ladylike.
@@ -208,7 +208,7 @@ Dialogue: 10,0:07:40.36,0:07:42.44,Default,,0,0,0,,Y-You've got a good memory.
 Dialogue: 10,0:07:42.44,0:07:44.11,Default,,0,0,0,,Three days after I was born!
 Dialogue: 10,0:07:44.11,0:07:50.49,Default,,0,0,0,,{\q2}While holding me, the nurse surreptitiously \Nswitched me for the baby next to me.
 Dialogue: 10,0:07:51.24,0:07:54.33,Default,,0,0,0,,Swine of a duke! How dare you, Pierre!
-Dialogue: 10,0:07:54.33,0:07:55.62,Default,,0,0,0,,This is unforgivable!
+Dialogue: 10,0:07:54.33,0:07:55.62,Default,,0,0,0,,This transgression has gone too far!
 Dialogue: 10,0:07:55.62,0:07:57.62,Default,,0,0,0,,Everyone, after me!
 Dialogue: 10,0:07:57.62,0:07:59.79,Default,,0,0,0,,To the Bastille!
 Dialogue: 10,0:08:00.00,0:08:02.21,Default,,0,0,0,,Marii's regressed to a former life!
@@ -216,7 +216,7 @@ Dialogue: 10,0:08:02.21,0:08:03.50,Default,,0,0,0,,Maybe this {\i1}is{\i0} ladyl
 Dialogue: 10,0:08:03.50,0:08:04.46,Default,,0,0,0,,Who are you?
 Dialogue: 10,0:08:04.71,0:08:08.47,Default,,0,0,0,,{\q2}Captain of the Imperial Guard, \Nliving in 18th century Paris!
 Dialogue: 10,0:08:08.47,0:08:10.68,Default,,0,0,0,,So you were a guy in your past life? Figures.
-Dialogue: 10,0:08:11.72,0:08:14.81,Default,,0,0,0,,{\q2}What about trying the complete \Nopposite of manly behaviour?
+Dialogue: 10,0:08:11.72,0:08:14.81,Default,,0,0,0,,{\q2}What about trying the complete opposite \Nof manly behaviour?
 Dialogue: 10,0:08:14.81,0:08:15.81,Default,,0,0,0,,Meaning?
 Dialogue: 10,0:08:15.81,0:08:19.27,Default,,0,0,0,,{\q2}Hmm, they say the manly pursuits \Nare drinking, spending, and partying.
 Dialogue: 10,0:08:19.27,0:08:20.94,Default,,0,0,0,,Drinking, spending, and partying?
@@ -232,11 +232,11 @@ Dialogue: 10,0:08:38.21,0:08:38.96,Default,,0,0,0,,There's only one option.
 Dialogue: 10,0:08:39.42,0:08:42.00,Default,,0,0,0,,Marii, let's take a bath.
 Dialogue: 10,0:08:42.00,0:08:44.04,Default,,0,0,0,,That'll get us all the proof we need.
 Dialogue: 10,0:09:00.06,0:09:01.44,Default,,0,0,0,,I have to say...
-Dialogue: 10,0:09:01.44,0:09:03.98,Default,,0,0,0,,In the end, I'd say neither "man" nor "woman" fits you.
-Dialogue: 10,0:09:03.98,0:09:05.15,Default,,0,0,0,,But "child" is perfect.
+Dialogue: 10,0:09:01.44,0:09:03.98,Default,,0,0,0,,I'd say neither "man" nor "woman" fits you,
+Dialogue: 10,0:09:03.98,0:09:05.15,Default,,0,0,0,,but "child" is perfect.
 Dialogue: 10,0:09:09.45,0:09:10.99,Default,,0,0,0,,It's Asakusa!
 Dialogue: 10,0:09:10.99,0:09:12.95,Default,,0,0,0,,Now that's a big-ass lantern.
-Dialogue: 10,0:09:13.28,0:09:16.16,Default,,0,0,0,,I feel like this is gonna be a blessed day.
+Dialogue: 10,0:09:13.28,0:09:16.16,Default,,0,0,0,,I feel like today is gonna be a blessed day.
 Dialogue: 10,0:09:16.16,0:09:22.29,Default,,0,0,0,,{\q2}The Kaminarimon gate and the lantern \Nwere donated in 1960 by Konosuke Matsushita.
 Dialogue: 10,0:09:28.13,0:09:30.67,Default,,0,0,0,,There sure are a lot of foreigners here.
 Dialogue: 10,0:09:30.67,0:09:33.34,Default,,0,0,0,,I guess this is a sight you can only see in Japan.
@@ -262,33 +262,32 @@ Dialogue: 10,0:10:29.90,0:10:32.24,Default,,0,0,0,,Kaminarimon leads to Sensouji
 Dialogue: 10,0:10:32.24,0:10:36.87,Default,,0,0,0,,{\q2}The Arc de Triomphe isn't so much in front of \Nsomething as behind or after something.
 Dialogue: 10,0:10:36.87,0:10:37.74,Default,,0,0,0,,After?
 Dialogue: 10,0:10:37.74,0:10:40.62,Default,,0,0,0,,Originally, after winning a victory,
-Dialogue: 10,0:10:40.62,0:10:45.29,Default,,0,0,0,,{\q2}armies would march through the gate as \Na celebration or to mark the anniversary.
+Dialogue: 10,0:10:40.62,0:10:45.29,Default,,0,0,0,,{\q2}armies would march through the gate \Nas a celebration or to mark the anniversary.
 Dialogue: 10,0:10:46.50,0:10:48.54,Default,,0,0,0,,So... that was enough to make them happy?
 Dialogue: 10,0:10:49.21,0:10:50.80,Default,,0,0,0,,Just... passing through the gate?
 Dialogue: 10,0:10:50.80,0:10:55.18,Default,,0,0,0,,{\q2}It reminds me of those gates they have \Nto enter and exit a sports festival.
-Dialogue: 10,0:11:01.31,0:11:03.81,Default,,0,0,0,,{\q2}In other words, it makes you feel like \Nyou're done and you can have a rest?
+Dialogue: 10,0:11:01.31,0:11:03.81,Default,,0,0,0,,{\q2}In other words, it makes you feel like \Nyou're done and can go rest?
 Dialogue: 10,0:11:03.81,0:11:05.14,Default,,0,0,0,,Yes, I suppose so.
-Dialogue: 10,0:11:05.44,0:11:08.11,Default,,0,0,0,,It sounds kind of anticlimactic.
+Dialogue: 10,0:11:05.44,0:11:08.11,Default,,0,0,0,,That sounds kinda anticlimactic.
 Dialogue: 10,0:11:08.44,0:11:10.61,Default,,0,0,0,,Well, I guess it depends on how you're feeling.
 Dialogue: 10,0:11:10.61,0:11:13.49,Default,,0,0,0,,Oh, hey. Shall we take a photo together?
 Dialogue: 10,0:11:13.49,0:11:15.45,Default,,0,0,0,,Yeah, good idea!
 Dialogue: 10,0:11:19.70,0:11:22.08,Default,,0,0,0,,Why are people covering themselves in smoke?
-Dialogue: 10,0:11:22.08,0:11:25.83,Default,,0,0,0,,They say that the smoke will help fix your bad points.
+Dialogue: 10,0:11:22.08,0:11:25.83,Default,,0,0,0,,They say the smoke will help fix your bad points.
 Dialogue: 10,0:11:25.83,0:11:27.42,Default,,0,0,0,,Bad points, eh?
-Dialogue: 10,0:11:30.25,0:11:32.13,Default,,0,0,0,,Then I don't need to do it.
+Dialogue: 10,0:11:30.25,0:11:32.13,Default,,0,0,0,,Then I don't need it.
 Dialogue: 10,0:11:32.13,0:11:34.17,Default,,0,0,0,,There ain't nothing wrong with me.
 Dialogue: 10,0:11:34.59,0:11:37.34,Default,,0,0,0,,Saying that is a sign of a bad character.
-Dialogue: 10,0:11:37.34,0:11:39.30,Default,,0,0,0,,The way you said it leaves a lot to be desired, too.
-Dialogue: 10,0:11:39.30,0:11:40.68,Default,,0,0,0,,And you have poor fashion sense.
+Dialogue: 10,0:11:37.34,0:11:39.30,Default,,0,0,0,,That delivery leaves a lot to be desired, too.
+Dialogue: 10,0:11:39.30,0:11:40.68,Default,,0,0,0,,You also have poor fashion sense.
 Dialogue: 10,0:11:40.68,0:11:41.97,Default,,0,0,0,,What the—
 Dialogue: 10,0:11:40.68,0:11:41.97,Alt,,0,0,0,,I don't think—
 Dialogue: 10,0:11:43.06,0:11:44.35,Default,,0,0,0,,I don't think—
 Dialogue: 10,0:11:43.06,0:11:44.35,Alt,,0,0,0,,What the—
-Dialogue: 10,0:11:45.31,0:11:46.81,Default,,0,0,0,,Plus your timing is terrible.
+Dialogue: 10,0:11:45.31,0:11:46.81,Default,,0,0,0,,Add terrible timing to that.
 Dialogue: 10,0:11:47.52,0:11:50.69,Default,,0,0,0,,She's watching us very awkwardly.
 Dialogue: 10,0:11:51.77,0:11:55.36,Default,,0,0,0,,I get it, I get it! I'll put my head in the stupid smoke!
-Dialogue: 10,0:12:13.21,0:12:15.80,Default,,0,0,0,,{\q2}So how do you pronounce it? \NSensouji or Asakusa Temple?
-Dialogue: 10,0:12:15.80,0:12:16.97,Default,,0,0,0,,Which is right?
+Dialogue: 10,0:12:13.21,0:12:16.97,Default,,0,0,0,,{\q2}So, how do you pronounce it? \NSensouji or Asakusa Temple?
 Dialogue: 10,0:12:16.97,0:12:18.05,Default,,0,0,0,,Sensouji.
 Dialogue: 10,0:12:18.05,0:12:20.59,Default,,0,0,0,,But the station is called Asakusa. Isn't that confusing?
 Dialogue: 10,0:12:20.59,0:12:23.14,Default,,0,0,0,,And it's Kaminarimon when you'd expect it to be Raimon.
@@ -303,13 +302,13 @@ Dialogue: 10,0:12:43.95,0:12:46.58,Default,,0,0,0,,{\q2}Likewise, if you remove 
 Dialogue: 10,0:12:46.58,0:12:48.54,Default,,0,0,0,,But you add "ji" and suddenly it's "kokubun".
 Dialogue: 10,0:12:48.75,0:12:50.83,Default,,0,0,0,,Kisshou and Kokubun are just fine!
 Dialogue: 10,0:12:50.83,0:12:52.21,Default,,0,0,0,,They should make up their damn minds!
-Dialogue: 10,0:12:52.21,0:12:54.75,Default,,0,0,0,,I hate it when things aren't clear.
+Dialogue: 10,0:12:52.21,0:12:54.75,Default,,0,0,0,,I hate it when things are unclear.
 Dialogue: 10,0:12:54.75,0:12:56.67,Default,,0,0,0,,Shall we go make things clear?
 Dialogue: 10,0:13:01.55,0:13:02.93,Default,,0,0,0,,Number 64!
 Dialogue: 10,0:13:04.14,0:13:05.35,Default,,0,0,0,,Unlucky?!
 Dialogue: 10,0:13:05.76,0:13:07.39,Default,,0,0,0,,How'd you guys do?
 Dialogue: 10,0:13:07.39,0:13:08.60,Default,,0,0,0,,I got a slighty lucky!
-Dialogue: 10,0:13:10.85,0:13:11.73,Default,,0,0,0,,What about you?
+Dialogue: 10,0:13:10.85,0:13:11.73,Default,,0,0,0,,And you?
 Dialogue: 10,0:13:11.73,0:13:12.44,Default,,0,0,0,,Unlucky.
 Dialogue: 10,0:13:13.19,0:13:14.19,Default,,0,0,0,,What about you, Kukuru?
 Dialogue: 10,0:13:14.94,0:13:15.90,Default,,0,0,0,,Very unlucky.
@@ -319,7 +318,7 @@ Dialogue: 10,0:13:21.24,0:13:24.49,Default,,0,0,0,,{\q2}"Lost items will never b
 Dialogue: 10,0:13:24.49,0:13:27.95,Default,,0,0,0,,{\q2}"Business will be poor", \N"Travel will be postponed"...
 Dialogue: 10,0:13:29.71,0:13:31.50,Default,,0,0,0,,Everything's going to go poorly!
 Dialogue: 10,0:13:32.33,0:13:33.83,Default,,0,0,0,,Don't sweat it!
-Dialogue: 10,0:13:33.83,0:13:37.55,Default,,0,0,0,,{\q2}Sensouji is famous for giving out \Na lot of unlucky fortunes.
+Dialogue: 10,0:13:33.83,0:13:37.55,Default,,0,0,0,,{\q2}Sensouji is infamous for giving out \Na lot of unlucky fortunes.
 Dialogue: 10,0:13:37.55,0:13:40.59,Default,,0,0,0,,{\q2}Isn't making people feel crappy \Nthe opposite of what a temple should do?
 Dialogue: 10,0:13:40.59,0:13:45.97,Default,,0,0,0,,{\q2}It's not so much that as helping people \Nbe careful before they make any mistakes.
 Dialogue: 10,0:13:45.97,0:13:47.22,Default,,0,0,0,,I see...
@@ -332,17 +331,17 @@ Dialogue: 10,0:14:01.36,0:14:04.82,Default,,0,0,0,,{\q2}"Your wishes will come t
 Dialogue: 10,0:14:04.82,0:14:09.37,Default,,0,0,0,,{\q2}"The person you await will arrive soon", \N"You will overcome any conflict"...
 Dialogue: 10,0:14:12.12,0:14:15.08,Default,,0,0,0,,You won't get the luck if you don't work hard for it.
 Dialogue: 10,0:14:15.08,0:14:16.59,Default,,0,0,0,,So it's not a sure thing!
-Dialogue: 10,0:14:16.59,0:14:20.34,Default,,0,0,0,,{\q2}Fine, then why don't you share \Nsome of that good luck around?
+Dialogue: 10,0:14:16.59,0:14:20.34,Default,,0,0,0,,{\q2}Fine, then why don't you \Nshare some of that good luck around?
 Dialogue: 10,0:14:20.84,0:14:22.17,Default,,0,0,0,,Cheers!
 Dialogue: 10,0:14:24.55,0:14:27.93,Default,,0,0,0,,Ah! Tastes so much better when it's free!
 Dialogue: 10,0:14:27.93,0:14:29.60,Default,,0,0,0,,That was a very Marii thing to say.
 Dialogue: 10,0:14:29.60,0:14:32.31,Default,,0,0,0,,So sharing good luck means treating you to a drink?
 Dialogue: 10,0:14:32.31,0:14:36.27,Default,,0,0,0,,Don't sweat it! "Your business will thrive", y'know!
-Dialogue: 10,0:14:36.27,0:14:39.11,Default,,0,0,0,,I hope all your other predictions come true, too.
+Dialogue: 10,0:14:36.27,0:14:39.11,Default,,0,0,0,,I hope all your other predictions come true.
 Dialogue: 10,0:14:39.11,0:14:41.78,Default,,0,0,0,,No way! I'm sure they won't!
 Dialogue: 10,0:14:41.78,0:14:44.53,Default,,0,0,0,,Here are your tripe stew and miso cucumber!
 Dialogue: 10,0:14:44.95,0:14:45.99,Default,,0,0,0,,It came true!
-Dialogue: 10,0:14:45.99,0:14:48.20,Default,,0,0,0,,{\q2}It's not an awaited person, but it's definitely \Nsomething we were waiting for.
+Dialogue: 10,0:14:45.99,0:14:48.20,Default,,0,0,0,,{\q2}It's not an awaited person, but {\i1}definitely{\i0} \Nsomething we were waiting for!
 Dialogue: 10,0:14:48.20,0:14:50.58,Default,,0,0,0,,I think you dropped this, miss.
 Dialogue: 10,0:14:51.12,0:14:52.12,Default,,0,0,0,,The lost item!
 Dialogue: 10,0:14:52.12,0:14:53.62,Default,,0,0,0,,That's "very lucky" for you!
@@ -350,7 +349,7 @@ Dialogue: 10,0:14:53.62,0:14:55.96,Default,,0,0,0,,And it seems to have transfer
 Dialogue: 10,0:14:55.96,0:14:56.92,Default,,0,0,0,,Wow!
 Dialogue: 10,0:14:56.92,0:15:00.59,Default,,0,0,0,,O Lucky One, grant me good fortune!
 Dialogue: 10,0:15:00.59,0:15:03.22,Default,,0,0,0,,I don't think it works like that!
-Dialogue: 10,0:15:07.14,0:15:10.06,Default,,0,0,0,,But... it {\i1}does{\i0} look like you've been blessed from above.
+Dialogue: 10,0:15:06.72,0:15:10.06,Default,,0,0,0,,But... it {\i1}does{\i0} look like you've been blessed from above.
 Dialogue: 10,0:15:19.73,0:15:23.74,Default,,0,0,0,,It's as if she were a shoreline protected by tetrapods.
 Dialogue: 10,0:15:23.74,0:15:26.20,Default,,0,0,0,,She always comes out of any situation unscathed.
 Dialogue: 10,0:15:27.28,0:15:28.66,Default,,0,0,0,,What's her secret?
@@ -362,17 +361,17 @@ Dialogue: 10,0:15:38.33,0:15:39.17,Default,,0,0,0,,Mosquito?!
 Dialogue: 10,0:15:39.17,0:15:42.00,Default,,0,0,0,,Someone left the window open.
 Dialogue: 10,0:15:51.05,0:15:51.60,Default,,0,0,0,,Mosquito.
 Dialogue: 10,0:15:53.72,0:15:54.39,Default,,0,0,0,,Ah, now—
-Dialogue: 10,0:15:54.39,0:15:54.47,Default,,0,0,0,,{\clip(m 850.5 954 b 865.5 960 885 969 900 976.5 939 996 1000.5 1030.5 1014 1044 l 1164 1033.5 1171.5 942)}Ah, now—
-Dialogue: 10,0:15:54.47,0:15:54.56,Default,,0,0,0,,{\clip(m 802.5 946.5 l 918 951 b 915 960 909 976.5 910.5 990 918 1014 922.5 1042.5 927 1060.5 l 754.5 1029)}Ah, now—
-Dialogue: 11,0:15:54.64,0:15:54.68,Default,,255,145,108,,{\fry328\frx34\bord0\blur3\clip(m 915 915 l 1114.5 904.5 b 1120.5 930 1156.5 961.5 1176 972 l 895.5 1008)}Ah, now—
-Dialogue: 10,0:15:54.64,0:15:54.68,Default,,255,145,108,,{\fry328\frx34\1a&H80&\blur3\clip(m 915 915 l 1114.5 904.5 b 1120.5 930 1156.5 961.5 1176 972 l 895.5 1008)}Ah, now—
+Dialogue: 10,0:15:54.39,0:15:54.47,Default,,0,0,0,,{\clip(m 851 954 b 866 960 885 969 900 977 939 996 1001 1031 1014 1044 l 1164 1034 1172 942)}Ah, now—
+Dialogue: 10,0:15:54.47,0:15:54.56,Default,,0,0,0,,{\clip(m 803 947 l 918 951 b 915 960 909 977 911 990 918 1014 923 1043 927 1061 l 755 1029)}Ah, now—
+Dialogue: 11,0:15:54.64,0:15:54.68,Default,,255,145,108,,{\fry328\frx34\bord0\blur3\clip(m 915 915 l 1115 905 b 1121 930 1157 962 1176 972 l 896 1008)}Ah, now—
+Dialogue: 10,0:15:54.64,0:15:54.68,Default,,255,145,108,,{\fry328\frx34\1a&H80&\blur3\clip(m 915 915 l 1115 905 b 1121 930 1157 962 1176 972 l 896 1008)}Ah, now—
 Dialogue: 11,0:15:54.68,0:15:54.73,Default,,400,0,185,,{\fry322\frx52\bord0\blur1.5}Ah, now—
 Dialogue: 10,0:15:54.68,0:15:54.73,Default,,400,0,185,,{\fry322\frx52\1a&H80&\blur1.5}Ah, now—
-Dialogue: 11,0:15:54.73,0:15:54.77,Default,,469,-69,214,,{\fry322\frx56\bord0\blur1.5\clip(m 1138.5 811.5 l 1299 816 b 1287 838.5 1267.5 883.5 1260 907.5 l 1105.5 874.5)}Ah, now—
-Dialogue: 10,0:15:54.73,0:15:54.77,Default,,469,-69,214,,{\fry322\frx56\1a&H80&\blur1.5\clip(m 1138.5 811.5 l 1299 816 b 1287 838.5 1267.5 883.5 1260 907.5 l 1105.5 874.5)}Ah, now—
-Dialogue: 11,0:15:54.77,0:15:54.81,Default,,569,-169,204,,{\fry316\frx62\bord0\blur1.5\clip(m 1138.5 811.5 l 1342.5 816 b 1336.5 856.5 1293 912 1293 933 l 1105.5 874.5)}Ah, now—
-Dialogue: 10,0:15:54.77,0:15:54.81,Default,,569,-169,204,,{\fry316\frx62\1a&H80&\blur1.5\clip(m 1138.5 811.5 l 1342.5 816 b 1336.5 856.5 1293 912 1293 933 l 1105.5 874.5)}Ah, now—
-Dialogue: 10,0:15:54.81,0:15:54.85,Default,,612,-212,173,,{\fry314\frx58\blur3\clip(m 1138.5 811.5 l 1357.5 820.5 b 1336.5 868.5 1293 912 1300.5 940.5 l 1105.5 874.5)}Ah, now—
+Dialogue: 11,0:15:54.73,0:15:54.77,Default,,469,-69,214,,{\fry322\frx56\bord0\blur1.5\clip(m 1139 812 l 1299 816 b 1287 839 1268 884 1260 908 l 1106 875)}Ah, now—
+Dialogue: 10,0:15:54.73,0:15:54.77,Default,,469,-69,214,,{\fry322\frx56\1a&H80&\blur1.5\clip(m 1139 812 l 1299 816 b 1287 839 1268 884 1260 908 l 1106 875)}Ah, now—
+Dialogue: 11,0:15:54.77,0:15:54.81,Default,,569,-169,204,,{\fry316\frx62\bord0\blur1.5\clip(m 1139 812 l 1343 816 b 1337 857 1293 912 1293 933 l 1106 875)}Ah, now—
+Dialogue: 10,0:15:54.77,0:15:54.81,Default,,569,-169,204,,{\fry316\frx62\1a&H80&\blur1.5\clip(m 1139 812 l 1343 816 b 1337 857 1293 912 1293 933 l 1106 875)}Ah, now—
+Dialogue: 10,0:15:54.81,0:15:54.85,Default,,612,-212,173,,{\fry314\frx58\blur3\clip(m 1139 812 l 1358 821 b 1337 869 1293 912 1301 941 l 1106 875)}Ah, now—
 Dialogue: 10,0:15:57.27,0:15:58.48,Default,,0,0,0,,A feint, huh?
 Dialogue: 10,0:15:59.44,0:16:01.52,Default,,0,0,0,,I dunno if this is still 'bout mosquitoes or what,
 Dialogue: 10,0:16:01.52,0:16:05.74,Default,,0,0,0,,{\q2}but nobody smacks me around \Nand gets away with it.
@@ -392,7 +391,7 @@ Dialogue: 10,0:16:53.91,0:16:56.12,Default,,0,0,0,,Fall, fall, snow, snow!
 Dialogue: 10,0:16:56.12,0:16:58.21,Default,,0,0,0,,Fall, fall, hail, hail!
 Dialogue: 10,0:17:01.29,0:17:04.13,Default,,0,0,0,,Even if everyone else around her suffered,
 Dialogue: 10,0:17:06.59,0:17:10.01,Default,,0,0,0,,she'd somehow always come out unscathed.
-Dialogue: 10,0:17:10.30,0:17:12.26,Default,,0,0,0,,Ah, we're gonna be late!
+Dialogue: 10,0:17:10.30,0:17:12.26,Default,,0,0,0,,Oh, no! We're gonna be late!
 Dialogue: 10,0:17:23.19,0:17:27.57,Default,,0,0,0,,{\q2}Due to a signal failure, we are temporarily \Nsuspending service on this line.
 Dialogue: 10,0:17:38.08,0:17:40.75,Default,,0,0,0,,{\q2}One way or another, she's always \Nbeen blessed with good fortune.
 Dialogue: 10,0:17:40.75,0:17:42.71,Default,,0,0,0,,Don't be so silly!
@@ -424,7 +423,7 @@ Dialogue: 10,0:18:51.11,0:18:53.70,Default,,0,0,0,,Analoguma didn't really do hi
 Dialogue: 10,0:18:53.70,0:18:57.28,Default,,0,0,0,,{\q2}Chidejika must have gotten tired of \Ngetting in and out of that swimsuit he wears.
 Dialogue: 10,0:18:57.28,0:18:58.78,Default,,0,0,0,,You're thinking of someone else.
 Dialogue: 10,0:18:58.78,0:19:02.29,Default,,0,0,0,,Okay. Forget all this digital talk.
-Dialogue: 10,0:19:02.29,0:19:05.58,Default,,0,0,0,,{\q2}The key here is the disposition that \Nallows her to put up with this old analogue tuner.
+Dialogue: 10,0:19:02.29,0:19:05.58,Default,,0,0,0,,{\q2}The key here is the disposition that allows her \Nto put up with this old analogue tuner.
 Dialogue: 10,0:19:05.58,0:19:07.67,Default,,0,0,0,,In other words, we must treasure what we have.
 Dialogue: 10,0:19:07.67,0:19:09.75,Default,,0,0,0,,Isn't that worthy behaviour?
 Dialogue: 10,0:19:09.75,0:19:11.21,Default,,0,0,0,,Hmm. I see.
@@ -432,16 +431,16 @@ Dialogue: 10,0:19:11.21,0:19:12.76,Default,,0,0,0,,I've got that TV here.
 Dialogue: 10,0:19:12.76,0:19:13.80,Default,,0,0,0,,You stole it?!
 Dialogue: 10,0:19:13.80,0:19:15.59,Default,,0,0,0,,Is my reputation {\i1}that{\i0} bad?
 Dialogue: 10,0:19:15.59,0:19:17.05,Default,,0,0,0,,I got permission, don't you worry.
-Dialogue: 10,0:19:17.59,0:19:20.14,Default,,0,0,0,,{\q2}My TV? Sure! It probably doesn't \Nhave much longer anyway.
+Dialogue: 10,0:19:17.34,0:19:20.14,Default,,0,0,0,,{\q2}My TV? Sure! It probably doesn't \Nhave much longer anyway.
 Dialogue: 10,0:19:20.14,0:19:23.60,Default,,0,0,0,,{\q2}Now we just watch this and \Nwait for the divine blessings to roll in.
 Dialogue: 10,0:19:26.56,0:19:27.56,Default,,0,0,0,,What the hell?!
 Dialogue: 10,0:19:27.56,0:19:29.77,Default,,0,0,0,,I don't feel very blessed!
 Dialogue: 10,0:19:30.61,0:19:32.82,Default,,0,0,0,,So it finally broke, huh?
-Dialogue: 10,0:19:34.07,0:19:37.11,Default,,0,0,0,,{\q2}About a week ago it started making \Nthis weird buzzing sound.
+Dialogue: 10,0:19:34.07,0:19:37.11,Default,,0,0,0,,{\q2}It started making this weird \Nbuzzing sound about a week ago.
 Dialogue: 10,0:19:41.03,0:19:43.12,Default,,0,0,0,,Who in their right mind would bring that 'ere?!
 Dialogue: 10,0:19:43.12,0:19:44.83,Default,,0,0,0,,I tried to stop her.
 Dialogue: 10,0:19:44.83,0:19:46.04,Default,,0,0,0,,Wait.
-Dialogue: 10,0:19:46.04,0:19:50.46,Default,,0,0,0,,{\q2}So... by all rights, it should have \Nblown up at Tetora's place?
+Dialogue: 10,0:19:46.04,0:19:50.46,Default,,0,0,0,,By all rights, it should have blown up at Tetora's place?
 Dialogue: 10,0:19:52.09,0:19:54.71,Default,,0,0,0,,{\i1}What kind of abnormal ability is this?
 Dialogue: 10,0:19:54.97,0:19:57.30,Default,,0,0,0,,I'm sticking with you from now on.
 Dialogue: 10,0:19:57.30,0:20:01.14,Default,,0,0,0,,Right behind you is the safest place to be.
