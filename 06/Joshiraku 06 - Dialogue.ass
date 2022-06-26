@@ -32,7 +32,7 @@ Comment: 0,0:11:44.02,0:11:44.02,Default,chapter,0,0,0,,{Part C}
 Comment: 0,0:22:09.98,0:22:09.98,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:35.38,0:22:35.38,Default,,0,0,0,edsync,{ED}
 Comment: 0,0:23:39.98,0:23:39.98,Default,chapter,0,0,0,,{Preview}
-Dialogue: 10,0:01:30.40,0:01:33.74,Default,,0,0,0,,"Pickled plum onigiri really {\i1}are{\i0} the best."
+Dialogue: 10,0:01:30.40,0:01:33.74,Default,,0,0,0,,"Pickled plum rice balls really {\i1}are{\i0} the best."
 Dialogue: 10,0:01:33.74,0:01:37.33,Default,,0,0,0,,"Only because you make them, Granny."
 Dialogue: 10,0:01:37.99,0:01:40.08,Default,,0,0,0,,Thank you for your continued patronage.
 Dialogue: 10,0:01:48.88,0:01:50.80,Default,,0,0,0,,Ah, it's freezing!
@@ -44,9 +44,9 @@ Dialogue: 10,0:01:59.68,0:02:01.23,Default,,0,0,0,,Snore, and you sleep alone...
 Dialogue: 10,0:02:01.56,0:02:06.27,Default,,0,0,0,,{\q2}Now that Gan's graduated from the group, \Nlet's try our very best as a quartet!
 Dialogue: 10,0:02:06.27,0:02:07.32,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:02:07.32,0:02:09.73,Default,,0,0,0,,Anybody want a mandarin?
-Dialogue: 10,0:02:09.73,0:02:11.90,Default,,0,0,0,,A kotatsu and mandarins!
+Dialogue: 10,0:02:09.73,0:02:11.90,Default,,0,0,0,,A hot blanket and mandarins!
 Dialogue: 10,0:02:11.90,0:02:14.24,Default,,0,0,0,,This is perfect for the four of us.
-Dialogue: 10,0:02:14.24,0:02:16.57,Default,,0,0,0,,Each of us gets their own side of the kotatsu.
+Dialogue: 10,0:02:14.24,0:02:16.57,Default,,0,0,0,,Each of us gets their own side.
 Dialogue: 10,0:02:16.57,0:02:20.54,Default,,0,0,0,,Someone gifted me some cake. Want some?
 Dialogue: 10,0:02:23.92,0:02:26.17,Default,,0,0,0,,It cuts so neatly into four.
 Dialogue: 10,0:02:32.09,0:02:33.88,Default,,0,0,0,,Feels like a perfect fit!
@@ -81,7 +81,7 @@ Dialogue: 10,0:03:47.62,0:03:49.71,Default,,0,0,0,,One {\i1}four{\i0} all, all {
 Dialogue: 10,0:03:49.71,0:03:51.42,Default,,0,0,0,,This is fun.
 Dialogue: 10,0:03:51.42,0:03:53.42,Default,,0,0,0,,There are a lot of words with "four" in them!
 Dialogue: 10,0:03:53.42,0:03:55.30,Default,,0,0,0,,"Four" the best!
-Dialogue: 10,0:03:57.63,0:04:00.76,Default,,0,0,0,,{\q2}We've kinda strayed away from \Nthe actual number, though.
+Dialogue: 10,0:03:57.63,0:04:00.76,Default,,0,0,0,,{\q2}We've kinda strayed away \Nfrom the actual number, though.
 Dialogue: 10,0:04:00.76,0:04:04.47,Default,,0,0,0,,{\q2\2q}Oh yeah, we were talking about \Nhow neat of a number it is.
 Dialogue: 10,0:04:04.47,0:04:08.56,Default,,0,0,0,,{\q2}Ooh, ooh! Let's come up with some things \Nwe can only do now that there's four of us!
 Dialogue: 10,0:04:09.73,0:04:12.32,Default,,0,0,0,,So, what kinda things are there?
@@ -107,16 +107,16 @@ Dialogue: 10,0:04:53.86,0:04:55.32,Default,,0,0,0,,That was godawful.
 Dialogue: 10,0:04:55.32,0:04:57.32,Default,,0,0,0,,Then don't make me do it!
 Dialogue: 10,0:04:58.82,0:05:01.11,Default,,0,0,0,,The four of us are having a great time!
 Dialogue: 10,0:05:01.11,0:05:03.45,Default,,0,0,0,,I'm so happy we're a group of four!
-Dialogue: 10,0:05:03.45,0:05:09.04,Default,,0,0,0,,{\q2}If we were a group of five, the pressure \Nof our collective responsibility would take its toll.
+Dialogue: 10,0:05:03.45,0:05:09.04,Default,,0,0,0,,{\q2}If we were a group of five, the pressure of \Nour collective responsibility would take its toll.
 Dialogue: 10,0:05:09.04,0:05:11.25,Default,,0,0,0,,That {\i1}does{\i0} always seem to be the case for singers.
 Dialogue: 10,0:05:11.54,0:05:14.63,Default,,0,0,0,,{\q2}Whenever there's a scandal, \Nit's always a five-man group.
 Dialogue: 10,0:05:14.63,0:05:16.71,Default,,0,0,0,,Surveys with Likert scales are annoying, too.
 Dialogue: 10,0:05:17.09,0:05:20.30,Default,,0,0,0,,The Japanese national census is once every five years.
 Dialogue: 10,0:05:20.68,0:05:22.55,Default,,0,0,0,,I tried the 5:2 diet and it was horrible.
-Dialogue: 10,0:05:24.89,0:05:28.93,Default,,0,0,0,,F-Forget five. Let's do something fun for the four of us.
+Dialogue: 10,0:05:24.64,0:05:28.52,Default,,0,0,0,,F-Forget five. Let's do something fun for the four of us.
 Dialogue: 10,0:05:28.93,0:05:29.93,Default,,0,0,0,,Ta-dah!
 Dialogue: 10,0:05:31.27,0:05:32.35,Default,,0,0,0,,What's this?
-Dialogue: 10,0:05:32.73,0:05:35.15,Default,,0,0,0,,The four-panel comic you wanted!
+Dialogue: 10,0:05:32.73,0:05:34.56,Default,,0,0,0,,The four-panel comic you all wanted!
 Dialogue: 10,0:05:35.15,0:05:36.57,Default,,0,0,0,,Rakugo Girls!
 Dialogue: 10,0:05:36.57,0:05:37.86,Default,,0,0,0,,Red & White.
 Dialogue: 10,0:05:38.32,0:05:39.49,Default,,0,0,0,,Oh. My. Gosh!
@@ -142,9 +142,9 @@ Dialogue: 10,0:06:24.86,0:06:26.03,Default,,0,0,0,,Retake it!
 Dialogue: 10,0:06:26.03,0:06:28.78,Default,,0,0,0,,We might get to be in Manga Time Kirara!
 Dialogue: 10,0:06:28.78,0:06:30.87,Default,,0,0,0,,J-Just wait a minute...
 Dialogue: 10,0:06:30.87,0:06:33.00,Default,,0,0,0,,Those panel strips were kinda lame, though!
-Dialogue: 10,0:06:33.00,0:06:35.25,Default,,0,0,0,,That's fine, people like lame.
-Dialogue: 10,0:06:35.25,0:06:38.79,Default,,0,0,0,,{\q2}Y'know, like that one about \Nthose girls who play light music.
-Dialogue: 10,0:06:38.79,0:06:40.80,Default,,0,0,0,,Girls who play light music?
+Dialogue: 10,0:06:33.00,0:06:35.25,Default,,0,0,0,,That's fine—people like lame.
+Dialogue: 10,0:06:35.25,0:06:38.79,Default,,0,0,0,,{\q2}Y'know, like that comic about \Nthose schoolgirls who play light music.
+Dialogue: 10,0:06:38.79,0:06:40.80,Default,,0,0,0,,Girls who "play" to light music?
 Dialogue: 10,0:06:41.13,0:06:42.26,Default,,0,0,0,,You mean like this?
 Dialogue: 10,0:06:42.76,0:06:44.05,Default,,0,0,0,,X-Tort!
 Dialogue: 10,0:06:44.30,0:06:45.38,Default,,0,0,0,,Or like this?
@@ -180,10 +180,10 @@ Dialogue: 10,0:07:47.95,0:07:50.74,Default,,0,0,0,,{\q2}Just having four panels 
 Dialogue: 10,0:07:51.03,0:07:54.33,Default,,0,0,0,,{\q2}I want to spend the whole \Nhot spring issue in the hot spring.
 Dialogue: 10,0:07:54.33,0:07:56.91,Default,,0,0,0,,A four-panel comic needs all four elements!
 Dialogue: 10,0:07:56.91,0:08:01.50,Default,,0,0,0,,But it doesn't necessarily {\i1}need{\i0} four people.
-Dialogue: 10,0:08:01.50,0:08:05.26,Default,,0,0,0,,{\q2}It's not like we're each only \Nresponsible for one element.
+Dialogue: 10,0:08:01.50,0:08:05.26,Default,,0,0,0,,{\q2}It's not like we're each \Nonly responsible for one element.
 Dialogue: 10,0:08:06.80,0:08:08.55,Default,,0,0,0,,Since I'm the ass-end of the story,
-Dialogue: 10,0:08:09.05,0:08:11.85,Default,,0,0,0,,{\q2}I bet you thought my butt would \Nbe the butt of every joke.
-Dialogue: 10,0:08:12.85,0:08:14.77,Default,,0,0,0,,Well, you thought wrong!
+Dialogue: 10,0:08:09.05,0:08:11.85,Default,,0,0,0,,{\q2}I bet you thought my butt would be \Nthe butt of every joke.
+Dialogue: 10,0:08:12.85,0:08:14.77,Default,,0,0,0,,Too bad, so sad!
 Dialogue: 10,0:08:14.77,0:08:16.73,Default,,0,0,0,,Nobody thought that.
 Dialogue: 10,0:08:16.73,0:08:19.31,Default,,0,0,0,,Who is she even talking to?
 Dialogue: 10,0:08:19.56,0:08:22.52,Default,,0,0,0,,Oh, no! I lost track of time!
@@ -192,7 +192,7 @@ Dialogue: 10,0:08:23.61,0:08:25.03,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:08:30.57,0:08:32.24,Default,,0,0,0,,Hey! We're locked in here!
 Dialogue: 10,0:08:32.24,0:08:33.74,Default,,0,0,0,,What will we do?
 Dialogue: 10,0:08:35.16,0:08:37.46,Default,,0,0,0,,The lights'll turn off at night.
-Dialogue: 10,0:08:37.46,0:08:41.58,Default,,0,0,0,,They put them on a timer to save electricity...
+Dialogue: 10,0:08:37.46,0:08:41.58,Default,,0,0,0,,They put them on a timer to save electricity.
 Dialogue: 10,0:08:43.71,0:08:44.88,Default,,0,0,0,,They went out!
 Dialogue: 10,0:08:44.88,0:08:46.71,Default,,0,0,0,,It's so dark!
 Dialogue: 10,0:08:46.71,0:08:49.30,Default,,0,0,0,,Has the dressing room always been this cold?
@@ -207,29 +207,31 @@ Dialogue: 10,0:09:29.72,0:09:31.34,Default,,0,0,0,,I'm awake...
 Dialogue: 10,0:09:33.09,0:09:33.93,Default,,0,0,0,,Wait.
 Dialogue: 10,0:09:34.55,0:09:40.52,Default,,0,0,0,,{\q2}Using this method, someone is always moving, \Nmeaning there's nobody in the first corner.
 Dialogue: 10,0:09:40.98,0:09:42.98,Default,,0,0,0,,It wouldn't work unless there was a fifth person!
-Dialogue: 10,0:09:43.48,0:09:46.44,Default,,0,0,0,,There's someone here... There's someone here!
+Dialogue: 10,0:09:43.48,0:09:44.69,Default,,0,0,0,,There's someone here...
+Dialogue: 10,0:09:44.69,0:09:46.44,Default,,0,0,0,,There's someone here!
 Dialogue: 10,0:09:53.70,0:09:55.07,Default,,0,0,0,,What a relief!
-Dialogue: 10,0:09:55.07,0:09:56.99,Default,,0,0,0,,{\q2}Because there's four of us, \Nwe made it without falling asleep.
+Dialogue: 10,0:09:55.07,0:09:56.99,Default,,0,0,0,,{\q2}The four of us made it without falling asleep.
 Dialogue: 10,0:09:57.45,0:09:59.37,Default,,0,0,0,,No... listen to me...
 Dialogue: 10,0:09:59.37,0:10:02.92,Default,,0,0,0,,{\q2}There was a fifth. \NSomeone who shouldn't have been there!
 Dialogue: 10,0:10:03.17,0:10:04.42,Default,,0,0,0,,A fifth?
 Dialogue: 10,0:10:04.42,0:10:06.67,Default,,0,0,0,,It was thanks to them...
 Dialogue: 10,0:10:06.67,0:10:07.96,Default,,0,0,0,,Did they save us?
-Dialogue: 10,0:10:07.96,0:10:09.34,Default,,0,0,0,,Who was it?
+Dialogue: 10,0:10:07.96,0:10:09.34,Default,,0,0,0,,Who is our unknown hero?!
 Dialogue: 10,0:10:10.46,0:10:13.30,Default,,0,0,0,,I knew five was better than four!
 Dialogue: 10,0:10:13.76,0:10:15.34,Default,,0,0,0,,Cheers, Mask-Face!
-Dialogue: 10,0:10:21.10,0:10:22.43,Default,,0,0,0,,Something's wrong.
+Dialogue: 10,0:10:21.10,0:10:22.43,Default,,0,0,0,,This is super odd.
 Dialogue: 10,0:10:23.69,0:10:25.86,Default,,0,0,0,,Why aren't they here?
-Dialogue: 10,0:10:28.40,0:10:29.28,Default,,0,0,0,,Why?
+Dialogue: 10,0:10:28.40,0:10:29.36,Default,,0,0,0,,Why?
 Dialogue: 10,0:10:32.65,0:10:35.45,Default,,0,0,0,,I'm sure I got the time right.
 Dialogue: 10,0:10:49.00,0:10:51.01,Default,,0,0,0,,They all got it wrong!
 Dialogue: 10,0:11:02.60,0:11:05.31,Default,,0,0,0,,Oh, well. I guess I'm alone today.
+Dialogue: 10,0:11:04.14,0:11:04.94,Alt,,0,0,0,,Yo!
 Dialogue: 10,0:11:07.52,0:11:10.73,Default,,0,0,0,,Shopping Street Palm. Eight hundred metres long.
-Dialogue: 10,0:11:11.19,0:11:14.11,Default,,0,0,0,,Feels longer when you're walking it alone.
-Dialogue: 10,0:11:15.49,0:11:22.08,Default,,0,0,0,,{\q2}I bought some chicken after being tempted \Nby the scent from one of the arcade shops.
+Dialogue: 10,0:11:11.19,0:11:14.11,Default,,0,0,0,,It felt longer walking down the aisle by myself.
+Dialogue: 10,0:11:15.49,0:11:22.08,Default,,0,0,0,,{\q2}I bought some chicken after being tempted by \Nthe scent from one of the arcade shops.
 Dialogue: 10,0:11:22.83,0:11:24.75,Default,,0,0,0,,Pretending you're in "The Lonely Gourmet"?
 Dialogue: 10,0:11:25.16,0:11:27.21,Default,,0,0,0,,I'm here, you know!
-Dialogue: 10,0:11:28.71,0:11:31.00,Default,,0,0,0,,Oh, it's Gankyou, the graduée.
+Dialogue: 10,0:11:28.71,0:11:31.00,Default,,0,0,0,,Before me emerged Gankyou, the graduée.
 Dialogue: 10,0:11:31.00,0:11:34.47,Default,,0,0,0,,I didn't so much graduate as got forced out!
 Dialogue: 10,0:11:34.47,0:11:36.30,Default,,0,0,0,,Besides, we're in the same year!
 Dialogue: 10,0:11:36.59,0:11:38.97,Default,,0,0,0,,If we're in the same year, then...
@@ -240,7 +242,7 @@ Dialogue: 10,0:12:13.50,0:12:15.80,Default,,0,0,0,,Newbie! You forgot the greeti
 Dialogue: 10,0:12:17.59,0:12:20.14,Default,,0,0,0,,What's with that attitude?
 Dialogue: 10,0:12:20.64,0:12:22.10,Default,,0,0,0,,It's nothing, I promise.
 Dialogue: 10,0:12:22.10,0:12:23.43,Default,,0,0,0,,I apologise.
-Dialogue: 10,0:12:23.43,0:12:28.10,Default,,0,0,0,,{\q2}Remember, kiddo, this world's got \Na pecking order. You can't escape it.
+Dialogue: 10,0:12:23.43,0:12:28.10,Default,,0,0,0,,{\q2}Remember, kiddo. This world's got \Na pecking order. There's no escape.
 Dialogue: 10,0:12:28.64,0:12:31.69,Default,,0,0,0,,{\q2}Kigu, she's all yours. \NMake sure you educate her properly!
 Dialogue: 10,0:12:31.69,0:12:32.73,Default,,0,0,0,,Yessir!
 Dialogue: 10,0:12:32.73,0:12:36.07,Default,,0,0,0,,I will drill the pecking order deep into her!
@@ -252,23 +254,23 @@ Dialogue: 10,0:12:45.45,0:12:48.25,Default,,0,0,0,,Newbies should be able to fig
 Dialogue: 10,0:12:48.25,0:12:52.08,Default,,0,0,0,,{\q2}what the pros want from their actions, \Nwithout them having to make it abundantly clear!
 Dialogue: 10,0:12:52.63,0:12:55.38,Default,,0,0,0,,{\q2}No, Kigu! You're underage! \NYou're too young to smoke!
 Dialogue: 10,0:12:55.38,0:12:57.84,Default,,0,0,0,,Hey, now! That's Ms. Kigu for you!
-Dialogue: 10,0:12:58.30,0:13:01.89,Default,,0,0,0,,When I do this, I obviously want an Umaibou snack!
+Dialogue: 10,0:12:58.30,0:13:01.89,Default,,0,0,0,,When I do this, I obviously want a candy bar!
 Dialogue: 10,0:13:01.89,0:13:04.43,Default,,0,0,0,,I didn't realise, Ms. Kigu.
 Dialogue: 10,0:13:04.43,0:13:06.81,Default,,0,0,0,,You really are an incompetent girl.
 Dialogue: 10,0:13:09.02,0:13:11.69,Default,,0,0,0,,What's this? Curry flavour?
-Dialogue: 10,0:13:12.06,0:13:15.98,Default,,0,0,0,,{\q2}How do you not know that \NI only eat Corn Potage Umaibou?!
+Dialogue: 10,0:13:12.06,0:13:15.98,Default,,0,0,0,,{\q2}How do you not know that I only eat \Nthe corn potage-flavoured ones?!
 Dialogue: 10,0:13:16.36,0:13:18.03,Default,,0,0,0,,Forgive me.
-Dialogue: 10,0:13:18.03,0:13:23.24,Default,,0,0,0,,{\q2}Geez. The least you can do is learn \Nyour supervisor's favourite Umaibou flavour.
-Dialogue: 10,0:13:23.24,0:13:25.70,Default,,0,0,0,,Although I like this flavour, too.
-Dialogue: 10,0:13:25.70,0:13:27.95,Default,,0,0,0,,Then why not just shut up and eat it?
+Dialogue: 10,0:13:18.03,0:13:23.24,Default,,0,0,0,,{\q2}Good grief. The least you can do \Nis learn your supervisor's favourite snacks.
+Dialogue: 10,0:13:23.24,0:13:25.70,Default,,0,0,0,,Although it's not like I dislike this flavour.
+Dialogue: 10,0:13:25.70,0:13:27.95,Default,,0,0,0,,Then why not just shut your trap and eat it?
 Dialogue: 10,0:13:27.95,0:13:28.87,Default,,0,0,0,,Next.
 Dialogue: 10,0:13:29.62,0:13:32.00,Default,,0,0,0,,I know this one! Newspaper, right?
 Dialogue: 10,0:13:32.29,0:13:35.50,Default,,0,0,0,,No! Besides, this is Strawberry News!
 Dialogue: 10,0:13:35.92,0:13:37.63,Default,,0,0,0,,You really {\i1}are{\i0} dumb.
 Dialogue: 10,0:13:37.63,0:13:38.88,Default,,0,0,0,,I apologise.
 Dialogue: 10,0:13:38.88,0:13:42.76,Default,,0,0,0,,When I go like this, obviously I want a giant rice cracker.
-Dialogue: 10,0:13:43.51,0:13:45.22,Default,,0,0,0,,{\i1}Is it just all snacks?
-Dialogue: 10,0:13:45.51,0:13:48.02,Default,,0,0,0,,{\i1}That makes it easier, at least.
+Dialogue: 10,0:13:43.51,0:13:45.22,Default,,0,0,0,,{\i1}Are snacks all you care about?
+Dialogue: 10,0:13:45.51,0:13:48.02,Default,,0,0,0,,{\i1}That narrows things down, at least.
 Dialogue: 10,0:13:49.48,0:13:51.85,Default,,0,0,0,,{\i1}Her index finger? What does it mean?
 Dialogue: 10,0:13:52.23,0:13:54.15,Default,,0,0,0,,{\i1}Index finger... Index finger...
 Dialogue: 10,0:13:54.15,0:13:55.44,Default,,0,0,0,,{\i1}A single finger...
@@ -289,23 +291,24 @@ Dialogue: 10,0:14:38.11,0:14:41.15,Default,,0,0,0,,D-Don't you feel like somethi
 Dialogue: 10,0:14:41.15,0:14:43.40,Default,,0,0,0,,Ah! Tetora's gone!
 Dialogue: 10,0:14:43.74,0:14:47.20,Default,,0,0,0,,It's a tragedy! A tragedy has taken place!
 Dialogue: 10,0:14:47.20,0:14:48.41,Default,,0,0,0,,Hey, rookie.
-Dialogue: 10,0:14:48.41,0:14:50.20,Default,,0,0,0,,You didn't mention it yet,
-Dialogue: 10,0:14:50.20,0:14:52.79,Default,,0,0,0,,but you want a steaming winter hotpot, right?
+Dialogue: 10,0:14:48.41,0:14:50.20,Default,,0,0,0,,Don't worry. I already know what you want.
+Dialogue: 10,0:14:50.20,0:14:52.79,Default,,0,0,0,,You want a steaming winter hotpot, right?
 Dialogue: 10,0:14:52.79,0:14:55.00,Default,,0,0,0,,Nice and boiling {\i1}hot{\i0}!
-Dialogue: 10,0:14:56.58,0:14:58.71,Default,,0,0,0,,I'm so glad you like it!
+Dialogue: 10,0:14:56.58,0:14:58.71,Default,,0,0,0,,I'm so glad it's to your wishes!
 Dialogue: 10,0:14:58.71,0:15:01.30,Default,,0,0,0,,Meeting your desires is the greatest honour.
 Dialogue: 10,0:15:01.30,0:15:02.80,Default,,0,0,0,,No, dammit!
 Dialogue: 10,0:15:03.51,0:15:08.64,Default,,0,0,0,,{\q2}Oh? Could it be that you were looking for \Nthis red-hot piece of metal instead?
-Dialogue: 10,0:15:09.22,0:15:12.06,Default,,0,0,0,,Or these?
+Dialogue: 10,0:15:09.22,0:15:10.64,Default,,0,0,0,,Or these?
+Dialogue: 10,0:15:10.64,0:15:12.06,Default,,0,0,0,,Or {\i1}these{\i0}?
 Dialogue: 10,0:15:12.06,0:15:15.06,Default,,0,0,0,,Hotpot! Just hotpot!
 Dialogue: 10,0:15:15.44,0:15:18.06,Default,,0,0,0,,That's what I thought.
 Dialogue: 10,0:15:18.06,0:15:22.61,Default,,0,0,0,,{\q2}Looks like I finally became someone \Nwho can understand the feelings of others.
 Dialogue: 10,0:15:22.61,0:15:24.57,Default,,0,0,0,,There's no need for words anymore.
-Dialogue: 10,0:15:24.86,0:15:28.78,Default,,0,0,0,,{\q2}I'll know what you want without \Nbeing told, my dear supervisors.
-Dialogue: 10,0:15:29.07,0:15:32.41,Default,,0,0,0,,Is {\i1}this{\i0} what you want?! Is {\i1}that{\i0} what you want?!
+Dialogue: 10,0:15:24.86,0:15:28.78,Default,,0,0,0,,{\q2}I'll know what you want \Nwithout being told, my dear supervisors.
+Dialogue: 10,0:15:29.07,0:15:32.41,Default,,0,0,0,,{\q2}Is {\i1}this{\i0} what you want?! \NIs {\i1}that{\i0} what you want?!
 Dialogue: 10,0:15:39.25,0:15:41.80,Default,,0,0,0,,You, too, will be silenced while I serve you!
 Dialogue: 10,0:15:41.80,0:15:42.42,Default,,0,0,0,,Wait.
-Dialogue: 10,0:15:43.34,0:15:49.68,Default,,0,0,0,,{\q2}If you understand others' feelings like that, \Nit'd be a waste just being our servant.
+Dialogue: 10,0:15:43.34,0:15:49.68,Default,,0,0,0,,{\q2}If you understand others' feelings so well, \Nit'd be a waste just being our servant.
 Dialogue: 10,0:15:50.60,0:15:52.72,Default,,0,0,0,,Time to become a servant to the nation!
 Dialogue: 10,0:15:52.72,0:15:56.60,Default,,0,0,0,,Representing you all, I promise to win this election!
 Dialogue: 10,0:15:56.60,0:15:59.10,Default,,0,0,0,,Is she even eligible to run for office?
@@ -328,7 +331,7 @@ Dialogue: 10,0:16:46.19,0:16:49.20,Default,,0,0,0,,Forget losing, she should nev
 Dialogue: 10,0:16:49.53,0:16:51.99,Default,,0,0,0,,So what about my three million yen?
 Dialogue: 10,0:16:51.99,0:16:55.91,Default,,0,0,0,,{\q2}What about the election goods I bought \Nwhen I sent off my application?
 Dialogue: 10,0:16:56.20,0:17:00.33,Default,,0,0,0,,{\q2}Hah, sounds like you got swindled! \NYou're the victim of fraud.
-Dialogue: 10,0:17:06.17,0:17:08.13,Default,,0,0,0,,Come in, Kigu.
+Dialogue: 10,0:17:06.17,0:17:08.13,Default,,0,0,0,,You can come out now, Kigu.
 Dialogue: 10,0:17:09.13,0:17:10.01,Default,,0,0,0,,What's up?
 Dialogue: 10,0:17:10.47,0:17:11.80,Default,,0,0,0,,Th-The daruma...
 Dialogue: 10,0:17:12.34,0:17:14.14,Default,,0,0,0,,She's scared of daruma dolls.
@@ -336,7 +339,7 @@ Dialogue: 10,0:17:14.14,0:17:16.22,Default,,0,0,0,,Just put it away, please!
 Dialogue: 10,0:17:16.22,0:17:17.60,Default,,0,0,0,,Guess we should.
 Dialogue: 10,0:17:18.02,0:17:22.02,Default,,0,0,0,,{\q2}You think you can just put it away \Ndespite not winning an election yet?!
 Dialogue: 10,0:17:22.85,0:17:25.15,Default,,0,0,0,,It's not like you to be this aggressive, Kukuru...
-Dialogue: 10,0:17:25.15,0:17:28.24,Default,,0,0,0,,{\q2}There's a serious taboo against breaking \Ncustoms when it comes to lucky talismans!
+Dialogue: 10,0:17:25.15,0:17:28.24,Default,,0,0,0,,{\q2}There's a serious taboo against breaking customs \Nwhen it comes to lucky talismans!
 Dialogue: 10,0:17:29.19,0:17:30.45,Default,,0,0,0,,{\i1}You're scaring me...
 Dialogue: 10,0:17:30.45,0:17:34.45,Default,,0,0,0,,Kukuru's very strict about traditional customs.
 Dialogue: 10,0:17:34.74,0:17:38.79,Default,,0,0,0,,{\an8}Put it away! Hurry! Just put it away!
@@ -355,10 +358,11 @@ Dialogue: 10,0:18:04.40,0:18:05.65,Default,,0,0,0,,It's gotta be fraud!
 Dialogue: 10,0:18:05.98,0:18:11.70,Default,,0,0,0,,{\q2}If you just run in every election you can find, \Nyou're bound to win something!
 Dialogue: 10,0:18:11.70,0:18:13.07,Default,,0,0,0,,For example?
 Dialogue: 10,0:18:13.07,0:18:16.12,Default,,0,0,0,,Like student council elections!
-Dialogue: 10,0:18:16.58,0:18:19.12,Default,,0,0,0,,{\q2}She'd probably have a pretty good \Nchance with one of those!
+Dialogue: 10,0:18:16.58,0:18:19.12,Default,,0,0,0,,{\q2}She'd probably have a pretty \Ngood chance with one of those!
 Dialogue: 10,0:18:19.12,0:18:20.16,Default,,0,0,0,,Wait!
 Dialogue: 10,0:18:20.16,0:18:22.83,Default,,0,0,0,,Japanese student council presidents are a cut above!
-Dialogue: 10,0:18:22.83,0:18:29.17,Default,,0,0,0,,{\q2}Y-You're right! Battling evil organizations and \Nvengeful ghosts is all in a day's work for them!
+Dialogue: 10,0:18:22.83,0:18:24.46,Default,,0,0,0,,Y-You're right!
+Dialogue: 10,0:18:24.46,0:18:29.17,Default,,0,0,0,,{\q2}Battling evil organisations and vengeful ghosts \Nis all in a day's work for them!
 Dialogue: 10,0:18:29.17,0:18:31.30,Default,,0,0,0,,Gan can't possibly win against them!
 Dialogue: 10,0:18:31.59,0:18:32.63,Default,,0,0,0,,It's all good.
 Dialogue: 10,0:18:33.01,0:18:37.26,Default,,0,0,0,,{\q2}I might have lost when it comes to popularity, \Nbut I've never lost when it comes to violence!
@@ -370,12 +374,12 @@ Dialogue: 10,0:18:51.74,0:18:56.37,Default,,0,0,0,,I got it! The list of candida
 Dialogue: 10,0:18:56.62,0:18:58.37,Default,,0,0,0,,Let's see...
 Dialogue: 10,0:18:59.87,0:19:01.70,Default,,0,0,0,,Gan seems unqualified.
 Dialogue: 10,0:19:01.70,0:19:03.83,Default,,0,0,0,,What? Why?
-Dialogue: 10,0:19:04.50,0:19:07.75,Default,,0,0,0,,{\q2}Don't worry. I'll turn you \Ninto a qualified person in no time!
+Dialogue: 10,0:19:04.50,0:19:07.75,Default,,0,0,0,,Don't worry. Allow me to give you the qualification!
 Dialogue: 10,0:19:07.75,0:19:09.75,Default,,0,0,0,,Wh-What are you planning?!
 Dialogue: 10,0:19:09.75,0:19:14.76,Default,,0,0,0,,{\q2}You're not qualified to be a neighbourhood association \Npresident... unless you're completely bald!
 Dialogue: 10,0:19:21.60,0:19:26.23,Default,,0,0,0,,{\q2}Maybe that's not such a good idea. \NThere must be other options.
-Dialogue: 10,0:19:26.23,0:19:27.44,Default,,0,0,0,,It's come to this...
-Dialogue: 10,0:19:27.85,0:19:30.86,Default,,0,0,0,,I'll enter any election!
+Dialogue: 10,0:19:26.23,0:19:27.44,Default,,0,0,0,,If it's come to this...
+Dialogue: 10,0:19:27.85,0:19:30.86,Default,,0,0,0,,I'll enter {\i1}any{\i0} election!
 Dialogue: 10,0:19:41.24,0:19:42.33,Default,,0,0,0,,Where am I?
 Dialogue: 10,0:19:43.54,0:19:44.37,Default,,0,0,0,,Who's there?
 Dialogue: 10,0:19:44.79,0:19:47.83,Default,,0,0,0,,Welcome. We have accepted your candidacy.
@@ -410,9 +414,9 @@ Dialogue: 10,0:20:58.53,0:21:02.16,Default,,0,0,0,,So it wasn't just Japan he so
 Dialogue: 10,0:21:02.16,0:21:05.04,Default,,0,0,0,,Earth-selling bastard!
 Dialogue: 10,0:21:06.54,0:21:08.00,Default,,0,0,0,,She punched the former governor!
 Dialogue: 10,0:21:08.00,0:21:08.71,Default,,0,0,0,,Punched him!
-Dialogue: 10,0:21:08.71,0:21:09.83,Default,,0,0,0,,What?!
+Dialogue: 10,0:21:08.71,0:21:09.83,Default,,0,0,0,,Oh my god!
 Dialogue: 10,0:21:12.21,0:21:15.34,Default,,0,0,0,,Oops... I shouldn't have done that...
-Dialogue: 10,0:21:22.01,0:21:23.26,Default,,0,0,0,,You win!
+Dialogue: 10,0:21:22.01,0:21:23.26,Default,,0,0,0,,We have a winner!
 Dialogue: 10,0:21:24.76,0:21:29.77,Default,,0,0,0,,{\q2}Looks like they hate you in space \Nas well, former governor.
 Dialogue: 10,0:21:30.98,0:21:32.48,Default,,0,0,0,,So, to sum it up,
 Dialogue: 10,0:21:32.48,0:21:35.23,Default,,0,0,0,,I won the election for Solar System governor.
@@ -421,12 +425,12 @@ Dialogue: 10,0:21:41.03,0:21:43.11,Default,,0,0,0,,I guess this makes me more im
 Dialogue: 10,0:21:43.78,0:21:45.74,Default,,0,0,0,,Wow... That's great...
 Dialogue: 10,0:21:45.74,0:21:50.37,Default,,0,0,0,,{\q2}If they found out, the presidents of the world \Nwould come seeking an audience.
 Dialogue: 10,0:21:50.37,0:21:52.12,Default,,0,0,0,,So don't tell anyone!
-Dialogue: 10,0:21:52.12,0:21:54.00,Default,,0,0,0,,Nope. Don't worry.
+Dialogue: 10,0:21:52.12,0:21:54.00,Default,,0,0,0,,Don't worry. Our lips are sealed.
 Dialogue: 10,0:21:54.38,0:21:56.80,Default,,0,0,0,,{\q2}Next week is the first meeting \Nof the Solar System Parliament.
 Dialogue: 10,0:21:56.80,0:21:59.26,Default,,0,0,0,,{\q2}We're discussing increasing blood pressure \Nacross the Solar System.
 Dialogue: 10,0:21:59.76,0:22:03.22,Default,,0,0,0,,{\q2}Remember the manga Level E? \NThat was basically all true.
-Dialogue: 10,0:22:03.22,0:22:04.14,Default,,0,0,0,,Good luck...
-Dialogue: 10,0:22:05.60,0:22:08.93,Default,,0,0,0,,Glasses are scarier than darumas...
+Dialogue: 10,0:22:03.22,0:22:04.14,Default,,0,0,0,,Good luck.
+Dialogue: 10,0:22:05.60,0:22:08.93,Default,,0,0,0,,Glasses are even scarier than daruma dolls.
 Dialogue: 10,0:23:40.65,0:23:42.98,Default,,0,0,0,,Kuurubiyuutei Gankyou here.
 Dialogue: 10,0:23:42.98,0:23:45.78,Default,,0,0,0,,Looks like we're nearly at the midpoint.
 Dialogue: 10,0:23:45.78,0:23:49.91,Default,,0,0,0,,{\q2}As with life, there comes a point \Nwhere you kinda get sick of a show.
