@@ -35,7 +35,7 @@ Comment: 0,0:23:39.94,0:23:39.94,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:01:29.99,0:01:32.74,Default,,0,0,0,,Forty metres down. Forty-five to go.
 Dialogue: 10,0:01:32.74,0:01:36.95,Default,,0,0,0,,{\q2}With half a body length's lead, Araki's in good form \Nas he comes up on the fifty metre turn.
 Dialogue: 10,0:01:37.62,0:01:41.00,Default,,0,0,0,,Huh? Wasn't this guy fencing a minute ago?
-Dialogue: 10,0:01:41.00,0:01:42.29,Default,,0,0,0,,Why's he swimming?
+Dialogue: 10,0:01:41.00,0:01:42.29,Default,,0,0,0,,Why's he swimming now?
 Dialogue: 10,0:01:42.29,0:01:43.83,Default,,0,0,0,,It's the modern pentathlon.
 Dialogue: 10,0:01:43.83,0:01:48.38,Default,,0,0,0,,{\q2}Shooting, fencing, swimming, equestrian, \Nand running. Five events in all.
 Dialogue: 10,0:01:48.38,0:01:49.84,Default,,0,0,0,,"Penta" means five.
@@ -47,12 +47,12 @@ Dialogue: 10,0:01:59.43,0:02:01.31,Default,,0,0,0,,What's not to get?
 Dialogue: 10,0:02:01.31,0:02:05.52,Default,,0,0,0,,{\q2}In a triathlon, all the events \Nhave one general theme: speed.
 Dialogue: 10,0:02:05.52,0:02:08.48,Default,,0,0,0,,{\q2}In the modern pentathlon, \Nit's like you're fighting with your gun and your sword,
 Dialogue: 10,0:02:08.48,0:02:12.11,Default,,0,0,0,,{\q2}and getting around the battlefield \Nby running, swimming, and horse-riding.
-Dialogue: 10,0:02:12.11,0:02:14.78,Default,,0,0,0,,{\q2}It's kind of a bloody event \Nwhen you think about it.
+Dialogue: 10,0:02:12.11,0:02:14.78,Default,,0,0,0,,{\q2}It's kind of a bloody event \Nwhen you think about it that way.
 Dialogue: 10,0:02:14.78,0:02:17.33,Default,,0,0,0,,But it's easy to imagine.
 Dialogue: 10,0:02:17.33,0:02:20.08,Default,,0,0,0,,{\q2}I see what you mean. \NWith two events, you can do whatever.
 Dialogue: 10,0:02:20.08,0:02:24.21,Default,,0,0,0,,{\q2}It's a Winter Olympics event, \Nso you've got to keep skiing,
 Dialogue: 10,0:02:24.21,0:02:28.80,Default,,0,0,0,,{\q2}but why not pair it with playing cards, \Nor Frisbee, or snuggling in the warmth?
-Dialogue: 10,0:02:28.80,0:02:31.26,Default,,0,0,0,,Do you want them to fall asleep?
+Dialogue: 10,0:02:28.80,0:02:31.26,Default,,0,0,0,,And what, see who makes it to dreamland first?
 Dialogue: 10,0:02:31.26,0:02:35.55,Default,,0,0,0,,{\q2}On Knight Scoop the other day, \Nthey combined shogi with boxing.
 Dialogue: 10,0:02:35.55,0:02:37.01,Default,,0,0,0,,Wow, sounds hard.
 Dialogue: 10,0:02:37.01,0:02:37.97,Default,,0,0,0,,But think about it.
@@ -61,7 +61,7 @@ Dialogue: 10,0:02:43.02,0:02:46.23,Default,,0,0,0,,That is to say, if you try an
 Dialogue: 10,0:02:46.81,0:02:48.61,Default,,0,0,0,,you'd better be ready to run.
 Dialogue: 10,0:02:57.28,0:02:59.24,Default,,0,0,0,,We're being watched...
 Dialogue: 10,0:02:59.62,0:03:00.87,Default,,0,0,0,,A bear's stalking us!
-Dialogue: 10,0:03:10.38,0:03:12.42,Default,,0,0,0,,They weren't there last episode!
+Dialogue: 10,0:03:10.38,0:03:12.42,Default,,0,0,0,,Those weren't there last episode!
 Dialogue: 10,0:03:12.42,0:03:15.17,Default,,0,0,0,,Wh-Who forgot to put the hina dolls away?!
 Dialogue: 10,0:03:15.88,0:03:18.14,Default,,0,0,0,,{\i1}We'll be cursed to spinsterhood!
 Dialogue: 10,0:03:18.14,0:03:19.97,Default,,0,0,0,,What the hell have you guys done?!
@@ -71,9 +71,9 @@ Dialogue: 10,0:03:24.64,0:03:26.85,Default,,0,0,0,,Do you want to die on a mount
 Dialogue: 10,0:03:26.85,0:03:28.60,Default,,0,0,0,,No, it's "to die an old bride".
 Dialogue: 10,0:03:28.60,0:03:31.69,Default,,0,0,0,,Marry late? That's hardly any different!
 Dialogue: 10,0:03:32.11,0:03:33.57,Default,,0,0,0,,We're done for...
-Dialogue: 10,0:03:33.57,0:03:35.90,Default,,0,0,0,,{\q2}We're never gonna get married, \N and freeze to death all alone!
+Dialogue: 10,0:03:33.57,0:03:35.90,Default,,0,0,0,,{\q2}We're never gonna get married, \Nand freeze to death all alone!
 Dialogue: 10,0:03:35.90,0:03:38.91,Default,,0,0,0,,We don't stand a snowball's chance in hell!
-Dialogue: 10,0:03:38.91,0:03:42.83,Default,,0,0,0,,{\q2}C'mon, guys. Let's just think about it \Ncalmly over some tea.
+Dialogue: 10,0:03:38.91,0:03:42.83,Default,,0,0,0,,{\q2}C'mon, girls. Let's calm down \Nand think about it over some tea.
 Dialogue: 10,0:03:42.83,0:03:44.20,Default,,0,0,0,,I'll go prepare some!
 Dialogue: 10,0:03:44.20,0:03:46.37,Default,,0,0,0,,{\an8}I knew we had some matcha powder here.
 Dialogue: 10,0:03:44.20,0:03:47.54,Default,,0,0,0,,Cursed to be an *ld maid forever!
@@ -229,10 +229,10 @@ Dialogue: 10,0:04:25.95,0:04:26.00,Default,,201,219,69,,We're done for!
 Dialogue: 10,0:04:26.00,0:04:28.12,Default,,0,0,0,,Wait. There's still a way out.
 Dialogue: 10,0:04:30.42,0:04:32.50,Default,,0,0,0,,We have to all become delinquents.
 Dialogue: 10,0:04:32.50,0:04:34.09,Default,,0,0,0,,Huh? Why?
-Dialogue: 10,0:04:34.09,0:04:36.13,Default,,0,0,0,,Isn't it obvious?
-Dialogue: 10,0:04:36.13,0:04:38.76,Default,,0,0,0,,They get married early, without exception.
-Dialogue: 10,0:04:38.76,0:04:40.30,Default,,0,0,0,,Without. Exception.
-Dialogue: 10,0:04:40.30,0:04:41.93,Default,,0,0,0,,You're right!
+Dialogue: 10,0:04:34.09,0:04:36.13,Default,,0,0,0,,Do I need to spell it out for you?
+Dialogue: 10,0:04:36.13,0:04:38.76,Default,,0,0,0,,They get married early. No exceptions.
+Dialogue: 10,0:04:38.76,0:04:40.30,Default,,0,0,0,,No. Exceptions.
+Dialogue: 10,0:04:40.30,0:04:41.93,Default,,0,0,0,,Hang on. You're right!
 Dialogue: 10,0:04:41.93,0:04:43.51,Default,,0,0,0,,Bad kids get married early!
 Dialogue: 10,0:04:43.51,0:04:46.97,Default,,0,0,0,,{\q2}My neighbour, Ku, is a real bad sort, \Nand she got married at fifteen!
 Dialogue: 10,0:04:46.97,0:04:49.02,Default,,0,0,0,,Even though you can't get married until sixteen?
@@ -242,27 +242,27 @@ Dialogue: 10,0:04:52.27,0:04:54.11,Default,,0,0,0,,Yes, exactly.
 Dialogue: 10,0:04:54.11,0:04:57.74,Default,,0,0,0,,{\q2}The M*ld Maid infection and \Nthe delinquency cancel each other out.
 Dialogue: 10,0:04:58.90,0:04:59.99,Default,,0,0,0,,I see!
 Dialogue: 10,0:04:59.99,0:05:02.32,Default,,0,0,0,,{\q2}But you can't just become \Na delinquent out of nowhere!
-Dialogue: 10,0:05:04.41,0:05:05.12,Default,,0,0,0,,Marii!
+Dialogue: 10,0:05:04.41,0:05:05.12,Default,,0,0,0,,O, great Marii!
 Dialogue: 10,0:05:05.12,0:05:06.04,Default,,0,0,0,,We beg of you.
 Dialogue: 10,0:05:06.04,0:05:06.87,Default,,0,0,0,,Please!
 Dialogue: 10,0:05:06.87,0:05:07.83,Default,,0,0,0,,Teach us your ways!
 Dialogue: 10,0:05:07.83,0:05:09.00,Default,,0,0,0,,Why me?!
-Dialogue: 10,0:05:09.00,0:05:12.25,Default,,0,0,0,,I ain't no bloody delinquent and I never have been!
+Dialogue: 10,0:05:09.00,0:05:12.25,Default,,0,0,0,,I ain't no bloody delinquent and never have been!
 Dialogue: 10,0:05:12.50,0:05:14.88,Default,,0,0,0,,Just be our boss!
 Dialogue: 10,0:05:14.88,0:05:15.96,Default,,0,0,0,,B-Boss?
 Dialogue: 10,0:05:16.96,0:05:20.51,Default,,0,0,0,,That has a certain wonderful ring to it...
-Dialogue: 10,0:05:20.51,0:05:24.97,Default,,0,0,0,,{\i1}Marii had always liked the sound of the word "boss".
+Dialogue: 10,0:05:20.51,0:05:24.97,Default,,0,0,0,,Marii had always liked the sound of the word "boss".
 Dialogue: 10,0:05:24.97,0:05:25.85,Default,,0,0,0,,Boss.
 Dialogue: 10,0:05:26.85,0:05:27.60,Default,,0,0,0,,Boss...
 Dialogue: 10,0:05:28.43,0:05:29.27,Default,,0,0,0,,Boss!
-Dialogue: 10,0:05:30.48,0:05:31.23,Default,,0,0,0,,What?!
+Dialogue: 10,0:05:30.48,0:05:31.23,Default,,0,0,0,,Yes, my underlings?!
 Dialogue: 10,0:05:31.94,0:05:33.02,Default,,0,0,0,,She's into it now.
 Dialogue: 10,0:05:33.02,0:05:36.90,Default,,0,0,0,,{\q2}Well, what do you do? For starters, \Nc'mere and squat down, you buncha lowlifes.
 Dialogue: 10,0:05:36.90,0:05:38.44,Default,,0,0,0,,We're already here!
 Dialogue: 10,0:05:38.44,0:05:40.53,Default,,0,0,0,,How are we going to become delinquents?
 Dialogue: 10,0:05:40.53,0:05:42.41,Default,,0,0,0,,We'll start with your looks!
 Dialogue: 10,0:05:43.91,0:05:45.53,Default,,0,0,0,,We really look the part!
-Dialogue: 10,0:05:45.53,0:05:47.08,Default,,0,0,0,,Look!
+Dialogue: 10,0:05:45.53,0:05:47.08,Default,,0,0,0,,Lo and behold!
 Dialogue: 10,0:05:47.08,0:05:49.33,Default,,0,0,0,,Omelette... and rice?
 Dialogue: 10,0:05:49.33,0:05:52.33,Default,,0,0,0,,Oh, right. They love using fancy typography to spell stuff.
 Dialogue: 10,0:05:52.33,0:05:55.92,Default,,0,0,0,,Yup, and we've already made it.
@@ -278,9 +278,9 @@ Dialogue: 10,0:06:31.16,0:06:34.04,Default,,0,0,0,,In that case, forget words an
 Dialogue: 10,0:06:34.83,0:06:37.92,Default,,0,0,0,,We'll go to school at night and clean the windows!
 Dialogue: 10,0:06:37.92,0:06:39.55,Default,,0,0,0,,Clean the windows?
 Dialogue: 10,0:06:39.55,0:06:43.38,Default,,0,0,0,,{\q2}Delinquents clean windows! \NWe don't only do bad.
-Dialogue: 10,0:06:43.38,0:06:46.14,Default,,0,0,0,,{\q2}I was wondering, are there \Nany legends among delinquents?
+Dialogue: 10,0:06:43.38,0:06:46.14,Default,,0,0,0,,{\q2}I was wondering, \Nare there any legends among delinquents?
 Dialogue: 10,0:06:46.14,0:06:47.09,Default,,0,0,0,,Legends?
-Dialogue: 10,0:06:47.09,0:06:49.51,Default,,0,0,0,,Yes! Delinquents have lots of legends!
+Dialogue: 10,0:06:47.09,0:06:49.51,Default,,0,0,0,,Yes! Delinquents have loadsa legends!
 Dialogue: 10,0:06:50.39,0:06:51.72,Default,,0,0,0,,She's into it again.
 Dialogue: 10,0:06:51.72,0:06:55.23,Default,,0,0,0,,Legends as cool as the Legend of Zelda?
 Dialogue: 10,0:06:55.23,0:06:57.48,Default,,0,0,0,,Or the Legend of the Galactic Heroes?
@@ -288,12 +288,12 @@ Dialogue: 10,0:06:57.48,0:06:59.52,Default,,0,0,0,,They're not gonna be {\i1}tha
 Dialogue: 10,0:06:59.52,0:07:03.36,Default,,0,0,0,,{\q2}Delinquents aren't really on the "galactic" level. \NMore like the "local" level.
 Dialogue: 10,0:07:03.65,0:07:05.53,Default,,0,0,0,,What about Lunar Legend Tsukihime?
 Dialogue: 10,0:07:05.53,0:07:07.16,Default,,0,0,0,,Or the Legend of King Artoria?
-Dialogue: 10,0:07:07.16,0:07:10.24,Default,,0,0,0,,{\q2}These people exist in opposition \Nto the forces of crazy fandoms.
+Dialogue: 10,0:07:07.16,0:07:10.24,Default,,0,0,0,,{\q2}These people exist in opposition to \Nthe forces of crazy fandoms.
 Dialogue: 10,0:07:10.24,0:07:12.62,Default,,0,0,0,,Their legends don't hold a candle to ours.
 Dialogue: 10,0:07:12.91,0:07:15.50,Default,,0,0,0,,Right, I'm gonna create the Legend of Marii!
-Dialogue: 10,0:07:15.92,0:07:21.92,Default,,0,0,0,,{\q2}Long ago, there was a cross-dressing boy \Ncalled Gold Marii.
+Dialogue: 10,0:07:15.92,0:07:21.92,Default,,0,0,0,,{\q2}Long ago, in a place far, far away, \Nthere was a cross-dressing boy called Gold Marii.
 Dialogue: 10,0:07:21.92,0:07:25.26,Default,,0,0,0,,{\q2}Gold Marii spent every day \Nlying around and doing nothing.
-Dialogue: 10,0:07:25.26,0:07:26.05,Default,,0,0,0,,Fin.
+Dialogue: 10,0:07:25.26,0:07:26.05,Default,,0,0,0,,The end.
 Dialogue: 10,0:07:26.05,0:07:27.47,Default,,0,0,0,,That's folktale!
 Dialogue: 10,0:07:27.68,0:07:30.81,Default,,0,0,0,,Folktales and fairy tales can get a little surreal sometimes.
 Dialogue: 10,0:07:30.81,0:07:32.52,Default,,0,0,0,,That was more than surreal!
@@ -305,7 +305,7 @@ Dialogue: 10,0:07:44.44,0:07:46.99,Default,,0,0,0,,At your part-time job, you an
 Dialogue: 10,0:07:48.53,0:07:50.03,Default,,0,0,0,,No! That's out of line!
 Dialogue: 10,0:07:50.03,0:07:51.58,Default,,0,0,0,,My blog would blow up!
 Dialogue: 10,0:07:51.58,0:07:53.12,Default,,0,0,0,,I'd get doxxed!
-Dialogue: 10,0:07:53.12,0:07:54.66,Default,,0,0,0,,They'd call the school about it!
+Dialogue: 10,0:07:53.12,0:07:54.66,Default,,0,0,0,,They'd call my school about it!
 Dialogue: 10,0:07:54.66,0:07:58.67,Default,,0,0,0,,{\q2}Even if we become delinquents, \Nthere's no guarantee we'll get married early.
 Dialogue: 10,0:07:59.29,0:08:00.75,Default,,0,0,0,,Think of it another way.
 Dialogue: 10,0:08:01.04,0:08:02.46,Default,,0,0,0,,This room is a box.
@@ -314,10 +314,10 @@ Dialogue: 10,0:08:05.38,0:08:07.43,Default,,0,0,0,,Wow. You're smart.
 Dialogue: 10,0:08:07.43,0:08:10.64,Default,,0,0,0,,So we've been put away too.
 Dialogue: 10,0:08:10.64,0:08:12.85,Default,,0,0,0,,We're kept women!
 Dialogue: 10,0:08:12.85,0:08:13.68,Default,,0,0,0,,Kept women?
-Dialogue: 10,0:08:14.77,0:08:18.64,Default,,0,0,0,,{\i1}Marii liked the sound of being a kept woman.
+Dialogue: 10,0:08:14.77,0:08:18.64,Default,,0,0,0,,Marii liked the sound of being a kept woman.
 Dialogue: 10,0:08:18.64,0:08:20.86,Default,,0,0,0,,Phew, that time already?
-Dialogue: 10,0:08:20.86,0:08:22.57,Default,,0,0,0,,Time to go home.
-Dialogue: 10,0:08:23.61,0:08:25.11,Default,,0,0,0,,We missed the last train.
+Dialogue: 10,0:08:20.86,0:08:22.98,Default,,0,0,0,,Time to go home.
+Dialogue: 10,0:08:22.98,0:08:25.11,Default,,0,0,0,,We missed the last train.
 Dialogue: 10,0:08:25.11,0:08:27.03,Default,,0,0,0,,Marii, you staying here?
 Dialogue: 10,0:08:27.03,0:08:29.32,Default,,0,0,0,,Kept women don't leave their humble abodes.
 Dialogue: 10,0:08:29.32,0:08:30.66,Default,,0,0,0,,Oh. I see.
@@ -325,7 +325,7 @@ Dialogue: 10,0:08:43.84,0:08:45.30,Default,,0,0,0,,Don't just barge in!
 Dialogue: 10,0:08:45.30,0:08:47.21,Default,,0,0,0,,At least knock!
 Dialogue: 10,0:08:47.21,0:08:51.09,Default,,0,0,0,,{\q2}Marii, a kept woman and a shut-in \Nare not the same thing.
 Dialogue: 10,0:08:51.09,0:08:53.47,Default,,0,0,0,,It's like a surreal take on a hina doll.
-Dialogue: 10,0:08:53.47,0:08:55.43,Default,,0,0,0,,Still no Emperor doll to go with her, though.
+Dialogue: 10,0:08:53.47,0:08:55.43,Default,,0,0,0,,Still no Emperor to go with her, though.
 Dialogue: 10,0:09:03.02,0:09:04.06,Default,,0,0,0,,Tsukiji fish market!
 Dialogue: 10,0:09:04.61,0:09:05.73,Default,,0,0,0,,Fish!
 Dialogue: 10,0:09:06.32,0:09:07.32,Default,,0,0,0,,Tuna!
@@ -367,7 +367,7 @@ Dialogue: 10,0:10:34.78,0:10:36.99,Default,,0,0,0,,Their gestures are pretty coo
 Dialogue: 10,0:10:36.99,0:10:39.66,Default,,0,0,0,,One of the top three gestures.
 Dialogue: 10,0:10:39.66,0:10:40.79,Default,,0,0,0,,What are the other two?
 Dialogue: 10,0:10:40.79,0:10:42.00,Default,,0,0,0,,Rappers
-Dialogue: 10,0:10:42.00,0:10:45.79,Default,,0,0,0,,{\q2}and old men offering to \Nbuy their colleagues a drink at a bar.
+Dialogue: 10,0:10:42.00,0:10:45.79,Default,,0,0,0,,{\q2}and old men offering to buy \Ntheir colleagues a drink at a bar.
 Dialogue: 10,0:10:45.79,0:10:50.00,Default,,0,0,0,,Yeah, the older guys who work here are kind of cool.
 Dialogue: 10,0:10:50.00,0:10:51.80,Default,,0,0,0,,Look! An electric truck!
 Dialogue: 10,0:10:51.80,0:10:53.01,Default,,0,0,0,,Awesome!
@@ -377,11 +377,11 @@ Dialogue: 10,0:10:56.34,0:10:58.14,Default,,0,0,0,,{\q2}Don't let it lead you as
 Dialogue: 10,0:10:58.14,0:11:01.60,Default,,0,0,0,,{\q2}Winter ski slopes, summer beaches, \Nschool uniforms, and electric trucks!
 Dialogue: 10,0:11:01.60,0:11:03.39,Default,,0,0,0,,Indeed. She's right.
 Dialogue: 10,0:11:03.39,0:11:05.39,Default,,0,0,0,,When you come back to the drab old city,
-Dialogue: 10,0:11:05.39,0:11:08.44,Default,,0,0,0,,{\q2}that guy never looks as hot \Nas he did on the slopes or at the beach.
+Dialogue: 10,0:11:05.39,0:11:08.44,Default,,0,0,0,,{\q2}that guy never looks as hot as he did \Non the slopes or at the beach.
 Dialogue: 10,0:11:08.44,0:11:11.32,Default,,0,0,0,,{\q2}Or when he changes out of his uniform \Nand his normal clothes are beyond unfashionable.
 Dialogue: 10,0:11:11.32,0:11:13.78,Default,,0,0,0,,{\q2}Or when he steps off the electric truck \Nand he's just some old guy.
 Dialogue: 10,0:11:13.78,0:11:15.61,Default,,0,0,0,,He's still some old guy even on the truck.
-Dialogue: 10,0:11:15.61,0:11:17.16,Default,,0,0,0,,There's no doubt about that.
+Dialogue: 10,0:11:15.61,0:11:17.16,Default,,0,0,0,,That doesn't change.
 Dialogue: 10,0:11:17.49,0:11:20.62,Default,,0,0,0,,{\q2}Those trucks are great. \NI understand wanting to ride one.
 Dialogue: 10,0:11:20.62,0:11:22.41,Default,,0,0,0,,You need a full license to drive one.
 Dialogue: 10,0:11:22.41,0:11:24.46,Default,,0,0,0,,What, surely a scooter license is enough?
@@ -397,10 +397,10 @@ Dialogue: 10,0:11:45.02,0:11:46.27,Default,,0,0,0,,Oh, right.
 Dialogue: 10,0:11:46.27,0:11:48.23,Default,,0,0,0,,Yeah, I bet the breeze is really refreshing!
 Dialogue: 10,0:11:48.52,0:11:53.94,Default,,0,0,0,,{\q2}I'd get chills thinking about what they'd do \Nif I dropped an iron bar on them.
 Dialogue: 10,0:11:55.32,0:11:57.07,Default,,0,0,0,,Th-That's chilly...
-Dialogue: 10,0:11:57.07,0:11:58.78,Default,,0,0,0,,More like cold.
+Dialogue: 10,0:11:57.07,0:11:58.78,Default,,0,0,0,,More like plain cold-hearted.
 Dialogue: 10,0:11:58.78,0:11:59.66,Default,,0,0,0,,What about you, Kigu?
 Dialogue: 10,0:11:59.66,0:12:02.87,Default,,0,0,0,,Me? I wanna drive a Merc—
-Dialogue: 10,0:12:03.95,0:12:09.00,Default,,0,0,0,,{\q2}I want to go to a theme park and \Npay a hundred yen to ride the panda bear!
+Dialogue: 10,0:12:03.95,0:12:09.00,Default,,0,0,0,,{\q2}I want to go to a theme park and pay \Na hundred yen to ride the panda!
 Dialogue: 10,0:12:10.17,0:12:11.38,Default,,0,0,0,,Cutie-pie!
 Dialogue: 10,0:12:11.38,0:12:12.84,Default,,0,0,0,,That's our Kigu!
 Dialogue: 10,0:12:13.55,0:12:16.63,Default,,0,0,0,,{\i1}Ugh, I'm sick of playing into their expectations of me.
@@ -418,11 +418,11 @@ Dialogue: 10,0:12:37.70,0:12:39.99,Default,,0,0,0,,I'm way too used to "Tsukiji 
 Dialogue: 10,0:12:39.99,0:12:42.49,Default,,0,0,0,,"Toyosu Market" just sounds weird.
 Dialogue: 10,0:12:42.49,0:12:44.99,Default,,0,0,0,,The big fish market wasn't in Tsukiji originally.
 Dialogue: 10,0:12:44.99,0:12:46.45,Default,,0,0,0,,It was at Nihonbashi.
-Dialogue: 10,0:12:47.37,0:12:50.00,Default,,0,0,0,,It moved due to the Great Kanto Earthquake.
+Dialogue: 10,0:12:47.37,0:12:50.00,Default,,0,0,0,,It was moved after the Great Kanto Earthquake.
 Dialogue: 10,0:12:50.00,0:12:53.21,Default,,0,0,0,,Last time was tectonics, this time it's politics.
 Dialogue: 10,0:12:55.17,0:12:56.92,Default,,0,0,0,,Ah! A T-shirt with "Tuna" on it!
 Dialogue: 10,0:12:56.92,0:12:59.43,Default,,0,0,0,,The kanji for that is written with "fish" and "exist".
-Dialogue: 10,0:12:59.43,0:13:01.80,Default,,0,0,0,,Maybe that's to show how important it is...
+Dialogue: 10,0:12:59.43,0:13:01.80,Default,,0,0,0,,Maybe that's to show how important it is.
 Dialogue: 10,0:13:01.80,0:13:05.47,Default,,0,0,0,,{\q2}Yeah! Like, you'd never have a word \Nwith "fish" and "doesn't exist", right?
 Dialogue: 10,0:13:05.47,0:13:07.02,Default,,0,0,0,,{\q2}But you could use that to mean \N"glass catfish", couldn't you?
 Dialogue: 10,0:13:07.02,0:13:07.93,Default,,0,0,0,,What's that?
@@ -455,7 +455,7 @@ Dialogue: 10,0:14:03.99,0:14:07.12,Default,,0,0,0,,{\i1}Ugh, I'm so sick of play
 Dialogue: 10,0:14:07.12,0:14:08.99,Default,,0,0,0,,Kukuru would be "person" and...
 Dialogue: 10,0:14:08.99,0:14:10.41,Default,,0,0,0,,"Pain" for sure.
 Dialogue: 10,0:14:10.70,0:14:11.46,Default,,0,0,0,,Huh?
-Dialogue: 10,0:14:12.37,0:14:13.58,Default,,0,0,0,,That's cool!
+Dialogue: 10,0:14:12.37,0:14:13.58,Default,,0,0,0,,That's so cool!
 Dialogue: 10,0:14:14.08,0:14:18.80,Default,,0,0,0,,{\q2}Born into a poor family, abused, neglected, \Nsent out to pick pockets on the street,
 Dialogue: 10,0:14:18.80,0:14:22.26,Default,,0,0,0,,{\q2}protective custody, drop out, \Nteenage pregnancy, get married,
 Dialogue: 10,0:14:22.26,0:14:24.51,Default,,0,0,0,,domestic violence, poisoning, arrest, divorce, illness!
@@ -479,7 +479,7 @@ Dialogue: 10,0:14:53.66,0:14:55.83,Default,,0,0,0,,Forget unfinished, I'm famish
 Dialogue: 10,0:14:55.83,0:14:57.63,Default,,0,0,0,,Let's get some lunch.
 Dialogue: 10,0:14:57.63,0:15:01.55,Default,,0,0,0,,{\q2}What do you fancy? Sushi? \NOr some kind of set menu?
 Dialogue: 10,0:15:01.55,0:15:04.42,Default,,0,0,0,,When you come to Tsukiji, it's gotta be Yoshinoya!
-Dialogue: 10,0:15:04.42,0:15:07.93,Default,,0,0,0,,Huh? Beef bowl? Not fish?
+Dialogue: 10,0:15:04.42,0:15:07.93,Default,,0,0,0,,Huh? Beef? Not fish?
 Dialogue: 10,0:15:07.93,0:15:11.43,Default,,0,0,0,,The first Yoshinoya was established here in Tsukiji.
 Dialogue: 10,0:15:11.43,0:15:12.35,Default,,0,0,0,,Sounds good to me.
 Dialogue: 10,0:15:13.89,0:15:16.27,Default,,0,0,0,,Look! The promised land!
@@ -506,7 +506,7 @@ Dialogue: 10,0:16:33.60,0:16:35.52,Default,,0,0,0,,Nothing unusual there.
 Dialogue: 10,0:16:35.52,0:16:40.48,Default,,0,0,0,,{\q2}Um... I have the feeling there actually {\i1}was{\i0} \Nsomething unusual down there.
 Dialogue: 10,0:16:40.48,0:16:42.61,Default,,0,0,0,,Something that uses electricity?
 Dialogue: 10,0:16:42.61,0:16:44.44,Default,,0,0,0,,Uh, no, but...
-Dialogue: 10,0:16:44.44,0:16:46.15,Default,,0,0,0,,Then there was nothing unusual.
+Dialogue: 10,0:16:44.44,0:16:46.15,Default,,0,0,0,,So nothing to worry about.
 Dialogue: 10,0:16:46.15,0:16:47.61,Default,,0,0,0,,Um, but...
 Dialogue: 10,0:16:47.61,0:16:49.49,Default,,0,0,0,,Stop fussing about trivial things!
 Dialogue: 10,0:16:49.49,0:16:51.24,Default,,0,0,0,,We gotta focus on the electricity bill!
@@ -522,11 +522,11 @@ Dialogue: 10,0:17:17.64,0:17:19.39,Default,,0,0,0,,Leaving music on all the time
 Dialogue: 10,0:17:19.39,0:17:21.02,Default,,0,0,0,,Only one way to find out!
 Dialogue: 10,0:17:28.11,0:17:29.95,Default,,0,0,0,,No speakers, then.
 Dialogue: 10,0:17:29.95,0:17:31.15,Default,,0,0,0,,Nope.
-Dialogue: 10,0:17:33.12,0:17:34.83,Default,,0,0,0,,Nothing unusual there.
+Dialogue: 10,0:17:33.12,0:17:34.83,Default,,0,0,0,,Nothing to worry about here.
 Dialogue: 10,0:17:36.95,0:17:40.79,Default,,0,0,0,,Um, you didn't notice anything unusual there?
 Dialogue: 10,0:17:41.46,0:17:43.67,Default,,0,0,0,,You mean something that uses electricity?
 Dialogue: 10,0:17:43.67,0:17:47.13,Default,,0,0,0,,No, nothing that uses electricity, but...
-Dialogue: 10,0:17:47.13,0:17:48.71,Default,,0,0,0,,Right, so nothing unusual.
+Dialogue: 10,0:17:47.13,0:17:48.71,Default,,0,0,0,,Right, so nothing to worry about.
 Dialogue: 10,0:17:48.71,0:17:51.09,Default,,0,0,0,,No, um, I mean—
 Dialogue: 10,0:17:51.09,0:17:55.60,Default,,0,0,0,,{\i1\q2}Can't these guys see anything \Nbut what they're focused on?
 Dialogue: 10,0:17:55.60,0:17:56.64,Default,,0,0,0,,That reminds me.
@@ -536,16 +536,16 @@ Dialogue: 10,0:18:01.27,0:18:04.56,Default,,0,0,0,,{\q2}Maybe someone's using \N
 Dialogue: 10,0:18:04.56,0:18:09.90,Default,,0,0,0,,{\q2}These days, massage chairs massage everything, \Nfrom your shoulders to your back, from your calves to your arms.
 Dialogue: 10,0:18:09.90,0:18:11.70,Default,,0,0,0,,They use a lot of electricity!
 Dialogue: 10,0:18:11.70,0:18:13.53,Default,,0,0,0,,Only one way to find out!
-Dialogue: 10,0:18:19.95,0:18:21.75,Default,,0,0,0,,No massage chair, then.
+Dialogue: 10,0:18:19.95,0:18:21.75,Default,,0,0,0,,No massage chair up here.
 Dialogue: 10,0:18:21.75,0:18:22.66,Default,,0,0,0,,Nope.
-Dialogue: 10,0:18:22.66,0:18:24.88,Default,,0,0,0,,Nothing unusual there.
+Dialogue: 10,0:18:22.66,0:18:24.88,Default,,0,0,0,,Nothing to worry about here either.
 Dialogue: 10,0:18:26.17,0:18:31.72,Default,,0,0,0,,{\q2}I feel like there might have been \Na mortal danger lurking in the ceiling...
 Dialogue: 10,0:18:31.72,0:18:33.97,Default,,0,0,0,,Something that uses electricity?
 Dialogue: 10,0:18:33.97,0:18:35.72,Default,,0,0,0,,Uh, no, but...
-Dialogue: 10,0:18:35.72,0:18:37.22,Default,,0,0,0,,Right, then there was nothing unusual.
+Dialogue: 10,0:18:35.72,0:18:37.22,Default,,0,0,0,,Right, so nothing to worry about.
 Dialogue: 10,0:18:37.22,0:18:38.14,Default,,0,0,0,,Um, but...
 Dialogue: 10,0:18:38.14,0:18:42.39,Default,,0,0,0,,{\q2}So there weren't any electrical appliances \Nunder the floor, in the walls, or in the ceiling.
-Dialogue: 10,0:18:42.39,0:18:44.94,Default,,0,0,0,,Then that means the problem must be in the room.
+Dialogue: 10,0:18:42.39,0:18:44.94,Default,,0,0,0,,The problem must be somewhere in the room.
 Dialogue: 10,0:18:44.94,0:18:46.10,Default,,0,0,0,,Which means...
 Dialogue: 10,0:18:46.10,0:18:47.27,Default,,0,0,0,,Your glasses!
 Dialogue: 10,0:18:47.27,0:18:48.32,Default,,0,0,0,,What's wrong with 'em?
@@ -590,14 +590,14 @@ Dialogue: 10,0:20:56.69,0:20:57.44,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:20:57.44,0:20:59.78,Default,,0,0,0,,{\q2}So to create electricity, \Nwe need to create encounters.
 Dialogue: 10,0:21:01.78,0:21:03.70,Default,,0,0,0,,Welcome!
 Dialogue: 10,0:21:04.24,0:21:07.20,Default,,0,0,0,,Come in, come in! We have lots of pretty girls!
-Dialogue: 10,0:21:10.37,0:21:13.29,Default,,0,0,0,,{\q2}It's working! I can practically \N{\i1}feel{\i0} the electricity in the air!
+Dialogue: 10,0:21:10.37,0:21:13.29,Default,,0,0,0,,{\q2}It's working! I can practically {\i1}feel{\i0} \Nthe electricity in the air!
 Dialogue: 10,0:21:13.29,0:21:16.21,Default,,0,0,0,,Police! Nobody move!
-Dialogue: 10,0:21:16.21,0:21:19.01,Default,,0,0,0,,{\q2}We received a tip-off that there were \Nunlicensed indecent activities going on here!
+Dialogue: 10,0:21:16.21,0:21:19.01,Default,,0,0,0,,{\q2}We received a tip that there were \Nunlicensed indecent activities going on here!
 Dialogue: 10,0:21:19.01,0:21:22.97,Default,,0,0,0,,{\q2}Indecent? We're just trying \Nto make a little electricity here!
 Dialogue: 10,0:21:21.59,0:21:22.97,Alt,,0,0,0,,You're digging yourself deeper!
 Dialogue: 10,0:21:22.97,0:21:24.80,Default,,0,0,0,,Stop being so obstinate!
 Dialogue: 10,0:21:41.28,0:21:43.28,Default,,0,0,0,,Wh-What on earth...
-Dialogue: 10,0:21:44.03,0:21:47.41,Default,,0,0,0,,So it was you who used all that electricity, Kigu.
+Dialogue: 10,0:21:44.03,0:21:47.41,Default,,0,0,0,,So you were using up all that electricity, Kigu!
 Dialogue: 10,0:21:47.41,0:21:48.62,Default,,0,0,0,,But... what?
 Dialogue: 10,0:21:48.62,0:21:50.71,Default,,0,0,0,,It feels good to solve that mystery.
 Dialogue: 10,0:21:50.71,0:21:52.42,Default,,0,0,0,,Yeah. I'm glad.
@@ -605,13 +605,12 @@ Dialogue: 10,0:21:52.42,0:21:54.79,Default,,0,0,0,,Hopefully the manager won't g
 Dialogue: 10,0:21:54.79,0:21:56.04,Default,,0,0,0,,But...
 Dialogue: 10,0:21:56.04,0:21:57.88,Default,,0,0,0,,It was just the robot.
 Dialogue: 10,0:21:57.88,0:22:05.01,Default,,0,0,0,,{\q2}At that moment, the real Kigu was asleep \Nat home, dreaming of electric sheep.
-Dialogue: 10,0:22:05.01,0:22:09.43,Default,,0,0,0,,Two's enough... please understand...
-Comment: 0,0:23:39.94,0:23:39.94,Default,chapter,0,0,0,,{Preview}
+Dialogue: 10,0:22:05.01,0:22:09.43,Default,,0,0,0,,Two's enough. Please understand...
 Dialogue: 10,0:23:40.52,0:23:42.69,Default,,0,0,0,,Anrakutei Kukuru here.
 Dialogue: 10,0:23:43.03,0:23:47.45,Default,,0,0,0,,{\q2}Summer is the season of love, \Nand fall is the season of sports.
 Dialogue: 10,0:23:47.45,0:23:49.66,Default,,0,0,0,,What kind of season would you say winter is?
 Dialogue: 10,0:23:49.66,0:23:53.83,Default,,0,0,0,,It's the season of broken hearts and injuries.
 Dialogue: 10,0:23:54.58,0:23:57.92,Default,,0,0,0,,Better to stay indoors and stay safe.
 Dialogue: 10,0:23:58.21,0:24:01.21,Default,,0,0,0,,Winter is the season of hibernation.
-Dialogue: 10,0:24:01.54,0:24:03.96,Default,,0,0,0,,Rakugo Girls episode 8 includes:
+Dialogue: 10,0:24:01.54,0:24:03.96,Default,,0,0,0,,Rakugo Girls episode eight includes:
 Dialogue: 10,0:24:04.30,0:24:09.22,Default,,0,0,0,,"Bag of Gold", "Unsteady", and "Is It Over Yet?"
