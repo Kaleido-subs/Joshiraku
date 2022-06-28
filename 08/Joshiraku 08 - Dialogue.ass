@@ -39,15 +39,15 @@ Dialogue: 10,0:01:40.00,0:01:41.04,Default,,0,0,0,,year...
 Dialogue: 10,0:01:41.33,0:01:42.33,Default,,0,0,0,,everybo...
 Dialogue: 10,0:01:42.33,0:01:43.25,Default,,0,0,0,,...dy.
 Dialogue: 10,0:01:49.67,0:01:52.30,Default,,0,0,0,,The new year really refreshes your spirit.
-Dialogue: 10,0:01:52.30,0:01:54.09,Default,,0,0,0,,A new start.
+Dialogue: 10,0:01:52.30,0:01:54.09,Default,,0,0,0,,A fresh, new start.
 Dialogue: 10,0:01:54.09,0:01:57.35,Default,,0,0,0,,I love things that have "new" in them.
 Dialogue: 10,0:01:57.35,0:01:59.60,Default,,0,0,0,,Like a new release, or a new product.
 Dialogue: 10,0:01:59.60,0:02:03.39,Default,,0,0,0,,{\q2}Or newlywed, or newcomer! \NThey're bursting with possibilities.
-Dialogue: 10,0:02:03.39,0:02:07.90,Default,,0,0,0,,{\q2}New jackpots and new machines make me \Nwant to go try my luck at pachinko.
+Dialogue: 10,0:02:03.39,0:02:07.90,Default,,0,0,0,,{\q2}New jackpots and new machines make me \Nwant to go try my luck at the arcades.
 Dialogue: 10,0:02:07.90,0:02:11.94,Default,,0,0,0,,{\q2}Sometimes it's hard to see \Nwhat's so "new" about them, though.
 Dialogue: 10,0:02:11.94,0:02:14.36,Default,,0,0,0,,Like New York or New Orleans for example.
 Dialogue: 10,0:02:14.36,0:02:18.24,Default,,0,0,0,,Even newspapers aren't really "new" anymore.
-Dialogue: 10,0:02:18.24,0:02:21.75,Default,,0,0,0,,{\q2}We should call them "oldspapers". \NThe internet's {\i1}way{\i0} faster and has less bias.
+Dialogue: 10,0:02:18.24,0:02:21.75,Default,,0,0,0,,{\q2}We should call them "oldspapers". \NThe internet's {\i1}way{\i0} faster and there's less bias.
 Dialogue: 10,0:02:21.75,0:02:24.37,Default,,0,0,0,,New potatoes! New York pizza!
 Dialogue: 10,0:02:24.37,0:02:26.42,Default,,0,0,0,,Is that what "newtritious" means?
 Dialogue: 10,0:02:26.42,0:02:29.25,Default,,0,0,0,,The "nu" in "nutritious" has nothing to do with "new".
@@ -70,10 +70,10 @@ Dialogue: 10,0:02:55.11,0:02:57.37,Default,,0,0,0,,No, no, no, no, {\i1}no{\i0}!
 Dialogue: 10,0:02:57.37,0:02:59.49,Default,,0,0,0,,What, then? What's "D"?
 Dialogue: 10,0:02:59.49,0:03:03.29,Default,,0,0,0,,Why was my part in our announcement just "dy"?!
 Dialogue: 10,0:03:03.54,0:03:05.54,Default,,0,0,0,,Oh right, the announcement.
-Dialogue: 10,0:03:05.54,0:03:06.87,Default,,0,0,0,,Oh, is that all?
-Dialogue: 10,0:03:06.87,0:03:08.38,Default,,0,0,0,,Whaddya mean, "is that all"?
+Dialogue: 10,0:03:05.54,0:03:06.87,Default,,0,0,0,,Oh, that?
+Dialogue: 10,0:03:06.87,0:03:08.38,Default,,0,0,0,,Whaddya mean, "that"?
 Dialogue: 10,0:03:08.38,0:03:11.34,Default,,0,0,0,,But you've got to be at the end, Marii.
-Dialogue: 10,0:03:12.05,0:03:15.26,Default,,0,0,0,,She's right. The thought of going last makes me tremble...
+Dialogue: 10,0:03:12.05,0:03:15.26,Default,,0,0,0,,She's right. The thought of going last makes me tremble.
 Dialogue: 10,0:03:15.26,0:03:21.22,Default,,0,0,0,,{\q2}I'd be so nervous, I could see myself saying \N"Have a good year everybo... doo."
 Dialogue: 10,0:03:22.27,0:03:23.60,Default,,0,0,0,,How awful...
 Dialogue: 10,0:03:24.48,0:03:26.19,Default,,0,0,0,,Yes, indeed.
@@ -123,7 +123,7 @@ Dialogue: 10,0:05:21.34,0:05:22.34,Default,,0,0,0,,I'll take it.
 Dialogue: 10,0:05:22.34,0:05:25.30,Default,,0,0,0,,Right. I'll start, then.
 Dialogue: 10,0:05:30.18,0:05:32.65,Default,,0,0,0,,{\i1}This thin one... It's gotta be ten thousand yen!
 Dialogue: 10,0:05:51.12,0:05:51.83,Default,,0,0,0,,{\i1}There!
-Dialogue: 10,0:05:53.62,0:05:56.25,Default,,0,0,0,,{\q2}Bzzzt! That's what you get for \Nbeing greedy and rushing.
+Dialogue: 10,0:05:53.62,0:05:56.25,Default,,0,0,0,,{\q2}Bzzzt! That's what you get \Nfor being greedy and rushing.
 Dialogue: 10,0:05:56.25,0:06:00.17,Default,,0,0,0,,{\q2}Someone as stingy as our Master \Nwould never give us ten grand!
 Dialogue: 10,0:06:00.17,0:06:02.05,Default,,0,0,0,,Me next!
 Dialogue: 10,0:06:05.68,0:06:09.56,Default,,0,0,0,,I don't care about the values, I just want a lot of notes!
@@ -156,7 +156,7 @@ Dialogue: 10,0:07:17.04,0:07:21.09,Default,,0,0,0,,Coins don't equate low value,
 Dialogue: 10,0:07:21.09,0:07:24.51,Default,,0,0,0,,{\q2}There have been commemorative coins \Nworth up to hundreds of thousands of yen.
 Dialogue: 10,0:07:24.51,0:07:27.26,Default,,0,0,0,,That doesn't sound very likely.
 Dialogue: 10,0:07:27.26,0:07:29.55,Default,,0,0,0,,They're probably foreign coins.
-Dialogue: 10,0:07:29.55,0:07:31.10,Default,,0,0,0,,Foreign coins?
+Dialogue: 10,0:07:29.55,0:07:31.10,Default,,0,0,0,,Foreign ones?
 Dialogue: 10,0:07:32.93,0:07:34.98,Default,,0,0,0,,Could be a five hundred won coin.
 Dialogue: 10,0:07:34.98,0:07:36.77,Default,,0,0,0,,How much would that be worth?
 Dialogue: 10,0:07:36.77,0:07:40.31,Default,,0,0,0,,{\q2}At the current exchange rate, \None won equals roughly 0.08 yen.
@@ -180,22 +180,23 @@ Dialogue: 10,0:08:20.90,0:08:23.86,Default,,0,0,0,,I don't think she can measure
 Dialogue: 10,0:08:23.86,0:08:26.74,Default,,0,0,0,,I think the key is for a dungeon.
 Dialogue: 10,0:08:27.40,0:08:30.20,Default,,0,0,0,,Full of hordes of terrifying monsters!
 Dialogue: 10,0:08:30.20,0:08:31.20,Default,,0,0,0,,Scary!
-Dialogue: 10,0:08:31.20,0:08:34.54,Default,,0,0,0,,{\q2}Awesome! There's bound to be \Na bunch of treasure at the end!
+Dialogue: 10,0:08:31.20,0:08:32.37,Default,,0,0,0,,Awesome!
+Dialogue: 10,0:08:32.37,0:08:34.54,Default,,0,0,0,,There's bound to be a bunch of treasure at the end!
 Dialogue: 10,0:08:34.54,0:08:35.79,Default,,0,0,0,,Of course.
-Dialogue: 10,0:08:41.50,0:08:43.34,Default,,0,0,0,,A chest filled with five hundred won coins!
-Dialogue: 9,0:08:43.34,0:08:43.38,Default,,230,191,99,,A chest filled with five hundred won coins!
-Dialogue: 9,0:08:43.38,0:08:43.42,Default,,297,123,128,,A chest filled with five hundred won coins!
-Dialogue: 9,0:08:43.42,0:08:43.46,Default,,318,102,140,,A chest filled with five hundred won coins!
-Dialogue: 9,0:08:43.46,0:08:43.50,Default,,351,69,135,,A chest filled with five hundred won coins!
-Dialogue: 9,0:08:43.50,0:08:43.54,Default,,405,15,96,,A chest filled with five hundred won coins!
-Dialogue: 9,0:08:43.54,0:08:43.59,Default,,435,-15,32,,A chest filled with five hundred won coins!
-Dialogue: 9,0:08:43.59,0:08:43.63,Default,,473,-52,-30,,A chest filled with five hundred won coins!
+Dialogue: 10,0:08:41.50,0:08:43.34,Default,,0,0,0,,A chest filled-with five hundred-won coins!
+Dialogue: 9,0:08:43.34,0:08:43.38,Default,,230,191,99,,A chest filled-with five hundred-won coins!
+Dialogue: 9,0:08:43.38,0:08:43.42,Default,,297,123,128,,A chest filled-with five hundred-won coins!
+Dialogue: 9,0:08:43.42,0:08:43.46,Default,,318,102,140,,A chest filled-with five hundred-won coins!
+Dialogue: 9,0:08:43.46,0:08:43.50,Default,,351,69,135,,A chest filled-with five hundred-won coins!
+Dialogue: 9,0:08:43.50,0:08:43.54,Default,,405,15,96,,A chest filled-with five hundred-won coins!
+Dialogue: 9,0:08:43.54,0:08:43.59,Default,,435,-15,32,,A chest filled-with five hundred-won coins!
+Dialogue: 9,0:08:43.59,0:08:43.63,Default,,473,-52,-30,,A chest filled-with five hundred-won coins!
 Dialogue: 10,0:08:43.25,0:08:43.29,Default,,146,274,-29,,It's not gonna be in won!
 Dialogue: 11,0:08:43.29,0:08:43.34,Default,,185,235,24,,It's not gonna be in won!
 Dialogue: 10,0:08:43.34,0:08:44.67,Default,,0,0,0,,It's not gonna be in won!
 Dialogue: 10,0:08:44.67,0:08:48.59,Default,,0,0,0,,Well, whatever it is, it's probably not a key. Huh?
 Dialogue: 10,0:08:49.72,0:08:50.38,Default,,0,0,0,,A camera?
-Dialogue: 10,0:08:50.38,0:08:53.76,Default,,0,0,0,,{\q2}Oh, should we say something \Nto the folks viewing via satellite feed?
+Dialogue: 10,0:08:50.38,0:08:53.76,Default,,0,0,0,,{\q2}Oh, should we say something \Nto the folks viewing via satellite?
 Dialogue: 10,0:08:53.76,0:08:56.18,Default,,0,0,0,,Marii should go last.
 Dialogue: 10,0:08:56.18,0:08:57.68,Default,,0,0,0,,Again?
 Dialogue: 10,0:08:57.68,0:09:00.44,Default,,0,0,0,,The last words are the ones people remember most.
@@ -213,13 +214,13 @@ Dialogue: 10,0:09:33.47,0:09:36.56,Default,,0,0,0,,This isn't good. She's closed
 Dialogue: 10,0:09:36.56,0:09:41.69,Default,,0,0,0,,I can't help but wonder what was in the envelope, though.
 Dialogue: 10,0:09:41.69,0:09:45.52,Default,,0,0,0,,I think it really was a key after all.
 Dialogue: 10,0:09:46.69,0:09:49.69,Default,,0,0,0,,The key to Marii's heart.
-Dialogue: 10,0:10:05.04,0:10:08.00,Default,,0,0,0,,That didn't wrap anything up!
+Dialogue: 10,0:10:05.04,0:10:08.00,Default,,0,0,0,,That wrapped up jack-shit!
 Dialogue: 10,0:10:10.84,0:10:11.80,Default,,0,0,0,,Won.
-Dialogue: 10,0:10:18.89,0:10:20.72,Default,,0,0,0,,{\i1}My name is
-Dialogue: 10,0:10:21.89,0:10:22.94,Default,,0,0,0,,{\i1}Marii.
+Dialogue: 10,0:10:18.89,0:10:20.72,Default,,0,0,0,,{\i1}My name
+Dialogue: 10,0:10:21.89,0:10:22.94,Default,,0,0,0,,{\i1}is Marii.
 Dialogue: 10,0:10:23.60,0:10:26.02,Default,,0,0,0,,{\i1}I chased an adorable cat,
 Dialogue: 10,0:10:26.69,0:10:29.28,Default,,0,0,0,,{\i1}and ended up lost somehow.
-Dialogue: 10,0:10:30.15,0:10:32.28,Default,,0,0,0,,{\i1}I remember something I heard a long time ago.
+Dialogue: 10,0:10:30.15,0:10:32.28,Default,,0,0,0,,{\q2\i1}A story I heard a long time ago \Nbubbled up in my mind.
 Dialogue: 10,0:10:33.65,0:10:38.45,Default,,0,0,0,,{\i1\q2}A story about a place built from the dreams \Nand wishes of children who never grew up.
 Dialogue: 10,0:10:39.79,0:10:42.04,Default,,0,0,0,,Could this be Akiha—
 Dialogue: 10,0:10:42.04,0:10:44.46,Default,,0,0,0,,It's Jizodori shopping street.
@@ -238,7 +239,7 @@ Dialogue: 10,0:11:18.12,0:11:18.99,Default,,0,0,0,,Stop it!
 Dialogue: 10,0:11:18.99,0:11:21.20,Default,,0,0,0,,Praise be! Thank you!
 Dialogue: 10,0:11:23.16,0:11:27.04,Default,,0,0,0,,Why are there so many animal-themed clothes?
 Dialogue: 10,0:11:27.63,0:11:31.25,Default,,0,0,0,,{\q2}This one with Mt. Fuji looks like \Nit'd bring very good luck indeed!
-Dialogue: 10,0:11:31.25,0:11:34.67,Default,,0,0,0,,{\q2}I bet this T-shirt with Kannon \Non it would bring you fortune!
+Dialogue: 10,0:11:31.25,0:11:34.67,Default,,0,0,0,,{\q2}I bet this T-shirt with Kannon on it \Nwould bring you fortune!
 Dialogue: 10,0:11:34.67,0:11:37.55,Default,,0,0,0,,{\q2}Gonna buy it? Y'can't take it with you \Ninto the next world, you know!
 Dialogue: 10,0:11:37.55,0:11:38.84,Default,,0,0,0,,Right?
 Dialogue: 10,0:11:38.84,0:11:43.68,Default,,0,0,0,,{\q2}The keywords here are "good luck", \N"fortune", and "the next world".
@@ -251,26 +252,26 @@ Dialogue: 10,0:11:55.78,0:11:59.32,Default,,0,0,0,,Sometimes I see pink elephant
 Dialogue: 10,0:11:59.74,0:12:01.41,Default,,0,0,0,,That's alcoholic hallucinosis. {## https://en.wikipedia.org/wiki/Seeing_pink_elephants}
 Dialogue: 10,0:12:01.41,0:12:03.95,Default,,0,0,0,,Bland conversations like these tire me out.
 Dialogue: 10,0:12:03.95,0:12:05.91,Default,,0,0,0,,Okay, let's kick things up a notch.
-Dialogue: 10,0:12:06.83,0:12:08.75,Default,,0,0,0,,Shall we eat some grilled lamprey?
+Dialogue: 10,0:12:06.83,0:12:08.75,Default,,0,0,0,,Fancy some grilled lamprey?
 Dialogue: 10,0:12:08.75,0:12:10.75,Default,,0,0,0,,Lampreys are kind of scary.
-Dialogue: 10,0:12:11.79,0:12:13.42,Default,,0,0,0,,They call them "nine-eyed eels".
+Dialogue: 10,0:12:11.79,0:12:13.42,Default,,0,0,0,,They call them "eight-eyed eels".
 Dialogue: 10,0:12:13.42,0:12:15.01,Default,,0,0,0,,They do have a lot of eyes!
-Dialogue: 10,0:12:15.01,0:12:17.88,Default,,0,0,0,,Those aren't eyes, they're gills.
+Dialogue: 10,0:12:15.01,0:12:17.88,Default,,0,0,0,,Those aren't eyes. They're gills.
 Dialogue: 10,0:12:20.80,0:12:24.06,Default,,0,0,0,,Ah! The soy-boiled carp's looking at me!
-Dialogue: 10,0:12:24.06,0:12:30.48,Default,,0,0,0,,{\q2}That reminds me of when my grandma made me \Neat soy-boiled locusts to make my teeth strong.
+Dialogue: 10,0:12:24.06,0:12:30.48,Default,,0,0,0,,{\q2}That reminds me of when my grandma made me eat \Nsoy-boiled locusts to make my teeth strong.
 Dialogue: 10,0:12:30.48,0:12:33.07,Default,,0,0,0,,I was made to eat bee larvae.
 Dialogue: 10,0:12:34.02,0:12:35.99,Default,,0,0,0,,You guys are minor-league.
 Dialogue: 10,0:12:35.99,0:12:41.20,Default,,0,0,0,,I was made to eat rice made from caddisfly larvae.
-Dialogue: 10,0:12:41.87,0:12:44.66,Default,,0,0,0,,When you lift the lid of the rice cooker...
+Dialogue: 10,0:12:41.87,0:12:44.66,Default,,0,0,0,,When you lift the lid of the rice cooker
 Dialogue: 10,0:12:44.66,0:12:47.16,Default,,0,0,0,,black lumps wiggle and jiggle!
 Dialogue: 10,0:12:47.16,0:12:48.50,Default,,0,0,0,,Stop it!
 Dialogue: 10,0:12:48.50,0:12:50.29,Default,,0,0,0,,No more!
 Dialogue: 10,0:12:52.08,0:12:53.67,Default,,0,0,0,,Oh look, Kintarou candy.
 Dialogue: 10,0:12:53.67,0:12:55.63,Default,,0,0,0,,That brings back memories.
-Dialogue: 10,0:12:55.63,0:12:58.47,Default,,0,0,0,,{\q2}It's got the same face running \Nthrough it wherever you cut.
+Dialogue: 10,0:12:55.63,0:12:58.47,Default,,0,0,0,,{\q2}It's got the same face \Nrunning through it wherever you cut.
 Dialogue: 10,0:12:58.47,0:13:00.84,Default,,0,0,0,,What if it had Gankyou's face wherever you cut?
 Dialogue: 10,0:13:02.30,0:13:04.76,Default,,0,0,0,,What if it had Kukuru's face wherever you cut?
-Dialogue: 10,0:13:07.10,0:13:09.14,Default,,0,0,0,,That doesn't sound like it'd be sweet.
+Dialogue: 10,0:13:07.10,0:13:09.14,Default,,0,0,0,,That sounds kinda bitter.
 Dialogue: 10,0:13:12.15,0:13:13.69,Default,,0,0,0,,Today's main event:
 Dialogue: 10,0:13:13.69,0:13:15.36,Default,,0,0,0,,The shrine of Thornpuller Jizo.
 Dialogue: 10,0:13:16.15,0:13:20.61,Default,,0,0,0,,{\q2}A long time ago, a maidservant \Nswallowed a thorn by mistake,
@@ -295,13 +296,13 @@ Dialogue: 10,0:14:06.91,0:14:08.24,Default,,0,0,0,,What's wrong, Gan?
 Dialogue: 10,0:14:08.24,0:14:09.83,Default,,0,0,0,,Bespectacled asshat!
 Dialogue: 10,0:14:09.83,0:14:14.71,Default,,0,0,0,,{\q2}Now, now, mind your language, Marii! \NThere's no need to say such things!
 Dialogue: 10,0:14:15.38,0:14:18.13,Default,,0,0,0,,That's rather dangerous, Marii!
-Dialogue: 10,0:14:18.13,0:14:21.47,Default,,0,0,0,,It's a beautiful day today. I'm so happy!
+Dialogue: 10,0:14:18.13,0:14:21.47,Default,,0,0,0,,It's a beautiful day today. This is bliss!
 Dialogue: 10,0:14:21.47,0:14:24.64,Default,,0,0,0,,I guess Thornpuller Jizo's blessing's the real deal!
-Dialogue: 10,0:14:27.43,0:14:29.52,Default,,0,0,0,,Chest! I'm gonna splash it on my chest!
-Dialogue: 10,0:14:29.52,0:14:30.81,Default,,0,0,0,,Butt for me!
+Dialogue: 10,0:14:27.43,0:14:29.52,Default,,0,0,0,,I'm gonna splash it on my chest!
+Dialogue: 10,0:14:29.52,0:14:30.81,Default,,0,0,0,,Ass for me!
 Dialogue: 10,0:14:30.81,0:14:32.35,Default,,0,0,0,,So she {\i1}was{\i0} self-conscious about it...
 Dialogue: 10,0:14:32.35,0:14:33.56,Default,,0,0,0,,My head!
-Dialogue: 10,0:14:33.56,0:14:34.77,Default,,0,0,0,,Heart...
+Dialogue: 10,0:14:33.56,0:14:34.77,Default,,0,0,0,,Heart.
 Dialogue: 10,0:14:38.44,0:14:40.32,Default,,0,0,0,,Nothing really changed.
 Dialogue: 10,0:14:40.32,0:14:41.99,Default,,0,0,0,,Nope.
 Dialogue: 10,0:14:41.99,0:14:44.61,Default,,0,0,0,,Why'd only Gankyou benefit?
@@ -313,7 +314,7 @@ Dialogue: 10,0:15:03.72,0:15:07.80,Default,,0,0,0,,{\q2}No worries, eating turtl
 Dialogue: 10,0:15:08.10,0:15:11.89,Default,,0,0,0,,Everyone gets old and wrinkly sooner or later.
 Dialogue: 10,0:15:11.89,0:15:14.60,Default,,0,0,0,,You get pains in your shoulders, lower back, and knees...
 Dialogue: 10,0:15:14.60,0:15:16.98,Default,,0,0,0,,Your eyes get cloudy...
-Dialogue: 10,0:15:16.98,0:15:19.36,Default,,0,0,0,,It happens to everyone.
+Dialogue: 10,0:15:16.98,0:15:19.36,Default,,0,0,0,,Nobody can escape it.
 Dialogue: 10,0:15:23.24,0:15:27.66,Default,,0,0,0,,I suddenly got the feeling that whatever will be, will be.
 Dialogue: 10,0:15:28.32,0:15:30.41,Default,,0,0,0,,I think that's the feeling of enlightenment.
 Dialogue: 10,0:15:30.41,0:15:33.16,Default,,0,0,0,,Or of losing the strength in your shoulders.
@@ -347,7 +348,7 @@ Dialogue: 10,0:17:24.82,0:17:26.28,Default,,0,0,0,,Wh-What about this?!
 Dialogue: 10,0:17:26.28,0:17:27.69,Default,,0,0,0,,That... hurts...
 Dialogue: 10,0:17:30.24,0:17:32.03,Default,,0,0,0,,You need to try harder than that!
 Dialogue: 10,0:17:35.95,0:17:37.41,Default,,0,0,0,,How's this?!
-Dialogue: 10,0:17:44.25,0:17:46.96,Default,,0,0,0,,This is dangerous, she's on the verge of an outbreak!
+Dialogue: 10,0:17:44.25,0:17:46.96,Default,,0,0,0,,This is dangerous. She's on the verge of an outbreak!
 Dialogue: 10,0:17:46.96,0:17:49.38,Default,,0,0,0,,Isn't there anything else we can try?
 Dialogue: 10,0:17:49.38,0:17:51.93,Default,,0,0,0,,Hey, we're rakugo performers.
 Dialogue: 10,0:17:51.93,0:17:53.64,Default,,0,0,0,,Aren't we meant to be pros at making people laugh?
@@ -358,7 +359,7 @@ Dialogue: 10,0:17:58.22,0:18:02.85,Default,,0,0,0,,The weather's certainly perke
 Dialogue: 10,0:18:02.85,0:18:05.40,Default,,0,0,0,,May is when you can really start to feel summ—
 Dialogue: 10,0:18:09.44,0:18:12.36,Default,,0,0,0,,A-pril! A-pril!
 Dialogue: 10,0:18:12.36,0:18:16.53,Default,,0,0,0,,{\i1}I suppose I {\i0}do{\i1} have a resting depression face.
-Dialogue: 10,0:18:16.53,0:18:20.00,Default,,0,0,0,,{\i1}But it's not like I'm only sad during May.
+Dialogue: 10,0:18:16.53,0:18:20.00,Default,,0,0,0,,{\i1}But it's not like I feel particularly worse during May.
 Dialogue: 10,0:18:20.37,0:18:21.37,Default,,0,0,0,,{\i1}This sucks.
 Dialogue: 10,0:18:21.37,0:18:23.62,Default,,0,0,0,,{\i1}They really expect me to get the May Blues.
 Dialogue: 10,0:18:25.54,0:18:26.63,Default,,0,0,0,,{\i1}She sighed!
@@ -371,7 +372,7 @@ Dialogue: 10,0:18:37.72,0:18:39.18,Default,,0,0,0,,How wonderful!
 Dialogue: 10,0:18:40.31,0:18:44.94,Default,,0,0,0,,{\q2}They say manga artists hallucinate mythical beasts \Nwhile they're approaching a deadline, too.
 Dialogue: 10,0:18:44.94,0:18:45.85,Default,,0,0,0,,White crocodiles.
 Dialogue: 10,0:18:45.85,0:18:46.77,Default,,0,0,0,,Green cats.
-Dialogue: 10,0:18:46.98,0:18:48.40,Default,,0,0,0,,And the assistant who shouldn't exist.
+Dialogue: 10,0:18:46.77,0:18:48.40,Default,,0,0,0,,And the assistant who shouldn't exist:
 Dialogue: 10,0:18:48.40,0:18:49.61,Default,,0,0,0,,Yamashita.
 Dialogue: 10,0:18:49.61,0:18:51.65,Default,,0,0,0,,Yamashita the mythical beast is so scary!
 Dialogue: 10,0:18:51.65,0:18:54.53,Default,,0,0,0,,Nope, I've never seen Totoro or Yamashita.
@@ -403,14 +404,15 @@ Dialogue: 10,0:19:55.59,0:19:58.34,Default,,0,0,0,,Like when they hid your schoo
 Dialogue: 10,0:19:58.72,0:20:01.18,Default,,0,0,0,,or rubbed down the corners of your eraser,
 Dialogue: 10,0:20:01.18,0:20:03.14,Default,,0,0,0,,or laughed at your house's screen door,
 Dialogue: 10,0:20:03.14,0:20:05.98,Default,,0,0,0,,{\q2}or wrote the lyrics to that one Alice song \Non the bottom of your desk! {## Refers to "Champion" by Alice}
-Dialogue: 10,0:20:05.98,0:20:07.94,Default,,0,0,0,,I'll never forgive them!
-Dialogue: 10,0:20:07.94,0:20:10.27,Default,,0,0,0,,You can take the June Glooms.
+Dialogue: 10,0:20:05.98,0:20:07.94,Default,,0,0,0,,I'll never forget, and I'll never forgive!
+Dialogue: 10,0:20:07.94,0:20:10.27,Default,,0,0,0,,The June Glooms are yours.
 Dialogue: 10,0:20:12.82,0:20:16.36,Default,,0,0,0,,{\q2}So, since you gave up June, \Nwhich month will you take?
-Dialogue: 10,0:20:16.36,0:20:21.20,Default,,0,0,0,,Hmm, right. Since I'm a woman of extreme kindness,
+Dialogue: 10,0:20:16.36,0:20:18.78,Default,,0,0,0,,Hmm, right.
+Dialogue: 10,0:20:18.78,0:20:21.20,Default,,0,0,0,,Since I'm a woman of extreme kindness,
 Dialogue: 10,0:20:21.20,0:20:24.37,Default,,0,0,0,,I'll take on the heaviest month of the year.
 Dialogue: 10,0:20:24.66,0:20:27.00,Default,,0,0,0,,Which one is that?
-Dialogue: 10,0:20:27.00,0:20:29.29,Default,,0,0,0,,The September Blues sound pretty rough.
-Dialogue: 10,0:20:29.29,0:20:34.50,Default,,0,0,0,,{\q2}Ah, yeah. Summer's over and you \Ngotta go back to school. It's a drag.
+Dialogue: 10,0:20:27.00,0:20:29.29,Default,,0,0,0,,The September Sorrows sound pretty rough.
+Dialogue: 10,0:20:29.29,0:20:34.50,Default,,0,0,0,,{\q2}Ah, yeah. Summer's over and \Nyou gotta go back to school. It's a drag.
 Dialogue: 10,0:20:34.84,0:20:38.13,Default,,0,0,0,,{\q2}There are kids who get it so bad \Nthey can't even go to school.
 Dialogue: 10,0:20:43.18,0:20:44.01,Default,,0,0,0,,How come?
 Dialogue: 10,0:20:44.01,0:20:45.39,Default,,0,0,0,,Shh! Don't ask!

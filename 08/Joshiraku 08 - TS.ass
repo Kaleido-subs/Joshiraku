@@ -237,8 +237,8 @@ Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,,{\an7\pos(333,100)\fnBlack Metal 
 Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,,{\an7\pos(333,133)\fnBlack Metal Sans\fs49.5\c&H746650&\blur1.5}r
 Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,,{\an7\pos(334,155)\fnBlack Metal Sans\fs49.5\c&H746650&\blur1.5}e
 Dialogue: 0,0:12:07.87,0:12:10.75,Sign,,0,0,0,,{\an7\pos(335,176)\fnBlack Metal Sans\fs49.5\c&H746650&\blur1.5}y
-Dialogue: 0,0:12:10.75,0:12:11.79,Sign,,0,0,0,,{\an7\pos(1042,677)\fnBlack Metal Sans\fs120\fsp4.5\b0\bord5.25\c&HEAF0EE&\3c&HEAF0EE&\blur1.2}Nine-eyed Eel
-Dialogue: 1,0:12:10.75,0:12:11.79,Sign,,0,0,0,,{\an7\pos(1042,677)\fnBlack Metal Sans\fs120\fsp4.5\b0\c&H3FA1FA&\4a&HFF&\blur1.2}Nine-eyed Eel
+Dialogue: 0,0:12:10.75,0:12:11.79,Sign,,0,0,0,,{\an7\pos(1042,677)\fnBlack Metal Sans\fs120\fsp4.5\b0\bord5.25\c&HEAF0EE&\3c&HEAF0EE&\blur1.2}Eight-eyed Eel
+Dialogue: 1,0:12:10.75,0:12:11.79,Sign,,0,0,0,,{\an7\pos(1042,677)\fnBlack Metal Sans\fs120\fsp4.5\b0\c&H3FA1FA&\4a&HFF&\blur1.2}Eight-eyed Eel
 Dialogue: 0,0:12:21.38,0:12:24.06,Sign,,0,0,0,,{\pos(735,978)\frz342\fax0.35\fnNewt Serif\fs102\fsp4.5\b0\c&H14110D&\alpha&HCA&\blur7.5}Carp
 Dialogue: 1,0:12:21.38,0:12:24.06,Sign,,0,0,0,,{\pos(735,978)\frz342\fax0.35\fnNewt Serif\fs102\fsp4.5\b0\c&H14110D&\blur1.5}Carp
 Dialogue: 0,0:12:29.27,0:12:30.48,Sign,,0,0,0,,{\pos(973,173)\fnaugie\fs162\fsp6\c&HE0F3EF&\blur1.5}Locust
