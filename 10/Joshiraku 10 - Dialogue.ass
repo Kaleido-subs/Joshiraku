@@ -10,8 +10,8 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: JoshirakuBD_10 (Premux).mkv
-Video File: JoshirakuBD_10 (Premux).mkv
+Audio File: JoshirakuBD_10_new (Premux).mkv
+Video File: JoshirakuBD_10_new (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -32,7 +32,8 @@ Comment: 0,0:22:35.42,0:22:35.42,Default,,0,0,0,edsync,{EDsync — First hard cu
 Comment: 0,0:23:40.02,0:23:40.02,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:01:29.99,0:01:32.20,Default,,0,0,0,,"Hello, hello, hello, hello!"
 Dialogue: 10,0:01:32.20,0:01:33.57,Default,,0,0,0,,"What's with the racket, Yassan?"
-Dialogue: 10,0:01:33.57,0:01:39.04,Default,,0,0,0,,{\q2}"It ain't no racket, no sir! \NI'm just preparing for Hello-ween."
+Dialogue: 10,0:01:33.57,0:01:35.83,Default,,0,0,0,,"It ain't no racket, no sir!"
+Dialogue: 10,0:01:35.83,0:01:39.04,Default,,0,0,0,,"I'm just preparing for Hello-ween."
 Dialogue: 10,0:01:39.04,0:01:40.46,Default,,0,0,0,,"That's not what it's called!"
 Dialogue: 10,0:01:40.46,0:01:42.21,Default,,0,0,0,,Thanks for your continued patronage.
 Dialogue: 10,0:01:48.80,0:01:50.21,Default,,0,0,0,,Trick or treat!
@@ -44,7 +45,7 @@ Dialogue: 10,0:01:59.14,0:02:00.60,Default,,0,0,0,,What is this crap?!
 Dialogue: 10,0:02:00.60,0:02:01.73,Default,,0,0,0,,Dried squid.
 Dialogue: 10,0:02:01.73,0:02:02.39,Default,,0,0,0,,Crispy peanuts.
 Dialogue: 10,0:02:02.39,0:02:03.27,Default,,0,0,0,,Cheese fishsticks.
-Dialogue: 10,0:02:03.27,0:02:04.06,Default,,0,0,0,,Very grown-up.
+Dialogue: 10,0:02:03.27,0:02:04.06,Default,,0,0,0,,Very mature.
 Dialogue: 10,0:02:04.06,0:02:05.19,Default,,0,0,0,,These are bar snacks!
 Dialogue: 10,0:02:05.19,0:02:08.15,Default,,0,0,0,,{\q2}The whole room is gonna stink now! \NAm I some kind of old geezer?
 Dialogue: 10,0:02:08.15,0:02:10.32,Default,,0,0,0,,Does salami count as sweets?
@@ -53,7 +54,7 @@ Dialogue: 10,0:02:11.49,0:02:13.61,Default,,0,0,0,,I got bugger-all as far as sw
 Dialogue: 10,0:02:13.61,0:02:14.53,Default,,0,0,0,,What about this?
 Dialogue: 10,0:02:14.53,0:02:15.95,Default,,0,0,0,,Sweet beans don't count!
 Dialogue: 10,0:02:15.95,0:02:18.20,Default,,0,0,0,,I just want something that could be called candy!
-Dialogue: 10,0:02:18.20,0:02:18.70,Default,,0,0,0,,What about this?
+Dialogue: 10,0:02:18.20,0:02:18.70,Default,,0,0,0,,Like this?
 Dialogue: 10,0:02:18.70,0:02:20.08,Default,,0,0,0,,Breath mints don't count!
 Dialogue: 10,0:02:20.08,0:02:22.66,Default,,0,0,0,,You shouldn't look a gift horse in the mouth.
 Dialogue: 10,0:02:22.66,0:02:24.08,Default,,0,0,0,,I know I shouldn't, but...
@@ -63,8 +64,8 @@ Dialogue: 10,0:02:30.67,0:02:33.51,Default,,0,0,0,,It's always gonna feel funny 
 Dialogue: 10,0:02:33.51,0:02:36.51,Default,,0,0,0,,Nothing's quite as "Halloween" as John Carpenter!
 Dialogue: 10,0:02:36.51,0:02:38.35,Default,,0,0,0,,How old are you, Gan?
 Dialogue: 10,0:02:38.35,0:02:39.39,Default,,0,0,0,,Kigu!
-Dialogue: 10,0:02:39.39,0:02:42.93,Default,,0,0,0,,Halloween wasn't that popular back when we were kids.
-Dialogue: 10,0:02:42.93,0:02:44.44,Default,,0,0,0,,When did it start?
+Dialogue: 10,0:02:39.39,0:02:42.93,Default,,0,0,0,,Halloween wasn't that popular when we were kids.
+Dialogue: 10,0:02:42.93,0:02:44.44,Default,,0,0,0,,When did it get so big?
 Dialogue: 10,0:02:44.44,0:02:47.52,Default,,0,0,0,,They say it started in Urayasu.
 Dialogue: 10,0:02:47.81,0:02:49.27,Default,,0,0,0,,Urayasu is...
 Dialogue: 10,0:02:49.27,0:02:50.65,Default,,0,0,0,,Ah! I know! It's where Disn—
@@ -108,7 +109,7 @@ Dialogue: 10,0:04:19.91,0:04:21.78,Default,,0,0,0,,I can see them forcing that o
 Dialogue: 10,0:04:21.78,0:04:23.53,Default,,0,0,0,,And Martin Luther King Jr. Day.
 Dialogue: 10,0:04:23.53,0:04:25.04,Default,,0,0,0,,And Presidents' Day.
 Dialogue: 10,0:04:25.04,0:04:26.58,Default,,0,0,0,,Ugh, how annoying.
-Dialogue: 10,0:04:26.58,0:04:32.38,Default,,0,0,0,,{\q2}Trick-or-treat, the practise of threatening mischief \Nunless you get candy, is just so not-Japanese.
+Dialogue: 10,0:04:26.58,0:04:32.38,Default,,0,0,0,,{\q2}Trick-or-treat, the practice of threatening mischief \Nunless you get candy, is just so not-Japanese.
 Dialogue: 10,0:04:32.38,0:04:33.13,Default,,0,0,0,,How do you mean?
 Dialogue: 10,0:04:33.13,0:04:36.34,Default,,0,0,0,,{\q2}That kind of bullying tactic is typical \Nof an egotistical superpower.
 Dialogue: 10,0:04:36.34,0:04:38.01,Default,,0,0,0,,Big Stick diplomacy.
@@ -116,17 +117,17 @@ Dialogue: 10,0:04:38.01,0:04:40.38,Default,,0,0,0,,"Hand over your territory or 
 Dialogue: 10,0:04:40.38,0:04:41.93,Default,,0,0,0,,"Or else we'll burn it to ash."
 Dialogue: 10,0:04:41.93,0:04:43.39,Default,,0,0,0,,"Or else we'll continue the tests."
 Dialogue: 10,0:04:43.39,0:04:44.35,Default,,0,0,0,,What kind of tests?
-Dialogue: 10,0:04:44.35,0:04:48.10,Default,,0,0,0,,{\q2}It sounds like we should maybe try \Nand have a Japanified Halloween instead.
+Dialogue: 10,0:04:44.35,0:04:48.10,Default,,0,0,0,,{\q2}It sounds like we should maybe try and \Nhave a Japanified Halloween instead.
 Dialogue: 10,0:04:48.10,0:04:49.85,Default,,0,0,0,,Japanified, eh?
 Dialogue: 10,0:04:52.02,0:04:55.19,Default,,0,0,0,,Would you give me candy if I recited a poem for you?
 Dialogue: 10,0:04:55.19,0:04:55.86,Default,,0,0,0,,That's heavy.
 Dialogue: 10,0:04:56.36,0:04:58.74,Default,,0,0,0,,A Japanese Halloween...
-Dialogue: 10,0:04:59.57,0:05:01.95,Default,,0,0,0,,If you give me candy, I'll follow you always!
+Dialogue: 10,0:04:59.57,0:05:01.95,Default,,0,0,0,,"If you give me candy, I'll follow you always!"
 Dialogue: 10,0:05:02.95,0:05:05.58,Default,,0,0,0,,No, Kigu! Don't follow strangers!
 Dialogue: 10,0:05:05.58,0:05:07.16,Default,,0,0,0,,Your teachers must have told you that!
 Dialogue: 10,0:05:07.16,0:05:10.25,Default,,0,0,0,,He's not a stranger! He's really famous!
 Dialogue: 10,0:05:10.58,0:05:12.71,Default,,0,0,0,,Even celebrities are capable of evil.
-Dialogue: 10,0:05:12.71,0:05:16.09,Default,,0,0,0,,In fact, celebrities are especially capable of evil!
+Dialogue: 10,0:05:12.71,0:05:16.09,Default,,0,0,0,,In fact, celebrities are {\i1}especially{\i0} capable of evil!
 Dialogue: 10,0:05:16.09,0:05:18.34,Default,,0,0,0,,There could be drugs in the candy for all you know!
 Dialogue: 10,0:05:18.34,0:05:20.72,Default,,0,0,0,,I'm talking about the story of Momotarou!
 Dialogue: 10,0:05:21.84,0:05:23.80,Default,,0,0,0,,Oh, Momotarou. I see.
@@ -154,7 +155,7 @@ Dialogue: 10,0:06:13.19,0:06:16.86,Default,,0,0,0,,But on the other hand, we can
 Dialogue: 10,0:06:16.86,0:06:18.19,Default,,0,0,0,,"If you give me candy..."
 Dialogue: 10,0:06:18.19,0:06:19.44,Default,,0,0,0,,"I'll keep my silence."
 Dialogue: 10,0:06:19.44,0:06:22.24,Default,,0,0,0,,{\q2}If you're gonna go down that path, \Nyou should ask for money instead of can—
-Dialogue: 10,0:06:22.24,0:06:23.70,Default,,0,0,0,,That's blackmail!
+Dialogue: 10,0:06:22.24,0:06:23.70,Default,,0,0,0,,That'd just be blackmail!
 Dialogue: 10,0:06:24.20,0:06:26.91,Default,,0,0,0,,Okay then, "If you give me candy..."
 Dialogue: 10,0:06:27.28,0:06:29.70,Default,,0,0,0,,"I'll pray for your health!"
 Dialogue: 10,0:06:29.70,0:06:32.16,Default,,0,0,0,,You can get that without handing out candy!
@@ -210,17 +211,17 @@ Dialogue: 10,0:08:38.08,0:08:41.50,Default,,0,0,0,,{\q2}If you give me an issue 
 Dialogue: 10,0:08:42.13,0:08:46.17,Default,,0,0,0,,{\q2}If you give me an anime DVD, \NI'll give you an anime Blu-ray!
 Dialogue: 10,0:08:46.67,0:08:50.34,Default,,0,0,0,,{\q2}If you give me an anime Blu-ray, \NI'll give you a PS Vita!
 Dialogue: 10,0:08:50.34,0:08:54.97,Default,,0,0,0,,{\q2}If you give me a PS Vita, I'll give you \Na coupon for a spa vacation in Yufuin!
-Dialogue: 10,0:08:54.97,0:08:58.98,Default,,0,0,0,,{\q2}If you give me a coupon for a spa vacation, \NI'll give you a Bulgari watch!
+Dialogue: 10,0:08:54.97,0:08:58.98,Default,,0,0,20,,{\q2}If you give me a coupon for a spa vacation, \NI'll give you a Bulgari watch!
 Dialogue: 10,0:08:58.98,0:09:02.35,Default,,0,0,0,,{\q2}If you give me a Bulgari watch, \NI'll give you an Hermès bag!
-Dialogue: 10,0:09:02.35,0:09:04.73,Default,,0,0,0,,{\q2}If you give me a bag, \NI'll give you a Van Gogh painting!
+Dialogue: 10,0:09:02.35,0:09:04.73,Default,,0,0,100,,{\q2}If you give me a bag, \NI'll give you a Van Gogh painting!
 Dialogue: 10,0:09:06.86,0:09:08.07,Default,,0,0,0,,The Straw Millionaire!
-Dialogue: 10,0:09:08.40,0:09:11.57,Default,,0,0,0,,{\q2}Trading a piece of candy into \Na house is like a modern fairytale!
+Dialogue: 10,0:09:08.40,0:09:11.57,Default,,0,0,0,,{\q2}Trading a piece of candy into a house \Nis like a modern fairytale!
 Dialogue: 10,0:09:11.57,0:09:13.45,Default,,0,0,0,,We're straying further and further from Halloween!
 Dialogue: 10,0:09:13.45,0:09:16.45,Default,,0,0,0,,I think it was a mistake to go from candy in the first place.
 Dialogue: 10,0:09:16.45,0:09:17.45,Default,,0,0,0,,What do you mean?
 Dialogue: 10,0:09:17.45,0:09:19.16,Default,,0,0,0,,We learned in elementary school, remember?
 Dialogue: 10,0:09:19.54,0:09:20.87,Default,,0,0,0,,C.A.N. for candy!
-Dialogue: 10,0:09:21.25,0:09:24.67,Default,,0,0,0,,Ah, to help you remember what to do in an evacuation!
+Dialogue: 10,0:09:21.25,0:09:24.67,Default,,0,0,0,,{\q2}Ah, to help you remember \Nwhat to do during an evacuation!
 Dialogue: 10,0:09:24.67,0:09:25.46,Default,,0,0,0,,What was it again?
 Dialogue: 10,0:09:25.46,0:09:26.84,Default,,0,0,0,,C.A.N. for candy, go!
 Dialogue: 10,0:09:26.84,0:09:28.96,Default,,0,0,0,,Consumption tax, atomic power, new fighter jets.
@@ -231,7 +232,9 @@ Dialogue: 10,0:09:32.72,0:09:34.68,Default,,0,0,0,,Calm, aware, no talking.
 Dialogue: 10,0:09:34.68,0:09:36.51,Default,,0,0,0,,Ah, that's it.
 Dialogue: 10,0:09:36.51,0:09:38.97,Default,,0,0,0,,Candy or trick...
 Dialogue: 10,0:09:39.39,0:09:41.64,Default,,0,0,0,,Instigate a disaster or I'll trick you?!
-Dialogue: 10,0:09:41.64,0:09:43.19,Default,,0,0,0,,It's a bomb threat!
+Dialogue: 10,0:09:41.64,0:09:43.15,Default,,0,0,0,,It's a bomb threat!
+Dialogue: 10,0:09:43.15,0:09:43.31,Default,,0,0,0,,{\clip(m 1031 931 l 1211 926 1209 1039 1049 1052)}It's a bomb threat!
+Dialogue: 10,0:09:43.31,0:09:43.35,Default,,0,0,0,,{\clip(m 1038 975 l 1211 973 1209 1039 1049 1052)}It's a bomb threat!
 Dialogue: 10,0:09:43.98,0:09:46.98,Default,,0,0,0,,There must be a bomb planted somewhere!
 Dialogue: 10,0:09:50.40,0:09:53.16,Default,,0,0,0,,Any of these could be a bomb! Evacuate!
 Dialogue: 10,0:09:58.83,0:10:00.91,Default,,0,0,0,,Well, then. Don't mind if I do.
@@ -240,7 +243,7 @@ Dialogue: 10,0:10:07.00,0:10:08.80,Default,,0,0,0,,The greatest entertainment di
 Dialogue: 10,0:10:08.80,0:10:11.22,Default,,0,0,0,,It's not that far from Suehirotei.
 Dialogue: 10,0:10:11.22,0:10:13.34,Default,,0,0,0,,I haven't been before! Woo!
 Dialogue: 10,0:10:13.34,0:10:16.39,Default,,0,0,0,,{\q2}Kigu! If you get too carried away, \Nthey'll carry {\i1}you{\i0} away.
-Dialogue: 10,0:10:16.39,0:10:20.18,Default,,0,0,0,,{\q2}There's not really much reason \Nto come to Kabukichou on a normal day.
+Dialogue: 10,0:10:16.39,0:10:20.18,Default,,0,0,0,,{\q2}There's not really much reason to \Ncome to Kabukichou on a normal day.
 Dialogue: 10,0:10:20.18,0:10:23.27,Default,,0,0,0,,Yeah, true. Especially for women on their lonesome.
 Dialogue: 10,0:10:23.27,0:10:24.94,Default,,0,0,0,,Marii'd probably blend right in.
 Dialogue: 10,0:10:24.94,0:10:26.52,Default,,0,0,0,,Why me?
@@ -256,18 +259,18 @@ Dialogue: 10,0:10:48.38,0:10:50.13,Default,,0,0,0,,Or "Tinkle Alley".
 Dialogue: 10,0:10:50.13,0:10:52.26,Default,,0,0,0,,Or "Urine Alley".
 Dialogue: 10,0:10:54.26,0:10:57.18,Default,,0,0,0,,I wonder where the name Kabukichou comes from.
 Dialogue: 10,0:10:57.18,0:10:59.10,Default,,0,0,0,,Isn't it just because they do kabuki here?
-Dialogue: 10,0:10:59.10,0:11:01.56,Default,,0,0,0,,There aren't any kabuki theatres here.
+Dialogue: 10,0:10:59.10,0:11:01.56,Default,,0,0,0,,There aren't any kabuki theatres in Kabukichou.
 Dialogue: 10,0:11:01.56,0:11:02.52,Default,,0,0,0,,Really?!
-Dialogue: 10,0:11:02.52,0:11:05.31,Default,,0,0,0,,{\q2}There are a surprising number of \Nplaces with names like that.
+Dialogue: 10,0:11:02.52,0:11:05.31,Default,,0,0,0,,{\q2}There are a surprising number of places \Nwith names like that.
 Dialogue: 10,0:11:05.31,0:11:09.27,Default,,0,0,0,,{\q2}Kichijouji sounds like a temple name, \Nbut there's no Kichijou Temple.
 Dialogue: 10,0:11:09.27,0:11:13.28,Default,,0,0,0,,{\q2}And there's no university at Toritsu University \Nor Gakugei University Station.
 Dialogue: 10,0:11:13.28,0:11:15.20,Default,,0,0,0,,Like the theme park-less Mukogaoka Theme Park.
 Dialogue: 10,0:11:15.57,0:11:18.74,Default,,0,0,0,,{\q2}I wonder if there's any eucalyptus at \NYukarigaoka Station, since it's named after them.
-Dialogue: 10,0:11:19.12,0:11:24.37,Default,,0,0,0,,{\q2}But hey, there may be none now, but there \Nmust've been loads of kabuki theatres in the past, right?
+Dialogue: 10,0:11:19.12,0:11:24.37,Default,,0,0,0,,{\q2}But hey, there may be none now, but there must've been \Nloads of kabuki theatres here in the past, right?
 Dialogue: 10,0:11:24.37,0:11:28.08,Default,,0,0,0,,There have never been any kabuki theatres in Kabukichou.
 Dialogue: 10,0:11:28.08,0:11:29.71,Default,,0,0,0,,So it's a scam?!
 Dialogue: 10,0:11:30.04,0:11:32.84,Default,,0,0,0,,Where does the name come from, then?
-Dialogue: 10,0:11:33.09,0:11:36.80,Default,,0,0,0,,Maybe it's where kabuki actors came to blow off steam...
+Dialogue: 10,0:11:33.09,0:11:36.80,Default,,0,0,0,,Maybe it's where kabuki actors came to blow off steam.
 Dialogue: 10,0:11:41.10,0:11:42.85,Default,,0,0,0,,I don't hate the idea, but it doesn't seem likely.
 Dialogue: 10,0:11:42.85,0:11:44.22,Default,,0,0,0,,I wouldn't hate that either.
 Dialogue: 10,0:11:44.22,0:11:47.52,Default,,0,0,0,,{\q2}Kabuki connection aside, that guy seems like \Nthe kind of person who'd be at home here.
@@ -298,12 +301,12 @@ Dialogue: 10,0:12:48.16,0:12:50.46,Default,,0,0,0,,They have a lot of anime even
 Dialogue: 10,0:12:50.46,0:12:54.55,Default,,0,0,0,,They focus mainly on deep, hardcore events.
 Dialogue: 10,0:12:54.80,0:12:56.80,Default,,0,0,0,,Looks like there's something on today.
 Dialogue: 10,0:12:57.17,0:12:58.42,Default,,0,0,0,,An anime event?
-Dialogue: 10,0:12:58.42,0:13:00.13,Default,,0,0,0,,I wonder what it is!
+Dialogue: 10,0:12:58.42,0:13:00.13,Default,,0,0,0,,I wonder what!
 Dialogue: 10,0:13:12.60,0:13:14.06,Default,,0,0,0,,I wasn't expecting that.
 Dialogue: 10,0:13:14.06,0:13:15.77,Default,,0,0,0,,I see what you meant by deep and hardcore.
 Dialogue: 10,0:13:15.77,0:13:19.19,Default,,0,0,0,,Wouldn't it be great if we had an event here?
 Dialogue: 10,0:13:19.19,0:13:21.07,Default,,0,0,0,,Like a group performance!
-Dialogue: 10,0:13:21.66,0:13:23.07,Default,,0,0,0,,All together now... bow!
+Dialogue: 10,0:13:21.66,0:13:23.07,Default,,0,0,0,,All together now. Bow!
 Dialogue: 10,0:13:23.57,0:13:25.87,Default,,0,0,0,,We hope you'll come to our show!
 Dialogue: 10,0:13:26.99,0:13:32.17,Default,,0,0,0,,{\q2}Is it just me, or does it feel like \NKabukichou's gotten a lot safer recently?
 Dialogue: 10,0:13:32.17,0:13:35.34,Default,,0,0,0,,There are lots of fun new places.
@@ -323,7 +326,7 @@ Dialogue: 10,0:14:16.25,0:14:17.75,Default,,0,0,0,,'Scuse me, ma'am.
 Dialogue: 10,0:14:17.75,0:14:20.01,Default,,0,0,0,,We've got the best girls!
 Dialogue: 10,0:14:23.05,0:14:25.51,Default,,0,0,0,,Telephone cards!
 Dialogue: 10,0:14:25.51,0:14:30.31,Default,,0,0,0,,Hey lady! C'mere! Ours better! Get you high!
-Dialogue: 10,0:14:32.52,0:14:34.35,Default,,0,0,0,,Stop, you punk!
+Dialogue: 10,0:14:32.52,0:14:34.35,Default,,0,0,0,,Get back 'ere, you punk!
 Dialogue: 10,0:15:01.59,0:15:02.88,Default,,0,0,0,,Something like that.
 Dialogue: 10,0:15:02.88,0:15:04.26,Default,,0,0,0,,Sounds like that game, Yakuza.
 Dialogue: 10,0:15:04.26,0:15:06.51,Default,,0,0,0,,I don't think even that happens in Yakuza.
@@ -371,7 +374,7 @@ Dialogue: 10,0:17:23.27,0:17:24.48,Default,,0,0,0,,Like Cohen C. Dental?
 Dialogue: 10,0:17:24.48,0:17:25.69,Default,,0,0,0,,Axie Dental as well?
 Dialogue: 10,0:17:25.94,0:17:27.19,Default,,0,0,0,,Not that I care,
 Dialogue: 10,0:17:27.19,0:17:31.82,Default,,0,0,0,,{\q2}but wasn't the way we treated that first sign a bit shoddy \Ncompared to how we treat that bloody American mouse?
-Dialogue: 10,0:17:31.82,0:17:35.74,Default,,0,0,0,,{\q2}We pussy-foot around that one while \Nthis one is like "Eh, um, well, whatever."
+Dialogue: 10,0:17:31.82,0:17:35.74,Default,,0,0,0,,{\q2}We pussy-foot around that while this one \Nis like "Eh, um, well, whatever."
 Dialogue: 10,0:17:35.74,0:17:38.91,Default,,0,0,0,,{\q2}Or is that because one's from \Nthe English-speaking world and the other isn't?
 Dialogue: 10,0:17:38.91,0:17:42.29,Default,,0,0,0,,No, no! It's just... an old woman with hair like that.
 Dialogue: 10,0:17:42.29,0:17:47.46,Default,,0,0,0,,{\q2}There are definitely way fewer \Ndoctor's clinics with those kinds of names.
@@ -381,7 +384,7 @@ Dialogue: 10,0:17:55.39,0:17:58.56,Default,,0,0,0,,{\q2}People who talk for a li
 Dialogue: 10,0:17:58.56,0:18:00.81,Default,,0,0,0,,to get not even a single cavity!
 Dialogue: 10,0:18:03.35,0:18:05.69,Default,,0,0,0,,Wow, they're so clean, Kigu!
 Dialogue: 10,0:18:05.69,0:18:10.32,Default,,0,0,0,,{\q2}Of course prevention is a daily task, \Nand I go to the dentist if I do get a cavity.
-Dialogue: 10,0:18:10.32,0:18:14.82,Default,,0,0,0,,{\q2}I can't help but notice that one of \Nour number is keeping her back to us.
+Dialogue: 10,0:18:10.32,0:18:14.82,Default,,0,0,0,,{\q2}I can't help but notice that one of our number \Nis keeping her back to us.
 Dialogue: 10,0:18:19.04,0:18:20.79,Default,,0,0,0,,That's a very clichéd-looking toothache.
 Dialogue: 10,0:18:20.79,0:18:23.17,Default,,0,0,0,,No! Marii's got cavities!
 Dialogue: 10,0:18:23.17,0:18:26.42,Default,,0,0,0,,Absholutely noh! Shup your mouh!
