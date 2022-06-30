@@ -356,8 +356,8 @@ Dialogue: 5,0:16:48.31,0:16:51.28,Default,,0,0,0,,Our true weapon is our feminin
 Dialogue: 5,0:16:51.28,0:16:53.40,Default,,0,0,0,,D-Damn, I let my guard down...
 Dialogue: 5,0:16:54.28,0:16:56.24,Default,,0,0,0,,Wait, no! I said to stop this crap!
 Dialogue: 5,0:16:56.24,0:16:57.62,Default,,0,0,0,,But...
-Dialogue: 5,0:16:57.62,0:16:59.71,Default,,0,0,0,,It's impossible not to play ninja
-Dialogue: 5,0:16:59.41,0:17:02.70,Default,,0,0,0,,when we've gotta dress like this for Cool Biz!
+Dialogue: 5,0:16:57.62,0:16:59.54,Default,,0,0,0,,It's impossible not to play ninja
+Dialogue: 5,0:16:59.54,0:17:02.70,Default,,0,0,0,,when we've gotta dress like this for Cool Biz!
 Dialogue: 5,0:17:04.91,0:17:08.00,Default,,0,0,0,,Who'd think we were just rakugo \Nperformers trying to dress light?
 Dialogue: 5,0:17:08.00,0:17:11.67,Default,,0,0,0,,If we asked 100 guys at Shinbashi, all 100 would say we were ninja!
 Dialogue: 5,0:17:11.67,0:17:15.72,Default,,0,0,0,,We may be saving electricity and complying with Cool Biz,
@@ -370,7 +370,7 @@ Dialogue: 5,0:17:25.89,0:17:26.60,Default,,0,0,0,,Yeah.
 Dialogue: 5,0:17:27.31,0:17:30.44,Default,,0,0,0,,Let's make our guests feel cooler
 Dialogue: 5,0:17:30.44,0:17:33.03,Default,,0,0,0,,with stories that chill the blood.
 Dialogue: 5,0:17:33.03,0:17:36.24,Default,,0,0,0,,Ghost stories... Hmm...
-Dialogue: 5,0:17:36.24,0:17:39.96,Default,,0,0,0,,But can we still scare people with ghost stories?
+Dialogue: 5,0:17:36.24,0:17:39.71,Default,,0,0,0,,But can we still scare people with ghost stories?
 Dialogue: 5,0:17:39.70,0:17:41.45,Default,,0,0,0,,I'm scared of ghosts!
 Dialogue: 5,0:17:41.45,0:17:42.91,Default,,0,0,0,,Of course. Everyone is.
 Dialogue: 5,0:17:42.91,0:17:46.12,Default,,0,0,0,,But in this day and age, reality is even scarier.
@@ -475,6 +475,22 @@ Dialogue: 5,0:22:00.21,0:22:01.75,Default,,0,0,0,,So cool...
 Dialogue: 5,0:22:01.75,0:22:04.47,Default,,0,0,0,,Now it really feels like summer.
 Dialogue: 5,0:22:04.47,0:22:07.26,Default,,0,0,0,,Your Mongolian spot's so blue, Marii!
 Dialogue: 5,0:22:07.26,0:22:09.98,Default,,0,0,0,,I'm the coolest one here, you know!
+Dialogue: 5,0:23:41.27,0:23:42.73,Default,,0,0,0,,Bouhatei Tetora here!
+Dialogue: 5,0:23:42.73,0:23:44.49,Default,,0,0,0,,Anrakutei Kukuru here.
+Dialogue: 5,0:23:44.49,0:23:46.20,Default,,0,0,0,,Kuurubiyuutei Gankyou here.
+Dialogue: 5,0:23:46.20,0:23:47.99,Default,,0,0,0,,Haroukitei Kigurumi here!
+Dialogue: 5,0:23:47.99,0:23:49.74,Default,,0,0,0,,Buratei Marii here!
+Dialogue: 5,0:23:49.74,0:23:53.45,Default,,0,0,0,,This anime is full of ordinary dialogue...
+Dialogue: 5,0:23:53.45,0:23:55.00,Default,,0,0,0,,...so that viewers can...
+Dialogue: 5,0:23:55.00,0:23:56.79,Default,,0,0,0,,...fully enjoy...
+Dialogue: 5,0:23:56.79,0:23:58.63,Default,,0,0,0,,...how cute the girls...
+Dialogue: 5,0:23:58.63,0:23:59.38,Default,,0,0,0,,...are.
+Dialogue: 5,0:23:59.38,0:24:01.75,Default,,0,0,0,,The splendid beauty of the thirteenth episode contains:
+Dialogue: 5,0:24:01.75,0:24:02.84,Default,,0,0,0,,"Character Guts".
+Dialogue: 5,0:24:02.84,0:24:03.92,Default,,0,0,0,,"Mighty Akiha".
+Dialogue: 5,0:24:03.92,0:24:05.22,Default,,0,0,0,,And "Extra Lec..."
+Dialogue: 5,0:24:05.22,0:24:05.80,Default,,0,0,0,,"...tures".
+Dialogue: 5,0:24:05.80,0:24:09.14,Default,,0,0,0,,{\q2}Hey, wait a sec! Why do I always \Nget stuck with the very end?!
 Dialogue: 3,0:22:17.14,0:22:18.73,EDbg,,0,0,0,,A
 Dialogue: 3,0:22:18.73,0:22:20.36,EDbg,,0,0,0,,A
 Dialogue: 3,0:22:20.36,0:22:21.86,EDbg,,0,0,0,,A
@@ -627,6 +643,12 @@ Dialogue: 0,0:24:02.33,0:24:10.01,block,,0,0,0,,{\pos(1240.5,558)\fscx152\fscy15
 Dialogue: 0,0:24:02.33,0:24:10.01,block,,0,0,0,,{\pos(1335,558)\fscx170\fscy1500\c&H1D4CCD&}A
 Dialogue: 0,0:24:02.33,0:24:10.01,block,,0,0,0,,{\pos(586.5,591)\fscx160\fscy1500\c&H11150F&}A
 Dialogue: 0,0:24:02.33,0:24:10.01,block,,0,0,0,,{\pos(685.5,591)\fscx176\fscy1500\c&H1D4CCD&}A
+Dialogue: 0,0:24:02.34,0:24:10.01,block,,0,0,0,,{\an9\pos(1392.101,104.1)\fscx182\fscy1506\c&H1E4DCD&}A
+Dialogue: 0,0:24:02.34,0:24:10.01,block,,0,0,0,,{\an9\pos(738.6,108.6)\fscx182\fscy1506\c&H1E4DCD&}A
+Dialogue: 0,0:24:02.34,0:24:10.01,block,,0,0,0,,{\an9\pos(1063.833,104.1)\fscx182\fscy1506\c&H1E4DCD&}A
+Dialogue: 0,0:24:02.34,0:24:10.01,block,,0,0,0,,{\an9\pos(1286.501,106.5)\fscx182\fscy1506\c&H111712&}A
+Dialogue: 0,0:24:02.34,0:24:10.01,block,,0,0,0,,{\an9\pos(957,100.5)\fscx182\fscy1506\c&H111712&}A
+Dialogue: 0,0:24:02.34,0:24:10.01,block,,0,0,0,,{\an9\pos(631.5,108)\fscx182\fscy1506\c&H111712&}A
 Dialogue: 1,0:15:47.88,0:15:50.84,dont wanna gradient zzz,,0,0,0,,{\an8\pos(1605,241.5)\blur1.05}We're dressing in \Naccordance with the \NCool Biz initiative \Nfor saving electricity.
 Dialogue: 1,0:01:29.98,0:01:33.19,signs,,0,0,0,,{\pos(957,507)\frz10.07\fry358\frx358\fnLido STF CE\fs165\b1\c&H364E50&\blur0.9}Happy New Year!
 Dialogue: 1,0:02:01.85,0:02:03.85,signs,,0,0,0,,{\fnFertigo Pro\fs180\blur0.75}The Dreamer \NStrikes Back

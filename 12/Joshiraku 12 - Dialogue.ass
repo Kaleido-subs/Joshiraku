@@ -12,8 +12,8 @@ YCbCr Matrix: TV.709
 Export Filters: Actor/Linebreak Remover
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: ../13/JoshirakuBD_13_new (Premux).mkv
-Video File: ../13/JoshirakuBD_13_new (Premux).mkv
+Audio File: JoshirakuBD_12_new (Premux).mkv
+Video File: JoshirakuBD_12_new (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -33,7 +33,7 @@ Comment: 0,0:22:09.98,0:22:09.98,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:35.38,0:22:35.38,Default,,0,0,0,edsync,{EDsync — First hard cut}
 Comment: 0,0:23:39.98,0:23:39.98,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:01:30.53,0:01:33.20,Default,,0,0,0,,"Teddy, where were you?"
-Dialogue: 10,0:01:33.49,0:01:36.62,Default,,0,0,0,,"I took a puzzle and I sat on the street waiting for you."
+Dialogue: 10,0:01:33.49,0:01:36.62,Default,,0,0,0,,"I took a puzzle and sat on the street waiting for you."
 Dialogue: 10,0:01:36.62,0:01:40.58,Default,,0,0,0,,"What? I told you to wait with the bamboo seller!"
 Dialogue: 10,0:01:40.58,0:01:43.58,Default,,0,0,0,,"Oh, I thought you said 'with a bamboozler'."
 Dialogue: 10,0:01:43.58,0:01:45.59,Default,,0,0,0,,Thanks for your continued patronage.
@@ -42,7 +42,8 @@ Dialogue: 10,0:01:48.46,0:01:49.59,Default,,0,0,0,,a good...
 Dialogue: 10,0:01:49.59,0:01:50.84,Default,,0,0,0,,year...
 Dialogue: 10,0:01:50.84,0:01:51.84,Default,,0,0,0,,everybo...
 Dialogue: 10,0:01:52.13,0:01:52.68,Default,,0,0,0,,...dy.
-Dialogue: 10,0:01:54.05,0:01:59.27,Default,,0,0,0,,{\q2}It's a running joke at this point, \Nso I'll just keep quiet.
+Dialogue: 10,0:01:54.05,0:01:58.72,Default,,0,0,0,,{\q2}It's a running gag at this point, \Nso I'll just keep quiet.
+Dialogue: 10,0:01:58.72,0:01:59.27,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:01:59.27,0:02:01.85,Default,,0,0,0,,You'd better not pull this crap at Valentine's.
 Dialogue: 10,0:02:05.31,0:02:08.40,Default,,0,0,0,,Happy new year!
 Dialogue: 10,0:02:08.40,0:02:10.99,Default,,0,0,0,,So, what was everyone's first dream of the year?
@@ -74,7 +75,7 @@ Dialogue: 10,0:03:10.46,0:03:13.42,Default,,0,0,0,,so it's like you're hypnotisi
 Dialogue: 10,0:03:13.42,0:03:16.43,Default,,0,0,0,,Okay then, just say "sheep one, sheep two".
 Dialogue: 10,0:03:16.43,0:03:18.09,Default,,0,0,0,,Shouldn't they be plural?
 Dialogue: 10,0:03:18.09,0:03:19.72,Default,,0,0,0,,What's the plural of sheep?
-Dialogue: 10,0:03:19.72,0:03:22.14,Default,,0,0,0,,{\q2}To make something plural in English, \Nyou just slap on an {\i1}s{\i0}.
+Dialogue: 10,0:03:19.72,0:03:22.14,Default,,0,0,0,,{\q2}To make something plural in English, \Nyou just slap on an {\i1}s{\i0} at the end.
 Dialogue: 10,0:03:22.14,0:03:24.27,Default,,0,0,0,,The plural of "sheep" is "sheep".
 Dialogue: 10,0:03:24.27,0:03:25.31,Default,,0,0,0,,For freaking real?
 Dialogue: 10,0:03:25.31,0:03:29.11,Default,,0,0,0,,{\q2}Sheep are treated as a flock, \Nso the noun is uncountable.
@@ -90,7 +91,7 @@ Dialogue: 10,0:04:14.65,0:04:17.99,Default,,0,0,0,,{\q2}My father suddenly annou
 Dialogue: 10,0:04:17.99,0:04:20.99,Default,,0,0,0,,{\q2}seemingly convinced he was \Ngoing to be laid off from his company.
 Dialogue: 10,0:04:20.99,0:04:23.99,Default,,0,0,0,,{\q2}My grandmother started wearing more \Nand more make-up, often leaving the house.
 Dialogue: 10,0:04:23.99,0:04:26.83,Default,,0,0,0,,It wasn't uncommon for her to stay out all night.
-Dialogue: 10,0:04:26.83,0:04:30.63,Default,,0,0,0,,{\q2}In the end, a white Republican man who claimed \Nto have been an acquaintance of my mother's
+Dialogue: 10,0:04:26.83,0:04:30.63,Default,,0,0,0,,{\q2}In the end, a white Republican man who claimed to \Nhave been an acquaintance of my mother's
 Dialogue: 10,0:04:30.63,0:04:34.05,Default,,0,0,0,,invited us to go live with him in Oregon.
 Dialogue: 10,0:04:34.05,0:04:37.09,Default,,0,0,0,,The start of the year brings nothing but pain!
 Dialogue: 10,0:04:37.09,0:04:40.13,Default,,0,0,0,,{\q2}I just want to dream! \NIs that so much to ask?
@@ -98,7 +99,7 @@ Dialogue: 10,0:04:41.30,0:04:44.22,Default,,0,0,0,,That's enough drama for one o
 Dialogue: 10,0:04:44.22,0:04:47.31,Default,,0,0,0,,Whatever happened to those?
 Dialogue: 10,0:04:47.31,0:04:51.98,Default,,0,0,0,,{\q2}Don't worry! Even people with insomnia \Ndon't go that long without sleeping.
 Dialogue: 10,0:04:51.98,0:04:53.06,Default,,0,0,0,,Really?
-Dialogue: 10,0:04:53.06,0:04:59.53,Default,,0,0,0,,{\q2}You get people who say they haven't slept in five days, \Nbut usually they slept a little without realizing it.
+Dialogue: 10,0:04:53.06,0:04:59.53,Default,,0,0,0,,{\q2}You get people who say they haven't slept in five days, \Nbut usually they dozed off a little without realising it.
 Dialogue: 10,0:05:00.03,0:05:00.82,Default,,0,0,0,,You're right.
 Dialogue: 10,0:05:00.82,0:05:02.87,Default,,0,0,0,,If your insomnia persists, things get hazy
 Dialogue: 10,0:05:02.87,0:05:05.70,Default,,0,0,0,,{\q2}and you stop being able to tell \Nwhere dreams end and reality begins.
@@ -123,16 +124,16 @@ Dialogue: 10,0:05:52.37,0:05:54.25,Default,,0,0,0,,A backstage inside the backst
 Dialogue: 10,0:05:54.25,0:05:56.38,Default,,0,0,0,,Like a dream within a dream!
 Dialogue: 10,0:05:56.38,0:06:00.30,Default,,0,0,0,,{\q2}Let's act out an amazing New Year's dream \Nand make Kukuru happy again!
 Dialogue: 10,0:06:00.30,0:06:02.01,Default,,0,0,0,,What makes a good New Year's dream?
-Dialogue: 10,0:06:02.01,0:06:04.39,Default,,0,0,0,,{\q2}They say the three luckiest things \Nto see in your dreams are,
-Dialogue: 10,0:06:04.39,0:06:06.22,Default,,0,0,0,,in order: Fuji, a hawk, and an eggplant.
+Dialogue: 10,0:06:02.01,0:06:06.22,Default,,0,0,0,,{\q2}They say the three luckiest things to see in your dreams are, \Nin order: Mt. Fuji, a hawk, and an eggplant.
 Dialogue: 10,0:06:08.06,0:06:09.10,Default,,0,0,0,,This is so lucky.
 Dialogue: 10,0:06:09.10,0:06:12.27,Default,,0,0,0,,This is so lucky!
-Dialogue: 10,0:06:13.14,0:06:14.77,Default,,0,0,0,,S-scary... So scary!
-Dialogue: 10,0:06:14.77,0:06:16.52,Default,,0,0,0,,I've never had such a terrifying dream in my whole life!
-Dialogue: 10,0:06:16.52,0:06:19.40,Default,,0,0,0,,Terrifying?! These are all really good omens!
-Dialogue: 10,0:06:19.40,0:06:20.99,Default,,0,0,0,,We've got Fuji, a hawk, an eggplant...
+Dialogue: 10,0:06:13.14,0:06:14.77,Default,,0,0,0,,S-Scary... So scary!
+Dialogue: 10,0:06:14.77,0:06:17.52,Default,,0,0,0,,I've never had such a terrifying dream in my whole life!
+Dialogue: 10,0:06:16.52,0:06:18.02,Alt,,0,0,0,,Terrifying?!
+Dialogue: 10,0:06:18.02,0:06:19.40,Default,,0,0,0,,These are all really good omens!
+Dialogue: 10,0:06:19.40,0:06:20.99,Default,,0,0,0,,We've got Mt. Fuji, a hawk, an eggplant...
 Dialogue: 10,0:06:20.99,0:06:21.94,Default,,0,0,0,,But...
-Dialogue: 10,0:06:22.19,0:06:26.95,Default,,0,0,0,,{\q2}Even in a dream, it's too unrealistic for Fuji, \Na hawk, and an eggplant to appear together!
+Dialogue: 10,0:06:22.19,0:06:26.95,Default,,0,0,0,,{\q2}Even in a dream, it's too unrealistic for Mt. Fuji, \Na hawk, and an eggplant to appear together!
 Dialogue: 10,0:06:26.95,0:06:27.62,Default,,0,0,0,,I see...
 Dialogue: 10,0:06:27.62,0:06:28.49,Default,,0,0,0,,...what you mean.
 Dialogue: 10,0:06:28.49,0:06:30.41,Default,,0,0,0,,Intermission!
@@ -145,22 +146,24 @@ Dialogue: 10,0:06:43.97,0:06:45.59,Default,,0,0,0,,So what's the plan?
 Dialogue: 10,0:06:45.89,0:06:49.01,Default,,0,0,0,,{\q2}We should start at fourth place \Nand do the top ten!
 Dialogue: 10,0:06:49.01,0:06:51.89,Default,,0,0,0,,What could possibly be worse than an eggplant?
 Dialogue: 10,0:06:51.89,0:06:54.31,Default,,0,0,0,,There's only one thing it can be.
-Dialogue: 10,0:06:54.31,0:06:55.85,Default,,0,0,0,,The second half is starting!
+Dialogue: 10,0:06:54.31,0:06:55.85,Default,,0,0,0,,Time for the second act!
 Dialogue: 10,0:06:55.85,0:06:57.61,Default,,0,0,0,,Continuing from number three, eggplant...
 Dialogue: 10,0:06:58.27,0:06:59.61,Default,,0,0,0,,Four: green pepper!
 Dialogue: 10,0:06:59.61,0:07:00.69,Default,,0,0,0,,Five: carrot!
 Dialogue: 10,0:07:00.69,0:07:01.90,Default,,0,0,0,,Six: broccoli!
 Dialogue: 10,0:07:02.69,0:07:05.78,Default,,0,0,0,,This is just a list of all the veggies you hate!
 Dialogue: 10,0:07:05.78,0:07:07.62,Default,,0,0,0,,Grow up, you toddler!
-Dialogue: 10,0:07:09.20,0:07:13.83,Default,,0,0,0,,I thought it went fan, tobacco, blind masseur...
+Dialogue: 10,0:07:09.03,0:07:13.83,Default,,0,0,0,,I thought it went fan, tobacco, blind masseur...
 Dialogue: 10,0:07:13.83,0:07:15.50,Default,,0,0,0,,Oh, really?
 Dialogue: 10,0:07:15.50,0:07:20.54,Default,,0,0,0,,{\q2}A fan spreads out wide, and the smoke \Nfrom tobacco rises up like your fortunes.
 Dialogue: 10,0:07:21.17,0:07:22.21,Default,,0,0,0,,And the blind masseur?
-Dialogue: 10,0:07:22.21,0:07:25.42,Default,,0,0,0,,{\q2}Because he has no hair, not a hair \Non your head will be harmed.
+Dialogue: 10,0:07:22.21,0:07:24.97,Default,,0,0,0,,{\q2}Because he has no hair, not a hair \Non your head will be harmed.
+Dialogue: 10,0:07:24.97,0:07:25.42,Default,,0,0,0,,Oh.
 Dialogue: 10,0:07:25.42,0:07:27.26,Default,,0,0,0,,So what are we going to do next?
 Dialogue: 10,0:07:27.26,0:07:33.14,Default,,0,0,0,,{\q2}We went from animals to plants, \Nso next we need something even lower than that.
 Dialogue: 10,0:07:33.93,0:07:35.10,Default,,0,0,0,,What the hell?!
 Dialogue: 10,0:07:35.10,0:07:36.89,Default,,0,0,0,,I'm just gonna borrow your belt!
+Dialogue: 10,0:07:36.44,0:07:37.40,Alt,,0,0,0,,Nooo!
 Dialogue: 10,0:07:37.69,0:07:39.77,Default,,0,0,0,,Following on from broccoli...
 Dialogue: 10,0:07:43.11,0:07:43.98,Default,,0,0,0,,Seven: chloroplasts!
 Dialogue: 10,0:07:43.98,0:07:44.99,Default,,0,0,0,,Eight: mitochondria!
@@ -216,7 +219,7 @@ Dialogue: 10,0:09:44.06,0:09:47.73,Default,,0,0,0,,{\q2}If you waited an hour, m
 Dialogue: 10,0:09:48.57,0:09:51.28,Default,,0,0,0,,Honestly, you lot. It's art! Art!
 Dialogue: 10,0:09:51.28,0:09:53.53,Default,,0,0,0,,Isn't there anything prettier?
 Dialogue: 10,0:09:54.99,0:09:56.87,Default,,0,0,0,,This is huge, too!
-Dialogue: 10,0:09:56.87,0:09:58.79,Default,,0,0,0,,It's five metres tall.
+Dialogue: 10,0:09:56.87,0:09:58.79,Default,,0,0,0,,This one is five metres tall.
 Dialogue: 10,0:09:58.79,0:10:00.75,Default,,0,0,0,,It's a rose, right?
 Dialogue: 10,0:10:00.75,0:10:04.67,Default,,0,0,0,,{\q2}This rose is a symbol of \Nthe love and beauty of 66 Plaza.
 Dialogue: 10,0:10:05.17,0:10:08.59,Default,,0,0,0,,Looks more lethal than beautiful.
@@ -282,12 +285,12 @@ Dialogue: 10,0:12:59.17,0:13:00.84,Default,,0,0,0,,Ah, the days of the Economic 
 Dialogue: 10,0:13:00.84,0:13:02.89,Default,,0,0,0,,I wonder what it was like!
 Dialogue: 10,0:13:02.89,0:13:07.68,Default,,0,0,0,,{\q2}I bet you'd have been all over it \Nif you'd been in your twenties back then, Marii.
 Dialogue: 10,0:13:07.68,0:13:08.98,Default,,0,0,0,,Probably.
-Dialogue: 10,0:13:08.98,0:13:11.85,Default,,0,0,0,,I kinda want to go back to those bubbly days...
+Dialogue: 10,0:13:08.98,0:13:11.85,Default,,0,0,0,,I kinda wanna go back to those bubbly days.
 Dialogue: 10,0:13:11.85,0:13:16.32,Default,,0,0,0,,"Take me back to the bubble age!", huh? Okay then.
 Dialogue: 10,0:13:16.32,0:13:18.24,Default,,0,0,0,,N-Now hold on a sec!
 Dialogue: 10,0:13:18.24,0:13:19.28,Default,,0,0,0,,It's a time machine!
 Dialogue: 10,0:13:19.28,0:13:22.36,Default,,0,0,0,,Hoichoi Productions use it to wind the clock back.
-Dialogue: 10,0:13:22.66,0:13:25.58,Default,,0,0,0,,Right, put on this swimsuit and get inside!
+Dialogue: 10,0:13:22.66,0:13:25.58,Default,,0,0,0,,Put on this swimsuit and get inside!
 Dialogue: 10,0:13:25.58,0:13:27.20,Default,,0,0,0,,Who am I, Hirosue Ryouko?!
 Dialogue: 10,0:13:27.95,0:13:29.75,Default,,0,0,0,,See you soon, Marii!
 Dialogue: 10,0:13:29.75,0:13:31.25,Default,,0,0,0,,Go dancing for us!
@@ -343,10 +346,10 @@ Dialogue: 10,0:16:48.78,0:16:50.91,Default,,0,0,0,,Our feminine wiles!
 Dialogue: 10,0:16:50.91,0:16:53.12,Default,,0,0,0,,I-I let my guard down...
 Dialogue: 10,0:16:54.24,0:16:56.25,Default,,0,0,0,,Stop this bullshit already!
 Dialogue: 10,0:16:56.50,0:16:57.33,Default,,0,0,0,,But...
-Dialogue: 10,0:16:57.75,0:17:02.29,Default,,0,0,0,,{\q2}You can't make us do Cool Biz \Nand then also stop us playing ninja!
+Dialogue: 10,0:16:57.75,0:17:02.29,Default,,0,0,0,,{\q2}You can't make us do Cool Biz \Nand then also stop us from playing ninja!
 Dialogue: 10,0:17:05.00,0:17:08.01,Default,,0,0,0,,{\q2}Do you think anybody would guess \Nwe were Cool Biz rakugo performers?
-Dialogue: 10,0:17:08.01,0:17:11.68,Default,,0,0,0,,{\q2}You could survey 100 dudes at Shinbashi \Nand they'd all say we were ninjas!
-Dialogue: 10,0:17:12.26,0:17:15.47,Default,,0,0,0,,{\q2}It doesn't matter how much we talk \Nabout saving electricity or Cool Biz,
+Dialogue: 10,0:17:08.01,0:17:11.68,Default,,0,0,0,,{\q2}You could survey one hundred dudes at Shinbashi \Nand they'd all say we were ninjas!
+Dialogue: 10,0:17:12.26,0:17:15.47,Default,,0,0,0,,{\q2}It doesn't matter how much we talk \Nabout saving electricity or Cool Biz.
 Dialogue: 10,0:17:15.47,0:17:18.39,Default,,0,0,0,,{\q2}The fact remains that performing \Non stage like this is weird.
 Dialogue: 10,0:17:18.73,0:17:23.02,Default,,0,0,0,,{\q2}As rakugo performers, we should use \Nour stories to bring chills to people.
 Dialogue: 10,0:17:23.44,0:17:24.11,Default,,0,0,0,,Oh.
@@ -360,12 +363,12 @@ Dialogue: 10,0:17:39.58,0:17:41.46,Default,,0,0,0,,They're so scary!
 Dialogue: 10,0:17:41.46,0:17:46.55,Default,,0,0,0,,{\q2}Sure they are, but nowadays \NI'd wager reality is even scarier.
 Dialogue: 10,0:17:46.55,0:17:48.34,Default,,0,0,0,,Take a look at this.
 Dialogue: 10,0:17:48.34,0:17:49.38,Default,,0,0,0,,It's the beach!
-Dialogue: 10,0:17:49.38,0:17:50.51,Default,,0,0,0,,I wish I was there!
+Dialogue: 10,0:17:49.38,0:17:50.51,Default,,0,0,0,,I wish that was me!
 Dialogue: 10,0:17:50.51,0:17:51.17,Default,,0,0,0,,Is that...
 Dialogue: 10,0:17:51.17,0:17:52.26,Default,,0,0,0,,Exactly.
 Dialogue: 10,0:17:52.26,0:17:56.14,Default,,0,0,0,,In the background, a pale figure is staring at her.
 Dialogue: 10,0:17:56.14,0:17:58.22,Default,,0,0,0,,Agh! Is it a ghost?!
-Dialogue: 10,0:17:58.22,0:17:59.10,Default,,0,0,0,,That's terrifying.
+Dialogue: 10,0:17:58.22,0:17:59.10,Default,,0,0,0,,That's super creepy!
 Dialogue: 10,0:17:59.10,0:18:01.10,Default,,0,0,0,,It'd be scary if it was a ghost,
 Dialogue: 10,0:18:01.56,0:18:03.02,Default,,0,0,0,,but take a closer look.
 Dialogue: 10,0:18:03.94,0:18:06.52,Default,,0,0,0,,It's nothing more than a person wearing a white outfit.
@@ -390,7 +393,7 @@ Dialogue: 10,0:18:51.78,0:18:52.74,Default,,0,0,0,,Look even closer.
 Dialogue: 10,0:18:52.74,0:18:55.49,Default,,0,0,0,,{\q2}It's actually the politician \Nthat everyone says looks like a fish.
 Dialogue: 10,0:18:55.78,0:18:57.37,Default,,0,0,0,,Ugh, that guy.
 Dialogue: 10,0:18:57.99,0:19:00.12,Default,,0,0,0,,How can one person mess up so much?!
-Dialogue: 10,0:19:00.12,0:19:02.95,Default,,0,0,0,,By the way, this isn't a house, it's parliament.
+Dialogue: 10,0:19:00.12,0:19:02.95,Default,,0,0,0,,By the way, this isn't a house. It's parliament.
 Dialogue: 10,0:19:02.95,0:19:07.00,Default,,0,0,0,,{\q2}A politician who raises consumption tax \Nis more terrifying than any ghost could ever be, right?
 Dialogue: 10,0:19:07.00,0:19:08.59,Default,,0,0,0,,They are! They can't even compare!
 Dialogue: 10,0:19:08.59,0:19:12.88,Default,,0,0,0,,It's scarier because it hurts everyone in the country.
@@ -409,7 +412,7 @@ Dialogue: 10,0:19:46.87,0:19:47.29,Default,,0,0,0,,Nope.
 Dialogue: 10,0:19:47.29,0:19:48.13,Default,,0,0,0,,Me neither.
 Dialogue: 10,0:19:48.13,0:19:49.13,Default,,0,0,0,,Not at all.
 Dialogue: 10,0:19:50.25,0:19:51.09,Default,,0,0,0,,Terrifying!
-Dialogue: 10,0:19:51.09,0:19:53.46,Default,,0,0,0,,It's insanely popular despite nobody buying it!
+Dialogue: 10,0:19:51.09,0:19:53.46,Default,,0,0,0,,How can it be popular if nobody's buying CDs?!
 Dialogue: 10,0:19:53.71,0:19:55.26,Default,,0,0,0,,Let's try a visual approach.
 Dialogue: 10,0:19:56.13,0:19:59.47,Default,,0,0,0,,If we paint the room blue, it'll feel cooler in here.
 Dialogue: 10,0:19:59.47,0:20:03.52,Default,,0,0,0,,{\q2}We can experiment in here, and if it works, \Nwe can paint the whole theatre.
@@ -417,7 +420,7 @@ Dialogue: 10,0:20:03.52,0:20:04.43,Default,,0,0,0,,I'll help!
 Dialogue: 10,0:20:04.43,0:20:05.23,Default,,0,0,0,,Me too.
 Dialogue: 10,0:20:05.23,0:20:07.94,Default,,0,0,0,,Hey, I don't think they'll let us—
 Dialogue: 10,0:20:09.19,0:20:12.02,Default,,0,0,0,,The dragonfly's glasses are as blue as the sky...
-Dialogue: 10,0:20:17.49,0:20:19.16,Default,,0,0,0,,Mariemon!
+Dialogue: 10,0:20:17.49,0:20:19.16,Default,,0,0,0,,Mariiemon!
 Dialogue: 10,0:20:20.57,0:20:21.83,Default,,0,0,0,,She crashed like an Osprey!
 Dialogue: 10,0:20:22.08,0:20:23.87,Default,,0,0,0,,She looks more like a member of the Blue Man Group.
 Dialogue: 10,0:20:23.87,0:20:25.91,Default,,0,0,0,,The Blue Man Group has three members!
@@ -428,16 +431,16 @@ Dialogue: 10,0:20:39.05,0:20:40.93,Default,,0,0,0,,But now we're used to it...
 Dialogue: 10,0:20:41.22,0:20:43.81,Default,,0,0,0,,I'm hot again...
 Dialogue: 10,0:20:44.39,0:20:46.10,Default,,0,0,0,,We just need more blue stuff.
 Dialogue: 10,0:20:46.10,0:20:48.31,Default,,0,0,0,,Let's all dye our hair blue!
-Dialogue: 10,0:20:48.31,0:20:51.40,Default,,0,0,0,,What is this, an anime from the 80s?
+Dialogue: 10,0:20:48.31,0:20:51.40,Default,,0,0,0,,What are we, an anime from the 80s?
 Dialogue: 10,0:20:51.40,0:20:52.48,Default,,0,0,0,,I'm not Konata! {Lucky Star}
 Dialogue: 10,0:20:52.48,0:20:53.69,Default,,0,0,0,,I'm not Ayanami! {Evangelion}
-Dialogue: 10,0:20:53.69,0:20:54.61,Default,,0,0,0,,I'm not Aoshi! {Rurouni Kenshin?}
+Dialogue: 10,0:20:53.69,0:20:54.61,Default,,0,0,0,,I'm not Lord Aoshi! {Rurouni Kenshin?}
 Dialogue: 10,0:20:54.61,0:20:56.32,Default,,0,0,0,,I'm not Soldier Blue! {Terra e?}
 Dialogue: 10,0:20:57.82,0:21:00.70,Default,,0,0,0,,I'm really feeling that generation gap here.
 Dialogue: 10,0:21:00.70,0:21:04.08,Default,,0,0,0,,Well, there are remakes and re-runs.
 Dialogue: 10,0:21:04.08,0:21:06.08,Default,,0,0,0,,Let's just give it a go.
 Dialogue: 10,0:21:07.79,0:21:11.37,Default,,0,0,0,,{\q2}Lining our blue heads up like this \Nmakes things feel a little fresher in here.
-Dialogue: 10,0:21:11.37,0:21:13.25,Default,,0,0,0,,It's more effective than I was expecting.
+Dialogue: 10,0:21:11.37,0:21:13.25,Default,,0,0,0,,It works much better than I expected.
 Dialogue: 10,0:21:13.25,0:21:18.05,Default,,0,0,0,,{\q2}They should stop re-airing Touch during summer break \Nand only show anime with blue-haired characters!
 Dialogue: 10,0:21:20.38,0:21:21.47,Default,,0,0,0,,But...
 Dialogue: 10,0:21:21.47,0:21:23.68,Default,,0,0,0,,It's hot again now that we're used to it.
@@ -448,13 +451,13 @@ Dialogue: 10,0:21:34.61,0:21:35.32,Default,,0,0,0,,Right?
 Dialogue: 10,0:21:36.98,0:21:40.11,Default,,0,0,23,,I just had another great idea!
 Dialogue: 10,0:21:43.87,0:21:46.03,Default,,0,0,0,,Ghosts!
 Dialogue: 10,0:21:46.03,0:21:47.91,Default,,0,0,0,,What was that about?
-Dialogue: 10,0:21:47.91,0:21:50.54,Default,,0,0,0,,His wife's way scarier than ghosts.
+Dialogue: 10,0:21:47.91,0:21:50.54,Default,,0,0,0,,His wife's way scarier than any ghosts.
 Dialogue: 10,0:21:50.54,0:21:54.29,Default,,0,0,0,,I've already grown used to this, too. It's so hot.
 Dialogue: 10,0:21:54.29,0:21:56.59,Default,,0,0,0,,Something else! We need more blue!
 Dialogue: 10,0:21:56.88,0:21:58.46,Default,,0,0,0,,I know what!
-Dialogue: 10,0:22:00.22,0:22:01.68,Default,,0,0,0,,Now that's refreshing!
+Dialogue: 10,0:22:00.22,0:22:01.68,Default,,0,0,0,,Now {\i1}that's{\i0} refreshing!
 Dialogue: 10,0:22:01.68,0:22:03.84,Default,,0,0,0,,The perfect thing for summer.
-Dialogue: 10,0:22:04.51,0:22:07.18,Default,,0,0,0,,It's so blue! Marii's Mongolian Spot is so blue!
+Dialogue: 10,0:22:04.51,0:22:07.18,Default,,0,0,0,,Marii's Mongolian Spot is so blue!
 Dialogue: 10,0:22:07.18,0:22:09.98,Default,,0,0,0,,At least my butt is cool!
 Dialogue: 10,0:23:41.27,0:23:42.73,Default,,0,0,0,,Bouhatei Tetora here!
 Dialogue: 10,0:23:42.73,0:23:44.49,Default,,0,0,0,,Anrakutei Kukuru here.
@@ -466,7 +469,7 @@ Dialogue: 10,0:23:53.45,0:23:55.00,Default,,0,0,0,,...are written to be as inoff
 Dialogue: 10,0:23:55.00,0:23:56.79,Default,,0,0,0,,...so as not to interfere with your enjoyment...
 Dialogue: 10,0:23:56.79,0:23:58.63,Default,,0,0,0,,...of viewing cute gi...
 Dialogue: 10,0:23:58.63,0:23:59.38,Default,,0,0,0,,...rls.
-Dialogue: 10,0:23:59.38,0:24:01.75,Default,,0,0,0,,The splendid beauty of the 13th episode contains:
+Dialogue: 10,0:23:59.38,0:24:01.75,Default,,0,0,0,,The splendid beauty of the thirteenth episode contains:
 Dialogue: 10,0:24:01.75,0:24:02.84,Default,,0,0,0,,"Character Assassination".
 Dialogue: 10,0:24:02.84,0:24:03.92,Default,,0,0,0,,"Akihabubble".
 Dialogue: 10,0:24:03.92,0:24:05.22,Default,,0,0,0,,And "A Little Ex..."
