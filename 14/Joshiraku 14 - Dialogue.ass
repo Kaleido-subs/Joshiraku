@@ -408,7 +408,7 @@ Dialogue: 10,0:20:45.72,0:20:47.52,Default,,0,0,0,,Flattery won't get you anywhe
 Dialogue: 10,0:20:47.52,0:20:48.81,Default,,0,0,0,,That wasn't flattery.
 Dialogue: 10,0:20:48.81,0:20:52.73,Default,,0,0,0,,Oh, right! We should have separate dressing rooms, too!
 Dialogue: 10,0:20:52.73,0:20:56.36,Default,,0,0,0,,{\q2}If we're all in the same room and \Nsome rioter breaks in, we're done for!
-Dialogue: 10,0:20:56.61,0:21:00.24,Default,,0,0,0,,I'll ask the manager to give us separate rooms!
+Dialogue: 10,0:20:56.61,0:21:00.24,Default,,0,0,0,,I'll ask the manager to give us separate rooms! {### Is this the same master mentioned throughout the show? If so, this should be "Master"}
 Dialogue: 10,0:21:06.16,0:21:08.58,Default,,0,0,0,,He said, "Who'd'ya think you are? The bloody pope?!"
 Dialogue: 10,0:21:08.58,0:21:09.58,Default,,0,0,0,,Figures.
 Dialogue: 10,0:21:09.58,0:21:12.67,Default,,0,0,0,,We'll just have to make do with this, then.
