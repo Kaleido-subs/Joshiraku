@@ -34,10 +34,11 @@ Style: brush4,Arno Pro SmText,45,&H00FFFFFF,&H000019FF,&H00FFFFFF,&H00000000,0,0
 Style: freehand1,Goobascript,45,&H00FFFFFF,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,30,23,1
 Style: jp1,Fx正楷書体-M,45,&H00FFFFFF,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,30,30,23,1
 Style: jp2,DaunPenh,90,&H00FFFFFF,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,30,30,0,1
-Style: black joshi,G-OTF Antique Std AN M,180,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,16,16,16,1
-Style: signs,Arial,29,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,16,16,16,1
-Style: joshi-brush,Joshiraku v999,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,16,16,16,1
+Style: black joshi,G-OTF アンチック Std AN M,180,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
+Style: signs,DINNeuzeitGrotesk-Light,30,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
+Style: joshi-brush,Fx勘亭流江戸文字,75,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: oldEDup,Mercurius CT Std Medium,68,&H00FFFFFF,&H000019FF,&H64000000,&H64000000,0,0,0,0,100,100,0,0,1,3,1.5,8,15,15,15,1
+Style: food,Aharoni,29,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -572,7 +573,7 @@ Dialogue: 0,0:08:41.33,0:08:43.29,signs,,0,0,0,,{\pos(987.17,438.75)\frz0.342\fn
 Dialogue: 0,0:08:41.95,0:08:43.29,signs,,0,0,0,,{\pos(1575.849,517.5)\frz358.1\fnCentury\fs67.5\b1\shad2.25\c&H161511&\4c&H6C695C&\blur1.24}Senshu University
 Dialogue: 0,0:09:26.33,0:09:30.29,signs,,0,0,0,,{\pos(1104.906,189)\org(1334,135)\frz2.404\fry358\frx8\fnIskoola Pota\fs81\fsp11.25\b1\c&HE5DCD7&\blur1.46}Shogakukan Bld.
 Dialogue: 1,0:11:00.55,0:11:01.55,signs,,0,0,0,,{\pos(772.075,438.75)\frz75.44\fnCentury\fs67.5\b1\c&H140F0E&\blur2.25}Tokyo, Bunkyo, Otowa 2-12-21\NFor telephone numbers, please  \Nrefer to the table of contents.
-Dialogue: 0,0:11:00.55,0:11:01.55,signs,,0,0,0,,{\an7\pos(0,0)\c&HF8F5EF&\blur2.25\p1}m 783.375 -9 l 609 708.75 649.75 974.25 740.375 992.25 1003 -11.25
+Dialogue: 0,0:11:00.55,0:11:01.55,signs,,0,0,0,,{\an7\pos(0,0)\c&HF8F5EF&\fnCentury\blur2.25\p1}m 783.375 -9 l 609 708.75 649.75 974.25 740.375 992.25 1003 -11.25
 Dialogue: 1,0:12:14.96,0:12:19.05,signs,,0,0,0,,{\move(944.151,90,904.121,104.062,24,4070)\frz18.95\fnArtificeSSK\fs40.5\b1\c&H000000&\blur1.46}Great Japan\N Oratorical Society \NKodansha
 Dialogue: 0,0:12:14.96,0:12:19.05,signs,,0,0,0,,{\move(944.151,90,904.121,104.062,24,4070)\frz18.95\fnArtificeSSK\fs40.5\b1\bord1.57\c&HEEEEF6&\3c&HEEEEF6&\blur1.46}Great Japan\N Oratorical Society \NKodansha
 Dialogue: 0,0:14:34.43,0:14:48.40,signs,,0,0,0,,{\pos(1168.302,654.75)\frz20.9\fnOh Crud BB\fs45\b1\shad3.375\c&H7E16C0&\4c&H781479&\blur1.46}Anoingu
