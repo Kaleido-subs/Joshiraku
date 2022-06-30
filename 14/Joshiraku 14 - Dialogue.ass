@@ -38,12 +38,12 @@ Dialogue: 10,0:01:37.04,0:01:40.08,Default,,0,0,0,,"From the Nihonbashi riversid
 Dialogue: 10,0:01:40.08,0:01:42.12,Default,,0,0,0,,And to that, the lord replied w—
 Dialogue: 10,0:01:45.29,0:01:48.30,Default,,0,0,0,,"Nothing can beat Meguro's pikes!"
 Dialogue: 10,0:01:48.84,0:01:51.26,Default,,0,0,0,,Thank you for your continued patronage...
-Dialogue: 10,0:02:05.65,0:02:07.44,Default,,0,0,0,,What's wrong, Marii?
+Dialogue: 10,0:02:05.65,0:02:07.44,Default,,0,0,0,,What's got you down, Marii?
 Dialogue: 10,0:02:07.65,0:02:10.65,Default,,0,0,0,,They started clapping before I could even finish!
-Dialogue: 10,0:02:10.65,0:02:12.95,Default,,0,0,0,,I didn't even get to the punchline yet!
+Dialogue: 10,0:02:10.65,0:02:12.95,Default,,0,0,0,,I wasn't even {\i1}close{\i0} to the punchline!
 Dialogue: 10,0:02:12.95,0:02:15.03,Default,,0,0,0,,The applause is supposed to come {\i1}after{\i0}!
 Dialogue: 10,0:02:15.03,0:02:17.74,Default,,0,0,0,,Sounds to me like they wanted you out already.
-Dialogue: 10,0:02:17.74,0:02:18.74,Default,,0,0,0,,Why?!
+Dialogue: 10,0:02:17.74,0:02:18.74,Default,,0,0,0,,Say that again!
 Dialogue: 10,0:02:18.74,0:02:24.04,Default,,0,0,0,,{\q2}There are all kinds of audiences. \NSome may simply not know when to clap.
 Dialogue: 10,0:02:24.04,0:02:25.71,Default,,0,0,0,,Have you ever had any?
 Dialogue: 10,0:02:25.71,0:02:26.58,Default,,0,0,0,,Just the other day.
@@ -66,12 +66,12 @@ Dialogue: 10,0:03:21.22,0:03:25.10,Default,,0,0,0,,{\an8}Woohoo! That was kick-a
 Dialogue: 10,0:03:25.10,0:03:27.94,Default,,0,0,0,,{\q2}The main theme comes {\i1}after{\i0} \Nthose few seconds of silence!
 Dialogue: 10,0:03:27.94,0:03:29.52,Default,,0,0,0,,She ruined it!
 Dialogue: 10,0:03:29.52,0:03:33.48,Default,,0,0,0,,{\q2}It's not like she knew any better, \Nso it's not really fair to hold it against her.
-Dialogue: 10,0:03:33.48,0:03:36.40,Default,,0,0,0,,You get this with composers like Tchaikovsky as well.
-Dialogue: 10,0:03:36.40,0:03:40.58,Default,,0,0,0,,{\q2}Some people have no idea \Nwhen they're supposed to cheer.
+Dialogue: 10,0:03:33.48,0:03:36.40,Default,,0,0,0,,This happens with composers like Tchaikovsky as well.
+Dialogue: 10,0:03:36.40,0:03:40.58,Default,,0,0,0,,{\q2}Some people just can't gauge \Nwhen they're supposed to cheer.
 Dialogue: 10,0:03:40.58,0:03:42.79,Default,,0,0,0,,I learned that the hard way.
 Dialogue: 10,0:03:42.79,0:03:47.29,Default,,0,0,0,,{\q2}Just the other day, I gave Marii my spare ticket \Nto come see a baseball game with me.
-Dialogue: 10,0:03:54.42,0:03:57.84,Default,,0,0,0,,She tried to start a wave at the totally wrong time!
-Dialogue: 10,0:03:58.47,0:04:02.10,Default,,0,0,0,,{\q2}Timing it just right can fire up \Nan entire stadium, and she ruined it!
+Dialogue: 10,0:03:54.42,0:03:57.84,Default,,0,0,0,,She tried to start a wave at the worst possible time!
+Dialogue: 10,0:03:58.47,0:04:02.10,Default,,0,0,0,,{\q2}Timing it just right can fire up an entire stadium, \Nand she robbed us of that!
 Dialogue: 10,0:04:02.10,0:04:05.56,Default,,0,0,0,,It's not like she knew any better, though.
 Dialogue: 10,0:04:05.56,0:04:07.60,Default,,0,0,0,,As if that made it any bloody better!
 Dialogue: 10,0:04:07.89,0:04:10.86,Default,,0,0,0,,{\q2}But it's easy to miss your chance \Nif your team rarely scores.
@@ -90,21 +90,21 @@ Dialogue: 10,0:04:35.67,0:04:38.55,Default,,0,0,0,,I only got two syllables in! 
 Dialogue: 10,0:04:38.55,0:04:39.80,Default,,0,0,0,,Did I really?
 Dialogue: 10,0:04:40.05,0:04:42.09,Default,,0,0,0,,Mind if I butt in?
 Dialogue: 10,0:04:42.09,0:04:43.47,Default,,0,0,0,,It's a neighbourhood manga artist.
-Dialogue: 10,0:04:43.47,0:04:44.89,Default,,0,0,0,,There was this time...
+Dialogue: 10,0:04:43.47,0:04:44.89,Default,,0,0,0,,There was this time when...
 Dialogue: 10,0:04:48.31,0:04:51.19,Default,,0,0,0,,He's got... He's got a striped hakama! {### is there something dumb I'm missing here or is it just Marii being the dumb thing here? Also is there a common TL for hakama? I can't think of any}
-Dialogue: 10,0:04:53.52,0:04:55.73,Default,,0,0,0,,You laughed before you read the punchline!
-Dialogue: 10,0:04:55.73,0:04:57.28,Default,,0,0,0,,What's so funny about {\i1}that{\i0}?!
+Dialogue: 10,0:04:53.52,0:04:55.73,Default,,0,0,0,,You didn't even get to the punchline yet!
+Dialogue: 10,0:04:55.73,0:04:57.28,Default,,0,0,0,,There was nothing funny about {\i1}that{\i0}!
 Dialogue: 10,0:04:57.28,0:04:59.15,Default,,0,0,0,,And then, once you {\i1}did{\i0} get to the punchline...
 Dialogue: 10,0:05:06.08,0:05:08.58,Default,,0,0,0,,He's got... He's got a striped hakama!
 Dialogue: 10,0:05:09.25,0:05:12.00,Default,,0,0,0,,What's so funny about his trousers?!
 Dialogue: 10,0:05:12.00,0:05:13.75,Default,,0,0,0,,Laugh at something that's {\i1}funny{\i0}!
-Dialogue: 10,0:05:13.75,0:05:16.13,Default,,0,0,0,,In your case, I'd be happy anyone found it funny at all.
-Dialogue: 10,0:05:16.13,0:05:18.09,Default,,0,0,0,,Well, I guess that's one way to look at it.
+Dialogue: 10,0:05:13.75,0:05:16.13,Default,,0,0,0,,I'd be happy anyone found your manga funny at all.
+Dialogue: 10,0:05:16.13,0:05:18.09,Default,,0,0,0,,That's one way to look at it.
 Dialogue: 10,0:05:19.34,0:05:21.72,Default,,0,0,0,,Oh, come on. Get off my ass.
 Dialogue: 10,0:05:21.72,0:05:24.22,Default,,0,0,0,,Who gives a damn if my timing's a tiny bit off?
 Dialogue: 10,0:05:24.22,0:05:27.18,Default,,0,0,0,,{\q2}If only it was just a bit. \NBut what you're doing is akin to...
 Dialogue: 10,0:05:32.52,0:05:34.31,Default,,0,0,0,,Heaven and earth are calling me!
-Dialogue: 10,0:05:34.31,0:05:37.23,Default,,0,0,0,,I come to defeat evil, for I am—
+Dialogue: 10,0:05:34.31,0:05:37.23,Default,,0,0,0,,I come to defeat you evil fiends, for I am—
 Dialogue: 10,0:05:41.95,0:05:44.70,Default,,0,0,0,,{\q2}It's akin to attacking the hero \Nduring his transformation scene!
 Dialogue: 10,0:05:45.87,0:05:47.87,Default,,0,0,0,,I-Is it that bad?!
 Dialogue: 10,0:05:47.87,0:05:50.45,Default,,0,0,0,,Yes, that's what happens when your timing is awful.
@@ -112,21 +112,21 @@ Dialogue: 10,0:05:50.71,0:05:54.92,Default,,0,0,0,,{\q2}I'll drill the right tim
 Dialogue: 10,0:05:55.17,0:05:57.13,Default,,0,0,0,,Pounding time!
 Dialogue: 10,0:05:57.13,0:05:59.38,Default,,0,0,0,,You'll be in a world of pain if your timing's off!
 Dialogue: 10,0:05:59.38,0:06:00.51,Default,,0,0,0,,Gotcha!
-Dialogue: 10,0:06:01.30,0:06:03.63,Default,,0,0,0,,I can't stand to watch!
+Dialogue: 10,0:06:01.30,0:06:03.63,Default,,0,0,0,,I can't bear to watch!
 Dialogue: 10,0:06:03.63,0:06:05.76,Default,,0,0,0,,Does it have to be so dangerous?
 Dialogue: 10,0:06:05.76,0:06:08.22,Default,,0,0,0,,{\q2}Couldn't you use a safer method \Nlike they do with kids?
 Dialogue: 10,0:06:08.22,0:06:11.43,Default,,0,0,0,,{\q2}Like trying to sing along to Fluffy Time, \Nthat one light music club song!
 Dialogue: 10,0:06:11.43,0:06:16.90,Default,,0,0,0,,{\q2}No! If we want to mend her rhythm, \Nshe must be willing to face Death itself!
 Dialogue: 10,0:06:16.90,0:06:20.90,Default,,0,0,0,,Oh, how treacherous the road to true rhythm is.
 Dialogue: 10,0:06:20.90,0:06:22.32,Default,,0,0,0,,Ready or not, here I come!
-Dialogue: 10,0:06:29.62,0:06:32.08,Default,,0,0,0,,Don't wait until after it's safe!
+Dialogue: 10,0:06:29.62,0:06:32.08,Default,,0,0,0,,What's the point if you do it when it's safe?!
 Dialogue: 10,0:06:32.08,0:06:33.96,Default,,0,0,0,,It's not like I'm doing it intentionally...
 Dialogue: 10,0:06:33.96,0:06:37.79,Default,,0,0,0,,{\q2}It's weird that her timing is so off \Nin every which way.
 Dialogue: 10,0:06:37.79,0:06:39.34,Default,,0,0,0,,There must be a cause behind it.
 Dialogue: 10,0:06:39.34,0:06:40.92,Default,,0,0,0,,Well, she's also tone deaf.
 Dialogue: 10,0:06:42.17,0:06:44.93,Default,,0,0,0,,What if she has no sense of rhythm in the first place?
 Dialogue: 10,0:06:44.93,0:06:46.93,Default,,0,0,0,,Metronome!
-Dialogue: 10,0:06:47.18,0:06:49.39,Default,,0,0,0,,Improve your sense of rhythm with this!
+Dialogue: 10,0:06:47.18,0:06:49.39,Default,,0,0,0,,Use this to improve your sense of rhythm!
 Dialogue: 10,0:06:49.39,0:06:50.18,Default,,0,0,0,,Sure thing!
 Dialogue: 10,0:07:05.49,0:07:09.08,Default,,0,0,0,,{\q2}The consistent rhythm made her \Nfall into a state of hypnosis!
 Dialogue: 10,0:07:09.08,0:07:10.28,Default,,0,0,0,,Then what if...
@@ -136,22 +136,22 @@ Dialogue: 10,0:07:14.58,0:07:16.37,Default,,0,0,0,,{\q2}It's not what we were go
 Dialogue: 10,0:07:16.37,0:07:18.46,Default,,0,0,0,,{\q2}What about manga? \NCan she read it like a normal person now?
 Dialogue: 10,0:07:24.01,0:07:25.76,Default,,0,0,0,,She isn't laughing at random stuff anymore!
 Dialogue: 10,0:07:25.76,0:07:28.05,Default,,0,0,0,,Heck, she isn't laughing at all!
-Dialogue: 10,0:07:28.05,0:07:29.18,Default,,0,0,0,,That's normal.
+Dialogue: 10,0:07:28.05,0:07:29.18,Default,,0,0,0,,Of course not.
 Dialogue: 10,0:07:29.93,0:07:31.01,Default,,0,0,0,,Okay, let's try this again!
 Dialogue: 10,0:07:31.01,0:07:32.39,Default,,0,0,0,,Come on, Marii!
 Dialogue: 10,0:07:40.69,0:07:43.03,Default,,0,0,0,,Her timing's perfect!
-Dialogue: 10,0:07:43.03,0:07:46.36,Default,,0,0,0,,But what will happen when we wake her up?
+Dialogue: 10,0:07:43.03,0:07:46.36,Default,,0,0,0,,But what happens when she wakes up?
 Dialogue: 10,0:07:52.45,0:07:54.37,Default,,0,0,0,,Are you okay, Marii?
 Dialogue: 10,0:07:54.37,0:07:57.96,Default,,0,0,0,,{\q2}While at the hospital, \NI learned why my timing's always off!
 Dialogue: 10,0:07:58.71,0:08:02.09,Default,,0,0,0,,I noticed that my ECG was totally messed up!
 Dialogue: 10,0:08:02.09,0:08:04.30,Default,,0,0,0,,{\q2}I'm so relieved it's just 'cuz \Nmy heart rate's all messed up!
 Dialogue: 10,0:08:04.63,0:08:06.01,Default,,0,0,0,,Ah, that's grea—
-Dialogue: 10,0:08:06.01,0:08:08.22,Default,,0,0,0,,Wait, Marii, that's arrhythmia!
-Dialogue: 10,0:08:11.89,0:08:15.73,Default,,0,0,0,,They said it wasn't serious and it has stabilised now.
+Dialogue: 10,0:08:06.01,0:08:08.22,Default,,0,0,0,,Marii, no! That's arrhythmia!
+Dialogue: 10,0:08:11.89,0:08:15.73,Default,,0,0,0,,They said it wasn't serious and has stabilised now.
 Dialogue: 10,0:08:15.73,0:08:19.10,Default,,0,0,0,,You had us worried sick, Marii!
 Dialogue: 10,0:08:20.23,0:08:23.07,Default,,0,0,0,,He's got... He's got a striped hakama!
 Dialogue: 10,0:08:23.07,0:08:26.49,Default,,0,0,0,,It's not her arrhythmia, is it?
-Dialogue: 10,0:08:33.62,0:08:35.33,Default,,0,0,0,,So this is Jinbocho!
+Dialogue: 10,0:08:33.62,0:08:35.33,Default,,0,0,0,,So this is the fabled Jinbocho!
 Dialogue: 10,0:08:35.33,0:08:37.37,Default,,0,0,0,,You can feel the business success in the air!
 Dialogue: 10,0:08:37.37,0:08:40.33,Default,,0,0,0,,It's also called the town of students and books. {###}
 Dialogue: 10,0:08:40.67,0:08:43.29,Default,,0,0,0,,{\q2}There are many publishers, bookshops, \Nand universities around here.
