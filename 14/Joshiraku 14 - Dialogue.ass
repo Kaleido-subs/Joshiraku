@@ -270,7 +270,7 @@ Dialogue: 10,0:14:30.47,0:14:31.64,Default,,0,0,0,,What pigsty did we waltz into
 Dialogue: 10,0:14:31.64,0:14:34.44,Default,,0,0,0,,It's dirty, dangerous, and demeaning! The real 3D!
 Dialogue: 10,0:14:34.73,0:14:43.15,Default,,0,0,0,,{\q2}The wonder and fun of Bessatsu Shounen Magazine \Nis built on the daily sacrifice of its editors!
 Dialogue: 10,0:14:45.82,0:14:47.91,Default,,0,0,0,,Thank you kindly, and sorry.
-Dialogue: 10,0:14:51.08,0:14:57.04,Default,,0,0,0,,{\q2}Teddiursa the bear kept walking and walking, \Nbut he just couldn't find the place. {## yes I *am* just stealing a Pokemon name. Sue me}
+Dialogue: 10,0:14:51.08,0:14:57.04,Default,,0,0,0,,{\q2}Teddiursa the bear kept walking and walking, \Nbut he just couldn't find the right place. {## yes I *am* just stealing a Pokemon name. Sue me}
 Dialogue: 10,0:14:57.04,0:15:01.26,Default,,0,0,0,,{\q2}"Did I lose my way? I must still \Nbe groggy from my winter sleep."
 Dialogue: 10,0:15:01.26,0:15:04.51,Default,,0,0,0,,And then suddenly, the realisation hit him.
 Dialogue: 10,0:15:04.51,0:15:09.14,Default,,0,0,0,,{\q2}"Oh, dear! That wasn't my winter sleep, \NI was just sleeping off a cold!"
@@ -282,14 +282,14 @@ Dialogue: 10,0:15:21.69,0:15:22.94,Default,,0,0,0,,He just locked himself in!
 Dialogue: 10,0:15:22.94,0:15:24.99,Default,,0,0,0,,Break the door down and get in there!
 Dialogue: 10,0:15:24.99,0:15:28.37,Default,,0,0,0,,{\q2}But people say he has a habit of \Nrunning away from his stress!
 Dialogue: 10,0:15:28.37,0:15:29.78,Default,,0,0,0,,Who gives a damn?!
-Dialogue: 10,0:15:29.78,0:15:32.33,Default,,0,0,0,,All that matters is that we meet the deadlines!
+Dialogue: 10,0:15:29.78,0:15:32.33,Default,,0,0,0,,What matters is that we meet the deadlines!
 Dialogue: 10,0:15:32.33,0:15:34.50,Default,,0,0,0,,{\an8}But I think what he needs is rest!
 Dialogue: 10,0:15:34.50,0:15:36.96,Default,,0,0,0,,{\an8}Rest won't pay the bills!
 Dialogue: 10,0:15:32.33,0:15:34.50,Default,,0,0,0,,What's Kigu doing?
 Dialogue: 10,0:15:34.50,0:15:36.96,Default,,0,0,0,,She said she's learning a new story.
 Dialogue: 10,0:15:36.96,0:15:40.13,Default,,0,0,0,,{\q2}You shouldn't focus too hard. \NIt's bad for your body.
 Dialogue: 10,0:15:40.13,0:15:41.67,Default,,0,0,0,,Don't stress yourself out.
-Dialogue: 10,0:15:41.67,0:15:44.92,Default,,0,0,0,,I'm training seriously, unlike the rest of you!
+Dialogue: 10,0:15:41.67,0:15:44.92,Default,,0,0,0,,{\q2}I'm taking my studying seriously, \Nunlike the rest of you!
 Dialogue: 10,0:15:44.92,0:15:46.47,Default,,0,0,0,,Gotta focus!
 Dialogue: 10,0:15:46.47,0:15:48.89,Default,,0,0,0,,Don't you think you're focusing a bit too much?
 Dialogue: 10,0:15:51.56,0:15:52.85,Default,,0,0,0,,She focused too much!
@@ -313,24 +313,24 @@ Dialogue: 10,0:16:40.56,0:16:45.69,Default,,0,0,0,,{\q2}But it's famous for catc
 Dialogue: 10,0:16:46.11,0:16:48.70,Default,,0,0,0,,Try massaging your face to loosen up.
 Dialogue: 10,0:16:49.11,0:16:50.16,Default,,0,0,0,,Okay.
 Dialogue: 10,0:16:50.57,0:16:52.45,Default,,0,0,0,,Am I still focused?
-Dialogue: 10,0:16:52.45,0:16:54.41,Default,,0,0,0,,Your face is back to normal,
+Dialogue: 10,0:16:52.45,0:16:54.41,Default,,0,0,0,,Your face is,
 Dialogue: 10,0:16:54.41,0:16:57.62,Default,,0,0,0,,{\q2}but because of all the focusing you did, \Nyou've now got focus lines surrounding you.
-Dialogue: 10,0:16:58.58,0:17:00.42,Default,,0,0,0,,They won't disappear!
-Dialogue: 10,0:17:00.42,0:17:04.00,Default,,0,0,0,,{\q2}I don't wanna be focused on, but because of \Nthe focus lines, everyone focuses on me!
+Dialogue: 10,0:16:58.58,0:17:00.42,Default,,0,0,0,,They won't go away!
+Dialogue: 10,0:17:00.42,0:17:04.00,Default,,0,0,0,,{\q2}I don't wanna be focused on, but because of \Nthe focus lines, everyone's focus is on me!
 Dialogue: 10,0:17:04.00,0:17:07.05,Default,,0,0,0,,Kigu, let's have a coffee break, okay?
 Dialogue: 10,0:17:07.05,0:17:08.76,Default,,0,0,0,,{\q2}Someone gifted me \Nsome chocolates the other day!
 Dialogue: 10,0:17:11.34,0:17:12.76,Default,,0,0,0,,It's so good!
-Dialogue: 10,0:17:14.68,0:17:15.72,Default,,0,0,0,,This is so calming!
-Dialogue: 10,0:17:16.14,0:17:17.68,Default,,0,0,0,,It's not getting any better.
+Dialogue: 10,0:17:14.68,0:17:15.72,Default,,0,0,0,,I'm in heaven.
+Dialogue: 10,0:17:16.14,0:17:17.68,Default,,0,0,0,,It's only getting worse.
 Dialogue: 10,0:17:17.68,0:17:19.48,Default,,0,0,0,,I'm totally relaxed!
 Dialogue: 10,0:17:19.48,0:17:22.06,Default,,0,0,0,,Doesn't look that way whatsoever.
 Dialogue: 10,0:17:22.06,0:17:24.56,Default,,0,0,0,,The focus lines just aren't fading.
-Dialogue: 10,0:17:24.56,0:17:27.19,Default,,0,0,0,,Now it's like a manga by Shimamoto.
-Dialogue: 10,0:17:27.19,0:17:31.91,Default,,0,0,0,,{\q2}Ah, that style that makes even \Nthe most insignificant lines overly dramatic.
+Dialogue: 10,0:17:24.56,0:17:27.19,Default,,0,0,0,,This show has turned into a Shimamoto manga.
+Dialogue: 10,0:17:27.19,0:17:31.91,Default,,0,0,0,,{\q2}Ah, his style makes even the most \Ninsignificant lines seem overly dramatic.
 Dialogue: 10,0:17:31.91,0:17:35.53,Default,,0,0,0,,{\q2}Should we just call ourselves \Nthe Rakugo Performers of Fire?
-Dialogue: 10,0:17:35.53,0:17:39.96,Default,,0,0,0,,{\q2}We could be members of a high school or university rakugo club, \Nworking as hard as we can to fulfil our dreams.
+Dialogue: 10,0:17:35.53,0:17:39.96,Default,,0,0,0,,{\q2}We could be members of a high school or university \Nrakugo club, doing our best to fulfil our dreams.
 Dialogue: 10,0:17:40.54,0:17:43.54,Default,,0,0,0,,Let's not. We'd burn ourselves up.
-Dialogue: 10,0:17:43.54,0:17:48.84,Default,,0,0,0,,{\q2}But this way we'll have to put up with \Nthe focus lines no matter what we say!
+Dialogue: 10,0:17:43.54,0:17:48.84,Default,,0,0,0,,{\q2}But if we don't do something, we'll have to deal with \Nthese focus lines every time we say {\i1}anything{\i0}!
 Dialogue: 10,0:17:48.84,0:17:49.72,Default,,0,0,0,,Even in love...
 Dialogue: 10,0:17:52.76,0:17:54.39,Default,,0,0,0,,{\c&HDDFEFF&}You know, I think...
 Dialogue: 11,0:17:52.76,0:17:54.39,Default,,0,0,0,,{\bord0\shad0\c&HDDFEFF&\3c&H454545&\blur0.9}You know, I think...
@@ -340,14 +340,14 @@ Dialogue: 10,0:18:02.27,0:18:04.48,Default,,0,0,0,,I don't wanna be in a suffoca
 Dialogue: 10,0:18:04.48,0:18:08.03,Default,,0,0,0,,{\q2}That was the first time the focus lines \Nreally matched the tension!
 Dialogue: 10,0:18:08.03,0:18:10.07,Default,,0,0,0,,That doesn't make me happy!
 Dialogue: 10,0:18:10.07,0:18:11.70,Default,,0,0,0,,There's no need to be angry.
-Dialogue: 10,0:18:11.70,0:18:15.16,Default,,0,0,0,,I'm not angry! It just looks that way!
+Dialogue: 10,0:18:11.70,0:18:15.16,Default,,0,0,0,,I'm not angry! The focus lines just make it look that way!
 Dialogue: 10,0:18:15.45,0:18:17.78,Default,,0,0,0,,And it wouldn't just affect your love life.
 Dialogue: 10,0:18:18.20,0:18:19.49,Default,,0,0,0,,It'd happen when you read poems,
 Dialogue: 10,0:18:19.83,0:18:21.25,Default,,0,0,0,,cleaned your ears,
 Dialogue: 10,0:18:21.58,0:18:23.00,Default,,0,0,0,,took a bath,
 Dialogue: 10,0:18:23.42,0:18:24.62,Default,,0,0,0,,and when you pass away.
 Dialogue: 10,0:18:24.62,0:18:26.67,Default,,0,0,0,,I don't want such a suffocating life!
-Dialogue: 10,0:18:26.67,0:18:29.59,Default,,0,0,0,,It reminds me of Dezaki's work, so I quite like it.
+Dialogue: 10,0:18:26.67,0:18:29.59,Default,,0,0,0,,It reminds me of Dezaki's work, so I'd welcome it.
 Dialogue: 10,0:18:29.59,0:18:32.51,Default,,0,0,0,,Do you mean stuff like {\i1}this{\i0}?!
 Dialogue: 10,0:18:32.92,0:18:34.01,Default,,0,0,0,,And {\i1}this{\i0}?!
 Dialogue: 10,0:18:34.38,0:18:36.68,Default,,0,0,0,,And even {\i1}this{\i0}?!
@@ -362,21 +362,29 @@ Dialogue: 10,0:18:56.99,0:18:58.20,Default,,0,0,0,,The hell'd you just say?!
 Dialogue: 10,0:18:58.20,0:19:00.33,Default,,0,0,0,,That it doesn't suit you.
 Dialogue: 10,0:19:00.33,0:19:01.33,Default,,0,0,0,,I'll kick your ass!
 Dialogue: 10,0:19:01.33,0:19:04.83,Default,,0,0,0,,Could it be that Marii can't get rid of hers either?
-Dialogue: 10,0:19:04.83,0:19:06.21,Default,,0,0,0,,That's not funny!
-Dialogue: 10,0:19:06.21,0:19:08.00,Default,,0,0,0,,Yep, it's still there.
-Dialogue: 10,0:19:08.00,0:19:12.63,Default,,0,0,0,,{\q2}Marii, you might have to live your whole life \Nsurrounded by that cutesy atmosphere.
-Dialogue: 10,0:19:12.96,0:19:13.88,Default,,0,0,0,,What?!
+Dialogue: 10,0:19:04.83,0:19:06.21,Default,,0,0,0,,Don't even joke about that!
+Dialogue: 10,0:19:06.21,0:19:08.00,Default,,0,0,0,,Yep, still there.
+Dialogue: 10,0:19:08.00,0:19:12.63,Default,,0,0,0,,{\q2}Marii, you might have to live your whole life \Nsurrounded by that fluffy atmosphere.
+Dialogue: 10,0:19:12.96,0:19:13.88,Default,,0,0,0,,Seriously?!
+Dialogue: 11,0:19:13.88,0:19:13.92,Default,,281,133,35,,{\frz353.99\bord0\shad0\blur2}Seriously?!
+Dialogue: 10,0:19:13.88,0:19:13.92,Default,,281,133,35,,{\frz354.007\c&H000000&\1a&HC8&\blur2}Seriously?!
+Dialogue: 11,0:19:13.92,0:19:13.97,Default,,384,30,1,,{\frz345.705\bord0\shad0\blur2}Seriously?!
+Dialogue: 10,0:19:13.92,0:19:13.97,Default,,384,30,1,,{\frz345.747\c&H000000&\1a&HC8&\blur2}Seriously?!
+Dialogue: 11,0:19:13.97,0:19:14.01,Default,,500,-86,-38,,{\frz336.27\bord0\shad0\blur2}Seriously?!
+Dialogue: 10,0:19:13.97,0:19:14.01,Default,,500,-86,-38,,{\frz336.339\c&H000000&\1a&HC8&\blur2}Seriously?!
+Dialogue: 11,0:19:13.97,0:19:14.01,Default,,627,-213,-80,,{\frz326\bord0\shad0\blur2}Seriously?!
+Dialogue: 10,0:19:13.97,0:19:14.01,Default,,627,-213,-80,,{\frz326.1\c&H000000&\1a&HC8&\blur2}Seriously?!
 Dialogue: 10,0:19:14.51,0:19:15.84,Default,,0,0,0,,Even if you get beaten up,
 Dialogue: 10,0:19:16.89,0:19:18.47,Default,,0,0,0,,or get run over by a car,
-Dialogue: 10,0:19:19.30,0:19:21.77,Default,,0,0,0,,or something drops and hits you on the head,
-Dialogue: 10,0:19:22.14,0:19:23.39,Default,,0,0,0,,or when you get snuffed out.
+Dialogue: 10,0:19:19.30,0:19:21.77,Default,,0,0,0,,or a steel beam drops and hits you on the head!
+Dialogue: 10,0:19:22.14,0:19:23.39,Default,,0,0,0,,Even when you get snuffed out.
 Dialogue: 10,0:19:23.39,0:19:25.19,Default,,0,0,0,,{\q2}If that's supposed to be a joke, \NI ain't laughing!
-Dialogue: 10,0:19:25.19,0:19:27.98,Default,,0,0,0,,{\q2}What kinda sick prank would it be \Nto drop something on my head?!
-Dialogue: 10,0:19:27.98,0:19:32.23,Default,,0,0,0,,{\q2}Well, I don't think you'd have too much trouble \Nliving a pink, cutesy life like that.
-Dialogue: 10,0:19:32.23,0:19:33.69,Default,,0,0,0,,The real problem here is Kigu.
+Dialogue: 10,0:19:25.19,0:19:27.98,Default,,0,0,0,,{\q2}What kinda sick prank would it be \Nto drop a steel beam on my head?!
+Dialogue: 10,0:19:27.98,0:19:32.23,Default,,0,0,0,,{\q2}Well, I don't think you'd have too much trouble \Nliving the pink, cutesy lifestyle, personally.
+Dialogue: 10,0:19:32.23,0:19:33.69,Default,,0,0,0,,The real problem is Kigu.
 Dialogue: 10,0:19:33.69,0:19:35.03,Default,,0,0,0,,Yeah!
-Dialogue: 10,0:19:35.03,0:19:36.91,Default,,0,0,0,,Hey! I've got problems too!
-Dialogue: 10,0:19:36.91,0:19:38.74,Default,,0,0,0,,You look perfectly at peace to me.
+Dialogue: 10,0:19:35.03,0:19:36.91,Default,,0,0,0,,Hey! I've got problems, too!
+Dialogue: 10,0:19:36.91,0:19:38.74,Default,,0,0,0,,Not as far as I can see.
 Dialogue: 10,0:19:38.74,0:19:42.95,Default,,0,0,0,,{\q2}Anyway, the moral of the story is that \Ntoo much focus is never a good thing.
 Dialogue: 10,0:19:42.95,0:19:45.29,Default,,0,0,0,,It's very risky how industries focus themselves in Tokyo,
 Dialogue: 10,0:19:45.29,0:19:48.50,Default,,0,0,0,,{\q2}or how companies focus on trading \Nwith only a limited set of partners.
@@ -401,11 +409,11 @@ Dialogue: 10,0:20:47.52,0:20:48.81,Default,,0,0,0,,That wasn't flattery.
 Dialogue: 10,0:20:48.81,0:20:52.73,Default,,0,0,0,,Oh, right! We should have separate dressing rooms, too!
 Dialogue: 10,0:20:52.73,0:20:56.36,Default,,0,0,0,,{\q2}If we're all in the same room and \Nsome rioter breaks in, we're done for!
 Dialogue: 10,0:20:56.61,0:21:00.24,Default,,0,0,0,,I'll ask the manager to give us separate rooms!
-Dialogue: 10,0:21:06.16,0:21:08.58,Default,,0,0,0,,He said, "Who'd'ya think you are? Shinsuke?!"
+Dialogue: 10,0:21:06.16,0:21:08.58,Default,,0,0,0,,He said, "Who'd'ya think you are? The bloody pope?!"
 Dialogue: 10,0:21:08.58,0:21:09.58,Default,,0,0,0,,Figures.
-Dialogue: 10,0:21:09.58,0:21:12.67,Default,,0,0,0,,We'll just have to split up this room, then.
-Dialogue: 10,0:21:14.92,0:21:16.96,Default,,0,0,0,,I'm so bored! I can't take it anymore!
-Dialogue: 10,0:21:16.96,0:21:19.59,Default,,0,0,0,,Shut up. This is all for Kigu's sake.
+Dialogue: 10,0:21:09.58,0:21:12.67,Default,,0,0,0,,We'll just have to make do with this, then.
+Dialogue: 10,0:21:14.92,0:21:16.96,Default,,0,0,0,,This is super boring! I can't take it anymore!
+Dialogue: 10,0:21:16.96,0:21:19.59,Default,,0,0,0,,Shut up and deal with it. Do it for Kigu.
 Dialogue: 10,0:21:19.59,0:21:21.34,Default,,0,0,0,,Kigu, are you hanging in there?
 Dialogue: 10,0:21:21.34,0:21:22.80,Default,,0,0,0,,Must be rough being so cramped up, ye?
 Dialogue: 10,0:21:22.80,0:21:24.30,Default,,0,0,0,,It's okay!
