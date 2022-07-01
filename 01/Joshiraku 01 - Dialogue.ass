@@ -91,7 +91,7 @@ Dialogue: 10,0:05:07.75,0:05:09.50,Default,,0,0,0,,Yep, yep! Good one.
 Dialogue: 10,0:05:09.50,0:05:11.50,Default,,0,0,0,,I usually resent and begrudge.
 Dialogue: 10,0:05:11.50,0:05:13.71,Default,,0,0,0,,Yep, yep! Good—What the hell?
 Dialogue: 10,0:05:13.71,0:05:15.84,Default,,0,0,0,,You need some more positivity in your life.
-Dialogue: 10,0:05:15.84,0:05:16.46,Default,,0,0,0,,I live...
+Dialogue: 10,0:05:15.84,0:05:16.46,Default,,0,0,0,,I live.
 Dialogue: 10,0:05:16.80,0:05:20.42,Default,,0,0,0,,So the answer to "What do you do usually?" is... live?
 Dialogue: 10,0:05:20.42,0:05:21.80,Default,,0,0,0,,That's the biggest cop-out I've ever heard.
 Dialogue: 10,0:05:21.80,0:05:27.77,Default,,0,0,0,,So basically, I'd say eating, sleeping, and...
@@ -136,7 +136,7 @@ Dialogue: 10,0:07:07.20,0:07:09.24,Default,,0,0,0,,it'd look like some sort of c
 Dialogue: 10,0:07:09.53,0:07:15.12,Default,,0,0,0,,{\q2}Students usually wear a school uniform, \Nand people who have work clothes usually wear those.
 Dialogue: 10,0:07:15.12,0:07:18.46,Default,,0,0,0,,{\q2}Yeah, those are the clothes you end up \Nwearing the most, aren't they?
 Dialogue: 10,0:07:18.46,0:07:23.42,Default,,0,0,0,,{\q2}So "Please wear your usual clothes" \Nis code for "cosplay party"?
-Dialogue: 10,0:07:23.76,0:07:25.47,Default,,0,0,0,,That's kinda saucy...
+Dialogue: 10,0:07:23.76,0:07:25.47,Default,,0,0,0,,That's kinda saucy.
 Dialogue: 10,0:07:25.47,0:07:26.80,Default,,0,0,0,,I definitely don't think that's it.
 Dialogue: 10,0:07:26.80,0:07:32.18,Default,,0,0,0,,Who even knows that many people with interesting jobs?
 Dialogue: 10,0:07:32.43,0:07:35.02,Default,,0,0,0,,I really don't think they mean work clothes.
@@ -152,7 +152,7 @@ Dialogue: 10,0:08:06.51,0:08:10.55,Default,,0,0,0,,{\q2}I guess it makes it look
 Dialogue: 10,0:08:10.55,0:08:15.60,Default,,0,0,0,,{\q2}Ah, but didn't they ban it \Nbefore the Olympics for being indecent?
 Dialogue: 10,0:08:15.60,0:08:18.64,Default,,0,0,0,,Anyway, I think we've found the ultimate "usual clothes"!
 Dialogue: 10,0:08:18.64,0:08:24.61,Default,,0,0,0,,{\q2}In other words, "Please wear your usual clothes" \Nis code for "We're having a pyjama party!"
-Dialogue: 10,0:08:24.94,0:08:26.78,Default,,0,0,0,,That's kinda saucy...
+Dialogue: 10,0:08:24.94,0:08:26.78,Default,,0,0,0,,That's kinda saucy.
 Dialogue: 10,0:08:26.78,0:08:28.57,Default,,0,0,0,,I definitely don't think that's it.
 Dialogue: 10,0:08:28.57,0:08:30.24,Default,,0,0,0,,Pyjamas? Really?
 Dialogue: 10,0:08:31.78,0:08:34.87,Default,,0,0,0,,Are you sure you sleep in pyjamas?
@@ -163,7 +163,7 @@ Dialogue: 10,0:08:42.71,0:08:43.04,Default,,0,0,0,,Let it...
 Dialogue: 10,0:08:43.04,0:08:43.25,Default,,0,0,0,,all...
 Dialogue: 10,0:08:43.25,0:08:43.46,Default,,0,0,0,,hang...
 Dialogue: 10,0:08:43.46,0:08:44.04,Default,,0,0,0,,out...
-Dialogue: 10,0:08:44.50,0:08:47.47,Default,,0,0,0,,That means Marii's usual clothes are... nothing!
+Dialogue: 10,0:08:44.50,0:08:47.47,Default,,0,0,0,,That means Marii's usual clothes are {\i1}nothing{\i0}!
 Dialogue: 10,0:08:47.47,0:08:49.05,Default,,0,0,0,,That's not "clothes", you numbskull!
 Dialogue: 10,0:08:49.05,0:08:53.64,Default,,0,0,0,,{\q2}So a "Please wear your usual clothes" party \Nis code for a completely nude party?
 Dialogue: 10,0:08:53.64,0:08:54.97,Default,,0,0,0,,Is that what you're saying?
@@ -185,10 +185,10 @@ Dialogue: 10,0:09:23.21,0:09:25.96,Default,,0,0,0,,Even though you can't really 
 Dialogue: 10,0:09:25.96,0:09:27.42,Default,,0,0,0,,Cut it out, guys!
 Dialogue: 10,0:09:27.42,0:09:29.67,Default,,0,0,0,,People are gonna start losing respect for me!
 Dialogue: 10,0:09:29.67,0:09:31.84,Default,,0,0,0,,Can you really lose something you never had?
-Dialogue: 10,0:09:31.84,0:09:34.47,Default,,0,0,56,,{\q2}Being naked all the time reminds me of a baseball manga... \Nthat I can't name because of copyright.
-Dialogue: 10,0:09:34.47,0:09:34.51,Default,,0,0,-4,,{\q2}Being naked all the time reminds me of a baseball manga... \Nthat I can't name because of copyright.
-Dialogue: 10,0:09:34.51,0:09:34.55,Default,,0,0,-67,,{\q2}Being naked all the time reminds me of a baseball manga... \Nthat I can't name because of copyright.
-Dialogue: 10,0:09:34.55,0:09:34.60,Default,,0,0,-128,,{\q2}Being naked all the time reminds me of a baseball manga... \Nthat I can't name because of copyright.
+Dialogue: 10,0:09:31.84,0:09:34.47,Default,,0,0,56,,{\q2}Being naked 24/7 reminds me of a baseball manga... \NI can't name because of copyright.
+Dialogue: 10,0:09:34.47,0:09:34.51,Default,,0,0,-4,,{\q2}Being naked 24/7 reminds me of a baseball manga... \NI can't name because of copyright.
+Dialogue: 10,0:09:34.51,0:09:34.55,Default,,0,0,-67,,{\q2}Being naked 24/7 reminds me of a baseball manga... \NI can't name because of copyright.
+Dialogue: 10,0:09:34.55,0:09:34.60,Default,,0,0,-128,,{\q2}Being naked 24/7 reminds me of a baseball manga... \NI can't name because of copyright.
 Dialogue: 10,0:09:34.43,0:09:34.47,Default,,0,0,181,,What kinda reference was that?
 Dialogue: 10,0:09:34.47,0:09:34.51,Default,,0,0,143,,What kinda reference was that?
 Dialogue: 10,0:09:34.51,0:09:34.55,Default,,0,0,106,,What kinda reference was that?
@@ -237,7 +237,7 @@ Dialogue: 10,0:11:59.28,0:12:00.45,Default,,0,0,0,,Yeah, what isn't?
 Dialogue: 10,0:12:00.45,0:12:02.66,Default,,0,0,0,,That you'd wear something like that.
 Dialogue: 10,0:12:02.66,0:12:04.75,Default,,0,0,0,,Are you sure this isn't a bit of a stretch?
 Dialogue: 10,0:12:05.29,0:12:08.33,Default,,0,0,0,,Rude! What do you mean by "stretch"?
-Dialogue: 10,0:12:08.33,0:12:15.34,Default,,0,0,0,,{\q2}Well, like when a fat person wears \Nunflattering colours like white or pink...
+Dialogue: 10,0:12:08.33,0:12:15.34,Default,,0,0,0,,{\q2}Well, like when a fat person wears \Nunflattering colours like white or pink.
 Dialogue: 10,0:12:15.34,0:12:16.72,Default,,0,0,0,,That's called go-thick loli.
 Dialogue: 10,0:12:16.72,0:12:17.51,Default,,0,0,0,,Go... thick?
 Dialogue: 10,0:12:17.51,0:12:19.18,Default,,0,0,0,,Yeah, thick as in {\i1}thick{\i0}.
@@ -256,7 +256,7 @@ Dialogue: 10,0:12:47.58,0:12:48.79,Default,,0,0,0,,There's no "low seat" though.
 Dialogue: 10,0:12:49.08,0:12:52.88,Default,,0,0,0,,{\q2}They say you "go up" to the high seat, \Nbut isn't it more like sitting {\i1}down{\i0}?
 Dialogue: 10,0:12:52.88,0:12:54.88,Default,,0,0,0,,When you start out, you're called a "Starter".
 Dialogue: 10,0:12:54.88,0:12:56.63,Default,,0,0,0,,After a while, you get promoted to a "Second".
-Dialogue: 10,0:12:56.63,0:13:00.01,Default,,0,0,0,,Then you get the right to wear a haori...
+Dialogue: 10,0:12:56.63,0:13:00.01,Default,,0,0,0,,Then you get the right to wear a haori.
 Dialogue: 10,0:13:00.01,0:13:01.72,Default,,0,0,0,,And the title of "Headliner".
 Dialogue: 10,0:13:01.72,0:13:04.72,Default,,0,0,0,,Phew, it's a bit hot today.
 Dialogue: 10,0:13:04.72,0:13:06.22,Default,,0,0,0,,Here, have some wind.
@@ -277,7 +277,7 @@ Dialogue: 10,0:13:42.68,0:13:44.09,Default,,0,0,0,,They're not.
 Dialogue: 10,0:13:44.09,0:13:45.68,Default,,0,0,0,,Anyway, you're a rakugo performer.
 Dialogue: 10,0:13:45.68,0:13:48.43,Default,,0,0,0,,You should say "greetings", not "'sup"!
 Dialogue: 10,0:13:48.43,0:13:53.31,Default,,0,0,0,,I always get those mixed up. Either works, right?
-Dialogue: 10,0:13:53.31,0:13:55.56,Default,,0,0,0,,You drama-teur.
+Dialogue: 10,0:13:53.31,0:13:55.56,Default,,0,0,0,,If you say so, you drama-teur.
 Dialogue: 10,0:14:09.29,0:14:10.91,Default,,0,0,0,,The drum means it's starting.
 Dialogue: 10,0:14:10.91,0:14:13.33,Default,,0,0,0,,{\q2}What kind of noodles \Ndo you want today, udon or soba?
 Dialogue: 10,0:14:13.33,0:14:15.13,Default,,0,0,0,,Don't ask such dull questions!

@@ -220,8 +220,8 @@ Dialogue: 10,0:08:42.92,0:08:45.38,Default,,0,0,0,,Looks like I escaped by the s
 Dialogue: 10,0:08:45.38,0:08:48.63,Default,,0,0,0,,Argh! I can't believe my aim was off!
 Dialogue: 10,0:08:48.88,0:08:51.72,Default,,0,0,0,,Here?
 Dialogue: 10,0:08:53.01,0:08:54.72,Default,,0,0,0,,Not even close.
-Dialogue: 10,0:08:57.02,0:08:58.06,Default,,0,0,0,,Marii...
-Dialogue: 10,0:08:58.06,0:09:00.81,Default,,0,0,0,,She doesn't realise {\i1}she's{\i0} the one being toyed with.
+Dialogue: 10,0:08:57.02,0:08:58.27,Default,,0,0,0,,Marii...
+Dialogue: 10,0:08:58.27,0:09:00.81,Default,,0,0,0,,She doesn't realise {\i1}she's{\i0} the one being toyed with.
 Dialogue: 10,0:09:00.81,0:09:01.60,Default,,0,0,0,,Right?
 Dialogue: 10,0:09:15.53,0:09:17.83,Default,,0,0,0,,"The Black-Headed Gull" is a weird name for a train.
 Dialogue: 10,0:09:17.83,0:09:22.67,Default,,0,0,0,,{\q2}The proper name is the \N"Tokyo Waterfront New Transit Waterfront Line".
@@ -265,8 +265,8 @@ Dialogue: 10,0:11:06.02,0:11:07.06,Default,,0,0,0,,No...
 Dialogue: 10,0:11:07.06,0:11:08.27,Default,,0,0,0,,Need some snacks?
 Dialogue: 10,0:11:08.27,0:11:10.90,Default,,0,0,0,,That crap'll just make her feel worse!
 Dialogue: 10,0:11:10.90,0:11:16.16,Default,,0,0,0,,{\q2}When times are tough, sweets are always \Nthere to put a smile on your face!
-Dialogue: 10,0:11:16.16,0:11:18.78,Default,,0,0,0,,If she eats while feeling carsick, she'll throw up.
-Dialogue: 10,0:11:19.74,0:11:20.91,Default,,0,0,0,,...or even if she doesn't eat.
+Dialogue: 10,0:11:16.16,0:11:18.78,Default,,0,0,0,,If she eats while carsick, she'll throw up.
+Dialogue: 10,0:11:19.74,0:11:20.91,Default,,0,0,0,,...or I guess she will either way.
 Dialogue: 10,0:11:20.91,0:11:22.33,Default,,0,0,0,,You can do it, Kukuru!
 Dialogue: 10,0:11:22.33,0:11:23.70,Default,,0,0,0,,You giving her permission?
 Dialogue: 10,0:11:23.70,0:11:24.41,Default,,0,0,0,,No!
@@ -352,7 +352,7 @@ Dialogue: 10,0:15:51.39,0:15:52.89,Default,,0,0,0,,You've gotta be kidding me!
 Dialogue: 10,0:15:52.89,0:15:55.35,Default,,0,0,0,,Sometimes I feel like I never want to grow up.
 Dialogue: 10,0:15:55.35,0:15:57.48,Default,,0,0,0,,Let's get back to watching the moon.
 Dialogue: 10,0:16:11.87,0:16:13.62,Default,,0,0,0,,I don't see the rabbit.
-Dialogue: 10,0:16:14.54,0:16:16.46,Default,,0,0,0,,There's meant to be a bunny in the moon!
+Dialogue: 10,0:16:14.54,0:16:16.46,Default,,0,0,0,,There's meant to be a bunny on the moon!
 Dialogue: 10,0:16:16.46,0:16:18.58,Default,,0,0,0,,Yeah, I don't see it either.
 Dialogue: 10,0:16:18.58,0:16:20.42,Default,,0,0,0,,This is what rabbits look like.
 Dialogue: 10,0:16:22.25,0:16:23.00,Default,,0,0,0,,That's so scary!
