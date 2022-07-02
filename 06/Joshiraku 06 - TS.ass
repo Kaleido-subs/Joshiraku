@@ -647,6 +647,7 @@ Dialogue: 1,0:05:35.19,0:05:35.23,Sign,,0,0,0,,{\pos(232,1090.455)\frz359\fry359
 Dialogue: 0,0:05:36.56,0:05:38.32,Sign,,0,0,0,,{\fnGaramond Premr Pro Smbd Capt\c&HEBF2F6&\blur1.5\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:05:36.56,0:05:38.32,Sign,,0,0,0,,{\fnGentium Basic\fs216\c&H060C10&\blur1.35\q2}“Red & White”
 Dialogue: 0,0:05:38.32,0:05:39.23,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEFEFEF&\blur1.5\p1}m 1632 135 l 1892 306 1806 735 1611 758 1497 560 1514 339
+Dialogue: 1,0:05:38.48,0:05:39.23,Sign,,0,0,0,,{\kf0}{\pos(1700,457)\fnFOT-RodinNTLGProEB-Kami\fs70\c&H151515&\2c&H151515&\2a&HFF&\blur0.85}{\kf38}OH. MY. \N\N{\kf19}{\fs88}GOSH!{\kf18}
 Dialogue: 1,0:05:38.32,0:05:41.95,Sign,,0,0,0,,{\pos(898,241)\frz2\fry2\frx8\fnlaCartoonerie\b0\c&HB43B2A&\blur1.5}Cla{\frz1}tte{\frz0}r{\frz0}
 Dialogue: 0,0:05:38.32,0:05:41.95,Sign,,0,0,0,,{\pos(898,241)\frz2\fry2\frx8\fnlaCartoonerie\b0\bord1.6\xshad0.01\4c&HFFFFFF&\1a&HFE&\3a&HFE&\4a&H28&\blur1}Cla{\frz1}tte{\frz0}r{\frz0}
 Dialogue: 0,0:05:39.23,0:05:41.94,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEFEFEF&\blur1.5\p1}m 320 302 b 360 369 461 417 528 444 464 566 482 792 542 906 498 953 450 1026 444 1077 l 2 1071 2 483 b 35 404 216 414 314 306
@@ -658,7 +659,7 @@ Dialogue: 1,0:05:43.57,0:05:45.07,Sign,,0,0,0,,{\kf28}{\pos(260,778)\fnFOT-Telop
 Dialogue: 0,0:05:45.07,0:05:46.03,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEFEEEF&\blur1.5\p1}m 1434 3 l 1910 6 1914 384 b 1845 518 1697 518 1622 614 1608 533 1455 495 1371 360
 Dialogue: 1,0:05:45.07,0:05:46.03,Sign,,0,0,0,,{\pos(1662,268)\fs96\c&H151515&\2a&HFF&\blur1.27\kf36}No worries!
 Dialogue: 0,0:05:46.03,0:05:47.41,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEFEFEF&\blur1.5\p1}m 3 6 l 504 2 b 497 311 449 405 356 588 l 183 654 3 507
-Dialogue: 1,0:05:46.03,0:05:47.41,Sign,,0,0,0,,{\pos(248,246)\fs90\c&H151515&\2a&HFF&\blur1.27\kf40}I got it back!!
+Dialogue: 1,0:05:46.03,0:05:47.41,Sign,,0,0,0,,{\pos(248,246)\fs90\c&H151515&\2a&HFF&\blur1.27\kf40}I got it back!
 Dialogue: 1,0:05:45.07,0:05:47.41,Sign,,0,0,0,,{\pos(204,929)\frz18.86\fry2\fnlaCartoonerie\b0\c&H2418F0&\blur1.5}Ooh!
 Dialogue: 0,0:05:45.07,0:05:47.41,Sign,,0,0,0,,{\pos(204,929)\frz18.86\fry2\frx8\fnlaCartoonerie\b0\bord4\xshad0.01\c&H2318F4&\3c&H020911&\4c&H1C2124&\1a&HC8&\blur1.15}Ooh!
 Dialogue: 1,0:05:45.07,0:05:47.41,Sign,,0,0,0,,{\pos(1618,917)\frz339.4\fry2\frx8\fnlaCartoonerie\b0\c&H2418F0&\blur1.5}Aah!
@@ -666,7 +667,7 @@ Dialogue: 0,0:05:45.07,0:05:47.41,Sign,,0,0,0,,{\pos(1618,917)\frz339.4\fry2\frx
 Dialogue: 0,0:05:47.41,0:05:49.70,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEDEFEF&\blur1.5\p1}m 1467 3 l 1911 0 1917 501 b 1827 630 1763 660 1620 681 1523 654 1494 618 1424 465 1389 290 1391 155 1460 8
 Dialogue: 1,0:05:47.41,0:05:49.70,Sign,,0,0,0,,{\kf21}{\pos(1659,291)\fnFOT-TelopMin Pro H vL2\fs112\c&H151515&\2a&HFF&\blur1.25}I know {\kf64}{\kf18}who \N{\kf51}the culprit is!{\kf75}
 Dialogue: 0,0:05:49.70,0:05:54.16,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEFEFEF&\blur1.5\p1}m 3 2 l 804 2 b 810 236 660 446 452 552 410 548 366 555 294 585 209 617 81 603 2 579
-Dialogue: 1,0:05:49.74,0:05:54.16,Sign,,0,0,0,,{\kf39}{\pos(284,218)\fnA-OTF Ryumin Pro U-KL-Nobuna\fs84\c&H151515&\2a&HFF&\blur1.27}So do I. \N\N{\kf34}{\kf51}I'm sure he\N{\kf58}won't be hard\N{\kf31}to find.{\kf229}
+Dialogue: 1,0:05:49.74,0:05:54.16,Sign,,0,0,0,,{\kf39}{\pos(284,218)\fnA-OTF Ryumin Pro U-KL-Nobuna\fs84\c&H151515&\2a&HFF&\blur1.27}Me too. \N\N{\kf34}{\kf51}I'm sure he\N{\kf58}won't be hard\N{\kf31}to find.{\kf229}
 Dialogue: 0,0:05:54.16,0:05:55.79,Sign,,0,0,0,,{\fnGaramond Premr Pro Smbd Capt\c&HEBF2F6&\blur1.5\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 1,0:05:54.16,0:05:55.79,Sign,,0,0,0,,{\fnGentium Basic\fs216\c&H060C10&\blur1.5\q2}“The Second Button”
 Dialogue: 0,0:05:55.79,0:05:58.63,Sign,,0,0,0,,{\an7\pos(0,0)\fnGaramond Premr Pro Smbd Capt\c&HEFEFEF&\blur1.5\p1}m 1251 3 l 1911 0 b 1917 174 1946 651 1838 660 1769 615 1628 624 1566 680 1478 582 1404 528 1296 426 1313 323 1287 125 1248 14
