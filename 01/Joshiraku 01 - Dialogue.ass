@@ -130,7 +130,7 @@ Dialogue: 10,0:06:46.59,0:06:48.93,Default,,0,0,0,,{\q2}That doesn't mean you ca
 Dialogue: 10,0:06:48.93,0:06:52.77,Default,,0,0,0,,{\q2}How many poor manga artists have been \Npublicly shamed by taking that phrase at face value?
 Dialogue: 10,0:06:52.77,0:06:55.98,Default,,0,0,0,,Your "usual clothes" is just a tracksuit, isn't it?
 Dialogue: 10,0:06:55.98,0:06:58.19,Default,,0,0,0,,Wearing that to a party would be pretty uncouth.
-Dialogue: 10,0:06:58.19,0:07:00.90,Default,,0,0,0,,{\q2}Why have you all decided \Nmy usual clothes are a tracksuit?
+Dialogue: 10,0:06:58.19,0:07:00.90,Default,,0,0,0,,{\q2}Why am I being pigeonholed as someone \Nwho "usually" wears a tracksuit?!
 Dialogue: 10,0:07:00.90,0:07:07.20,Default,,0,0,0,,{\q2}If everyone in the world went to \Na party wearing their usual clothes,
 Dialogue: 10,0:07:07.20,0:07:09.24,Default,,0,0,0,,it'd look like some sort of cosplay event.
 Dialogue: 10,0:07:09.53,0:07:15.12,Default,,0,0,0,,{\q2}Students usually wear a school uniform, \Nand people who have work clothes usually wear those.
@@ -167,8 +167,8 @@ Dialogue: 10,0:08:44.50,0:08:47.47,Default,,0,0,0,,That means Marii's usual clot
 Dialogue: 10,0:08:47.47,0:08:49.05,Default,,0,0,0,,That's not "clothes", you numbskull!
 Dialogue: 10,0:08:49.05,0:08:53.64,Default,,0,0,0,,{\q2}So a "Please wear your usual clothes" party \Nis code for a completely nude party?
 Dialogue: 10,0:08:53.64,0:08:54.97,Default,,0,0,0,,Is that what you're saying?
-Dialogue: 10,0:08:54.97,0:08:56.64,Default,,0,0,0,,That's kinda saucy!
-Dialogue: 10,0:08:56.64,0:08:58.73,Default,,0,0,0,,I think that goes a bit beyond saucy!
+Dialogue: 10,0:08:54.97,0:08:56.64,Default,,0,0,0,,That's {\i1}super{\i0} saucy!
+Dialogue: 10,0:08:56.64,0:08:58.73,Default,,0,0,0,,I think that goes quite a bit beyond saucy!
 Dialogue: 10,0:08:58.73,0:09:01.73,Default,,0,0,0,,Let's strip her down.
 Dialogue: 10,0:09:02.35,0:09:03.11,Default,,0,0,0,,Or should I say...
 Dialogue: 10,0:09:03.11,0:09:04.32,Default,,0,0,0,,Put her in her usual clothes.
@@ -177,11 +177,11 @@ Dialogue: 10,0:09:05.32,0:09:06.36,Alt,,0,0,0,,Deal with it!
 Dialogue: 10,0:09:06.36,0:09:08.49,Default,,0,0,0,,This is definitely not to boost the ratings!
 Dialogue: 10,0:09:08.49,0:09:10.86,Default,,0,0,0,,And it's definitely not to increase sales either!
 Dialogue: 10,0:09:12.28,0:09:14.07,Default,,0,0,0,,The hell is wrong with you people?!
-Dialogue: 10,0:09:14.07,0:09:16.37,Default,,0,0,0,,You're very sexy all of a sudden.
+Dialogue: 10,0:09:14.07,0:09:16.37,Default,,0,0,0,,Someone sure got sexy all of a sudden.
 Dialogue: 10,0:09:16.37,0:09:18.50,Default,,0,0,0,,This could be the start of a new career direction.
 Dialogue: 10,0:09:18.83,0:09:21.87,Default,,0,0,0,,It gets a lot sexier if you flip this up.
 Dialogue: 10,0:09:21.87,0:09:23.21,Default,,0,0,0,,So it does.
-Dialogue: 10,0:09:23.21,0:09:25.96,Default,,0,0,0,,Even though you can't really see any more.
+Dialogue: 10,0:09:23.21,0:09:25.96,Default,,0,0,0,,Though it's not like you get to see more.
 Dialogue: 10,0:09:25.96,0:09:27.42,Default,,0,0,0,,Cut it out, guys!
 Dialogue: 10,0:09:27.42,0:09:29.67,Default,,0,0,0,,People are gonna start losing respect for me!
 Dialogue: 10,0:09:29.67,0:09:31.84,Default,,0,0,0,,Can you really lose something you never had?
@@ -250,7 +250,7 @@ Dialogue: 10,0:12:32.31,0:12:33.86,Default,,0,0,0,,Right now, we're...
 Dialogue: 10,0:12:33.86,0:12:34.73,Default,,0,0,0,,Frolic jolly!
 Dialogue: 10,0:12:38.78,0:12:42.37,Default,,0,0,0,,They call permanent vaudeville theatres "fixed seats".
 Dialogue: 10,0:12:42.37,0:12:44.49,Default,,0,0,0,,There are only four left now, though.
-Dialogue: 10,0:12:44.49,0:12:45.95,Default,,0,0,0,,You mean there are still four left!
+Dialogue: 10,0:12:44.49,0:12:45.95,Default,,0,0,0,,You mean there are {\i1}still{\i0} four left!
 Dialogue: 10,0:12:45.95,0:12:47.58,Default,,0,0,0,,They call the stage the "high seat".
 Dialogue: 10,0:12:47.58,0:12:48.79,Default,,0,0,0,,There's no "low seat" though.
 Dialogue: 10,0:12:49.08,0:12:52.88,Default,,0,0,0,,{\q2}They say you "go up" to the high seat, \Nbut isn't it more like sitting {\i1}down{\i0}?
