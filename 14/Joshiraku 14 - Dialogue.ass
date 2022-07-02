@@ -13,9 +13,8 @@ Video Aspect Ratio: c1.766667
 Export Filters: Actor/Linebreak Remover
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: joshirakuBD_14 (Premux).mkv
-Video File: joshirakuBD_14 (Premux).mkv
-Keyframes File: joshirakuBD_14 (Premux)_keyframes.txt
+Audio File: JoshirakuBD_14_new (Premux).mkv
+Video File: JoshirakuBD_14_new (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -54,20 +53,20 @@ Dialogue: 10,0:02:41.60,0:02:45.06,Default,,0,0,0,,{\q2}"...have your daily brea
 Dialogue: 10,0:02:45.06,0:02:49.94,Default,,0,0,0,,{\q2}"Like the long-lived king, Shuringan, \Nand his dear wife Gurindai, and their children..."
 Dialogue: 10,0:02:49.94,0:02:52.19,Default,,0,0,0,,Clap when I'm done, for Christ's sake!
 Dialogue: 10,0:02:52.19,0:02:54.65,Default,,0,0,0,,{\q2}The rest of the audience \Nsuccumbed to peer pressure!
-Dialogue: 10,0:02:54.65,0:02:57.12,Default,,0,0,0,,And right after I was done with the build-up, too!
-Dialogue: 10,0:02:57.12,0:02:59.03,Default,,0,0,0,,It was the perfect way to ruin the joke!
+Dialogue: 10,0:02:54.65,0:02:57.12,Default,,0,0,0,,Do you know how much build-up that joke took?!
+Dialogue: 10,0:02:57.12,0:02:59.03,Default,,0,0,0,,And they went ahead and ruined it!
 Dialogue: 10,0:02:59.03,0:03:01.54,Default,,0,0,0,,Literally a coup! Yikes.
 Dialogue: 10,0:03:01.54,0:03:03.66,Default,,0,0,0,,There's a special place in Hell for those people!
 Dialogue: 10,0:03:03.66,0:03:08.42,Default,,0,0,0,,{\q2}If there is, then you'll be going \Nstraight there with them, Marii!
-Dialogue: 10,0:03:08.42,0:03:13.38,Default,,0,0,0,,{\q2}Just the other day, I gave Marii my spare ticket \Nto come see a classical concert with me!
+Dialogue: 10,0:03:08.42,0:03:13.38,Default,,0,0,0,,{\q2}Just the other day, I gave her my spare ticket \Nto come see a classical concert with me!
 Dialogue: 10,0:03:19.10,0:03:20.93,Default,,0,0,0,,Bravo!
 Dialogue: 10,0:03:21.22,0:03:25.10,Default,,0,0,0,,{\q2}But the piece wasn't even over yet! \NI was {\i1}so{\i0} embarrassed!
 Dialogue: 10,0:03:21.22,0:03:25.10,Default,,0,0,0,,{\an8}Woohoo! That was kick-ass!
 Dialogue: 10,0:03:25.10,0:03:27.94,Default,,0,0,0,,{\q2}The main theme comes {\i1}after{\i0} \Nthose few seconds of silence!
 Dialogue: 10,0:03:27.94,0:03:29.52,Default,,0,0,0,,She ruined it!
 Dialogue: 10,0:03:29.52,0:03:33.48,Default,,0,0,0,,{\q2}It's not like she knew any better, \Nso it's not really fair to hold it against her.
-Dialogue: 10,0:03:33.48,0:03:36.40,Default,,0,0,0,,This happens with composers like Tchaikovsky as well.
-Dialogue: 10,0:03:36.40,0:03:40.58,Default,,0,0,0,,{\q2}Some people just can't gauge \Nwhen they're supposed to cheer.
+Dialogue: 10,0:03:33.48,0:03:36.40,Default,,0,0,0,,{\q2}This happens with composers \Nlike Tchaikovsky all the time.
+Dialogue: 10,0:03:36.40,0:03:40.58,Default,,0,0,0,,Yeah, some people just can't gauge when to cheer.
 Dialogue: 10,0:03:40.58,0:03:42.79,Default,,0,0,0,,I learned that the hard way.
 Dialogue: 10,0:03:42.79,0:03:47.29,Default,,0,0,0,,{\q2}Just the other day, I gave Marii my spare ticket \Nto come see a baseball game with me.
 Dialogue: 10,0:03:54.42,0:03:57.84,Default,,0,0,0,,She tried to start a wave at the worst possible time!
@@ -78,7 +77,7 @@ Dialogue: 10,0:04:07.89,0:04:10.86,Default,,0,0,0,,{\q2}But it's easy to miss yo
 Dialogue: 10,0:04:10.86,0:04:15.65,Default,,0,0,0,,{\q2}Take for example Chunichi Dragons matches. \NIt's very hard to time it right, if at all.
 Dialogue: 10,0:04:16.03,0:04:18.57,Default,,0,0,0,,Mind if I butt in?
 Dialogue: 10,0:04:18.57,0:04:19.74,Default,,0,0,0,,The district organiser!
-Dialogue: 10,0:04:19.74,0:04:23.95,Default,,0,0,0,,{\q2}Just the other day, Marii helped us out \Nat the festival, she did.
+Dialogue: 10,0:04:19.74,0:04:23.95,Default,,0,0,0,,{\q2}Just the o'her day, Marii helped us out \Nat ta festival, she did.
 Dialogue: 10,0:04:23.95,0:04:25.45,Default,,0,0,0,,Then, when we got together after...
 Dialogue: 10,0:04:25.45,0:04:27.21,Default,,0,0,0,,Thanks y'all for helpin' out!
 Dialogue: 10,0:04:27.54,0:04:30.33,Default,,0,0,0,,Now, a round o' applause if I may!
@@ -86,7 +85,7 @@ Dialogue: 10,0:04:30.33,0:04:31.25,Default,,0,0,0,,Ready—
 Dialogue: 11,0:04:31.25,0:04:31.83,Default,,0,0,0,,{\fry84}Rea
 Dialogue: 10,0:04:31.25,0:04:31.83,Default,,0,0,0,,{\fry278}dy—
 Dialogue: 10,0:04:34.34,0:04:35.67,Default,,0,0,0,,Your timing was {\i1}awful{\i0}!
-Dialogue: 10,0:04:35.67,0:04:38.55,Default,,0,0,0,,I only got two syllables in! You ruined it!
+Dialogue: 10,0:04:35.67,0:04:38.55,Default,,0,0,0,,I barely got a word in, and you ruined it!
 Dialogue: 10,0:04:38.55,0:04:39.80,Default,,0,0,0,,Did I really?
 Dialogue: 10,0:04:40.05,0:04:42.09,Default,,0,0,0,,Mind if I butt in?
 Dialogue: 10,0:04:42.09,0:04:43.47,Default,,0,0,0,,It's a neighbourhood manga artist.
@@ -97,7 +96,7 @@ Dialogue: 10,0:04:55.73,0:04:57.28,Default,,0,0,0,,What's so funny about {\i1}th
 Dialogue: 10,0:04:57.28,0:04:59.15,Default,,0,0,0,,And then, once you {\i1}did{\i0} get to the punchline...
 Dialogue: 10,0:05:06.08,0:05:08.58,Default,,0,0,0,,He's got... He's got a striped hakama!
 Dialogue: 10,0:05:09.25,0:05:12.00,Default,,0,0,0,,What's so funny about his trousers?!
-Dialogue: 10,0:05:12.00,0:05:13.75,Default,,0,0,0,,Laugh at something that's {\i1}funny{\i0}!
+Dialogue: 10,0:05:12.00,0:05:13.75,Default,,0,0,0,,Laugh at something that's {\i1}meant{\i0} to be funny!
 Dialogue: 10,0:05:13.75,0:05:16.13,Default,,0,0,0,,I'd be happy anyone found your manga funny at all.
 Dialogue: 10,0:05:16.13,0:05:18.09,Default,,0,0,0,,That's one way to look at it.
 Dialogue: 10,0:05:19.34,0:05:21.72,Default,,0,0,0,,Oh, come on. Get off my ass.
@@ -143,7 +142,7 @@ Dialogue: 10,0:07:40.69,0:07:43.03,Default,,0,0,0,,Her timing's perfect!
 Dialogue: 10,0:07:43.03,0:07:46.36,Default,,0,0,0,,But what happens once she wakes up?
 Dialogue: 10,0:07:52.45,0:07:54.37,Default,,0,0,0,,Are you okay, Marii?
 Dialogue: 10,0:07:54.37,0:07:57.96,Default,,0,0,0,,{\q2}While at the hospital, \NI learned why my timing's always off!
-Dialogue: 10,0:07:58.71,0:08:02.09,Default,,0,0,0,,Turns out my my ECG was totally messed up!
+Dialogue: 10,0:07:58.71,0:08:02.09,Default,,0,0,0,,Turns out my ECG was totally messed up!
 Dialogue: 10,0:08:02.09,0:08:04.30,Default,,0,0,0,,{\q2}I'm so relieved it's just 'cuz \Nmy heart rate's all messed up!
 Dialogue: 10,0:08:04.63,0:08:06.01,Default,,0,0,0,,Ah, that's grea—
 Dialogue: 10,0:08:06.01,0:08:08.22,Default,,0,0,0,,Marii, no! That's arrhythmia!
@@ -201,32 +200,32 @@ Dialogue: 10,0:10:34.15,0:10:38.12,Default,,0,0,0,,{\q2}Th-There were some hold-
 Dialogue: 10,0:10:38.12,0:10:40.29,Default,,0,0,0,,This business deals in culture! Yeah!
 Dialogue: 10,0:10:40.29,0:10:42.66,Default,,0,0,0,,The goal is to publish things that contribute to society!
 Dialogue: 10,0:10:42.91,0:10:46.50,Default,,0,0,0,,{\q2}"It is the task of publications to sow seeds \Nthat bear fruit in our lives and bloom as flowers." {## https://www.shogakukan.co.jp/en/company/}
-Dialogue: 10,0:10:46.50,0:10:51.55,Default,,0,0,0,,{\q2}That's what someone at Shueisha said, \Nwhich belongs to the Hitotsubashi Group!
+Dialogue: 10,0:10:46.50,0:10:51.55,Default,,0,0,0,,{\q2}That's what someone at Shueisha said, \Nand they belong to the Hitotsubashi Group!
 Dialogue: 10,0:10:51.55,0:10:52.59,Default,,0,0,0,,Hitotsubashi?
-Dialogue: 10,0:10:52.59,0:10:58.05,Default,,0,0,0,,{\q2}A group of publishing companies led by Shogakukan, \Nincluding Shueisha, Hakusensha, Shodensha, you name it.
-Dialogue: 10,0:10:58.05,0:11:01.56,Default,,0,0,0,,{\q2}Yeah, that's the Hitotsubashi Group, \Nbut weren't we going to Kodansha?
+Dialogue: 10,0:10:52.59,0:10:58.05,Default,,0,0,0,,{\q2}A conglomerate of publishing companies led by Shogakukan, \Nincluding Shueisha, Hakusensha, Shodensha, you name it.
+Dialogue: 10,0:10:58.05,0:11:01.56,Default,,0,0,0,,{\q2}Yeah, but the Hitotsubashi Group is one thing. \NWeren't we going to Kodansha?
 Dialogue: 10,0:11:01.56,0:11:02.60,Default,,0,0,0,,Oh, we were.
 Dialogue: 10,0:11:02.60,0:11:04.02,Default,,0,0,0,,Let's go!
 Dialogue: 10,0:11:04.56,0:11:08.65,Default,,0,0,0,,{\q2}This place is practically a ghost town \Ncompared to Jinbocho.
 Dialogue: 10,0:11:08.65,0:11:10.48,Default,,0,0,0,,Not a single shop in sight.
-Dialogue: 10,0:11:10.48,0:11:12.86,Default,,0,0,0,,But they have a famous temple!
-Dialogue: 10,0:11:12.86,0:11:14.90,Default,,0,0,0,,The Gokoku temple which this station is named after!
+Dialogue: 10,0:11:10.48,0:11:12.86,Default,,0,0,0,,But they have the famous Gokoku temple!
+Dialogue: 10,0:11:12.86,0:11:14.90,Default,,0,0,0,,This station is named after it.
 Dialogue: 10,0:11:14.90,0:11:16.03,Default,,0,0,0,,And here it is.
-Dialogue: 10,0:11:16.03,0:11:19.66,Default,,0,0,0,,{\q2}They say Tokugawa Tsunayoshi built it \Nbecause his mother told him so.
+Dialogue: 10,0:11:16.03,0:11:19.66,Default,,0,0,0,,{\q2}They say Tokugawa Tsunayoshi built it \Nbecause his mother told him to.
 Dialogue: 10,0:11:19.66,0:11:21.54,Default,,0,0,0,,Oh, he had an Oedipus complex?
 Dialogue: 10,0:11:21.54,0:11:23.25,Default,,0,0,0,,And he was a furry, too.
 Dialogue: 10,0:11:24.62,0:11:27.12,Default,,0,0,0,,{\q2}He's famous for his Edicts on \NCompassion for Living Things.
-Dialogue: 10,0:11:27.12,0:11:32.50,Default,,0,0,0,,{\q2}It sure is an impressive, old building, \Nbut it doesn't really mesh well with Gen Z. {## Tempted to just write "zoomers"}
+Dialogue: 10,0:11:27.12,0:11:32.50,Default,,0,0,0,,{\q2}It sure is an impressive, old building, \Nbut it doesn't really mesh well with Gen Z.
 Dialogue: 10,0:11:32.50,0:11:34.13,Default,,0,0,0,,That's not true!
 Dialogue: 10,0:11:34.13,0:11:38.93,Default,,0,0,0,,{\q2}They held the funeral of that guy \Nwho stole a bike here!
 Dialogue: 10,0:11:39.72,0:11:43.06,Default,,0,0,0,,A legendary number of people attended!
 Dialogue: 10,0:11:43.06,0:11:47.27,Default,,0,0,0,,{\q2}This is also the final resting place of the number one \NKarate Maniac, President Oyama Masutatsu.
-Dialogue: 10,0:11:47.27,0:11:50.15,Default,,0,0,0,,And the great Kajiwara Ikki rests here as well!
-Dialogue: 10,0:11:50.98,0:11:55.40,Default,,0,0,0,,{\q2}Kajiwara practically {\i1}built{\i0} \Na few of the Kodansha buildings himself!
-Dialogue: 10,0:11:55.40,0:11:57.36,Default,,0,0,0,,Onwards! To Kodansha!
-Dialogue: 10,0:11:59.57,0:12:04.29,Default,,0,0,0,,{\q2}Kodansha. Formed as the \NImperial Japanese Oratorical Society.
+Dialogue: 10,0:11:47.27,0:11:50.15,Default,,0,0,0,,And the great Kajiwara Ikki's grave is here, too!
+Dialogue: 10,0:11:50.98,0:11:55.40,Default,,0,0,0,,{\i1\q2}The{\i0} Kajiwara?! He practically {\i1}built{\i0} \Na few of the Kodansha buildings himself!
+Dialogue: 10,0:11:55.40,0:11:57.36,Default,,0,0,0,,Onwards! To the promised Kodansha-land!
+Dialogue: 10,0:11:59.57,0:12:04.29,Default,,0,0,0,,{\q2}Kodansha. Originally formed as \Nthe Imperial Japanese Oratorical Society.
 Dialogue: 10,0:12:04.29,0:12:08.71,Default,,0,0,0,,They published the Kodan Club entertainment magazine.
-Dialogue: 10,0:12:08.71,0:12:12.71,Default,,0,0,0,,{\q2}It was then renamed to the \NImperial Japanese Oratorical Society Kodansha.
+Dialogue: 10,0:12:08.71,0:12:12.71,Default,,0,0,0,,{\q2}It was later renamed to the \NImperial Japanese Oratorical Society Kodansha.
 Dialogue: 10,0:12:12.71,0:12:14.21,Default,,0,0,0,,Thus is born the name of the company.
 Dialogue: 10,0:12:14.21,0:12:14.96,Default,,0,0,0,,Way too freakin' long!
 Dialogue: 10,0:12:14.96,0:12:19.05,Default,,0,0,0,,{\q2}Why force in so many cool-sounding words?! \NWhat were they, closeted delinquents?
@@ -240,27 +239,27 @@ Dialogue: 10,0:12:41.57,0:12:47.50,Default,,0,0,0,,{\q2}I may be wrong, but it f
 Dialogue: 10,0:12:47.50,0:12:53.63,Default,,0,0,0,,{\q2}Something, something, five voice actresses, \Nsome kinda talk show, posters being signed...
 Dialogue: 10,0:12:53.96,0:12:55.25,Default,,0,0,0,,I remember!
 Dialogue: 10,0:12:56.59,0:13:00.30,Default,,0,0,0,,They were attending the funeral of Rikiishi Toru!
-Dialogue: 10,0:13:00.30,0:13:02.01,Default,,0,0,0,,Rikiishi {\i1}who{\i0}?
+Dialogue: 10,0:13:00.30,0:13:02.01,Default,,0,0,0,,Sorry, Rikiishi {\i1}who{\i0}?
 Dialogue: 10,0:13:02.01,0:13:04.47,Default,,0,0,0,,Tomorrow's Joe's greatest rival!
 Dialogue: 10,0:13:04.47,0:13:06.60,Default,,0,0,0,,The funeral was led by Terayama Shuji!
-Dialogue: 10,0:13:06.60,0:13:09.69,Default,,0,0,0,,{\q2}He's the one who sees a foggy ocean \Nthe moment he strikes a match!
-Dialogue: 10,0:13:11.77,0:13:15.98,Default,,0,0,0,,{\q2}In more modern terms, the kind of person \Nwho'd mourn Mami or Fire Fist Ace? {## Meguca and OP}
+Dialogue: 10,0:13:06.60,0:13:09.69,Default,,0,0,0,,{\q2}He's the writer who sees a foggy ocean \Nthe moment he strikes a match!
+Dialogue: 10,0:13:11.77,0:13:15.98,Default,,0,0,0,,{\q2}In more current terms, the kind of person \Nwho'd mourn Mami or Fire Fist Ace? {## Meguca and OP}
 Dialogue: 10,0:13:17.11,0:13:18.99,Default,,0,0,0,,By the way, how old were you again, Kigu?
 Dialogue: 10,0:13:19.36,0:13:22.03,Default,,0,0,0,,Too young to get wrinkles! Tee-hee!
-Dialogue: 10,0:13:22.49,0:13:26.99,Default,,0,0,0,,{\q2}I wonder if Noma's on the top floor now, \Nsipping wine with a cat on his lap?
+Dialogue: 10,0:13:22.49,0:13:26.99,Default,,0,0,0,,{\q2}I wonder if Noma's on the top floor now, \Nsipping a fine wine with a cat on his lap?
 Dialogue: 10,0:13:26.99,0:13:31.75,Default,,0,0,0,,{\q2}I can hear him saying "In the spring rain, \Nthe scent of Venus's sigh reaches me".
 Dialogue: 10,0:13:31.75,0:13:34.46,Default,,0,0,0,,That's Kibayashi you're thinking of.
 Dialogue: 10,0:13:34.46,0:13:37.21,Default,,0,0,0,,The president's office is apparently on the lower level.
 Dialogue: 10,0:13:37.21,0:13:38.88,Default,,0,0,0,,Huh? Why?
-Dialogue: 10,0:13:38.88,0:13:43.43,Default,,0,0,0,,It's supposedly much closer to the fire exit.
+Dialogue: 10,0:13:38.88,0:13:43.43,Default,,0,0,0,,{\q2}It's supposedly much closer to the fire exit, \Nso he's the first to get out should things go south.
 Dialogue: 10,0:13:44.18,0:13:47.72,Default,,0,0,0,,{\q2}There's no escape in the magazine's \Neditorial section, by the way.
 Dialogue: 10,0:13:49.35,0:13:50.56,Default,,0,0,0,,Waddup!
 Dialogue: 10,0:13:50.56,0:13:51.81,Default,,0,0,0,,Good afternoon!
 Dialogue: 10,0:13:52.90,0:13:53.73,Default,,0,0,0,,Good day.
 Dialogue: 10,0:13:53.73,0:13:54.31,Default,,0,0,0,,Hello.
-Dialogue: 10,0:13:57.07,0:14:00.61,Default,,0,0,0,,{\q2}This really the right place? \NWe didn't walk into some hotel, did we?
+Dialogue: 10,0:13:57.07,0:14:00.61,Default,,0,0,0,,{\q2}Are you {\i1}sure{\i0} this is the right place? \NWe didn't walk into some fancy hotel, did we?
 Dialogue: 10,0:14:01.74,0:14:03.95,Default,,0,0,0,,There's a café upstairs.
-Dialogue: 10,0:14:04.91,0:14:06.41,Default,,0,0,0,,Are they models?
+Dialogue: 10,0:14:04.91,0:14:06.41,Default,,0,0,0,,Are those models?
 Dialogue: 10,0:14:06.41,0:14:09.95,Default,,0,0,0,,They publish ViVi, and other fashion magazines as well.
 Dialogue: 10,0:14:10.41,0:14:12.00,Default,,0,0,0,,That's so classy.
 Dialogue: 10,0:14:12.00,0:14:16.21,Default,,0,0,0,,{\q2}Damn! This building reeks of money \N{\i1}and{\i0} is full of pretty models?!
@@ -268,23 +267,23 @@ Dialogue: 10,0:14:16.21,0:14:18.88,Default,,0,0,0,,God, I wish that were me!
 Dialogue: 10,0:14:18.88,0:14:23.09,Default,,0,0,0,,{\q2}Our editors at Betsu-Maga \Nbetter have some fancy-ass offices, too!
 Dialogue: 10,0:14:30.47,0:14:31.64,Default,,0,0,0,,What pigsty did we waltz into?
 Dialogue: 10,0:14:31.64,0:14:34.44,Default,,0,0,0,,It's dirty, dangerous, and demeaning! The real 3D!
-Dialogue: 10,0:14:34.73,0:14:43.15,Default,,0,0,0,,{\q2}The wonder and fun of Bessatsu Shounen Magazine \Nis built on the daily sacrifice of its editors!
+Dialogue: 10,0:14:34.73,0:14:43.15,Default,,0,0,0,,{\q2}The wonder and joy of Bessatsu Shounen Magazine \Nis built on the daily sacrifice of its editors!
 Dialogue: 10,0:14:45.82,0:14:47.91,Default,,0,0,0,,Thank you kindly, and sorry.
-Dialogue: 10,0:14:51.08,0:14:57.04,Default,,0,0,0,,{\q2}Teddiursa the bear kept walking and walking, \Nbut he just couldn't find the right place. {## yes I *am* just stealing a Pokemon name. Sue me}
+Dialogue: 10,0:14:51.08,0:14:57.04,Default,,0,0,0,,{\q2}And thus, Teddiursa kept walking and walking, \Nbut he just couldn't find the right place. {## yes I *am* just stealing a Pokemon name. Sue me}
 Dialogue: 10,0:14:57.04,0:15:01.26,Default,,0,0,0,,{\q2}"Did I lose my way? I must still \Nbe groggy from my winter sleep."
 Dialogue: 10,0:15:01.26,0:15:04.51,Default,,0,0,0,,And then suddenly, the realisation hit him.
 Dialogue: 10,0:15:04.51,0:15:09.14,Default,,0,0,0,,{\q2}"Oh, dear! That wasn't my winter sleep, \NI was just sleeping off a cold!"
 Dialogue: 10,0:15:10.01,0:15:11.89,Default,,0,0,0,,Thank you for your continued appreciation.
-Dialogue: 10,0:15:15.35,0:15:18.73,Default,,0,0,0,,What? The animator ran off?
-Dialogue: 10,0:15:18.73,0:15:20.36,Default,,0,0,0,,He wouldn't open the door?
-Dialogue: 10,0:15:20.36,0:15:21.69,Default,,0,0,0,,Don't give me that!
-Dialogue: 10,0:15:21.69,0:15:22.94,Default,,0,0,0,,He just locked himself in!
-Dialogue: 10,0:15:22.94,0:15:24.99,Default,,0,0,0,,Break the door down and get in there!
-Dialogue: 10,0:15:24.99,0:15:28.37,Default,,0,0,0,,{\q2}But people say he has a habit of \Nrunning away from his stress!
-Dialogue: 10,0:15:28.37,0:15:29.78,Default,,0,0,0,,Who gives a damn?!
-Dialogue: 10,0:15:29.78,0:15:32.33,Default,,0,0,0,,What matters is that we meet the deadlines!
-Dialogue: 10,0:15:32.33,0:15:34.50,Default,,0,0,0,,{\an8}But I think what he needs is rest!
-Dialogue: 10,0:15:34.50,0:15:36.96,Default,,0,0,0,,{\an8}Rest won't pay the bills!
+Dialogue: 10,0:15:15.35,0:15:18.73,Default,,0,0,0,,"What? The animator ran off?"
+Dialogue: 10,0:15:18.73,0:15:20.36,Default,,0,0,0,,"He wouldn't open the door?"
+Dialogue: 10,0:15:20.36,0:15:21.69,Default,,0,0,0,,"Don't give me that!"
+Dialogue: 10,0:15:21.69,0:15:22.94,Default,,0,0,0,,"He just locked himself in!"
+Dialogue: 10,0:15:22.94,0:15:24.99,Default,,0,0,0,,"Break the door down and get in there!"
+Dialogue: 10,0:15:24.99,0:15:28.37,Default,,0,0,0,,{\q2}"But people say he has a habit of \Nrunning away from his stress!"
+Dialogue: 10,0:15:28.37,0:15:29.78,Default,,0,0,0,,"Who gives a damn?!"
+Dialogue: 10,0:15:29.78,0:15:32.33,Default,,0,0,0,,"What matters is that we meet the deadlines!"
+Dialogue: 10,0:15:32.33,0:15:34.50,Default,,0,0,0,,{\an8}"But I think what he needs is rest!"
+Dialogue: 10,0:15:34.50,0:15:36.96,Default,,0,0,0,,{\an8}"Rest won't pay the bills!"
 Dialogue: 10,0:15:32.33,0:15:34.50,Default,,0,0,0,,What's Kigu doing?
 Dialogue: 10,0:15:34.50,0:15:36.96,Default,,0,0,0,,She said she's learning a new story.
 Dialogue: 10,0:15:36.96,0:15:40.13,Default,,0,0,0,,{\q2}You shouldn't focus too hard. \NIt's bad for your body.
@@ -399,28 +398,28 @@ Dialogue: 10,0:20:17.32,0:20:18.36,Default,,0,0,0,,Y-Yeah, sure.
 Dialogue: 10,0:20:18.91,0:20:22.33,Default,,0,0,0,,{\q2}For instance, in prefab bathrooms where the tub \Nand the toilet are focused in one room,
 Dialogue: 10,0:20:22.33,0:20:25.62,Default,,0,0,0,,you can't take a leak while someone's using the bath.
 Dialogue: 10,0:20:25.62,0:20:30.63,Default,,0,0,0,,{\q2}And you can't wash yourself off before getting in \Nthe tub because the toilet will get wet too.
-Dialogue: 10,0:20:30.63,0:20:32.04,Default,,0,0,0,,Yeah, I guess,
-Dialogue: 10,0:20:32.04,0:20:34.75,Default,,0,0,0,,though that's a pretty boring, everyday example.
+Dialogue: 10,0:20:30.63,0:20:32.04,Default,,0,0,0,,Well, you got the right idea,
+Dialogue: 10,0:20:32.04,0:20:34.75,Default,,0,0,0,,but that's a pretty boring, everyday example.
 Dialogue: 10,0:20:34.75,0:20:36.38,Default,,0,0,0,,Hear that? You nailed it, Marii!
-Dialogue: 10,0:20:37.38,0:20:41.85,Default,,0,0,0,,{\q2}Anyway, the point is that instead of focusing, \Nwe need to scatter!
+Dialogue: 10,0:20:37.38,0:20:41.85,Default,,0,0,0,,{\q2}The point is that rather than focus, \Nwe need to scatter!
 Dialogue: 10,0:20:42.10,0:20:45.72,Default,,0,0,0,,{\q2}We need you, Marii, \Nsince you're so scatterbrained anyway!
 Dialogue: 10,0:20:45.72,0:20:47.52,Default,,0,0,0,,Flattery won't get you anywhere, y'know!
 Dialogue: 10,0:20:47.52,0:20:48.81,Default,,0,0,0,,That wasn't flattery.
 Dialogue: 10,0:20:48.81,0:20:52.73,Default,,0,0,0,,Oh, right! We should have separate dressing rooms, too!
-Dialogue: 10,0:20:52.73,0:20:56.36,Default,,0,0,0,,{\q2}If we're all in the same room and \Nsome rioter breaks in, we're done for!
-Dialogue: 10,0:20:56.61,0:21:00.24,Default,,0,0,0,,I'll ask the manager to give us separate rooms! {### Is this the same master mentioned throughout the show? If so, this should be "Master"}
+Dialogue: 10,0:20:52.73,0:20:56.36,Default,,0,0,0,,{\q2}If we're all focused in the same room and \Nsome rioter breaks in, we're done for!
+Dialogue: 10,0:20:56.61,0:21:00.24,Default,,0,0,0,,I'll go ask Master to give us separate rooms!
 Dialogue: 10,0:21:06.16,0:21:08.58,Default,,0,0,0,,He said, "Who'd'ya think you are? The bloody pope?!"
 Dialogue: 10,0:21:08.58,0:21:09.58,Default,,0,0,0,,Figures.
-Dialogue: 10,0:21:09.58,0:21:12.67,Default,,0,0,0,,We'll just have to make do with this, then.
+Dialogue: 10,0:21:09.58,0:21:12.67,Default,,0,0,0,,We'll just have to make do with screens.
 Dialogue: 10,0:21:14.92,0:21:16.96,Default,,0,0,0,,This is super boring! I can't take it anymore!
 Dialogue: 10,0:21:16.96,0:21:19.59,Default,,0,0,0,,Shut up and deal with it. Do it for Kigu.
 Dialogue: 10,0:21:19.59,0:21:21.34,Default,,0,0,0,,Kigu, are you hanging in there?
 Dialogue: 10,0:21:21.34,0:21:22.80,Default,,0,0,0,,Must be rough being so cramped up, ye?
-Dialogue: 10,0:21:22.80,0:21:24.30,Default,,0,0,0,,It's okay!
+Dialogue: 10,0:21:22.80,0:21:24.30,Default,,0,0,0,,I'm okay!
 Dialogue: 10,0:21:24.30,0:21:27.02,Default,,0,0,0,,This cramped space lets me focus like never before!
 Dialogue: 10,0:21:28.23,0:21:30.10,Default,,0,0,0,,You mustn't focus!
 Dialogue: 10,0:21:30.10,0:21:31.94,Default,,0,0,0,,You have to scatter your thoughts! Unwind!
-Dialogue: 10,0:21:31.94,0:21:35.65,Default,,0,0,0,,Yeah! I'm focusing on unwinding!
+Dialogue: 10,0:21:31.94,0:21:35.65,Default,,0,0,0,,Okay! I'm gonna focus on unwinding!
 Dialogue: 10,0:21:35.65,0:21:39.11,Default,,0,0,0,,You mustn't focus on it so intensely!
 Dialogue: 10,0:21:39.11,0:21:42.11,Default,,0,0,0,,{\q2}We're at the point where nothing we do \Ncan help her anymore.
 Dialogue: 10,0:21:47.74,0:21:49.20,Default,,0,0,0,,I'm glad it all worked out.
