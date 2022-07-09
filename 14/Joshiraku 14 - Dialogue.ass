@@ -33,7 +33,7 @@ Comment: 0,0:14:50.91,0:14:50.91,Default,chapter,0,0,0,,{Part C}
 Comment: 0,0:22:09.98,0:22:09.98,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:35.38,0:22:35.38,Default,,0,0,0,edsync,{ED}
 Dialogue: 10,0:01:33.70,0:01:37.04,Default,,0,0,0,,"Where in the heavens did you procure this pike?"
-Dialogue: 10,0:01:37.04,0:01:40.08,Default,ED,0,0,0,,"From the Nihonbashi riverside fish market, My Lord!"{ED: "my lord" should be all lowercase.}
+Dialogue: 10,0:01:37.04,0:01:40.08,Default,,0,0,0,,"From the Nihonbashi riverside fish market, my lord!"
 Dialogue: 10,0:01:40.08,0:01:42.12,Default,,0,0,0,,And to that, the lord replied w—
 Dialogue: 10,0:01:45.29,0:01:48.30,Default,,0,0,0,,"Nothing can beat Meguro's pikes!"
 Dialogue: 10,0:01:48.84,0:01:51.26,Default,,0,0,0,,Thank you for your continued appreciation...
@@ -49,7 +49,7 @@ Dialogue: 10,0:02:25.71,0:02:26.58,Default,,0,0,0,,Just the other day.
 Dialogue: 10,0:02:26.88,0:02:30.92,Default,,0,0,0,,{\q2}"Live long, live long and prosper. \NMay great wealth await you..."
 Dialogue: 10,0:02:33.93,0:02:37.18,Default,,0,0,0,,{\q2}"...wherever you go, be it on unknown soil \Nor under foreign skies."
 Dialogue: 10,0:02:37.18,0:02:39.18,Default,,0,0,0,,"May you always have..."
-Dialogue: 10,0:02:41.60,0:02:45.06,Default,ED,0,0,0,,{\q2}"...have your daily bread and \Nalways be brimming full of life."{ED: Break before "and" or after "always".}
+Dialogue: 10,0:02:41.60,0:02:45.06,Default,,0,0,0,,{\q2}"...have your daily bread \Nand always be brimming full of life."
 Dialogue: 10,0:02:45.06,0:02:49.94,Default,,0,0,0,,{\q2}"Like the long-lived king, Shuringan, \Nand his dear wife Gurindai, and their children..."
 Dialogue: 10,0:02:49.94,0:02:52.19,Default,,0,0,0,,Clap when I'm done, for Christ's sake!
 Dialogue: 10,0:02:52.19,0:02:54.65,Default,,0,0,0,,{\q2}The rest of the audience \Nsuccumbed to peer pressure!
@@ -101,7 +101,7 @@ Dialogue: 10,0:05:13.75,0:05:16.13,Default,,0,0,0,,I'd be happy anyone found you
 Dialogue: 10,0:05:16.13,0:05:18.09,Default,,0,0,0,,That's one way to look at it.
 Dialogue: 10,0:05:19.34,0:05:21.72,Default,,0,0,0,,Oh, come on. Get off my ass.
 Dialogue: 10,0:05:21.72,0:05:24.22,Default,,0,0,0,,Who gives a damn if my timing's a tiny bit off?
-Dialogue: 10,0:05:24.22,0:05:27.18,Default,ED,0,0,0,,{\q2}If only it was just a bit. \NBut what you're doing is akin to...{ED: Not sure how grammatical we want to be for Gan, but properly, "was" should be "were". But if we're using "akin" instead of "like", I think it might be justified to use "were".}
+Dialogue: 10,0:05:24.22,0:05:27.18,Default,,0,0,0,,{\q2}If only it were just a bit. \NBut what you're doing is akin to...
 Dialogue: 10,0:05:32.52,0:05:34.31,Default,,0,0,0,,Heaven and earth are calling me!
 Dialogue: 10,0:05:34.31,0:05:37.23,Default,,0,0,0,,I come to defeat you evil fiends, for I am—
 Dialogue: 10,0:05:41.95,0:05:44.70,Default,,0,0,0,,{\q2}It's akin to attacking the hero \Nduring his transformation scene!
@@ -118,7 +118,10 @@ Dialogue: 10,0:06:08.22,0:06:11.43,Default,,0,0,0,,{\q2}Like trying to sing alon
 Dialogue: 10,0:06:11.43,0:06:16.90,Default,,0,0,0,,{\q2}No! If we want to mend her rhythm, \Nshe must be willing to face Death itself!
 Dialogue: 10,0:06:16.90,0:06:20.90,Default,,0,0,0,,Oh, how treacherous the road to true rhythm is.
 Dialogue: 10,0:06:20.90,0:06:22.32,Default,,0,0,0,,Ready or not, here I come!
-Dialogue: 10,0:06:22.53,0:06:29.62,Default,ED,0,0,0,,{ED: This part feels like it's missing subs. Maybe think of a common rhythmic chant? "Heave ho" kind of works, but not really.}
+Dialogue: 10,0:06:22.53,0:06:23.95,Default,TM,0,0,0,,Heave! {### TM: pls fix timing}
+Dialogue: 10,0:06:23.95,0:06:24.95,Default,TM,0,0,0,,Ho!
+Dialogue: 10,0:06:27.16,0:06:28.66,Default,TM,0,0,0,,Heave!
+Dialogue: 10,0:06:29.16,0:06:29.62,Default,TM,0,0,0,,Ho!
 Dialogue: 10,0:06:29.62,0:06:32.08,Default,,0,0,0,,What's the point if you do it when it's safe?!
 Dialogue: 10,0:06:32.08,0:06:33.96,Default,,0,0,0,,It's not like I'm doing it intentionally...
 Dialogue: 10,0:06:33.96,0:06:37.79,Default,,0,0,0,,{\q2}It's weird that her timing is so off \Nin every which way.
@@ -160,7 +163,7 @@ Dialogue: 10,0:08:45.42,0:08:47.01,Default,,0,0,0,,Sounds good to me!
 Dialogue: 10,0:08:47.76,0:08:48.80,Default,,0,0,0,,Hold your horses!
 Dialogue: 10,0:08:48.80,0:08:50.89,Default,,0,0,0,,You don't get successful on an empty stomach!
 Dialogue: 10,0:08:50.89,0:08:53.64,Default,,0,0,0,,There's a lot of restaurants around here.
-Dialogue: 10,0:08:54.05,0:08:56.52,Default,TLC;ED,0,0,0,,Tendon, western cuisine, curry...{TLC: I wouldn't use "tendon" here since it could easily be confused with the connective tissue. 天丼 refers to tempura donburi, or tempura served over rice. If we take the example of gyuudon ("beef bowl"), we can call this a "tempura [rice] bowl". "Tempura don" would probably be okay too.}{ED: Capitalize "Western".}
+Dialogue: 10,0:08:54.05,0:08:56.52,Default,,0,0,0,,Tempura, Western cuisine, curry...
 Dialogue: 10,0:08:56.52,0:09:01.60,Default,,0,0,0,,{\q2}And because publishers work late, Chinese restaurants \Nstay open late as well around these parts.
 Dialogue: 10,0:09:01.60,0:09:06.40,Default,,0,0,0,,{\q2}Having lunch sounds good, \Nbut shouldn't we drop by to say hi first?
 Dialogue: 10,0:09:06.40,0:09:07.61,Default,,0,0,0,,Say hi to whom?
@@ -215,12 +218,12 @@ Dialogue: 10,0:11:14.90,0:11:16.03,Default,,0,0,0,,And here it is.
 Dialogue: 10,0:11:16.03,0:11:19.66,Default,,0,0,0,,{\q2}They say Tokugawa Tsunayoshi built it \Nbecause his mother told him to.
 Dialogue: 10,0:11:19.66,0:11:21.54,Default,,0,0,0,,Oh, he had an Oedipus complex?
 Dialogue: 10,0:11:21.54,0:11:23.25,Default,,0,0,0,,And he was a furry, too.
-Dialogue: 10,0:11:24.62,0:11:27.12,Default,ED,0,0,0,,{\q2}He's famous for his Edicts on \NCompassion for Living Things.{ED: Italicize the title or surround in quotes. Ideally it would also be better not to break the title, but that would result in lines that are too unbalanced.}
-Dialogue: 10,0:11:27.12,0:11:32.50,Default,ED,0,0,0,,{\q2}It sure is an impressive, old building, \Nbut it doesn't really mesh well with Gen Z.{ED: Remove comma after "impressive". The two adjectives are in different adjective categories, so a comma should not be used between them.}
+Dialogue: 10,0:11:24.62,0:11:27.12,Default,ED,0,0,0,,{\q2}He's famous for his \N"Edicts on Compassion for Living Things".{ED: Italicize the title or surround in quotes. Ideally it would also be better not to break the title, but that would result in lines that are too unbalanced.}{### Did we do this for every other instance of titles being dropped? Like Doppo}
+Dialogue: 10,0:11:27.12,0:11:32.50,Default,,0,0,0,,{\q2}It sure is an impressive old building, \Nbut it doesn't really mesh well with Gen Z.
 Dialogue: 10,0:11:32.50,0:11:34.13,Default,TM,0,0,0,,That's not true!{TM: Treat the speech bubble appearance at 0:11:32.64 as a keyframe and time accordingly.}
 Dialogue: 10,0:11:34.13,0:11:38.93,Default,TM,0,0,0,,{\q2}They held the funeral of that guy \Nwho stole a bike here!{TM: Treat the appearance of the four-person speech bubble at 0:11:38.77 as a keyframe and time accordingly.}
 Dialogue: 10,0:11:39.72,0:11:43.06,Default,TM,0,0,0,,A legendary number of people attended!{TM: Treat the appearance of the speech bubble at 0:11:39.78 as a keyframe and time accordingly.}
-Dialogue: 10,0:11:43.06,0:11:47.27,Default,TLC,0,0,0,,{\q2}This is also the final resting place of the number one \NKarate Maniac, President Oyama Masutatsu.{TLC: what's rendered here as "number one Karate Maniac" is 空手バカ一代, the name of a manga (and later anime and live-action film) about Oyama Masutatsu, officially translated as "Karate Master". That said, "karate maniac" is a lot closer to the original meaning (Wikipedia gives "A Karate-Crazy Life", which is close enough) and fits in this wording. https://en.wikipedia.org/wiki/Karate_Master}
+Dialogue: 10,0:11:43.06,0:11:47.27,Default,TLC,0,0,0,,{\q2}This is also the final resting place of the number one \NKarate Master, President Oyama Masutatsu.{TLC: what's rendered here as "number one Karate Maniac" is 空手バカ一代, the name of a manga (and later anime and live-action film) about Oyama Masutatsu, officially translated as "Karate Master". That said, "karate maniac" is a lot closer to the original meaning (Wikipedia gives "A Karate-Crazy Life", which is close enough) and fits in this wording. https://en.wikipedia.org/wiki/Karate_Master}{## If it's a specific reference, I'm probably learning more towards keeping that in. Can always change our mind later ig?}
 Dialogue: 10,0:11:47.27,0:11:50.15,Default,,0,0,0,,And the great Kajiwara Ikki's grave is here, too!
 Dialogue: 10,0:11:50.98,0:11:55.40,Default,,0,0,0,,{\i1\q2}The{\i0} Kajiwara?! He practically {\i1}built{\i0} \Na few of the Kodansha buildings himself!
 Dialogue: 10,0:11:55.40,0:11:57.36,Default,,0,0,0,,Onwards! To the promised Kodansha-land!
@@ -348,7 +351,7 @@ Dialogue: 10,0:18:21.58,0:18:23.00,Default,TM,0,0,0,,took a bath,{TM: Needs more
 Dialogue: 10,0:18:23.42,0:18:24.62,Default,,0,0,0,,and when you pass away.
 Dialogue: 10,0:18:24.62,0:18:26.67,Default,,0,0,0,,I don't want such a suffocating life!
 Dialogue: 10,0:18:26.67,0:18:29.59,Default,,0,0,0,,It reminds me of Dezaki's work, so I'd welcome it.
-Dialogue: 10,0:18:29.59,0:18:32.51,Default,ST,0,0,0,,Do you mean stuff like {\i1}this{\i0}?!{ST: I see a missed meme opportunity here. The subs can fade in colour to match the overall colour scheme.}
+Dialogue: 10,0:18:29.59,0:18:32.51,Default,ST,0,0,0,,Do you mean stuff like {\i1}this{\i0}?!{ST: I see a missed meme opportunity here. The subs can fade in colour to match the overall colour scheme.}{## will leave to gsk if he wants :^)}
 Dialogue: 10,0:18:32.92,0:18:34.01,Default,,0,0,0,,And {\i1}this{\i0}?!
 Dialogue: 10,0:18:34.38,0:18:36.68,Default,,0,0,0,,And even {\i1}this{\i0}?!
 Dialogue: 10,0:18:36.97,0:18:38.10,Default,,0,0,0,,Just give up.
@@ -389,7 +392,7 @@ Dialogue: 10,0:19:38.74,0:19:42.95,Default,,0,0,0,,{\q2}Anyway, the moral of the
 Dialogue: 10,0:19:42.95,0:19:45.29,Default,,0,0,0,,It's very risky how industries focus themselves in Tokyo,
 Dialogue: 10,0:19:45.29,0:19:48.50,Default,TM,0,0,0,,{\q2}or how companies focus on trading \Nwith only a limited set of partners.{TM: The line starts at 0:19:46.56 in the audio.}
 Dialogue: 10,0:19:48.50,0:19:52.67,Default,,0,0,0,,{\q2}Manga artists shouldn't focus \Non entering into exclusive contracts either.
-Dialogue: 10,0:19:52.67,0:19:56.63,Default,ED,0,0,0,,{\q2}So many artists have been ruined by \Nthose unreasonable conditions!{ED: Break before "by".}
+Dialogue: 10,0:19:52.67,0:19:56.63,Default,,0,0,0,,{\q2}So many artists have been ruined \Nby those unreasonable conditions!
 Dialogue: 10,0:19:56.63,0:20:01.39,Default,,0,0,0,,{\q2}When blame is focused on one person, \Nhe becomes a scapegoat.
 Dialogue: 10,0:20:01.39,0:20:04.60,Default,,0,0,0,,{\q2}When power is focused in the hands of \None person, he becomes a dictator.
 Dialogue: 10,0:20:05.14,0:20:09.73,Default,,0,0,0,,{\q2}When unrequited love is focused too much \Non one person, a stalker is born.
@@ -407,7 +410,7 @@ Dialogue: 10,0:20:42.10,0:20:45.72,Default,,0,0,0,,{\q2}We need you, Marii, \Nsi
 Dialogue: 10,0:20:45.72,0:20:47.52,Default,,0,0,0,,Flattery won't get you anywhere, y'know!
 Dialogue: 10,0:20:47.52,0:20:48.81,Default,,0,0,0,,That wasn't flattery.
 Dialogue: 10,0:20:48.81,0:20:52.73,Default,,0,0,0,,Oh, right! We should have separate dressing rooms, too!
-Dialogue: 10,0:20:52.73,0:20:56.36,Default,ED,0,0,0,,{\q2}If we're all focused in the same room and \Nsome rioter breaks in, we're done for!{ED: Break before "and".}
+Dialogue: 10,0:20:52.73,0:20:56.36,Default,,0,0,0,,{\q2}If we're all focused in the same room \Nand some rioter breaks in, we're done for!
 Dialogue: 10,0:20:56.61,0:21:00.24,Default,,0,0,0,,I'll go ask Master to give us separate rooms!
 Dialogue: 10,0:21:06.16,0:21:08.58,Default,,0,0,0,,He said, "Who'd'ya think you are? The bloody pope?!"
 Dialogue: 10,0:21:08.58,0:21:09.58,Default,,0,0,0,,Figures.
@@ -432,6 +435,6 @@ Dialogue: 10,0:21:57.38,0:22:00.47,Default,,0,0,0,,I'm afraid that's beyond mode
 Dialogue: 10,0:22:00.76,0:22:02.88,Default,,0,0,0,,{\an8}Don't pull my leg! Just cure me!
 Dialogue: 10,0:22:02.88,0:22:06.43,Default,,0,0,0,,They sure get along well.
 Dialogue: 10,0:22:03.51,0:22:06.43,Default,,0,0,0,,{\an8}I'm terribly sorry, but I can't.
-Dialogue: 10,0:22:06.43,0:22:07.43,Default,ST,0,0,0,,Don't give me that shit!{ST: I think it makes sense to keep Marii's lines (this and the next) at the top even though it sort of goes back to the foreground. It's less confusing if it doesn't switch, and it gets interrupted by the "Yup" anyway.
-Dialogue: 10,0:22:06.89,0:22:07.43,Alt,,0,0,0,,Yup.
-Dialogue: 10,0:22:07.43,0:22:09.98,Default,,0,0,0,,Cure me, you goddamn quack!
+Dialogue: 10,0:22:06.43,0:22:07.43,Default,,0,0,0,,{\an8}Don't give me that shit!
+Dialogue: 10,0:22:06.89,0:22:07.43,Default,,0,0,0,,Yup.
+Dialogue: 10,0:22:07.43,0:22:09.98,Default,,0,0,0,,{\an8}Cure me, you goddamn quack!
