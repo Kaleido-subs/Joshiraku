@@ -370,10 +370,10 @@ Dialogue: 11,0:19:13.88,0:19:13.92,Default,,281,133,35,,{\frz353.99\bord0\shad0\
 Dialogue: 10,0:19:13.88,0:19:13.92,Default,,281,133,35,,{\frz354.007\c&H000000&\1a&HC8&\blur2}Seriously?!
 Dialogue: 11,0:19:13.92,0:19:13.97,Default,,384,30,1,,{\frz345.705\bord0\shad0\blur2}Seriously?!
 Dialogue: 10,0:19:13.92,0:19:13.97,Default,,384,30,1,,{\frz345.747\c&H000000&\1a&HC8&\blur2}Seriously?!
-Dialogue: 11,0:19:13.97,0:19:14.01,Default,,500,0,0,,{\frz336.27\bord0\shad0\blur2}Seriously?!
-Dialogue: 10,0:19:13.97,0:19:14.01,Default,,500,0,0,,{\frz336.339\c&H000000&\1a&HC8&\blur2}Seriously?!
-Dialogue: 11,0:19:13.97,0:19:14.01,Default,,627,0,0,,{\frz326\bord0\shad0\blur2}Seriously?!
-Dialogue: 10,0:19:13.97,0:19:14.01,Default,,627,0,0,,{\frz326.1\c&H000000&\1a&HC8&\blur2}Seriously?!
+Dialogue: 11,0:19:13.97,0:19:14.01,Default,,500,-86,-38,,{\frz336.27\bord0\shad0\blur2}Seriously?!
+Dialogue: 10,0:19:13.97,0:19:14.01,Default,,500,-86,-38,,{\frz336.339\c&H000000&\1a&HC8&\blur2}Seriously?!
+Dialogue: 11,0:19:13.97,0:19:14.01,Default,,627,-213,-80,,{\frz326\bord0\shad0\blur2}Seriously?!
+Dialogue: 10,0:19:13.97,0:19:14.01,Default,,627,-213,-80,,{\frz326.1\c&H000000&\1a&HC8&\blur2}Seriously?!
 Dialogue: 10,0:19:14.51,0:19:15.84,Default,,0,0,0,,Even if you get beaten up,
 Dialogue: 10,0:19:16.89,0:19:18.47,Default,,0,0,0,,or get run over by a car,
 Dialogue: 10,0:19:19.30,0:19:21.77,Default,,0,0,0,,or a steel beam drops and hits you on the head!
