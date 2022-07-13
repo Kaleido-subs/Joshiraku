@@ -21,7 +21,7 @@ Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
 Scroll Position: 362
 Active Line: 365
-Video Position: 28416
+Video Position: 28446
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -394,9 +394,9 @@ Dialogue: 10,0:19:33.69,0:19:35.03,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:19:35.03,0:19:36.91,Default,,0,0,0,,Hey! I've got problems, too!
 Dialogue: 10,0:19:36.91,0:19:38.74,Default,,0,0,0,,Not as far as I can see.
 Dialogue: 10,0:19:38.74,0:19:42.95,Default,,0,0,0,,{\q2}Anyway, the moral of the story is that \Ntoo much focus is never a good thing.
-Dialogue: 10,0:19:42.95,0:19:45.18,Default,,0,0,0,,It's very risky how industries focus themselves in Tokyo,
-Dialogue: 10,0:19:45.18,0:19:48.50,Default,TM/ED,0,0,0,,{\q2}or how companies focus on trading \Nwith only a limited set of partners.{TM: The line starts at 0:19:46.56 in the audio.}{CPS will be issue on this, so I will leave it as is or Light could do an edit to make the 2nd line shorter than 1st}
-Dialogue: 10,0:19:48.50,0:19:52.67,Default,,0,0,0,,{\q2}Manga artists shouldn't focus \Non entering into exclusive contracts either.
+Dialogue: 10,0:19:42.95,0:19:46.41,Default,,0,0,0,,{\q2}It's very risky how industries focus themselves in Tokyo,\Nor how companies focus on trading 
+Dialogue: 10,0:19:46.41,0:19:48.28,Default,TM/ED,0,0,0,,with only a limited set of partners.{TM: The line starts at 0:19:46.56 in the audio.}
+Dialogue: 10,0:19:49.75,0:19:52.67,Default,,0,0,0,,{\q2}Manga artists shouldn't focus \Non entering into exclusive contracts either.
 Dialogue: 10,0:19:52.67,0:19:56.63,Default,,0,0,0,,{\q2}So many artists have been ruined \Nby those unreasonable conditions!
 Dialogue: 10,0:19:56.63,0:20:01.39,Default,,0,0,0,,{\q2}When blame is focused on one person, \Nhe becomes a scapegoat.
 Dialogue: 10,0:20:01.39,0:20:04.60,Default,,0,0,0,,{\q2}When power is focused in the hands of \None person, he becomes a dictator.
