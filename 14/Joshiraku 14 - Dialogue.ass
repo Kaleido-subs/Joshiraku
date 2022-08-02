@@ -162,7 +162,7 @@ Dialogue: 10,0:08:11.89,0:08:15.73,Default,,0,0,0,,They said it wasn't serious a
 Dialogue: 10,0:08:15.73,0:08:19.10,Default,,0,0,0,,You had us worried sick, Marii!
 Dialogue: 10,0:08:20.23,0:08:23.07,Default,,0,0,0,,He's got... He's got a striped hakama!
 Dialogue: 10,0:08:23.07,0:08:26.49,Default,,0,0,0,,It's not her arrhythmia, is it?
-Dialogue: 10,0:08:33.62,0:08:35.33,Default,,0,0,0,,So this is the fabled Jinbocho!
+Dialogue: 10,0:08:33.62,0:08:35.33,Default,,0,0,0,,So this is the fabled Jinbochou!
 Dialogue: 10,0:08:35.33,0:08:37.37,Default,,0,0,0,,You can feel the business success in the air!
 Dialogue: 10,0:08:37.37,0:08:40.33,Default,,0,0,0,,It's also called the town of students and books. {###}
 Dialogue: 10,0:08:40.46,0:08:43.29,Default,,0,0,0,,{\q2}There are many publishers, bookshops, \Nand universities around here.{TM: This one's a bit of an odd case. Because of how close it is to the flash, it should either be the same distance away from the keyframe as the start of the flash (i.e. start at 0:08:40.58), or start on the keyframe.} {Start at KF looks better for me}
@@ -218,7 +218,7 @@ Dialogue: 10,0:10:52.59,0:10:58.05,Default,,0,0,0,,{\q2}A conglomerate of publis
 Dialogue: 10,0:10:58.05,0:11:01.56,Default,,0,0,0,,{\q2}Yeah, but the Hitotsubashi Group is one thing. \NWeren't we going to Kodansha?
 Dialogue: 10,0:11:01.56,0:11:02.60,Default,,0,0,0,,Oh, we were.
 Dialogue: 10,0:11:02.60,0:11:04.02,Default,,0,0,0,,Let's go!
-Dialogue: 10,0:11:04.56,0:11:08.65,Default,,0,0,0,,{\q2}This place is practically a ghost town \Ncompared to Jinbocho.
+Dialogue: 10,0:11:04.56,0:11:08.65,Default,,0,0,0,,{\q2}This place is practically a ghost town \Ncompared to Jinbochou.
 Dialogue: 10,0:11:08.65,0:11:10.48,Default,,0,0,0,,Not a single shop in sight.
 Dialogue: 10,0:11:10.48,0:11:12.86,Default,,0,0,0,,But they have the famous Gokoku temple!
 Dialogue: 10,0:11:12.86,0:11:14.90,Default,,0,0,0,,This station is named after it.
