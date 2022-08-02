@@ -49,17 +49,11 @@ subs {
         from(get("dialogue"))
 
         if (propertyExists("OP")) {
-            from(op_ktemplate.item()) {
-                syncSourceLine("sync")
-                syncTargetLine("opsync")
-            }
+            from(get("OP"))
         }
 
         if (propertyExists("ED")) {
-            from(ed_ktemplate.item()) {
-                syncSourceLine("sync")
-                syncTargetLine("edsync")
-            }
+            from(get("ED"))
         }
 
         fromIfPresent(get("INS"), ignoreMissingFiles = true)
@@ -113,10 +107,20 @@ subs {
                 lang("jpn")
                 default(true)
             }
-            audio {
-                lang("jpn")
-                default(true)
+
+            if (tracks.count { it.track.type == TrackType.AUDIO } == 2) {
+                audio(0) {
+                    lang("jpn")
+                    default(true)
+                }
+                audio(1) { include(false) }
+            } else {
+                audio {
+                    lang("jpn")
+                    default(true)
+                }
             }
+
             includeChapters(false)
             attachments { include(false) }
         }
@@ -185,7 +189,7 @@ subs {
         }
 
         merge {
-            from(run_ktemplate.item())
+            from(get("ncsubs"))
 
             includeExtraData(false)
             includeProjectGarbage(false)
