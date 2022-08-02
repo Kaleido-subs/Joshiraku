@@ -49,11 +49,17 @@ subs {
         from(get("dialogue"))
 
         if (propertyExists("OP")) {
-            from(get("OP"))
+            from(get("OP")) {
+                syncSourceLine("sync")
+                syncTargetLine("opsync")
+            }
         }
 
         if (propertyExists("ED")) {
-            from(get("ED"))
+            from(get("ED")) {
+                syncSourceLine("sync")
+                syncTargetLine("edsync")
+            }
         }
 
         fromIfPresent(get("INS"), ignoreMissingFiles = true)
