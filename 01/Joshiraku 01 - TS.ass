@@ -16,10 +16,6 @@ Audio File: [Kaleido-subs] Joshiraku (Rakugo Girls) - 01 (BD 1080p) [D12DA387].m
 Video File: [Kaleido-subs] Joshiraku (Rakugo Girls) - 01 (BD 1080p) [D12DA387].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 7019
-Active Line: 7028
-Video Position: 34514
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -6196,9 +6192,9 @@ Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1658.85,206.55)\frz0.419\fn
 Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1659.15,239.55)\frz0.419\fnFenix\fs35\c&H373F42&\blur1.05}Ordinance
 Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1658.85,206.55)\frz0.419\fnFenix\fs35\c&H373F42&\blur1.05}Tokyo Metropolitan
 Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1659.15,239.55)\frz0.419\fnFenix\fs35\c&H373F42&\blur1.05}Ordinance
-Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1658.85,326.85)\frz0.419\fnFenix\fs29\c&H373F42&\blur1.05}Regarding The healthy
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1658.85,326.85)\frz0.419\fnFenix\fs29\c&H373F42&\blur1.05}Regarding the healthy
 Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1659.15,353.85)\frz0.419\fnFenix\fs29\c&H373F42&\blur1.05}development of youths.
-Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1658.85,326.85)\frz0.419\fnFenix\fs29\c&H373F42&\blur1.05}Regarding The healthy
+Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1658.85,326.85)\frz0.419\fnFenix\fs29\c&H373F42&\blur1.05}Regarding the healthy
 Dialogue: 2,0:10:35.15,0:10:36.65,Sign,,0,0,0,,{\pos(1659.15,353.85)\frz0.419\fnFenix\fs29\c&H373F42&\blur1.05}development of youths.
 Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\pos(1658.7,261.3)\frz0.419\fnEstandar Rounded\fs41\fsp2\b1\c&H373F42&\blur1.05}Endemic lack
 Dialogue: 2,0:10:36.65,0:10:38.03,Sign,,0,0,0,,{\pos(1659,300.3)\frz0.419\fnEstandar Rounded\fs41\fsp2\b1\c&H373F42&\blur1.05}of

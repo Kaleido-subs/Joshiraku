@@ -36,8 +36,8 @@ Comment: 0,0:22:35.50,0:22:35.50,Default,,0,0,0,edsync,{EDsync — First hard cu
 Comment: 0,0:23:40.11,0:23:40.11,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:00:00.44,0:00:04.73,Default,,0,0,0,,{\q2}So Kumagoro comes back in the morning \Nand knocks on the door of the old lady's house.
 Dialogue: 10,0:00:04.73,0:00:06.82,Default,,0,0,0,,Knock-knock, knock-knock.
-Dialogue: 10,0:00:07.74,0:00:13.49,Default,,0,0,0,,"Who's this? Do you bring news of my father's death?"
-Dialogue: 10,0:00:13.49,0:00:18.87,Default,,0,0,0,,{\q2}"You batty ole bird, yer dad \Npopped 'is clogs thirty years ago!"
+Dialogue: 10,0:00:07.74,0:00:13.49,Default,,0,0,0,,"Who's this? Do you bring news of my hubby's death?"
+Dialogue: 10,0:00:13.49,0:00:18.87,Default,,0,0,0,,{\q2}"You batty ole bird, yer man's \Npopped 'is clogs thirty years ago!"
 Dialogue: 10,0:00:18.87,0:00:21.83,Default,,0,0,0,,"It's me, Kumagoro the carpenter."
 Dialogue: 10,0:00:21.83,0:00:26.13,Default,,0,0,0,,"Oh, so it is. What are you after at this hour?"
 Dialogue: 10,0:00:26.13,0:00:33.18,Default,,0,0,0,,{\q2}"I came ta let ya know that, thanks t'you, \NI finally managed to make a delicacy."
@@ -50,7 +50,7 @@ Dialogue: 10,0:00:51.41,0:00:54.24,Default,,0,0,0,,{\q2}"and let 'im know that i
 Dialogue: 10,0:00:54.78,0:00:55.83,Default,,0,0,0,,"You dimwit."
 Dialogue: 10,0:00:55.83,0:00:59.91,Default,,0,0,0,,"That's not a {\i1}delicacy{\i0}, but a {\i1}delivery{\i0}!"
 Dialogue: 10,0:01:01.04,0:01:03.38,Default,,0,0,0,,Thank you for your continued appreciation.
-Dialogue: 10,0:01:19.14,0:01:21.52,Default,,0,0,0,,I learned a lot on stage today.
+Dialogue: 10,0:01:19.14,0:01:21.52,Default,,0,0,0,,Thank you for letting me take the stage before you.
 Dialogue: 10,0:03:31.52,0:03:33.99,Default,,0,0,0,,If you want to read manga, read manga.
 Dialogue: 10,0:03:33.99,0:03:35.61,Default,,0,0,0,,Adapting it into an anime makes no sense!
 Dialogue: 10,0:03:36.74,0:03:38.41,Default,,0,0,0,,Where'd that come from?
@@ -76,7 +76,7 @@ Dialogue: 10,0:04:27.62,0:04:31.08,Default,,0,0,0,,Idiot. Just do what you usual
 Dialogue: 10,0:04:31.58,0:04:36.30,Default,,0,0,0,,{\q2}The conversations in this anime \Nare written to be as inoffensive as possible
 Dialogue: 10,0:04:36.30,0:04:42.47,Default,,0,0,0,,{\q2}so as not to interfere with \Nyour enjoyment of viewing cute girls.
 Dialogue: 10,0:04:45.47,0:04:48.98,Default,,0,0,0,,Yeah, but "usual" is kind of hard to define, isn't it?
-Dialogue: 10,0:04:48.98,0:04:50.69,Default,,0,0,0,,What does everyone do usually?
+Dialogue: 10,0:04:48.98,0:04:50.69,Default,,0,0,0,,What does everyone usually do?
 Dialogue: 10,0:04:50.69,0:04:52.40,Default,,0,0,0,,Don't ask such dull questions!
 Dialogue: 10,0:04:52.40,0:04:53.94,Default,,0,0,0,,Shopping, I guess?
 Dialogue: 10,0:04:53.94,0:04:55.73,Default,,0,0,0,,I read. Surf the net.
@@ -92,7 +92,7 @@ Dialogue: 10,0:05:09.50,0:05:11.50,Default,,0,0,0,,I usually resent and begrudge
 Dialogue: 10,0:05:11.50,0:05:13.71,Default,,0,0,0,,Yep, yep! Good—What the hell?
 Dialogue: 10,0:05:13.71,0:05:15.84,Default,,0,0,0,,You need some more positivity in your life.
 Dialogue: 10,0:05:15.84,0:05:16.46,Default,,0,0,0,,I live.
-Dialogue: 10,0:05:16.80,0:05:20.42,Default,,0,0,0,,So the answer to "What do you do usually?" is... live?
+Dialogue: 10,0:05:16.80,0:05:20.42,Default,,0,0,0,,So the answer to "What do you usually do?" is... live?
 Dialogue: 10,0:05:20.42,0:05:21.80,Default,,0,0,0,,That's the biggest cop-out I've ever heard.
 Dialogue: 10,0:05:21.80,0:05:27.77,Default,,0,0,0,,So basically, I'd say eating, sleeping, and...
 Dialogue: 10,0:05:27.77,0:05:30.35,Default,,0,0,0,,And rakugo! Right?
@@ -211,7 +211,7 @@ Dialogue: 10,0:10:13.18,0:10:14.51,Default,,0,0,0,,Wait...
 Dialogue: 10,0:10:16.22,0:10:18.51,Default,,0,0,0,,Did we just...
 Dialogue: 10,0:10:18.51,0:10:20.77,Default,,0,0,0,,...perfectly introduce all the main characters...
 Dialogue: 10,0:10:20.77,0:10:22.06,Default,,0,0,0,,...for non-manga readers?
-Dialogue: 10,0:10:22.06,0:10:22.77,Default,,0,0,0,,Perfectly?
+Dialogue: 10,0:10:22.06,0:10:22.77,Default,,0,0,0,,Perfectly?!
 Dialogue: 10,0:10:22.77,0:10:23.81,Default,,0,0,0,,Someone else!
 Dialogue: 10,0:10:25.81,0:10:27.77,Default,,0,0,0,,What the? He's not even in this.
 Dialogue: 10,0:10:29.28,0:10:30.65,Default,,0,0,0,,That's not a name!
@@ -382,7 +382,7 @@ Dialogue: 10,0:18:52.36,0:18:54.78,Default,,0,0,0,,Tradition.
 Dialogue: 10,0:18:54.78,0:18:55.74,Default,,0,0,0,,What the hell?
 Dialogue: 10,0:18:55.74,0:18:57.87,Default,,0,0,0,,I'm so done with you lot.
 Dialogue: 10,0:18:57.87,0:18:59.24,Default,,0,0,0,,I deffo prefer the ocean.
-Dialogue: 10,0:18:59.24,0:19:00.70,Default,,0,0,0,,Mountains. More delicious.
+Dialogue: 10,0:18:59.24,0:19:00.70,Default,,0,0,0,,Mountains. More appealing.
 Dialogue: 10,0:19:00.70,0:19:05.04,Default,,0,0,0,,{\q2}Do you mean, "Which do you prefer, \Nthe sea in winter or the mountains in winter?"
 Dialogue: 10,0:19:05.04,0:19:07.38,Default,,0,0,0,,No, let's go with summer.
 Dialogue: 10,0:19:07.38,0:19:08.67,Default,,0,0,0,,Summer...
