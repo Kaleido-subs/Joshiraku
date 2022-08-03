@@ -14,8 +14,6 @@ Audio File: [Kaleido-subs] Joshiraku (Rakugo Girls) - 13 (BD 1080p) [C18A030C].m
 Video File: [Kaleido-subs] Joshiraku (Rakugo Girls) - 13 (BD 1080p) [C18A030C].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Active Line: 6
-Video Position: 34045
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +31,7 @@ Dialogue: 0,0:07:48.41,0:07:50.91,Sign,,0,0,0,midcard,{\an7\pos(825,114)\fscx80\
 Dialogue: 1,0:07:48.41,0:07:50.91,Sign,,0,0,0,midcard,{\an7\pos(825,114)\fscx77\fscy70\frz17\fnGaramond Premr Pro Smbd Capt\c&HFEFEFE&\blur1.05\p1}m -252 -69 l 273 -69 273 65 -252 65
 Dialogue: 2,0:07:48.41,0:07:50.91,Sign,,0,0,0,midcard,{\an7\pos(825,114)\fscx74.6\fscy60\frz17\fnGaramond Premr Pro Smbd Capt\c&H000000&\blur1.05\p1}m -252 -69 l 273 -69 273 65 -252 65
 Dialogue: 3,0:07:48.41,0:07:50.91,Sign,,0,0,0,midcard,{\an7\pos(825,114)\fscx73.4\fscy54\frz17\fnGaramond Premr Pro Smbd Capt\c&HFEFEFE&\blur1.05\p1}m -252 -69 l 273 -69 273 65 -252 65
-Dialogue: 4,0:07:48.41,0:07:50.91,Sign,,0,0,0,midcard,{\pos(831,119)\fscx80\fscy80\frz17\fnBrushType-SemiBold\fs89\c&H000000&\blur1.05}Uzannu Uzattei
+Dialogue: 4,0:07:48.41,0:07:50.91,Sign,,0,0,0,midcard,{\pos(831,119)\fscx80\fscy80\frz17\fnBrushType-SemiBold\fs89\c&H000000&\blur1.05}Uzattei Uzannu
 Dialogue: 0,0:07:48.41,0:07:50.91,Sign,,0,0,0,midcard,{\pos(1560,850)\frz339\fnBrushStroke 35\fs101\c&H000000&\blur1.2}Rakugo Girls
 Dialogue: 0,0:07:48.41,0:07:50.91,Sign,,0,0,0,midcard,{\pos(1560,850)\frz339\fnBrushStroke 35\fs101\c&H000000&\blur1.2}Rakugo Girls
 Dialogue: 0,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\an7\pos(483,72)\fscx80\fscy80\frz13\fnGaramond Premr Pro Smbd Capt\c&H010000&\blur1.05\p1}m -252 -69 l 273 -69 273 65 -252 65
@@ -45,7 +43,7 @@ Dialogue: 0,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\pos(1575,816)\frz339\fnB
 Dialogue: 0,0:14:17.46,0:14:19.96,Sign,,0,0,0,midcard,{\pos(1575,816)\frz339\fnBrushStroke 35\fs101\c&H000000&\blur1.2}Rakugo Girls
 Dialogue: 0,0:04:18.86,0:04:24.45,Sign,,0,0,0,,{\an7\pos(368,170)\fscx105\fscy115\fnGaramond Premr Pro Smbd Capt\bord4.5\c&H6D6F86&\3c&H6D6F86&\blur1.5\p1}m -321 -82 l 324 -82 324 96 -321 96
 Dialogue: 1,0:04:18.86,0:04:24.45,Sign,,0,0,0,,{\an7\pos(368,170)\fscx105\fscy115\fnGaramond Premr Pro Smbd Capt\c&HE2E8FA&\4a&HFF&\blur1.5\p1}m -321 -82 l 324 -82 324 96 -321 96
-Dialogue: 2,0:04:18.86,0:04:24.45,Sign,,0,0,0,,{\pos(335,144)\fscx91\fnSmudger LET\fs143\c&H14092E&\blur1.2}Uzannu Uzattei
+Dialogue: 2,0:04:18.86,0:04:24.45,Sign,,0,0,0,,{\pos(335,144)\fscx91\fnSmudger LET\fs143\c&H14092E&\blur1.2}Uzattei Uzannu
 Dialogue: 2,0:04:18.86,0:04:24.45,Sign,,0,0,0,,{\pos(467,238)\fnSmudger LET\fs60\c&H14092E&\blur1.2}Voiced by ***ko Shin****
 Dialogue: 0,0:04:24.45,0:04:29.67,Sign,,0,0,0,,{\an7\pos(854,-4)\fnSmudger LET\fs89\c&H13120E&\blur1.2}Voiced by\N ***ko Shin****
 Dialogue: 1,0:04:44.60,0:04:50.31,Sign,,0,0,0,,{\pos(999,146)\fscx137\fscy131\frz0.604\fnAlpha54\c&H364145&\blur1.5}C{\c&H354044&}h{\c&H343F43&}e{\c&H323D41&}r{\c&H313C40&}i{\c&H303B3F&}s{\c&H2F3A3E&}h{\c&H2E393D&} {\c&H2C373B&}t{\c&H2B363A&}h{\c&H2A3539&}e{\c&H293438&} {\c&H273236&}f{\c&H263135&}l{\c&H253034&}e{\c&H242F33&}e{\c&H232E32&}t{\c&H212C30&}i{\c&H202B2F&}n{\c&H1F2A2E&}g

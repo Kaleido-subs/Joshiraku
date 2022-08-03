@@ -16,10 +16,6 @@ Audio File: [Kaleido-subs] Joshiraku (Rakugo Girls) - 05 (BD 1080p) [829E6291].m
 Video File: [Kaleido-subs] Joshiraku (Rakugo Girls) - 05 (BD 1080p) [829E6291].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 846
-Active Line: 857
-Video Position: 28379
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -407,8 +403,8 @@ Dialogue: 1,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1504,914)\fnHeisei Maru Got
 Dialogue: 0,0:19:11.83,0:19:12.63,Sign,,0,0,0,,{\pos(1504,914)\fnHeisei Maru Gothic Std-CP W8\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}Anrakutei Kukuru
 Dialogue: 1,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\pos(440,242)\fnHeisei Maru Gothic Std-CP W8\fs96\c&H111010&\blur1.2}SILK SKIN
 Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\pos(440,242)\fnHeisei Maru Gothic Std-CP W8\fs96\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}SILK SKIN
-Dialogue: 1,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\an6\pos(1627,951)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur1.2}Kigurumi \NHaroukitei
-Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\an6\pos(1627,951)\fnHeisei Maru Gothic Std-CP W8\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}Kigurumi \NHaroukitei
+Dialogue: 1,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\an6\pos(1627,951)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur1.2}Haroukitei \NKigurumi
+Dialogue: 0,0:19:13.04,0:19:13.84,Sign,,0,0,0,,{\an6\pos(1627,951)\fnHeisei Maru Gothic Std-CP W8\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}Haroukitei \NKigurumi
 Dialogue: 1,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(706,170)\fnHeisei Maru Gothic Std-CP W8\fs96\c&H111010&\blur1.2}THIN SKIN
 Dialogue: 0,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(706,170)\fnHeisei Maru Gothic Std-CP W8\fs96\bord9\shad0.015\c&HD6D6D6&\4c&HD6D6D6&\1a&HFE&\3a&HFE&\blur1.2}THIN SKIN
 Dialogue: 1,0:19:14.25,0:19:15.42,Sign,,0,0,0,,{\pos(1532,800)\fnHeisei Maru Gothic Std-CP W8\c&H111010&\blur1.2}Buratei Marii
