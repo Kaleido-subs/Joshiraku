@@ -591,225 +591,225 @@ Dialogue: 0,0:07:29.10,0:07:29.76,block,,0,0,0,,{\pos(954,831)\fscx600\fscy1026\
 Dialogue: 0,0:08:50.55,0:08:52.68,block,,0,0,0,,{\pos(976.5,1000.5)\fscx4080\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
 Dialogue: 4,0:09:06.44,0:09:08.94,block,,0,0,0,,{\pos(360,620.7)\fscx199\fscy795\frz16.54\c&H1E4E73&\blur1.5}A
 Dialogue: 0,0:09:23.21,0:09:25.21,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
-Dialogue: 0,0:10:55.18,0:10:55.22,block,,0,0,0,,{\pos(939,277.5)\fscx2039\fscy138\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.22,0:10:55.26,block,,0,0,0,,{\pos(939,277.2)\fscx2036.2\fscy137.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.26,0:10:55.30,block,,0,0,0,,{\pos(939.15,276.9)\fscx2034.9\fscy137.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.30,0:10:55.34,block,,0,0,0,,{\pos(939,276.45)\fscx2031.6\fscy137.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.34,0:10:55.38,block,,0,0,0,,{\pos(939.15,276.15)\fscx2029.7\fscy137.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.38,0:10:55.43,block,,0,0,0,,{\pos(939.3,275.85)\fscx2029.3\fscy137.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.43,0:10:55.47,block,,0,0,0,,{\pos(939.15,275.55)\fscx2025.2\fscy137.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.47,0:10:55.51,block,,0,0,0,,{\pos(939.15,275.1)\fscx2023.1\fscy136.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.51,0:10:55.55,block,,0,0,0,,{\pos(939.15,274.8)\fscx2019.8\fscy136.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.55,0:10:55.59,block,,0,0,0,,{\pos(939.3,274.5)\fscx2017.9\fscy136.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.59,0:10:55.63,block,,0,0,0,,{\pos(939.3,274.2)\fscx2016.1\fscy136.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.63,0:10:55.68,block,,0,0,0,,{\pos(939.15,273.75)\fscx2011.2\fscy136.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.68,0:10:55.72,block,,0,0,0,,{\pos(939.3,273.45)\fscx2010.2\fscy136.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.72,0:10:55.76,block,,0,0,0,,{\pos(939.3,273.15)\fscx2008.1\fscy135.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.76,0:10:55.80,block,,0,0,0,,{\pos(939.3,272.85)\fscx2006.1\fscy135.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.80,0:10:55.84,block,,0,0,0,,{\pos(939.45,272.4)\fscx2004.4\fscy135.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.84,0:10:55.89,block,,0,0,0,,{\pos(939.45,272.1)\fscx2002\fscy135.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.89,0:10:55.93,block,,0,0,0,,{\pos(939.45,271.8)\fscx2000\fscy135.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.93,0:10:55.97,block,,0,0,0,,{\pos(939.6,271.5)\fscx1997.3\fscy135.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:55.97,0:10:56.01,block,,0,0,0,,{\pos(939.6,271.05)\fscx1994.9\fscy135\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.01,0:10:56.05,block,,0,0,0,,{\pos(939.45,270.75)\fscx1991.7\fscy134.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.05,0:10:56.09,block,,0,0,0,,{\pos(939.6,270.45)\fscx1990.2\fscy134.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.09,0:10:56.14,block,,0,0,0,,{\pos(939.6,270.15)\fscx1988.5\fscy134.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.14,0:10:56.18,block,,0,0,0,,{\pos(939.6,269.85)\fscx1985.4\fscy134.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.18,0:10:56.22,block,,0,0,0,,{\pos(939.6,269.4)\fscx1982.3\fscy134.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.22,0:10:56.26,block,,0,0,0,,{\pos(939.6,269.1)\fscx1980.5\fscy134\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.26,0:10:56.30,block,,0,0,0,,{\pos(939.75,268.8)\fscx1978.9\fscy133.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.30,0:10:56.34,block,,0,0,0,,{\pos(939.75,268.5)\fscx1976.8\fscy133.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.34,0:10:56.39,block,,0,0,0,,{\pos(939.75,268.2)\fscx1974.7\fscy133.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.39,0:10:56.43,block,,0,0,0,,{\pos(939.9,267.9)\fscx1972.7\fscy133.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.43,0:10:56.47,block,,0,0,0,,{\pos(939.75,267.6)\fscx1970\fscy133.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.47,0:10:56.51,block,,0,0,0,,{\pos(939.75,267.3)\fscx1967.5\fscy133.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.51,0:10:56.55,block,,0,0,0,,{\pos(939.9,266.85)\fscx1965.1\fscy133\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.55,0:10:56.59,block,,0,0,0,,{\pos(939.9,266.55)\fscx1962.6\fscy132.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.59,0:10:56.64,block,,0,0,0,,{\pos(939.9,266.25)\fscx1960.2\fscy132.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.64,0:10:56.68,block,,0,0,0,,{\pos(939.9,265.95)\fscx1958.6\fscy132.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.68,0:10:56.72,block,,0,0,0,,{\pos(940.05,265.65)\fscx1957\fscy132.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.72,0:10:56.76,block,,0,0,0,,{\pos(940.05,265.35)\fscx1954.4\fscy132.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.76,0:10:56.80,block,,0,0,0,,{\pos(940.05,265.05)\fscx1952.2\fscy132.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.80,0:10:56.84,block,,0,0,0,,{\pos(940.05,264.6)\fscx1950.1\fscy132\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.84,0:10:56.89,block,,0,0,0,,{\pos(940.05,264.3)\fscx1947.7\fscy131.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.89,0:10:56.93,block,,0,0,0,,{\pos(940.05,264)\fscx1945.5\fscy131.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.93,0:10:56.97,block,,0,0,0,,{\pos(940.05,263.7)\fscx1943.2\fscy131.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:56.97,0:10:57.01,block,,0,0,0,,{\pos(940.05,263.4)\fscx1940.4\fscy131.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.01,0:10:57.05,block,,0,0,0,,{\pos(940.05,263.1)\fscx1937.8\fscy131.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.05,0:10:57.09,block,,0,0,0,,{\pos(940.05,262.8)\fscx1936\fscy131\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.09,0:10:57.14,block,,0,0,0,,{\pos(940.2,262.5)\fscx1934.3\fscy130.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.14,0:10:57.18,block,,0,0,0,,{\pos(940.05,262.2)\fscx1930.8\fscy130.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.18,0:10:57.22,block,,0,0,0,,{\pos(940.05,261.9)\fscx1928.4\fscy130.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.22,0:10:57.26,block,,0,0,0,,{\pos(939.9,261.45)\fscx1924.3\fscy130.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.26,0:10:57.30,block,,0,0,0,,{\pos(940.2,261.3)\fscx1924.3\fscy130.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.30,0:10:57.34,block,,0,0,0,,{\pos(940.35,261)\fscx1924.4\fscy130.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.34,0:10:57.39,block,,0,0,0,,{\pos(940.35,260.7)\fscx1921.4\fscy130\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.39,0:10:57.43,block,,0,0,0,,{\pos(940.2,260.25)\fscx1917.1\fscy129.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.43,0:10:57.47,block,,0,0,0,,{\pos(940.35,259.95)\fscx1916\fscy129.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.47,0:10:57.51,block,,0,0,0,,{\pos(940.35,259.65)\fscx1913.6\fscy129.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.51,0:10:57.55,block,,0,0,0,,{\pos(940.35,259.35)\fscx1912.2\fscy129.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.55,0:10:57.60,block,,0,0,0,,{\pos(940.35,259.05)\fscx1910\fscy129.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.60,0:10:57.64,block,,0,0,0,,{\pos(940.5,258.75)\fscx1908.4\fscy129.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.64,0:10:57.68,block,,0,0,0,,{\pos(940.5,258.45)\fscx1905.8\fscy129\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.68,0:10:57.72,block,,0,0,0,,{\pos(940.5,258.15)\fscx1903.5\fscy128.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.72,0:10:57.76,block,,0,0,0,,{\pos(940.5,257.85)\fscx1901.8\fscy128.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.76,0:10:57.80,block,,0,0,0,,{\pos(940.35,257.55)\fscx1898.7\fscy128.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.80,0:10:57.85,block,,0,0,0,,{\pos(940.5,257.25)\fscx1897.1\fscy128.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.85,0:10:57.89,block,,0,0,0,,{\pos(940.35,256.95)\fscx1892.6\fscy128.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.89,0:10:57.93,block,,0,0,0,,{\pos(940.35,256.65)\fscx1891.1\fscy128\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.93,0:10:57.97,block,,0,0,0,,{\pos(940.5,256.5)\fscx1890.6\fscy128\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:57.97,0:10:58.01,block,,0,0,0,,{\pos(940.5,256.2)\fscx1889.4\fscy127.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.01,0:10:58.05,block,,0,0,0,,{\pos(940.5,255.9)\fscx1886.2\fscy127.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.05,0:10:58.10,block,,0,0,0,,{\pos(940.35,255.45)\fscx1881.8\fscy127.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.10,0:10:58.14,block,,0,0,0,,{\pos(940.5,255.3)\fscx1882.1\fscy127.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.14,0:10:58.18,block,,0,0,0,,{\pos(940.65,255)\fscx1882.2\fscy127.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.18,0:10:58.22,block,,0,0,0,,{\pos(940.65,254.7)\fscx1878\fscy127.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.22,0:10:58.26,block,,0,0,0,,{\pos(940.5,254.4)\fscx1875.3\fscy126.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.26,0:10:58.30,block,,0,0,0,,{\pos(940.65,254.1)\fscx1873.5\fscy126.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.30,0:10:58.35,block,,0,0,0,,{\pos(940.65,253.8)\fscx1871.7\fscy126.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.35,0:10:58.39,block,,0,0,0,,{\pos(940.8,253.5)\fscx1870.6\fscy126.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.39,0:10:58.43,block,,0,0,0,,{\pos(940.8,253.2)\fscx1868.8\fscy126.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.43,0:10:58.47,block,,0,0,0,,{\pos(940.8,252.9)\fscx1866.7\fscy126.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.47,0:10:58.51,block,,0,0,0,,{\pos(940.8,252.6)\fscx1863.7\fscy126.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.51,0:10:58.55,block,,0,0,0,,{\pos(940.8,252.3)\fscx1861.2\fscy126\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.55,0:10:58.60,block,,0,0,0,,{\pos(940.8,252)\fscx1859.4\fscy125.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.60,0:10:58.64,block,,0,0,0,,{\pos(940.8,251.85)\fscx1858.1\fscy125.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.64,0:10:58.68,block,,0,0,0,,{\pos(940.8,251.55)\fscx1855.4\fscy125.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.68,0:10:58.72,block,,0,0,0,,{\pos(940.8,251.25)\fscx1852.8\fscy125.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.72,0:10:58.76,block,,0,0,0,,{\pos(940.8,250.95)\fscx1850.6\fscy125.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.76,0:10:58.80,block,,0,0,0,,{\pos(940.8,250.65)\fscx1848.8\fscy125.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.80,0:10:58.85,block,,0,0,0,,{\pos(940.65,250.35)\fscx1845.7\fscy124.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.85,0:10:58.89,block,,0,0,0,,{\pos(940.8,250.05)\fscx1844.8\fscy124.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.89,0:10:58.93,block,,0,0,0,,{\pos(940.95,249.9)\fscx1843.6\fscy124.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.93,0:10:58.97,block,,0,0,0,,{\pos(940.95,249.6)\fscx1842.5\fscy124.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:58.97,0:10:59.01,block,,0,0,0,,{\pos(940.95,249.3)\fscx1840.2\fscy124.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.01,0:10:59.05,block,,0,0,0,,{\pos(940.95,249)\fscx1837.8\fscy124.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.05,0:10:59.10,block,,0,0,0,,{\pos(940.95,248.7)\fscx1835.3\fscy124.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.10,0:10:59.14,block,,0,0,0,,{\pos(940.95,248.4)\fscx1833.2\fscy124.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.14,0:10:59.18,block,,0,0,0,,{\pos(940.95,248.1)\fscx1830.9\fscy123.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.18,0:10:59.22,block,,0,0,0,,{\pos(941.1,247.95)\fscx1830.4\fscy123.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.22,0:10:59.26,block,,0,0,0,,{\pos(940.95,247.5)\fscx1826.4\fscy123.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.26,0:10:59.31,block,,0,0,0,,{\pos(940.95,247.35)\fscx1825.2\fscy123.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.31,0:10:59.35,block,,0,0,0,,{\pos(941.1,247.05)\fscx1824.1\fscy123.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.35,0:10:59.39,block,,0,0,0,,{\pos(941.1,246.75)\fscx1821.7\fscy123.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.39,0:10:59.43,block,,0,0,0,,{\pos(941.1,246.45)\fscx1819.6\fscy123.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.43,0:10:59.47,block,,0,0,0,,{\pos(941.1,246.15)\fscx1817.4\fscy123\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.47,0:10:59.51,block,,0,0,0,,{\pos(941.1,246)\fscx1815.7\fscy122.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.51,0:10:59.56,block,,0,0,0,,{\pos(941.1,245.7)\fscx1813.7\fscy122.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.56,0:10:59.60,block,,0,0,0,,{\pos(941.1,245.4)\fscx1811.7\fscy122.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.60,0:10:59.64,block,,0,0,0,,{\pos(941.1,245.1)\fscx1810.1\fscy122.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.64,0:10:59.68,block,,0,0,0,,{\pos(941.25,244.95)\fscx1808.7\fscy122.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.68,0:10:59.72,block,,0,0,0,,{\pos(941.25,244.65)\fscx1805.9\fscy122.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.72,0:10:59.76,block,,0,0,0,,{\pos(941.25,244.35)\fscx1804.7\fscy122.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.76,0:10:59.81,block,,0,0,0,,{\pos(941.25,244.2)\fscx1802.2\fscy122\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.81,0:10:59.85,block,,0,0,0,,{\pos(941.25,243.9)\fscx1800.7\fscy121.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.85,0:10:59.89,block,,0,0,0,,{\pos(941.25,243.6)\fscx1798\fscy121.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.89,0:10:59.93,block,,0,0,0,,{\pos(941.1,243.45)\fscx1795.6\fscy121.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.93,0:10:59.97,block,,0,0,0,,{\pos(941.25,243.15)\fscx1794.4\fscy121.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:10:59.97,0:11:00.01,block,,0,0,0,,{\pos(941.25,242.85)\fscx1792.7\fscy121.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.01,0:11:00.06,block,,0,0,0,,{\pos(941.25,242.55)\fscx1790.7\fscy121.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.06,0:11:00.10,block,,0,0,0,,{\pos(941.25,242.4)\fscx1788.9\fscy121.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.10,0:11:00.14,block,,0,0,0,,{\pos(941.25,242.1)\fscx1787\fscy120.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.14,0:11:00.18,block,,0,0,0,,{\pos(941.25,241.8)\fscx1785.3\fscy120.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.18,0:11:00.22,block,,0,0,0,,{\pos(941.25,241.5)\fscx1783.3\fscy120.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.22,0:11:00.26,block,,0,0,0,,{\pos(941.4,241.35)\fscx1782\fscy120.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.26,0:11:00.31,block,,0,0,0,,{\pos(941.4,241.05)\fscx1780.5\fscy120.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.31,0:11:00.35,block,,0,0,0,,{\pos(941.25,240.75)\fscx1777.5\fscy120.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.35,0:11:00.39,block,,0,0,0,,{\pos(941.25,240.6)\fscx1775.7\fscy120.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.39,0:11:00.43,block,,0,0,0,,{\pos(941.4,240.3)\fscx1774.3\fscy120.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.43,0:11:00.47,block,,0,0,0,,{\pos(941.4,240.15)\fscx1773.4\fscy120\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.47,0:11:00.51,block,,0,0,0,,{\pos(941.4,239.85)\fscx1771.4\fscy119.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.51,0:11:00.56,block,,0,0,0,,{\pos(941.4,239.55)\fscx1769.5\fscy119.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.56,0:11:00.60,block,,0,0,0,,{\pos(941.4,239.4)\fscx1767.5\fscy119.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.60,0:11:00.64,block,,0,0,0,,{\pos(941.4,239.1)\fscx1765.3\fscy119.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.64,0:11:00.68,block,,0,0,0,,{\pos(941.4,238.8)\fscx1763.4\fscy119.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.68,0:11:00.72,block,,0,0,0,,{\pos(941.4,238.65)\fscx1761.5\fscy119.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.72,0:11:00.76,block,,0,0,0,,{\pos(941.4,238.35)\fscx1759.7\fscy119.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.76,0:11:00.81,block,,0,0,0,,{\pos(941.4,238.2)\fscx1758.2\fscy119\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.81,0:11:00.85,block,,0,0,0,,{\pos(941.4,237.9)\fscx1756.1\fscy118.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.85,0:11:00.89,block,,0,0,0,,{\pos(941.4,237.75)\fscx1754.3\fscy118.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.89,0:11:00.93,block,,0,0,0,,{\pos(941.4,237.45)\fscx1753\fscy118.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.93,0:11:00.97,block,,0,0,0,,{\pos(941.4,237.15)\fscx1751.1\fscy118.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:00.97,0:11:01.02,block,,0,0,0,,{\pos(941.4,237)\fscx1749.2\fscy118.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.02,0:11:01.06,block,,0,0,0,,{\pos(941.4,236.7)\fscx1747.2\fscy118.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.06,0:11:01.10,block,,0,0,0,,{\pos(941.4,236.55)\fscx1745.4\fscy118.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.10,0:11:01.14,block,,0,0,0,,{\pos(941.4,236.25)\fscx1743.5\fscy118\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.14,0:11:01.18,block,,0,0,0,,{\pos(941.4,236.1)\fscx1742.2\fscy117.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.18,0:11:01.22,block,,0,0,0,,{\pos(941.4,235.8)\fscx1740.5\fscy117.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.22,0:11:01.27,block,,0,0,0,,{\pos(941.4,235.65)\fscx1738.8\fscy117.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.27,0:11:01.31,block,,0,0,0,,{\pos(941.4,235.35)\fscx1737.3\fscy117.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.31,0:11:01.35,block,,0,0,0,,{\pos(941.4,235.2)\fscx1736\fscy117.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.35,0:11:01.39,block,,0,0,0,,{\pos(941.4,234.9)\fscx1734.2\fscy117.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.39,0:11:01.43,block,,0,0,0,,{\pos(941.55,234.75)\fscx1733.3\fscy117.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.43,0:11:01.47,block,,0,0,0,,{\pos(941.55,234.6)\fscx1731.6\fscy117.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.47,0:11:01.52,block,,0,0,0,,{\pos(941.55,234.45)\fscx1730.7\fscy117.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.52,0:11:01.56,block,,0,0,0,,{\pos(941.55,234.15)\fscx1728.8\fscy117\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.56,0:11:01.60,block,,0,0,0,,{\pos(941.55,234)\fscx1727.1\fscy116.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.60,0:11:01.64,block,,0,0,0,,{\pos(941.55,233.7)\fscx1725\fscy116.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.64,0:11:01.68,block,,0,0,0,,{\pos(941.55,233.55)\fscx1723.3\fscy116.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.68,0:11:01.72,block,,0,0,0,,{\pos(941.4,233.4)\fscx1721.6\fscy116.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.72,0:11:01.77,block,,0,0,0,,{\pos(941.55,233.1)\fscx1720.2\fscy116.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.77,0:11:01.81,block,,0,0,0,,{\pos(941.55,232.95)\fscx1719.1\fscy116.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.81,0:11:01.85,block,,0,0,0,,{\pos(941.55,232.8)\fscx1718.2\fscy116.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.85,0:11:01.89,block,,0,0,0,,{\pos(941.55,232.65)\fscx1716.9\fscy116.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.89,0:11:01.93,block,,0,0,0,,{\pos(941.55,232.5)\fscx1715.8\fscy116.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.93,0:11:01.97,block,,0,0,0,,{\pos(941.7,232.2)\fscx1714.9\fscy116.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:01.97,0:11:02.02,block,,0,0,0,,{\pos(941.7,232.05)\fscx1713.9\fscy116\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.02,0:11:02.06,block,,0,0,0,,{\pos(941.7,231.9)\fscx1712.5\fscy115.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.06,0:11:02.10,block,,0,0,0,,{\pos(941.7,231.75)\fscx1711.2\fscy115.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.10,0:11:02.14,block,,0,0,0,,{\pos(941.7,231.6)\fscx1709.9\fscy115.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.14,0:11:02.18,block,,0,0,0,,{\pos(941.7,231.45)\fscx1708.4\fscy115.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.18,0:11:02.22,block,,0,0,0,,{\pos(941.7,231.15)\fscx1706.5\fscy115.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.22,0:11:02.27,block,,0,0,0,,{\pos(941.7,231.15)\fscx1706\fscy115.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.27,0:11:02.31,block,,0,0,0,,{\pos(941.7,231)\fscx1704.8\fscy115.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.31,0:11:02.35,block,,0,0,0,,{\pos(941.7,230.85)\fscx1703.7\fscy115.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.35,0:11:02.39,block,,0,0,0,,{\pos(941.7,230.7)\fscx1702.9\fscy115.3\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.39,0:11:02.43,block,,0,0,0,,{\pos(941.7,230.55)\fscx1702\fscy115.2\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.43,0:11:02.47,block,,0,0,0,,{\pos(941.7,230.4)\fscx1701.1\fscy115.1\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.47,0:11:02.52,block,,0,0,0,,{\pos(941.7,230.25)\fscx1699.8\fscy115\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.52,0:11:02.56,block,,0,0,0,,{\pos(941.7,230.25)\fscx1698.8\fscy115\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.56,0:11:02.60,block,,0,0,0,,{\pos(941.7,230.1)\fscx1698.1\fscy114.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.60,0:11:02.64,block,,0,0,0,,{\pos(941.7,229.95)\fscx1697\fscy114.9\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.64,0:11:02.68,block,,0,0,0,,{\pos(941.7,229.8)\fscx1696\fscy114.8\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.68,0:11:02.73,block,,0,0,0,,{\pos(941.7,229.65)\fscx1695\fscy114.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.73,0:11:02.77,block,,0,0,0,,{\pos(941.7,229.65)\fscx1694.4\fscy114.7\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.77,0:11:02.81,block,,0,0,0,,{\pos(941.7,229.65)\fscx1693.9\fscy114.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.81,0:11:02.85,block,,0,0,0,,{\pos(941.7,229.5)\fscx1693\fscy114.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.85,0:11:02.89,block,,0,0,0,,{\pos(941.7,229.35)\fscx1692.7\fscy114.6\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.89,0:11:02.93,block,,0,0,0,,{\pos(941.55,229.35)\fscx1692.5\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.93,0:11:02.98,block,,0,0,0,,{\pos(941.7,229.35)\fscx1692.1\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:02.98,0:11:03.02,block,,0,0,0,,{\pos(941.7,229.35)\fscx1691.8\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.02,0:11:03.06,block,,0,0,0,,{\pos(941.55,229.2)\fscx1691.2\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.06,0:11:03.10,block,,0,0,0,,{\pos(941.55,229.2)\fscx1690.8\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.10,0:11:03.27,block,,0,0,0,,{\pos(941.55,229.2)\fscx1690.6\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.27,0:11:03.31,block,,0,0,0,,{\pos(941.55,229.2)\fscx1690.7\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.31,0:11:03.43,block,,0,0,0,,{\pos(941.7,229.2)\fscx1690.9\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.43,0:11:03.52,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.52,0:11:03.60,block,,0,0,0,,{\pos(941.7,229.2)\fscx1690.8\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.60,0:11:03.64,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.64,0:11:03.68,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.68,0:11:03.73,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.73,0:11:03.77,block,,0,0,0,,{\pos(941.7,229.2)\fscx1690.7\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.77,0:11:03.81,block,,0,0,0,,{\pos(941.7,229.2)\fscx1690.8\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.81,0:11:03.85,block,,0,0,0,,{\pos(941.7,229.2)\fscx1690.9\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.85,0:11:03.89,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.89,0:11:03.93,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.1\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.93,0:11:03.98,block,,0,0,0,,{\pos(941.7,229.2)\fscx1690.9\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:03.98,0:11:04.02,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691\fscy114.4\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.02,0:11:04.10,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.1\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.10,0:11:04.14,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.2\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.14,0:11:04.18,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.1\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.18,0:11:04.23,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.2\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.23,0:11:04.27,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.3\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.27,0:11:04.35,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.4\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.35,0:11:04.52,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.3\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.52,0:11:04.56,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.4\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.56,0:11:04.64,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.2\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.64,0:11:04.73,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.3\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.73,0:11:04.77,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.4\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.77,0:11:04.89,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.2\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.89,0:11:04.98,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.3\fscy114.5\c&HF0EFCD&\blur3}A
-Dialogue: 0,0:11:04.98,0:11:05.14,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.2\fscy114.5\c&HF0EFCD&\blur3}A
+Dialogue: 0,0:10:55.18,0:10:55.22,block,,0,0,0,,{\pos(939,277.5)\fscx2039\fscy138\blur3\c&HF0EFCD&}A
+Dialogue: 0,0:10:55.22,0:10:55.26,block,,0,0,0,,{\pos(939,277.2)\blur3\c&HF0EFCD&\fscx2037.405\fscy137.892}A
+Dialogue: 0,0:10:55.26,0:10:55.30,block,,0,0,0,,{\pos(939.15,276.9)\blur3\c&HF0EFCD&\fscx2035.809\fscy137.784}A
+Dialogue: 0,0:10:55.30,0:10:55.34,block,,0,0,0,,{\pos(939,276.45)\blur3\c&HF0EFCD&\fscx2034.214\fscy137.677}A
+Dialogue: 0,0:10:55.34,0:10:55.38,block,,0,0,0,,{\pos(939.15,276.15)\blur3\c&HF0EFCD&\fscx2032.618\fscy137.569}A
+Dialogue: 0,0:10:55.38,0:10:55.43,block,,0,0,0,,{\pos(939.3,275.85)\blur3\c&HF0EFCD&\fscx2031.023\fscy137.461}A
+Dialogue: 0,0:10:55.43,0:10:55.47,block,,0,0,0,,{\pos(939.15,275.55)\blur3\c&HF0EFCD&\fscx2029.428\fscy137.353}A
+Dialogue: 0,0:10:55.47,0:10:55.51,block,,0,0,0,,{\pos(939.15,275.1)\blur3\c&HF0EFCD&\fscx2027.832\fscy137.245}A
+Dialogue: 0,0:10:55.51,0:10:55.55,block,,0,0,0,,{\pos(939.15,274.8)\blur3\c&HF0EFCD&\fscx2026.237\fscy137.138}A
+Dialogue: 0,0:10:55.55,0:10:55.59,block,,0,0,0,,{\pos(939.3,274.5)\blur3\c&HF0EFCD&\fscx2024.641\fscy137.03}A
+Dialogue: 0,0:10:55.59,0:10:55.63,block,,0,0,0,,{\pos(939.3,274.2)\blur3\c&HF0EFCD&\fscx2023.046\fscy136.922}A
+Dialogue: 0,0:10:55.63,0:10:55.68,block,,0,0,0,,{\pos(939.15,273.75)\blur3\c&HF0EFCD&\fscx2021.45\fscy136.814}A
+Dialogue: 0,0:10:55.68,0:10:55.72,block,,0,0,0,,{\pos(939.3,273.45)\blur3\c&HF0EFCD&\fscx2019.855\fscy136.706}A
+Dialogue: 0,0:10:55.72,0:10:55.76,block,,0,0,0,,{\pos(939.3,273.15)\blur3\c&HF0EFCD&\fscx2018.26\fscy136.599}A
+Dialogue: 0,0:10:55.76,0:10:55.80,block,,0,0,0,,{\pos(939.3,272.85)\blur3\c&HF0EFCD&\fscx2016.664\fscy136.491}A
+Dialogue: 0,0:10:55.80,0:10:55.84,block,,0,0,0,,{\pos(939.45,272.4)\blur3\c&HF0EFCD&\fscx2015.069\fscy136.383}A
+Dialogue: 0,0:10:55.84,0:10:55.89,block,,0,0,0,,{\pos(939.45,272.1)\blur3\c&HF0EFCD&\fscx2013.473\fscy136.275}A
+Dialogue: 0,0:10:55.89,0:10:55.93,block,,0,0,0,,{\pos(939.45,271.8)\blur3\c&HF0EFCD&\fscx2011.878\fscy136.167}A
+Dialogue: 0,0:10:55.93,0:10:55.97,block,,0,0,0,,{\pos(939.6,271.5)\blur3\c&HF0EFCD&\fscx2010.283\fscy136.06}A
+Dialogue: 0,0:10:55.97,0:10:56.01,block,,0,0,0,,{\pos(939.6,271.05)\blur3\c&HF0EFCD&\fscx2008.687\fscy135.952}A
+Dialogue: 0,0:10:56.01,0:10:56.05,block,,0,0,0,,{\pos(939.45,270.75)\blur3\c&HF0EFCD&\fscx2007.092\fscy135.844}A
+Dialogue: 0,0:10:56.05,0:10:56.09,block,,0,0,0,,{\pos(939.6,270.45)\blur3\c&HF0EFCD&\fscx2005.496\fscy135.736}A
+Dialogue: 0,0:10:56.09,0:10:56.14,block,,0,0,0,,{\pos(939.6,270.15)\blur3\c&HF0EFCD&\fscx2003.901\fscy135.628}A
+Dialogue: 0,0:10:56.14,0:10:56.18,block,,0,0,0,,{\pos(939.6,269.85)\blur3\c&HF0EFCD&\fscx2002.306\fscy135.521}A
+Dialogue: 0,0:10:56.18,0:10:56.22,block,,0,0,0,,{\pos(939.6,269.4)\blur3\c&HF0EFCD&\fscx2000.71\fscy135.413}A
+Dialogue: 0,0:10:56.22,0:10:56.26,block,,0,0,0,,{\pos(939.6,269.1)\blur3\c&HF0EFCD&\fscx1999.115\fscy135.305}A
+Dialogue: 0,0:10:56.26,0:10:56.30,block,,0,0,0,,{\pos(939.75,268.8)\blur3\c&HF0EFCD&\fscx1997.519\fscy135.197}A
+Dialogue: 0,0:10:56.30,0:10:56.34,block,,0,0,0,,{\pos(939.75,268.5)\blur3\c&HF0EFCD&\fscx1995.924\fscy135.089}A
+Dialogue: 0,0:10:56.34,0:10:56.39,block,,0,0,0,,{\pos(939.75,268.2)\blur3\c&HF0EFCD&\fscx1994.328\fscy134.982}A
+Dialogue: 0,0:10:56.39,0:10:56.43,block,,0,0,0,,{\pos(939.9,267.9)\blur3\c&HF0EFCD&\fscx1992.733\fscy134.874}A
+Dialogue: 0,0:10:56.43,0:10:56.47,block,,0,0,0,,{\pos(939.75,267.6)\blur3\c&HF0EFCD&\fscx1991.138\fscy134.766}A
+Dialogue: 0,0:10:56.47,0:10:56.51,block,,0,0,0,,{\pos(939.75,267.3)\blur3\c&HF0EFCD&\fscx1989.542\fscy134.658}A
+Dialogue: 0,0:10:56.51,0:10:56.55,block,,0,0,0,,{\pos(939.9,266.85)\blur3\c&HF0EFCD&\fscx1987.947\fscy134.55}A
+Dialogue: 0,0:10:56.55,0:10:56.59,block,,0,0,0,,{\pos(939.9,266.55)\blur3\c&HF0EFCD&\fscx1986.351\fscy134.443}A
+Dialogue: 0,0:10:56.59,0:10:56.64,block,,0,0,0,,{\pos(939.9,266.25)\blur3\c&HF0EFCD&\fscx1984.756\fscy134.335}A
+Dialogue: 0,0:10:56.64,0:10:56.68,block,,0,0,0,,{\pos(939.9,265.95)\blur3\c&HF0EFCD&\fscx1983.161\fscy134.227}A
+Dialogue: 0,0:10:56.68,0:10:56.72,block,,0,0,0,,{\pos(940.05,265.65)\blur3\c&HF0EFCD&\fscx1981.565\fscy134.119}A
+Dialogue: 0,0:10:56.72,0:10:56.76,block,,0,0,0,,{\pos(940.05,265.35)\blur3\c&HF0EFCD&\fscx1979.97\fscy134.011}A
+Dialogue: 0,0:10:56.76,0:10:56.80,block,,0,0,0,,{\pos(940.05,265.05)\blur3\c&HF0EFCD&\fscx1978.374\fscy133.904}A
+Dialogue: 0,0:10:56.80,0:10:56.84,block,,0,0,0,,{\pos(940.05,264.6)\blur3\c&HF0EFCD&\fscx1976.779\fscy133.796}A
+Dialogue: 0,0:10:56.84,0:10:56.89,block,,0,0,0,,{\pos(940.05,264.3)\blur3\c&HF0EFCD&\fscx1975.183\fscy133.688}A
+Dialogue: 0,0:10:56.89,0:10:56.93,block,,0,0,0,,{\pos(940.05,264)\blur3\c&HF0EFCD&\fscx1973.588\fscy133.58}A
+Dialogue: 0,0:10:56.93,0:10:56.97,block,,0,0,0,,{\pos(940.05,263.7)\blur3\c&HF0EFCD&\fscx1971.993\fscy133.472}A
+Dialogue: 0,0:10:56.97,0:10:57.01,block,,0,0,0,,{\pos(940.05,263.4)\blur3\c&HF0EFCD&\fscx1970.397\fscy133.365}A
+Dialogue: 0,0:10:57.01,0:10:57.05,block,,0,0,0,,{\pos(940.05,263.1)\blur3\c&HF0EFCD&\fscx1968.802\fscy133.257}A
+Dialogue: 0,0:10:57.05,0:10:57.09,block,,0,0,0,,{\pos(940.05,262.8)\blur3\c&HF0EFCD&\fscx1967.206\fscy133.149}A
+Dialogue: 0,0:10:57.09,0:10:57.14,block,,0,0,0,,{\pos(940.2,262.5)\blur3\c&HF0EFCD&\fscx1965.611\fscy133.041}A
+Dialogue: 0,0:10:57.14,0:10:57.18,block,,0,0,0,,{\pos(940.05,262.2)\blur3\c&HF0EFCD&\fscx1964.016\fscy132.933}A
+Dialogue: 0,0:10:57.18,0:10:57.22,block,,0,0,0,,{\pos(940.05,261.9)\blur3\c&HF0EFCD&\fscx1962.42\fscy132.826}A
+Dialogue: 0,0:10:57.22,0:10:57.26,block,,0,0,0,,{\pos(939.9,261.45)\blur3\c&HF0EFCD&\fscx1960.825\fscy132.718}A
+Dialogue: 0,0:10:57.26,0:10:57.30,block,,0,0,0,,{\pos(940.2,261.3)\blur3\c&HF0EFCD&\fscx1959.229\fscy132.61}A
+Dialogue: 0,0:10:57.30,0:10:57.34,block,,0,0,0,,{\pos(940.35,261)\blur3\c&HF0EFCD&\fscx1957.634\fscy132.502}A
+Dialogue: 0,0:10:57.34,0:10:57.39,block,,0,0,0,,{\pos(940.35,260.7)\blur3\c&HF0EFCD&\fscx1956.039\fscy132.394}A
+Dialogue: 0,0:10:57.39,0:10:57.43,block,,0,0,0,,{\pos(940.2,260.25)\blur3\c&HF0EFCD&\fscx1954.443\fscy132.287}A
+Dialogue: 0,0:10:57.43,0:10:57.47,block,,0,0,0,,{\pos(940.35,259.95)\blur3\c&HF0EFCD&\fscx1952.848\fscy132.179}A
+Dialogue: 0,0:10:57.47,0:10:57.51,block,,0,0,0,,{\pos(940.35,259.65)\blur3\c&HF0EFCD&\fscx1951.252\fscy132.071}A
+Dialogue: 0,0:10:57.51,0:10:57.55,block,,0,0,0,,{\pos(940.35,259.35)\blur3\c&HF0EFCD&\fscx1949.657\fscy131.963}A
+Dialogue: 0,0:10:57.55,0:10:57.60,block,,0,0,0,,{\pos(940.35,259.05)\blur3\c&HF0EFCD&\fscx1948.061\fscy131.856}A
+Dialogue: 0,0:10:57.60,0:10:57.64,block,,0,0,0,,{\pos(940.5,258.75)\blur3\c&HF0EFCD&\fscx1946.466\fscy131.748}A
+Dialogue: 0,0:10:57.64,0:10:57.68,block,,0,0,0,,{\pos(940.5,258.45)\blur3\c&HF0EFCD&\fscx1944.871\fscy131.64}A
+Dialogue: 0,0:10:57.68,0:10:57.72,block,,0,0,0,,{\pos(940.5,258.15)\blur3\c&HF0EFCD&\fscx1943.275\fscy131.532}A
+Dialogue: 0,0:10:57.72,0:10:57.76,block,,0,0,0,,{\pos(940.5,257.85)\blur3\c&HF0EFCD&\fscx1941.68\fscy131.424}A
+Dialogue: 0,0:10:57.76,0:10:57.80,block,,0,0,0,,{\pos(940.35,257.55)\blur3\c&HF0EFCD&\fscx1940.084\fscy131.317}A
+Dialogue: 0,0:10:57.80,0:10:57.85,block,,0,0,0,,{\pos(940.5,257.25)\blur3\c&HF0EFCD&\fscx1938.489\fscy131.209}A
+Dialogue: 0,0:10:57.85,0:10:57.89,block,,0,0,0,,{\pos(940.35,256.95)\blur3\c&HF0EFCD&\fscx1936.894\fscy131.101}A
+Dialogue: 0,0:10:57.89,0:10:57.93,block,,0,0,0,,{\pos(940.35,256.65)\blur3\c&HF0EFCD&\fscx1935.298\fscy130.993}A
+Dialogue: 0,0:10:57.93,0:10:57.97,block,,0,0,0,,{\pos(940.5,256.5)\blur3\c&HF0EFCD&\fscx1933.703\fscy130.885}A
+Dialogue: 0,0:10:57.97,0:10:58.01,block,,0,0,0,,{\pos(940.5,256.2)\blur3\c&HF0EFCD&\fscx1932.107\fscy130.778}A
+Dialogue: 0,0:10:58.01,0:10:58.05,block,,0,0,0,,{\pos(940.5,255.9)\blur3\c&HF0EFCD&\fscx1930.512\fscy130.67}A
+Dialogue: 0,0:10:58.05,0:10:58.10,block,,0,0,0,,{\pos(940.35,255.45)\blur3\c&HF0EFCD&\fscx1928.917\fscy130.562}A
+Dialogue: 0,0:10:58.10,0:10:58.14,block,,0,0,0,,{\pos(940.5,255.3)\blur3\c&HF0EFCD&\fscx1927.321\fscy130.454}A
+Dialogue: 0,0:10:58.14,0:10:58.18,block,,0,0,0,,{\pos(940.65,255)\blur3\c&HF0EFCD&\fscx1925.726\fscy130.346}A
+Dialogue: 0,0:10:58.18,0:10:58.22,block,,0,0,0,,{\pos(940.65,254.7)\blur3\c&HF0EFCD&\fscx1924.13\fscy130.239}A
+Dialogue: 0,0:10:58.22,0:10:58.26,block,,0,0,0,,{\pos(940.5,254.4)\blur3\c&HF0EFCD&\fscx1922.535\fscy130.131}A
+Dialogue: 0,0:10:58.26,0:10:58.30,block,,0,0,0,,{\pos(940.65,254.1)\blur3\c&HF0EFCD&\fscx1920.939\fscy130.023}A
+Dialogue: 0,0:10:58.30,0:10:58.35,block,,0,0,0,,{\pos(940.65,253.8)\blur3\c&HF0EFCD&\fscx1919.344\fscy129.915}A
+Dialogue: 0,0:10:58.35,0:10:58.39,block,,0,0,0,,{\pos(940.8,253.5)\blur3\c&HF0EFCD&\fscx1917.749\fscy129.807}A
+Dialogue: 0,0:10:58.39,0:10:58.43,block,,0,0,0,,{\pos(940.8,253.2)\blur3\c&HF0EFCD&\fscx1916.153\fscy129.7}A
+Dialogue: 0,0:10:58.43,0:10:58.47,block,,0,0,0,,{\pos(940.8,252.9)\blur3\c&HF0EFCD&\fscx1914.558\fscy129.592}A
+Dialogue: 0,0:10:58.47,0:10:58.51,block,,0,0,0,,{\pos(940.8,252.6)\blur3\c&HF0EFCD&\fscx1912.962\fscy129.484}A
+Dialogue: 0,0:10:58.51,0:10:58.55,block,,0,0,0,,{\pos(940.8,252.3)\blur3\c&HF0EFCD&\fscx1911.367\fscy129.376}A
+Dialogue: 0,0:10:58.55,0:10:58.60,block,,0,0,0,,{\pos(940.8,252)\blur3\c&HF0EFCD&\fscx1909.772\fscy129.268}A
+Dialogue: 0,0:10:58.60,0:10:58.64,block,,0,0,0,,{\pos(940.8,251.85)\blur3\c&HF0EFCD&\fscx1908.176\fscy129.161}A
+Dialogue: 0,0:10:58.64,0:10:58.68,block,,0,0,0,,{\pos(940.8,251.55)\blur3\c&HF0EFCD&\fscx1906.581\fscy129.053}A
+Dialogue: 0,0:10:58.68,0:10:58.72,block,,0,0,0,,{\pos(940.8,251.25)\blur3\c&HF0EFCD&\fscx1904.985\fscy128.945}A
+Dialogue: 0,0:10:58.72,0:10:58.76,block,,0,0,0,,{\pos(940.8,250.95)\blur3\c&HF0EFCD&\fscx1903.39\fscy128.837}A
+Dialogue: 0,0:10:58.76,0:10:58.80,block,,0,0,0,,{\pos(940.8,250.65)\blur3\c&HF0EFCD&\fscx1901.794\fscy128.729}A
+Dialogue: 0,0:10:58.80,0:10:58.85,block,,0,0,0,,{\pos(940.65,250.35)\blur3\c&HF0EFCD&\fscx1900.199\fscy128.622}A
+Dialogue: 0,0:10:58.85,0:10:58.89,block,,0,0,0,,{\pos(940.8,250.05)\blur3\c&HF0EFCD&\fscx1898.604\fscy128.514}A
+Dialogue: 0,0:10:58.89,0:10:58.93,block,,0,0,0,,{\pos(940.95,249.9)\blur3\c&HF0EFCD&\fscx1897.008\fscy128.406}A
+Dialogue: 0,0:10:58.93,0:10:58.97,block,,0,0,0,,{\pos(940.95,249.6)\blur3\c&HF0EFCD&\fscx1895.413\fscy128.298}A
+Dialogue: 0,0:10:58.97,0:10:59.01,block,,0,0,0,,{\pos(940.95,249.3)\blur3\c&HF0EFCD&\fscx1893.817\fscy128.19}A
+Dialogue: 0,0:10:59.01,0:10:59.05,block,,0,0,0,,{\pos(940.95,249)\blur3\c&HF0EFCD&\fscx1892.222\fscy128.083}A
+Dialogue: 0,0:10:59.05,0:10:59.10,block,,0,0,0,,{\pos(940.95,248.7)\blur3\c&HF0EFCD&\fscx1890.627\fscy127.975}A
+Dialogue: 0,0:10:59.10,0:10:59.14,block,,0,0,0,,{\pos(940.95,248.4)\blur3\c&HF0EFCD&\fscx1889.031\fscy127.867}A
+Dialogue: 0,0:10:59.14,0:10:59.18,block,,0,0,0,,{\pos(940.95,248.1)\blur3\c&HF0EFCD&\fscx1887.436\fscy127.759}A
+Dialogue: 0,0:10:59.18,0:10:59.22,block,,0,0,0,,{\pos(941.1,247.95)\blur3\c&HF0EFCD&\fscx1885.84\fscy127.651}A
+Dialogue: 0,0:10:59.22,0:10:59.26,block,,0,0,0,,{\pos(940.95,247.5)\blur3\c&HF0EFCD&\fscx1884.245\fscy127.544}A
+Dialogue: 0,0:10:59.26,0:10:59.31,block,,0,0,0,,{\pos(940.95,247.35)\blur3\c&HF0EFCD&\fscx1882.65\fscy127.436}A
+Dialogue: 0,0:10:59.31,0:10:59.35,block,,0,0,0,,{\pos(941.1,247.05)\blur3\c&HF0EFCD&\fscx1881.054\fscy127.328}A
+Dialogue: 0,0:10:59.35,0:10:59.39,block,,0,0,0,,{\pos(941.1,246.75)\blur3\c&HF0EFCD&\fscx1879.459\fscy127.22}A
+Dialogue: 0,0:10:59.39,0:10:59.43,block,,0,0,0,,{\pos(941.1,246.45)\blur3\c&HF0EFCD&\fscx1877.863\fscy127.112}A
+Dialogue: 0,0:10:59.43,0:10:59.47,block,,0,0,0,,{\pos(941.1,246.15)\blur3\c&HF0EFCD&\fscx1876.268\fscy127.005}A
+Dialogue: 0,0:10:59.47,0:10:59.51,block,,0,0,0,,{\pos(941.1,246)\blur3\c&HF0EFCD&\fscx1874.672\fscy126.897}A
+Dialogue: 0,0:10:59.51,0:10:59.56,block,,0,0,0,,{\pos(941.1,245.7)\blur3\c&HF0EFCD&\fscx1873.077\fscy126.789}A
+Dialogue: 0,0:10:59.56,0:10:59.60,block,,0,0,0,,{\pos(941.1,245.4)\blur3\c&HF0EFCD&\fscx1871.482\fscy126.681}A
+Dialogue: 0,0:10:59.60,0:10:59.64,block,,0,0,0,,{\pos(941.1,245.1)\blur3\c&HF0EFCD&\fscx1869.886\fscy126.573}A
+Dialogue: 0,0:10:59.64,0:10:59.68,block,,0,0,0,,{\pos(941.25,244.95)\blur3\c&HF0EFCD&\fscx1868.291\fscy126.466}A
+Dialogue: 0,0:10:59.68,0:10:59.72,block,,0,0,0,,{\pos(941.25,244.65)\blur3\c&HF0EFCD&\fscx1866.695\fscy126.358}A
+Dialogue: 0,0:10:59.72,0:10:59.76,block,,0,0,0,,{\pos(941.25,244.35)\blur3\c&HF0EFCD&\fscx1865.1\fscy126.25}A
+Dialogue: 0,0:10:59.76,0:10:59.81,block,,0,0,0,,{\pos(941.25,244.2)\blur3\c&HF0EFCD&\fscx1863.505\fscy126.142}A
+Dialogue: 0,0:10:59.81,0:10:59.85,block,,0,0,0,,{\pos(941.25,243.9)\blur3\c&HF0EFCD&\fscx1861.909\fscy126.034}A
+Dialogue: 0,0:10:59.85,0:10:59.89,block,,0,0,0,,{\pos(941.25,243.6)\blur3\c&HF0EFCD&\fscx1860.314\fscy125.927}A
+Dialogue: 0,0:10:59.89,0:10:59.93,block,,0,0,0,,{\pos(941.1,243.45)\blur3\c&HF0EFCD&\fscx1858.718\fscy125.819}A
+Dialogue: 0,0:10:59.93,0:10:59.97,block,,0,0,0,,{\pos(941.25,243.15)\blur3\c&HF0EFCD&\fscx1857.123\fscy125.711}A
+Dialogue: 0,0:10:59.97,0:11:00.01,block,,0,0,0,,{\pos(941.25,242.85)\blur3\c&HF0EFCD&\fscx1855.528\fscy125.603}A
+Dialogue: 0,0:11:00.01,0:11:00.06,block,,0,0,0,,{\pos(941.25,242.55)\blur3\c&HF0EFCD&\fscx1853.932\fscy125.495}A
+Dialogue: 0,0:11:00.06,0:11:00.10,block,,0,0,0,,{\pos(941.25,242.4)\blur3\c&HF0EFCD&\fscx1852.337\fscy125.388}A
+Dialogue: 0,0:11:00.10,0:11:00.14,block,,0,0,0,,{\pos(941.25,242.1)\blur3\c&HF0EFCD&\fscx1850.741\fscy125.28}A
+Dialogue: 0,0:11:00.14,0:11:00.18,block,,0,0,0,,{\pos(941.25,241.8)\blur3\c&HF0EFCD&\fscx1849.146\fscy125.172}A
+Dialogue: 0,0:11:00.18,0:11:00.22,block,,0,0,0,,{\pos(941.25,241.5)\blur3\c&HF0EFCD&\fscx1847.55\fscy125.064}A
+Dialogue: 0,0:11:00.22,0:11:00.26,block,,0,0,0,,{\pos(941.4,241.35)\blur3\c&HF0EFCD&\fscx1845.955\fscy124.956}A
+Dialogue: 0,0:11:00.26,0:11:00.31,block,,0,0,0,,{\pos(941.4,241.05)\blur3\c&HF0EFCD&\fscx1844.36\fscy124.849}A
+Dialogue: 0,0:11:00.31,0:11:00.35,block,,0,0,0,,{\pos(941.25,240.75)\blur3\c&HF0EFCD&\fscx1842.764\fscy124.741}A
+Dialogue: 0,0:11:00.35,0:11:00.39,block,,0,0,0,,{\pos(941.25,240.6)\blur3\c&HF0EFCD&\fscx1841.169\fscy124.633}A
+Dialogue: 0,0:11:00.39,0:11:00.43,block,,0,0,0,,{\pos(941.4,240.3)\blur3\c&HF0EFCD&\fscx1839.573\fscy124.525}A
+Dialogue: 0,0:11:00.43,0:11:00.47,block,,0,0,0,,{\pos(941.4,240.15)\blur3\c&HF0EFCD&\fscx1837.978\fscy124.417}A
+Dialogue: 0,0:11:00.47,0:11:00.51,block,,0,0,0,,{\pos(941.4,239.85)\blur3\c&HF0EFCD&\fscx1836.383\fscy124.31}A
+Dialogue: 0,0:11:00.51,0:11:00.56,block,,0,0,0,,{\pos(941.4,239.55)\blur3\c&HF0EFCD&\fscx1834.787\fscy124.202}A
+Dialogue: 0,0:11:00.56,0:11:00.60,block,,0,0,0,,{\pos(941.4,239.4)\blur3\c&HF0EFCD&\fscx1833.192\fscy124.094}A
+Dialogue: 0,0:11:00.60,0:11:00.64,block,,0,0,0,,{\pos(941.4,239.1)\blur3\c&HF0EFCD&\fscx1831.596\fscy123.986}A
+Dialogue: 0,0:11:00.64,0:11:00.68,block,,0,0,0,,{\pos(941.4,238.8)\blur3\c&HF0EFCD&\fscx1830.001\fscy123.878}A
+Dialogue: 0,0:11:00.68,0:11:00.72,block,,0,0,0,,{\pos(941.4,238.65)\blur3\c&HF0EFCD&\fscx1828.406\fscy123.771}A
+Dialogue: 0,0:11:00.72,0:11:00.76,block,,0,0,0,,{\pos(941.4,238.35)\blur3\c&HF0EFCD&\fscx1826.81\fscy123.663}A
+Dialogue: 0,0:11:00.76,0:11:00.81,block,,0,0,0,,{\pos(941.4,238.2)\blur3\c&HF0EFCD&\fscx1825.215\fscy123.555}A
+Dialogue: 0,0:11:00.81,0:11:00.85,block,,0,0,0,,{\pos(941.4,237.9)\blur3\c&HF0EFCD&\fscx1823.619\fscy123.447}A
+Dialogue: 0,0:11:00.85,0:11:00.89,block,,0,0,0,,{\pos(941.4,237.75)\blur3\c&HF0EFCD&\fscx1822.024\fscy123.339}A
+Dialogue: 0,0:11:00.89,0:11:00.93,block,,0,0,0,,{\pos(941.4,237.45)\blur3\c&HF0EFCD&\fscx1820.428\fscy123.232}A
+Dialogue: 0,0:11:00.93,0:11:00.97,block,,0,0,0,,{\pos(941.4,237.15)\blur3\c&HF0EFCD&\fscx1818.833\fscy123.124}A
+Dialogue: 0,0:11:00.97,0:11:01.02,block,,0,0,0,,{\pos(941.4,237)\blur3\c&HF0EFCD&\fscx1817.238\fscy123.016}A
+Dialogue: 0,0:11:01.02,0:11:01.06,block,,0,0,0,,{\pos(941.4,236.7)\blur3\c&HF0EFCD&\fscx1815.642\fscy122.908}A
+Dialogue: 0,0:11:01.06,0:11:01.10,block,,0,0,0,,{\pos(941.4,236.55)\blur3\c&HF0EFCD&\fscx1814.047\fscy122.8}A
+Dialogue: 0,0:11:01.10,0:11:01.14,block,,0,0,0,,{\pos(941.4,236.25)\blur3\c&HF0EFCD&\fscx1812.451\fscy122.693}A
+Dialogue: 0,0:11:01.14,0:11:01.18,block,,0,0,0,,{\pos(941.4,236.1)\blur3\c&HF0EFCD&\fscx1810.856\fscy122.585}A
+Dialogue: 0,0:11:01.18,0:11:01.22,block,,0,0,0,,{\pos(941.4,235.8)\blur3\c&HF0EFCD&\fscx1809.261\fscy122.477}A
+Dialogue: 0,0:11:01.22,0:11:01.27,block,,0,0,0,,{\pos(941.4,235.65)\blur3\c&HF0EFCD&\fscx1807.665\fscy122.369}A
+Dialogue: 0,0:11:01.27,0:11:01.31,block,,0,0,0,,{\pos(941.4,235.35)\blur3\c&HF0EFCD&\fscx1806.07\fscy122.261}A
+Dialogue: 0,0:11:01.31,0:11:01.35,block,,0,0,0,,{\pos(941.4,235.2)\blur3\c&HF0EFCD&\fscx1804.474\fscy122.154}A
+Dialogue: 0,0:11:01.35,0:11:01.39,block,,0,0,0,,{\pos(941.4,234.9)\blur3\c&HF0EFCD&\fscx1802.879\fscy122.046}A
+Dialogue: 0,0:11:01.39,0:11:01.43,block,,0,0,0,,{\pos(941.55,234.75)\blur3\c&HF0EFCD&\fscx1801.283\fscy121.938}A
+Dialogue: 0,0:11:01.43,0:11:01.47,block,,0,0,0,,{\pos(941.55,234.6)\blur3\c&HF0EFCD&\fscx1799.688\fscy121.83}A
+Dialogue: 0,0:11:01.47,0:11:01.52,block,,0,0,0,,{\pos(941.55,234.45)\blur3\c&HF0EFCD&\fscx1798.093\fscy121.722}A
+Dialogue: 0,0:11:01.52,0:11:01.56,block,,0,0,0,,{\pos(941.55,234.15)\blur3\c&HF0EFCD&\fscx1796.497\fscy121.615}A
+Dialogue: 0,0:11:01.56,0:11:01.60,block,,0,0,0,,{\pos(941.55,234)\blur3\c&HF0EFCD&\fscx1794.902\fscy121.507}A
+Dialogue: 0,0:11:01.60,0:11:01.64,block,,0,0,0,,{\pos(941.55,233.7)\blur3\c&HF0EFCD&\fscx1793.306\fscy121.399}A
+Dialogue: 0,0:11:01.64,0:11:01.68,block,,0,0,0,,{\pos(941.55,233.55)\blur3\c&HF0EFCD&\fscx1791.711\fscy121.291}A
+Dialogue: 0,0:11:01.68,0:11:01.72,block,,0,0,0,,{\pos(941.4,233.4)\blur3\c&HF0EFCD&\fscx1790.116\fscy121.183}A
+Dialogue: 0,0:11:01.72,0:11:01.77,block,,0,0,0,,{\pos(941.55,233.1)\blur3\c&HF0EFCD&\fscx1788.52\fscy121.076}A
+Dialogue: 0,0:11:01.77,0:11:01.81,block,,0,0,0,,{\pos(941.55,232.95)\blur3\c&HF0EFCD&\fscx1786.925\fscy120.968}A
+Dialogue: 0,0:11:01.81,0:11:01.85,block,,0,0,0,,{\pos(941.55,232.8)\blur3\c&HF0EFCD&\fscx1785.329\fscy120.86}A
+Dialogue: 0,0:11:01.85,0:11:01.89,block,,0,0,0,,{\pos(941.55,232.65)\blur3\c&HF0EFCD&\fscx1783.734\fscy120.752}A
+Dialogue: 0,0:11:01.89,0:11:01.93,block,,0,0,0,,{\pos(941.55,232.5)\blur3\c&HF0EFCD&\fscx1782.139\fscy120.644}A
+Dialogue: 0,0:11:01.93,0:11:01.97,block,,0,0,0,,{\pos(941.7,232.2)\blur3\c&HF0EFCD&\fscx1780.543\fscy120.537}A
+Dialogue: 0,0:11:01.97,0:11:02.02,block,,0,0,0,,{\pos(941.7,232.05)\blur3\c&HF0EFCD&\fscx1778.948\fscy120.429}A
+Dialogue: 0,0:11:02.02,0:11:02.06,block,,0,0,0,,{\pos(941.7,231.9)\blur3\c&HF0EFCD&\fscx1777.352\fscy120.321}A
+Dialogue: 0,0:11:02.06,0:11:02.10,block,,0,0,0,,{\pos(941.7,231.75)\blur3\c&HF0EFCD&\fscx1775.757\fscy120.213}A
+Dialogue: 0,0:11:02.10,0:11:02.14,block,,0,0,0,,{\pos(941.7,231.6)\blur3\c&HF0EFCD&\fscx1774.161\fscy120.106}A
+Dialogue: 0,0:11:02.14,0:11:02.18,block,,0,0,0,,{\pos(941.7,231.45)\blur3\c&HF0EFCD&\fscx1772.566\fscy119.998}A
+Dialogue: 0,0:11:02.18,0:11:02.22,block,,0,0,0,,{\pos(941.7,231.15)\blur3\c&HF0EFCD&\fscx1770.971\fscy119.89}A
+Dialogue: 0,0:11:02.22,0:11:02.27,block,,0,0,0,,{\pos(941.7,231.15)\blur3\c&HF0EFCD&\fscx1769.375\fscy119.782}A
+Dialogue: 0,0:11:02.27,0:11:02.31,block,,0,0,0,,{\pos(941.7,231)\blur3\c&HF0EFCD&\fscx1767.78\fscy119.674}A
+Dialogue: 0,0:11:02.31,0:11:02.35,block,,0,0,0,,{\pos(941.7,230.85)\blur3\c&HF0EFCD&\fscx1766.184\fscy119.567}A
+Dialogue: 0,0:11:02.35,0:11:02.39,block,,0,0,0,,{\pos(941.7,230.7)\blur3\c&HF0EFCD&\fscx1764.589\fscy119.459}A
+Dialogue: 0,0:11:02.39,0:11:02.43,block,,0,0,0,,{\pos(941.7,230.55)\blur3\c&HF0EFCD&\fscx1762.994\fscy119.351}A
+Dialogue: 0,0:11:02.43,0:11:02.47,block,,0,0,0,,{\pos(941.7,230.4)\blur3\c&HF0EFCD&\fscx1761.398\fscy119.243}A
+Dialogue: 0,0:11:02.47,0:11:02.52,block,,0,0,0,,{\pos(941.7,230.25)\blur3\c&HF0EFCD&\fscx1759.803\fscy119.135}A
+Dialogue: 0,0:11:02.52,0:11:02.56,block,,0,0,0,,{\pos(941.7,230.25)\blur3\c&HF0EFCD&\fscx1758.207\fscy119.028}A
+Dialogue: 0,0:11:02.56,0:11:02.60,block,,0,0,0,,{\pos(941.7,230.1)\blur3\c&HF0EFCD&\fscx1756.612\fscy118.92}A
+Dialogue: 0,0:11:02.60,0:11:02.64,block,,0,0,0,,{\pos(941.7,229.95)\blur3\c&HF0EFCD&\fscx1755.017\fscy118.812}A
+Dialogue: 0,0:11:02.64,0:11:02.68,block,,0,0,0,,{\pos(941.7,229.8)\blur3\c&HF0EFCD&\fscx1753.421\fscy118.704}A
+Dialogue: 0,0:11:02.68,0:11:02.73,block,,0,0,0,,{\pos(941.7,229.65)\blur3\c&HF0EFCD&\fscx1751.826\fscy118.596}A
+Dialogue: 0,0:11:02.73,0:11:02.77,block,,0,0,0,,{\pos(941.7,229.65)\blur3\c&HF0EFCD&\fscx1750.23\fscy118.489}A
+Dialogue: 0,0:11:02.77,0:11:02.81,block,,0,0,0,,{\pos(941.7,229.65)\blur3\c&HF0EFCD&\fscx1748.635\fscy118.381}A
+Dialogue: 0,0:11:02.81,0:11:02.85,block,,0,0,0,,{\pos(941.7,229.5)\blur3\c&HF0EFCD&\fscx1747.039\fscy118.273}A
+Dialogue: 0,0:11:02.85,0:11:02.89,block,,0,0,0,,{\pos(941.7,229.35)\blur3\c&HF0EFCD&\fscx1745.444\fscy118.165}A
+Dialogue: 0,0:11:02.89,0:11:02.93,block,,0,0,0,,{\pos(941.55,229.35)\blur3\c&HF0EFCD&\fscx1743.849\fscy118.057}A
+Dialogue: 0,0:11:02.93,0:11:02.98,block,,0,0,0,,{\pos(941.7,229.35)\blur3\c&HF0EFCD&\fscx1742.253\fscy117.95}A
+Dialogue: 0,0:11:02.98,0:11:03.02,block,,0,0,0,,{\pos(941.7,229.35)\blur3\c&HF0EFCD&\fscx1740.658\fscy117.842}A
+Dialogue: 0,0:11:03.02,0:11:03.06,block,,0,0,0,,{\pos(941.55,229.2)\blur3\c&HF0EFCD&\fscx1739.062\fscy117.734}A
+Dialogue: 0,0:11:03.06,0:11:03.10,block,,0,0,0,,{\pos(941.55,229.2)\blur3\c&HF0EFCD&\fscx1737.467\fscy117.626}A
+Dialogue: 0,0:11:03.10,0:11:03.27,block,,0,0,0,,{\pos(941.55,229.2)\blur3\c&HF0EFCD&\fscx1735.872\fscy117.518}A
+Dialogue: 0,0:11:03.27,0:11:03.31,block,,0,0,0,,{\pos(941.55,229.2)\blur3\c&HF0EFCD&\fscx1734.276\fscy117.411}A
+Dialogue: 0,0:11:03.31,0:11:03.43,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1732.681\fscy117.303}A
+Dialogue: 0,0:11:03.43,0:11:03.52,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1731.085\fscy117.195}A
+Dialogue: 0,0:11:03.52,0:11:03.60,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1729.49\fscy117.087}A
+Dialogue: 0,0:11:03.60,0:11:03.64,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1727.894\fscy116.979}A
+Dialogue: 0,0:11:03.64,0:11:03.68,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1726.299\fscy116.872}A
+Dialogue: 0,0:11:03.68,0:11:03.73,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1724.704\fscy116.764}A
+Dialogue: 0,0:11:03.73,0:11:03.77,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1723.108\fscy116.656}A
+Dialogue: 0,0:11:03.77,0:11:03.81,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1721.513\fscy116.548}A
+Dialogue: 0,0:11:03.81,0:11:03.85,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1719.917\fscy116.44}A
+Dialogue: 0,0:11:03.85,0:11:03.89,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1718.322\fscy116.333}A
+Dialogue: 0,0:11:03.89,0:11:03.93,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1716.727\fscy116.225}A
+Dialogue: 0,0:11:03.93,0:11:03.98,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1715.131\fscy116.117}A
+Dialogue: 0,0:11:03.98,0:11:04.02,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1713.536\fscy116.009}A
+Dialogue: 0,0:11:04.02,0:11:04.10,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1711.94\fscy115.901}A
+Dialogue: 0,0:11:04.10,0:11:04.14,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1710.345\fscy115.794}A
+Dialogue: 0,0:11:04.14,0:11:04.18,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1708.75\fscy115.686}A
+Dialogue: 0,0:11:04.18,0:11:04.23,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1707.154\fscy115.578}A
+Dialogue: 0,0:11:04.23,0:11:04.27,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1705.559\fscy115.47}A
+Dialogue: 0,0:11:04.27,0:11:04.35,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1703.963\fscy115.362}A
+Dialogue: 0,0:11:04.35,0:11:04.52,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1702.368\fscy115.255}A
+Dialogue: 0,0:11:04.52,0:11:04.56,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1700.772\fscy115.147}A
+Dialogue: 0,0:11:04.56,0:11:04.64,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1699.177\fscy115.039}A
+Dialogue: 0,0:11:04.64,0:11:04.73,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1697.582\fscy114.931}A
+Dialogue: 0,0:11:04.73,0:11:04.77,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1695.986\fscy114.823}A
+Dialogue: 0,0:11:04.77,0:11:04.89,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1694.391\fscy114.716}A
+Dialogue: 0,0:11:04.89,0:11:04.98,block,,0,0,0,,{\pos(941.7,229.2)\blur3\c&HF0EFCD&\fscx1692.795\fscy114.608}A
+Dialogue: 0,0:11:04.98,0:11:05.14,block,,0,0,0,,{\pos(941.7,229.2)\fscx1691.2\fscy114.5\blur3\c&HF0EFCD&}A
 Dialogue: 0,0:12:57.51,0:12:59.43,block,,0,0,0,,{\pos(859.001,619)\fscx241\fscy92\frz5.629\c&H33343A&\blur6}A
 Dialogue: 4,0:15:10.39,0:15:12.89,block,,0,0,0,,{\pos(1551,701.7)\fscx234\fscy815\frz347.9\c&H1E4E73&\blur1.5}A
 Dialogue: 0,0:15:29.99,0:15:31.99,block,,0,0,0,,{\pos(960,990)\fscx380\fscy380\bord3\c&H030303&\3c&H030303&\be2}A\NA\NA\NA
@@ -829,76 +829,76 @@ Dialogue: 0,0:07:23.63,0:07:24.30,brush1,,0,0,0,,{\pos(882,516)\fscy200\frz270\f
 Dialogue: 0,0:07:29.10,0:07:29.76,brush1,,0,0,0,,{\pos(816,513)\frz270\fs150\c&H000000&\be2\fad(150,0)}End of\Nmeeting
 Dialogue: 4,0:09:06.44,0:09:08.94,brush1,,0,0,0,,{\pos(267.9,399.9)\fscy140\frz286.7\fs48\c&H09151B&\be2}Haroukitei Kigurumi
 Dialogue: 0,0:09:23.21,0:09:25.21,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Visit To Asakusa
-Dialogue: 0,0:09:25.21,0:09:28.13,brush1,,0,0,0,,{\pos(748.8,205.5)\frz354.2\fry12\frx22\fs36\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:09:39.06,0:09:40.77,brush1,,0,0,0,,{\pos(991.2,627.9)\frz355\fry4\frx4\fs31.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.04,0:10:01.08,brush1,,0,0,0,,{\pos(967.2,527.1)\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.08,0:10:01.12,brush1,,0,0,0,,{\pos(967.2,529.515)\fscx100.24\fscy100.24\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.12,0:10:01.16,brush1,,0,0,0,,{\pos(967.29,531.585)\fscx100.65\fscy100.65\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.16,0:10:01.21,brush1,,0,0,0,,{\pos(967.305,533.745)\fscx101.06\fscy101.06\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.21,0:10:01.25,brush1,,0,0,0,,{\pos(967.365,535.95)\fscx101.44\fscy101.44\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.25,0:10:01.29,brush1,,0,0,0,,{\pos(967.38,538.95)\fscx101.44\fscy101.44\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.29,0:10:01.33,brush1,,0,0,0,,{\pos(967.38,541.95)\fscx101.44\fscy101.44\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.33,0:10:01.37,brush1,,0,0,0,,{\pos(967.53,544.44)\fscx101.72\fscy101.72\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.37,0:10:01.41,brush1,,0,0,0,,{\pos(967.53,546.54)\fscx102.17\fscy102.17\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.41,0:10:01.46,brush1,,0,0,0,,{\pos(967.545,548.37)\fscx102.86\fscy102.86\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.46,0:10:01.50,brush1,,0,0,0,,{\pos(967.62,551.22)\fscx102.93\fscy102.93\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.50,0:10:01.54,brush1,,0,0,0,,{\pos(967.785,553.29)\fscx103.5\fscy103.5\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.54,0:10:01.58,brush1,,0,0,0,,{\pos(967.74,555.765)\fscx103.79\fscy103.79\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.58,0:10:01.62,brush1,,0,0,0,,{\pos(967.815,558.36)\fscx104.11\fscy104.11\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.62,0:10:01.66,brush1,,0,0,0,,{\pos(967.86,560.88)\fscx104.38\fscy104.38\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.66,0:10:01.71,brush1,,0,0,0,,{\pos(967.92,563.505)\fscx104.69\fscy104.69\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.71,0:10:01.75,brush1,,0,0,0,,{\pos(968.025,565.35)\fscx105.37\fscy105.37\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.75,0:10:01.79,brush1,,0,0,0,,{\pos(967.965,568.395)\fscx105.44\fscy105.44\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.79,0:10:01.83,brush1,,0,0,0,,{\pos(968.115,570.915)\fscx105.78\fscy105.78\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.83,0:10:01.87,brush1,,0,0,0,,{\pos(968.145,573.84)\fscx105.96\fscy105.96\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.87,0:10:01.91,brush1,,0,0,0,,{\pos(968.31,575.505)\fscx106.78\fscy106.78\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.91,0:10:01.96,brush1,,0,0,0,,{\pos(968.25,578.235)\fscx107.03\fscy107.03\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:01.96,0:10:02.00,brush1,,0,0,0,,{\pos(968.31,581.115)\fscx107.23\fscy107.23\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.00,0:10:02.04,brush1,,0,0,0,,{\pos(968.355,583.365)\fscx107.77\fscy107.77\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.04,0:10:02.08,brush1,,0,0,0,,{\pos(968.445,585.99)\fscx108.1\fscy108.1\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.08,0:10:02.12,brush1,,0,0,0,,{\pos(968.415,588.84)\fscx108.32\fscy108.32\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.12,0:10:02.16,brush1,,0,0,0,,{\pos(968.55,591.495)\fscx108.65\fscy108.65\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.16,0:10:02.21,brush1,,0,0,0,,{\pos(968.58,593.805)\fscx109.14\fscy109.14\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.21,0:10:02.25,brush1,,0,0,0,,{\pos(968.655,596.385)\fscx109.51\fscy109.51\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.25,0:10:02.29,brush1,,0,0,0,,{\pos(968.7,599.16)\fscx109.75\fscy109.75\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.29,0:10:02.33,brush1,,0,0,0,,{\pos(968.79,602.085)\fscx109.95\fscy109.95\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.33,0:10:02.37,brush1,,0,0,0,,{\pos(968.82,604.215)\fscx110.54\fscy110.54\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.37,0:10:02.41,brush1,,0,0,0,,{\pos(968.91,606.72)\fscx110.94\fscy110.94\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.41,0:10:02.46,brush1,,0,0,0,,{\pos(968.91,609.555)\fscx111.14\fscy111.14\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.46,0:10:02.50,brush1,,0,0,0,,{\pos(968.985,612)\fscx111.6\fscy111.6\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.50,0:10:02.54,brush1,,0,0,0,,{\pos(969.03,614.625)\fscx111.9\fscy111.9\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.54,0:10:02.58,brush1,,0,0,0,,{\pos(969.12,616.92)\fscx112.43\fscy112.43\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.58,0:10:02.62,brush1,,0,0,0,,{\pos(969.165,619.665)\fscx112.69\fscy112.69\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.62,0:10:02.67,brush1,,0,0,0,,{\pos(969.195,622.185)\fscx112.97\fscy112.97\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.67,0:10:02.71,brush1,,0,0,0,,{\pos(969.285,624.39)\fscx113.53\fscy113.53\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.71,0:10:02.75,brush1,,0,0,0,,{\pos(969.375,626.82)\fscx113.85\fscy113.85\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.75,0:10:02.79,brush1,,0,0,0,,{\pos(969.36,629.205)\fscx114.26\fscy114.26\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.79,0:10:02.83,brush1,,0,0,0,,{\pos(969.525,631.77)\fscx114.52\fscy114.52\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.83,0:10:02.87,brush1,,0,0,0,,{\pos(969.48,634.425)\fscx114.72\fscy114.72\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.87,0:10:02.92,brush1,,0,0,0,,{\pos(969.585,636.48)\fscx115.27\fscy115.27\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.92,0:10:02.96,brush1,,0,0,0,,{\pos(969.675,638.73)\fscx115.65\fscy115.65\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:02.96,0:10:03.00,brush1,,0,0,0,,{\pos(969.78,641.085)\fscx115.96\fscy115.96\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.00,0:10:03.04,brush1,,0,0,0,,{\pos(969.675,643.74)\fscx116.09\fscy116.09\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.04,0:10:03.08,brush1,,0,0,0,,{\pos(969.735,646.245)\fscx116.27\fscy116.27\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.08,0:10:03.12,brush1,,0,0,0,,{\pos(969.81,648.21)\fscx116.74\fscy116.74\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.12,0:10:03.17,brush1,,0,0,0,,{\pos(969.915,650.385)\fscx117.03\fscy117.03\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.17,0:10:03.21,brush1,,0,0,0,,{\pos(969.945,652.365)\fscx117.4\fscy117.4\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.21,0:10:03.25,brush1,,0,0,0,,{\pos(969.99,653.745)\fscx118.06\fscy118.06\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.25,0:10:03.29,brush1,,0,0,0,,{\pos(970.005,656.37)\fscx118.02\fscy118.02\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.29,0:10:03.33,brush1,,0,0,0,,{\pos(970.005,658.425)\fscx118.24\fscy118.24\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.33,0:10:03.37,brush1,,0,0,0,,{\pos(970.095,660.03)\fscx118.69\fscy118.69\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.37,0:10:03.42,brush1,,0,0,0,,{\pos(970.08,662.22)\fscx118.71\fscy118.71\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.42,0:10:03.46,brush1,,0,0,0,,{\pos(970.185,663.99)\fscx119.03\fscy119.03\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.46,0:10:03.50,brush1,,0,0,0,,{\pos(970.2,665.79)\fscx119.19\fscy119.19\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.50,0:10:03.54,brush1,,0,0,0,,{\pos(970.215,667.425)\fscx119.39\fscy119.39\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.54,0:10:03.58,brush1,,0,0,0,,{\pos(970.275,668.91)\fscx119.61\fscy119.61\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.58,0:10:03.62,brush1,,0,0,0,,{\pos(970.29,670.755)\fscx119.63\fscy119.63\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.62,0:10:03.67,brush1,,0,0,0,,{\pos(970.305,672.255)\fscx119.75\fscy119.75\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.67,0:10:03.71,brush1,,0,0,0,,{\pos(970.29,673.02)\fscx120.19\fscy120.19\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.71,0:10:03.75,brush1,,0,0,0,,{\pos(970.365,674.43)\fscx120.17\fscy120.17\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.75,0:10:03.79,brush1,,0,0,0,,{\pos(970.365,675.525)\fscx120.31\fscy120.31\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:10:03.79,0:10:03.83,brush1,,0,0,0,,{\pos(970.41,676.53)\fscx120.37\fscy120.37\frz359.5\fry356\frx28\fs43.5\bord3\c&H171522&\3c&H65667C&\be3}Kaminari Gate
-Dialogue: 0,0:12:57.51,0:12:59.43,brush1,,0,0,0,,{\pos(862.001,609.501)\frz4.345\fs37.5\c&H19191C&\be2}{TS 1258}Fortune
+Dialogue: 0,0:09:25.21,0:09:28.13,brush1,,0,0,0,,{\fs36\be3\bord3\c&H171522&\3c&H65667C&\frz354.2\frx22\fry12\pos(748.8,205.5)\i0}Kaminari Gate
+Dialogue: 0,0:09:39.06,0:09:40.77,brush1,,0,0,0,,{\fs31.5\be3\bord3\c&H171522&\3c&H65667C&\pos(991.2,627.9)\frz355\frx4\fry4}Kaminari Gate
+Dialogue: 0,0:10:01.04,0:10:01.08,brush1,,0,0,0,,{\pos(967.2,527.1)\fscx100\fscy100\fs43.5\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5}Kaminari Gate
+Dialogue: 0,0:10:01.08,0:10:01.12,brush1,,0,0,0,,{\pos(967.2,529.515)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx100.309\fscy100.309}Kaminari Gate
+Dialogue: 0,0:10:01.12,0:10:01.16,brush1,,0,0,0,,{\pos(967.29,531.585)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx100.617\fscy100.617}Kaminari Gate
+Dialogue: 0,0:10:01.16,0:10:01.21,brush1,,0,0,0,,{\pos(967.305,533.745)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx100.926\fscy100.926}Kaminari Gate
+Dialogue: 0,0:10:01.21,0:10:01.25,brush1,,0,0,0,,{\pos(967.365,535.95)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx101.235\fscy101.235}Kaminari Gate
+Dialogue: 0,0:10:01.25,0:10:01.29,brush1,,0,0,0,,{\pos(967.38,538.95)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx101.543\fscy101.543}Kaminari Gate
+Dialogue: 0,0:10:01.29,0:10:01.33,brush1,,0,0,0,,{\pos(967.38,541.95)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx101.852\fscy101.852}Kaminari Gate
+Dialogue: 0,0:10:01.33,0:10:01.37,brush1,,0,0,0,,{\pos(967.53,544.44)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx102.16\fscy102.16}Kaminari Gate
+Dialogue: 0,0:10:01.37,0:10:01.41,brush1,,0,0,0,,{\pos(967.53,546.54)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx102.469\fscy102.469}Kaminari Gate
+Dialogue: 0,0:10:01.41,0:10:01.46,brush1,,0,0,0,,{\pos(967.545,548.37)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx102.778\fscy102.778}Kaminari Gate
+Dialogue: 0,0:10:01.46,0:10:01.50,brush1,,0,0,0,,{\pos(967.62,551.22)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx103.086\fscy103.086}Kaminari Gate
+Dialogue: 0,0:10:01.50,0:10:01.54,brush1,,0,0,0,,{\pos(967.785,553.29)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx103.395\fscy103.395}Kaminari Gate
+Dialogue: 0,0:10:01.54,0:10:01.58,brush1,,0,0,0,,{\pos(967.74,555.765)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx103.704\fscy103.704}Kaminari Gate
+Dialogue: 0,0:10:01.58,0:10:01.62,brush1,,0,0,0,,{\pos(967.815,558.36)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx104.012\fscy104.012}Kaminari Gate
+Dialogue: 0,0:10:01.62,0:10:01.66,brush1,,0,0,0,,{\pos(967.86,560.88)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx104.321\fscy104.321}Kaminari Gate
+Dialogue: 0,0:10:01.66,0:10:01.71,brush1,,0,0,0,,{\pos(967.92,563.505)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx104.63\fscy104.63}Kaminari Gate
+Dialogue: 0,0:10:01.71,0:10:01.75,brush1,,0,0,0,,{\pos(968.025,565.35)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx104.938\fscy104.938}Kaminari Gate
+Dialogue: 0,0:10:01.75,0:10:01.79,brush1,,0,0,0,,{\pos(967.965,568.395)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx105.247\fscy105.247}Kaminari Gate
+Dialogue: 0,0:10:01.79,0:10:01.83,brush1,,0,0,0,,{\pos(968.115,570.915)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx105.555\fscy105.555}Kaminari Gate
+Dialogue: 0,0:10:01.83,0:10:01.87,brush1,,0,0,0,,{\pos(968.145,573.84)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx105.864\fscy105.864}Kaminari Gate
+Dialogue: 0,0:10:01.87,0:10:01.91,brush1,,0,0,0,,{\pos(968.31,575.505)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx106.173\fscy106.173}Kaminari Gate
+Dialogue: 0,0:10:01.91,0:10:01.96,brush1,,0,0,0,,{\pos(968.25,578.235)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx106.481\fscy106.481}Kaminari Gate
+Dialogue: 0,0:10:01.96,0:10:02.00,brush1,,0,0,0,,{\pos(968.31,581.115)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx106.79\fscy106.79}Kaminari Gate
+Dialogue: 0,0:10:02.00,0:10:02.04,brush1,,0,0,0,,{\pos(968.355,583.365)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx107.099\fscy107.099}Kaminari Gate
+Dialogue: 0,0:10:02.04,0:10:02.08,brush1,,0,0,0,,{\pos(968.445,585.99)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx107.407\fscy107.407}Kaminari Gate
+Dialogue: 0,0:10:02.08,0:10:02.12,brush1,,0,0,0,,{\pos(968.415,588.84)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx107.716\fscy107.716}Kaminari Gate
+Dialogue: 0,0:10:02.12,0:10:02.16,brush1,,0,0,0,,{\pos(968.55,591.495)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx108.025\fscy108.025}Kaminari Gate
+Dialogue: 0,0:10:02.16,0:10:02.21,brush1,,0,0,0,,{\pos(968.58,593.805)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx108.333\fscy108.333}Kaminari Gate
+Dialogue: 0,0:10:02.21,0:10:02.25,brush1,,0,0,0,,{\pos(968.655,596.385)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx108.642\fscy108.642}Kaminari Gate
+Dialogue: 0,0:10:02.25,0:10:02.29,brush1,,0,0,0,,{\pos(968.7,599.16)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx108.95\fscy108.95}Kaminari Gate
+Dialogue: 0,0:10:02.29,0:10:02.33,brush1,,0,0,0,,{\pos(968.79,602.085)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx109.259\fscy109.259}Kaminari Gate
+Dialogue: 0,0:10:02.33,0:10:02.37,brush1,,0,0,0,,{\pos(968.82,604.215)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx109.568\fscy109.568}Kaminari Gate
+Dialogue: 0,0:10:02.37,0:10:02.41,brush1,,0,0,0,,{\pos(968.91,606.72)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx109.876\fscy109.876}Kaminari Gate
+Dialogue: 0,0:10:02.41,0:10:02.46,brush1,,0,0,0,,{\pos(968.91,609.555)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx110.185\fscy110.185}Kaminari Gate
+Dialogue: 0,0:10:02.46,0:10:02.50,brush1,,0,0,0,,{\pos(968.985,612)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx110.494\fscy110.494}Kaminari Gate
+Dialogue: 0,0:10:02.50,0:10:02.54,brush1,,0,0,0,,{\pos(969.03,614.625)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx110.802\fscy110.802}Kaminari Gate
+Dialogue: 0,0:10:02.54,0:10:02.58,brush1,,0,0,0,,{\pos(969.12,616.92)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx111.111\fscy111.111}Kaminari Gate
+Dialogue: 0,0:10:02.58,0:10:02.62,brush1,,0,0,0,,{\pos(969.165,619.665)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx111.42\fscy111.42}Kaminari Gate
+Dialogue: 0,0:10:02.62,0:10:02.67,brush1,,0,0,0,,{\pos(969.195,622.185)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx111.728\fscy111.728}Kaminari Gate
+Dialogue: 0,0:10:02.67,0:10:02.71,brush1,,0,0,0,,{\pos(969.285,624.39)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx112.037\fscy112.037}Kaminari Gate
+Dialogue: 0,0:10:02.71,0:10:02.75,brush1,,0,0,0,,{\pos(969.375,626.82)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx112.345\fscy112.345}Kaminari Gate
+Dialogue: 0,0:10:02.75,0:10:02.79,brush1,,0,0,0,,{\pos(969.36,629.205)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx112.654\fscy112.654}Kaminari Gate
+Dialogue: 0,0:10:02.79,0:10:02.83,brush1,,0,0,0,,{\pos(969.525,631.77)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx112.963\fscy112.963}Kaminari Gate
+Dialogue: 0,0:10:02.83,0:10:02.87,brush1,,0,0,0,,{\pos(969.48,634.425)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx113.271\fscy113.271}Kaminari Gate
+Dialogue: 0,0:10:02.87,0:10:02.92,brush1,,0,0,0,,{\pos(969.585,636.48)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx113.58\fscy113.58}Kaminari Gate
+Dialogue: 0,0:10:02.92,0:10:02.96,brush1,,0,0,0,,{\pos(969.675,638.73)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx113.889\fscy113.889}Kaminari Gate
+Dialogue: 0,0:10:02.96,0:10:03.00,brush1,,0,0,0,,{\pos(969.78,641.085)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx114.197\fscy114.197}Kaminari Gate
+Dialogue: 0,0:10:03.00,0:10:03.04,brush1,,0,0,0,,{\pos(969.675,643.74)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx114.506\fscy114.506}Kaminari Gate
+Dialogue: 0,0:10:03.04,0:10:03.08,brush1,,0,0,0,,{\pos(969.735,646.245)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx114.815\fscy114.815}Kaminari Gate
+Dialogue: 0,0:10:03.08,0:10:03.12,brush1,,0,0,0,,{\pos(969.81,648.21)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx115.123\fscy115.123}Kaminari Gate
+Dialogue: 0,0:10:03.12,0:10:03.17,brush1,,0,0,0,,{\pos(969.915,650.385)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx115.432\fscy115.432}Kaminari Gate
+Dialogue: 0,0:10:03.17,0:10:03.21,brush1,,0,0,0,,{\pos(969.945,652.365)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx115.74\fscy115.74}Kaminari Gate
+Dialogue: 0,0:10:03.21,0:10:03.25,brush1,,0,0,0,,{\pos(969.99,653.745)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx116.049\fscy116.049}Kaminari Gate
+Dialogue: 0,0:10:03.25,0:10:03.29,brush1,,0,0,0,,{\pos(970.005,656.37)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx116.358\fscy116.358}Kaminari Gate
+Dialogue: 0,0:10:03.29,0:10:03.33,brush1,,0,0,0,,{\pos(970.005,658.425)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx116.666\fscy116.666}Kaminari Gate
+Dialogue: 0,0:10:03.33,0:10:03.37,brush1,,0,0,0,,{\pos(970.095,660.03)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx116.975\fscy116.975}Kaminari Gate
+Dialogue: 0,0:10:03.37,0:10:03.42,brush1,,0,0,0,,{\pos(970.08,662.22)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx117.284\fscy117.284}Kaminari Gate
+Dialogue: 0,0:10:03.42,0:10:03.46,brush1,,0,0,0,,{\pos(970.185,663.99)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx117.592\fscy117.592}Kaminari Gate
+Dialogue: 0,0:10:03.46,0:10:03.50,brush1,,0,0,0,,{\pos(970.2,665.79)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx117.901\fscy117.901}Kaminari Gate
+Dialogue: 0,0:10:03.50,0:10:03.54,brush1,,0,0,0,,{\pos(970.215,667.425)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx118.21\fscy118.21}Kaminari Gate
+Dialogue: 0,0:10:03.54,0:10:03.58,brush1,,0,0,0,,{\pos(970.275,668.91)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx118.518\fscy118.518}Kaminari Gate
+Dialogue: 0,0:10:03.58,0:10:03.62,brush1,,0,0,0,,{\pos(970.29,670.755)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx118.827\fscy118.827}Kaminari Gate
+Dialogue: 0,0:10:03.62,0:10:03.67,brush1,,0,0,0,,{\pos(970.305,672.255)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx119.135\fscy119.135}Kaminari Gate
+Dialogue: 0,0:10:03.67,0:10:03.71,brush1,,0,0,0,,{\pos(970.29,673.02)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx119.444\fscy119.444}Kaminari Gate
+Dialogue: 0,0:10:03.71,0:10:03.75,brush1,,0,0,0,,{\pos(970.365,674.43)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx119.753\fscy119.753}Kaminari Gate
+Dialogue: 0,0:10:03.75,0:10:03.79,brush1,,0,0,0,,{\pos(970.365,675.525)\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5\fs43.5\fscx120.061\fscy120.061}Kaminari Gate
+Dialogue: 0,0:10:03.79,0:10:03.83,brush1,,0,0,0,,{\pos(970.41,676.53)\fscx120.37\fscy120.37\fs43.5\be3\bord3\c&H171522&\3c&H65667C&\frx28\fry356\frz359.5}Kaminari Gate
+Dialogue: 0,0:12:57.51,0:12:59.43,brush1,,0,0,0,,{\pos(858.001,609.501)\fs38\c&H19191C&\be2\fry-4.51\frx3.71\frz4.74\fax-0.06}{TS 1258}Fortune
 Dialogue: 4,0:15:10.39,0:15:12.89,brush1,,0,0,0,,{\pos(1569.9,456.9)\fscy140\frz258\fs60\c&H09151B&\be2}Bouhatei Tetora
 Dialogue: 0,0:15:29.99,0:15:31.99,brush1,,0,0,0,,{\pos(960,610.5)\fscx370\fscy370\fsp-1.5\b0\be2}Sanada Monk-ey
 Dialogue: 0,0:20:51.02,0:20:52.98,brush1,,0,0,0,,{\pos(934.287,479.786)\fscy150\fs85.5\c&H1D1E1F&\be2}{TS 2051}First Dance Rakugo in the world!
