@@ -133,7 +133,7 @@ Comment: 0,0:20:03.39,0:20:05.39,Trivia,,0,0,0,kara,{\pos(80,62)}Either {\i1}Kin
 Comment: 0,0:20:14.36,0:20:20.41,Trivia,,0,0,0,kara,{\pos(88,74)}May be referring to an incident that occurred in August 2011, \Nwhere a woman and her friends dug a pitfall to prank her husband, \Nand both of them fell in and suffocated to death.
 Comment: 0,0:20:44.81,0:20:49.48,Trivia,,0,0,0,kara,{\pos(76,74)}Kamehameha the Great, the conqueror and \Nfirst ruler of the Kingdom of Hawaii. {https://en.wikipedia.org/wiki/Kamehameha_I}
 Comment: 0,0:20:49.48,0:20:53.06,Trivia,,0,0,0,kara,{\pos(68,56)}Assuming standard atmospheric conditions, the speed of \Nsound is approximately 343 m/s (roughly 767 mph).
-Comment: 0,0:20:53.06,0:21:08.83,Trivia,,0,0,0,kara,{\pos(120,90)}The distance from Japan to Hawaii is roughly 6400–6500 km. \NWe can calculate the time it takes to reach in seconds by doing \N6400 x 1000 / 340, which is about 18824 seconds. That's 5 hours, \N13 minutes, and no sound because it would have dispersed aeons \Nbefore it'd reach the shoreline of Hawaii.
+Comment: 0,0:20:53.06,0:21:08.83,Trivia,,0,0,0,kara,{\pos(120,90)}The distance from Japan to Hawaii is roughly 6400–6500 km. \NWe can calculate the time it takes for a sound to reach in seconds \Nby doing 6400 x 1000 / 340, which is about 18824 seconds. \NThat's 5 hours, 13 minutes, and no sound because it would have \Ndispersed aeons before it'd reach the shoreline of Hawaii.
 Comment: 0,0:21:48.12,0:21:52.46,Trivia,,0,0,0,kara,{\pos(127,71)}The Kuril Islands dispute, a territorial \Ndispute between Japan and Russia.
 Comment: 0,0:21:52.46,0:21:56.75,Trivia,,0,0,0,kara,{\pos(101,64)}The abductions of Japanese citizens \Nby North Korea from 1977 to 1983. {https://en.wikipedia.org/wiki/North_Korean_abductions_of_Japanese_citizens}
 Comment: 0,0:21:56.75,0:22:01.01,Trivia,,0,0,0,kara,{\pos(87,79)}Various allegations of China stealing Japanese technology.
@@ -509,10 +509,10 @@ Dialogue: 50,0:20:49.48,0:20:53.06,Trivia,,0,0,0,fx,{\pos(49,37)\c&HFFFFFF&\1a&H
 Dialogue: 51,0:20:49.48,0:20:53.06,Trivia,,0,0,0,fx,{\pos(49,37)\c&HFFFFFF&\blur1\p1}m 15 0 l 971 0 b 978 0 986 8 986 15 l 986 117 b 986 124 978 132 971 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:20:49.48,0:20:53.06,Trivia,,0,0,0,fx,{\pos(68,56)\c&H000000&\1a&HA0&\blur1.6}Assuming standard atmospheric conditions, the speed of \Nsound is approximately 343 m/s (roughly 767 mph).
 Dialogue: 53,0:20:49.48,0:20:53.06,Trivia,,0,0,0,fx,{\pos(68,56)\c&H000000&\blur0.8}Assuming standard atmospheric conditions, the speed of \Nsound is approximately 343 m/s (roughly 767 mph).
-Dialogue: 50,0:20:53.06,0:21:08.83,Trivia,,0,0,0,fx,{\pos(101,71)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1165 0 b 1172 0 1180 8 1180 15 l 1180 261 b 1180 268 1172 276 1165 276 l 15 276 b 8 276 0 268 0 261 l 0 15 b 0 8 8 0 15 0
-Dialogue: 51,0:20:53.06,0:21:08.83,Trivia,,0,0,0,fx,{\pos(101,71)\c&HFFFFFF&\blur1\p1}m 15 0 l 1165 0 b 1172 0 1180 8 1180 15 l 1180 261 b 1180 268 1172 276 1165 276 l 15 276 b 8 276 0 268 0 261 l 0 15 b 0 8 8 0 15 0
-Dialogue: 52,0:20:53.06,0:21:08.83,Trivia,,0,0,0,fx,{\pos(120,90)\c&H000000&\1a&HA0&\blur1.6}The distance from Japan to Hawaii is roughly 6400–6500 km. \NWe can calculate the time it takes to reach in seconds by doing \N6400 x 1000 / 340, which is about 18824 seconds. That's 5 hours, \N13 minutes, and no sound because it would have dispersed aeons \Nbefore it'd reach the shoreline of Hawaii.
-Dialogue: 53,0:20:53.06,0:21:08.83,Trivia,,0,0,0,fx,{\pos(120,90)\c&H000000&\blur0.8}The distance from Japan to Hawaii is roughly 6400–6500 km. \NWe can calculate the time it takes to reach in seconds by doing \N6400 x 1000 / 340, which is about 18824 seconds. That's 5 hours, \N13 minutes, and no sound because it would have dispersed aeons \Nbefore it'd reach the shoreline of Hawaii.
+Dialogue: 50,0:20:53.06,0:21:08.83,Trivia,,0,0,0,fx,{\pos(101,71)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1126 0 b 1133 0 1141 8 1141 15 l 1141 261 b 1141 268 1133 276 1126 276 l 15 276 b 8 276 0 268 0 261 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:20:53.06,0:21:08.83,Trivia,,0,0,0,fx,{\pos(101,71)\c&HFFFFFF&\blur1\p1}m 15 0 l 1126 0 b 1133 0 1141 8 1141 15 l 1141 261 b 1141 268 1133 276 1126 276 l 15 276 b 8 276 0 268 0 261 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:20:53.06,0:21:08.83,Trivia,,0,0,0,fx,{\pos(120,90)\c&H000000&\1a&HA0&\blur1.6}The distance from Japan to Hawaii is roughly 6400–6500 km. \NWe can calculate the time it takes for a sound to reach in seconds \Nby doing 6400 x 1000 / 340, which is about 18824 seconds. \NThat's 5 hours, 13 minutes, and no sound because it would have \Ndispersed aeons before it'd reach the shoreline of Hawaii.
+Dialogue: 53,0:20:53.06,0:21:08.83,Trivia,,0,0,0,fx,{\pos(120,90)\c&H000000&\blur0.8}The distance from Japan to Hawaii is roughly 6400–6500 km. \NWe can calculate the time it takes for a sound to reach in seconds \Nby doing 6400 x 1000 / 340, which is about 18824 seconds. \NThat's 5 hours, 13 minutes, and no sound because it would have \Ndispersed aeons before it'd reach the shoreline of Hawaii.
 Dialogue: 50,0:21:48.12,0:21:52.46,Trivia,,0,0,0,fx,{\pos(108,52)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 668 0 b 675 0 683 8 683 15 l 683 117 b 683 124 675 132 668 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
 Dialogue: 51,0:21:48.12,0:21:52.46,Trivia,,0,0,0,fx,{\pos(108,52)\c&HFFFFFF&\blur1\p1}m 15 0 l 668 0 b 675 0 683 8 683 15 l 683 117 b 683 124 675 132 668 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:21:48.12,0:21:52.46,Trivia,,0,0,0,fx,{\pos(127,71)\c&H000000&\1a&HA0&\blur1.6}The Kuril Islands dispute, a territorial \Ndispute between Japan and Russia.
@@ -553,10 +553,10 @@ Dialogue: 50,0:23:15.83,0:23:16.58,Trivia,,0,0,0,fx,{\pos(107,137)\c&HFFFFFF&\1a
 Dialogue: 51,0:23:15.83,0:23:16.58,Trivia,,0,0,0,fx,{\pos(107,137)\c&HFFFFFF&\blur1\p1}m 15 0 l 547 0 b 554 0 562 8 562 15 l 562 117 b 562 124 554 132 547 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:23:15.83,0:23:16.58,Trivia,,0,0,0,fx,{\pos(126,156)\c&H000000&\1a&HA0&\blur1.6}Parody of a photo taken during \Nthe Beatles' tour to Japan.
 Dialogue: 53,0:23:15.83,0:23:16.58,Trivia,,0,0,0,fx,{\pos(126,156)\c&H000000&\blur0.8}Parody of a photo taken during \Nthe Beatles' tour to Japan.
-Dialogue: 50,0:23:16.58,0:23:17.38,Trivia,,0,0,0,fx,{=8}{\pos(107,137)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 608 0 b 615 0 623 8 623 15 l 623 117 b 623 124 615 132 608 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
-Dialogue: 51,0:23:16.58,0:23:17.38,Trivia,,0,0,0,fx,{=9}{\pos(107,137)\c&HFFFFFF&\blur1\p1}m 15 0 l 608 0 b 615 0 623 8 623 15 l 623 117 b 623 124 615 132 608 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
-Dialogue: 52,0:23:16.58,0:23:17.38,Trivia,,0,0,0,fx,{=10}{\pos(126,156)\c&H000000&\1a&HA0&\blur1.6}The Tokyo Tower, Tokyo Skytree, \Nand Sky Tower West Tokyo.
-Dialogue: 53,0:23:16.58,0:23:17.38,Trivia,,0,0,0,fx,{=11}{\pos(126,156)\c&H000000&\blur0.8}The Tokyo Tower, Tokyo Skytree, \Nand Sky Tower West Tokyo.
+Dialogue: 50,0:23:16.58,0:23:17.38,Trivia,,0,0,0,fx,{=16}{\pos(107,137)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 608 0 b 615 0 623 8 623 15 l 623 117 b 623 124 615 132 608 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:23:16.58,0:23:17.38,Trivia,,0,0,0,fx,{=17}{\pos(107,137)\c&HFFFFFF&\blur1\p1}m 15 0 l 608 0 b 615 0 623 8 623 15 l 623 117 b 623 124 615 132 608 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:23:16.58,0:23:17.38,Trivia,,0,0,0,fx,{=18}{\pos(126,156)\c&H000000&\1a&HA0&\blur1.6}The Tokyo Tower, Tokyo Skytree, \Nand Sky Tower West Tokyo.
+Dialogue: 53,0:23:16.58,0:23:17.38,Trivia,,0,0,0,fx,{=19}{\pos(126,156)\c&H000000&\blur0.8}The Tokyo Tower, Tokyo Skytree, \Nand Sky Tower West Tokyo.
 
 [Aegisub Extradata]
 Data: 4,_aegi_folddata,e0;1;1
@@ -569,3 +569,9 @@ Data: 10,_aegi_folddata,e1;1;5
 Data: 11,_aegi_folddata,e1;1;6
 Data: 12,_aegi_folddata,e0;0;1
 Data: 13,_aegi_folddata,e1;0;1
+Data: 14,_aegi_folddata,e0;0;2
+Data: 15,_aegi_folddata,e1;0;2
+Data: 16,_aegi_folddata,e1;0;3
+Data: 17,_aegi_folddata,e1;0;4
+Data: 18,_aegi_folddata,e1;0;5
+Data: 19,_aegi_folddata,e1;0;6
