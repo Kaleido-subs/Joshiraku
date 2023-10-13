@@ -73,9 +73,9 @@ Comment: 0,0:11:47.52,0:11:50.69,Trivia,,0,0,0,kara,{\pos(874,133)}This line sho
 Comment: 0,0:08:47.63,0:08:49.18,Trivia,,0,0,0,kara,{\pos(1164,97)}Notice how she's walking pigeon-toed \Nto appear more feminine?
 Comment: 0,0:14:56.92,0:15:00.59,Trivia,,0,0,0,kara,{\pos(133,117)}{\i1}Go-honzon{\i0}, the main subject of worship at a temple.
 Comment: 0,0:12:02.28,0:12:12.29,Trivia,,0,0,0,kara,{\pos(126,45)}\NIn Asakusa, visitors partake in a ritual at Senso-ji Temple, \Nwhere they purify themselves with incense, write wishes, \Nmake offerings, and ring bells to seek divine favour.
-Comment: 0,0:12:28.81,0:12:28.81,Trivia,TODO,0,0,0,,{\pos(226,70)}TODO: Talk about kanji readings, the different temples, how the confusion with Akiba happened, etc.
-Comment: 0,0:12:59.43,0:12:59.43,Trivia,TODO,0,0,0,,{\pos(226,70)}TODO: Talk about drawing lots, the origins of the different types of luck, Sensoji being famous for bad luck, etc.
-Comment: 0,0:14:20.84,0:14:29.60,Trivia,,0,0,0,kara,{\pos(106,40)}Only Kigurumi is drinking a non-alcoholic beverage. \NThis is because she's actually underage.
+Comment: 0,0:12:28.81,0:12:28.81,Trivia,,0,0,0,skip?,{\pos(226,70)}TODO: Talk about kanji readings, the different temples, how the confusion with Akiba happened, etc.
+Comment: 0,0:12:59.43,0:12:59.43,Trivia,,0,0,0,skip?,{\pos(226,70)}TODO: Talk about drawing lots, the origins of the different types of luck, Sensoji being famous for bad luck, etc.
+Comment: 0,0:14:20.84,0:14:29.60,Trivia,,0,0,0,kara,{\pos(106,54)}Only Kigurumi is drinking a non-alcoholic beverage. \NThat's because she's actually underage.
 Comment: 0,0:14:20.84,0:14:29.60,Trivia,,0,0,0,kara,{\pos(826,234)}That said, in the rakugo community, only Seconds and \Nabove are allowed to drink, even in private. So Tetora \Nand Kururu should not be drinking.
 Comment: 0,0:14:34.90,0:14:39.11,Trivia,,0,0,0,kara,{\pos(124,80)}They're drinking {\i1}Hoppy{\i0}, a low-alcohol beverage \Noriginating from {\i1}Kamiya Bar{\i0} in Asakusa in 1948.
 Comment: 0,0:15:04.22,0:15:06.39,Trivia,,0,0,0,kara,{\pos(90,436)}The {\i1}Asahi Flame{\i0}, claimed to represent the "burning heart of Asahi beer". \NIt's often colloquially coined the "golden turd", and in turn the Asahi \NBeer Hall itself is called the "poo building".
@@ -83,6 +83,24 @@ Comment: 0,0:15:04.22,0:15:06.39,Trivia,,0,0,0,kara,{\pos(570,670)}The joke here
 Comment: 0,0:15:29.99,0:15:31.99,Trivia,,0,0,0,kara,{\pos(96,93)}This title is a reference to the rakugo play, "Sanada Kozo".
 Comment: 0,0:15:29.99,0:15:31.99,Trivia,,0,0,0,kara,{\pos(184,227)}"ZOO" is from the group of the same name, \Nwho sang the original Choo Choo TRAIN song \Nused as the punchline in this episode.
 Comment: 0,0:15:29.99,0:15:31.99,Trivia,,0,0,0,kara,{\pos(787,829)}The translation focuses more on Tetora's luck. \N "Raku" is how "Luck" is be pronounced with a \Nthick Japanese accent.
+Comment: 0,0:18:48.15,0:18:58.78,Trivia,,0,0,0,kara,{\pos(162,216)}Chidejika and Analoguma, mascosts representing digital \Nterrestrial and analogue broadcasting respectively.
+Comment: 0,0:18:48.15,0:18:58.78,Trivia,,0,0,0,kara,{\pos(890,373)}Analoguma was created by 2ch, and would go on \Nto become the {\i1}pedobear{\i0} meme in the west.
+Comment: 0,0:18:48.15,0:18:58.78,Trivia,,0,0,0,kara,{\pos(150,529)}This conversation references the scandal involving the actor \N{\i1}Tsuyoshi Kusanagi{\i0}, a frontman for promoting digital broadcast, \Nwho was arrested for public nudity in 2009.
+Comment: 0,0:18:48.15,0:18:58.78,Trivia,,0,0,0,kara,{\pos(672,739)}The yellow attire of Chidejika may resemble a school swimsuit \Nor leotard, but the official stance denied these associations.
+Comment: 0,0:16:53.91,0:16:57.12,Trivia,,0,0,0,kara,{\pos(166,80)}A Japanese children's song.
+Comment: 0,0:17:10.01,0:17:13.18,Trivia,,0,0,0,kara,{\pos(98,86)}The same uniforms as seen in {\i1}Waiting in the Summer{\i0}.
+Comment: 0,0:17:17.85,0:17:27.57,Trivia,,0,0,0,kara,{\pos(1096,84)}This scene bears a striking similarity to a \Nscene in episode 3 of {\i1}Waiting in the Summer{\i0}.
+Comment: 0,0:17:43.21,0:17:45.92,Trivia,,0,0,0,kara,{\pos(1078,124)}Tea stems floating perfectly vertical \Nare often considered to be a good omen.
+Comment: 0,0:17:46.67,0:17:53.39,Trivia,,0,0,0,kara,{\pos(1218,170)}500 yen bills are unbelievably rare.
+Comment: 0,0:18:00.10,0:18:05.06,Trivia,,0,0,0,kara,{\pos(1144,94)}Hammerin' Harry from {\i1}Hammerin' Harry{\i0}.
+Comment: 0,0:18:40.27,0:18:46.02,Trivia,,0,0,0,kara,{\pos(150,720)}Reference to the TV programme, {\i1}Attack 25{\i0}. There was a \Nmeme of a contestant who celebrated his victory, but it \Nturned out he was cheating.
+Comment: 0,0:20:43.76,0:20:44.81,Trivia,,0,0,0,kara,{\pos(126,176)}Toshihiro Miura, an editor for Weekly Shounen Manga. \NAll the titles here are based off of real manga he didn't \Nactually have any involvement in.
+Comment: 0,0:20:43.76,0:20:44.81,Trivia,,0,0,0,kara,{\pos(918,676)}Reference to {\i1}Oh My Goddess!{\i0}
+Comment: 0,0:20:43.76,0:20:44.81,Trivia,,0,0,0,kara,{\pos(1016,778)}Reference to {\i1}Love-yan{\i0}.
+Comment: 0,0:20:43.76,0:20:44.81,Trivia,,0,0,0,kara,{\pos(926,870)}Reference to {\i1}Attack on Titan{\i0}.
+Comment: 0,0:20:52.98,0:20:53.98,Trivia,,0,0,0,kara,{\pos(222,448)}Reference to the all-men \Nmusic-dance group {\i1}Exile{\i0}.
+Comment: 0,0:22:01.47,0:22:09.93,Trivia,,0,0,0,kara,{\pos(96,768)}Exploding watermelon, referring to an incident in a Chinese watermelon farm \N(hence the "imported" mentioned earlier) where watermelons started exploding.
+Comment: 0,0:22:01.47,0:22:09.93,Trivia,,0,0,0,kara,{\pos(340,918)}It was determined the cause was "expansion accelerators and sweeteners".
 Dialogue: 50,0:01:44.21,0:01:48.34,Trivia,,0,0,0,fx,{\pos(74,78)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1129 0 b 1136 0 1144 8 1144 15 l 1144 165 b 1144 172 1136 180 1129 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
 Dialogue: 51,0:01:44.21,0:01:48.34,Trivia,,0,0,0,fx,{\pos(74,78)\c&HFFFFFF&\blur1\p1}m 15 0 l 1129 0 b 1136 0 1144 8 1144 15 l 1144 165 b 1144 172 1136 180 1129 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:01:44.21,0:01:48.34,Trivia,,0,0,0,fx,{\pos(93,97)\c&H000000&\1a&HA0&\blur1.6}Parody on the magazine, Hanako, a publication by Magazine House. \Nwhich features the Ebisu-Daikanyama-Nakameguro areas. Its \Ntarget demographic is woman in their twenties.
@@ -207,10 +225,10 @@ Dialogue: 50,0:12:02.28,0:12:12.29,Trivia,,0,0,0,fx,{\pos(107,26)\c&HFFFFFF&\1a&
 Dialogue: 51,0:12:02.28,0:12:12.29,Trivia,,0,0,0,fx,{\pos(107,26)\c&HFFFFFF&\blur1\p1}m 15 0 l 1009 0 b 1016 0 1024 8 1024 15 l 1024 213 b 1024 220 1016 228 1009 228 l 15 228 b 8 228 0 220 0 213 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:12:02.28,0:12:12.29,Trivia,,0,0,0,fx,{\pos(126,45)\c&H000000&\1a&HA0&\blur1.6}\NIn Asakusa, visitors partake in a ritual at Senso-ji Temple, \Nwhere they purify themselves with incense, write wishes, \Nmake offerings, and ring bells to seek divine favour.
 Dialogue: 53,0:12:02.28,0:12:12.29,Trivia,,0,0,0,fx,{\pos(126,45)\c&H000000&\blur0.8}\NIn Asakusa, visitors partake in a ritual at Senso-ji Temple, \Nwhere they purify themselves with incense, write wishes, \Nmake offerings, and ring bells to seek divine favour.
-Dialogue: 50,0:14:20.84,0:14:29.60,Trivia,,0,0,0,fx,{\pos(87,21)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 875 0 b 882 0 890 8 890 15 l 890 117 b 890 124 882 132 875 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
-Dialogue: 51,0:14:20.84,0:14:29.60,Trivia,,0,0,0,fx,{\pos(87,21)\c&HFFFFFF&\blur1\p1}m 15 0 l 875 0 b 882 0 890 8 890 15 l 890 117 b 890 124 882 132 875 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
-Dialogue: 52,0:14:20.84,0:14:29.60,Trivia,,0,0,0,fx,{\pos(106,40)\c&H000000&\1a&HA0&\blur1.6}Only Kigurumi is drinking a non-alcoholic beverage. \NThis is because she's actually underage.
-Dialogue: 53,0:14:20.84,0:14:29.60,Trivia,,0,0,0,fx,{\pos(106,40)\c&H000000&\blur0.8}Only Kigurumi is drinking a non-alcoholic beverage. \NThis is because she's actually underage.
+Dialogue: 50,0:14:20.84,0:14:29.60,Trivia,,0,0,0,fx,{\pos(87,35)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 875 0 b 882 0 890 8 890 15 l 890 117 b 890 124 882 132 875 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:14:20.84,0:14:29.60,Trivia,,0,0,0,fx,{\pos(87,35)\c&HFFFFFF&\blur1\p1}m 15 0 l 875 0 b 882 0 890 8 890 15 l 890 117 b 890 124 882 132 875 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:14:20.84,0:14:29.60,Trivia,,0,0,0,fx,{\pos(106,54)\c&H000000&\1a&HA0&\blur1.6}Only Kigurumi is drinking a non-alcoholic beverage. \NThat's because she's actually underage.
+Dialogue: 53,0:14:20.84,0:14:29.60,Trivia,,0,0,0,fx,{\pos(106,54)\c&H000000&\blur0.8}Only Kigurumi is drinking a non-alcoholic beverage. \NThat's because she's actually underage.
 Dialogue: 50,0:14:20.84,0:14:29.60,Trivia,,0,0,0,fx,{\pos(807,215)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 925 0 b 932 0 940 8 940 15 l 940 165 b 940 172 932 180 925 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
 Dialogue: 51,0:14:20.84,0:14:29.60,Trivia,,0,0,0,fx,{\pos(807,215)\c&HFFFFFF&\blur1\p1}m 15 0 l 925 0 b 932 0 940 8 940 15 l 940 165 b 940 172 932 180 925 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:14:20.84,0:14:29.60,Trivia,,0,0,0,fx,{\pos(826,234)\c&H000000&\1a&HA0&\blur1.6}That said, in the rakugo community, only Seconds and \Nabove are allowed to drink, even in private. So Tetora \Nand Kururu should not be drinking.
@@ -239,6 +257,78 @@ Dialogue: 50,0:15:29.99,0:15:31.99,Trivia,,0,0,0,fx,{\pos(768,810)\c&HFFFFFF&\1a
 Dialogue: 51,0:15:29.99,0:15:31.99,Trivia,,0,0,0,fx,{\pos(768,810)\c&HFFFFFF&\blur1\p1}m 15 0 l 809 0 b 816 0 824 8 824 15 l 824 165 b 824 172 816 180 809 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:15:29.99,0:15:31.99,Trivia,,0,0,0,fx,{\pos(787,829)\c&H000000&\1a&HA0&\blur1.6}The translation focuses more on Tetora's luck. \N "Raku" is how "Luck" is be pronounced with a \Nthick Japanese accent.
 Dialogue: 53,0:15:29.99,0:15:31.99,Trivia,,0,0,0,fx,{\pos(787,829)\c&H000000&\blur0.8}The translation focuses more on Tetora's luck. \N "Raku" is how "Luck" is be pronounced with a \Nthick Japanese accent.
+Dialogue: 50,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(143,197)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 959 0 b 966 0 974 8 974 15 l 974 117 b 974 124 966 132 959 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(143,197)\c&HFFFFFF&\blur1\p1}m 15 0 l 959 0 b 966 0 974 8 974 15 l 974 117 b 974 124 966 132 959 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(162,216)\c&H000000&\1a&HA0&\blur1.6}Chidejika and Analoguma, mascosts representing digital \Nterrestrial and analogue broadcasting respectively.
+Dialogue: 53,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(162,216)\c&H000000&\blur0.8}Chidejika and Analoguma, mascosts representing digital \Nterrestrial and analogue broadcasting respectively.
+Dialogue: 50,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(871,354)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 819 0 b 826 0 834 8 834 15 l 834 117 b 834 124 826 132 819 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(871,354)\c&HFFFFFF&\blur1\p1}m 15 0 l 819 0 b 826 0 834 8 834 15 l 834 117 b 834 124 826 132 819 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(890,373)\c&H000000&\1a&HA0&\blur1.6}Analoguma was created by 2ch, and would go on \Nto become the {\i1}pedobear{\i0} meme in the west.
+Dialogue: 53,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(890,373)\c&H000000&\blur0.8}Analoguma was created by 2ch, and would go on \Nto become the {\i1}pedobear{\i0} meme in the west.
+Dialogue: 50,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(131,510)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1073 0 b 1080 0 1088 8 1088 15 l 1088 165 b 1088 172 1080 180 1073 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(131,510)\c&HFFFFFF&\blur1\p1}m 15 0 l 1073 0 b 1080 0 1088 8 1088 15 l 1088 165 b 1088 172 1080 180 1073 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(150,529)\c&H000000&\1a&HA0&\blur1.6}This conversation references the scandal involving the actor \N{\i1}Tsuyoshi Kusanagi{\i0}, a frontman for promoting digital broadcast, \Nwho was arrested for public nudity in 2009.
+Dialogue: 53,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(150,529)\c&H000000&\blur0.8}This conversation references the scandal involving the actor \N{\i1}Tsuyoshi Kusanagi{\i0}, a frontman for promoting digital broadcast, \Nwho was arrested for public nudity in 2009.
+Dialogue: 50,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(653,720)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1062 0 b 1069 0 1077 8 1077 15 l 1077 117 b 1077 124 1069 132 1062 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(653,720)\c&HFFFFFF&\blur1\p1}m 15 0 l 1062 0 b 1069 0 1077 8 1077 15 l 1077 117 b 1077 124 1069 132 1062 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(672,739)\c&H000000&\1a&HA0&\blur1.6}The yellow attire of Chidejika may resemble a school swimsuit \Nor leotard, but the official stance denied these associations.
+Dialogue: 53,0:18:48.15,0:18:58.78,Trivia,,0,0,0,fx,{\pos(672,739)\c&H000000&\blur0.8}The yellow attire of Chidejika may resemble a school swimsuit \Nor leotard, but the official stance denied these associations.
+Dialogue: 50,0:16:53.91,0:16:57.12,Trivia,,0,0,0,fx,{\pos(147,61)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 486 0 b 493 0 501 8 501 15 l 501 69 b 501 76 493 84 486 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:16:53.91,0:16:57.12,Trivia,,0,0,0,fx,{\pos(147,61)\c&HFFFFFF&\blur1\p1}m 15 0 l 486 0 b 493 0 501 8 501 15 l 501 69 b 501 76 493 84 486 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:16:53.91,0:16:57.12,Trivia,,0,0,0,fx,{\pos(166,80)\c&H000000&\1a&HA0&\blur1.6}A Japanese children's song.
+Dialogue: 53,0:16:53.91,0:16:57.12,Trivia,,0,0,0,fx,{\pos(166,80)\c&H000000&\blur0.8}A Japanese children's song.
+Dialogue: 50,0:17:10.01,0:17:13.18,Trivia,,0,0,0,fx,{\pos(79,67)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 901 0 b 908 0 916 8 916 15 l 916 69 b 916 76 908 84 901 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:17:10.01,0:17:13.18,Trivia,,0,0,0,fx,{\pos(79,67)\c&HFFFFFF&\blur1\p1}m 15 0 l 901 0 b 908 0 916 8 916 15 l 916 69 b 916 76 908 84 901 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:17:10.01,0:17:13.18,Trivia,,0,0,0,fx,{\pos(98,86)\c&H000000&\1a&HA0&\blur1.6}The same uniforms as seen in {\i1}Waiting in the Summer{\i0}.
+Dialogue: 53,0:17:10.01,0:17:13.18,Trivia,,0,0,0,fx,{\pos(98,86)\c&H000000&\blur0.8}The same uniforms as seen in {\i1}Waiting in the Summer{\i0}.
+Dialogue: 50,0:17:17.85,0:17:27.57,Trivia,,0,0,0,fx,{\pos(1077,65)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 775 0 b 782 0 790 8 790 15 l 790 117 b 790 124 782 132 775 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:17:17.85,0:17:27.57,Trivia,,0,0,0,fx,{\pos(1077,65)\c&HFFFFFF&\blur1\p1}m 15 0 l 775 0 b 782 0 790 8 790 15 l 790 117 b 790 124 782 132 775 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:17:17.85,0:17:27.57,Trivia,,0,0,0,fx,{\pos(1096,84)\c&H000000&\1a&HA0&\blur1.6}This scene bears a striking similarity to a \Nscene in episode 3 of {\i1}Waiting in the Summer{\i0}.
+Dialogue: 53,0:17:17.85,0:17:27.57,Trivia,,0,0,0,fx,{\pos(1096,84)\c&H000000&\blur0.8}This scene bears a striking similarity to a \Nscene in episode 3 of {\i1}Waiting in the Summer{\i0}.
+Dialogue: 50,0:17:43.21,0:17:45.92,Trivia,,0,0,0,fx,{\pos(1059,105)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 697 0 b 704 0 712 8 712 15 l 712 117 b 712 124 704 132 697 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:17:43.21,0:17:45.92,Trivia,,0,0,0,fx,{\pos(1059,105)\c&HFFFFFF&\blur1\p1}m 15 0 l 697 0 b 704 0 712 8 712 15 l 712 117 b 712 124 704 132 697 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:17:43.21,0:17:45.92,Trivia,,0,0,0,fx,{\pos(1078,124)\c&H000000&\1a&HA0&\blur1.6}Tea stems floating perfectly vertical \Nare often considered to be a good omen.
+Dialogue: 53,0:17:43.21,0:17:45.92,Trivia,,0,0,0,fx,{\pos(1078,124)\c&H000000&\blur0.8}Tea stems floating perfectly vertical \Nare often considered to be a good omen.
+Dialogue: 50,0:17:46.67,0:17:53.39,Trivia,,0,0,0,fx,{\pos(1199,151)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 616 0 b 623 0 631 8 631 15 l 631 69 b 631 76 623 84 616 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:17:46.67,0:17:53.39,Trivia,,0,0,0,fx,{\pos(1199,151)\c&HFFFFFF&\blur1\p1}m 15 0 l 616 0 b 623 0 631 8 631 15 l 631 69 b 631 76 623 84 616 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:17:46.67,0:17:53.39,Trivia,,0,0,0,fx,{\pos(1218,170)\c&H000000&\1a&HA0&\blur1.6}500 yen bills are unbelievably rare.
+Dialogue: 53,0:17:46.67,0:17:53.39,Trivia,,0,0,0,fx,{\pos(1218,170)\c&H000000&\blur0.8}500 yen bills are unbelievably rare.
+Dialogue: 50,0:18:00.10,0:18:05.06,Trivia,,0,0,0,fx,{\pos(1125,75)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 693 0 b 700 0 708 8 708 15 l 708 69 b 708 76 700 84 693 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:18:00.10,0:18:05.06,Trivia,,0,0,0,fx,{\pos(1125,75)\c&HFFFFFF&\blur1\p1}m 15 0 l 693 0 b 700 0 708 8 708 15 l 708 69 b 708 76 700 84 693 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:18:00.10,0:18:05.06,Trivia,,0,0,0,fx,{\pos(1144,94)\c&H000000&\1a&HA0&\blur1.6}Hammerin' Harry from {\i1}Hammerin' Harry{\i0}.
+Dialogue: 53,0:18:00.10,0:18:05.06,Trivia,,0,0,0,fx,{\pos(1144,94)\c&H000000&\blur0.8}Hammerin' Harry from {\i1}Hammerin' Harry{\i0}.
+Dialogue: 50,0:18:40.27,0:18:46.02,Trivia,,0,0,0,fx,{\pos(131,701)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 991 0 b 998 0 1006 8 1006 15 l 1006 165 b 1006 172 998 180 991 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:18:40.27,0:18:46.02,Trivia,,0,0,0,fx,{\pos(131,701)\c&HFFFFFF&\blur1\p1}m 15 0 l 991 0 b 998 0 1006 8 1006 15 l 1006 165 b 1006 172 998 180 991 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:18:40.27,0:18:46.02,Trivia,,0,0,0,fx,{\pos(150,720)\c&H000000&\1a&HA0&\blur1.6}Reference to the TV programme, {\i1}Attack 25{\i0}. There was a \Nmeme of a contestant who celebrated his victory, but it \Nturned out he was cheating.
+Dialogue: 53,0:18:40.27,0:18:46.02,Trivia,,0,0,0,fx,{\pos(150,720)\c&H000000&\blur0.8}Reference to the TV programme, {\i1}Attack 25{\i0}. There was a \Nmeme of a contestant who celebrated his victory, but it \Nturned out he was cheating.
+Dialogue: 50,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(107,157)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 947 0 b 954 0 962 8 962 15 l 962 165 b 962 172 954 180 947 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(107,157)\c&HFFFFFF&\blur1\p1}m 15 0 l 947 0 b 954 0 962 8 962 15 l 962 165 b 962 172 954 180 947 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(126,176)\c&H000000&\1a&HA0&\blur1.6}Toshihiro Miura, an editor for Weekly Shounen Manga. \NAll the titles here are based off of real manga he didn't \Nactually have any involvement in.
+Dialogue: 53,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(126,176)\c&H000000&\blur0.8}Toshihiro Miura, an editor for Weekly Shounen Manga. \NAll the titles here are based off of real manga he didn't \Nactually have any involvement in.
+Dialogue: 50,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(899,657)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 540 0 b 547 0 555 8 555 15 l 555 69 b 555 76 547 84 540 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(899,657)\c&HFFFFFF&\blur1\p1}m 15 0 l 540 0 b 547 0 555 8 555 15 l 555 69 b 555 76 547 84 540 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(918,676)\c&H000000&\1a&HA0&\blur1.6}Reference to {\i1}Oh My Goddess!{\i0}
+Dialogue: 53,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(918,676)\c&H000000&\blur0.8}Reference to {\i1}Oh My Goddess!{\i0}
+Dialogue: 50,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(997,759)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 429 0 b 436 0 444 8 444 15 l 444 69 b 444 76 436 84 429 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(997,759)\c&HFFFFFF&\blur1\p1}m 15 0 l 429 0 b 436 0 444 8 444 15 l 444 69 b 444 76 436 84 429 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(1016,778)\c&H000000&\1a&HA0&\blur1.6}Reference to {\i1}Love-yan{\i0}.
+Dialogue: 53,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(1016,778)\c&H000000&\blur0.8}Reference to {\i1}Love-yan{\i0}.
+Dialogue: 50,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(907,851)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 532 0 b 539 0 547 8 547 15 l 547 69 b 547 76 539 84 532 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(907,851)\c&HFFFFFF&\blur1\p1}m 15 0 l 532 0 b 539 0 547 8 547 15 l 547 69 b 547 76 539 84 532 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(926,870)\c&H000000&\1a&HA0&\blur1.6}Reference to {\i1}Attack on Titan{\i0}.
+Dialogue: 53,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(926,870)\c&H000000&\blur0.8}Reference to {\i1}Attack on Titan{\i0}.
+Dialogue: 50,0:20:52.98,0:20:53.98,Trivia,,0,0,0,fx,{\pos(203,429)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 462 0 b 469 0 477 8 477 15 l 477 117 b 477 124 469 132 462 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:20:52.98,0:20:53.98,Trivia,,0,0,0,fx,{\pos(203,429)\c&HFFFFFF&\blur1\p1}m 15 0 l 462 0 b 469 0 477 8 477 15 l 477 117 b 477 124 469 132 462 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:20:52.98,0:20:53.98,Trivia,,0,0,0,fx,{\pos(222,448)\c&H000000&\1a&HA0&\blur1.6}Reference to the all-men \Nmusic-dance group {\i1}Exile{\i0}.
+Dialogue: 53,0:20:52.98,0:20:53.98,Trivia,,0,0,0,fx,{\pos(222,448)\c&H000000&\blur0.8}Reference to the all-men \Nmusic-dance group {\i1}Exile{\i0}.
+Dialogue: 50,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(77,749)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1349 0 b 1356 0 1364 8 1364 15 l 1364 117 b 1364 124 1356 132 1349 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(77,749)\c&HFFFFFF&\blur1\p1}m 15 0 l 1349 0 b 1356 0 1364 8 1364 15 l 1364 117 b 1364 124 1356 132 1349 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(96,768)\c&H000000&\1a&HA0&\blur1.6}Exploding watermelon, referring to an incident in a Chinese watermelon farm \N(hence the "imported" mentioned earlier) where watermelons started exploding.
+Dialogue: 53,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(96,768)\c&H000000&\blur0.8}Exploding watermelon, referring to an incident in a Chinese watermelon farm \N(hence the "imported" mentioned earlier) where watermelons started exploding.
+Dialogue: 50,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(321,899)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1277 0 b 1284 0 1292 8 1292 15 l 1292 69 b 1292 76 1284 84 1277 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(321,899)\c&HFFFFFF&\blur1\p1}m 15 0 l 1277 0 b 1284 0 1292 8 1292 15 l 1292 69 b 1292 76 1284 84 1277 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(340,918)\c&H000000&\1a&HA0&\blur1.6}It was determined the cause was "expansion accelerators and sweeteners".
+Dialogue: 53,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(340,918)\c&H000000&\blur0.8}It was determined the cause was "expansion accelerators and sweeteners".
 
 [Aegisub Extradata]
 Data: 20,_aegi_folddata,e0;0;1
