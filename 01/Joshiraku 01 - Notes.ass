@@ -41,7 +41,7 @@ Comment: 51,0:00:00.00,0:00:00.00,Trivia,bubble,0,0,0,template line notext,{!ln.
 Comment: 52,0:00:00.00,0:00:00.00,Trivia,text,0,0,0,template line notext,{!ln.line.tag('pos')!\c&H000000&\1a&HA0&\blur1.6}!textproper!
 Comment: 53,0:00:00.00,0:00:00.00,Trivia,text,0,0,0,template line notext,{!ln.line.tag('pos')!\c&H000000&\blur0.8}!textproper!
 Comment: 0,0:00:00.00,0:00:00.00,Trivia,,0,0,0,code once,{=5}
-Comment: 0,0:00:00.00,0:00:00.00,Trivia,,0,0,0,,{=6}---- Additional Notes
+Comment: 0,0:00:00.00,0:00:00.00,Trivia,,0,0,0,,{=20}---- Additional Notes
 Comment: 0,0:00:00.00,0:00:10.03,Trivia,,0,0,0,kara,{\pos(118,81)}Heya! This is an additional track that contains \Ntrivia about our translation choices, references, \Nand other fun and interesting little titbits.
 Comment: 0,0:00:00.00,0:00:10.03,Trivia,,0,0,0,kara,{\pos(1000,187)}This track is only recommended for viewers \Nwho don’t mind if we sap out all the comedy \Nby over-explaining jokes, references, etc., \Nand geeking out over cool bits of trivia.
 Comment: 0,0:00:00.00,0:00:10.03,Trivia,,0,0,0,kara,{\pos(167,360)}For regular viewing, we highly recommend \Nyou switch to the first subtitle track, \Nand maybe revisit this track on a rewatch?
@@ -71,6 +71,7 @@ Comment: 0,0:02:16.53,0:02:19.83,Trivia,,0,0,0,kara,{\pos(144,384)}Gankyou is se
 Comment: 0,0:02:20.16,0:02:21.12,Trivia,,0,0,0,kara,{\pos(1008,114)}This may be a reference to the {\i1}K-ON!{\i0} Opening.
 Comment: 0,0:02:21.12,0:02:23.62,Trivia,,0,0,0,kara,{\pos(993,141)}The way Tetora moves Kukuru is a reference to \Nthe rakugo story {\i1}"The Camel"{\i0}, where a deceased \N"camel" is made to dance.
 Comment: 0,0:02:26.17,0:02:28.75,Trivia,,0,0,0,kara,{\pos(659,138)}These are all casual clothes shown in \Nvolume 2 bonus pages of the manga.
+Comment: 0,0:02:44.39,0:02:46.23,Trivia,,0,0,0,kara,{\pos(80,66)}Reference to the {\i1}Shore of Tago Bay, Ejiri at Tokaido{\i0}, \Npainted by the famous Japanese painter, Katsushika Hokusai.
 Comment: 0,0:02:46.77,0:02:49.07,Trivia,,0,0,0,kara,{\pos(142,96)}This flat, monochromatic colour scheme may be a homage \Nto {\i1}Akiyuki Shinbo{\i0}, an anime director mostly known for \Nhis heavy involvement in studio {\i1}Shaft{\i0} productions.
 Comment: 0,0:03:55.30,0:04:01.26,Trivia,,0,0,0,kara,{\pos(1096,117)}This entire cut is animated on "ones", \Nmeaning every frame is a unique drawing. \NThis takes a lot of time and effort to do!
 Comment: 0,0:03:55.30,0:04:01.26,Trivia,,0,0,0,kara,{\pos(1120,338)}This is the standard frame rate for Disney \Nanimation, but your average anime will be \Nanimated on twos or threes, mostly for \Ntiming purposes and to reduce workload. {https://youtu.be/_KRb_qV9P4g?si=GServwgq4VeTgxs4&t=474}
@@ -139,12 +140,13 @@ Comment: 0,0:21:52.46,0:21:56.75,Trivia,,0,0,0,kara,{\pos(101,64)}The abductions
 Comment: 0,0:21:56.75,0:22:01.01,Trivia,,0,0,0,kara,{\pos(87,79)}Various allegations of China stealing Japanese technology.
 Comment: 0,0:22:01.01,0:22:05.60,Trivia,,0,0,0,kara,{\pos(93,85)}The Senkaku Islands dispute between Japan, China, and Taiwan.
 Comment: 0,0:22:05.60,0:22:10.10,Trivia,,0,0,0,kara,{\pos(85,69)}The National Diet Building. In 2012, the Social Security and \NTax Reform Act passed, increasing consumption taxes.
+Comment: 0,0:22:10.10,0:22:15.40,Trivia,,0,0,0,kara,{\pos(444,580)}{\i1}The Great Wave off Kanagawa{\i0}, also painted by Katsushika Hokusai. {https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa}
 Comment: 0,0:22:50.31,0:22:59.57,Trivia,,0,0,0,kara,{\pos(136,586)}The float Tetora is dancing on is from the Mid-Autumn \NFestival held in Kansai. The "daikogata" who dance on \Nit are considered the highlight of the festival.
 Comment: 0,0:22:53.48,0:22:59.57,Trivia,,0,0,0,kara,{\pos(84,796)}The portable shrine Gankyou is riding is the Hanazono Shrine. \NIt's paraded around Shinjuku during the annual festival.
 Comment: 0,0:22:55.81,0:22:59.57,Trivia,,0,0,0,kara,{\pos(1138,592)}The tree stump Kukuru is riding \Nis a reference to the Onbashira Festival.
 Comment: 0,0:22:58.11,0:22:59.57,Trivia,,0,0,0,kara,{\pos(1227,806)}Festival of San Fermín, a Spanish \Nfestival known for its bull running.
 Comment: 0,0:23:15.83,0:23:16.58,Trivia,,0,0,0,kara,{\pos(126,156)}Parody of a photo taken during \Nthe Beatles' tour to Japan.
-Comment: 0,0:23:16.58,0:23:17.38,Trivia,,0,0,0,kara,{=7}{\pos(126,156)}The Tokyo Tower, Tokyo Skytree, \Nand Sky Tower West Tokyo.
+Comment: 0,0:23:16.58,0:23:17.38,Trivia,,0,0,0,kara,{=21}{\pos(126,156)}The Tokyo Tower, Tokyo Skytree, \Nand Sky Tower West Tokyo.
 Dialogue: 50,0:00:00.00,0:00:10.03,Trivia,,0,0,0,fx,{\pos(99,62)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 834 0 b 841 0 849 8 849 15 l 849 165 b 849 172 841 180 834 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
 Dialogue: 51,0:00:00.00,0:00:10.03,Trivia,,0,0,0,fx,{\pos(99,62)\c&HFFFFFF&\blur1\p1}m 15 0 l 834 0 b 841 0 849 8 849 15 l 849 165 b 849 172 841 180 834 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:00:00.00,0:00:10.03,Trivia,,0,0,0,fx,{\pos(118,81)\c&H000000&\1a&HA0&\blur1.6}Heya! This is an additional track that contains \Ntrivia about our translation choices, references, \Nand other fun and interesting little titbits.
@@ -261,6 +263,10 @@ Dialogue: 50,0:02:26.17,0:02:28.75,Trivia,,0,0,0,fx,{\pos(640,119)\c&HFFFFFF&\1a
 Dialogue: 51,0:02:26.17,0:02:28.75,Trivia,,0,0,0,fx,{\pos(640,119)\c&HFFFFFF&\blur1\p1}m 15 0 l 641 0 b 648 0 656 8 656 15 l 656 117 b 656 124 648 132 641 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:02:26.17,0:02:28.75,Trivia,,0,0,0,fx,{\pos(659,138)\c&H000000&\1a&HA0&\blur1.6}These are all casual clothes shown in \Nvolume 2 bonus pages of the manga.
 Dialogue: 53,0:02:26.17,0:02:28.75,Trivia,,0,0,0,fx,{\pos(659,138)\c&H000000&\blur0.8}These are all casual clothes shown in \Nvolume 2 bonus pages of the manga.
+Dialogue: 50,0:02:44.39,0:02:46.23,Trivia,,0,0,0,fx,{\pos(61,47)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1040 0 b 1047 0 1055 8 1055 15 l 1055 117 b 1055 124 1047 132 1040 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:02:44.39,0:02:46.23,Trivia,,0,0,0,fx,{\pos(61,47)\c&HFFFFFF&\blur1\p1}m 15 0 l 1040 0 b 1047 0 1055 8 1055 15 l 1055 117 b 1055 124 1047 132 1040 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:02:44.39,0:02:46.23,Trivia,,0,0,0,fx,{\pos(80,66)\c&H000000&\1a&HA0&\blur1.6}Reference to the {\i1}Shore of Tago Bay, Ejiri at Tokaido{\i0}, \Npainted by the famous Japanese painter, Katsushika Hokusai.
+Dialogue: 53,0:02:44.39,0:02:46.23,Trivia,,0,0,0,fx,{\pos(80,66)\c&H000000&\blur0.8}Reference to the {\i1}Shore of Tago Bay, Ejiri at Tokaido{\i0}, \Npainted by the famous Japanese painter, Katsushika Hokusai.
 Dialogue: 50,0:02:46.77,0:02:49.07,Trivia,,0,0,0,fx,{\pos(123,77)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 971 0 b 978 0 986 8 986 15 l 986 165 b 986 172 978 180 971 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
 Dialogue: 51,0:02:46.77,0:02:49.07,Trivia,,0,0,0,fx,{\pos(123,77)\c&HFFFFFF&\blur1\p1}m 15 0 l 971 0 b 978 0 986 8 986 15 l 986 165 b 986 172 978 180 971 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:02:46.77,0:02:49.07,Trivia,,0,0,0,fx,{\pos(142,96)\c&H000000&\1a&HA0&\blur1.6}This flat, monochromatic colour scheme may be a homage \Nto {\i1}Akiyuki Shinbo{\i0}, an anime director mostly known for \Nhis heavy involvement in studio {\i1}Shaft{\i0} productions.
@@ -533,6 +539,10 @@ Dialogue: 50,0:22:05.60,0:22:10.10,Trivia,,0,0,0,fx,{\pos(66,50)\c&HFFFFFF&\1a&H
 Dialogue: 51,0:22:05.60,0:22:10.10,Trivia,,0,0,0,fx,{\pos(66,50)\c&HFFFFFF&\blur1\p1}m 15 0 l 1025 0 b 1032 0 1040 8 1040 15 l 1040 117 b 1040 124 1032 132 1025 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:22:05.60,0:22:10.10,Trivia,,0,0,0,fx,{\pos(85,69)\c&H000000&\1a&HA0&\blur1.6}The National Diet Building. In 2012, the Social Security and \NTax Reform Act passed, increasing consumption taxes.
 Dialogue: 53,0:22:05.60,0:22:10.10,Trivia,,0,0,0,fx,{\pos(85,69)\c&H000000&\blur0.8}The National Diet Building. In 2012, the Social Security and \NTax Reform Act passed, increasing consumption taxes.
+Dialogue: 50,0:22:10.10,0:22:15.40,Trivia,,0,0,0,fx,{\pos(425,561)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1155 0 b 1162 0 1170 8 1170 15 l 1170 69 b 1170 76 1162 84 1155 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:22:10.10,0:22:15.40,Trivia,,0,0,0,fx,{\pos(425,561)\c&HFFFFFF&\blur1\p1}m 15 0 l 1155 0 b 1162 0 1170 8 1170 15 l 1170 69 b 1170 76 1162 84 1155 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:22:10.10,0:22:15.40,Trivia,,0,0,0,fx,{\pos(444,580)\c&H000000&\1a&HA0&\blur1.6\i1}The Great Wave off Kanagawa{\i0}, also painted by Katsushika Hokusai. {https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa}
+Dialogue: 53,0:22:10.10,0:22:15.40,Trivia,,0,0,0,fx,{\pos(444,580)\c&H000000&\blur0.8\i1}The Great Wave off Kanagawa{\i0}, also painted by Katsushika Hokusai. {https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa}
 Dialogue: 50,0:22:50.31,0:22:59.57,Trivia,,0,0,0,fx,{\pos(117,567)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 932 0 b 939 0 947 8 947 15 l 947 165 b 947 172 939 180 932 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
 Dialogue: 51,0:22:50.31,0:22:59.57,Trivia,,0,0,0,fx,{\pos(117,567)\c&HFFFFFF&\blur1\p1}m 15 0 l 932 0 b 939 0 947 8 947 15 l 947 165 b 947 172 939 180 932 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:22:50.31,0:22:59.57,Trivia,,0,0,0,fx,{\pos(136,586)\c&H000000&\1a&HA0&\blur1.6}The float Tetora is dancing on is from the Mid-Autumn \NFestival held in Kansai. The "daikogata" who dance on \Nit are considered the highlight of the festival.
@@ -561,17 +571,11 @@ Dialogue: 53,0:23:16.58,0:23:17.38,Trivia,,0,0,0,fx,{=19}{\pos(126,156)\c&H00000
 [Aegisub Extradata]
 Data: 4,_aegi_folddata,e0;1;1
 Data: 5,_aegi_folddata,e1;1;1
-Data: 6,_aegi_folddata,e0;1;2
-Data: 7,_aegi_folddata,e1;1;2
-Data: 8,_aegi_folddata,e1;1;3
-Data: 9,_aegi_folddata,e1;1;4
-Data: 10,_aegi_folddata,e1;1;5
-Data: 11,_aegi_folddata,e1;1;6
-Data: 12,_aegi_folddata,e0;0;1
-Data: 13,_aegi_folddata,e1;0;1
 Data: 14,_aegi_folddata,e0;0;2
 Data: 15,_aegi_folddata,e1;0;2
 Data: 16,_aegi_folddata,e1;0;3
 Data: 17,_aegi_folddata,e1;0;4
 Data: 18,_aegi_folddata,e1;0;5
 Data: 19,_aegi_folddata,e1;0;6
+Data: 20,_aegi_folddata,e0;1;2
+Data: 21,_aegi_folddata,e1;1;2
