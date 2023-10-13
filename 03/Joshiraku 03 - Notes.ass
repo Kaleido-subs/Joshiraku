@@ -98,9 +98,10 @@ Comment: 0,0:20:43.76,0:20:44.81,Trivia,,0,0,0,kara,{\pos(126,176)}Toshihiro Miu
 Comment: 0,0:20:43.76,0:20:44.81,Trivia,,0,0,0,kara,{\pos(918,676)}Reference to {\i1}Oh My Goddess!{\i0}
 Comment: 0,0:20:43.76,0:20:44.81,Trivia,,0,0,0,kara,{\pos(1016,778)}Reference to {\i1}Love-yan{\i0}.
 Comment: 0,0:20:43.76,0:20:44.81,Trivia,,0,0,0,kara,{\pos(926,870)}Reference to {\i1}Attack on Titan{\i0}.
-Comment: 0,0:20:52.98,0:20:53.98,Trivia,,0,0,0,kara,{\pos(222,448)}Reference to the all-men \Nmusic-dance group {\i1}Exile{\i0}.
+Comment: 0,0:20:52.98,0:20:53.98,Trivia,,0,0,0,kara,{\pos(76,339)}Reference to the Japanese boy band, {\i1}Exile{\i0}, \Nand {\i1}Edo{\i0}, the former name of Tokyo.
+Comment: 0,0:20:53.98,0:20:58.82,Trivia,,0,0,0,kara,{\pos(98,88)}This song and dance is a parody of Exile's 2003 single, {\i1}Choo Choo TRAIN{\i0} (which \Nin turn is a cover of the 1991 song by another Japanese group, {\i1}ZOO{\i0}. The dance \Nspecifically is the one performed by ZOO.
 Comment: 0,0:22:01.47,0:22:09.93,Trivia,,0,0,0,kara,{\pos(96,768)}Exploding watermelon, referring to an incident in a Chinese watermelon farm \N(hence the "imported" mentioned earlier) where watermelons started exploding.
-Comment: 0,0:22:01.47,0:22:09.93,Trivia,,0,0,0,kara,{\pos(340,918)}It was determined the cause was "expansion accelerators and sweeteners".
+Comment: 0,0:22:01.47,0:22:09.93,Trivia,,0,0,0,kara,{\pos(290,918)}The official cause was determined to be "growth accelerating chemicals and sweeteners".
 Dialogue: 50,0:01:44.21,0:01:48.34,Trivia,,0,0,0,fx,{\pos(74,78)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1129 0 b 1136 0 1144 8 1144 15 l 1144 165 b 1144 172 1136 180 1129 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
 Dialogue: 51,0:01:44.21,0:01:48.34,Trivia,,0,0,0,fx,{\pos(74,78)\c&HFFFFFF&\blur1\p1}m 15 0 l 1129 0 b 1136 0 1144 8 1144 15 l 1144 165 b 1144 172 1136 180 1129 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:01:44.21,0:01:48.34,Trivia,,0,0,0,fx,{\pos(93,97)\c&H000000&\1a&HA0&\blur1.6}Parody on the magazine, Hanako, a publication by Magazine House. \Nwhich features the Ebisu-Daikanyama-Nakameguro areas. Its \Ntarget demographic is woman in their twenties.
@@ -317,18 +318,22 @@ Dialogue: 50,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(907,851)\c&HFFFFFF&\1a
 Dialogue: 51,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(907,851)\c&HFFFFFF&\blur1\p1}m 15 0 l 532 0 b 539 0 547 8 547 15 l 547 69 b 547 76 539 84 532 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(926,870)\c&H000000&\1a&HA0&\blur1.6}Reference to {\i1}Attack on Titan{\i0}.
 Dialogue: 53,0:20:43.76,0:20:44.81,Trivia,,0,0,0,fx,{\pos(926,870)\c&H000000&\blur0.8}Reference to {\i1}Attack on Titan{\i0}.
-Dialogue: 50,0:20:52.98,0:20:53.98,Trivia,,0,0,0,fx,{\pos(203,429)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 462 0 b 469 0 477 8 477 15 l 477 117 b 477 124 469 132 462 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
-Dialogue: 51,0:20:52.98,0:20:53.98,Trivia,,0,0,0,fx,{\pos(203,429)\c&HFFFFFF&\blur1\p1}m 15 0 l 462 0 b 469 0 477 8 477 15 l 477 117 b 477 124 469 132 462 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
-Dialogue: 52,0:20:52.98,0:20:53.98,Trivia,,0,0,0,fx,{\pos(222,448)\c&H000000&\1a&HA0&\blur1.6}Reference to the all-men \Nmusic-dance group {\i1}Exile{\i0}.
-Dialogue: 53,0:20:52.98,0:20:53.98,Trivia,,0,0,0,fx,{\pos(222,448)\c&H000000&\blur0.8}Reference to the all-men \Nmusic-dance group {\i1}Exile{\i0}.
+Dialogue: 50,0:20:52.98,0:20:53.98,Trivia,,0,0,0,fx,{\pos(57,320)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 760 0 b 767 0 775 8 775 15 l 775 117 b 775 124 767 132 760 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:20:52.98,0:20:53.98,Trivia,,0,0,0,fx,{\pos(57,320)\c&HFFFFFF&\blur1\p1}m 15 0 l 760 0 b 767 0 775 8 775 15 l 775 117 b 775 124 767 132 760 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:20:52.98,0:20:53.98,Trivia,,0,0,0,fx,{\pos(76,339)\c&H000000&\1a&HA0&\blur1.6}Reference to the Japanese boy band, {\i1}Exile{\i0}, \Nand {\i1}Edo{\i0}, the former name of Tokyo.
+Dialogue: 53,0:20:52.98,0:20:53.98,Trivia,,0,0,0,fx,{\pos(76,339)\c&H000000&\blur0.8}Reference to the Japanese boy band, {\i1}Exile{\i0}, \Nand {\i1}Edo{\i0}, the former name of Tokyo.
+Dialogue: 50,0:20:53.98,0:20:58.82,Trivia,,0,0,0,fx,{\pos(79,69)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1363 0 b 1370 0 1378 8 1378 15 l 1378 165 b 1378 172 1370 180 1363 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:20:53.98,0:20:58.82,Trivia,,0,0,0,fx,{\pos(79,69)\c&HFFFFFF&\blur1\p1}m 15 0 l 1363 0 b 1370 0 1378 8 1378 15 l 1378 165 b 1378 172 1370 180 1363 180 l 15 180 b 8 180 0 172 0 165 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:20:53.98,0:20:58.82,Trivia,,0,0,0,fx,{\pos(98,88)\c&H000000&\1a&HA0&\blur1.6}This song and dance is a parody of Exile's 2003 single, {\i1}Choo Choo TRAIN{\i0} (which \Nin turn is a cover of the 1991 song by another Japanese group, {\i1}ZOO{\i0}. The dance \Nspecifically is the one performed by ZOO.
+Dialogue: 53,0:20:53.98,0:20:58.82,Trivia,,0,0,0,fx,{\pos(98,88)\c&H000000&\blur0.8}This song and dance is a parody of Exile's 2003 single, {\i1}Choo Choo TRAIN{\i0} (which \Nin turn is a cover of the 1991 song by another Japanese group, {\i1}ZOO{\i0}. The dance \Nspecifically is the one performed by ZOO.
 Dialogue: 50,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(77,749)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1349 0 b 1356 0 1364 8 1364 15 l 1364 117 b 1364 124 1356 132 1349 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
 Dialogue: 51,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(77,749)\c&HFFFFFF&\blur1\p1}m 15 0 l 1349 0 b 1356 0 1364 8 1364 15 l 1364 117 b 1364 124 1356 132 1349 132 l 15 132 b 8 132 0 124 0 117 l 0 15 b 0 8 8 0 15 0
 Dialogue: 52,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(96,768)\c&H000000&\1a&HA0&\blur1.6}Exploding watermelon, referring to an incident in a Chinese watermelon farm \N(hence the "imported" mentioned earlier) where watermelons started exploding.
 Dialogue: 53,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(96,768)\c&H000000&\blur0.8}Exploding watermelon, referring to an incident in a Chinese watermelon farm \N(hence the "imported" mentioned earlier) where watermelons started exploding.
-Dialogue: 50,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(321,899)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1277 0 b 1284 0 1292 8 1292 15 l 1292 69 b 1292 76 1284 84 1277 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
-Dialogue: 51,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(321,899)\c&HFFFFFF&\blur1\p1}m 15 0 l 1277 0 b 1284 0 1292 8 1292 15 l 1292 69 b 1292 76 1284 84 1277 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
-Dialogue: 52,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(340,918)\c&H000000&\1a&HA0&\blur1.6}It was determined the cause was "expansion accelerators and sweeteners".
-Dialogue: 53,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(340,918)\c&H000000&\blur0.8}It was determined the cause was "expansion accelerators and sweeteners".
+Dialogue: 50,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(271,899)\c&HFFFFFF&\1a&HFE&\bord3.4\blur1\p1}m 15 0 l 1505 0 b 1512 0 1520 8 1520 15 l 1520 69 b 1520 76 1512 84 1505 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 51,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(271,899)\c&HFFFFFF&\blur1\p1}m 15 0 l 1505 0 b 1512 0 1520 8 1520 15 l 1520 69 b 1520 76 1512 84 1505 84 l 15 84 b 8 84 0 76 0 69 l 0 15 b 0 8 8 0 15 0
+Dialogue: 52,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(290,918)\c&H000000&\1a&HA0&\blur1.6}The official cause was determined to be "growth accelerating chemicals and sweeteners".
+Dialogue: 53,0:22:01.47,0:22:09.93,Trivia,,0,0,0,fx,{\pos(290,918)\c&H000000&\blur0.8}The official cause was determined to be "growth accelerating chemicals and sweeteners".
 
 [Aegisub Extradata]
 Data: 20,_aegi_folddata,e0;0;1
